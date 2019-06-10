@@ -1,0 +1,12 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pageviews": "^1.4.2",
+    "require-folder-tree": "^1.4.7",
+    "slugify": "^1.3.4",
+    "wikijs": "^5.2.1"
+  }
+}
