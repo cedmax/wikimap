@@ -5,21 +5,29 @@ const wiki = wikijs({ apiUrl: "http://it.wikipedia.org/w/api.php" });
 
 const cache = {};
 const getPages = async page => wiki.pagesInCategory(page);
-
+const normalise = (str = "") => str.replace(" (Italia)", "");
+const slug = str => slugify(str.replace(/\'/g, "--"));
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-const saveFile = file =>
-  !!file &&
-  !!cache[file] &&
-  fs.writeFileSync(
-    `./data/${slugify(file)}.json`,
-    JSON.stringify([...new Set(cache[file])], null, 4),
-    "utf-8"
-  ) &&
-  delete cache[file];
-
+const saveFile = file => {
+  if (!!file && !!cache[file]) {
+    fs.writeFileSync(
+      `./data/${slug(file)}.json`,
+      JSON.stringify(
+        {
+          name: file,
+          people: [...new Set(cache[file])],
+        },
+        null,
+        4
+      ),
+      "utf-8"
+    );
+    delete cache[file];
+  }
+};
 let previous;
-const rgx = /Categoria:([A-Za-z\s]+)/;
-const rgxTop = /Categoria:Persone legate a(d)? ([A-Za-z\s]+)/;
+const rgx = /Categoria:(.+)/;
+const rgxTop = /Categoria:Persone legate a(d)? (.+)/;
 const loopOverList = async (pages, groupBy) => {
   for (let i = 0; i < pages.length; i++) {
     const page = pages[i];
@@ -29,32 +37,38 @@ const loopOverList = async (pages, groupBy) => {
 
       if (page.match(rgxTop) || (groupBy && !page.match(rgxTop))) {
         if (page.match(rgxTop)) {
+          if (fs.existsSync(`./data/${slug(page.match(rgxTop)[2])}.json`)) {
+            continue;
+          }
+        }
+        if (page.match(rgxTop)) {
           groupBy = page.match(rgxTop)[2];
-          saveFile(previous);
+          console.log(groupBy);
+
+          saveFile(normalise(previous));
           previous = groupBy;
         }
-        console.log("processing", groupBy, page);
+        console.log(" ", page);
         try {
           children = await getPages(page);
         } catch (e) {
           console.log("waiting in", page);
-          await sleep(5000);
+          await sleep(2000);
           children = await getPages(page);
         }
-
         await loopOverList(children, groupBy);
       }
     } else {
       if (
         !groupBy ||
         page.match(
-          /Villa([A-Za-z\ ]+)|Castello([A-Za-z\ ]+)|Palazzo([A-Za-z\ ]+)|Rocca([A-Za-z\ ]+)|Conti di ([A-Za-z\ ]+)|Duchi di ([A-Za-z\ ]+)|Sindaci di ([A-Za-z\ ]+)|Tiranni di ([A-Za-z\ ]+)/
+          /^Consorti(.+)|^Sovrani(.+)|^Allenatori(.+)|^Calciatori(.+)|^Villa(.+)|^Castello(.+)|^Palazzo(.+)|^Rocca(.+)|^Conti di (.+)|^Duchi di (.+)|^Sindaci di (.+)|^Tiranni di (.+)/
         )
       ) {
         return;
       }
-      cache[groupBy] = cache[groupBy] || [];
-      cache[groupBy].push(page);
+      cache[normalise(groupBy)] = cache[normalise(groupBy)] || [];
+      cache[normalise(groupBy)].push(page);
     }
   }
 };

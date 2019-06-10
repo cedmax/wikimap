@@ -4,11 +4,12 @@ const requireFolderTree = require("require-folder-tree");
 const citiesData = requireFolderTree(`${__dirname}/data`);
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-const end = new Date();
+const end = new Date("2019-06-01");
 const start = new Date(end - 365 * 24 * 60 * 60 * 1000);
+const chunkSize = 10;
 
 const getPageViews = async (acc, array) => {
-  const list = array.splice(0, 3);
+  const list = array.splice(0, chunkSize);
   let pageViewData;
   try {
     pageViewData = await pageviews.getPerArticlePageviews({
@@ -19,7 +20,7 @@ const getPageViews = async (acc, array) => {
     });
   } catch (e) {
     console.log("ouch, retrying");
-    await sleep(2000);
+    await sleep(5000);
     pageViewData = await pageviews.getPerArticlePageviews({
       articles: list,
       project: "it.wikipedia",
@@ -38,7 +39,7 @@ const getPageViews = async (acc, array) => {
     }))
   );
   if (array.length) {
-    console.log("next chunk:", Math.ceil(array.length / 3), "missing");
+    console.log(Math.ceil(array.length / chunkSize));
     return await getPageViews(acc, array);
   } else {
     return acc;
@@ -50,17 +51,20 @@ const getPageViews = async (acc, array) => {
 
   for (let i = 0; i < cities.length; i++) {
     if (!fs.existsSync(`./results/${cities[i]}.json`)) {
-      const chunks = Math.ceil(citiesData[cities[i]].length / 3);
-      console.log("expecting", chunks, "chunks");
-
-      const results = await getPageViews([], citiesData[cities[i]]);
+      const { people, name } = citiesData[cities[i]];
+      const chunks = Math.ceil(people.length / chunkSize);
+      console.log(name, "=>", chunks, "chunks");
+      const results = await getPageViews([], people);
 
       fs.writeFileSync(
         `./results/${cities[i]}.json`,
         JSON.stringify(
-          results.sort(
-            ({ pageView }, { pageView: pageViewb }) => pageViewb - pageView
-          ),
+          {
+            name,
+            people: results.sort(
+              ({ pageView }, { pageView: pageViewb }) => pageViewb - pageView
+            ),
+          },
           null,
           4
         ),
