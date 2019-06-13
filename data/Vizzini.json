@@ -1,9 +1,12 @@
-[
-    "Corrado Cafici",
-    "Alfredo Mazzone",
-    "Matteo Agosta",
-    "Giovanni de Lorenzo",
-    "Lucio Marineo Siculo",
-    "Giovanni Selvaggi",
-    "Giovanni Verga"
-]
+{
+    "name": "Vizzini",
+    "people": [
+        "Corrado Cafici",
+        "Alfredo Mazzone",
+        "Matteo Agosta",
+        "Giovanni de Lorenzo",
+        "Lucio Marineo Siculo",
+        "Giovanni Selvaggi",
+        "Giovanni Verga"
+    ]
+}

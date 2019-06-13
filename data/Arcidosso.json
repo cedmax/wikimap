@@ -1,11 +1,14 @@
-[
-    "Isidoro Maggi",
-    "Namkhai Norbu",
-    "Giovan Domenico Peri",
-    "Massimo Alessandri",
-    "Apollonio Apolloni",
-    "Telemaco Ferrini",
-    "Davide Lazzaretti",
-    "Romolo Lazzaretti",
-    "Otello Terzani"
-]
+{
+    "name": "Arcidosso",
+    "people": [
+        "Isidoro Maggi",
+        "Namkhai Norbu",
+        "Giovan Domenico Peri",
+        "Massimo Alessandri",
+        "Apollonio Apolloni",
+        "Telemaco Ferrini",
+        "Davide Lazzaretti",
+        "Romolo Lazzaretti",
+        "Otello Terzani"
+    ]
+}

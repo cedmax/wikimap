@@ -1,12 +1,15 @@
-[
-    "Giuseppe Buttà",
-    "Cono di Naso",
-    "Aurelio Drago",
-    "Ignazio Drago",
-    "Calogero Giallanza",
-    "Antonino Giuffrè (editore)",
-    "Franco Ipsaro Passione",
-    "Ubaldo Lo Presti",
-    "Francesco Lo Sardo",
-    "Giovanni Raffaele"
-]
+{
+    "name": "Naso",
+    "people": [
+        "Giuseppe Buttà",
+        "Cono di Naso",
+        "Aurelio Drago",
+        "Ignazio Drago",
+        "Calogero Giallanza",
+        "Antonino Giuffrè (editore)",
+        "Franco Ipsaro Passione",
+        "Ubaldo Lo Presti",
+        "Francesco Lo Sardo",
+        "Giovanni Raffaele"
+    ]
+}

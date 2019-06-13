@@ -1,13 +1,16 @@
-[
-    "Giuseppe Ricca Salerno",
-    "Luigi Vasi",
-    "Benedetto da San Fratello",
-    "Giuseppe Caiola",
-    "Domenico Giovanni Candela",
-    "Filadelfio Caroniti",
-    "Antonino Di Giorgio",
-    "Paolo Ricca Salerno",
-    "Benedetto Rubino",
-    "Joe Stracci",
-    "Ferdinando Tetamo"
-]
+{
+    "name": "San Fratello",
+    "people": [
+        "Giuseppe Ricca Salerno",
+        "Luigi Vasi",
+        "Benedetto da San Fratello",
+        "Giuseppe Caiola",
+        "Domenico Giovanni Candela",
+        "Filadelfio Caroniti",
+        "Antonino Di Giorgio",
+        "Paolo Ricca Salerno",
+        "Benedetto Rubino",
+        "Joe Stracci",
+        "Ferdinando Tetamo"
+    ]
+}

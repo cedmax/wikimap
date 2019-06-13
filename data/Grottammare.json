@@ -1,16 +1,19 @@
-[
-    "Guido Cappelloni",
-    "Gaetano Vannicola",
-    "Antonio Brutti",
-    "Andrea Concetti",
-    "Francesco Crucioli",
-    "Danilo De' Cocci",
-    "Pericle Fazzini",
-    "Vincenzo Franceschini",
-    "Giulio Laureati",
-    "Guglielmo Mecozzi",
-    "Fabio Roscioli",
-    "Sforza Secondo Sforza",
-    "Papa Sisto V",
-    "Alceo Speranza"
-]
+{
+    "name": "Grottammare",
+    "people": [
+        "Guido Cappelloni",
+        "Gaetano Vannicola",
+        "Antonio Brutti",
+        "Andrea Concetti",
+        "Francesco Crucioli",
+        "Danilo De' Cocci",
+        "Pericle Fazzini",
+        "Vincenzo Franceschini",
+        "Giulio Laureati",
+        "Guglielmo Mecozzi",
+        "Fabio Roscioli",
+        "Sforza Secondo Sforza",
+        "Papa Sisto V",
+        "Alceo Speranza"
+    ]
+}

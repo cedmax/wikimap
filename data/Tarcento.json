@@ -1,22 +1,25 @@
-[
-    "Gian Paolo Thanner",
-    "Angelo Angeli",
-    "Benito Boldi",
-    "Guido Boldi",
-    "Mario Boldi",
-    "Luigi Nicolò Castellana",
-    "Luciano Ceschia",
-    "Mario Colautti",
-    "Giancarlo Cruder",
-    "Eugenio Driutti",
-    "Chino Ermacora",
-    "Cornelio Frangipane il Giovane",
-    "Ugo Giavitto",
-    "Claudio Giorgi",
-    "Innocenzo Maria Liruti",
-    "Luigi Miconi",
-    "Aldo Moretti",
-    "Romolo Remigi",
-    "Ottaviano Toso",
-    "Sandro Vanello"
-]
+{
+    "name": "Tarcento",
+    "people": [
+        "Gian Paolo Thanner",
+        "Angelo Angeli",
+        "Benito Boldi",
+        "Guido Boldi",
+        "Mario Boldi",
+        "Luigi Nicolò Castellana",
+        "Luciano Ceschia",
+        "Mario Colautti",
+        "Giancarlo Cruder",
+        "Eugenio Driutti",
+        "Chino Ermacora",
+        "Cornelio Frangipane il Giovane",
+        "Ugo Giavitto",
+        "Claudio Giorgi",
+        "Innocenzo Maria Liruti",
+        "Luigi Miconi",
+        "Aldo Moretti",
+        "Romolo Remigi",
+        "Ottaviano Toso",
+        "Sandro Vanello"
+    ]
+}

@@ -62,7 +62,7 @@ const loopOverList = async (pages, groupBy) => {
       if (
         !groupBy ||
         page.match(
-          /^Consorti(.+)|^Sovrani(.+)|^Allenatori(.+)|^Calciatori(.+)|^Villa(.+)|^Castello(.+)|^Palazzo(.+)|^Rocca(.+)|^Conti di (.+)|^Duchi di (.+)|^Sindaci di (.+)|^Tiranni di (.+)/
+          /^Vicer(.+)|^Consorti(.+)|^Sovrani(.+)|^Allenatori(.+)|^Calciatori(.+)|^Villa(.+)|^Castello(.+)|^Palazzo(.+)|^Rocca(.+)|^Conti di (.+)|^Duchi di (.+)|^Sindaci di (.+)|^Tiranni di (.+)/
         )
       ) {
         return;

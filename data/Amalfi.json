@@ -1,22 +1,25 @@
-[
-    "Beniamino Depalma",
-    "Orazio Soricelli",
-    "Francesco Amodio",
-    "Giovanna d'Aragona (1477-1510)",
-    "Aldo De Maria",
-    "Demetrio del Monferrato",
-    "Flavio Gioia",
-    "Martino Megale",
-    "Domenico Ventura (arcivescovo)",
-    "Gaetano Afeltra",
-    "Matteo Camera",
-    "Isabella Camera d'Afflitto",
-    "Emidio Ciucci",
-    "Gerolamo Dandolfi",
-    "Andrea De Pino",
-    "Ignazio Lucibello",
-    "Marino del Giudice",
-    "Pietro Scoppetta",
-    "Antonio Tirabassi",
-    "Stefano Quaranta (arcivescovo)"
-]
+{
+    "name": "Amalfi",
+    "people": [
+        "Beniamino Depalma",
+        "Orazio Soricelli",
+        "Francesco Amodio",
+        "Giovanna d'Aragona (1477-1510)",
+        "Aldo De Maria",
+        "Demetrio del Monferrato",
+        "Flavio Gioia",
+        "Martino Megale",
+        "Domenico Ventura (arcivescovo)",
+        "Gaetano Afeltra",
+        "Matteo Camera",
+        "Isabella Camera d'Afflitto",
+        "Emidio Ciucci",
+        "Gerolamo Dandolfi",
+        "Andrea De Pino",
+        "Ignazio Lucibello",
+        "Marino del Giudice",
+        "Pietro Scoppetta",
+        "Antonio Tirabassi",
+        "Stefano Quaranta (arcivescovo)"
+    ]
+}

@@ -1,11 +1,14 @@
-[
-    "Ilio Calabresi",
-    "Tancredi Canonico",
-    "Marcella De Marchis",
-    "Gastone Monaldi",
-    "Piero Nelli",
-    "Ferdinando Terruzzi",
-    "Alberto da Sarteano",
-    "Francesco Cennini de' Salamandri",
-    "Papa Pio III"
-]
+{
+    "name": "Sarteano",
+    "people": [
+        "Ilio Calabresi",
+        "Tancredi Canonico",
+        "Marcella De Marchis",
+        "Gastone Monaldi",
+        "Piero Nelli",
+        "Ferdinando Terruzzi",
+        "Alberto da Sarteano",
+        "Francesco Cennini de' Salamandri",
+        "Papa Pio III"
+    ]
+}

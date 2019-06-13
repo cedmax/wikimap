@@ -1,21 +1,24 @@
-[
-    "Antonio da Pontedera",
-    "Pomponio Palombo",
-    "Antonio Baboccio da Piperno",
-    "Romano Battisti",
-    "Dario Bernazza",
-    "Angelo Carosi",
-    "Pietro Coleberti",
-    "Reginaldo da Piperno",
-    "Paris Dell'Unto",
-    "Pietro Valeriano Duraguerra",
-    "Federico Fauttilli",
-    "Enrico Giusti",
-    "Domenico Marzi",
-    "Carlo Picozza",
-    "Vincenzo Salamon",
-    "Andrea Santoro",
-    "Vincenzo Tomassi",
-    "Mariano Crociata",
-    "Giuseppe Petrocchi"
-]
+{
+    "name": "Priverno",
+    "people": [
+        "Antonio da Pontedera",
+        "Pomponio Palombo",
+        "Antonio Baboccio da Piperno",
+        "Romano Battisti",
+        "Dario Bernazza",
+        "Angelo Carosi",
+        "Pietro Coleberti",
+        "Reginaldo da Piperno",
+        "Paris Dell'Unto",
+        "Pietro Valeriano Duraguerra",
+        "Federico Fauttilli",
+        "Enrico Giusti",
+        "Domenico Marzi",
+        "Carlo Picozza",
+        "Vincenzo Salamon",
+        "Andrea Santoro",
+        "Vincenzo Tomassi",
+        "Mariano Crociata",
+        "Giuseppe Petrocchi"
+    ]
+}

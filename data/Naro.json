@@ -1,8 +1,11 @@
-[
-    "Pino Camilleri",
-    "Ignazio Di Sortino Specchi Gaetani",
-    "Vincenzo Riolo",
-    "Gaetano Graci",
-    "Giuseppe Messina (giurista)",
-    "Amedeo Vella"
-]
+{
+    "name": "Naro",
+    "people": [
+        "Pino Camilleri",
+        "Ignazio Di Sortino Specchi Gaetani",
+        "Vincenzo Riolo",
+        "Gaetano Graci",
+        "Giuseppe Messina (giurista)",
+        "Amedeo Vella"
+    ]
+}

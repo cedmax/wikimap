@@ -1,14 +1,17 @@
-[
-    "Michelangelo Abbado",
-    "Mario Camerini",
-    "Cosimo Canovetti",
-    "Gabriele D'Annunzio",
-    "Francesco Ercole",
-    "Maria Hardouin",
-    "Augusto Lozzia",
-    "Cristiano Ridomi",
-    "Ernesto Nathan Rogers",
-    "Eugenio Bava",
-    "Raffaella Curiel",
-    "Roberto Visentini"
-]
+{
+    "name": "Gardone Riviera",
+    "people": [
+        "Michelangelo Abbado",
+        "Mario Camerini",
+        "Cosimo Canovetti",
+        "Gabriele D'Annunzio",
+        "Francesco Ercole",
+        "Maria Hardouin",
+        "Augusto Lozzia",
+        "Cristiano Ridomi",
+        "Ernesto Nathan Rogers",
+        "Eugenio Bava",
+        "Raffaella Curiel",
+        "Roberto Visentini"
+    ]
+}

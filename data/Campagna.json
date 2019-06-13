@@ -1,16 +1,19 @@
-[
-    "Guerino Grimaldi",
-    "Luigi Moretti (arcivescovo)",
-    "Gerardo Pierro",
-    "Giovanni Angelo Anzani",
-    "Francesco Carducci",
-    "Carmine Cesarano",
-    "Francesco Saverio Fontana",
-    "Alessandro Leparulo",
-    "Camillo Mantuano",
-    "Jolando Nuzzi",
-    "Gaetano Pollio",
-    "Alessandro Scappi",
-    "Girolamo Scarampi",
-    "Costantino Testi"
-]
+{
+    "name": "Campagna",
+    "people": [
+        "Guerino Grimaldi",
+        "Luigi Moretti (arcivescovo)",
+        "Gerardo Pierro",
+        "Giovanni Angelo Anzani",
+        "Francesco Carducci",
+        "Carmine Cesarano",
+        "Francesco Saverio Fontana",
+        "Alessandro Leparulo",
+        "Camillo Mantuano",
+        "Jolando Nuzzi",
+        "Gaetano Pollio",
+        "Alessandro Scappi",
+        "Girolamo Scarampi",
+        "Costantino Testi"
+    ]
+}

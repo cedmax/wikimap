@@ -1,22 +1,25 @@
-[
-    "Duca di Nocera",
-    "Francesco Maria Domenico Carafa",
-    "Alfonso Carafa (duca di Nocera)",
-    "Ferdinando I Carafa",
-    "Ferdinando II Carafa",
-    "Tiberio Carafa",
-    "Francesco Maria Carafa",
-    "Francisco de Moura",
-    "Eleonora de Moura",
-    "Giovanna de Moura",
-    "Gilberto II Pio di Savoia",
-    "Isabella Pio di Savoia",
-    "Luigi Pio di Savoia",
-    "Antonio Valcarcel",
-    "Alfonso Maria de' Liguori",
-    "Simone Lunadoro",
-    "Angelo Solimena",
-    "Carlo Baldini (arcivescovo)",
-    "Nunzio Ferraiuoli",
-    "Ferdinando Lanza"
-]
+{
+    "name": "Nocera dei Pagani",
+    "people": [
+        "Duca di Nocera",
+        "Francesco Maria Domenico Carafa",
+        "Alfonso Carafa (duca di Nocera)",
+        "Ferdinando I Carafa",
+        "Ferdinando II Carafa",
+        "Tiberio Carafa",
+        "Francesco Maria Carafa",
+        "Francisco de Moura",
+        "Eleonora de Moura",
+        "Giovanna de Moura",
+        "Gilberto II Pio di Savoia",
+        "Isabella Pio di Savoia",
+        "Luigi Pio di Savoia",
+        "Antonio Valcarcel",
+        "Alfonso Maria de' Liguori",
+        "Simone Lunadoro",
+        "Angelo Solimena",
+        "Carlo Baldini (arcivescovo)",
+        "Nunzio Ferraiuoli",
+        "Ferdinando Lanza"
+    ]
+}

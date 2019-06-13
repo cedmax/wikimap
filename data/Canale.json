@@ -1,7 +1,10 @@
-[
-    "Domenico Durante",
-    "Francesco Delpiano",
-    "Bartolomeo Giachino",
-    "Giovanni Monchiero",
-    "Tommaso Villa"
-]
+{
+    "name": "Canale",
+    "people": [
+        "Domenico Durante",
+        "Francesco Delpiano",
+        "Bartolomeo Giachino",
+        "Giovanni Monchiero",
+        "Tommaso Villa"
+    ]
+}

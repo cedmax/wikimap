@@ -1,18 +1,21 @@
-[
-    "Cono da Teggiano",
-    "Antonio Mario Innamorato",
-    "Laverio (martire)",
-    "Gaetano Macchiaroli",
-    "Michele Pinto",
-    "Pomponio Leto",
-    "Umberto Luciano Altomare",
-    "Oronzo Caldarola",
-    "Camillo Tiberio",
-    "Aldo Forzoni",
-    "Felicissimo Stefano Tinivella",
-    "Valentino Vignone",
-    "Antonio De Luca",
-    "Bruno Schettino",
-    "Angelo Spinillo",
-    "Francesco Pio Tamburrino"
-]
+{
+    "name": "Teggiano",
+    "people": [
+        "Cono da Teggiano",
+        "Antonio Mario Innamorato",
+        "Laverio (martire)",
+        "Gaetano Macchiaroli",
+        "Michele Pinto",
+        "Pomponio Leto",
+        "Umberto Luciano Altomare",
+        "Oronzo Caldarola",
+        "Camillo Tiberio",
+        "Aldo Forzoni",
+        "Felicissimo Stefano Tinivella",
+        "Valentino Vignone",
+        "Antonio De Luca",
+        "Bruno Schettino",
+        "Angelo Spinillo",
+        "Francesco Pio Tamburrino"
+    ]
+}

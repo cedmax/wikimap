@@ -1,18 +1,21 @@
-[
-    "Dino Poggi",
-    "Cesare Alberti (calciatore 1904)",
-    "Guido Alberti (calciatore)",
-    "Antonio Atti",
-    "Agostino Baroni",
-    "Gilberto Baroni",
-    "Dino Fiorini",
-    "Giorgio Francia",
-    "Enelio Franzoni",
-    "Rudi Ghedini",
-    "Enio Gnudi",
-    "Giulietta Masina",
-    "Mario Melloni",
-    "Omero Schiassi",
-    "Aldo Tugnoli",
-    "Luca Vitali"
-]
+{
+    "name": "San Giorgio di Piano",
+    "people": [
+        "Dino Poggi",
+        "Cesare Alberti (calciatore 1904)",
+        "Guido Alberti (calciatore)",
+        "Antonio Atti",
+        "Agostino Baroni",
+        "Gilberto Baroni",
+        "Dino Fiorini",
+        "Giorgio Francia",
+        "Enelio Franzoni",
+        "Rudi Ghedini",
+        "Enio Gnudi",
+        "Giulietta Masina",
+        "Mario Melloni",
+        "Omero Schiassi",
+        "Aldo Tugnoli",
+        "Luca Vitali"
+    ]
+}

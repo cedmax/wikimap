@@ -1,15 +1,18 @@
-[
-    "Guglielmo Buccheri",
-    "Lucio Schirò",
-    "Giovanni Cartia (politico 1894)",
-    "Quintino Cataudella",
-    "Giuseppe Drago",
-    "Vincenzo Garofalo (carabiniere)",
-    "Valentino Gerratana",
-    "Piero Guccione",
-    "Mario Occhipinti",
-    "Venera Padua",
-    "Giuseppe Pisani (politico)",
-    "Severino Santiapichi",
-    "Giombattista Xiumè"
-]
+{
+    "name": "Scicli",
+    "people": [
+        "Guglielmo Buccheri",
+        "Lucio Schirò",
+        "Giovanni Cartia (politico 1894)",
+        "Quintino Cataudella",
+        "Giuseppe Drago",
+        "Vincenzo Garofalo (carabiniere)",
+        "Valentino Gerratana",
+        "Piero Guccione",
+        "Mario Occhipinti",
+        "Venera Padua",
+        "Giuseppe Pisani (politico)",
+        "Severino Santiapichi",
+        "Giombattista Xiumè"
+    ]
+}

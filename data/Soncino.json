@@ -1,21 +1,25 @@
-[
-    "Ezzelino III da Romano",
-    "Stefana Quinzani",
-    "Giovanni Zavaglio",
-    "Paolo Barbo (teologo)",
-    "Sergio Borgo",
-    "Renato Cappellini",
-    "Gaetano Cattaneo",
-    "Paola Elisabetta Cerioli",
-    "Silvana Comaroli",
-    "Ambrosino da Tormoli",
-    "Mino Denti",
-    "Marilena Ferrari",
-    "Cabrino Fondulo",
-    "Orazio Guarguanti",
-    "Antonio Gussalli",
-    "Giacomo Losi",
-    "Piero Manzoni",
-    "Lisa Morpurgo",
-    "Battista Restelli"
-]
+{
+    "name": "Soncino",
+    "people": [
+        "Ezzelino III da Romano",
+        "Stefana Quinzani",
+        "Giovanni Zavaglio",
+        "Paolo Barbo (teologo)",
+        "Sergio Borgo",
+        "Renato Cappellini",
+        "Gaetano Cattaneo",
+        "Paola Elisabetta Cerioli",
+        "Silvana Comaroli",
+        "Ambrosino da Tormoli",
+        "Mino Denti",
+        "Marilena Ferrari",
+        "Cabrino Fondulo",
+        "Orazio Guarguanti",
+        "Antonio Gussalli",
+        "Giacomo Losi",
+        "Piero Manzoni",
+        "Lisa Morpurgo",
+        "Battista Restelli",
+        "Alessandro Roccatagliata"
+    ]
+}

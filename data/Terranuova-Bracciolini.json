@@ -1,19 +1,22 @@
-[
-    "Venturino Venturi",
-    "Beppe Bigazzi",
-    "Poggio Bracciolini",
-    "Brunetto Bucciarelli-Ducci",
-    "Terzilio Cardinali",
-    "Bartolomeo Concini",
-    "Concino Concini",
-    "Fra Diamante",
-    "Ottorino Dugini",
-    "Federico Fazzuoli",
-    "Ezio Gallori",
-    "Giovanni Guerrini",
-    "Spartaco Landini",
-    "Lorenzo Mannozzi Torini",
-    "Aldobrando Medici Tornaquinci",
-    "Consalvo Sanesi",
-    "Anselmo Evangelista Sansoni"
-]
+{
+    "name": "Terranuova Bracciolini",
+    "people": [
+        "Venturino Venturi",
+        "Beppe Bigazzi",
+        "Poggio Bracciolini",
+        "Brunetto Bucciarelli-Ducci",
+        "Terzilio Cardinali",
+        "Bartolomeo Concini",
+        "Concino Concini",
+        "Fra Diamante",
+        "Ottorino Dugini",
+        "Federico Fazzuoli",
+        "Ezio Gallori",
+        "Giovanni Guerrini",
+        "Spartaco Landini",
+        "Lorenzo Mannozzi Torini",
+        "Aldobrando Medici Tornaquinci",
+        "Consalvo Sanesi",
+        "Anselmo Evangelista Sansoni"
+    ]
+}

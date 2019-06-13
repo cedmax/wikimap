@@ -1,13 +1,16 @@
-[
-    "Antonio Giacone",
-    "Vincenzo Navarro",
-    "Giuseppe Amorelli",
-    "Michelangelo Bonadies",
-    "Antonino Cuffaro",
-    "Fra Felice da Sambuca",
-    "Gianbecchina",
-    "Antonino Intelisano",
-    "Mike Merlo",
-    "Ignazio Milillo",
-    "Nico Tirone"
-]
+{
+    "name": "Sambuca di Sicilia",
+    "people": [
+        "Antonio Giacone",
+        "Vincenzo Navarro",
+        "Giuseppe Amorelli",
+        "Michelangelo Bonadies",
+        "Antonino Cuffaro",
+        "Fra Felice da Sambuca",
+        "Gianbecchina",
+        "Antonino Intelisano",
+        "Mike Merlo",
+        "Ignazio Milillo",
+        "Nico Tirone"
+    ]
+}

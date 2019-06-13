@@ -1,20 +1,23 @@
-[
-    "Daria di Venafro",
-    "Amerigo Iannacone",
-    "Jacovella da Celano",
-    "Teodoro Salzillo",
-    "Antonio Giordano",
-    "Enzo Guarini",
-    "Vincenzo Manes",
-    "Claudio Palumbo",
-    "Aldo Patriciello",
-    "Leopoldo Pilla",
-    "Maurizio Santilli",
-    "Ettore Di Filippo",
-    "Pietro Tesauri",
-    "Camillo Cibotti",
-    "Andrea Gemma",
-    "Salvatore Visco",
-    "Andrea Matteo Acquaviva d'Aragona",
-    "Ladislao d'Aquino"
-]
+{
+    "name": "Venafro",
+    "people": [
+        "Daria di Venafro",
+        "Amerigo Iannacone",
+        "Jacovella da Celano",
+        "Teodoro Salzillo",
+        "Antonio Giordano",
+        "Enzo Guarini",
+        "Vincenzo Manes",
+        "Claudio Palumbo",
+        "Aldo Patriciello",
+        "Leopoldo Pilla",
+        "Maurizio Santilli",
+        "Ettore Di Filippo",
+        "Pietro Tesauri",
+        "Camillo Cibotti",
+        "Andrea Gemma",
+        "Salvatore Visco",
+        "Andrea Matteo Acquaviva d'Aragona",
+        "Ladislao d'Aquino"
+    ]
+}

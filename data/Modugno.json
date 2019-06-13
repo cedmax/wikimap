@@ -1,17 +1,20 @@
-[
-    "Alberto Crispo Cappai",
-    "Corrado di Baviera",
-    "Nicola Longo",
-    "Angelo Saponara",
-    "Giuseppe Brindisi",
-    "Franco Casavola",
-    "Nicola De Feo",
-    "Sandro De Feo",
-    "Franco Di Ciaula",
-    "Lorenzo Illuzzi",
-    "Nino Lepore",
-    "Nicola Magrone",
-    "Michele Piccirillo (pugile)",
-    "Giovanni Battista Stella",
-    "Rocco Stella"
-]
+{
+    "name": "Modugno",
+    "people": [
+        "Alberto Crispo Cappai",
+        "Corrado di Baviera",
+        "Nicola Longo",
+        "Angelo Saponara",
+        "Giuseppe Brindisi",
+        "Franco Casavola",
+        "Nicola De Feo",
+        "Sandro De Feo",
+        "Franco Di Ciaula",
+        "Lorenzo Illuzzi",
+        "Nino Lepore",
+        "Nicola Magrone",
+        "Michele Piccirillo (pugile)",
+        "Giovanni Battista Stella",
+        "Rocco Stella"
+    ]
+}

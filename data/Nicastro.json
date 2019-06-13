@@ -1,22 +1,25 @@
-[
-    "Pietro Ardito (presbitero)",
-    "Nicola Berlingeri",
-    "Carlo Cataldi",
-    "Maria Elia De Seta Pignatelli",
-    "Francesco Maria Loyero",
-    "Giovan Tommaso Perrone",
-    "Salvatore Renda",
-    "Francesco Stocco",
-    "Carlo Carlei",
-    "Massimo Cimino",
-    "Vinicio Cortese",
-    "Guido D'Ippolito",
-    "Pietro De Sensi",
-    "Dario Galli",
-    "Antonio Marasco (pittore)",
-    "Vincenzo Mazzei",
-    "Arturo Perugini",
-    "Danilo Pileggi",
-    "Armando Scarpino",
-    "Marcello Vitale"
-]
+{
+    "name": "Nicastro",
+    "people": [
+        "Pietro Ardito (presbitero)",
+        "Nicola Berlingeri",
+        "Carlo Cataldi",
+        "Maria Elia De Seta Pignatelli",
+        "Francesco Maria Loyero",
+        "Giovan Tommaso Perrone",
+        "Salvatore Renda",
+        "Francesco Stocco",
+        "Carlo Carlei",
+        "Massimo Cimino",
+        "Vinicio Cortese",
+        "Guido D'Ippolito",
+        "Pietro De Sensi",
+        "Dario Galli",
+        "Antonio Marasco (pittore)",
+        "Vincenzo Mazzei",
+        "Arturo Perugini",
+        "Danilo Pileggi",
+        "Armando Scarpino",
+        "Marcello Vitale"
+    ]
+}

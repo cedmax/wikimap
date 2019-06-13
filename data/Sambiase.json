@@ -1,17 +1,20 @@
-[
-    "Salvatore Borelli",
-    "Enrico Borrello",
-    "Franco Costabile",
-    "Francesco Fiorentino",
-    "Giovanni Nicotera",
-    "Giuseppe Lelio Petronio",
-    "Francesco Ruberto",
-    "Nicola Berlingeri",
-    "Luigi Antonio Cantafora",
-    "Papa Innocenzo IX",
-    "Francesco Maria Loyero",
-    "Papa Marcello II",
-    "Carlo Pellegrini",
-    "Giovan Tommaso Perrone",
-    "Domenico Maria Valensise"
-]
+{
+    "name": "Sambiase",
+    "people": [
+        "Salvatore Borelli",
+        "Enrico Borrello",
+        "Franco Costabile",
+        "Francesco Fiorentino",
+        "Giovanni Nicotera",
+        "Giuseppe Lelio Petronio",
+        "Francesco Ruberto",
+        "Nicola Berlingeri",
+        "Luigi Antonio Cantafora",
+        "Papa Innocenzo IX",
+        "Francesco Maria Loyero",
+        "Papa Marcello II",
+        "Carlo Pellegrini",
+        "Giovan Tommaso Perrone",
+        "Domenico Maria Valensise"
+    ]
+}

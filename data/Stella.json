@@ -1,7 +1,10 @@
-[
-    "Ernesto Rayper",
-    "Bartolomeo Bolla",
-    "Sandro Pertini",
-    "Vincenzo Rossello",
-    "Vittorio Rossello"
-]
+{
+    "name": "Stella",
+    "people": [
+        "Ernesto Rayper",
+        "Bartolomeo Bolla",
+        "Sandro Pertini",
+        "Vincenzo Rossello",
+        "Vittorio Rossello"
+    ]
+}

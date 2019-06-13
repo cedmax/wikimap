@@ -1,21 +1,24 @@
-[
-    "Arduino Berlam",
-    "Bernardino da Bissone",
-    "Luigi De Puppi",
-    "Giuseppe Girardini",
-    "Max Piccini",
-    "Onofrio Pirrotta",
-    "Ermes Amilcare Zumino",
-    "Alberto Asquini",
-    "Maria Luisa Astaldi",
-    "Luca Bertossio",
-    "Aridex Calligaris",
-    "Stefano De Agostini",
-    "Bruno di Montegnacco",
-    "Giovanni Ellero",
-    "Giuliano Fortunato",
-    "Sante Patussi",
-    "Plinio Petrozzi",
-    "Luigi Antonio Tami",
-    "Mario Tosolini"
-]
+{
+    "name": "Tricesimo",
+    "people": [
+        "Arduino Berlam",
+        "Bernardino da Bissone",
+        "Luigi De Puppi",
+        "Giuseppe Girardini",
+        "Max Piccini",
+        "Onofrio Pirrotta",
+        "Ermes Amilcare Zumino",
+        "Alberto Asquini",
+        "Maria Luisa Astaldi",
+        "Luca Bertossio",
+        "Aridex Calligaris",
+        "Stefano De Agostini",
+        "Bruno di Montegnacco",
+        "Giovanni Ellero",
+        "Giuliano Fortunato",
+        "Sante Patussi",
+        "Plinio Petrozzi",
+        "Luigi Antonio Tami",
+        "Mario Tosolini"
+    ]
+}

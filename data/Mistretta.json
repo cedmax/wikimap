@@ -1,19 +1,22 @@
-[
-    "Pasquale Azzolina",
-    "Noé Marullo",
-    "Antonino Pagliaro",
-    "Ernesto Almirante",
-    "Tommaso Aversa",
-    "Raffaele Cantarella",
-    "Giuseppe Cocchiara",
-    "Antonino Lombardo (maresciallo)",
-    "Vincenzo Madonia",
-    "Vincenzo Modica",
-    "Antonio Pagliaro (giurista)",
-    "Luciano Pagliaro",
-    "Pietro Rampulla",
-    "Sebastiano Rampulla",
-    "Sebastiano Sanzarello",
-    "Gaetano Testa",
-    "Vincenzo Tusa"
-]
+{
+    "name": "Mistretta",
+    "people": [
+        "Pasquale Azzolina",
+        "Noé Marullo",
+        "Antonino Pagliaro",
+        "Ernesto Almirante",
+        "Tommaso Aversa",
+        "Raffaele Cantarella",
+        "Giuseppe Cocchiara",
+        "Antonino Lombardo (maresciallo)",
+        "Vincenzo Madonia",
+        "Vincenzo Modica",
+        "Antonio Pagliaro (giurista)",
+        "Luciano Pagliaro",
+        "Pietro Rampulla",
+        "Sebastiano Rampulla",
+        "Sebastiano Sanzarello",
+        "Gaetano Testa",
+        "Vincenzo Tusa"
+    ]
+}

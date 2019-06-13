@@ -1,12 +1,15 @@
-[
-    "Guido Boni (ginnasta)",
-    "Mario Ferrero (regista)",
-    "Beato Angelico",
-    "Bianca Bianchi",
-    "Guido Boni (ciclista)",
-    "Giotto",
-    "Carlo Lapucci",
-    "Giovanni Malesci",
-    "Giuliano Piovanelli",
-    "Sandro Vignini"
-]
+{
+    "name": "Vicchio",
+    "people": [
+        "Guido Boni (ginnasta)",
+        "Mario Ferrero (regista)",
+        "Beato Angelico",
+        "Bianca Bianchi",
+        "Guido Boni (ciclista)",
+        "Giotto",
+        "Carlo Lapucci",
+        "Giovanni Malesci",
+        "Giuliano Piovanelli",
+        "Sandro Vignini"
+    ]
+}

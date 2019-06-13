@@ -1,12 +1,15 @@
-[
-    "Domenico Galaverna",
-    "Bernardo de' Rossi (XIII secolo)",
-    "Gennaro Auricchio",
-    "Armando Belletti",
-    "Mara Colla",
-    "Ettore Guatelli",
-    "Renzo Merusi",
-    "Ferdinando Rebecchi",
-    "Giuseppe Romanini",
-    "Calisto Tanzi"
-]
+{
+    "name": "Collecchio",
+    "people": [
+        "Domenico Galaverna",
+        "Bernardo de' Rossi (XIII secolo)",
+        "Gennaro Auricchio",
+        "Armando Belletti",
+        "Mara Colla",
+        "Ettore Guatelli",
+        "Renzo Merusi",
+        "Ferdinando Rebecchi",
+        "Giuseppe Romanini",
+        "Calisto Tanzi"
+    ]
+}

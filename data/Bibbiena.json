@@ -1,21 +1,24 @@
-[
-    "Maria Corsini",
-    "Francesco Mazzoni",
-    "Alberto Micheli Pellegrini",
-    "Mietta Baracchi Bavagnoli",
-    "Giovanni Bartolucci",
-    "Luigi Biggeri",
-    "Giuseppe Borghi",
-    "Sebastiano Calderini",
-    "Daniele Chiarini",
-    "Bernardo Dovizi da Bibbiena",
-    "Giovanni Maria Galli da Bibbiena",
-    "Giovanni Giovannini",
-    "Gian Pietro Marcucci Poltri",
-    "Carlo Ippolito Migliorini",
-    "Pasquale Poccianti",
-    "Luca Ricci (calciatore)",
-    "Andrea Rossi (pallavolista 1989)",
-    "Gino Tellini",
-    "Valdo Vannucci"
-]
+{
+    "name": "Bibbiena",
+    "people": [
+        "Maria Corsini",
+        "Francesco Mazzoni",
+        "Alberto Micheli Pellegrini",
+        "Mietta Baracchi Bavagnoli",
+        "Giovanni Bartolucci",
+        "Luigi Biggeri",
+        "Giuseppe Borghi",
+        "Sebastiano Calderini",
+        "Daniele Chiarini",
+        "Bernardo Dovizi da Bibbiena",
+        "Giovanni Maria Galli da Bibbiena",
+        "Giovanni Giovannini",
+        "Gian Pietro Marcucci Poltri",
+        "Carlo Ippolito Migliorini",
+        "Pasquale Poccianti",
+        "Luca Ricci (calciatore)",
+        "Andrea Rossi (pallavolista 1989)",
+        "Gino Tellini",
+        "Valdo Vannucci"
+    ]
+}

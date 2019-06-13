@@ -1,13 +1,16 @@
-[
-    "Gino Barbieri",
-    "Julio Bavastro",
-    "Fratelli Calvi",
-    "Guido Maifreni",
-    "Enzo Petraccone",
-    "Raffaele Stasi",
-    "Giancarlo Gloder",
-    "Virginio Lunardi",
-    "Severino Rigoni",
-    "Beniamino Schivo",
-    "Lucio Topatigh"
-]
+{
+    "name": "Gallio",
+    "people": [
+        "Gino Barbieri",
+        "Julio Bavastro",
+        "Fratelli Calvi",
+        "Guido Maifreni",
+        "Enzo Petraccone",
+        "Raffaele Stasi",
+        "Giancarlo Gloder",
+        "Virginio Lunardi",
+        "Severino Rigoni",
+        "Beniamino Schivo",
+        "Lucio Topatigh"
+    ]
+}

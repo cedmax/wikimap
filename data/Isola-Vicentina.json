@@ -1,7 +1,10 @@
-[
-    "Anacleto Milani",
-    "Gioacchino Stevan",
-    "Arduino Bertoldo",
-    "Giuseppe Faggin",
-    "Valentino Gasparella"
-]
+{
+    "name": "Isola Vicentina",
+    "people": [
+        "Anacleto Milani",
+        "Gioacchino Stevan",
+        "Arduino Bertoldo",
+        "Giuseppe Faggin",
+        "Valentino Gasparella"
+    ]
+}

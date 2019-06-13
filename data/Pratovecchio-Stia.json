@@ -1,18 +1,21 @@
-[
-    "Cristoforo Landino",
-    "Pio Borri",
-    "Donato Albanzani",
-    "Giovanni del Biondo",
-    "Jacopo del Casentino",
-    "Antonio da Pratovecchio",
-    "Agnolo Monosini",
-    "Paolo Uccello",
-    "Vittorio Ruglioni",
-    "Ambrogio Soldani",
-    "Jacopo Vignali",
-    "Carlo Beni",
-    "Pier Quinto Cariaggi",
-    "Alberto Pietrini",
-    "Remo Squillantini",
-    "Bernardo Tanucci"
-]
+{
+    "name": "Pratovecchio Stia",
+    "people": [
+        "Cristoforo Landino",
+        "Pio Borri",
+        "Donato Albanzani",
+        "Giovanni del Biondo",
+        "Jacopo del Casentino",
+        "Antonio da Pratovecchio",
+        "Agnolo Monosini",
+        "Paolo Uccello",
+        "Vittorio Ruglioni",
+        "Ambrogio Soldani",
+        "Jacopo Vignali",
+        "Carlo Beni",
+        "Pier Quinto Cariaggi",
+        "Alberto Pietrini",
+        "Remo Squillantini",
+        "Bernardo Tanucci"
+    ]
+}

@@ -1,11 +1,14 @@
-[
-    "Goffredo Borgia",
-    "Vito Napoli",
-    "Florestano Pepe",
-    "Guglielmo Pepe",
-    "Guido Rhodio",
-    "Enrique de Borja y Aragón",
-    "Antonio Cantisani",
-    "Guglielmo Sirleto",
-    "Eugenio Tosi"
-]
+{
+    "name": "Squillace",
+    "people": [
+        "Goffredo Borgia",
+        "Vito Napoli",
+        "Florestano Pepe",
+        "Guglielmo Pepe",
+        "Guido Rhodio",
+        "Enrique de Borja y Aragón",
+        "Antonio Cantisani",
+        "Guglielmo Sirleto",
+        "Eugenio Tosi"
+    ]
+}

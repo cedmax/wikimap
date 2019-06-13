@@ -1,11 +1,14 @@
-[
-    "Gerolamo Mordeglia",
-    "Pietro Costa",
-    "Damaso da Celle Ligure",
-    "Gianluigi De Marchi",
-    "Franco Monzino",
-    "Giuseppe Olmo",
-    "Massimo Quaini",
-    "Silvio Ravera",
-    "Papa Sisto IV"
-]
+{
+    "name": "Celle Ligure",
+    "people": [
+        "Gerolamo Mordeglia",
+        "Pietro Costa",
+        "Damaso da Celle Ligure",
+        "Gianluigi De Marchi",
+        "Franco Monzino",
+        "Giuseppe Olmo",
+        "Massimo Quaini",
+        "Silvio Ravera",
+        "Papa Sisto IV"
+    ]
+}
