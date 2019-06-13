@@ -3,6 +3,7 @@ const fs = require("fs");
 const requireFolderTree = require("require-folder-tree");
 const rimraf = require("rimraf");
 const citiesData = requireFolderTree(`${__dirname}/data`);
+
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const end = new Date();
 const start = new Date(end - 5 * 365 * 24 * 60 * 60 * 1000);

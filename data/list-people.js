@@ -11,7 +11,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const saveFile = file => {
   if (!!file && !!cache[file]) {
     fs.writeFileSync(
-      `./data/${slug(file)}.json`,
+      `./lists/${slug(file)}.json`,
       JSON.stringify(
         {
           name: file,
@@ -37,7 +37,7 @@ const loopOverList = async (pages, groupBy) => {
 
       if (page.match(rgxTop) || (groupBy && !page.match(rgxTop))) {
         if (page.match(rgxTop)) {
-          if (fs.existsSync(`./data/${slug(page.match(rgxTop)[2])}.json`)) {
+          if (fs.existsSync(`./lists/${slug(page.match(rgxTop)[2])}.json`)) {
             continue;
           }
         }
