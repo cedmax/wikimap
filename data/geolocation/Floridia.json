@@ -1,0 +1,27 @@
+{
+    "id": "place.11377404696233580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Floridia",
+    "place_name": "Floridia, Siracusa, Italy",
+    "bbox": [
+        15.040781,
+        37.06413,
+        15.172992,
+        37.098283
+    ],
+    "center": [
+        15.15,
+        37.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.15,
+            37.08333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12262633573795070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Omegna",
+    "place_name": "Omegna, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.364735,
+        45.829835,
+        8.457891,
+        45.903738
+    ],
+    "center": [
+        8.4,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4,
+            45.86667
+        ]
+    }
+}

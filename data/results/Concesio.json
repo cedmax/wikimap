@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Papa Paolo VI",
-            "pageView": 826468
-        },
-        {
-            "page": "Giorgio Montini",
-            "pageView": 15234
+            "pageView": 443,
+            "total": 826814
         },
         {
             "page": "Graziano Mancinelli",
-            "pageView": 14464
+            "pageView": 8,
+            "total": 14470
+        },
+        {
+            "page": "Giorgio Montini",
+            "pageView": 8,
+            "total": 15244
         },
         {
             "page": "Giulio Nicolini",
-            "pageView": 4763
-        },
-        {
-            "page": "Girolamo Sangervasio",
-            "pageView": 2240
+            "pageView": 3,
+            "total": 4765
         },
         {
             "page": "Giovanni Battista Bosio",
-            "pageView": 1598
+            "pageView": 2,
+            "total": 1600
+        },
+        {
+            "page": "Girolamo Sangervasio",
+            "pageView": 2,
+            "total": 2241
         },
         {
             "page": "Giuseppe Zola (teologo)",
-            "pageView": 185
+            "pageView": 0,
+            "total": 186
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.13959530924110970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarno",
+    "place_name": "Sarno, Salerno, Italy",
+    "bbox": [
+        14.564367,
+        40.782261,
+        14.675227,
+        40.848663
+    ],
+    "center": [
+        14.61667,
+        40.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61667,
+            40.81667
+        ]
+    }
+}

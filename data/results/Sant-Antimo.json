@@ -3,139 +3,173 @@
     "people": [
         {
             "page": "Nicola Romeo",
-            "pageView": 96355
+            "pageView": 57,
+            "total": 96410
         },
         {
             "page": "Luigi Cesaro",
-            "pageView": 87045
+            "pageView": 33,
+            "total": 87103
         },
         {
             "page": "Giuseppe Puca",
-            "pageView": 53031
-        },
-        {
-            "page": "Alessandro Cittadini",
-            "pageView": 36663
-        },
-        {
-            "page": "Riccardo Moraschini",
-            "pageView": 32724
+            "pageView": 32,
+            "total": 53072
         },
         {
             "page": "Klaudio Ndoja",
-            "pageView": 29864
+            "pageView": 15,
+            "total": 29878
+        },
+        {
+            "page": "Alessandro Cittadini",
+            "pageView": 15,
+            "total": 36681
+        },
+        {
+            "page": "Riccardo Moraschini",
+            "pageView": 12,
+            "total": 32771
         },
         {
             "page": "Dante Calabria",
-            "pageView": 15163
+            "pageView": 7,
+            "total": 15165
         },
         {
             "page": "Nicola Mei",
-            "pageView": 11921
-        },
-        {
-            "page": "Gennaro Sorrentino",
-            "pageView": 11224
+            "pageView": 7,
+            "total": 12001
         },
         {
             "page": "Gennaro Di Carlo",
-            "pageView": 10147
-        },
-        {
-            "page": "Troy Bell",
-            "pageView": 9336
-        },
-        {
-            "page": "Marco Cardillo",
-            "pageView": 9288
-        },
-        {
-            "page": "Simone Berti",
-            "pageView": 7909
-        },
-        {
-            "page": "Jacopo Valentini",
-            "pageView": 7522
+            "pageView": 6,
+            "total": 10154
         },
         {
             "page": "Ciro Di Martino",
-            "pageView": 7430
+            "pageView": 6,
+            "total": 7431
+        },
+        {
+            "page": "Troy Bell",
+            "pageView": 6,
+            "total": 9348
+        },
+        {
+            "page": "Marco Cardillo",
+            "pageView": 5,
+            "total": 9300
+        },
+        {
+            "page": "Gennaro Sorrentino",
+            "pageView": 5,
+            "total": 11224
+        },
+        {
+            "page": "Simone Berti",
+            "pageView": 5,
+            "total": 7914
+        },
+        {
+            "page": "Jacopo Valentini",
+            "pageView": 5,
+            "total": 7524
         },
         {
             "page": "Folarin Campbell",
-            "pageView": 6708
-        },
-        {
-            "page": "Giacomo Eliantonio",
-            "pageView": 5178
-        },
-        {
-            "page": "Francesco Ponticiello",
-            "pageView": 5125
-        },
-        {
-            "page": "Luca Ianes",
-            "pageView": 4744
-        },
-        {
-            "page": "Pasquale Marrazzo",
-            "pageView": 4432
-        },
-        {
-            "page": "Claudio Acunzo",
-            "pageView": 4328
-        },
-        {
-            "page": "Damiano Dalfini",
-            "pageView": 4259
+            "pageView": 3,
+            "total": 6724
         },
         {
             "page": "Carlo Cantone",
-            "pageView": 4218
+            "pageView": 3,
+            "total": 4220
         },
         {
-            "page": "Marco Rossi (cestista)",
-            "pageView": 3893
+            "page": "Giacomo Eliantonio",
+            "pageView": 3,
+            "total": 5179
         },
         {
-            "page": "Alessandro Verde",
-            "pageView": 3672
+            "page": "Pasquale Marrazzo",
+            "pageView": 3,
+            "total": 4433
         },
         {
-            "page": "Furio De Monaco",
-            "pageView": 2623
+            "page": "Francesco Ponticiello",
+            "pageView": 3,
+            "total": 5132
+        },
+        {
+            "page": "Luca Ianes",
+            "pageView": 3,
+            "total": 4745
+        },
+        {
+            "page": "Claudio Acunzo",
+            "pageView": 3,
+            "total": 4328
+        },
+        {
+            "page": "Damiano Dalfini",
+            "pageView": 3,
+            "total": 4274
         },
         {
             "page": "Mike Gizzi",
-            "pageView": 2163
+            "pageView": 2,
+            "total": 2165
         },
         {
-            "page": "Nick George",
-            "pageView": 1883
+            "page": "Marco Rossi (cestista)",
+            "pageView": 2,
+            "total": 3895
         },
         {
-            "page": "Pierluigi Aprea",
-            "pageView": 1823
-        },
-        {
-            "page": "Nestoras Kommatos",
-            "pageView": 1804
-        },
-        {
-            "page": "Filippo Gagliardo",
-            "pageView": 1791
+            "page": "Alessandro Verde",
+            "pageView": 2,
+            "total": 3674
         },
         {
             "page": "Danilo Fevola",
-            "pageView": 1789
+            "pageView": 2,
+            "total": 1790
+        },
+        {
+            "page": "Filippo Gagliardo",
+            "pageView": 2,
+            "total": 1791
+        },
+        {
+            "page": "Furio De Monaco",
+            "pageView": 2,
+            "total": 2623
+        },
+        {
+            "page": "Nick George",
+            "pageView": 2,
+            "total": 1883
         },
         {
             "page": "David Teague",
-            "pageView": 1128
+            "pageView": 1,
+            "total": 1128
+        },
+        {
+            "page": "Nestoras Kommatos",
+            "pageView": 1,
+            "total": 1806
         },
         {
             "page": "Milivoje Božović",
-            "pageView": 1046
+            "pageView": 1,
+            "total": 1048
+        },
+        {
+            "page": "Pierluigi Aprea",
+            "pageView": 1,
+            "total": 1823
         }
     ]
 }

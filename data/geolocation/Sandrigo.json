@@ -1,0 +1,27 @@
+{
+    "id": "place.12811901939017150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sandrigo",
+    "place_name": "Sandrigo, Vicenza, Italy",
+    "bbox": [
+        11.562877,
+        45.619724,
+        11.665241,
+        45.682215
+    ],
+    "center": [
+        11.6,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            45.66667
+        ]
+    }
+}

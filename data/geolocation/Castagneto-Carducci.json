@@ -1,0 +1,27 @@
+{
+    "id": "place.11904345635391160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castagneto Carducci",
+    "place_name": "Castagneto Carducci, Livorno, Italy",
+    "bbox": [
+        10.528238,
+        43.098434,
+        10.690804,
+        43.247201
+    ],
+    "center": [
+        10.6,
+        43.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            43.16667
+        ]
+    }
+}

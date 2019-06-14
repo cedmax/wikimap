@@ -1,0 +1,27 @@
+{
+    "id": "place.13327193749141360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scicli",
+    "place_name": "Scicli, Ragusa, Italy",
+    "bbox": [
+        14.59538,
+        36.709783,
+        14.773733,
+        36.83967
+    ],
+    "center": [
+        14.70249,
+        36.79138
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.70249,
+            36.79138
+        ]
+    }
+}

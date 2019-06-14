@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Giuseppe Pillon",
-            "pageView": 125367
+            "pageView": 52,
+            "total": 125411
         },
         {
             "page": "Andrea Bruno Mazzocato",
-            "pageView": 21348
+            "pageView": 14,
+            "total": 21357
         },
         {
             "page": "Gianni Bortoletto",
-            "pageView": 12777
+            "pageView": 6,
+            "total": 12782
         },
         {
             "page": "Gino Simionato",
-            "pageView": 7338
+            "pageView": 4,
+            "total": 7353
         },
         {
             "page": "Alessandro Marcello Del Majno",
-            "pageView": 4349
+            "pageView": 3,
+            "total": 4353
         },
         {
             "page": "Pietro Buratti",
-            "pageView": 4210
-        },
-        {
-            "page": "Manlio Feruglio",
-            "pageView": 3966
+            "pageView": 2,
+            "total": 4210
         },
         {
             "page": "Ferruccio Capuzzo",
-            "pageView": 2736
+            "pageView": 2,
+            "total": 2736
         },
         {
-            "page": "Magalì Vettorazzo",
-            "pageView": 2431
+            "page": "Manlio Feruglio",
+            "pageView": 2,
+            "total": 3970
         },
         {
             "page": "Giuseppe Gabbin",
-            "pageView": 2068
+            "pageView": 2,
+            "total": 2068
+        },
+        {
+            "page": "Magalì Vettorazzo",
+            "pageView": 1,
+            "total": 2431
         }
     ]
 }

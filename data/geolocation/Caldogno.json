@@ -1,0 +1,27 @@
+{
+    "id": "place.12775122934887830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caldogno",
+    "place_name": "Caldogno, Vicenza, Italy",
+    "bbox": [
+        11.482384,
+        45.578441,
+        11.545366,
+        45.644494
+    ],
+    "center": [
+        11.5,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            45.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1084173260649800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valbondione",
+    "place_name": "Valbondione, Bergamo, Italy",
+    "bbox": [
+        9.906371,
+        45.982122,
+        10.104469,
+        46.091138
+    ],
+    "center": [
+        10.01306,
+        46.03778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01306,
+            46.03778
+        ]
+    }
+}

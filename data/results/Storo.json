@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Cornelio Donati",
-            "pageView": 6540
+            "pageView": 4,
+            "total": 6542
         },
         {
             "page": "Ludovico Lodron",
-            "pageView": 3877
-        },
-        {
-            "page": "Francesco Glisenti",
-            "pageView": 2914
+            "pageView": 3,
+            "total": 3879
         },
         {
             "page": "Antonio Scaglia",
-            "pageView": 2595
+            "pageView": 2,
+            "total": 2595
+        },
+        {
+            "page": "Francesco Glisenti",
+            "pageView": 2,
+            "total": 2916
         },
         {
             "page": "Cipriano Gnesotti",
-            "pageView": 2375
+            "pageView": 2,
+            "total": 2375
         },
         {
             "page": "Lucillo Grassi",
-            "pageView": 2204
+            "pageView": 2,
+            "total": 2205
         },
         {
             "page": "Filiberto Luzzani",
-            "pageView": 1514
+            "pageView": 1,
+            "total": 1514
         }
     ]
 }

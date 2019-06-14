@@ -1,0 +1,27 @@
+{
+    "id": "place.11148975339177030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caserta",
+    "place_name": "Caserta, Caserta, Italy",
+    "bbox": [
+        14.276232,
+        41.042797,
+        14.435257,
+        41.132543
+    ],
+    "center": [
+        14.3557445,
+        41.08767
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3557445,
+            41.08767
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.19560082898715300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gavardo",
+    "place_name": "Gavardo, Brescia, Italy",
+    "bbox": [
+        10.399689,
+        45.555072,
+        10.495911,
+        45.627826
+    ],
+    "center": [
+        10.43889,
+        45.5875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43889,
+            45.5875
+        ]
+    }
+}

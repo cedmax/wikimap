@@ -1,0 +1,27 @@
+{
+    "id": "place.4680129875427850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vincenzo",
+    "place_name": "San Vincenzo, Livorno, Italy",
+    "bbox": [
+        10.519457,
+        43.016495,
+        10.627344,
+        43.113381
+    ],
+    "center": [
+        10.53333,
+        43.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.53333,
+            43.08333
+        ]
+    }
+}

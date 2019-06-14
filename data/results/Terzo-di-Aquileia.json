@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Giorgio Barbana",
-            "pageView": 9918
-        },
-        {
-            "page": "Adelchi Brach",
-            "pageView": 3410
+            "pageView": 5,
+            "total": 9932
         },
         {
             "page": "Giacomo Antonelli (ingegnere)",
-            "pageView": 3003
+            "pageView": 2,
+            "total": 3005
+        },
+        {
+            "page": "Adelchi Brach",
+            "pageView": 2,
+            "total": 3411
         },
         {
             "page": "Giulio Justolin",
-            "pageView": 1524
+            "pageView": 1,
+            "total": 1524
         }
     ]
 }

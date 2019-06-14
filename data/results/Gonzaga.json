@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Titti Di Salvo",
-            "pageView": 20886
+            "pageView": 8,
+            "total": 20890
         },
         {
             "page": "Filippo Corradi",
-            "pageView": 5092
-        },
-        {
-            "page": "Guido Corradi",
-            "pageView": 4524
-        },
-        {
-            "page": "Giordano Corsi",
-            "pageView": 4334
+            "pageView": 3,
+            "total": 5099
         },
         {
             "page": "Angelo Gatti Grami",
-            "pageView": 4180
+            "pageView": 3,
+            "total": 4180
         },
         {
-            "page": "Anselmo Guerrieri Gonzaga",
-            "pageView": 4019
+            "page": "Giordano Corsi",
+            "pageView": 3,
+            "total": 4336
         },
         {
-            "page": "Antonio Corradi",
-            "pageView": 3619
+            "page": "Guido Corradi",
+            "pageView": 3,
+            "total": 4530
         },
         {
             "page": "Guidone Corradi",
-            "pageView": 3040
+            "pageView": 2,
+            "total": 3043
         },
         {
             "page": "Enrico Pirondini",
-            "pageView": 2621
+            "pageView": 2,
+            "total": 2622
         },
         {
-            "page": "Walter Mantovani",
-            "pageView": 1774
+            "page": "Anselmo Guerrieri Gonzaga",
+            "pageView": 2,
+            "total": 4026
         },
         {
-            "page": "Mario Magotti",
-            "pageView": 1690
-        },
-        {
-            "page": "Girolamo Gatti",
-            "pageView": 1622
-        },
-        {
-            "page": "Lisiade Pedroni",
-            "pageView": 1366
-        },
-        {
-            "page": "Richilde Pedroni",
-            "pageView": 1335
+            "page": "Antonio Corradi",
+            "pageView": 2,
+            "total": 3625
         },
         {
             "page": "Domenico Fernelli",
-            "pageView": 1309
+            "pageView": 1,
+            "total": 1309
         },
         {
-            "page": "Corbellino Corradi",
-            "pageView": 1287
+            "page": "Girolamo Gatti",
+            "pageView": 1,
+            "total": 1624
         },
         {
             "page": "Bartolomeo Corradi",
-            "pageView": 993
+            "pageView": 1,
+            "total": 994
+        },
+        {
+            "page": "Mario Magotti",
+            "pageView": 1,
+            "total": 1691
+        },
+        {
+            "page": "Walter Mantovani",
+            "pageView": 1,
+            "total": 1774
+        },
+        {
+            "page": "Lisiade Pedroni",
+            "pageView": 1,
+            "total": 1367
+        },
+        {
+            "page": "Richilde Pedroni",
+            "pageView": 1,
+            "total": 1337
+        },
+        {
+            "page": "Corbellino Corradi",
+            "pageView": 1,
+            "total": 1287
         },
         {
             "page": "Renzo Magnanini",
-            "pageView": 934
+            "pageView": 0,
+            "total": 939
         },
         {
             "page": "Bruno Coppi",
-            "pageView": 889
+            "pageView": 0,
+            "total": 893
         },
         {
             "page": "Alcide Garagnani",
-            "pageView": 510
+            "pageView": 0,
+            "total": 513
         },
         {
             "page": "Gerolamo Trenti",
-            "pageView": 55
+            "pageView": 0,
+            "total": 55
         }
     ]
 }

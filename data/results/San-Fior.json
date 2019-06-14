@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Giovanni Bonet",
-            "pageView": 4972
-        },
-        {
-            "page": "Italo De Zan",
-            "pageView": 3514
-        },
-        {
-            "page": "Sante Cancian",
-            "pageView": 3221
-        },
-        {
-            "page": "Edoardo Dal Pos",
-            "pageView": 3080
+            "pageView": 3,
+            "total": 4976
         },
         {
             "page": "Giuseppe Cadorin",
-            "pageView": 2574
-        },
-        {
-            "page": "Alcide Sant",
-            "pageView": 1385
-        },
-        {
-            "page": "Vittorio Celotti",
-            "pageView": 1357
+            "pageView": 2,
+            "total": 2574
         },
         {
             "page": "Sebastiano Barozzi",
-            "pageView": 1017
+            "pageView": 2,
+            "total": 1019
+        },
+        {
+            "page": "Sante Cancian",
+            "pageView": 2,
+            "total": 3221
+        },
+        {
+            "page": "Edoardo Dal Pos",
+            "pageView": 2,
+            "total": 3080
+        },
+        {
+            "page": "Italo De Zan",
+            "pageView": 2,
+            "total": 3517
+        },
+        {
+            "page": "Vittorio Celotti",
+            "pageView": 1,
+            "total": 1357
         },
         {
             "page": "Isidoro Mel",
-            "pageView": 914
+            "pageView": 1,
+            "total": 916
+        },
+        {
+            "page": "Alcide Sant",
+            "pageView": 1,
+            "total": 1386
         },
         {
             "page": "Pierangelo Pin",
-            "pageView": 300
+            "pageView": 0,
+            "total": 300
         }
     ]
 }

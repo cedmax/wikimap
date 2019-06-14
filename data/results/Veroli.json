@@ -3,443 +3,553 @@
     "people": [
         {
             "page": "Ferdinando Gentile",
-            "pageView": 106315
+            "pageView": 38,
+            "total": 106445
         },
         {
             "page": "Giuseppe Poeta",
-            "pageView": 85368
+            "pageView": 34,
+            "total": 85579
         },
         {
             "page": "Andrea Trinchieri",
-            "pageView": 49680
-        },
-        {
-            "page": "Alessandro Cittadini",
-            "pageView": 36663
+            "pageView": 24,
+            "total": 49731
         },
         {
             "page": "Massimo Scaligero",
-            "pageView": 32838
-        },
-        {
-            "page": "Guido Rosselli",
-            "pageView": 30484
-        },
-        {
-            "page": "Kyle Hines",
-            "pageView": 27443
-        },
-        {
-            "page": "Franko Bushati",
-            "pageView": 25307
+            "pageView": 20,
+            "total": 32861
         },
         {
             "page": "Andrea La Torre",
-            "pageView": 24882
+            "pageView": 17,
+            "total": 24892
+        },
+        {
+            "page": "Alessandro Cittadini",
+            "pageView": 15,
+            "total": 36681
         },
         {
             "page": "Amedeo Maiuri",
-            "pageView": 24828
+            "pageView": 15,
+            "total": 24835
         },
         {
-            "page": "Jamarr Sanders",
-            "pageView": 23051
-        },
-        {
-            "page": "Davide Bruttini",
-            "pageView": 20763
-        },
-        {
-            "page": "Riccardo Cortese",
-            "pageView": 19453
-        },
-        {
-            "page": "Jakub Wojciechowski",
-            "pageView": 19400
+            "page": "Guido Rosselli",
+            "pageView": 12,
+            "total": 30498
         },
         {
             "page": "Marcello Marrocchi",
-            "pageView": 18445
-        },
-        {
-            "page": "Michele Mian",
-            "pageView": 17525
+            "pageView": 11,
+            "total": 18458
         },
         {
             "page": "Franco Marcelletti",
-            "pageView": 17497
+            "pageView": 11,
+            "total": 17513
+        },
+        {
+            "page": "Kyle Hines",
+            "pageView": 10.5,
+            "total": 27472
+        },
+        {
+            "page": "Franko Bushati",
+            "pageView": 10,
+            "total": 25314
+        },
+        {
+            "page": "Jakub Wojciechowski",
+            "pageView": 10,
+            "total": 19414
+        },
+        {
+            "page": "Jamarr Sanders",
+            "pageView": 10,
+            "total": 23064
         },
         {
             "page": "David Brkic",
-            "pageView": 17167
-        },
-        {
-            "page": "Luca Infante",
-            "pageView": 16810
-        },
-        {
-            "page": "Roberto Rullo",
-            "pageView": 15804
-        },
-        {
-            "page": "Brett Blizzard",
-            "pageView": 15010
-        },
-        {
-            "page": "Fabio Bernardo D'Onorio",
-            "pageView": 13562
-        },
-        {
-            "page": "Demis Cavina",
-            "pageView": 12723
-        },
-        {
-            "page": "Giovanni Tomassini",
-            "pageView": 12667
-        },
-        {
-            "page": "Ambrogio Spreafico",
-            "pageView": 12537
-        },
-        {
-            "page": "Alberto Rossini",
-            "pageView": 12444
-        },
-        {
-            "page": "Andrea Iannilli",
-            "pageView": 12282
-        },
-        {
-            "page": "Dawan Robinson",
-            "pageView": 12126
-        },
-        {
-            "page": "Massimo Cancellieri",
-            "pageView": 12094
-        },
-        {
-            "page": "Aonio Paleario",
-            "pageView": 11339
+            "pageView": 9,
+            "total": 17175
         },
         {
             "page": "Lorenzo Bucarelli",
-            "pageView": 11257
+            "pageView": 9,
+            "total": 11266
         },
         {
-            "page": "Tommaso Rinaldi (cestista)",
-            "pageView": 11065
+            "page": "Davide Bruttini",
+            "pageView": 9,
+            "total": 20910
+        },
+        {
+            "page": "Luca Infante",
+            "pageView": 9,
+            "total": 16821
+        },
+        {
+            "page": "Riccardo Cortese",
+            "pageView": 9,
+            "total": 19465
+        },
+        {
+            "page": "Michele Mian",
+            "pageView": 9,
+            "total": 17531
+        },
+        {
+            "page": "Roberto Rullo",
+            "pageView": 9,
+            "total": 15815
+        },
+        {
+            "page": "Alberto Rossini",
+            "pageView": 8,
+            "total": 12457
+        },
+        {
+            "page": "Ambrogio Spreafico",
+            "pageView": 8,
+            "total": 12543
+        },
+        {
+            "page": "Aonio Paleario",
+            "pageView": 7,
+            "total": 11349
+        },
+        {
+            "page": "Fabio Bernardo D'Onorio",
+            "pageView": 7,
+            "total": 13568
+        },
+        {
+            "page": "Demis Cavina",
+            "pageView": 6,
+            "total": 12731
+        },
+        {
+            "page": "Brett Blizzard",
+            "pageView": 6,
+            "total": 15013
         },
         {
             "page": "Andrea Casella",
-            "pageView": 10386
+            "pageView": 6,
+            "total": 10392
         },
         {
-            "page": "Dontaye Draper",
-            "pageView": 9645
+            "page": "Massimo Cancellieri",
+            "pageView": 6,
+            "total": 12441
         },
         {
-            "page": "Claudio Tommasini",
-            "pageView": 9191
+            "page": "Andrea Iannilli",
+            "pageView": 6,
+            "total": 12284
         },
         {
-            "page": "Scottie Reynolds",
-            "pageView": 9107
+            "page": "Tommaso Rinaldi (cestista)",
+            "pageView": 6,
+            "total": 11078
         },
         {
-            "page": "Mario Gigena",
-            "pageView": 8990
-        },
-        {
-            "page": "Antanas Kavaliauskas",
-            "pageView": 8769
-        },
-        {
-            "page": "Jarrius Jackson",
-            "pageView": 8455
-        },
-        {
-            "page": "Ivan Gatto",
-            "pageView": 8325
+            "page": "Dawan Robinson",
+            "pageView": 5,
+            "total": 12127
         },
         {
             "page": "Simone Berti",
-            "pageView": 7909
+            "pageView": 5,
+            "total": 7914
+        },
+        {
+            "page": "Ivan Gatto",
+            "pageView": 5,
+            "total": 8337
+        },
+        {
+            "page": "Mario Gigena",
+            "pageView": 5,
+            "total": 8995
+        },
+        {
+            "page": "Giovanni Tomassini",
+            "pageView": 5,
+            "total": 12700
+        },
+        {
+            "page": "Claudio Tommasini",
+            "pageView": 5,
+            "total": 9193
         },
         {
             "page": "Luigi Morstabilini",
-            "pageView": 7650
+            "pageView": 5,
+            "total": 7655
         },
         {
-            "page": "Mario Ghersetti",
-            "pageView": 7584
-        },
-        {
-            "page": "Guido Meini",
-            "pageView": 7434
-        },
-        {
-            "page": "Massimo Bernardi",
-            "pageView": 7432
-        },
-        {
-            "page": "Luigi Gresta",
-            "pageView": 7227
-        },
-        {
-            "page": "Jerome Allen",
-            "pageView": 7103
-        },
-        {
-            "page": "Marco Ammannato",
-            "pageView": 6836
-        },
-        {
-            "page": "Francesco Foiera",
-            "pageView": 6754
-        },
-        {
-            "page": "Claudio Bonaccorsi",
-            "pageView": 6703
+            "page": "Dontaye Draper",
+            "pageView": 5,
+            "total": 9649
         },
         {
             "page": "Luigi Dordei",
-            "pageView": 6612
+            "pageView": 4,
+            "total": 6624
+        },
+        {
+            "page": "Jarrius Jackson",
+            "pageView": 4,
+            "total": 8458
+        },
+        {
+            "page": "Massimo Bernardi",
+            "pageView": 4,
+            "total": 7437
         },
         {
             "page": "B.J. Elder",
-            "pageView": 6293
+            "pageView": 4,
+            "total": 6296
         },
         {
-            "page": "Salvatore Boccaccio",
-            "pageView": 6181
+            "page": "Francesco Foiera",
+            "pageView": 4,
+            "total": 6760
+        },
+        {
+            "page": "Claudio Bonaccorsi",
+            "pageView": 4,
+            "total": 6708
+        },
+        {
+            "page": "Guido Meini",
+            "pageView": 4,
+            "total": 7438
+        },
+        {
+            "page": "Mario Ghersetti",
+            "pageView": 4,
+            "total": 7589
+        },
+        {
+            "page": "Jerome Allen",
+            "pageView": 4,
+            "total": 7105
         },
         {
             "page": "Domenico Tiberia",
-            "pageView": 5948
+            "pageView": 4,
+            "total": 5952
+        },
+        {
+            "page": "Marco Ammannato",
+            "pageView": 4,
+            "total": 6837
         },
         {
             "page": "Franco Gramenzi",
-            "pageView": 5918
+            "pageView": 4,
+            "total": 5925
         },
         {
-            "page": "Franco Migliori",
-            "pageView": 5533
+            "page": "Scottie Reynolds",
+            "pageView": 4,
+            "total": 9111
         },
         {
-            "page": "Tyrone Grant",
-            "pageView": 5435
+            "page": "Luigi Gresta",
+            "pageView": 4,
+            "total": 7231
         },
         {
-            "page": "Martin Colussi",
-            "pageView": 5312
-        },
-        {
-            "page": "Manuel Carrizo",
-            "pageView": 5182
-        },
-        {
-            "page": "Jason Rowe",
-            "pageView": 5045
-        },
-        {
-            "page": "Joey Beard",
-            "pageView": 4778
-        },
-        {
-            "page": "Andrea Pilotti",
-            "pageView": 4425
-        },
-        {
-            "page": "Daniele Demartini",
-            "pageView": 4418
-        },
-        {
-            "page": "Paul Marigney",
-            "pageView": 4370
-        },
-        {
-            "page": "Gerald Lee",
-            "pageView": 4274
-        },
-        {
-            "page": "Andrea Cessel",
-            "pageView": 4205
-        },
-        {
-            "page": "Federico Pieri",
-            "pageView": 4198
-        },
-        {
-            "page": "Stefano Salieri",
-            "pageView": 4194
-        },
-        {
-            "page": "Gaetano Bisleti",
-            "pageView": 4103
-        },
-        {
-            "page": "Damiano Brigo (cestista)",
-            "pageView": 4012
-        },
-        {
-            "page": "Diego Banti",
-            "pageView": 3944
-        },
-        {
-            "page": "Marco Rossi (cestista)",
-            "pageView": 3893
-        },
-        {
-            "page": "Paolo Giuliani",
-            "pageView": 3890
+            "page": "Salvatore Boccaccio",
+            "pageView": 4,
+            "total": 6183
         },
         {
             "page": "Erving Walker",
-            "pageView": 3869
+            "pageView": 3,
+            "total": 3869
         },
         {
-            "page": "Giampaolo Zamberlan",
-            "pageView": 3590
+            "page": "Andrea Pilotti",
+            "pageView": 3,
+            "total": 4428
         },
         {
-            "page": "Ennio Filonardi",
-            "pageView": 3438
+            "page": "Jason Rowe",
+            "pageView": 3,
+            "total": 5100
         },
         {
-            "page": "Jimmie Hunter",
-            "pageView": 3245
+            "page": "Federico Pieri",
+            "pageView": 3,
+            "total": 4201
+        },
+        {
+            "page": "Franco Migliori",
+            "pageView": 3,
+            "total": 5537
+        },
+        {
+            "page": "Paul Marigney",
+            "pageView": 3,
+            "total": 4371
+        },
+        {
+            "page": "Antanas Kavaliauskas",
+            "pageView": 3,
+            "total": 8770
+        },
+        {
+            "page": "Paolo Giuliani",
+            "pageView": 3,
+            "total": 3894
+        },
+        {
+            "page": "Daniele Demartini",
+            "pageView": 3,
+            "total": 4422
         },
         {
             "page": "Marco Rossetti (cestista)",
-            "pageView": 3201
+            "pageView": 3,
+            "total": 3203
         },
         {
-            "page": "Pietro Bianchi (cestista)",
-            "pageView": 3198
+            "page": "Martin Colussi",
+            "pageView": 3,
+            "total": 5317
+        },
+        {
+            "page": "Andrea Cessel",
+            "pageView": 3,
+            "total": 4206
+        },
+        {
+            "page": "Gaetano Bisleti",
+            "pageView": 3,
+            "total": 4107
+        },
+        {
+            "page": "Manuel Carrizo",
+            "pageView": 3,
+            "total": 5188
+        },
+        {
+            "page": "Damiano Brigo (cestista)",
+            "pageView": 3,
+            "total": 4012
+        },
+        {
+            "page": "Joey Beard",
+            "pageView": 3,
+            "total": 4778
+        },
+        {
+            "page": "Stefano Salieri",
+            "pageView": 3,
+            "total": 4200
+        },
+        {
+            "page": "Tyrone Grant",
+            "pageView": 3,
+            "total": 5440
         },
         {
             "page": "Anthony Giovacchini",
-            "pageView": 3159
+            "pageView": 2,
+            "total": 3161
         },
         {
-            "page": "Scoonie Penn",
-            "pageView": 2927
+            "page": "Marco Rossi (cestista)",
+            "pageView": 2,
+            "total": 3895
         },
         {
-            "page": "Maria Fortunata Viti",
-            "pageView": 2844
+            "page": "Diego Banti",
+            "pageView": 2,
+            "total": 3946
         },
         {
-            "page": "Atanasio I di Napoli",
-            "pageView": 2809
-        },
-        {
-            "page": "Tony Binetti",
-            "pageView": 2754
-        },
-        {
-            "page": "Vittorio Giovardi",
-            "pageView": 2694
-        },
-        {
-            "page": "Giuseppe Falco",
-            "pageView": 2683
-        },
-        {
-            "page": "Guillén-Ramón de Vich y de Vallterra",
-            "pageView": 2681
-        },
-        {
-            "page": "Tommaso Plateo",
-            "pageView": 2495
-        },
-        {
-            "page": "Francisco de los Ángeles Quiñones",
-            "pageView": 2459
-        },
-        {
-            "page": "Alberto Caperna",
-            "pageView": 2422
-        },
-        {
-            "page": "Angelo Cella",
-            "pageView": 2422
-        },
-        {
-            "page": "Michele Federici",
-            "pageView": 2217
-        },
-        {
-            "page": "Afik Nissim",
-            "pageView": 2179
-        },
-        {
-            "page": "Sergio Plumari",
-            "pageView": 2133
-        },
-        {
-            "page": "Salvatore Forte (cestista)",
-            "pageView": 2113
-        },
-        {
-            "page": "Keith Carter",
-            "pageView": 2098
+            "page": "Pietro Bianchi (cestista)",
+            "pageView": 2,
+            "total": 3200
         },
         {
             "page": "Jamar Samuels",
-            "pageView": 1924
+            "pageView": 2,
+            "total": 1924
         },
         {
-            "page": "Mareks Jurevičus",
-            "pageView": 1813
-        },
-        {
-            "page": "Filippo Gagliardo",
-            "pageView": 1791
-        },
-        {
-            "page": "Domenico Zauli",
-            "pageView": 1612
-        },
-        {
-            "page": "Ryan Pettinella",
-            "pageView": 1437
-        },
-        {
-            "page": "Sōtīrīs Gkioulekas",
-            "pageView": 1393
-        },
-        {
-            "page": "Lorenzo Tartagni",
-            "pageView": 1384
+            "page": "Giuseppe Falco",
+            "pageView": 2,
+            "total": 2684
         },
         {
             "page": "Alberto Cacace",
-            "pageView": 1370
+            "pageView": 2,
+            "total": 1371
+        },
+        {
+            "page": "Afik Nissim",
+            "pageView": 2,
+            "total": 2183
+        },
+        {
+            "page": "Scoonie Penn",
+            "pageView": 2,
+            "total": 2927
+        },
+        {
+            "page": "Angelo Cella",
+            "pageView": 2,
+            "total": 2423
+        },
+        {
+            "page": "Michele Federici",
+            "pageView": 2,
+            "total": 2217
+        },
+        {
+            "page": "Jimmie Hunter",
+            "pageView": 2,
+            "total": 3246
+        },
+        {
+            "page": "Salvatore Forte (cestista)",
+            "pageView": 2,
+            "total": 2113
+        },
+        {
+            "page": "Giampaolo Zamberlan",
+            "pageView": 2,
+            "total": 3591
+        },
+        {
+            "page": "Atanasio I di Napoli",
+            "pageView": 2,
+            "total": 2809
+        },
+        {
+            "page": "Francisco de los Ángeles Quiñones",
+            "pageView": 2,
+            "total": 2462
+        },
+        {
+            "page": "Tommaso Plateo",
+            "pageView": 2,
+            "total": 2496
+        },
+        {
+            "page": "Guillén-Ramón de Vich y de Vallterra",
+            "pageView": 2,
+            "total": 2681
+        },
+        {
+            "page": "Maria Fortunata Viti",
+            "pageView": 2,
+            "total": 2845
+        },
+        {
+            "page": "Sergio Plumari",
+            "pageView": 2,
+            "total": 2137
+        },
+        {
+            "page": "Alberto Caperna",
+            "pageView": 2,
+            "total": 2425
+        },
+        {
+            "page": "Filippo Gagliardo",
+            "pageView": 2,
+            "total": 1791
+        },
+        {
+            "page": "Vittorio Giovardi",
+            "pageView": 2,
+            "total": 2696
+        },
+        {
+            "page": "Tony Binetti",
+            "pageView": 2,
+            "total": 2764
+        },
+        {
+            "page": "Ennio Filonardi",
+            "pageView": 2,
+            "total": 3441
+        },
+        {
+            "page": "Keith Carter",
+            "pageView": 2,
+            "total": 2103
+        },
+        {
+            "page": "Gerald Lee",
+            "pageView": 2,
+            "total": 4276
+        },
+        {
+            "page": "Mareks Jurevičus",
+            "pageView": 1,
+            "total": 1816
+        },
+        {
+            "page": "Domenico Zauli",
+            "pageView": 1,
+            "total": 1612
         },
         {
             "page": "Roberts Štelmahers",
-            "pageView": 1359
+            "pageView": 1,
+            "total": 1360
+        },
+        {
+            "page": "Lorenzo Tartagni",
+            "pageView": 1,
+            "total": 1386
+        },
+        {
+            "page": "Ryan Pettinella",
+            "pageView": 1,
+            "total": 1437
         },
         {
             "page": "Fabián Tourn",
-            "pageView": 1266
+            "pageView": 1,
+            "total": 1268
         },
         {
             "page": "Carlo Livraghi",
-            "pageView": 1082
-        },
-        {
-            "page": "Francesco Veccia",
-            "pageView": 834
-        },
-        {
-            "page": "Francesco Bellanti",
-            "pageView": 758
+            "pageView": 1,
+            "total": 1082
         },
         {
             "page": "Martino di Veroli",
-            "pageView": 640
+            "pageView": 1,
+            "total": 640
+        },
+        {
+            "page": "Sōtīrīs Gkioulekas",
+            "pageView": 1,
+            "total": 1393
+        },
+        {
+            "page": "Francesco Bellanti",
+            "pageView": 0,
+            "total": 758
+        },
+        {
+            "page": "Francesco Veccia",
+            "pageView": 0,
+            "total": 836
         }
     ]
 }

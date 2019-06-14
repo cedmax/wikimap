@@ -1,0 +1,27 @@
+{
+    "id": "place.6705321844493130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo San Martino",
+    "place_name": "Borgo San Martino, Alessandria, Italy",
+    "bbox": [
+        8.506639,
+        45.07417,
+        8.560414,
+        45.114427
+    ],
+    "center": [
+        8.52373,
+        45.09259
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.52373,
+            45.09259
+        ]
+    }
+}

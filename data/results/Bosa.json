@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Antonio Vacca",
-            "pageView": 15692
+            "pageView": 7,
+            "total": 15694
         },
         {
             "page": "Angelo Fois",
-            "pageView": 12191
-        },
-        {
-            "page": "Giacomo Lanzetti",
-            "pageView": 11213
+            "pageView": 6,
+            "total": 12212
         },
         {
             "page": "Mauro Maria Morfino",
-            "pageView": 9996
+            "pageView": 6,
+            "total": 10009
         },
         {
-            "page": "Giuseppe Cucca",
-            "pageView": 9937
+            "page": "Giacomo Lanzetti",
+            "pageView": 6,
+            "total": 11216
         },
         {
             "page": "Giovanni Sulcis",
-            "pageView": 8400
+            "pageView": 5,
+            "total": 8401
         },
         {
-            "page": "Peppe Carta",
-            "pageView": 6347
-        },
-        {
-            "page": "Alberto Pizzigoni",
-            "pageView": 5158
-        },
-        {
-            "page": "Giovanni Francesco Fara",
-            "pageView": 4722
-        },
-        {
-            "page": "Federico Melis",
-            "pageView": 4708
+            "page": "Giuseppe Cucca",
+            "pageView": 5,
+            "total": 9944
         },
         {
             "page": "Guido Sechi",
-            "pageView": 4275
+            "pageView": 4,
+            "total": 4280
+        },
+        {
+            "page": "Peppe Carta",
+            "pageView": 3,
+            "total": 6348
+        },
+        {
+            "page": "Giovanni Francesco Fara",
+            "pageView": 3,
+            "total": 4726
+        },
+        {
+            "page": "Federico Melis",
+            "pageView": 3,
+            "total": 4715
+        },
+        {
+            "page": "Alberto Pizzigoni",
+            "pageView": 3,
+            "total": 5196
         },
         {
             "page": "Nicolò Canelles",
-            "pageView": 3368
-        },
-        {
-            "page": "Melkiorre Melis",
-            "pageView": 3222
-        },
-        {
-            "page": "Agostino Castelli",
-            "pageView": 3177
-        },
-        {
-            "page": "Pietro Delitala",
-            "pageView": 3032
-        },
-        {
-            "page": "Pietro Carta",
-            "pageView": 2800
+            "pageView": 2,
+            "total": 3369
         },
         {
             "page": "Giovanni Battista Columbu",
-            "pageView": 2544
+            "pageView": 2,
+            "total": 2547
         },
         {
             "page": "Giovanni Pes",
-            "pageView": 2401
-        },
-        {
-            "page": "Ernesto Sequi",
-            "pageView": 2358
+            "pageView": 2,
+            "total": 2404
         },
         {
             "page": "Gianni Mastinu",
-            "pageView": 2035
+            "pageView": 2,
+            "total": 2035
+        },
+        {
+            "page": "Pietro Delitala",
+            "pageView": 2,
+            "total": 3033
+        },
+        {
+            "page": "Melkiorre Melis",
+            "pageView": 2,
+            "total": 3224
+        },
+        {
+            "page": "Ernesto Sequi",
+            "pageView": 2,
+            "total": 2359
+        },
+        {
+            "page": "Agostino Castelli",
+            "pageView": 2,
+            "total": 3179
+        },
+        {
+            "page": "Pietro Carta",
+            "pageView": 2,
+            "total": 2800
         },
         {
             "page": "Gian Pietro Cossu",
-            "pageView": 1891
-        },
-        {
-            "page": "Juan Casanova",
-            "pageView": 1689
+            "pageView": 2,
+            "total": 1893
         },
         {
             "page": "Salvatore Parpaglia",
-            "pageView": 1454
+            "pageView": 1,
+            "total": 1454
+        },
+        {
+            "page": "Juan Casanova",
+            "pageView": 1,
+            "total": 1689
         },
         {
             "page": "Palmerio Delitala",
-            "pageView": 284
+            "pageView": 0,
+            "total": 284
         },
         {
             "page": "Antonio Sangallo",
-            "pageView": 197
+            "pageView": 0,
+            "total": 197
         }
     ]
 }

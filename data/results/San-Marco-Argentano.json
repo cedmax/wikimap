@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Boemondo I d'Antiochia",
-            "pageView": 43439
+            "pageView": 28,
+            "total": 43467
         },
         {
             "page": "Guglielmo Sirleto",
-            "pageView": 8944
+            "pageView": 5,
+            "total": 8951
         },
         {
             "page": "Leonardo Bonanno",
-            "pageView": 6551
+            "pageView": 4,
+            "total": 6552
         },
         {
             "page": "Osvaldo Paladini",
-            "pageView": 4562
-        },
-        {
-            "page": "Agostino Ernesto Castrillo",
-            "pageView": 4060
+            "pageView": 3,
+            "total": 4562
         },
         {
             "page": "Demetrio Moscato",
-            "pageView": 3646
-        },
-        {
-            "page": "Coriolano Martirano",
-            "pageView": 3553
-        },
-        {
-            "page": "Domenico Crusco",
-            "pageView": 3370
-        },
-        {
-            "page": "Augusto Lauro",
-            "pageView": 3279
-        },
-        {
-            "page": "Vincenzo Selvaggi",
-            "pageView": 2362
-        },
-        {
-            "page": "Luigi Pugliese",
-            "pageView": 2043
+            "pageView": 3,
+            "total": 3646
         },
         {
             "page": "Rudy Cipolla",
-            "pageView": 1893
+            "pageView": 2,
+            "total": 1893
+        },
+        {
+            "page": "Vincenzo Selvaggi",
+            "pageView": 2,
+            "total": 2363
+        },
+        {
+            "page": "Luigi Pugliese",
+            "pageView": 2,
+            "total": 2046
+        },
+        {
+            "page": "Coriolano Martirano",
+            "pageView": 2,
+            "total": 3555
+        },
+        {
+            "page": "Agostino Ernesto Castrillo",
+            "pageView": 2,
+            "total": 4066
+        },
+        {
+            "page": "Domenico Crusco",
+            "pageView": 2,
+            "total": 3371
+        },
+        {
+            "page": "Augusto Lauro",
+            "pageView": 2,
+            "total": 3279
         },
         {
             "page": "Marcello Sacchi",
-            "pageView": 1158
+            "pageView": 1,
+            "total": 1158
         },
         {
             "page": "Nelson Iacovini",
-            "pageView": 1069
+            "pageView": 1,
+            "total": 1069
         },
         {
             "page": "Eduardo Bruno (scultore)",
-            "pageView": 680
+            "pageView": 0,
+            "total": 681
         }
     ]
 }

@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Davide Succi",
-            "pageView": 76886
-        },
-        {
-            "page": "Alberto Bollini",
-            "pageView": 69155
+            "pageView": 44,
+            "total": 76924
         },
         {
             "page": "Arnoldo Mondadori",
-            "pageView": 66907
+            "pageView": 43,
+            "total": 66955
+        },
+        {
+            "page": "Alberto Bollini",
+            "pageView": 29,
+            "total": 69179
         },
         {
             "page": "Andrea Anastasi",
-            "pageView": 65810
+            "pageView": 16,
+            "total": 65829
         },
         {
             "page": "Massimo Pellegrini",
-            "pageView": 21720
+            "pageView": 13,
+            "total": 21761
         },
         {
             "page": "Enrico Vella",
-            "pageView": 13927
-        },
-        {
-            "page": "Rino Lavezzini",
-            "pageView": 12970
+            "pageView": 8.5,
+            "total": 13943
         },
         {
             "page": "Eugenio Sgarbossa",
-            "pageView": 12079
+            "pageView": 8,
+            "total": 12086
         },
         {
             "page": "Francesco Zanardi",
-            "pageView": 10070
+            "pageView": 6,
+            "total": 10075
         },
         {
-            "page": "Davide Lampugnani",
-            "pageView": 6673
+            "page": "Rino Lavezzini",
+            "pageView": 6,
+            "total": 12983
         },
         {
             "page": "Clelia Marchi",
-            "pageView": 6329
+            "pageView": 4,
+            "total": 6335
         },
         {
-            "page": "Bruno Pini",
-            "pageView": 5694
-        },
-        {
-            "page": "Stefano Scansani",
-            "pageView": 5444
-        },
-        {
-            "page": "Bruno Rizzi",
-            "pageView": 5192
-        },
-        {
-            "page": "Flavio Chiti",
-            "pageView": 5010
+            "page": "Davide Lampugnani",
+            "pageView": 4,
+            "total": 6677
         },
         {
             "page": "Bidre'ce Azor",
-            "pageView": 4613
+            "pageView": 3,
+            "total": 4616
         },
         {
-            "page": "Arrigo Tamassia",
-            "pageView": 3661
+            "page": "Bruno Pini",
+            "pageView": 3,
+            "total": 5695
         },
         {
-            "page": "Carlo Benfatti",
-            "pageView": 2934
+            "page": "Bruno Rizzi",
+            "pageView": 3,
+            "total": 5201
+        },
+        {
+            "page": "Stefano Scansani",
+            "pageView": 3,
+            "total": 5450
+        },
+        {
+            "page": "Flavio Chiti",
+            "pageView": 3,
+            "total": 5013
         },
         {
             "page": "Carlo Buttafochi",
-            "pageView": 1923
-        },
-        {
-            "page": "Tito Vezio Zapparoli",
-            "pageView": 1904
-        },
-        {
-            "page": "Alido Grisanti",
-            "pageView": 1845
+            "pageView": 2,
+            "total": 1927
         },
         {
             "page": "Maurizio Lotti",
-            "pageView": 1843
+            "pageView": 2,
+            "total": 1844
+        },
+        {
+            "page": "Alido Grisanti",
+            "pageView": 2,
+            "total": 1846
+        },
+        {
+            "page": "Arrigo Tamassia",
+            "pageView": 2,
+            "total": 3668
+        },
+        {
+            "page": "Tito Vezio Zapparoli",
+            "pageView": 2,
+            "total": 1905
+        },
+        {
+            "page": "Carlo Benfatti",
+            "pageView": 2,
+            "total": 2936
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.14645216248448890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiaravalle",
+    "place_name": "Chiaravalle, Ancona, Italy",
+    "bbox": [
+        13.277396,
+        43.584591,
+        13.369055,
+        43.631657
+    ],
+    "center": [
+        13.32568,
+        43.59967
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.32568,
+            43.59967
+        ]
+    }
+}

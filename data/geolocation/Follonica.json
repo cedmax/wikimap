@@ -1,0 +1,27 @@
+{
+    "id": "place.1290925130947690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Follonica",
+    "place_name": "Follonica, Grosseto, Italy",
+    "bbox": [
+        10.706384,
+        42.910406,
+        10.806525,
+        43.014724
+    ],
+    "center": [
+        10.76139,
+        42.91889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76139,
+            42.91889
+        ]
+    }
+}

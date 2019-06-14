@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Michele Barbi",
-            "pageView": 13398
+            "pageView": 8,
+            "total": 13407
         },
         {
             "page": "Selvaggia dei Vergiolesi",
-            "pageView": 5520
-        },
-        {
-            "page": "Quinto Santoli",
-            "pageView": 1943
+            "pageView": 3,
+            "total": 5523
         },
         {
             "page": "Rolando Pagnini",
-            "pageView": 1246
+            "pageView": 1,
+            "total": 1248
+        },
+        {
+            "page": "Quinto Santoli",
+            "pageView": 1,
+            "total": 1943
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.2054405752090690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terlizzi",
+    "place_name": "Terlizzi, Bari, Italy",
+    "bbox": [
+        16.504821,
+        41.043643,
+        16.615722,
+        41.162109
+    ],
+    "center": [
+        16.55,
+        41.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.55,
+            41.13333
+        ]
+    }
+}

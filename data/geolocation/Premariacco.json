@@ -1,0 +1,27 @@
+{
+    "id": "place.6079914261673070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Premariacco",
+    "place_name": "Premariacco, Udine, Italy",
+    "bbox": [
+        13.318896,
+        46.005983,
+        13.441903,
+        46.08279
+    ],
+    "center": [
+        13.4,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            46.06667
+        ]
+    }
+}

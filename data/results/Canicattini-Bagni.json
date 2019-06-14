@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Antonino Uccello",
-            "pageView": 7817
+            "pageView": 5,
+            "total": 7821
         },
         {
             "page": "Arturo Basile",
-            "pageView": 6767
-        },
-        {
-            "page": "Antonio Vasquez",
-            "pageView": 5171
+            "pageView": 4,
+            "total": 6772
         },
         {
             "page": "Giuseppe Agnello",
-            "pageView": 4889
+            "pageView": 3,
+            "total": 4891
+        },
+        {
+            "page": "Antonio Vasquez",
+            "pageView": 3,
+            "total": 5177
         },
         {
             "page": "Laura Di Falco",
-            "pageView": 2955
+            "pageView": 2,
+            "total": 2955
         },
         {
             "page": "Salvatore Miceli (politico)",
-            "pageView": 1742
+            "pageView": 1,
+            "total": 1742
         }
     ]
 }

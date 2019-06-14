@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Greta Cicolari",
-            "pageView": 26132
+            "pageView": 10,
+            "total": 26145
         },
         {
             "page": "Marco Pinotti",
-            "pageView": 14570
+            "pageView": 8,
+            "total": 14576
         },
         {
             "page": "Pamela Rota",
-            "pageView": 12531
-        },
-        {
-            "page": "Paolo Bianchessi",
-            "pageView": 8925
+            "pageView": 8,
+            "total": 12537
         },
         {
             "page": "Pierre Regonesi",
-            "pageView": 7126
+            "pageView": 6,
+            "total": 7133
+        },
+        {
+            "page": "Paolo Bianchessi",
+            "pageView": 3,
+            "total": 8928
         },
         {
             "page": "Vincenzo Savio",
-            "pageView": 4780
-        },
-        {
-            "page": "Claudia Terzi",
-            "pageView": 3952
-        },
-        {
-            "page": "Marco Milesi",
-            "pageView": 3676
+            "pageView": 3,
+            "total": 4781
         },
         {
             "page": "Giovanni Bacis",
-            "pageView": 1903
+            "pageView": 2,
+            "total": 1904
         },
         {
             "page": "Erika Lava",
-            "pageView": 1853
+            "pageView": 2,
+            "total": 1855
+        },
+        {
+            "page": "Marco Milesi",
+            "pageView": 2,
+            "total": 3676
+        },
+        {
+            "page": "Claudia Terzi",
+            "pageView": 0,
+            "total": 3978
         }
     ]
 }

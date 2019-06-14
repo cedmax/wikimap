@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Michael Agazzi",
-            "pageView": 202296
-        },
-        {
-            "page": "Giuseppe Mastini",
-            "pageView": 148578
+            "pageView": 100,
+            "total": 202344
         },
         {
             "page": "Leonardo Morosini",
-            "pageView": 127143
+            "pageView": 48,
+            "total": 127187
         },
         {
             "page": "Giorgia Villa",
-            "pageView": 38704
+            "pageView": 35,
+            "total": 38728
+        },
+        {
+            "page": "Giuseppe Mastini",
+            "pageView": 26,
+            "total": 148601
         },
         {
             "page": "Emiliano Brembilla",
-            "pageView": 29485
+            "pageView": 13,
+            "total": 29489
         },
         {
             "page": "Silvano Piccardi",
-            "pageView": 18320
-        },
-        {
-            "page": "Alvaro Piccardi",
-            "pageView": 16555
-        },
-        {
-            "page": "Simone Consonni",
-            "pageView": 15878
-        },
-        {
-            "page": "Matteo Rossi (politico)",
-            "pageView": 12133
-        },
-        {
-            "page": "Gaudenzio Bernasconi",
-            "pageView": 11623
+            "pageView": 11,
+            "total": 18329
         },
         {
             "page": "Andrea Mezzanotte",
-            "pageView": 7614
+            "pageView": 9,
+            "total": 7622
+        },
+        {
+            "page": "Simone Consonni",
+            "pageView": 8,
+            "total": 15888
+        },
+        {
+            "page": "Alvaro Piccardi",
+            "pageView": 8,
+            "total": 16562
+        },
+        {
+            "page": "Gaudenzio Bernasconi",
+            "pageView": 8,
+            "total": 11628
+        },
+        {
+            "page": "Matteo Rossi (politico)",
+            "pageView": 7,
+            "total": 12133
         },
         {
             "page": "Giorgia Spinelli",
-            "pageView": 4628
+            "pageView": 3,
+            "total": 4637
         },
         {
             "page": "Eliseo Milani",
-            "pageView": 4121
+            "pageView": 3,
+            "total": 4122
         },
         {
             "page": "Barbara Guarischi",
-            "pageView": 4048
-        },
-        {
-            "page": "Morris Possoni",
-            "pageView": 3823
-        },
-        {
-            "page": "Pierluigi Consonni",
-            "pageView": 3346
-        },
-        {
-            "page": "Matteo Teoldi",
-            "pageView": 3248
-        },
-        {
-            "page": "Clemente Gotti",
-            "pageView": 2919
-        },
-        {
-            "page": "Giovanni Battista Fracassetti",
-            "pageView": 2865
+            "pageView": 2,
+            "total": 4049
         },
         {
             "page": "Diego Caccia",
-            "pageView": 2399
-        },
-        {
-            "page": "Vanni Rossi",
-            "pageView": 2359
-        },
-        {
-            "page": "Samantha Ceroni",
-            "pageView": 2343
-        },
-        {
-            "page": "Ermanno Capelli",
-            "pageView": 2270
-        },
-        {
-            "page": "Omar Dieng",
-            "pageView": 1768
-        },
-        {
-            "page": "Luca Rota",
-            "pageView": 1704
+            "pageView": 2,
+            "total": 2401
         },
         {
             "page": "Ernestino Michelazzo",
-            "pageView": 1666
-        },
-        {
-            "page": "Giovanmaria Scotti",
-            "pageView": 1594
-        },
-        {
-            "page": "Francesco Roncalli",
-            "pageView": 1590
+            "pageView": 2,
+            "total": 1668
         },
         {
             "page": "Flavio Cannone",
-            "pageView": 1163
+            "pageView": 2,
+            "total": 1167
+        },
+        {
+            "page": "Giovanni Battista Fracassetti",
+            "pageView": 2,
+            "total": 2868
+        },
+        {
+            "page": "Matteo Teoldi",
+            "pageView": 2,
+            "total": 3255
+        },
+        {
+            "page": "Pierluigi Consonni",
+            "pageView": 2,
+            "total": 3347
+        },
+        {
+            "page": "Morris Possoni",
+            "pageView": 2,
+            "total": 3828
+        },
+        {
+            "page": "Clemente Gotti",
+            "pageView": 2,
+            "total": 2922
+        },
+        {
+            "page": "Samantha Ceroni",
+            "pageView": 2,
+            "total": 2344
+        },
+        {
+            "page": "Vanni Rossi",
+            "pageView": 2,
+            "total": 2359
+        },
+        {
+            "page": "Ermanno Capelli",
+            "pageView": 2,
+            "total": 2273
+        },
+        {
+            "page": "Giovanmaria Scotti",
+            "pageView": 2,
+            "total": 1596
+        },
+        {
+            "page": "Luca Rota",
+            "pageView": 1,
+            "total": 1707
+        },
+        {
+            "page": "Francesco Roncalli",
+            "pageView": 1,
+            "total": 1590
+        },
+        {
+            "page": "Omar Dieng",
+            "pageView": 0,
+            "total": 1773
         }
     ]
 }

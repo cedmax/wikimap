@@ -3,275 +3,343 @@
     "people": [
         {
             "page": "Galba",
-            "pageView": 187056
-        },
-        {
-            "page": "Rita Forte",
-            "pageView": 104893
-        },
-        {
-            "page": "Mario Somma",
-            "pageView": 86777
-        },
-        {
-            "page": "Fanfulla da Lodi",
-            "pageView": 80905
-        },
-        {
-            "page": "Dino Fava Passaro",
-            "pageView": 80095
+            "pageView": 106,
+            "total": 187143
         },
         {
             "page": "Ubaldo Righetti",
-            "pageView": 73323
+            "pageView": 40,
+            "total": 73364
+        },
+        {
+            "page": "Dino Fava Passaro",
+            "pageView": 40,
+            "total": 80124
+        },
+        {
+            "page": "Fanfulla da Lodi",
+            "pageView": 39,
+            "total": 80929
+        },
+        {
+            "page": "Mario Somma",
+            "pageView": 36,
+            "total": 86804
         },
         {
             "page": "Roberto Policano",
-            "pageView": 56291
+            "pageView": 35,
+            "total": 56334
+        },
+        {
+            "page": "Rita Forte",
+            "pageView": 28,
+            "total": 104909
         },
         {
             "page": "Oberdan Biagioni",
-            "pageView": 40841
-        },
-        {
-            "page": "Cesareo di Terracina",
-            "pageView": 39295
+            "pageView": 22,
+            "total": 40872
         },
         {
             "page": "Giulio Marchetti",
-            "pageView": 36101
+            "pageView": 20,
+            "total": 36139
         },
         {
-            "page": "Giuseppe Petrocchi",
-            "pageView": 31762
-        },
-        {
-            "page": "Massimiliano Carlini",
-            "pageView": 28861
-        },
-        {
-            "page": "Attilio Gregori",
-            "pageView": 24979
-        },
-        {
-            "page": "Simone Rizzato",
-            "pageView": 24394
+            "page": "Cesareo di Terracina",
+            "pageView": 15,
+            "total": 39313
         },
         {
             "page": "Daniele Altobelli",
-            "pageView": 22030
+            "pageView": 15,
+            "total": 22034
         },
         {
             "page": "Mariano Crociata",
-            "pageView": 21816
+            "pageView": 14,
+            "total": 21829
+        },
+        {
+            "page": "Massimiliano Carlini",
+            "pageView": 14,
+            "total": 28864
         },
         {
             "page": "Raffaele Sergio",
-            "pageView": 21595
+            "pageView": 14,
+            "total": 21609
+        },
+        {
+            "page": "Attilio Gregori",
+            "pageView": 14,
+            "total": 24994
+        },
+        {
+            "page": "Simone Rizzato",
+            "pageView": 13,
+            "total": 24407
         },
         {
             "page": "Alessandro Cucciari",
-            "pageView": 17444
+            "pageView": 10,
+            "total": 17452
         },
         {
-            "page": "Fabio Celestini",
-            "pageView": 16289
+            "page": "Giuseppe Petrocchi",
+            "pageView": 10,
+            "total": 31787
         },
         {
             "page": "Roberto Simonetta",
-            "pageView": 13755
-        },
-        {
-            "page": "Egidio Pirozzi",
-            "pageView": 11853
-        },
-        {
-            "page": "Carlo Pascucci",
-            "pageView": 11495
-        },
-        {
-            "page": "Adelmo Prenna",
-            "pageView": 11441
-        },
-        {
-            "page": "Enrique Flamini",
-            "pageView": 11122
+            "pageView": 9,
+            "total": 13769
         },
         {
             "page": "Adriano Monti",
-            "pageView": 11016
+            "pageView": 9,
+            "total": 11020
+        },
+        {
+            "page": "Adelmo Prenna",
+            "pageView": 7,
+            "total": 11445
+        },
+        {
+            "page": "Fabio Celestini",
+            "pageView": 7,
+            "total": 16302
+        },
+        {
+            "page": "Enrique Flamini",
+            "pageView": 7,
+            "total": 11132
         },
         {
             "page": "Guglielmo Bacci",
-            "pageView": 10580
+            "pageView": 6,
+            "total": 10587
         },
         {
             "page": "George McAnthony",
-            "pageView": 9804
+            "pageView": 6,
+            "total": 9806
+        },
+        {
+            "page": "Carlo Pascucci",
+            "pageView": 6,
+            "total": 11497
+        },
+        {
+            "page": "Egidio Pirozzi",
+            "pageView": 6,
+            "total": 11861
         },
         {
             "page": "Christian Kanyengele",
-            "pageView": 9560
-        },
-        {
-            "page": "Rosario Giuliani",
-            "pageView": 8760
-        },
-        {
-            "page": "Giancarlo Marini",
-            "pageView": 7925
+            "pageView": 6,
+            "total": 9567
         },
         {
             "page": "Alessio Sartori",
-            "pageView": 7743
-        },
-        {
-            "page": "Alfredo Fiorini",
-            "pageView": 7530
+            "pageView": 5,
+            "total": 7748
         },
         {
             "page": "Alessandro Toti",
-            "pageView": 7480
+            "pageView": 5,
+            "total": 7484
         },
         {
-            "page": "Fabio Di Sauro",
-            "pageView": 6986
+            "page": "Rosario Giuliani",
+            "pageView": 5,
+            "total": 8768
+        },
+        {
+            "page": "Giancarlo Marini",
+            "pageView": 5,
+            "total": 7929
         },
         {
             "page": "Biagio Grasso",
-            "pageView": 6736
+            "pageView": 4,
+            "total": 6737
+        },
+        {
+            "page": "Fabio Di Sauro",
+            "pageView": 4,
+            "total": 6988
         },
         {
             "page": "Andrea Borsa",
-            "pageView": 6311
-        },
-        {
-            "page": "Salvatore Coccoluto",
-            "pageView": 6119
-        },
-        {
-            "page": "Andrea Ferrari (generale)",
-            "pageView": 5987
+            "pageView": 4,
+            "total": 6313
         },
         {
             "page": "Stefano Vavoli",
-            "pageView": 5353
-        },
-        {
-            "page": "Morris Manolo Ripa",
-            "pageView": 5314
-        },
-        {
-            "page": "Matilde Callari Galli",
-            "pageView": 5038
+            "pageView": 3.5,
+            "total": 5356
         },
         {
             "page": "Andrea Agnello (sceneggiatore)",
-            "pageView": 4491
+            "pageView": 3,
+            "total": 4491
+        },
+        {
+            "page": "Morris Manolo Ripa",
+            "pageView": 3,
+            "total": 5316
+        },
+        {
+            "page": "Andrea Ferrari (generale)",
+            "pageView": 3,
+            "total": 5989
+        },
+        {
+            "page": "Matilde Callari Galli",
+            "pageView": 3,
+            "total": 5039
         },
         {
             "page": "Fabrizio Abbate",
-            "pageView": 4283
+            "pageView": 3,
+            "total": 4285
         },
         {
-            "page": "Matteo Lodo",
-            "pageView": 3799
+            "page": "Alfredo Fiorini",
+            "pageView": 3,
+            "total": 7537
         },
         {
-            "page": "Silvano Pivotto",
-            "pageView": 3798
-        },
-        {
-            "page": "Gabriele Panizzi",
-            "pageView": 3118
+            "page": "Salvatore Coccoluto",
+            "pageView": 3,
+            "total": 6120
         },
         {
             "page": "Giuseppe Fatigati",
-            "pageView": 2939
-        },
-        {
-            "page": "Aulo Cornelio Palma Frontoniano",
-            "pageView": 2755
+            "pageView": 2,
+            "total": 2939
         },
         {
             "page": "Cesare Laurenti",
-            "pageView": 2699
+            "pageView": 2,
+            "total": 2702
         },
         {
-            "page": "Franco Tacelli",
-            "pageView": 2518
+            "page": "Matteo Lodo",
+            "pageView": 2,
+            "total": 3802
         },
         {
             "page": "Ariel Grana",
-            "pageView": 2387
+            "pageView": 2,
+            "total": 2389
+        },
+        {
+            "page": "Gabriele Panizzi",
+            "pageView": 2,
+            "total": 3120
+        },
+        {
+            "page": "Silvano Pivotto",
+            "pageView": 2,
+            "total": 3798
+        },
+        {
+            "page": "Aulo Cornelio Palma Frontoniano",
+            "pageView": 2,
+            "total": 2757
         },
         {
             "page": "Elisabetta Serrapica",
-            "pageView": 2277
+            "pageView": 2,
+            "total": 2277
         },
         {
-            "page": "Emilio Battista",
-            "pageView": 1926
-        },
-        {
-            "page": "Mauro Cerilli",
-            "pageView": 1895
-        },
-        {
-            "page": "Leonardo de Zocchis",
-            "pageView": 1806
+            "page": "Franco Tacelli",
+            "pageView": 2,
+            "total": 2519
         },
         {
             "page": "Luca Minutilli",
-            "pageView": 1697
-        },
-        {
-            "page": "Giordano Pironti",
-            "pageView": 1496
-        },
-        {
-            "page": "Domenico Sanguigni",
-            "pageView": 1342
-        },
-        {
-            "page": "Ercole Domenico Monanni",
-            "pageView": 1333
+            "pageView": 1,
+            "total": 1700
         },
         {
             "page": "Virgilio Ripa",
-            "pageView": 1292
+            "pageView": 1,
+            "total": 1292
+        },
+        {
+            "page": "Giordano Pironti",
+            "pageView": 1,
+            "total": 1496
+        },
+        {
+            "page": "Domenico Sanguigni",
+            "pageView": 1,
+            "total": 1342
+        },
+        {
+            "page": "Ercole Domenico Monanni",
+            "pageView": 1,
+            "total": 1333
+        },
+        {
+            "page": "Emilio Battista",
+            "pageView": 1,
+            "total": 1926
         },
         {
             "page": "Antonio Gui",
-            "pageView": 898
+            "pageView": 1,
+            "total": 898
         },
         {
-            "page": "Gianmaria Coccoluto",
-            "pageView": 874
+            "page": "Leonardo de Zocchis",
+            "pageView": 1,
+            "total": 1806
         },
         {
-            "page": "Giorgio Draskovic",
-            "pageView": 761
-        },
-        {
-            "page": "Vincenzo Recchia",
-            "pageView": 552
+            "page": "Mauro Cerilli",
+            "pageView": 0,
+            "total": 1912
         },
         {
             "page": "Paolo Di Girolamo",
-            "pageView": 494
+            "pageView": 0,
+            "total": 495
         },
         {
-            "page": "Pellegrino Claudio Sestieri",
-            "pageView": 441
+            "page": "Vincenzo Recchia",
+            "pageView": 0,
+            "total": 552
         },
         {
-            "page": "Elisabetta Fiorini Mazzanti",
-            "pageView": 264
+            "page": "Gianmaria Coccoluto",
+            "pageView": 0,
+            "total": 877
         },
         {
             "page": "Gregorio Bandi",
-            "pageView": 70
+            "pageView": 0,
+            "total": 71
+        },
+        {
+            "page": "Elisabetta Fiorini Mazzanti",
+            "pageView": 0,
+            "total": 265
+        },
+        {
+            "page": "Giorgio Draskovic",
+            "pageView": 0,
+            "total": 762
+        },
+        {
+            "page": "Pellegrino Claudio Sestieri",
+            "pageView": 0,
+            "total": 441
         }
     ]
 }

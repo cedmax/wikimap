@@ -2,48 +2,59 @@
     "name": "Calatafimi Segesta",
     "people": [
         {
-            "page": "Matteo Graziano",
-            "pageView": 7595
+            "page": "Francesco Vivona",
+            "pageView": 4,
+            "total": 6659
         },
         {
-            "page": "Francesco Vivona",
-            "pageView": 6659
+            "page": "Matteo Graziano",
+            "pageView": 4,
+            "total": 7598
         },
         {
             "page": "Simone Schiaffino",
-            "pageView": 5356
-        },
-        {
-            "page": "Aldo Penna",
-            "pageView": 4224
+            "pageView": 3,
+            "total": 5360
         },
         {
             "page": "Menone",
-            "pageView": 3883
-        },
-        {
-            "page": "Rocco Lazazzera",
-            "pageView": 2226
-        },
-        {
-            "page": "Carlo Bonardi (garibaldino)",
-            "pageView": 1617
+            "pageView": 3,
+            "total": 3884
         },
         {
             "page": "Desiderato Pietri",
-            "pageView": 1595
+            "pageView": 2,
+            "total": 1597
         },
         {
-            "page": "Luigi Martignoni",
-            "pageView": 1538
+            "page": "Aldo Penna",
+            "pageView": 2,
+            "total": 4226
+        },
+        {
+            "page": "Carlo Bonardi (garibaldino)",
+            "pageView": 2,
+            "total": 1617
+        },
+        {
+            "page": "Rocco Lazazzera",
+            "pageView": 2,
+            "total": 2227
         },
         {
             "page": "Pietro Nocito",
-            "pageView": 1229
+            "pageView": 1,
+            "total": 1229
+        },
+        {
+            "page": "Luigi Martignoni",
+            "pageView": 1,
+            "total": 1538
         },
         {
             "page": "Lina Prosa",
-            "pageView": 1007
+            "pageView": 0,
+            "total": 1008
         }
     ]
 }

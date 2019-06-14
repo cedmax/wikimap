@@ -1,0 +1,27 @@
+{
+    "id": "place.13754010489961800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Velletri",
+    "place_name": "Velletri, Roma, Italy",
+    "bbox": [
+        12.697535,
+        41.572618,
+        12.840004,
+        41.737872
+    ],
+    "center": [
+        12.78333,
+        41.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.78333,
+            41.66667
+        ]
+    }
+}

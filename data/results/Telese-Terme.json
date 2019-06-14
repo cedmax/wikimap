@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Nunzio Gallo",
-            "pageView": 90356
+            "pageView": 50,
+            "total": 90402
         },
         {
             "page": "Domenico Battaglia (vescovo)",
-            "pageView": 9441
+            "pageView": 9,
+            "total": 9446
         },
         {
             "page": "Mario Paciello",
-            "pageView": 9336
+            "pageView": 6,
+            "total": 9339
         },
         {
             "page": "Michele De Rosa",
-            "pageView": 7218
-        },
-        {
-            "page": "Antonio Conte (politico)",
-            "pageView": 5775
-        },
-        {
-            "page": "Felice Leonardo",
-            "pageView": 4448
-        },
-        {
-            "page": "Palerio di Telese",
-            "pageView": 3824
+            "pageView": 4,
+            "total": 7219
         },
         {
             "page": "Agnello (vescovo)",
-            "pageView": 3788
+            "pageView": 3,
+            "total": 3788
         },
         {
-            "page": "Angelo Massarelli",
-            "pageView": 3404
+            "page": "Antonio Conte (politico)",
+            "pageView": 3,
+            "total": 5784
         },
         {
-            "page": "Luigi Sodo",
-            "pageView": 3083
-        },
-        {
-            "page": "Vincenzo Lupoli",
-            "pageView": 2486
+            "page": "Felice Leonardo",
+            "pageView": 3,
+            "total": 4452
         },
         {
             "page": "Francesco Baccari",
-            "pageView": 2399
-        },
-        {
-            "page": "Giovanni Battista de Bellis",
-            "pageView": 2306
+            "pageView": 2,
+            "total": 2400
         },
         {
             "page": "Gennaro Di Giacomo",
-            "pageView": 2281
+            "pageView": 2,
+            "total": 2281
         },
         {
-            "page": "Carlo Puoti",
-            "pageView": 2069
-        },
-        {
-            "page": "Antonio Falangola",
-            "pageView": 2014
-        },
-        {
-            "page": "Cristoforo Ricci",
-            "pageView": 1845
-        },
-        {
-            "page": "Raffaele Longobardi",
-            "pageView": 1838
+            "page": "Luigi Sodo",
+            "pageView": 2,
+            "total": 3084
         },
         {
             "page": "Biagio Caropipe",
-            "pageView": 1784
+            "pageView": 2,
+            "total": 1786
         },
         {
-            "page": "Angelo Michele Iannacchino",
-            "pageView": 1682
+            "page": "Raffaele Longobardi",
+            "pageView": 2,
+            "total": 1839
         },
         {
-            "page": "Pietro Paolo de Rustici",
-            "pageView": 1614
+            "page": "Vincenzo Lupoli",
+            "pageView": 2,
+            "total": 2487
         },
         {
-            "page": "Sigismondo Gambacorta",
-            "pageView": 1612
+            "page": "Angelo Massarelli",
+            "pageView": 2,
+            "total": 3405
         },
         {
-            "page": "Salvatore Del Bene",
-            "pageView": 1606
+            "page": "Giovanni Battista de Bellis",
+            "pageView": 2,
+            "total": 2306
         },
         {
-            "page": "Eugenio Cattaneo",
-            "pageView": 1602
+            "page": "Palerio di Telese",
+            "pageView": 2,
+            "total": 3829
         },
         {
-            "page": "Biagio Gambaro",
-            "pageView": 1575
+            "page": "Carlo Puoti",
+            "pageView": 2,
+            "total": 2069
         },
         {
-            "page": "Giovanni Battista de Martino di Pietradoro",
-            "pageView": 1571
+            "page": "Antonio Falangola",
+            "pageView": 2,
+            "total": 2015
         },
         {
-            "page": "Giuseppe Signore",
-            "pageView": 1506
+            "page": "Cristoforo Ricci",
+            "pageView": 1,
+            "total": 1846
         },
         {
             "page": "Filippo Gentile",
-            "pageView": 1505
-        },
-        {
-            "page": "Giovanni Francesco Leone",
-            "pageView": 1449
-        },
-        {
-            "page": "Florenzio (vescovo)",
-            "pageView": 1398
-        },
-        {
-            "page": "Filiberto Pascale",
-            "pageView": 1296
-        },
-        {
-            "page": "Menna (vescovo)",
-            "pageView": 1271
-        },
-        {
-            "page": "Giacomo da Cerreto",
-            "pageView": 895
-        },
-        {
-            "page": "Arnaldo Telesino",
-            "pageView": 721
-        },
-        {
-            "page": "Pietro (vescovo di Telese)",
-            "pageView": 705
+            "pageView": 1,
+            "total": 1505
         },
         {
             "page": "Gilberto di Telese",
-            "pageView": 600
+            "pageView": 1,
+            "total": 601
+        },
+        {
+            "page": "Angelo Michele Iannacchino",
+            "pageView": 1,
+            "total": 1683
+        },
+        {
+            "page": "Giovanni Battista de Martino di Pietradoro",
+            "pageView": 1,
+            "total": 1571
+        },
+        {
+            "page": "Giovanni Francesco Leone",
+            "pageView": 1,
+            "total": 1449
+        },
+        {
+            "page": "Eugenio Cattaneo",
+            "pageView": 1,
+            "total": 1604
+        },
+        {
+            "page": "Pietro Paolo de Rustici",
+            "pageView": 1,
+            "total": 1614
+        },
+        {
+            "page": "Salvatore Del Bene",
+            "pageView": 1,
+            "total": 1609
+        },
+        {
+            "page": "Menna (vescovo)",
+            "pageView": 1,
+            "total": 1271
+        },
+        {
+            "page": "Giacomo da Cerreto",
+            "pageView": 1,
+            "total": 896
+        },
+        {
+            "page": "Arnaldo Telesino",
+            "pageView": 1,
+            "total": 721
+        },
+        {
+            "page": "Filiberto Pascale",
+            "pageView": 1,
+            "total": 1296
+        },
+        {
+            "page": "Pietro (vescovo di Telese)",
+            "pageView": 1,
+            "total": 706
+        },
+        {
+            "page": "Florenzio (vescovo)",
+            "pageView": 1,
+            "total": 1398
+        },
+        {
+            "page": "Giuseppe Signore",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "Sigismondo Gambacorta",
+            "pageView": 1,
+            "total": 1613
+        },
+        {
+            "page": "Biagio Gambaro",
+            "pageView": 1,
+            "total": 1576
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.10947826764373970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trezzo sull'Adda",
+    "place_name": "Trezzo sull'Adda, Milano, Italy",
+    "bbox": [
+        9.476231,
+        45.587788,
+        9.533246,
+        45.638976
+    ],
+    "center": [
+        9.51667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.51667,
+            45.6
+        ]
+    }
+}

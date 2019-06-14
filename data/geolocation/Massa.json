@@ -1,0 +1,27 @@
+{
+    "id": "place.10350901839480550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massa",
+    "place_name": "Massa, Massa-Carrara, Italy",
+    "bbox": [
+        10.060443,
+        43.979932,
+        10.243065,
+        44.121908
+    ],
+    "center": [
+        10.13333,
+        44.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            44.03333
+        ]
+    }
+}

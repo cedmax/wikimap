@@ -1,0 +1,27 @@
+{
+    "id": "place.7200419016189430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sambuca Pistoiese",
+    "place_name": "Sambuca Pistoiese, Pistoia, Italy",
+    "bbox": [
+        10.917284,
+        44.005165,
+        11.054716,
+        44.13852
+    ],
+    "center": [
+        11.00056,
+        44.10528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.00056,
+            44.10528
+        ]
+    }
+}

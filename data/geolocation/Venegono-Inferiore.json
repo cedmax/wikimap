@@ -1,0 +1,27 @@
+{
+    "id": "place.10783578300952220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venegono Inferiore",
+    "place_name": "Venegono Inferiore, Varese, Italy",
+    "bbox": [
+        8.877376,
+        45.723529,
+        8.930459,
+        45.754772
+    ],
+    "center": [
+        8.9,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.73333
+        ]
+    }
+}

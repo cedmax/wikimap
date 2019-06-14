@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Bartolomeo Giachino",
-            "pageView": 11684
-        },
-        {
-            "page": "Giovanni Monchiero",
-            "pageView": 8304
+            "pageView": 5,
+            "total": 11687
         },
         {
             "page": "Domenico Durante",
-            "pageView": 6937
+            "pageView": 4,
+            "total": 6944
+        },
+        {
+            "page": "Giovanni Monchiero",
+            "pageView": 4,
+            "total": 8306
         },
         {
             "page": "Tommaso Villa",
-            "pageView": 5745
+            "pageView": 4,
+            "total": 5746
         },
         {
             "page": "Francesco Delpiano",
-            "pageView": 3327
+            "pageView": 2,
+            "total": 3328
         }
     ]
 }

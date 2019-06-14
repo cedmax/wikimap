@@ -1,0 +1,27 @@
+{
+    "id": "place.13068089851537180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pavia",
+    "place_name": "Pavia, Pavia, Italy",
+    "bbox": [
+        9.090422,
+        45.156626,
+        9.240258,
+        45.233225
+    ],
+    "center": [
+        9.155,
+        45.18528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.155,
+            45.18528
+        ]
+    }
+}

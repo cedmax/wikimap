@@ -3,107 +3,133 @@
     "people": [
         {
             "page": "Katyna Ranieri",
-            "pageView": 64853
+            "pageView": 26,
+            "total": 64895
         },
         {
             "page": "Michele Marconi",
-            "pageView": 47767
+            "pageView": 18,
+            "total": 47869
         },
         {
             "page": "Sergio Sgrilli",
-            "pageView": 23636
+            "pageView": 14,
+            "total": 23644
         },
         {
             "page": "Massimo Mariotti",
-            "pageView": 8537
-        },
-        {
-            "page": "Enrico Mariotti",
-            "pageView": 8124
-        },
-        {
-            "page": "Alessandro Bertolucci (hockeista su pista)",
-            "pageView": 6900
-        },
-        {
-            "page": "Alessandro Michielon",
-            "pageView": 5069
-        },
-        {
-            "page": "Massimo Tataranni",
-            "pageView": 4788
-        },
-        {
-            "page": "Floriano Papi",
-            "pageView": 4429
-        },
-        {
-            "page": "Pierluigi Bresciani",
-            "pageView": 3449
-        },
-        {
-            "page": "Alberto Michielon",
-            "pageView": 2915
-        },
-        {
-            "page": "Giancarlo Fantozzi",
-            "pageView": 2855
-        },
-        {
-            "page": "Astolfo Benini",
-            "pageView": 2812
+            "pageView": 5,
+            "total": 8537
         },
         {
             "page": "Stefano Cantini",
-            "pageView": 2586
+            "pageView": 5,
+            "total": 2586
+        },
+        {
+            "page": "Alessandro Bertolucci (hockeista su pista)",
+            "pageView": 4,
+            "total": 6903
+        },
+        {
+            "page": "Enrico Mariotti",
+            "pageView": 4,
+            "total": 8125
+        },
+        {
+            "page": "Alessandro Michielon",
+            "pageView": 3,
+            "total": 5071
+        },
+        {
+            "page": "Massimo Tataranni",
+            "pageView": 3,
+            "total": 4788
+        },
+        {
+            "page": "Pierluigi Bresciani",
+            "pageView": 2,
+            "total": 3449
+        },
+        {
+            "page": "Floriano Papi",
+            "pageView": 2,
+            "total": 4429
+        },
+        {
+            "page": "Astolfo Benini",
+            "pageView": 2,
+            "total": 2812
         },
         {
             "page": "Luciano Frosini",
-            "pageView": 2531
+            "pageView": 2,
+            "total": 2531
+        },
+        {
+            "page": "Giancarlo Fantozzi",
+            "pageView": 2,
+            "total": 2858
         },
         {
             "page": "Ferruccio Panagini",
-            "pageView": 2456
+            "pageView": 2,
+            "total": 2457
+        },
+        {
+            "page": "Alberto Michielon",
+            "pageView": 2,
+            "total": 2918
         },
         {
             "page": "Federico Paghi",
-            "pageView": 1768
+            "pageView": 1,
+            "total": 1768
         },
         {
             "page": "Mino Pasquini",
-            "pageView": 1755
+            "pageView": 1,
+            "total": 1755
         },
         {
             "page": "Claudio Anedda",
-            "pageView": 1169
-        },
-        {
-            "page": "Andrea Malagoli",
-            "pageView": 962
-        },
-        {
-            "page": "Nicola Guerrazzi",
-            "pageView": 825
-        },
-        {
-            "page": "Mattia Gori",
-            "pageView": 647
+            "pageView": 1,
+            "total": 1169
         },
         {
             "page": "Sérgio Silva",
-            "pageView": 586
-        },
-        {
-            "page": "Marco Pagnini",
-            "pageView": 454
-        },
-        {
-            "page": "Lucas Ordóñez",
-            "pageView": 410
+            "pageView": 0,
+            "total": 587
         },
         {
             "page": "Stefano Paghi",
-            "pageView": 247
+            "pageView": 0,
+            "total": 247
+        },
+        {
+            "page": "Nicola Guerrazzi",
+            "pageView": 0,
+            "total": 825
+        },
+        {
+            "page": "Lucas Ordóñez",
+            "pageView": 0,
+            "total": 412
+        },
+        {
+            "page": "Andrea Malagoli",
+            "pageView": 0,
+            "total": 963
+        },
+        {
+            "page": "Mattia Gori",
+            "pageView": 0,
+            "total": 648
+        },
+        {
+            "page": "Marco Pagnini",
+            "pageView": 0,
+            "total": 454
         }
     ]
 }

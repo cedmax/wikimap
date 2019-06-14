@@ -1,0 +1,27 @@
+{
+    "id": "place.4108774658470600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orsara di Puglia",
+    "place_name": "Orsara di Puglia, Foggia, Italy",
+    "bbox": [
+        15.19896,
+        41.240552,
+        15.421191,
+        41.334107
+    ],
+    "center": [
+        15.26667,
+        41.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            41.28333
+        ]
+    }
+}

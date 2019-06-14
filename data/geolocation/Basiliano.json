@@ -1,0 +1,27 @@
+{
+    "id": "place.10128835900768710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Basiliano",
+    "place_name": "Basiliano, Udine, Italy",
+    "bbox": [
+        13.041578,
+        45.978157,
+        13.159709,
+        46.057744
+    ],
+    "center": [
+        13.1,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1,
+            46.01667
+        ]
+    }
+}

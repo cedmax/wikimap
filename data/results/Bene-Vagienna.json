@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giovanni Botero",
-            "pageView": 30166
+            "pageView": 20,
+            "total": 30179
         },
         {
             "page": "Pietro Gazzera",
-            "pageView": 15406
+            "pageView": 10,
+            "total": 15411
         },
         {
             "page": "Luigi Oreglia di Santo Stefano",
-            "pageView": 4558
-        },
-        {
-            "page": "Emilio Barucco",
-            "pageView": 2508
+            "pageView": 3,
+            "total": 4559
         },
         {
             "page": "Andrea Luigi Paglieri",
-            "pageView": 2120
+            "pageView": 2,
+            "total": 2121
+        },
+        {
+            "page": "Emilio Barucco",
+            "pageView": 2,
+            "total": 2510
         },
         {
             "page": "Giuseppe Costamagna",
-            "pageView": 1963
+            "pageView": 2,
+            "total": 1964
         },
         {
             "page": "Costanzo Gazzera",
-            "pageView": 1767
+            "pageView": 1,
+            "total": 1767
         },
         {
             "page": "Franco Gazzera",
-            "pageView": 1581
+            "pageView": 1,
+            "total": 1581
         }
     ]
 }

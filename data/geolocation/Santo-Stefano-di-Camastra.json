@@ -1,0 +1,27 @@
+{
+    "id": "place.13035758212512950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano di Camastra",
+    "place_name": "Santo Stefano di Camastra, Messina, Italy",
+    "bbox": [
+        14.337709,
+        37.956126,
+        14.392648,
+        38.02086
+    ],
+    "center": [
+        14.35,
+        38.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.35,
+            38.01667
+        ]
+    }
+}

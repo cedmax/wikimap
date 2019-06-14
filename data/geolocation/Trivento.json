@@ -1,0 +1,27 @@
+{
+    "id": "place.4728653052817730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trivento",
+    "place_name": "Trivento, Campobasso, Italy",
+    "bbox": [
+        14.502913,
+        41.731966,
+        14.644373,
+        41.821086
+    ],
+    "center": [
+        14.55,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            41.76667
+        ]
+    }
+}

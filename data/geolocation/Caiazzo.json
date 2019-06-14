@@ -1,0 +1,27 @@
+{
+    "id": "place.4129666867792430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caiazzo",
+    "place_name": "Caiazzo, Caserta, Italy",
+    "bbox": [
+        14.321971,
+        41.144973,
+        14.419325,
+        41.221894
+    ],
+    "center": [
+        14.36667,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            41.18333
+        ]
+    }
+}

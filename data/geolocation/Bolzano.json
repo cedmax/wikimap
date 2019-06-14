@@ -1,0 +1,29 @@
+{
+    "id": "place.10882274287307860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bolzano - Bozen",
+    "place_name": "Bolzano - Bozen, Bolzano, Italy",
+    "matching_text": "Bolzano",
+    "matching_place_name": "Bolzano, Bolzano, Italy",
+    "bbox": [
+        11.276211,
+        46.44525,
+        11.432611,
+        46.529762
+    ],
+    "center": [
+        11.35,
+        46.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.35,
+            46.5
+        ]
+    }
+}

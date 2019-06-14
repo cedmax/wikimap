@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Yves Montand",
-            "pageView": 158907
-        },
-        {
-            "page": "Eleonora Di Miele",
-            "pageView": 73640
+            "pageView": 89,
+            "total": 158964
         },
         {
             "page": "Giuseppe Giusti",
-            "pageView": 60822
+            "pageView": 41,
+            "total": 60865
+        },
+        {
+            "page": "Eleonora Di Miele",
+            "pageView": 39,
+            "total": 73695
         },
         {
             "page": "Bruno Bolchi",
-            "pageView": 44509
+            "pageView": 29,
+            "total": 44548
         },
         {
             "page": "Ferdinando Martini",
-            "pageView": 26385
+            "pageView": 17,
+            "total": 26404
         },
         {
             "page": "Mario Martiradonna",
-            "pageView": 25854
-        },
-        {
-            "page": "Italia Donati",
-            "pageView": 14423
+            "pageView": 16,
+            "total": 25867
         },
         {
             "page": "Idilio Cei",
-            "pageView": 14364
+            "pageView": 9,
+            "total": 14376
+        },
+        {
+            "page": "Italia Donati",
+            "pageView": 8,
+            "total": 14430
         },
         {
             "page": "Giovanni De Min (calciatore)",
-            "pageView": 9956
+            "pageView": 7,
+            "total": 9967
         },
         {
             "page": "Davide Bechini",
-            "pageView": 6800
-        },
-        {
-            "page": "Ezio Cecchi",
-            "pageView": 6156
+            "pageView": 4,
+            "total": 6802
         },
         {
             "page": "Guido Capello",
-            "pageView": 5892
+            "pageView": 4,
+            "total": 5895
+        },
+        {
+            "page": "Ezio Cecchi",
+            "pageView": 4,
+            "total": 6157
         },
         {
             "page": "Giorgio Bolognesi",
-            "pageView": 4310
-        },
-        {
-            "page": "Mario Nicolini (1912)",
-            "pageView": 3455
-        },
-        {
-            "page": "Luciano Tesi",
-            "pageView": 3041
-        },
-        {
-            "page": "Rodolfo Agostini",
-            "pageView": 2964
-        },
-        {
-            "page": "Giulia Rinieri de' Rocchi",
-            "pageView": 2905
-        },
-        {
-            "page": "Giuliano Tagliasacchi",
-            "pageView": 2778
-        },
-        {
-            "page": "Francesco Colzi",
-            "pageView": 2547
-        },
-        {
-            "page": "Vincenzo Martini",
-            "pageView": 2343
-        },
-        {
-            "page": "Renato Dini",
-            "pageView": 2112
-        },
-        {
-            "page": "Giorgio Pellegrini",
-            "pageView": 1865
+            "pageView": 3,
+            "total": 4313
         },
         {
             "page": "Paolo Francesco Carli",
-            "pageView": 1834
+            "pageView": 2,
+            "total": 1834
         },
         {
-            "page": "Leone Della Latta",
-            "pageView": 1715
+            "page": "Francesco Colzi",
+            "pageView": 2,
+            "total": 2547
+        },
+        {
+            "page": "Vincenzo Martini",
+            "pageView": 2,
+            "total": 2344
+        },
+        {
+            "page": "Giulia Rinieri de' Rocchi",
+            "pageView": 2,
+            "total": 2906
+        },
+        {
+            "page": "Luciano Tesi",
+            "pageView": 2,
+            "total": 3041
+        },
+        {
+            "page": "Giorgio Pellegrini",
+            "pageView": 2,
+            "total": 1865
+        },
+        {
+            "page": "Mario Nicolini (1912)",
+            "pageView": 2,
+            "total": 3455
         },
         {
             "page": "Marzio Magli",
-            "pageView": 1469
+            "pageView": 2,
+            "total": 1472
         },
         {
-            "page": "Leonetto Spagnoli",
-            "pageView": 1444
+            "page": "Giuliano Tagliasacchi",
+            "pageView": 2,
+            "total": 2778
         },
         {
-            "page": "Paolo Casciani",
-            "pageView": 1432
+            "page": "Renato Dini",
+            "pageView": 2,
+            "total": 2112
         },
         {
-            "page": "Pellegrino Tonini",
-            "pageView": 1423
+            "page": "Rodolfo Agostini",
+            "pageView": 2,
+            "total": 2965
         },
         {
             "page": "Ottaviano Colzi",
-            "pageView": 983
+            "pageView": 1,
+            "total": 985
+        },
+        {
+            "page": "Leone Della Latta",
+            "pageView": 1,
+            "total": 1715
+        },
+        {
+            "page": "Paolo Casciani",
+            "pageView": 1,
+            "total": 1433
+        },
+        {
+            "page": "Leonetto Spagnoli",
+            "pageView": 1,
+            "total": 1444
+        },
+        {
+            "page": "Pellegrino Tonini",
+            "pageView": 1,
+            "total": 1423
         }
     ]
 }

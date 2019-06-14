@@ -1,0 +1,27 @@
+{
+    "id": "place.13398058333794840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canazei",
+    "place_name": "Canazei, Trento, Italy",
+    "bbox": [
+        11.744152,
+        46.425255,
+        11.889828,
+        46.533078
+    ],
+    "center": [
+        11.77104,
+        46.47696
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.77104,
+            46.47696
+        ]
+    }
+}

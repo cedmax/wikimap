@@ -1,0 +1,27 @@
+{
+    "id": "place.10176739991540720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bollengo",
+    "place_name": "Bollengo, Torino, Italy",
+    "bbox": [
+        7.923763,
+        45.44227,
+        7.978003,
+        45.495765
+    ],
+    "center": [
+        7.95,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95,
+            45.46667
+        ]
+    }
+}

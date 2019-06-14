@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Gherardo Freschi",
-            "pageView": 2104
+            "pageView": 2,
+            "total": 2105
         },
         {
             "page": "Fermino Cassin",
-            "pageView": 1928
-        },
-        {
-            "page": "Volrico Travaglini",
-            "pageView": 1213
-        },
-        {
-            "page": "Amedeo Sandrini",
-            "pageView": 1082
+            "pageView": 2,
+            "total": 1929
         },
         {
             "page": "Gustavo Freschi",
-            "pageView": 920
+            "pageView": 1,
+            "total": 920
         },
         {
             "page": "Nanni Latini",
-            "pageView": 794
+            "pageView": 1,
+            "total": 794
+        },
+        {
+            "page": "Amedeo Sandrini",
+            "pageView": 1,
+            "total": 1083
+        },
+        {
+            "page": "Volrico Travaglini",
+            "pageView": 1,
+            "total": 1214
         }
     ]
 }

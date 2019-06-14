@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Domenico Beccafumi",
-            "pageView": 36951
+            "pageView": 24,
+            "total": 36977
         },
         {
             "page": "Emilio Ravel",
-            "pageView": 12101
-        },
-        {
-            "page": "Jacopo de' Pazzi il Vecchio",
-            "pageView": 6754
-        },
-        {
-            "page": "Pier Pettinaio",
-            "pageView": 5904
+            "pageView": 5,
+            "total": 12103
         },
         {
             "page": "Roberto Mazzanti",
-            "pageView": 5882
+            "pageView": 4,
+            "total": 5885
         },
         {
-            "page": "Pietro Sorri",
-            "pageView": 3624
+            "page": "Jacopo de' Pazzi il Vecchio",
+            "pageView": 3,
+            "total": 6758
         },
         {
-            "page": "Fabio Chigi Saracini",
-            "pageView": 3042
-        },
-        {
-            "page": "Pastorino dei Pastorini",
-            "pageView": 3028
-        },
-        {
-            "page": "Giuseppe Pescetti",
-            "pageView": 2590
-        },
-        {
-            "page": "Gino Tozzi",
-            "pageView": 2540
-        },
-        {
-            "page": "Alessandro Lisini",
-            "pageView": 2302
+            "page": "Pier Pettinaio",
+            "pageView": 3,
+            "total": 5904
         },
         {
             "page": "Lorenzo Provvedi",
-            "pageView": 2229
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Pietro Sorri",
+            "pageView": 2,
+            "total": 3626
+        },
+        {
+            "page": "Alessandro Lisini",
+            "pageView": 2,
+            "total": 2303
+        },
+        {
+            "page": "Fabio Chigi Saracini",
+            "pageView": 2,
+            "total": 3046
+        },
+        {
+            "page": "Giuseppe Pescetti",
+            "pageView": 2,
+            "total": 2590
+        },
+        {
+            "page": "Pastorino dei Pastorini",
+            "pageView": 2,
+            "total": 3028
+        },
+        {
+            "page": "Gino Tozzi",
+            "pageView": 2,
+            "total": 2540
         },
         {
             "page": "Lorenzo Franci",
-            "pageView": 1274
+            "pageView": 1,
+            "total": 1274
         },
         {
             "page": "Casimiro Casucci",
-            "pageView": 1031
+            "pageView": 1,
+            "total": 1031
         },
         {
             "page": "Genesio Amadori",
-            "pageView": 206
+            "pageView": 0,
+            "total": 206
         }
     ]
 }

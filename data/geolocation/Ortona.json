@@ -1,0 +1,27 @@
+{
+    "id": "place.5300575164669810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ortona",
+    "place_name": "Ortona, Chieti, Italy",
+    "bbox": [
+        14.311672,
+        42.270118,
+        14.441333,
+        42.405046
+    ],
+    "center": [
+        14.40359,
+        42.35566
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.40359,
+            42.35566
+        ]
+    }
+}

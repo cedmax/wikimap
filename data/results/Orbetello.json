@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Alice Sabatini",
-            "pageView": 356874
-        },
-        {
-            "page": "Roberta Lombardi",
-            "pageView": 143381
+            "pageView": 108,
+            "total": 356972
         },
         {
             "page": "Alfonso Gatto",
-            "pageView": 83920
+            "pageView": 53,
+            "total": 83966
         },
         {
-            "page": "Teresa Ciabatti",
-            "pageView": 81842
+            "page": "Roberta Lombardi",
+            "pageView": 41,
+            "total": 143423
         },
         {
             "page": "Lucia Goracci",
-            "pageView": 63701
+            "pageView": 24,
+            "total": 63717
         },
         {
             "page": "Adriana Ivancich",
-            "pageView": 39896
+            "pageView": 23,
+            "total": 39907
+        },
+        {
+            "page": "Teresa Ciabatti",
+            "pageView": 21,
+            "total": 81861
         },
         {
             "page": "Paolo Stringara",
-            "pageView": 27666
-        },
-        {
-            "page": "Nadia Fusini",
-            "pageView": 26438
+            "pageView": 16,
+            "total": 27682
         },
         {
             "page": "Matteo Abbate",
-            "pageView": 23886
+            "pageView": 15,
+            "total": 23889
         },
         {
-            "page": "Guglielmo Borghetti",
-            "pageView": 18404
+            "page": "Nadia Fusini",
+            "pageView": 14,
+            "total": 26449
         },
         {
             "page": "Gabriello Carotti",
-            "pageView": 18084
+            "pageView": 12,
+            "total": 18092
         },
         {
-            "page": "Aldo Nicolaj",
-            "pageView": 15578
+            "page": "Guglielmo Borghetti",
+            "pageView": 10,
+            "total": 18410
         },
         {
             "page": "Mauro Amenta",
-            "pageView": 15110
+            "pageView": 10,
+            "total": 15116
+        },
+        {
+            "page": "Aldo Nicolaj",
+            "pageView": 9,
+            "total": 15586
         },
         {
             "page": "Lamberto Bartolucci (generale)",
-            "pageView": 12519
+            "pageView": 7,
+            "total": 12527
         },
         {
             "page": "Mario Meini",
-            "pageView": 10327
-        },
-        {
-            "page": "Giacomo Babini",
-            "pageView": 8222
-        },
-        {
-            "page": "Gianluca Presicci",
-            "pageView": 6552
-        },
-        {
-            "page": "Jacopo Gelli",
-            "pageView": 6429
-        },
-        {
-            "page": "Francesco Nieto",
-            "pageView": 6190
-        },
-        {
-            "page": "Massimiliano Velotto",
-            "pageView": 5752
-        },
-        {
-            "page": "Umberto Pasella",
-            "pageView": 5531
-        },
-        {
-            "page": "Giuseppe Merci",
-            "pageView": 5376
-        },
-        {
-            "page": "Alessandro Capitani",
-            "pageView": 5282
-        },
-        {
-            "page": "Renzo Aldi",
-            "pageView": 5148
+            "pageView": 6,
+            "total": 10329
         },
         {
             "page": "Giovanni Roncari",
-            "pageView": 4615
+            "pageView": 5,
+            "total": 4617
+        },
+        {
+            "page": "Alessandro Capitani",
+            "pageView": 5,
+            "total": 5290
+        },
+        {
+            "page": "Giacomo Babini",
+            "pageView": 5,
+            "total": 8228
+        },
+        {
+            "page": "Massimiliano Velotto",
+            "pageView": 4,
+            "total": 5754
+        },
+        {
+            "page": "Jacopo Gelli",
+            "pageView": 4,
+            "total": 6432
+        },
+        {
+            "page": "Francesco Nieto",
+            "pageView": 4,
+            "total": 6196
+        },
+        {
+            "page": "Umberto Pasella",
+            "pageView": 4,
+            "total": 5539
+        },
+        {
+            "page": "Gianluca Presicci",
+            "pageView": 4,
+            "total": 6555
+        },
+        {
+            "page": "Renzo Aldi",
+            "pageView": 3,
+            "total": 5149
         },
         {
             "page": "Luciano Fusini",
-            "pageView": 4534
-        },
-        {
-            "page": "Domenico Luigi Batacchi",
-            "pageView": 4169
-        },
-        {
-            "page": "Niccolò Gallo",
-            "pageView": 4070
+            "pageView": 3,
+            "total": 4543
         },
         {
             "page": "Fabrizio Bartolini (calciatore)",
-            "pageView": 3949
+            "pageView": 3,
+            "total": 3949
         },
         {
-            "page": "Nibbio Bacci",
-            "pageView": 3583
-        },
-        {
-            "page": "Giovanni D'Ascenzi",
-            "pageView": 3438
-        },
-        {
-            "page": "Biagio Brugi",
-            "pageView": 2898
-        },
-        {
-            "page": "Tommaso Arezzo",
-            "pageView": 2850
+            "page": "Domenico Luigi Batacchi",
+            "pageView": 3,
+            "total": 4171
         },
         {
             "page": "Eugenio Binini",
-            "pageView": 2760
+            "pageView": 3,
+            "total": 2761
+        },
+        {
+            "page": "Niccolò Gallo",
+            "pageView": 3,
+            "total": 4072
+        },
+        {
+            "page": "Giuseppe Merci",
+            "pageView": 3,
+            "total": 5382
         },
         {
             "page": "Renato Ferrini",
-            "pageView": 2381
+            "pageView": 2,
+            "total": 2382
+        },
+        {
+            "page": "Biagio Brugi",
+            "pageView": 2,
+            "total": 2899
         },
         {
             "page": "Pietro Fanciulli",
-            "pageView": 2181
+            "pageView": 2,
+            "total": 2181
         },
         {
             "page": "Arnaldo Petretti",
-            "pageView": 1891
+            "pageView": 2,
+            "total": 1899
         },
         {
-            "page": "Claude Delvincourt",
-            "pageView": 1559
+            "page": "Giovanni D'Ascenzi",
+            "pageView": 2,
+            "total": 3441
         },
         {
-            "page": "Angelo Banti",
-            "pageView": 1275
+            "page": "Tommaso Arezzo",
+            "pageView": 2,
+            "total": 2850
+        },
+        {
+            "page": "Nibbio Bacci",
+            "pageView": 2,
+            "total": 3584
         },
         {
             "page": "Raffaello Bellucci",
-            "pageView": 1199
+            "pageView": 1,
+            "total": 1199
+        },
+        {
+            "page": "Angelo Banti",
+            "pageView": 1,
+            "total": 1275
         },
         {
             "page": "Marie Susini",
-            "pageView": 1181
+            "pageView": 1,
+            "total": 1182
+        },
+        {
+            "page": "Claude Delvincourt",
+            "pageView": 1,
+            "total": 1559
         },
         {
             "page": "Giuseppe Agnino",
-            "pageView": 778
-        },
-        {
-            "page": "Pietro Raveggi",
-            "pageView": 417
+            "pageView": 1,
+            "total": 779
         },
         {
             "page": "Antonio De Witt (politico)",
-            "pageView": 396
+            "pageView": 0,
+            "total": 398
+        },
+        {
+            "page": "Pietro Raveggi",
+            "pageView": 0,
+            "total": 417
         }
     ]
 }

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Micaela Campana",
-            "pageView": 40548
+            "pageView": 14,
+            "total": 40560
         },
         {
             "page": "Giuseppe Marco Albano",
-            "pageView": 9638
+            "pageView": 5,
+            "total": 9640
         },
         {
             "page": "Luca Leggiero",
-            "pageView": 8328
-        },
-        {
-            "page": "Douglas Nicolodi",
-            "pageView": 4387
-        },
-        {
-            "page": "Martino Scarafile",
-            "pageView": 2650
+            "pageView": 4,
+            "total": 8332
         },
         {
             "page": "Nicolò Baron",
-            "pageView": 2510
+            "pageView": 3,
+            "total": 2512
         },
         {
-            "page": "Nicola La Gravinese",
-            "pageView": 2131
-        },
-        {
-            "page": "Oronzo Lorusso",
-            "pageView": 2114
-        },
-        {
-            "page": "Bruno Alexandre da Silva",
-            "pageView": 2106
-        },
-        {
-            "page": "Pasquale Lagravinese",
-            "pageView": 2051
-        },
-        {
-            "page": "Francesco De Cillis",
-            "pageView": 1943
-        },
-        {
-            "page": "Pablo Parilla",
-            "pageView": 1644
-        },
-        {
-            "page": "Piero Basile",
-            "pageView": 1587
+            "page": "Douglas Nicolodi",
+            "pageView": 3,
+            "total": 4388
         },
         {
             "page": "Paulo Jorge Camões Martins",
-            "pageView": 985
+            "pageView": 2,
+            "total": 985
+        },
+        {
+            "page": "Nicola La Gravinese",
+            "pageView": 2,
+            "total": 2132
+        },
+        {
+            "page": "Oronzo Lorusso",
+            "pageView": 2,
+            "total": 2114
+        },
+        {
+            "page": "Pasquale Lagravinese",
+            "pageView": 2,
+            "total": 2053
+        },
+        {
+            "page": "Bruno Alexandre da Silva",
+            "pageView": 2,
+            "total": 2110
+        },
+        {
+            "page": "Piero Basile",
+            "pageView": 2,
+            "total": 1588
+        },
+        {
+            "page": "Martino Scarafile",
+            "pageView": 2,
+            "total": 2650
+        },
+        {
+            "page": "Francesco De Cillis",
+            "pageView": 1,
+            "total": 1944
+        },
+        {
+            "page": "Pablo Parilla",
+            "pageView": 1,
+            "total": 1646
         },
         {
             "page": "Giuseppe Micoli",
-            "pageView": 793
-        },
-        {
-            "page": "Sebastiano Giannandrea",
-            "pageView": 645
-        },
-        {
-            "page": "Cainan De Matos",
-            "pageView": 473
+            "pageView": 0,
+            "total": 793
         },
         {
             "page": "Josiko",
-            "pageView": 274
+            "pageView": 0,
+            "total": 274
+        },
+        {
+            "page": "Cainan De Matos",
+            "pageView": 0,
+            "total": 483
+        },
+        {
+            "page": "Sebastiano Giannandrea",
+            "pageView": 0,
+            "total": 645
         }
     ]
 }

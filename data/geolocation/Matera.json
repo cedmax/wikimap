@@ -1,0 +1,27 @@
+{
+    "id": "place.4073820109918580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Matera",
+    "place_name": "Matera, Matera, Italy",
+    "bbox": [
+        16.412032,
+        40.56616,
+        16.728705,
+        40.763493
+    ],
+    "center": [
+        16.6,
+        40.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.6,
+            40.66667
+        ]
+    }
+}

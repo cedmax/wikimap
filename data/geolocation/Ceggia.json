@@ -1,0 +1,27 @@
+{
+    "id": "place.7022165441495060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceggia",
+    "place_name": "Ceggia, Venezia, Italy",
+    "bbox": [
+        12.601592,
+        45.655142,
+        12.68629,
+        45.710299
+    ],
+    "center": [
+        12.63333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.63333,
+            45.68333
+        ]
+    }
+}

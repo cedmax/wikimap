@@ -1,0 +1,27 @@
+{
+    "id": "place.5442540909266090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca di Botte",
+    "place_name": "Rocca di Botte, L'Aquila, Italy",
+    "bbox": [
+        13.048203,
+        41.986829,
+        13.206221,
+        42.054081
+    ],
+    "center": [
+        13.06861,
+        42.02722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.06861,
+            42.02722
+        ]
+    }
+}

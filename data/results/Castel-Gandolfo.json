@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Papa Paolo VI",
-            "pageView": 826468
+            "pageView": 443,
+            "total": 826814
         },
         {
             "page": "Papa Pio XII",
-            "pageView": 675475
+            "pageView": 382,
+            "total": 675806
         },
         {
             "page": "Pietro Savorgnan di Brazzà",
-            "pageView": 48207
+            "pageView": 31,
+            "total": 48242
         },
         {
             "page": "Angelo Mai",
-            "pageView": 41944
+            "pageView": 27,
+            "total": 41971
         },
         {
             "page": "Karl Hass",
-            "pageView": 26407
+            "pageView": 16,
+            "total": 26425
         },
         {
             "page": "Andrea Bianchi (regista)",
-            "pageView": 21784
-        },
-        {
-            "page": "Giovanni Battista de Rossi",
-            "pageView": 12690
+            "pageView": 13,
+            "total": 21793
         },
         {
             "page": "Virginio Rotondi",
-            "pageView": 10661
+            "pageView": 7,
+            "total": 10665
+        },
+        {
+            "page": "Giovanni Battista de Rossi",
+            "pageView": 7,
+            "total": 12698
         },
         {
             "page": "Rubi Dalma",
-            "pageView": 8514
+            "pageView": 5,
+            "total": 8517
         },
         {
             "page": "Mario Cermenati",
-            "pageView": 7549
+            "pageView": 5,
+            "total": 7552
         },
         {
             "page": "Luigi Lavitrano",
-            "pageView": 5924
-        },
-        {
-            "page": "Francesco Fontana (architetto)",
-            "pageView": 5345
-        },
-        {
-            "page": "Giovanni Battista Savelli",
-            "pageView": 4957
+            "pageView": 4,
+            "total": 5926
         },
         {
             "page": "Charles-Joseph Natoire",
-            "pageView": 4727
+            "pageView": 3,
+            "total": 4729
+        },
+        {
+            "page": "Giovanni Battista Savelli",
+            "pageView": 3,
+            "total": 4957
+        },
+        {
+            "page": "Francesco Fontana (architetto)",
+            "pageView": 3,
+            "total": 5348
         },
         {
             "page": "Luigi Centurione",
-            "pageView": 2348
-        },
-        {
-            "page": "Nicola Angelucci",
-            "pageView": 2193
-        },
-        {
-            "page": "Aldo Dezi",
-            "pageView": 1874
-        },
-        {
-            "page": "Stefano Emili",
-            "pageView": 1439
-        },
-        {
-            "page": "Governatori di Castel Gandolfo",
-            "pageView": 1382
+            "pageView": 2,
+            "total": 2349
         },
         {
             "page": "Giovanni Papanti",
-            "pageView": 1379
+            "pageView": 2,
+            "total": 1385
+        },
+        {
+            "page": "Nicola Angelucci",
+            "pageView": 2,
+            "total": 2193
+        },
+        {
+            "page": "Aldo Dezi",
+            "pageView": 2,
+            "total": 1876
+        },
+        {
+            "page": "Stefano Emili",
+            "pageView": 1,
+            "total": 1440
+        },
+        {
+            "page": "Governatori di Castel Gandolfo",
+            "pageView": 1,
+            "total": 1382
         },
         {
             "page": "Pietro Bruschi",
-            "pageView": 59
+            "pageView": 0,
+            "total": 60
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.7675654730189590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riva presso Chieri",
+    "place_name": "Riva presso Chieri, Torino, Italy",
+    "bbox": [
+        7.842139,
+        44.93525,
+        7.934617,
+        45.019484
+    ],
+    "center": [
+        7.86667,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            44.98333
+        ]
+    }
+}

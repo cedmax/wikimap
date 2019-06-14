@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Christian Maggio",
-            "pageView": 391140
+            "pageView": 169,
+            "total": 391250
         },
         {
             "page": "Daniele Orsato",
-            "pageView": 172942
-        },
-        {
-            "page": "Luisa Muraro",
-            "pageView": 27789
-        },
-        {
-            "page": "Silvio Ceccato",
-            "pageView": 18590
-        },
-        {
-            "page": "Matteo Pivotto",
-            "pageView": 14483
-        },
-        {
-            "page": "Giorgio Biasiolo",
-            "pageView": 14294
+            "pageView": 52,
+            "total": 173010
         },
         {
             "page": "Gianluca Mech",
-            "pageView": 13528
+            "pageView": 29,
+            "total": 13548
+        },
+        {
+            "page": "Luisa Muraro",
+            "pageView": 17,
+            "total": 27799
+        },
+        {
+            "page": "Silvio Ceccato",
+            "pageView": 11,
+            "total": 18607
+        },
+        {
+            "page": "Matteo Pivotto",
+            "pageView": 9,
+            "total": 14494
+        },
+        {
+            "page": "Giorgio Biasiolo",
+            "pageView": 9,
+            "total": 14301
         },
         {
             "page": "Mario Dal Pra",
-            "pageView": 12842
-        },
-        {
-            "page": "Bruno Cenghialta",
-            "pageView": 7651
+            "pageView": 8,
+            "total": 12851
         },
         {
             "page": "Giovanni Buonconsiglio",
-            "pageView": 7331
+            "pageView": 4,
+            "total": 7341
         },
         {
             "page": "Pierangelo Valtinoni",
-            "pageView": 5959
+            "pageView": 4,
+            "total": 5966
         },
         {
-            "page": "Marcello Trevisan",
-            "pageView": 4750
+            "page": "Bruno Cenghialta",
+            "pageView": 4,
+            "total": 7653
         },
         {
             "page": "Pietro Ceccato",
-            "pageView": 4468
+            "pageView": 3,
+            "total": 4472
         },
         {
             "page": "Luigi Massignan",
-            "pageView": 4436
-        },
-        {
-            "page": "Antonio Pizzocaro",
-            "pageView": 4335
-        },
-        {
-            "page": "Mario Mercorio",
-            "pageView": 2855
-        },
-        {
-            "page": "Riccardo Chiarello",
-            "pageView": 2609
-        },
-        {
-            "page": "Emiliano Giglioli",
-            "pageView": 2315
-        },
-        {
-            "page": "Michele Danese",
-            "pageView": 2283
-        },
-        {
-            "page": "Renato Ghiotto",
-            "pageView": 2252
-        },
-        {
-            "page": "Andrea Garghella",
-            "pageView": 2231
-        },
-        {
-            "page": "Federico Ghiotto",
-            "pageView": 1997
-        },
-        {
-            "page": "Giovanni Battista Carlassara",
-            "pageView": 1811
+            "pageView": 3,
+            "total": 4439
         },
         {
             "page": "Irene Ghiotto",
-            "pageView": 1572
+            "pageView": 3,
+            "total": 1577
         },
         {
-            "page": "Giulia Crestani",
-            "pageView": 1378
+            "page": "Antonio Pizzocaro",
+            "pageView": 3,
+            "total": 4340
         },
         {
-            "page": "Renato Corà",
-            "pageView": 1089
+            "page": "Marcello Trevisan",
+            "pageView": 3,
+            "total": 4751
+        },
+        {
+            "page": "Michele Danese",
+            "pageView": 2,
+            "total": 2285
+        },
+        {
+            "page": "Federico Ghiotto",
+            "pageView": 2,
+            "total": 1997
+        },
+        {
+            "page": "Riccardo Chiarello",
+            "pageView": 2,
+            "total": 2610
+        },
+        {
+            "page": "Andrea Garghella",
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Emiliano Giglioli",
+            "pageView": 2,
+            "total": 2315
         },
         {
             "page": "Giovanni Schiavo",
-            "pageView": 930
+            "pageView": 2,
+            "total": 930
+        },
+        {
+            "page": "Mario Mercorio",
+            "pageView": 2,
+            "total": 2856
+        },
+        {
+            "page": "Renato Ghiotto",
+            "pageView": 2,
+            "total": 2253
+        },
+        {
+            "page": "Giulia Crestani",
+            "pageView": 1,
+            "total": 1378
+        },
+        {
+            "page": "Renato Corà",
+            "pageView": 1,
+            "total": 1089
+        },
+        {
+            "page": "Giovanni Battista Carlassara",
+            "pageView": 1,
+            "total": 1812
         }
     ]
 }

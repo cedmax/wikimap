@@ -1,0 +1,27 @@
+{
+    "id": "place.13374255513554070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiavari",
+    "place_name": "Chiavari, Genova, Italy",
+    "bbox": [
+        9.280554,
+        44.309591,
+        9.353188,
+        44.345923
+    ],
+    "center": [
+        9.32374,
+        44.31641
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.32374,
+            44.31641
+        ]
+    }
+}

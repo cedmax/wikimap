@@ -1,0 +1,27 @@
+{
+    "id": "place.4374813444196130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loreto Aprutino",
+    "place_name": "Loreto Aprutino, Pescara, Italy",
+    "bbox": [
+        13.908745,
+        42.367173,
+        14.035002,
+        42.46272
+    ],
+    "center": [
+        13.98361,
+        42.43472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.98361,
+            42.43472
+        ]
+    }
+}

@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Domenico Sigalini",
-            "pageView": 42331
-        },
-        {
-            "page": "Ettore Donini",
-            "pageView": 2588
-        },
-        {
-            "page": "Giovanni Felini",
-            "pageView": 1316
+            "pageView": 19,
+            "total": 42359
         },
         {
             "page": "Guido Agosti (militare)",
-            "pageView": 1133
+            "pageView": 2,
+            "total": 1133
+        },
+        {
+            "page": "Ettore Donini",
+            "pageView": 2,
+            "total": 2589
+        },
+        {
+            "page": "Giovanni Felini",
+            "pageView": 1,
+            "total": 1316
         }
     ]
 }

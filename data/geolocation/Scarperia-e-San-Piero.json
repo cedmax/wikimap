@@ -1,0 +1,27 @@
+{
+    "id": "place.13254403360441380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scarperia e San Piero",
+    "place_name": "Scarperia e San Piero, Firenze, Italy",
+    "bbox": [
+        11.241309,
+        43.919683,
+        11.391234,
+        44.083678
+    ],
+    "center": [
+        11.31667,
+        43.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            43.96667
+        ]
+    }
+}

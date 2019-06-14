@@ -1,0 +1,27 @@
+{
+    "id": "place.9531003079531880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lacedonia",
+    "place_name": "Lacedonia, Avellino, Italy",
+    "bbox": [
+        15.349458,
+        40.996504,
+        15.545851,
+        41.106576
+    ],
+    "center": [
+        15.42472,
+        41.05222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.42472,
+            41.05222
+        ]
+    }
+}

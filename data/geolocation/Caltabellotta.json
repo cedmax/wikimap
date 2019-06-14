@@ -1,0 +1,27 @@
+{
+    "id": "place.16683035909162820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caltabellotta",
+    "place_name": "Caltabellotta, Agrigento, Italy",
+    "bbox": [
+        13.097716,
+        37.484201,
+        13.269111,
+        37.651709
+    ],
+    "center": [
+        13.21861,
+        37.57574
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21861,
+            37.57574
+        ]
+    }
+}

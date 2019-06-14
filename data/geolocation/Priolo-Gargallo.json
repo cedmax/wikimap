@@ -1,0 +1,27 @@
+{
+    "id": "place.6120681039064680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Priolo Gargallo",
+    "place_name": "Priolo Gargallo, Siracusa, Italy",
+    "bbox": [
+        15.116389,
+        37.103038,
+        15.244817,
+        37.178002
+    ],
+    "center": [
+        15.18333,
+        37.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.18333,
+            37.16667
+        ]
+    }
+}

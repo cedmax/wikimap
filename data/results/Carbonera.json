@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Giuseppe Moro",
-            "pageView": 34473
+            "pageView": 17,
+            "total": 34482
         },
         {
             "page": "Adriano Reginato",
-            "pageView": 18560
+            "pageView": 11,
+            "total": 18565
         },
         {
             "page": "Gaetano Collotti",
-            "pageView": 12993
+            "pageView": 7,
+            "total": 13045
         },
         {
             "page": "Antonio Beni",
-            "pageView": 3678
+            "pageView": 2,
+            "total": 3680
         },
         {
             "page": "Ruggero Moro",
-            "pageView": 1425
+            "pageView": 1,
+            "total": 1425
         },
         {
             "page": "Antonio Danieli (partigiano)",
-            "pageView": 253
+            "pageView": 0,
+            "total": 254
         }
     ]
 }

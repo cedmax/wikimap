@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Livia Della Rovere",
-            "pageView": 8079
-        },
-        {
-            "page": "Ippolito Della Rovere",
-            "pageView": 4117
+            "pageView": 5,
+            "total": 8087
         },
         {
             "page": "Lavinia Feltria Della Rovere",
-            "pageView": 3181
+            "pageView": 3,
+            "total": 3185
+        },
+        {
+            "page": "Ippolito Della Rovere",
+            "pageView": 3,
+            "total": 4120
         },
         {
             "page": "Peris Persi",
-            "pageView": 339
+            "pageView": 0,
+            "total": 339
         }
     ]
 }

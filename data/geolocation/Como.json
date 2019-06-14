@@ -1,0 +1,27 @@
+{
+    "id": "place.6785300803109120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Como",
+    "place_name": "Como, Como, Italy",
+    "bbox": [
+        9.031006,
+        45.758803,
+        9.136846,
+        45.842001
+    ],
+    "center": [
+        9.08614,
+        45.81025
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.08614,
+            45.81025
+        ]
+    }
+}

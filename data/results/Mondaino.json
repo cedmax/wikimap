@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Guido Morganti",
-            "pageView": 3498
+            "pageView": 2,
+            "total": 3502
         },
         {
             "page": "Giovanni Muzzarelli",
-            "pageView": 594
+            "pageView": 0,
+            "total": 594
         }
     ]
 }

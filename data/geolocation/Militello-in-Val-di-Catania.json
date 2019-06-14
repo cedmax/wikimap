@@ -1,0 +1,27 @@
+{
+    "id": "place.9576459932012890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Militello in Val di Catania",
+    "place_name": "Militello in Val di Catania, Catania, Italy",
+    "bbox": [
+        14.736135,
+        37.227339,
+        14.859633,
+        37.32594
+    ],
+    "center": [
+        14.78333,
+        37.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78333,
+            37.28333
+        ]
+    }
+}

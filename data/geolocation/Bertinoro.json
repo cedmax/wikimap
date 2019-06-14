@@ -1,0 +1,27 @@
+{
+    "id": "place.9423833408359300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bertinoro",
+    "place_name": "Bertinoro, Forli'-Cesena, Italy",
+    "bbox": [
+        12.080441,
+        44.102846,
+        12.213797,
+        44.230563
+    ],
+    "center": [
+        12.13333,
+        44.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            44.15
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1348619732505",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Leonforte",
+    "place_name": "Leonforte, Leonforte, Enna 94013, Italy",
+    "center": [
+        14.404278,
+        37.644419
+    ],
+    "geometry": {
+        "coordinates": [
+            14.404278,
+            37.644419
+        ],
+        "type": "Point"
+    }
+}

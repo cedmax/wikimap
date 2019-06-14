@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Enrico VII di Germania",
-            "pageView": 38788
+            "pageView": 25,
+            "total": 38816
         },
         {
             "page": "Tolomeo Gallio",
-            "pageView": 8737
-        },
-        {
-            "page": "Nicolò Carmine Falcone",
-            "pageView": 2702
+            "pageView": 5,
+            "total": 8738
         },
         {
             "page": "Bernardino de Bernardis",
-            "pageView": 2570
-        },
-        {
-            "page": "Mariano Pierbenedetti",
-            "pageView": 2548
-        },
-        {
-            "page": "Girolamo Federici (vescovo)",
-            "pageView": 2396
+            "pageView": 2,
+            "total": 2571
         },
         {
             "page": "Francesco Antonio Grillo",
-            "pageView": 1890
+            "pageView": 2,
+            "total": 1890
         },
         {
-            "page": "Sebastiano Guzzi",
-            "pageView": 1775
+            "page": "Mariano Pierbenedetti",
+            "pageView": 2,
+            "total": 2550
         },
         {
-            "page": "Luca Cellesi",
-            "pageView": 1700
+            "page": "Girolamo Federici (vescovo)",
+            "pageView": 2,
+            "total": 2397
         },
         {
-            "page": "Giacomo da Itri",
-            "pageView": 1644
-        },
-        {
-            "page": "Michelangelo Veraldi",
-            "pageView": 1339
+            "page": "Nicolò Carmine Falcone",
+            "pageView": 2,
+            "total": 2705
         },
         {
             "page": "Aurelio Bienato",
-            "pageView": 1075
+            "pageView": 1,
+            "total": 1075
+        },
+        {
+            "page": "Sebastiano Guzzi",
+            "pageView": 1,
+            "total": 1776
+        },
+        {
+            "page": "Michelangelo Veraldi",
+            "pageView": 1,
+            "total": 1339
+        },
+        {
+            "page": "Giacomo da Itri",
+            "pageView": 1,
+            "total": 1644
+        },
+        {
+            "page": "Luca Cellesi",
+            "pageView": 1,
+            "total": 1700
         },
         {
             "page": "Nicola Righetti",
-            "pageView": 118
+            "pageView": 0,
+            "total": 118
         }
     ]
 }

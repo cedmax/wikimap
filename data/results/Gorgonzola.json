@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Andrea Gasbarroni",
-            "pageView": 114399
+            "pageView": 61,
+            "total": 114433
         },
         {
             "page": "Luca Castellazzi",
-            "pageView": 87064
+            "pageView": 47,
+            "total": 87092
         },
         {
             "page": "Salvatore Bruno",
-            "pageView": 69078
-        },
-        {
-            "page": "Riccardo Maspero",
-            "pageView": 58549
+            "pageView": 40,
+            "total": 69095
         },
         {
             "page": "Alex Pinardi",
-            "pageView": 58007
+            "pageView": 34,
+            "total": 58022
         },
         {
-            "page": "Jefferson Andrade Siqueira",
-            "pageView": 50930
+            "page": "Riccardo Maspero",
+            "pageView": 30,
+            "total": 58582
         },
         {
             "page": "Elisabetta Vignotto",
-            "pageView": 42841
+            "pageView": 21,
+            "total": 43048
+        },
+        {
+            "page": "Jefferson Andrade Siqueira",
+            "pageView": 20.5,
+            "total": 50934
         },
         {
             "page": "Davide Sinigaglia",
-            "pageView": 37297
-        },
-        {
-            "page": "Daniele Dalla Bona",
-            "pageView": 20609
+            "pageView": 18,
+            "total": 37330
         },
         {
             "page": "Valerio Foglio",
-            "pageView": 18335
+            "pageView": 11,
+            "total": 18345
         },
         {
-            "page": "Alberto Paleari (calciatore)",
-            "pageView": 14785
+            "page": "Daniele Dalla Bona",
+            "pageView": 11,
+            "total": 20617
         },
         {
             "page": "Tiziano Polenghi",
-            "pageView": 14513
+            "pageView": 9,
+            "total": 14517
         },
         {
             "page": "Claudio Grauso",
-            "pageView": 13040
+            "pageView": 8,
+            "total": 13042
         },
         {
             "page": "Simone Cantoni",
-            "pageView": 10780
-        },
-        {
-            "page": "Daniele Limonta",
-            "pageView": 7996
-        },
-        {
-            "page": "Nazzarena Grilli",
-            "pageView": 7349
+            "pageView": 7,
+            "total": 10783
         },
         {
             "page": "Camillo Ripamonti",
-            "pageView": 7185
+            "pageView": 5,
+            "total": 7192
         },
         {
-            "page": "Ademaro Breviglieri",
-            "pageView": 5531
+            "page": "Daniele Limonta",
+            "pageView": 5,
+            "total": 8002
+        },
+        {
+            "page": "Nazzarena Grilli",
+            "pageView": 4,
+            "total": 7371
         },
         {
             "page": "Anacleto Cazzaniga",
-            "pageView": 5521
+            "pageView": 4,
+            "total": 5525
         },
         {
-            "page": "Pompeo Ghezzi",
-            "pageView": 3712
-        },
-        {
-            "page": "Wilma Seghetti",
-            "pageView": 2286
-        },
-        {
-            "page": "Concepción Sánchez Freire",
-            "pageView": 2093
-        },
-        {
-            "page": "Giovanni Bianchi (musicista)",
-            "pageView": 1928
-        },
-        {
-            "page": "Erminia Manfredini",
-            "pageView": 1855
-        },
-        {
-            "page": "Filippo Erba",
-            "pageView": 1741
-        },
-        {
-            "page": "Edna Neillis",
-            "pageView": 1574
+            "page": "Ademaro Breviglieri",
+            "pageView": 3,
+            "total": 5536
         },
         {
             "page": "Daniele Sau",
-            "pageView": 1150
+            "pageView": 2,
+            "total": 1150
         },
         {
-            "page": "Maria Riboldi",
-            "pageView": 1146
+            "page": "Wilma Seghetti",
+            "pageView": 2,
+            "total": 2308
         },
         {
-            "page": "Rino Mussi",
-            "pageView": 835
+            "page": "Pompeo Ghezzi",
+            "pageView": 2,
+            "total": 3715
+        },
+        {
+            "page": "Giovanni Bianchi (musicista)",
+            "pageView": 2,
+            "total": 1928
+        },
+        {
+            "page": "Erminia Manfredini",
+            "pageView": 2,
+            "total": 1857
+        },
+        {
+            "page": "Concepción Sánchez Freire",
+            "pageView": 2,
+            "total": 2102
+        },
+        {
+            "page": "Filippo Erba",
+            "pageView": 1,
+            "total": 1741
         },
         {
             "page": "Giovanni Serbelloni, II duca di San Gabrio",
-            "pageView": 770
+            "pageView": 1,
+            "total": 770
+        },
+        {
+            "page": "Maria Riboldi",
+            "pageView": 1,
+            "total": 1146
+        },
+        {
+            "page": "Edna Neillis",
+            "pageView": 1,
+            "total": 1577
+        },
+        {
+            "page": "Rino Mussi",
+            "pageView": 1,
+            "total": 836
+        },
+        {
+            "page": "Alberto Paleari (calciatore)",
+            "pageView": 0,
+            "total": 14809
         }
     ]
 }

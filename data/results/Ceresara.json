@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Gianbattista Baronchelli",
-            "pageView": 56637
+            "pageView": 26,
+            "total": 56659
         },
         {
             "page": "Paride da Ceresara",
-            "pageView": 3882
-        },
-        {
-            "page": "Valerio Piva",
-            "pageView": 3761
+            "pageView": 3,
+            "total": 3884
         },
         {
             "page": "Gianlucido Gonzaga",
-            "pageView": 2949
+            "pageView": 2,
+            "total": 2950
         },
         {
             "page": "Cesare Pastore",
-            "pageView": 2116
+            "pageView": 2,
+            "total": 2117
         },
         {
             "page": "Oscar Messora",
-            "pageView": 1834
+            "pageView": 2,
+            "total": 1835
+        },
+        {
+            "page": "Valerio Piva",
+            "pageView": 2,
+            "total": 3765
         }
     ]
 }

@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Amintore Fanfani",
-            "pageView": 476536
+            "pageView": 287,
+            "total": 476875
         },
         {
             "page": "Stefano Bardini",
-            "pageView": 8573
+            "pageView": 6,
+            "total": 8580
         },
         {
             "page": "Umberto Betti",
-            "pageView": 6295
+            "pageView": 4,
+            "total": 6295
         },
         {
             "page": "Tommaso Fanfani",
-            "pageView": 3204
+            "pageView": 2,
+            "total": 3205
         },
         {
             "page": "Luca Ricci (regista)",
-            "pageView": 2947
+            "pageView": 2,
+            "total": 2948
         },
         {
             "page": "Corrado Tommasi Crudeli",
-            "pageView": 2607
-        },
-        {
-            "page": "Francesco Corazzini",
-            "pageView": 792
-        },
-        {
-            "page": "Eduardo Corazzini",
-            "pageView": 752
+            "pageView": 2,
+            "total": 2610
         },
         {
             "page": "Giuseppe Gennaioli",
-            "pageView": 674
+            "pageView": 1,
+            "total": 676
         },
         {
             "page": "Comando Comandi",
-            "pageView": 353
+            "pageView": 0,
+            "total": 354
+        },
+        {
+            "page": "Eduardo Corazzini",
+            "pageView": 0,
+            "total": 754
+        },
+        {
+            "page": "Francesco Corazzini",
+            "pageView": 0,
+            "total": 794
         }
     ]
 }

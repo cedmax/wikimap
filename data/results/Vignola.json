@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Ludovico Antonio Muratori",
-            "pageView": 102398
+            "pageView": 64,
+            "total": 102448
         },
         {
             "page": "Jacopo Barozzi da Vignola",
-            "pageView": 95970
+            "pageView": 60,
+            "total": 96007
         },
         {
             "page": "Gianni Zanasi (regista)",
-            "pageView": 59500
+            "pageView": 22,
+            "total": 59523
         },
         {
             "page": "Filippo Baldi Rossi",
-            "pageView": 39956
-        },
-        {
-            "page": "Laura Garavini",
-            "pageView": 18686
+            "pageView": 13,
+            "total": 40001
         },
         {
             "page": "Arcadio Venturi",
-            "pageView": 15652
+            "pageView": 9,
+            "total": 15662
         },
         {
-            "page": "Giuliano Pasini",
-            "pageView": 10822
+            "page": "Laura Garavini",
+            "pageView": 8,
+            "total": 18692
         },
         {
             "page": "Paola Musiani",
-            "pageView": 9542
+            "pageView": 6,
+            "total": 9547
+        },
+        {
+            "page": "Giuliano Pasini",
+            "pageView": 6,
+            "total": 10825
         },
         {
             "page": "Francesco Selmi",
-            "pageView": 8459
+            "pageView": 5,
+            "total": 8461
         },
         {
             "page": "Roberto Baldazzini",
-            "pageView": 6780
+            "pageView": 4,
+            "total": 6783
         },
         {
             "page": "Elisa Luccarini",
-            "pageView": 5780
-        },
-        {
-            "page": "Emilio Sabattini",
-            "pageView": 4379
-        },
-        {
-            "page": "Mario Allegretti",
-            "pageView": 4009
+            "pageView": 4,
+            "total": 5783
         },
         {
             "page": "Giacomo Cantelli",
-            "pageView": 3978
+            "pageView": 3,
+            "total": 3978
+        },
+        {
+            "page": "Mario Allegretti",
+            "pageView": 3,
+            "total": 4012
+        },
+        {
+            "page": "Emilio Sabattini",
+            "pageView": 3,
+            "total": 4382
         },
         {
             "page": "Agostino Paradisi",
-            "pageView": 3976
-        },
-        {
-            "page": "Silvano Riccò",
-            "pageView": 2826
-        },
-        {
-            "page": "Gaetano Tavoni",
-            "pageView": 2809
+            "pageView": 2,
+            "total": 3979
         },
         {
             "page": "Giovanni Fontana (vescovo)",
-            "pageView": 2092
+            "pageView": 2,
+            "total": 2093
         },
         {
-            "page": "Giancarlo Dughetti",
-            "pageView": 2046
-        },
-        {
-            "page": "Paola Manzini",
-            "pageView": 1880
+            "page": "Silvano Riccò",
+            "pageView": 2,
+            "total": 2827
         },
         {
             "page": "Liliana Albertini",
-            "pageView": 1821
+            "pageView": 2,
+            "total": 1823
+        },
+        {
+            "page": "Giancarlo Dughetti",
+            "pageView": 2,
+            "total": 2046
+        },
+        {
+            "page": "Gaetano Tavoni",
+            "pageView": 2,
+            "total": 2810
+        },
+        {
+            "page": "Paola Manzini",
+            "pageView": 2,
+            "total": 1880
         },
         {
             "page": "Giuseppe Maria Soli",
-            "pageView": 269
+            "pageView": 0,
+            "total": 270
         },
         {
             "page": "Pietro Antonio Bernardoni",
-            "pageView": 56
+            "pageView": 0,
+            "total": 58
         }
     ]
 }

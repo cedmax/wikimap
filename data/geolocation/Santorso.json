@@ -1,0 +1,27 @@
+{
+    "id": "place.8781582181429380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santorso",
+    "place_name": "Santorso, Vicenza, Italy",
+    "bbox": [
+        11.360109,
+        45.720728,
+        11.427706,
+        45.761454
+    ],
+    "center": [
+        11.38333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38333,
+            45.73333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8151868298322080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Treviglio",
+    "place_name": "Treviglio, Bergamo, Italy",
+    "bbox": [
+        9.547039,
+        45.498658,
+        9.634478,
+        45.569641
+    ],
+    "center": [
+        9.59278,
+        45.52139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.59278,
+            45.52139
+        ]
+    }
+}

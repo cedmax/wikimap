@@ -1,0 +1,27 @@
+{
+    "id": "place.9936859034083740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caerano di San Marco",
+    "place_name": "Caerano di San Marco, Treviso, Italy",
+    "bbox": [
+        11.978527,
+        45.750579,
+        12.020841,
+        45.808456
+    ],
+    "center": [
+        12.00417,
+        45.78528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.00417,
+            45.78528
+        ]
+    }
+}

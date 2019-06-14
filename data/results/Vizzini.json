@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Giovanni Verga",
-            "pageView": 1251821
+            "pageView": 832.5,
+            "total": 1253792
         },
         {
             "page": "Giovanni de Lorenzo",
-            "pageView": 94630
+            "pageView": 57,
+            "total": 94687
         },
         {
             "page": "Giovanni Selvaggi",
-            "pageView": 3587
+            "pageView": 3,
+            "total": 3589
         },
         {
             "page": "Alfredo Mazzone",
-            "pageView": 1921
+            "pageView": 2,
+            "total": 1924
         },
         {
             "page": "Lucio Marineo Siculo",
-            "pageView": 1818
+            "pageView": 2,
+            "total": 1819
         },
         {
             "page": "Corrado Cafici",
-            "pageView": 1372
+            "pageView": 1,
+            "total": 1372
         },
         {
             "page": "Matteo Agosta",
-            "pageView": 235
+            "pageView": 0,
+            "total": 235
         }
     ]
 }

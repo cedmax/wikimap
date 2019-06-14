@@ -1,0 +1,27 @@
+{
+    "id": "place.2534854919707530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dogliani",
+    "place_name": "Dogliani, Cuneo, Italy",
+    "bbox": [
+        7.908816,
+        44.498277,
+        8.016531,
+        44.56643
+    ],
+    "center": [
+        7.95,
+        44.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95,
+            44.53333
+        ]
+    }
+}

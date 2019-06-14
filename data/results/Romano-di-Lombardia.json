@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Emanuele Suagher",
-            "pageView": 60579
+            "pageView": 26,
+            "total": 60587
         },
         {
             "page": "Rosangela Bessi",
-            "pageView": 25407
+            "pageView": 14,
+            "total": 25417
         },
         {
             "page": "Angelo Vescovi",
-            "pageView": 22894
+            "pageView": 12,
+            "total": 22921
         },
         {
             "page": "Giovanni Battista Rubini",
-            "pageView": 14626
+            "pageView": 9,
+            "total": 14634
         },
         {
             "page": "Zaccaria Cometti",
-            "pageView": 10252
-        },
-        {
-            "page": "Enio Cometti",
-            "pageView": 8684
-        },
-        {
-            "page": "Giovan Battista Caniana",
-            "pageView": 5375
-        },
-        {
-            "page": "Raffaella Lamera",
-            "pageView": 4694
-        },
-        {
-            "page": "Vittorio Seghezzi",
-            "pageView": 4580
-        },
-        {
-            "page": "Antonio Tadini",
-            "pageView": 3903
+            "pageView": 6,
+            "total": 10258
         },
         {
             "page": "Daisy Pirovano",
-            "pageView": 3313
+            "pageView": 5,
+            "total": 3315
         },
         {
-            "page": "Giorgia Baldelli",
-            "pageView": 3016
+            "page": "Enio Cometti",
+            "pageView": 4,
+            "total": 8684
         },
         {
-            "page": "Franco Bassetti",
-            "pageView": 2908
+            "page": "Giovan Battista Caniana",
+            "pageView": 3,
+            "total": 5401
+        },
+        {
+            "page": "Raffaella Lamera",
+            "pageView": 3,
+            "total": 4699
+        },
+        {
+            "page": "Antonio Tadini",
+            "pageView": 2,
+            "total": 3905
         },
         {
             "page": "Rinaldo Pigola",
-            "pageView": 2085
+            "pageView": 2,
+            "total": 2085
         },
         {
-            "page": "Ettore Ceresoli",
-            "pageView": 1521
+            "page": "Franco Bassetti",
+            "pageView": 2,
+            "total": 2910
         },
         {
-            "page": "Mario Biglioli",
-            "pageView": 1450
+            "page": "Giorgia Baldelli",
+            "pageView": 2,
+            "total": 3018
         },
         {
-            "page": "Giovan Battista Asperti",
-            "pageView": 1437
+            "page": "Vittorio Seghezzi",
+            "pageView": 2,
+            "total": 4582
         },
         {
             "page": "Bellino Crotti",
-            "pageView": 1398
+            "pageView": 1,
+            "total": 1398
         },
         {
             "page": "Giovanni Ruggeri della Torre",
-            "pageView": 1038
+            "pageView": 1,
+            "total": 1038
+        },
+        {
+            "page": "Ettore Ceresoli",
+            "pageView": 1,
+            "total": 1522
+        },
+        {
+            "page": "Giovan Battista Asperti",
+            "pageView": 1,
+            "total": 1437
+        },
+        {
+            "page": "Mario Biglioli",
+            "pageView": 1,
+            "total": 1450
         },
         {
             "page": "Emilio Suardi",
-            "pageView": 483
+            "pageView": 0,
+            "total": 484
         }
     ]
 }

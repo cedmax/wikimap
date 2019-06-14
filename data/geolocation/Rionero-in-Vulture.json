@@ -1,0 +1,27 @@
+{
+    "id": "place.3482375911578310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rionero in Vulture",
+    "place_name": "Rionero in Vulture, Potenza, Italy",
+    "bbox": [
+        15.534368,
+        40.879212,
+        15.700454,
+        40.96699
+    ],
+    "center": [
+        15.66667,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.66667,
+            40.91667
+        ]
+    }
+}

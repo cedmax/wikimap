@@ -1,0 +1,27 @@
+{
+    "id": "place.13682260104640980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caltagirone",
+    "place_name": "Caltagirone, Catania, Italy",
+    "bbox": [
+        14.373724,
+        37.050623,
+        14.663098,
+        37.309482
+    ],
+    "center": [
+        14.51667,
+        37.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.51667,
+            37.23333
+        ]
+    }
+}

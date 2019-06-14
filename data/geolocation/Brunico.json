@@ -1,0 +1,29 @@
+{
+    "id": "place.9623386288392040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Brunico - Bruneck",
+    "place_name": "Brunico - Bruneck, Bolzano, Italy",
+    "matching_text": "Brunico",
+    "matching_place_name": "Brunico, Bolzano, Italy",
+    "bbox": [
+        11.902076,
+        46.739334,
+        11.994157,
+        46.846955
+    ],
+    "center": [
+        11.93429,
+        46.79942
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93429,
+            46.79942
+        ]
+    }
+}

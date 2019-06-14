@@ -1,0 +1,27 @@
+{
+    "id": "place.8194560359413850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Secondo Parmense",
+    "place_name": "San Secondo Parmense, Parma, Italy",
+    "bbox": [
+        10.155976,
+        44.88962,
+        10.25968,
+        44.971397
+    ],
+    "center": [
+        10.23333,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23333,
+            44.91667
+        ]
+    }
+}

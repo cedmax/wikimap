@@ -2,128 +2,159 @@
     "name": "Negrar",
     "people": [
         {
-            "page": "Davide Formolo",
-            "pageView": 85302
-        },
-        {
             "page": "Matteo Manassero",
-            "pageView": 69770
+            "pageView": 28,
+            "total": 69817
         },
         {
             "page": "Stefano Quintarelli",
-            "pageView": 43805
+            "pageView": 26,
+            "total": 43843
+        },
+        {
+            "page": "Davide Formolo",
+            "pageView": 19,
+            "total": 85355
         },
         {
             "page": "Alberto Castagnetti",
-            "pageView": 40548
-        },
-        {
-            "page": "Pietro Boselli",
-            "pageView": 12395
-        },
-        {
-            "page": "Giovanni Galbieri",
-            "pageView": 12210
-        },
-        {
-            "page": "Giuseppe Zamboni",
-            "pageView": 10705
+            "pageView": 11,
+            "total": 40564
         },
         {
             "page": "Leonardo Totè",
-            "pageView": 9846
+            "pageView": 10,
+            "total": 9861
+        },
+        {
+            "page": "Giuseppe Zamboni",
+            "pageView": 7,
+            "total": 10711
+        },
+        {
+            "page": "Giovanni Galbieri",
+            "pageView": 6,
+            "total": 12212
         },
         {
             "page": "Andrea Benvenuti",
-            "pageView": 9595
+            "pageView": 6,
+            "total": 9598
         },
         {
             "page": "Paolo Tosato",
-            "pageView": 9552
-        },
-        {
-            "page": "Antonio Preto",
-            "pageView": 7525
-        },
-        {
-            "page": "Tancredi Turco",
-            "pageView": 6870
-        },
-        {
-            "page": "Ronnie Quintarelli",
-            "pageView": 6722
+            "pageView": 5,
+            "total": 9558
         },
         {
             "page": "Maffeo Giovanni Ducoli",
-            "pageView": 5866
+            "pageView": 4,
+            "total": 5868
+        },
+        {
+            "page": "Tancredi Turco",
+            "pageView": 4,
+            "total": 6870
+        },
+        {
+            "page": "Ronnie Quintarelli",
+            "pageView": 4,
+            "total": 6723
         },
         {
             "page": "Chiara Dall'Ora",
-            "pageView": 4346
+            "pageView": 3,
+            "total": 4347
         },
         {
-            "page": "Paolo Piubelli",
-            "pageView": 3823
-        },
-        {
-            "page": "Giovanni Cappelletti",
-            "pageView": 3377
-        },
-        {
-            "page": "Luigi Messedaglia",
-            "pageView": 3162
-        },
-        {
-            "page": "Chiara Olivieri",
-            "pageView": 3109
-        },
-        {
-            "page": "Nicola Chesini",
-            "pageView": 2813
-        },
-        {
-            "page": "Guido Sagramoso",
-            "pageView": 2678
-        },
-        {
-            "page": "Giuseppe Girelli",
-            "pageView": 2196
-        },
-        {
-            "page": "Mirko Tedeschi",
-            "pageView": 1910
-        },
-        {
-            "page": "Bruno Novelli",
-            "pageView": 1627
-        },
-        {
-            "page": "Giuseppe Trecca (architetto)",
-            "pageView": 1479
-        },
-        {
-            "page": "Emo Marconi",
-            "pageView": 1367
+            "page": "Antonio Preto",
+            "pageView": 3,
+            "total": 7525
         },
         {
             "page": "Renato Righetti",
-            "pageView": 894
+            "pageView": 2,
+            "total": 897
+        },
+        {
+            "page": "Luigi Messedaglia",
+            "pageView": 2,
+            "total": 3165
+        },
+        {
+            "page": "Giuseppe Girelli",
+            "pageView": 2,
+            "total": 2198
+        },
+        {
+            "page": "Giovanni Cappelletti",
+            "pageView": 2,
+            "total": 3380
+        },
+        {
+            "page": "Chiara Olivieri",
+            "pageView": 2,
+            "total": 3112
+        },
+        {
+            "page": "Guido Sagramoso",
+            "pageView": 2,
+            "total": 2679
+        },
+        {
+            "page": "Paolo Piubelli",
+            "pageView": 2,
+            "total": 3826
+        },
+        {
+            "page": "Mirko Tedeschi",
+            "pageView": 2,
+            "total": 1910
+        },
+        {
+            "page": "Nicola Chesini",
+            "pageView": 2,
+            "total": 2813
         },
         {
             "page": "Giangiacomo Pigari",
-            "pageView": 695
+            "pageView": 1,
+            "total": 695
+        },
+        {
+            "page": "Giuseppe Trecca (architetto)",
+            "pageView": 1,
+            "total": 1479
+        },
+        {
+            "page": "Bruno Novelli",
+            "pageView": 1,
+            "total": 1627
+        },
+        {
+            "page": "Emo Marconi",
+            "pageView": 1,
+            "total": 1368
         },
         {
             "page": "Sandro Quintarelli",
-            "pageView": 474
+            "pageView": 0,
+            "total": 474
+        },
+        {
+            "page": "Pietro Boselli",
+            "pageView": 0,
+            "total": 12446
         },
         {
             "page": "Bruno Tassini",
-            "pageView": 418
+            "pageView": 0,
+            "total": 418
         },
         {
             "page": "Sara Zanotti",
-            "pageView": 324
+            "pageView": 0,
+            "total": 324
         }
     ]
 }

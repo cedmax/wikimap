@@ -1,0 +1,27 @@
+{
+    "id": "place.15816179558364070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brugnato",
+    "place_name": "Brugnato, La Spezia, Italy",
+    "bbox": [
+        9.694918,
+        44.219346,
+        9.763243,
+        44.260212
+    ],
+    "center": [
+        9.72524,
+        44.23667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.72524,
+            44.23667
+        ]
+    }
+}

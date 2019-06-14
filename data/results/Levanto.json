@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Paolo Garimberti",
-            "pageView": 39612
+            "pageView": 23,
+            "total": 39634
         },
         {
             "page": "Alberto Cavallari",
-            "pageView": 11385
+            "pageView": 7,
+            "total": 11389
         },
         {
             "page": "Mariadele",
-            "pageView": 10264
+            "pageView": 7,
+            "total": 10272
         },
         {
             "page": "Carlo Sassarini",
-            "pageView": 8097
+            "pageView": 5,
+            "total": 8106
         },
         {
             "page": "Piero Milesi",
-            "pageView": 7922
+            "pageView": 5,
+            "total": 7927
         },
         {
             "page": "Matteo Vinzoni",
-            "pageView": 6773
+            "pageView": 4,
+            "total": 6779
         },
         {
             "page": "Massimo Amfiteatrof",
-            "pageView": 4181
-        },
-        {
-            "page": "Pietro Zoppi",
-            "pageView": 3125
-        },
-        {
-            "page": "Domenico Viviani",
-            "pageView": 2762
+            "pageView": 3,
+            "total": 4184
         },
         {
             "page": "Osta Morat",
-            "pageView": 2731
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Domenico Viviani",
+            "pageView": 2,
+            "total": 2762
+        },
+        {
+            "page": "Pietro Zoppi",
+            "pageView": 2,
+            "total": 3125
         },
         {
             "page": "Barnaba Guano",
-            "pageView": 2151
+            "pageView": 2,
+            "total": 2153
         },
         {
             "page": "Emanuele Toso",
-            "pageView": 1921
-        },
-        {
-            "page": "Aleksandr Valentinovič Amfiteatrov",
-            "pageView": 1692
-        },
-        {
-            "page": "Giovanni Voltini",
-            "pageView": 1689
-        },
-        {
-            "page": "Giuseppe Boselli",
-            "pageView": 1616
-        },
-        {
-            "page": "Ruggero Maineri",
-            "pageView": 1501
+            "pageView": 2,
+            "total": 1921
         },
         {
             "page": "Giuseppe Maria Caranza",
-            "pageView": 1263
+            "pageView": 1,
+            "total": 1263
+        },
+        {
+            "page": "Aleksandr Valentinovič Amfiteatrov",
+            "pageView": 1,
+            "total": 1697
+        },
+        {
+            "page": "Ruggero Maineri",
+            "pageView": 1,
+            "total": 1502
+        },
+        {
+            "page": "Giuseppe Boselli",
+            "pageView": 1,
+            "total": 1616
+        },
+        {
+            "page": "Giovanni Voltini",
+            "pageView": 1,
+            "total": 1689
         }
     ]
 }

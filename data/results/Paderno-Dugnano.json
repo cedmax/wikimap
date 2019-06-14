@@ -2,68 +2,84 @@
     "name": "Paderno Dugnano",
     "people": [
         {
-            "page": "DJ Ringo",
-            "pageView": 343733
+            "page": "Albertino",
+            "pageView": 180,
+            "total": 323457
         },
         {
-            "page": "Albertino",
-            "pageView": 323330
+            "page": "DJ Ringo",
+            "pageView": 85,
+            "total": 343822
         },
         {
             "page": "Achille e Giovanni Judica Cordiglia",
-            "pageView": 39259
+            "pageView": 23,
+            "total": 39295
         },
         {
             "page": "Roberto Rosone",
-            "pageView": 36262
-        },
-        {
-            "page": "Mario Trebbi",
-            "pageView": 17242
+            "pageView": 21,
+            "total": 36385
         },
         {
             "page": "Pasquale Domenico Rocco",
-            "pageView": 15142
+            "pageView": 10,
+            "total": 15152
+        },
+        {
+            "page": "Mario Trebbi",
+            "pageView": 9,
+            "total": 17251
         },
         {
             "page": "Raffaele Crovi",
-            "pageView": 11221
+            "pageView": 7,
+            "total": 11230
         },
         {
             "page": "Giuseppe De Capitani d'Arzago",
-            "pageView": 6621
-        },
-        {
-            "page": "Ezio Casati",
-            "pageView": 5750
-        },
-        {
-            "page": "Antonio Perego",
-            "pageView": 5674
+            "pageView": 4,
+            "total": 6631
         },
         {
             "page": "Giovanni Gaddoni",
-            "pageView": 4955
+            "pageView": 3,
+            "total": 4958
         },
         {
-            "page": "Paolo Magretti",
-            "pageView": 3700
+            "page": "Antonio Perego",
+            "pageView": 3,
+            "total": 5676
+        },
+        {
+            "page": "Ezio Casati",
+            "pageView": 3,
+            "total": 5774
         },
         {
             "page": "Gaspare Battaglia",
-            "pageView": 3618
-        },
-        {
-            "page": "Agostino Gaetano Riboldi",
-            "pageView": 3552
+            "pageView": 2,
+            "total": 3619
         },
         {
             "page": "Luigi Annoni",
-            "pageView": 3528
+            "pageView": 2,
+            "total": 3529
+        },
+        {
+            "page": "Agostino Gaetano Riboldi",
+            "pageView": 2,
+            "total": 3553
+        },
+        {
+            "page": "Paolo Magretti",
+            "pageView": 2,
+            "total": 3703
         },
         {
             "page": "Marco Terragni",
-            "pageView": 1551
+            "pageView": 0,
+            "total": 1552
         }
     ]
 }

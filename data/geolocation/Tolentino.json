@@ -1,0 +1,27 @@
+{
+    "id": "place.7047913260196860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tolentino",
+    "place_name": "Tolentino, Macerata, Italy",
+    "bbox": [
+        13.243345,
+        43.149795,
+        13.427133,
+        43.263466
+    ],
+    "center": [
+        13.2841,
+        43.20861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.2841,
+            43.20861
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6261573823582030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gela",
+    "place_name": "Gela, Caltanissetta, Italy",
+    "bbox": [
+        14.115119,
+        37.002028,
+        14.447499,
+        37.171796
+    ],
+    "center": [
+        14.25,
+        37.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.25,
+            37.06667
+        ]
+    }
+}

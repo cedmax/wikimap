@@ -1,0 +1,27 @@
+{
+    "id": "place.3312348996578800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sciara",
+    "place_name": "Sciara, Palermo, Italy",
+    "bbox": [
+        13.723184,
+        37.886765,
+        13.809938,
+        37.962232
+    ],
+    "center": [
+        13.76667,
+        37.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76667,
+            37.91667
+        ]
+    }
+}

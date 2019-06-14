@@ -1,0 +1,27 @@
+{
+    "id": "place.6874349368334190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agugliaro",
+    "place_name": "Agugliaro, Vicenza, Italy",
+    "bbox": [
+        11.553395,
+        45.297269,
+        11.615347,
+        45.352099
+    ],
+    "center": [
+        11.58333,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58333,
+            45.33333
+        ]
+    }
+}

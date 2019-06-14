@@ -1,0 +1,27 @@
+{
+    "id": "place.13209218596237330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanuova sul Clisi",
+    "place_name": "Villanuova sul Clisi, Brescia, Italy",
+    "bbox": [
+        10.441071,
+        45.589336,
+        10.491023,
+        45.629261
+    ],
+    "center": [
+        10.45,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.45,
+            45.6
+        ]
+    }
+}

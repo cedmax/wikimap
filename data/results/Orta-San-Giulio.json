@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Leonardo Benevolo",
-            "pageView": 28546
-        },
-        {
-            "page": "Ernesto Ragazzoni",
-            "pageView": 18054
+            "pageView": 15,
+            "total": 28558
         },
         {
             "page": "Guglielmo da Volpiano",
-            "pageView": 17025
+            "pageView": 10,
+            "total": 17032
         },
         {
-            "page": "Gustavo Fara",
-            "pageView": 9677
+            "page": "Ernesto Ragazzoni",
+            "pageView": 10,
+            "total": 18062
         },
         {
             "page": "Pierluigi Cerri",
-            "pageView": 9658
+            "pageView": 6,
+            "total": 9659
         },
         {
-            "page": "Giovanni Pietro Pinamonti",
-            "pageView": 3800
-        },
-        {
-            "page": "Mimulfo",
-            "pageView": 3679
-        },
-        {
-            "page": "Giacomo Giovanetti",
-            "pageView": 2994
-        },
-        {
-            "page": "Luca Rossetti da Orta",
-            "pageView": 2672
+            "page": "Gustavo Fara",
+            "pageView": 6,
+            "total": 9678
         },
         {
             "page": "Guglielmo Tagliacarne",
-            "pageView": 2295
+            "pageView": 2,
+            "total": 2296
+        },
+        {
+            "page": "Giovanni Pietro Pinamonti",
+            "pageView": 2,
+            "total": 3800
+        },
+        {
+            "page": "Mimulfo",
+            "pageView": 2,
+            "total": 3680
+        },
+        {
+            "page": "Giacomo Giovanetti",
+            "pageView": 2,
+            "total": 2994
+        },
+        {
+            "page": "Luca Rossetti da Orta",
+            "pageView": 2,
+            "total": 2673
         },
         {
             "page": "Umberto Gama",
-            "pageView": 1915
+            "pageView": 1.5,
+            "total": 1917
         },
         {
             "page": "Germinal Casado",
-            "pageView": 1711
+            "pageView": 1,
+            "total": 1711
         }
     ]
 }

@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Alberto Brignoli",
-            "pageView": 319928
+            "pageView": 88,
+            "total": 320059
         },
         {
             "page": "Bortolo Mutti",
-            "pageView": 95529
+            "pageView": 52,
+            "total": 95578
         },
         {
             "page": "Cristian Zenoni",
-            "pageView": 73210
+            "pageView": 37,
+            "total": 73235
         },
         {
             "page": "Davide Luppi",
-            "pageView": 66525
+            "pageView": 34,
+            "total": 66547
         },
         {
             "page": "Damiano Zenoni",
-            "pageView": 61611
-        },
-        {
-            "page": "Nicole Della Monica",
-            "pageView": 13986
+            "pageView": 24,
+            "total": 61633
         },
         {
             "page": "Tiziano Mutti",
-            "pageView": 13531
-        },
-        {
-            "page": "Omar Torri",
-            "pageView": 11082
+            "pageView": 8,
+            "total": 13534
         },
         {
             "page": "Eleonora Cantamessa",
-            "pageView": 10988
+            "pageView": 6,
+            "total": 10991
+        },
+        {
+            "page": "Omar Torri",
+            "pageView": 6,
+            "total": 11085
         },
         {
             "page": "Daniela Masseroni",
-            "pageView": 10786
+            "pageView": 6,
+            "total": 10793
         },
         {
             "page": "Mirco Poloni",
-            "pageView": 8955
+            "pageView": 6,
+            "total": 8960
         },
         {
-            "page": "Roberto Previtali",
-            "pageView": 7007
+            "page": "Nicole Della Monica",
+            "pageView": 5,
+            "total": 13989
         },
         {
             "page": "Giovan Battista Castello",
-            "pageView": 5955
+            "pageView": 4,
+            "total": 5956
         },
         {
-            "page": "Attilio Barcella",
-            "pageView": 3964
-        },
-        {
-            "page": "Andrea Scarpellini",
-            "pageView": 3851
-        },
-        {
-            "page": "Franco Nembrini",
-            "pageView": 3582
-        },
-        {
-            "page": "Thomas Bergamelli",
-            "pageView": 3448
-        },
-        {
-            "page": "Silvio Poma",
-            "pageView": 3211
+            "page": "Roberto Previtali",
+            "pageView": 4,
+            "total": 7010
         },
         {
             "page": "Enrico Corali",
-            "pageView": 3206
+            "pageView": 2,
+            "total": 3209
+        },
+        {
+            "page": "Attilio Barcella",
+            "pageView": 2,
+            "total": 3965
         },
         {
             "page": "Giuseppe Belotti",
-            "pageView": 2814
+            "pageView": 2,
+            "total": 2818
         },
         {
-            "page": "Davide Agazzi",
-            "pageView": 2060
+            "page": "Andrea Scarpellini",
+            "pageView": 2,
+            "total": 3854
         },
         {
-            "page": "Vincenzo Comi",
-            "pageView": 1899
-        },
-        {
-            "page": "Claudia Cagninelli",
-            "pageView": 1641
+            "page": "Thomas Bergamelli",
+            "pageView": 2,
+            "total": 3449
         },
         {
             "page": "Giovanni Ambiveri",
-            "pageView": 1620
+            "pageView": 2,
+            "total": 1621
+        },
+        {
+            "page": "Silvio Poma",
+            "pageView": 2,
+            "total": 3211
+        },
+        {
+            "page": "Vincenzo Comi",
+            "pageView": 2,
+            "total": 1901
         },
         {
             "page": "Michele Oberti",
-            "pageView": 1029
+            "pageView": 1,
+            "total": 1029
+        },
+        {
+            "page": "Claudia Cagninelli",
+            "pageView": 1,
+            "total": 1642
+        },
+        {
+            "page": "Franco Nembrini",
+            "pageView": 0,
+            "total": 3603
+        },
+        {
+            "page": "Davide Agazzi",
+            "pageView": 0,
+            "total": 2070
         }
     ]
 }

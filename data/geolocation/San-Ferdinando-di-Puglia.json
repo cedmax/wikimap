@@ -1,0 +1,27 @@
+{
+    "id": "place.17881352101292120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Ferdinando di Puglia",
+    "place_name": "San Ferdinando di Puglia, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        15.987569,
+        41.229766,
+        16.091244,
+        41.322336
+    ],
+    "center": [
+        16.06667,
+        41.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.06667,
+            41.3
+        ]
+    }
+}

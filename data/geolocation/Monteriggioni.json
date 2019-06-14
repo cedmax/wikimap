@@ -1,0 +1,27 @@
+{
+    "id": "place.3635435550223570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteriggioni",
+    "place_name": "Monteriggioni, Siena, Italy",
+    "bbox": [
+        11.121438,
+        43.316995,
+        11.314916,
+        43.418556
+    ],
+    "center": [
+        11.21667,
+        43.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.21667,
+            43.4
+        ]
+    }
+}

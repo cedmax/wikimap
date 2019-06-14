@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Luigi Alici",
-            "pageView": 12794
+            "pageView": 6,
+            "total": 12795
         },
         {
             "page": "Michele De Giorgi",
-            "pageView": 7790
-        },
-        {
-            "page": "Giuseppe Patriarca",
-            "pageView": 4604
+            "pageView": 4,
+            "total": 7792
         },
         {
             "page": "Fosco Cicola",
-            "pageView": 4166
+            "pageView": 3,
+            "total": 4171
         },
         {
-            "page": "Niki Hendriks",
-            "pageView": 3908
-        },
-        {
-            "page": "Andrea Bartoletti",
-            "pageView": 3690
-        },
-        {
-            "page": "Federico Moretti (pallavolista)",
-            "pageView": 3247
-        },
-        {
-            "page": "Iván Ruiz",
-            "pageView": 3044
-        },
-        {
-            "page": "Roberto Romiti",
-            "pageView": 2994
-        },
-        {
-            "page": "Yasser Romero",
-            "pageView": 2816
-        },
-        {
-            "page": "Pietro Spada",
-            "pageView": 2729
-        },
-        {
-            "page": "Manuele Marchiani",
-            "pageView": 2489
-        },
-        {
-            "page": "Francesco Ferrua",
-            "pageView": 2412
+            "page": "Giuseppe Patriarca",
+            "pageView": 3,
+            "total": 4605
         },
         {
             "page": "Daniele Tomassetti",
-            "pageView": 2253
+            "pageView": 2,
+            "total": 2255
         },
         {
-            "page": "Massimo Pecorari",
-            "pageView": 2126
+            "page": "Roberto Romiti",
+            "pageView": 2,
+            "total": 2995
+        },
+        {
+            "page": "Francesco Ferrua",
+            "pageView": 2,
+            "total": 2414
         },
         {
             "page": "Alessandro Lorenzoni",
-            "pageView": 1984
+            "pageView": 2,
+            "total": 1985
         },
         {
-            "page": "Pietro Scarduzio",
-            "pageView": 1631
+            "page": "Manuele Marchiani",
+            "pageView": 2,
+            "total": 2491
+        },
+        {
+            "page": "Andrea Bartoletti",
+            "pageView": 2,
+            "total": 3690
+        },
+        {
+            "page": "Federico Moretti (pallavolista)",
+            "pageView": 2,
+            "total": 3249
+        },
+        {
+            "page": "Massimo Pecorari",
+            "pageView": 2,
+            "total": 2127
+        },
+        {
+            "page": "Yasser Romero",
+            "pageView": 2,
+            "total": 2817
+        },
+        {
+            "page": "Iván Ruiz",
+            "pageView": 2,
+            "total": 3044
+        },
+        {
+            "page": "Pietro Spada",
+            "pageView": 2,
+            "total": 2731
+        },
+        {
+            "page": "Niki Hendriks",
+            "pageView": 2,
+            "total": 3908
         },
         {
             "page": "Alberto Marcolini",
-            "pageView": 1546
+            "pageView": 1,
+            "total": 1547
+        },
+        {
+            "page": "Pietro Scarduzio",
+            "pageView": 1,
+            "total": 1632
         },
         {
             "page": "Jaroslav Antonov",
-            "pageView": 204
+            "pageView": 0,
+            "total": 205
         }
     ]
 }

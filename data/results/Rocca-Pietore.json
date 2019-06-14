@@ -2,24 +2,29 @@
     "name": "Rocca Pietore",
     "people": [
         {
-            "page": "Flavio Rosso",
-            "pageView": 5556
+            "page": "Dino Riva",
+            "pageView": 2,
+            "total": 2418
         },
         {
-            "page": "Dino Riva",
-            "pageView": 2414
+            "page": "Flavio Rosso",
+            "pageView": 2,
+            "total": 5556
         },
         {
             "page": "Domenico De Biasio",
-            "pageView": 1404
+            "pageView": 1,
+            "total": 1404
         },
         {
             "page": "Marcello De Dorigo",
-            "pageView": 74
+            "pageView": 0,
+            "total": 74
         },
         {
             "page": "Primo Fontanive",
-            "pageView": 56
+            "pageView": 0,
+            "total": 56
         }
     ]
 }

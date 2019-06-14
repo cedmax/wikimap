@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Guido Ceronetti",
-            "pageView": 108833
+            "pageView": 50,
+            "total": 108887
         },
         {
             "page": "Rosario Villari",
-            "pageView": 55430
-        },
-        {
-            "page": "Matteo Spinola",
-            "pageView": 5948
-        },
-        {
-            "page": "Alberto Rinaldi",
-            "pageView": 5910
+            "pageView": 19,
+            "total": 55444
         },
         {
             "page": "Mauro Vegni",
-            "pageView": 5474
+            "pageView": 6,
+            "total": 5483
         },
         {
-            "page": "Luca Contile",
-            "pageView": 3201
+            "page": "Alberto Rinaldi",
+            "pageView": 3,
+            "total": 5919
         },
         {
-            "page": "Franz-Albrecht Metternich-Sandor",
-            "pageView": 2980
+            "page": "Matteo Spinola",
+            "pageView": 3,
+            "total": 5951
         },
         {
             "page": "Alessandro Corticelli",
-            "pageView": 2117
+            "pageView": 2,
+            "total": 2119
+        },
+        {
+            "page": "Franz-Albrecht Metternich-Sandor",
+            "pageView": 2,
+            "total": 2981
+        },
+        {
+            "page": "Luca Contile",
+            "pageView": 2,
+            "total": 3205
         },
         {
             "page": "Ettore Fabietti",
-            "pageView": 1516
+            "pageView": 2,
+            "total": 1518
         }
     ]
 }

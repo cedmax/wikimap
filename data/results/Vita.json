@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Francesco Montanari",
-            "pageView": 17319
-        },
-        {
-            "page": "Paolo Affronti",
-            "pageView": 5835
+            "pageView": 6,
+            "total": 17353
         },
         {
             "page": "Settimo Accardi",
-            "pageView": 5451
+            "pageView": 4,
+            "total": 5453
+        },
+        {
+            "page": "Paolo Affronti",
+            "pageView": 4,
+            "total": 5837
         },
         {
             "page": "Antonino De Stefano (storico)",
-            "pageView": 4336
+            "pageView": 3,
+            "total": 4342
         },
         {
             "page": "Pietro Ponzo",
-            "pageView": 2187
+            "pageView": 2,
+            "total": 2191
         },
         {
             "page": "Giuseppe Perricone",
-            "pageView": 1559
+            "pageView": 1,
+            "total": 1560
         }
     ]
 }

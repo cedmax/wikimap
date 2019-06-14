@@ -1,0 +1,27 @@
+{
+    "id": "place.7690813711119830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecatini-Terme",
+    "place_name": "Montecatini-Terme, Pistoia, Italy",
+    "bbox": [
+        10.756968,
+        43.85157,
+        10.819939,
+        43.928554
+    ],
+    "center": [
+        10.77111,
+        43.88278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.77111,
+            43.88278
+        ]
+    }
+}

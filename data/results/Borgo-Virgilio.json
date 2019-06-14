@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Publio Virgilio Marone",
-            "pageView": 864786
+            "pageView": 586,
+            "total": 865197
         },
         {
             "page": "Orfeo Pianelli",
-            "pageView": 18248
+            "pageView": 11,
+            "total": 18260
         },
         {
             "page": "Marco Marocchi",
-            "pageView": 6224
+            "pageView": 4,
+            "total": 6228
         },
         {
             "page": "Ugo Celada da Virgilio",
-            "pageView": 6216
+            "pageView": 4,
+            "total": 6219
         },
         {
             "page": "Steno Gola",
-            "pageView": 6200
+            "pageView": 4,
+            "total": 6206
         },
         {
             "page": "Matilde Ferrari",
-            "pageView": 3501
-        },
-        {
-            "page": "Sandro Negri",
-            "pageView": 3084
-        },
-        {
-            "page": "Curzio Gonzaga",
-            "pageView": 3035
-        },
-        {
-            "page": "Fabio Battesini",
-            "pageView": 2997
-        },
-        {
-            "page": "Giancarlo Malagutti",
-            "pageView": 2657
+            "pageView": 3,
+            "total": 3501
         },
         {
             "page": "Udo Toniato",
-            "pageView": 2446
-        },
-        {
-            "page": "Giulio Fano",
-            "pageView": 2186
-        },
-        {
-            "page": "Giulio Cesare Gonzaga di Palazzolo",
-            "pageView": 2074
+            "pageView": 3,
+            "total": 2448
         },
         {
             "page": "Ezio Morselli",
-            "pageView": 1927
+            "pageView": 2,
+            "total": 1929
         },
         {
-            "page": "Luigi Tasselli",
-            "pageView": 1721
+            "page": "Fabio Battesini",
+            "pageView": 2,
+            "total": 3001
         },
         {
-            "page": "Tito Camillo Cazzaniga",
-            "pageView": 1711
+            "page": "Giulio Fano",
+            "pageView": 2,
+            "total": 2186
         },
         {
-            "page": "Giovanni Benevoli",
-            "pageView": 1182
+            "page": "Giancarlo Malagutti",
+            "pageView": 2,
+            "total": 2660
+        },
+        {
+            "page": "Sandro Negri",
+            "pageView": 2,
+            "total": 3085
+        },
+        {
+            "page": "Curzio Gonzaga",
+            "pageView": 2,
+            "total": 3036
         },
         {
             "page": "Claudio Gonzaga (?-1586)",
-            "pageView": 884
+            "pageView": 1,
+            "total": 884
+        },
+        {
+            "page": "Tito Camillo Cazzaniga",
+            "pageView": 1,
+            "total": 1712
+        },
+        {
+            "page": "Giovanni Benevoli",
+            "pageView": 1,
+            "total": 1182
+        },
+        {
+            "page": "Luigi Tasselli",
+            "pageView": 1,
+            "total": 1723
+        },
+        {
+            "page": "Giulio Cesare Gonzaga di Palazzolo",
+            "pageView": 1,
+            "total": 2074
         }
     ]
 }

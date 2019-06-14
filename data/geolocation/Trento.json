@@ -1,0 +1,27 @@
+{
+    "id": "place.11587549945966260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trento",
+    "place_name": "Trento, Trento, Italy",
+    "bbox": [
+        11.021578,
+        45.97578,
+        11.194296,
+        46.152363
+    ],
+    "center": [
+        11.11667,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            46.06667
+        ]
+    }
+}

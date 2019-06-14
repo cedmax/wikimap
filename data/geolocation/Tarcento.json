@@ -1,0 +1,27 @@
+{
+    "id": "place.8947048248166260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tarcento",
+    "place_name": "Tarcento, Udine, Italy",
+    "bbox": [
+        13.18068,
+        46.183986,
+        13.271401,
+        46.264262
+    ],
+    "center": [
+        13.21667,
+        46.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21667,
+            46.21667
+        ]
+    }
+}

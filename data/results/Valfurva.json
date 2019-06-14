@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Marco Confortola",
-            "pageView": 113546
+            "pageView": 60,
+            "total": 113641
         },
         {
             "page": "Achille Compagnoni",
-            "pageView": 105849
+            "pageView": 57,
+            "total": 105939
         },
         {
             "page": "Tino Pietrogiovanna",
-            "pageView": 9157
+            "pageView": 5,
+            "total": 9157
         },
         {
             "page": "Arnaldo Berni",
-            "pageView": 7185
+            "pageView": 4,
+            "total": 7203
         },
         {
             "page": "Robert Antonioli",
-            "pageView": 6470
+            "pageView": 3,
+            "total": 6472
         },
         {
             "page": "Renato Antonioli",
-            "pageView": 3459
+            "pageView": 2,
+            "total": 3460
         },
         {
             "page": "Silvio Confortola",
-            "pageView": 2321
+            "pageView": 2,
+            "total": 2322
         }
     ]
 }

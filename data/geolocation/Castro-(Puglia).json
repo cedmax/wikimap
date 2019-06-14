@@ -1,0 +1,23 @@
+{
+    "id": "poi.3083786593158",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Marina di Pulsano",
+    "place_name": "Marina di Pulsano, Pulsano, Taranto 74026, Italy",
+    "matching_text": "Puglia",
+    "matching_place_name": "Puglia, Pulsano, Taranto 74026, Italy",
+    "center": [
+        17.366603,
+        40.353575
+    ],
+    "geometry": {
+        "coordinates": [
+            17.366603,
+            40.353575
+        ],
+        "type": "Point"
+    }
+}

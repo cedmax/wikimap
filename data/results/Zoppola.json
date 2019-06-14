@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Celso Benigno Luigi Costantini",
-            "pageView": 12265
+            "pageView": 7,
+            "total": 12269
         },
         {
             "page": "Giorgio Papais",
-            "pageView": 10633
+            "pageView": 7,
+            "total": 10645
         },
         {
             "page": "Martin Colussi",
-            "pageView": 5312
-        },
-        {
-            "page": "Giada Rossi",
-            "pageView": 4635
+            "pageView": 3,
+            "total": 5317
         },
         {
             "page": "Giovanni Costantini",
-            "pageView": 4519
+            "pageView": 3,
+            "total": 4520
         },
         {
-            "page": "Antonio Buccione",
-            "pageView": 4414
-        },
-        {
-            "page": "Claudio Canzian",
-            "pageView": 3692
+            "page": "Giada Rossi",
+            "pageView": 3,
+            "total": 4636
         },
         {
             "page": "Nicola Panciera di Zoppola",
-            "pageView": 1770
+            "pageView": 2,
+            "total": 1770
+        },
+        {
+            "page": "Antonio Buccione",
+            "pageView": 2,
+            "total": 4418
+        },
+        {
+            "page": "Claudio Canzian",
+            "pageView": 2,
+            "total": 3693
         }
     ]
 }

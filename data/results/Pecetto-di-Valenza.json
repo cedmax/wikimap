@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Giuseppe Borsalino",
-            "pageView": 13528
-        },
-        {
-            "page": "Clemente Morando",
-            "pageView": 2602
+            "pageView": 7,
+            "total": 13533
         },
         {
             "page": "Giuseppe Menada",
-            "pageView": 2337
+            "pageView": 2,
+            "total": 2337
+        },
+        {
+            "page": "Clemente Morando",
+            "pageView": 2,
+            "total": 2603
         }
     ]
 }

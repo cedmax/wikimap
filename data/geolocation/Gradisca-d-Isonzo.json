@@ -1,0 +1,27 @@
+{
+    "id": "place.7582784679664170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gradisca d'Isonzo",
+    "place_name": "Gradisca d'Isonzo, Gorizia, Italy",
+    "bbox": [
+        13.460878,
+        45.868258,
+        13.514949,
+        45.916421
+    ],
+    "center": [
+        13.5,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5,
+            45.88333
+        ]
+    }
+}

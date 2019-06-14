@@ -1,0 +1,27 @@
+{
+    "id": "place.6808042333457940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dolo",
+    "place_name": "Dolo, Venezia, Italy",
+    "bbox": [
+        12.036242,
+        45.391693,
+        12.131837,
+        45.450641
+    ],
+    "center": [
+        12.08429,
+        45.42528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08429,
+            45.42528
+        ]
+    }
+}

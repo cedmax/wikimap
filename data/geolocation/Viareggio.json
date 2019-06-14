@@ -1,0 +1,27 @@
+{
+    "id": "place.3866212599402580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viareggio",
+    "place_name": "Viareggio, Lucca, Italy",
+    "bbox": [
+        10.227045,
+        43.815604,
+        10.311616,
+        43.896996
+    ],
+    "center": [
+        10.23333,
+        43.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23333,
+            43.86667
+        ]
+    }
+}

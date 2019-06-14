@@ -1,0 +1,27 @@
+{
+    "id": "place.14452023100925550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Gregorio Matese",
+    "place_name": "San Gregorio Matese, Caserta, Italy",
+    "bbox": [
+        14.285462,
+        41.375013,
+        14.459057,
+        41.448088
+    ],
+    "center": [
+        14.36667,
+        41.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            41.38333
+        ]
+    }
+}

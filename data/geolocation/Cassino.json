@@ -1,0 +1,27 @@
+{
+    "id": "place.16896985587504250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassino",
+    "place_name": "Cassino, Frosinone, Italy",
+    "bbox": [
+        13.778185,
+        41.41595,
+        13.90784,
+        41.543993
+    ],
+    "center": [
+        13.83333,
+        41.49167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83333,
+            41.49167
+        ]
+    }
+}

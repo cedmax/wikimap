@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Achille Silvestrini",
-            "pageView": 31099
+            "pageView": 20,
+            "total": 31113
         },
         {
             "page": "Amleto Giovanni Cicognani",
-            "pageView": 17695
+            "pageView": 12,
+            "total": 17701
         },
         {
             "page": "Mattia Moreni",
-            "pageView": 12356
-        },
-        {
-            "page": "Bernardino Spada",
-            "pageView": 11340
+            "pageView": 8,
+            "total": 12360
         },
         {
             "page": "Castellina (musicista)",
-            "pageView": 10374
+            "pageView": 7,
+            "total": 10388
         },
         {
-            "page": "Giovanni Pianori",
-            "pageView": 8211
+            "page": "Bernardino Spada",
+            "pageView": 7,
+            "total": 11346
         },
         {
             "page": "Gaetano Cicognani",
-            "pageView": 7413
+            "pageView": 5,
+            "total": 7413
         },
         {
             "page": "Dino Monduzzi",
-            "pageView": 6529
-        },
-        {
-            "page": "Gabriele Tredozi",
-            "pageView": 6349
-        },
-        {
-            "page": "Silvano Montevecchi",
-            "pageView": 5832
+            "pageView": 4,
+            "total": 6532
         },
         {
             "page": "Eugenio Melandri",
-            "pageView": 5782
+            "pageView": 3,
+            "total": 5801
         },
         {
             "page": "Domenico Barduzzi",
-            "pageView": 5652
+            "pageView": 3,
+            "total": 5654
         },
         {
-            "page": "Maria Pedrini",
-            "pageView": 4714
-        },
-        {
-            "page": "Igino Lega",
-            "pageView": 4700
-        },
-        {
-            "page": "Pino Parini",
-            "pageView": 4626
+            "page": "Silvano Montevecchi",
+            "pageView": 3,
+            "total": 5832
         },
         {
             "page": "Dionigi Naldi",
-            "pageView": 4324
+            "pageView": 3,
+            "total": 4328
+        },
+        {
+            "page": "Gabriele Tredozi",
+            "pageView": 3,
+            "total": 6350
+        },
+        {
+            "page": "Pino Parini",
+            "pageView": 3,
+            "total": 4626
+        },
+        {
+            "page": "Maria Pedrini",
+            "pageView": 3,
+            "total": 4717
+        },
+        {
+            "page": "Giovanni Pianori",
+            "pageView": 3,
+            "total": 8211
         },
         {
             "page": "Aldo Ronconi",
-            "pageView": 4263
-        },
-        {
-            "page": "Giuseppe Forlivesi",
-            "pageView": 3514
-        },
-        {
-            "page": "Giuseppe Ugonia",
-            "pageView": 3475
-        },
-        {
-            "page": "William Galassini",
-            "pageView": 3340
-        },
-        {
-            "page": "Michele Lega",
-            "pageView": 3188
-        },
-        {
-            "page": "Paolo Spada",
-            "pageView": 3128
-        },
-        {
-            "page": "Agostino Galamini",
-            "pageView": 3124
-        },
-        {
-            "page": "Sauro Babini",
-            "pageView": 2844
-        },
-        {
-            "page": "Gianfranco Corsini",
-            "pageView": 2763
-        },
-        {
-            "page": "Filippo Fabri (1564-1630)",
-            "pageView": 2274
-        },
-        {
-            "page": "Philibert Babou de la Bourdaisière",
-            "pageView": 2144
-        },
-        {
-            "page": "Babone Naldi",
-            "pageView": 2092
-        },
-        {
-            "page": "Achille Lega",
-            "pageView": 1936
+            "pageView": 3,
+            "total": 4268
         },
         {
             "page": "Giacomo Cattani",
-            "pageView": 1910
+            "pageView": 2,
+            "total": 1910
         },
         {
-            "page": "Vincenzo Ferniani",
-            "pageView": 1752
+            "page": "Michele Lega",
+            "pageView": 2,
+            "total": 3189
+        },
+        {
+            "page": "Paolo Spada",
+            "pageView": 2,
+            "total": 3130
+        },
+        {
+            "page": "Sauro Babini",
+            "pageView": 2,
+            "total": 2845
+        },
+        {
+            "page": "Gianfranco Corsini",
+            "pageView": 2,
+            "total": 2766
+        },
+        {
+            "page": "Filippo Fabri (1564-1630)",
+            "pageView": 2,
+            "total": 2275
+        },
+        {
+            "page": "Babone Naldi",
+            "pageView": 2,
+            "total": 2092
+        },
+        {
+            "page": "Giuseppe Ugonia",
+            "pageView": 2,
+            "total": 3475
+        },
+        {
+            "page": "Giuseppe Forlivesi",
+            "pageView": 2,
+            "total": 3516
+        },
+        {
+            "page": "Agostino Galamini",
+            "pageView": 2,
+            "total": 3126
+        },
+        {
+            "page": "William Galassini",
+            "pageView": 2,
+            "total": 3340
+        },
+        {
+            "page": "Achille Lega",
+            "pageView": 2,
+            "total": 1936
+        },
+        {
+            "page": "Igino Lega",
+            "pageView": 2,
+            "total": 4700
         },
         {
             "page": "Guido Naldi",
-            "pageView": 1232
+            "pageView": 1,
+            "total": 1232
+        },
+        {
+            "page": "Vincenzo Ferniani",
+            "pageView": 1,
+            "total": 1752
+        },
+        {
+            "page": "Philibert Babou de la Bourdaisière",
+            "pageView": 1,
+            "total": 2145
         }
     ]
 }

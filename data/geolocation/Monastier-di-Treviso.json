@@ -1,0 +1,27 @@
+{
+    "id": "place.12864194739425500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monastier di Treviso",
+    "place_name": "Monastier di Treviso, Treviso, Italy",
+    "bbox": [
+        12.39314,
+        45.637849,
+        12.489327,
+        45.6891
+    ],
+    "center": [
+        12.43333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.43333,
+            45.65
+        ]
+    }
+}

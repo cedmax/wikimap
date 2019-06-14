@@ -1,0 +1,27 @@
+{
+    "id": "place.5206183794772120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bari",
+    "place_name": "Bari, Bari, Italy",
+    "bbox": [
+        16.718193,
+        41.014305,
+        17.033868,
+        41.169489
+    ],
+    "center": [
+        16.86667,
+        41.12528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.86667,
+            41.12528
+        ]
+    }
+}

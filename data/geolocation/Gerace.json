@@ -1,0 +1,27 @@
+{
+    "id": "place.8650379228747530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gerace",
+    "place_name": "Gerace, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.135131,
+        38.250647,
+        16.251372,
+        38.328582
+    ],
+    "center": [
+        16.21667,
+        38.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.21667,
+            38.26667
+        ]
+    }
+}

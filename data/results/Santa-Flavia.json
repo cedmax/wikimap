@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Ignazio e Antonino Salvo",
-            "pageView": 131487
+            "pageView": 57,
+            "total": 131669
         },
         {
             "page": "Beppe Montana",
-            "pageView": 106854
+            "pageView": 53,
+            "total": 106960
         },
         {
             "page": "Salvatore Cusimano",
-            "pageView": 5566
-        },
-        {
-            "page": "Gianni Mineo",
-            "pageView": 3733
+            "pageView": 3,
+            "total": 5571
         },
         {
             "page": "Stefano Lanza Filingeri",
-            "pageView": 2902
+            "pageView": 2,
+            "total": 2905
+        },
+        {
+            "page": "Gianni Mineo",
+            "pageView": 2,
+            "total": 3736
         }
     ]
 }

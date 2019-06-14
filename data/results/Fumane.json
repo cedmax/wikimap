@@ -2,40 +2,49 @@
     "name": "Fumane",
     "people": [
         {
-            "page": "Francesco Lorenzi",
-            "pageView": 3828
-        },
-        {
-            "page": "Bartolomeo Bacilieri",
-            "pageView": 3337
-        },
-        {
-            "page": "Giovanni Zantedeschi",
-            "pageView": 2845
-        },
-        {
             "page": "Bartolomeo Lorenzi",
-            "pageView": 2390
+            "pageView": 2,
+            "total": 2390
         },
         {
             "page": "Plinio Antolini",
-            "pageView": 2274
-        },
-        {
-            "page": "Alessandro Dal Bosco",
-            "pageView": 2114
+            "pageView": 2,
+            "total": 2276
         },
         {
             "page": "Luigi Arcozzi Masino",
-            "pageView": 1984
+            "pageView": 2,
+            "total": 1984
         },
         {
-            "page": "Flaminio Pellegrini",
-            "pageView": 1602
+            "page": "Bartolomeo Bacilieri",
+            "pageView": 2,
+            "total": 3339
+        },
+        {
+            "page": "Alessandro Dal Bosco",
+            "pageView": 2,
+            "total": 2115
+        },
+        {
+            "page": "Francesco Lorenzi",
+            "pageView": 2,
+            "total": 3830
+        },
+        {
+            "page": "Giovanni Zantedeschi",
+            "pageView": 2,
+            "total": 2847
         },
         {
             "page": "Franco Corradi",
-            "pageView": 1594
+            "pageView": 1,
+            "total": 1594
+        },
+        {
+            "page": "Flaminio Pellegrini",
+            "pageView": 1,
+            "total": 1602
         }
     ]
 }

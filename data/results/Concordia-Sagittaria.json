@@ -3,127 +3,158 @@
     "people": [
         {
             "page": "Tirannio Rufino",
-            "pageView": 16081
+            "pageView": 10,
+            "total": 16094
         },
         {
             "page": "Ottorino Flaborea",
-            "pageView": 14168
-        },
-        {
-            "page": "Carlo Furlanis",
-            "pageView": 13529
+            "pageView": 9,
+            "total": 14178
         },
         {
             "page": "Giuseppe Pellegrini (vescovo)",
-            "pageView": 13079
+            "pageView": 9,
+            "total": 13089
         },
         {
-            "page": "Antonio Carneo",
-            "pageView": 5807
+            "page": "Carlo Furlanis",
+            "pageView": 7,
+            "total": 13535
         },
         {
             "page": "Ovidio Poletto",
-            "pageView": 5695
+            "pageView": 4,
+            "total": 5698
+        },
+        {
+            "page": "Antonio Carneo",
+            "pageView": 3,
+            "total": 5808
         },
         {
             "page": "Antonio Panciera",
-            "pageView": 5649
-        },
-        {
-            "page": "Sennen Corrà",
-            "pageView": 4000
+            "pageView": 3,
+            "total": 5652
         },
         {
             "page": "Marino Grimani (patriarca)",
-            "pageView": 3987
+            "pageView": 3,
+            "total": 3988
         },
         {
-            "page": "Gervino",
-            "pageView": 3634
-        },
-        {
-            "page": "Renato Falcomer",
-            "pageView": 2760
-        },
-        {
-            "page": "Francesco Isola",
-            "pageView": 2669
-        },
-        {
-            "page": "Pietro Pileo da Prata",
-            "pageView": 2645
-        },
-        {
-            "page": "Bartolomeo Gradenigo (vescovo)",
-            "pageView": 2633
-        },
-        {
-            "page": "Andrea Casasola",
-            "pageView": 2366
-        },
-        {
-            "page": "Vittorio De Zanche",
-            "pageView": 2173
+            "page": "Sennen Corrà",
+            "pageView": 3,
+            "total": 4004
         },
         {
             "page": "Giovanni Susan",
-            "pageView": 1833
+            "pageView": 2,
+            "total": 1835
         },
         {
-            "page": "Francesco Argentino",
-            "pageView": 1751
+            "page": "Francesco Isola",
+            "pageView": 2,
+            "total": 2672
         },
         {
-            "page": "Pietro Carlo Antonio Ciani",
-            "pageView": 1619
+            "page": "Andrea Casasola",
+            "pageView": 2,
+            "total": 2372
         },
         {
-            "page": "Giuseppe Maria Bressa",
-            "pageView": 1548
+            "page": "Pietro Pileo da Prata",
+            "pageView": 2,
+            "total": 2645
         },
         {
-            "page": "Abramo Freschi",
-            "pageView": 1443
+            "page": "Bartolomeo Gradenigo (vescovo)",
+            "pageView": 2,
+            "total": 2635
         },
         {
             "page": "Pietro Zamburlini",
-            "pageView": 1165
+            "pageView": 2,
+            "total": 1168
         },
         {
-            "page": "Vittorio D'Alessi",
-            "pageView": 1017
+            "page": "Renato Falcomer",
+            "pageView": 2,
+            "total": 2760
         },
         {
-            "page": "Luigi Paulini",
-            "pageView": 846
+            "page": "Gervino",
+            "pageView": 2,
+            "total": 3637
         },
         {
             "page": "Antonio Da Ponte (vescovo)",
-            "pageView": 840
+            "pageView": 2,
+            "total": 840
+        },
+        {
+            "page": "Abramo Freschi",
+            "pageView": 2,
+            "total": 1445
+        },
+        {
+            "page": "Vittorio De Zanche",
+            "pageView": 2,
+            "total": 2174
+        },
+        {
+            "page": "Vittorio D'Alessi",
+            "pageView": 2,
+            "total": 1020
         },
         {
             "page": "Giovanni Battista dal Legname",
-            "pageView": 768
+            "pageView": 1,
+            "total": 768
+        },
+        {
+            "page": "Pietro Carlo Antonio Ciani",
+            "pageView": 1,
+            "total": 1620
+        },
+        {
+            "page": "Francesco Argentino",
+            "pageView": 1,
+            "total": 1756
+        },
+        {
+            "page": "Giuseppe Maria Bressa",
+            "pageView": 1,
+            "total": 1552
         },
         {
             "page": "Guido da Baisio II",
-            "pageView": 752
+            "pageView": 1,
+            "total": 754
         },
         {
-            "page": "Federico da Prata",
-            "pageView": 625
-        },
-        {
-            "page": "Benzone",
-            "pageView": 468
-        },
-        {
-            "page": "Artuico di Castello (vescovo)",
-            "pageView": 419
+            "page": "Luigi Paulini",
+            "pageView": 1,
+            "total": 847
         },
         {
             "page": "Uberto da Cesena",
-            "pageView": 311
+            "pageView": 0,
+            "total": 312
+        },
+        {
+            "page": "Artuico di Castello (vescovo)",
+            "pageView": 0,
+            "total": 420
+        },
+        {
+            "page": "Federico da Prata",
+            "pageView": 0,
+            "total": 625
+        },
+        {
+            "page": "Benzone",
+            "pageView": 0,
+            "total": 476
         }
     ]
 }

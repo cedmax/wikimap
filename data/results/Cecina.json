@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Federica Panicucci",
-            "pageView": 812908
+            "pageView": 304,
+            "total": 813200
         },
         {
             "page": "Ubaldo Pantani",
-            "pageView": 260913
-        },
-        {
-            "page": "Sara Di Vaira",
-            "pageView": 234920
-        },
-        {
-            "page": "Altero Matteoli",
-            "pageView": 188974
+            "pageView": 56,
+            "total": 260946
         },
         {
             "page": "Marianella Bargilli",
-            "pageView": 102827
+            "pageView": 50,
+            "total": 102873
         },
         {
-            "page": "Diego Ulissi",
-            "pageView": 58832
+            "page": "Altero Matteoli",
+            "pageView": 36,
+            "total": 189031
         },
         {
-            "page": "Massimo Bulleri",
-            "pageView": 46044
+            "page": "Sara Di Vaira",
+            "pageView": 25,
+            "total": 235053
         },
         {
             "page": "Francesco Domenico Guerrazzi",
-            "pageView": 35150
+            "pageView": 24,
+            "total": 35169
+        },
+        {
+            "page": "Massimo Bulleri",
+            "pageView": 22,
+            "total": 46093
+        },
+        {
+            "page": "Diego Ulissi",
+            "pageView": 20,
+            "total": 58868
         },
         {
             "page": "Ilio Barontini",
-            "pageView": 25068
+            "pageView": 15,
+            "total": 25093
         },
         {
             "page": "Paolo Giovannelli",
-            "pageView": 18134
+            "pageView": 11,
+            "total": 18149
         },
         {
             "page": "Luca Brunetti",
-            "pageView": 11353
+            "pageView": 7,
+            "total": 11368
         },
         {
             "page": "Giacomo Lorenzini",
-            "pageView": 10715
+            "pageView": 7,
+            "total": 10724
         },
         {
             "page": "Mirko Bigazzi",
-            "pageView": 10693
-        },
-        {
-            "page": "Massimo Bartolini",
-            "pageView": 8742
-        },
-        {
-            "page": "Elia Favilli",
-            "pageView": 8670
-        },
-        {
-            "page": "Paul Derbyshire",
-            "pageView": 7512
-        },
-        {
-            "page": "Andrea Prunecchi",
-            "pageView": 7430
-        },
-        {
-            "page": "Giovanni Fattori (cestista)",
-            "pageView": 6593
-        },
-        {
-            "page": "Lorenzo Caroti",
-            "pageView": 6399
-        },
-        {
-            "page": "Silvia Fuselli",
-            "pageView": 5792
-        },
-        {
-            "page": "Gaetano Bardini",
-            "pageView": 4649
-        },
-        {
-            "page": "Ludovica Guidi",
-            "pageView": 4222
+            "pageView": 6,
+            "total": 10699
         },
         {
             "page": "Antonino Tringali Casanuova",
-            "pageView": 3503
+            "pageView": 5,
+            "total": 3507
         },
         {
-            "page": "Marcello Landi",
-            "pageView": 3421
+            "page": "Lorenzo Caroti",
+            "pageView": 5,
+            "total": 6409
         },
         {
-            "page": "Amelio Lami",
-            "pageView": 2484
+            "page": "Andrea Prunecchi",
+            "pageView": 5,
+            "total": 7433
+        },
+        {
+            "page": "Massimo Bartolini",
+            "pageView": 5,
+            "total": 8748
+        },
+        {
+            "page": "Giovanni Fattori (cestista)",
+            "pageView": 4,
+            "total": 6599
+        },
+        {
+            "page": "Paul Derbyshire",
+            "pageView": 4,
+            "total": 7514
+        },
+        {
+            "page": "Elia Favilli",
+            "pageView": 4,
+            "total": 8674
+        },
+        {
+            "page": "Gaetano Bardini",
+            "pageView": 3,
+            "total": 4650
+        },
+        {
+            "page": "Ludovica Guidi",
+            "pageView": 3,
+            "total": 4224
+        },
+        {
+            "page": "Silvia Fuselli",
+            "pageView": 3,
+            "total": 5804
         },
         {
             "page": "Giorgio Chiavacci",
-            "pageView": 2219
+            "pageView": 2,
+            "total": 2222
         },
         {
-            "page": "Giuseppe Cammilli",
-            "pageView": 1547
+            "page": "Marcello Landi",
+            "pageView": 2,
+            "total": 3422
         },
         {
-            "page": "Gian Paolo Niccolini",
-            "pageView": 1528
-        },
-        {
-            "page": "Walter Sabatelli",
-            "pageView": 1421
-        },
-        {
-            "page": "Alex Mastromarino",
-            "pageView": 1295
-        },
-        {
-            "page": "Manfredi Potenti",
-            "pageView": 1231
+            "page": "Amelio Lami",
+            "pageView": 2,
+            "total": 2485
         },
         {
             "page": "Alfredo Bruno Frassinelli",
-            "pageView": 1067
+            "pageView": 2,
+            "total": 1069
+        },
+        {
+            "page": "Gian Paolo Niccolini",
+            "pageView": 2,
+            "total": 1528
+        },
+        {
+            "page": "Walter Sabatelli",
+            "pageView": 1,
+            "total": 1421
+        },
+        {
+            "page": "Giuseppe Cammilli",
+            "pageView": 1,
+            "total": 1547
+        },
+        {
+            "page": "Alex Mastromarino",
+            "pageView": 0,
+            "total": 1297
+        },
+        {
+            "page": "Manfredi Potenti",
+            "pageView": 0,
+            "total": 1235
         },
         {
             "page": "Francesco Bellini (politico)",
-            "pageView": 621
+            "pageView": 0,
+            "total": 621
         }
     ]
 }

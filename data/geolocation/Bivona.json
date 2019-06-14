@@ -1,0 +1,27 @@
+{
+    "id": "place.10081242639276630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bivona",
+    "place_name": "Bivona, Agrigento, Italy",
+    "bbox": [
+        13.335264,
+        37.482024,
+        13.465547,
+        37.660615
+    ],
+    "center": [
+        13.44051,
+        37.61835
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.44051,
+            37.61835
+        ]
+    }
+}

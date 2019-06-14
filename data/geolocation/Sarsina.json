@@ -1,0 +1,27 @@
+{
+    "id": "place.4864871107040450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarsina",
+    "place_name": "Sarsina, Forli'-Cesena, Italy",
+    "bbox": [
+        12.031172,
+        43.846991,
+        12.174759,
+        44.024117
+    ],
+    "center": [
+        12.15,
+        43.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.15,
+            43.91667
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Papa Pio V",
-            "pageView": 175721
+            "pageView": 113,
+            "total": 175821
         },
         {
             "page": "Michele Bonelli",
-            "pageView": 9134
-        },
-        {
-            "page": "Giuseppe Chiarante",
-            "pageView": 6434
+            "pageView": 6,
+            "total": 9139
         },
         {
             "page": "Tommaso Pio Boggiani",
-            "pageView": 6391
+            "pageView": 4,
+            "total": 6392
+        },
+        {
+            "page": "Giuseppe Chiarante",
+            "pageView": 4,
+            "total": 6438
         },
         {
             "page": "Antonio Salvarezza",
-            "pageView": 3779
+            "pageView": 3,
+            "total": 3780
         },
         {
             "page": "Domenico Bovone",
-            "pageView": 3398
+            "pageView": 3,
+            "total": 3400
         },
         {
             "page": "Luigi Giacobbe",
-            "pageView": 2595
+            "pageView": 2,
+            "total": 2595
         },
         {
             "page": "Enrico Verde",
-            "pageView": 1290
+            "pageView": 1,
+            "total": 1291
         }
     ]
 }

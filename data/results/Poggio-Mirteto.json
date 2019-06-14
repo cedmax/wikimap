@@ -3,275 +3,343 @@
     "people": [
         {
             "page": "Papa Giulio II",
-            "pageView": 417454
+            "pageView": 274,
+            "total": 417603
         },
         {
             "page": "Marcello Colafigli",
-            "pageView": 370146
+            "pageView": 218,
+            "total": 370297
         },
         {
             "page": "Papa Paolo IV",
-            "pageView": 168780
+            "pageView": 110,
+            "total": 168897
         },
         {
             "page": "Scipione Rebiba",
-            "pageView": 84176
+            "pageView": 56,
+            "total": 84211
         },
         {
             "page": "Papa Clemente IV",
-            "pageView": 46880
+            "pageView": 31,
+            "total": 46906
         },
         {
             "page": "Alessandro Farnese il Giovane",
-            "pageView": 39379
-        },
-        {
-            "page": "Raimondo D'Inzeo",
-            "pageView": 36107
+            "pageView": 26,
+            "total": 39402
         },
         {
             "page": "Bessarione (cardinale)",
-            "pageView": 35309
+            "pageView": 23,
+            "total": 35331
+        },
+        {
+            "page": "Raimondo D'Inzeo",
+            "pageView": 19,
+            "total": 36131
         },
         {
             "page": "Raffaele Riario",
-            "pageView": 31138
+            "pageView": 17,
+            "total": 31155
         },
         {
             "page": "Giovanni Gerolamo Morone",
-            "pageView": 13743
-        },
-        {
-            "page": "Giovanni Salviati",
-            "pageView": 12459
+            "pageView": 9,
+            "total": 13758
         },
         {
             "page": "Luigi Lambruschini",
-            "pageView": 12068
+            "pageView": 8,
+            "total": 12076
         },
         {
             "page": "Paolo Aleandri",
-            "pageView": 11800
-        },
-        {
-            "page": "Marcello Mimmi",
-            "pageView": 10446
-        },
-        {
-            "page": "Ernesto Mandara",
-            "pageView": 9848
-        },
-        {
-            "page": "Giulio Della Rovere",
-            "pageView": 9711
-        },
-        {
-            "page": "Pietro Bonfante",
-            "pageView": 9581
-        },
-        {
-            "page": "Lorenzo Campeggi",
-            "pageView": 8684
-        },
-        {
-            "page": "Juan de Torquemada",
-            "pageView": 8205
+            "pageView": 7,
+            "total": 11806
         },
         {
             "page": "Lino Fumagalli",
-            "pageView": 7942
+            "pageView": 7,
+            "total": 7946
+        },
+        {
+            "page": "Giovanni Salviati",
+            "pageView": 7,
+            "total": 12468
+        },
+        {
+            "page": "Marcello Mimmi",
+            "pageView": 7,
+            "total": 10451
+        },
+        {
+            "page": "Ernesto Mandara",
+            "pageView": 6,
+            "total": 9850
+        },
+        {
+            "page": "Pietro Bonfante",
+            "pageView": 6,
+            "total": 9587
+        },
+        {
+            "page": "Giulio Della Rovere",
+            "pageView": 6,
+            "total": 9714
         },
         {
             "page": "Silvio Valenti Gonzaga",
-            "pageView": 7620
+            "pageView": 5,
+            "total": 7626
         },
         {
-            "page": "Francesco di Paola Cassetta",
-            "pageView": 7239
+            "page": "Juan de Torquemada",
+            "pageView": 5,
+            "total": 8209
         },
         {
-            "page": "Antonio Maria Ciocchi del Monte",
-            "pageView": 6814
-        },
-        {
-            "page": "Antoine Perrenot de Granvelle",
-            "pageView": 6469
-        },
-        {
-            "page": "Agnelo Rossi",
-            "pageView": 6343
+            "page": "Lorenzo Campeggi",
+            "pageView": 5,
+            "total": 8688
         },
         {
             "page": "Salvatore Boccaccio",
-            "pageView": 6181
+            "pageView": 4,
+            "total": 6183
         },
         {
-            "page": "Giovanni Ricci (cardinale)",
-            "pageView": 5556
-        },
-        {
-            "page": "Bernardino López de Carvajal",
-            "pageView": 5476
-        },
-        {
-            "page": "Giordano Orsini (cardinale 1405)",
-            "pageView": 4934
-        },
-        {
-            "page": "Matteo Orsini (domenicano)",
-            "pageView": 4855
-        },
-        {
-            "page": "Giovanni Domenico De Cupis",
-            "pageView": 4838
-        },
-        {
-            "page": "Andrea Corsini (cardinale)",
-            "pageView": 4800
-        },
-        {
-            "page": "Pietro Accolti",
-            "pageView": 4239
-        },
-        {
-            "page": "Giovanni Antonio Sangiorgio",
-            "pageView": 4234
-        },
-        {
-            "page": "Lorenzo Litta",
-            "pageView": 4005
-        },
-        {
-            "page": "Philippe d'Alençon",
-            "pageView": 3863
+            "page": "Antoine Perrenot de Granvelle",
+            "pageView": 4,
+            "total": 6472
         },
         {
             "page": "Gabriele Ferretti (cardinale)",
-            "pageView": 3861
+            "pageView": 4,
+            "total": 3867
+        },
+        {
+            "page": "Francesco di Paola Cassetta",
+            "pageView": 4,
+            "total": 7240
+        },
+        {
+            "page": "Antonio Maria Ciocchi del Monte",
+            "pageView": 4,
+            "total": 6814
+        },
+        {
+            "page": "Agnelo Rossi",
+            "pageView": 4,
+            "total": 6345
+        },
+        {
+            "page": "Giordano Orsini (cardinale 1405)",
+            "pageView": 3,
+            "total": 4937
+        },
+        {
+            "page": "Matteo Orsini (domenicano)",
+            "pageView": 3,
+            "total": 4859
+        },
+        {
+            "page": "Lorenzo Litta",
+            "pageView": 3,
+            "total": 4007
+        },
+        {
+            "page": "Giovanni Domenico De Cupis",
+            "pageView": 3,
+            "total": 4841
+        },
+        {
+            "page": "Andrea Corsini (cardinale)",
+            "pageView": 3,
+            "total": 4803
+        },
+        {
+            "page": "Giovanni Ricci (cardinale)",
+            "pageView": 3,
+            "total": 5557
+        },
+        {
+            "page": "Bernardino López de Carvajal",
+            "pageView": 3,
+            "total": 5477
+        },
+        {
+            "page": "Pietro Accolti",
+            "pageView": 3,
+            "total": 4240
+        },
+        {
+            "page": "Giovanni Antonio Sangiorgio",
+            "pageView": 3,
+            "total": 4236
         },
         {
             "page": "Niccolò Fieschi",
-            "pageView": 3801
-        },
-        {
-            "page": "Ottone di Waldburg",
-            "pageView": 3724
-        },
-        {
-            "page": "Donato Raffaele Sbarretti Tazza",
-            "pageView": 3612
-        },
-        {
-            "page": "Ercole Nardi",
-            "pageView": 3591
-        },
-        {
-            "page": "Giuseppe Antonio Ferretto",
-            "pageView": 3589
+            "pageView": 2,
+            "total": 3803
         },
         {
             "page": "Filippo di Cabassoles",
-            "pageView": 3577
-        },
-        {
-            "page": "Antonio Pucci (cardinale)",
-            "pageView": 3550
-        },
-        {
-            "page": "Giovanni Michele Saraceni",
-            "pageView": 3407
-        },
-        {
-            "page": "Joaquín Fernández de Portocarrero",
-            "pageView": 3382
-        },
-        {
-            "page": "Bonifacio Ferrero",
-            "pageView": 3276
-        },
-        {
-            "page": "François de Joyeuse",
-            "pageView": 3190
+            "pageView": 2,
+            "total": 3579
         },
         {
             "page": "Antonio Domenico Gamberini",
-            "pageView": 3152
-        },
-        {
-            "page": "Corrado di Wittelsbach",
-            "pageView": 3146
-        },
-        {
-            "page": "Vincenzo Bichi",
-            "pageView": 3117
-        },
-        {
-            "page": "Franco Marzilli",
-            "pageView": 3069
-        },
-        {
-            "page": "Alain de Coëtivy",
-            "pageView": 3041
-        },
-        {
-            "page": "François II de Tournon",
-            "pageView": 2755
+            "pageView": 2,
+            "total": 3156
         },
         {
             "page": "Giacomo Luigi Brignole",
-            "pageView": 2622
+            "pageView": 2,
+            "total": 2623
         },
         {
-            "page": "Giuseppe Milesi Pironi Ferretti",
-            "pageView": 2564
+            "page": "Ottone di Waldburg",
+            "pageView": 2,
+            "total": 3727
         },
         {
-            "page": "Tommaso Maria Martinelli",
-            "pageView": 2525
-        },
-        {
-            "page": "Luigi Serafini (cardinale)",
-            "pageView": 2503
-        },
-        {
-            "page": "Giannicolò Conti",
-            "pageView": 2490
-        },
-        {
-            "page": "Karl August von Reisach",
-            "pageView": 2471
-        },
-        {
-            "page": "Giovanni Cicconetti",
-            "pageView": 1788
+            "page": "François de Joyeuse",
+            "pageView": 2,
+            "total": 3191
         },
         {
             "page": "Edmondo Del Bufalo",
-            "pageView": 1758
+            "pageView": 2,
+            "total": 1759
+        },
+        {
+            "page": "Luigi Serafini (cardinale)",
+            "pageView": 2,
+            "total": 2506
         },
         {
             "page": "Luigi Cicconetti",
-            "pageView": 1633
+            "pageView": 2,
+            "total": 1634
+        },
+        {
+            "page": "Tommaso Maria Martinelli",
+            "pageView": 2,
+            "total": 2526
+        },
+        {
+            "page": "Giuseppe Milesi Pironi Ferretti",
+            "pageView": 2,
+            "total": 2568
+        },
+        {
+            "page": "Ercole Nardi",
+            "pageView": 2,
+            "total": 3593
+        },
+        {
+            "page": "Alain de Coëtivy",
+            "pageView": 2,
+            "total": 3043
+        },
+        {
+            "page": "Giannicolò Conti",
+            "pageView": 2,
+            "total": 2492
+        },
+        {
+            "page": "Philippe d'Alençon",
+            "pageView": 2,
+            "total": 3863
         },
         {
             "page": "Arnaud de Faugères",
-            "pageView": 1609
+            "pageView": 2,
+            "total": 1612
+        },
+        {
+            "page": "Antonio Pucci (cardinale)",
+            "pageView": 2,
+            "total": 3551
+        },
+        {
+            "page": "François II de Tournon",
+            "pageView": 2,
+            "total": 2756
+        },
+        {
+            "page": "Karl August von Reisach",
+            "pageView": 2,
+            "total": 2474
+        },
+        {
+            "page": "Franco Marzilli",
+            "pageView": 2,
+            "total": 3071
+        },
+        {
+            "page": "Joaquín Fernández de Portocarrero",
+            "pageView": 2,
+            "total": 3383
+        },
+        {
+            "page": "Bonifacio Ferrero",
+            "pageView": 2,
+            "total": 3279
+        },
+        {
+            "page": "Vincenzo Bichi",
+            "pageView": 2,
+            "total": 3118
+        },
+        {
+            "page": "Giuseppe Antonio Ferretto",
+            "pageView": 2,
+            "total": 3589
+        },
+        {
+            "page": "Giovanni Michele Saraceni",
+            "pageView": 2,
+            "total": 3408
+        },
+        {
+            "page": "Donato Raffaele Sbarretti Tazza",
+            "pageView": 2,
+            "total": 3613
+        },
+        {
+            "page": "Corrado di Wittelsbach",
+            "pageView": 2,
+            "total": 3150
         },
         {
             "page": "Robert de Lénoncourt",
-            "pageView": 1537
-        },
-        {
-            "page": "Pietro Quinto",
-            "pageView": 1399
+            "pageView": 1,
+            "total": 1537
         },
         {
             "page": "Giunio Salvi",
-            "pageView": 1191
+            "pageView": 1,
+            "total": 1195
+        },
+        {
+            "page": "Pietro Quinto",
+            "pageView": 1,
+            "total": 1400
         },
         {
             "page": "Luigi Michiorri",
-            "pageView": 1006
+            "pageView": 1,
+            "total": 1008
+        },
+        {
+            "page": "Giovanni Cicconetti",
+            "pageView": 1,
+            "total": 1789
         }
     ]
 }

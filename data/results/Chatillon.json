@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Furio Colombo",
-            "pageView": 127720
+            "pageView": 57,
+            "total": 127787
         },
         {
             "page": "Denise Grey",
-            "pageView": 34802
+            "pageView": 15,
+            "total": 34818
         },
         {
             "page": "Italo Mus",
-            "pageView": 5974
-        },
-        {
-            "page": "Luciano Ratto",
-            "pageView": 3302
+            "pageView": 4,
+            "total": 5976
         },
         {
             "page": "Édouard Bérard",
-            "pageView": 3125
+            "pageView": 2,
+            "total": 3125
         },
         {
             "page": "Georges Carrel",
-            "pageView": 2935
+            "pageView": 2,
+            "total": 2937
         },
         {
             "page": "Joseph-Auguste Duc",
-            "pageView": 2586
+            "pageView": 2,
+            "total": 2590
+        },
+        {
+            "page": "Luciano Ratto",
+            "pageView": 2,
+            "total": 3303
         },
         {
             "page": "Emanuele Bich",
-            "pageView": 144
+            "pageView": 0,
+            "total": 144
         }
     ]
 }

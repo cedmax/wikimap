@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Matej Černič",
-            "pageView": 27758
+            "pageView": 14,
+            "total": 27773
         },
         {
             "page": "Camillo Placì",
-            "pageView": 11341
-        },
-        {
-            "page": "Flavio Gulinelli",
-            "pageView": 10489
+            "pageView": 5,
+            "total": 11347
         },
         {
             "page": "Daniele De Pandis",
-            "pageView": 8802
+            "pageView": 5,
+            "total": 8805
+        },
+        {
+            "page": "Flavio Gulinelli",
+            "pageView": 5,
+            "total": 10503
         },
         {
             "page": "Michele De Giorgi",
-            "pageView": 7790
-        },
-        {
-            "page": "Adriano Paolucci",
-            "pageView": 5392
+            "pageView": 4,
+            "total": 7792
         },
         {
             "page": "Marco Rizzo (pallavolista)",
-            "pageView": 4646
+            "pageView": 3,
+            "total": 4650
         },
         {
-            "page": "Massimo Botti",
-            "pageView": 4097
-        },
-        {
-            "page": "Jeffrey Ptak",
-            "pageView": 3672
-        },
-        {
-            "page": "Francesco Lavorato",
-            "pageView": 3426
-        },
-        {
-            "page": "Guillermo Falasca",
-            "pageView": 3219
-        },
-        {
-            "page": "Alessio Fiore",
-            "pageView": 2922
-        },
-        {
-            "page": "Milan Bencz",
-            "pageView": 2857
-        },
-        {
-            "page": "Massimo Dagioni",
-            "pageView": 2855
-        },
-        {
-            "page": "Daniele Tomassetti",
-            "pageView": 2253
+            "page": "Adriano Paolucci",
+            "pageView": 3,
+            "total": 5393
         },
         {
             "page": "Dobromir Dimitrov",
-            "pageView": 2184
+            "pageView": 2,
+            "total": 2185
         },
         {
-            "page": "Matteo Pesenti",
-            "pageView": 2130
-        },
-        {
-            "page": "Massimo Pecorari",
-            "pageView": 2126
+            "page": "Jeffrey Ptak",
+            "pageView": 2,
+            "total": 3672
         },
         {
             "page": "Marcus Popp",
-            "pageView": 1949
+            "pageView": 2,
+            "total": 1950
         },
         {
-            "page": "Thomas Ereu",
-            "pageView": 1307
+            "page": "Massimo Dagioni",
+            "pageView": 2,
+            "total": 2855
+        },
+        {
+            "page": "Milan Bencz",
+            "pageView": 2,
+            "total": 2859
+        },
+        {
+            "page": "Daniele Tomassetti",
+            "pageView": 2,
+            "total": 2255
+        },
+        {
+            "page": "Guillermo Falasca",
+            "pageView": 2,
+            "total": 3220
+        },
+        {
+            "page": "Alessio Fiore",
+            "pageView": 2,
+            "total": 2924
+        },
+        {
+            "page": "Matteo Pesenti",
+            "pageView": 2,
+            "total": 2130
+        },
+        {
+            "page": "Francesco Lavorato",
+            "pageView": 2,
+            "total": 3429
+        },
+        {
+            "page": "Massimo Botti",
+            "pageView": 2,
+            "total": 4099
+        },
+        {
+            "page": "Massimo Pecorari",
+            "pageView": 2,
+            "total": 2127
         },
         {
             "page": "Eerik Jago",
-            "pageView": 1296
+            "pageView": 1,
+            "total": 1296
         },
         {
             "page": "Gabriel Chochoľák",
-            "pageView": 1217
-        },
-        {
-            "page": "Leonardo Rodrigues",
-            "pageView": 1089
+            "pageView": 1,
+            "total": 1217
         },
         {
             "page": "Jorge Barajas",
-            "pageView": 950
+            "pageView": 1,
+            "total": 953
+        },
+        {
+            "page": "Leonardo Rodrigues",
+            "pageView": 1,
+            "total": 1089
+        },
+        {
+            "page": "Thomas Ereu",
+            "pageView": 1,
+            "total": 1307
         },
         {
             "page": "Jurij Čerednik",
-            "pageView": 750
+            "pageView": 0,
+            "total": 750
         }
     ]
 }

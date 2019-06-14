@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Carlo Mazza",
-            "pageView": 2910
+            "pageView": 2,
+            "total": 2911
         },
         {
             "page": "Adalgisa Giana",
-            "pageView": 452
+            "pageView": 0,
+            "total": 452
         }
     ]
 }

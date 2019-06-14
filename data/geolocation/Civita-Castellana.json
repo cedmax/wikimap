@@ -1,0 +1,27 @@
+{
+    "id": "place.7652106825023320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civita Castellana",
+    "place_name": "Civita Castellana, Viterbo, Italy",
+    "bbox": [
+        12.356427,
+        42.247524,
+        12.520093,
+        42.359301
+    ],
+    "center": [
+        12.41,
+        42.29611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41,
+            42.29611
+        ]
+    }
+}

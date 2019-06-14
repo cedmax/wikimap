@@ -1,0 +1,27 @@
+{
+    "id": "place.5081841716358260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Falconara Marittima",
+    "place_name": "Falconara Marittima, Ancona, Italy",
+    "bbox": [
+        13.328202,
+        43.590393,
+        13.422615,
+        43.651324
+    ],
+    "center": [
+        13.3968,
+        43.6296
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.3968,
+            43.6296
+        ]
+    }
+}

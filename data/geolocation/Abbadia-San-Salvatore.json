@@ -1,0 +1,21 @@
+{
+    "id": "poi.1297080123857",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Abbadia San Salvatore",
+    "place_name": "Abbadia San Salvatore, Abbadia San Salvatore, Siena 53021, Italy",
+    "center": [
+        11.672583,
+        42.88186225
+    ],
+    "geometry": {
+        "coordinates": [
+            11.672583,
+            42.88186225
+        ],
+        "type": "Point"
+    }
+}

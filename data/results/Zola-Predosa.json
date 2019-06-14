@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Antonio Di Natale",
-            "pageView": 649735
+            "pageView": 332.5,
+            "total": 650076
         },
         {
             "page": "Davide Succi",
-            "pageView": 76886
+            "pageView": 44,
+            "total": 76924
         },
         {
             "page": "Marino Perani",
-            "pageView": 46652
+            "pageView": 21,
+            "total": 46668
         },
         {
             "page": "Francesco Francia",
-            "pageView": 28444
-        },
-        {
-            "page": "Paolo Stringara",
-            "pageView": 27666
+            "pageView": 18,
+            "total": 28463
         },
         {
             "page": "Fabio Poli",
-            "pageView": 26802
+            "pageView": 17,
+            "total": 26821
+        },
+        {
+            "page": "Paolo Stringara",
+            "pageView": 16,
+            "total": 27682
         },
         {
             "page": "Fabio Marchioro",
-            "pageView": 9475
+            "pageView": 6,
+            "total": 9484
         },
         {
             "page": "Daniele Beltrammi",
-            "pageView": 6520
-        },
-        {
-            "page": "Francesco Albergati Capacelli",
-            "pageView": 5487
-        },
-        {
-            "page": "Giancarlo Pascale Guidotti Magnani",
-            "pageView": 3243
-        },
-        {
-            "page": "Giovanni Viel",
-            "pageView": 2196
-        },
-        {
-            "page": "Corrado Masetti",
-            "pageView": 2019
+            "pageView": 4,
+            "total": 6524
         },
         {
             "page": "Krasimir Čomakov",
-            "pageView": 1939
+            "pageView": 4,
+            "total": 1941
+        },
+        {
+            "page": "Francesco Albergati Capacelli",
+            "pageView": 3,
+            "total": 5552
+        },
+        {
+            "page": "Giovanni Viel",
+            "pageView": 2,
+            "total": 2199
+        },
+        {
+            "page": "Corrado Masetti",
+            "pageView": 2,
+            "total": 2019
+        },
+        {
+            "page": "Giancarlo Pascale Guidotti Magnani",
+            "pageView": 2,
+            "total": 3243
         },
         {
             "page": "Giuseppe Rubini (calciatore)",
-            "pageView": 1218
+            "pageView": 1,
+            "total": 1219
         },
         {
             "page": "Mario Simoni",
-            "pageView": 535
+            "pageView": 0,
+            "total": 536
         }
     ]
 }

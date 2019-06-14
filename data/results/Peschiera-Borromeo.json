@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Bruno Lauzi",
-            "pageView": 353390
+            "pageView": 178,
+            "total": 353560
         },
         {
             "page": "Paolo Erba",
-            "pageView": 7289
+            "pageView": 4,
+            "total": 7291
         },
         {
             "page": "Liborio Sfalanga",
-            "pageView": 1498
+            "pageView": 2,
+            "total": 1500
         },
         {
             "page": "Nello Valzania",
-            "pageView": 1096
+            "pageView": 2,
+            "total": 1097
         },
         {
             "page": "Ivano Lussignoli",
-            "pageView": 472
+            "pageView": 0,
+            "total": 473
         }
     ]
 }

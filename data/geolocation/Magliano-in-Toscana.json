@@ -1,0 +1,27 @@
+{
+    "id": "place.16998694479435450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magliano in Toscana",
+    "place_name": "Magliano in Toscana, Grosseto, Italy",
+    "bbox": [
+        11.081645,
+        42.538886,
+        11.388341,
+        42.755594
+    ],
+    "center": [
+        11.29306,
+        42.59889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.29306,
+            42.59889
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7664481418717180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lascari",
+    "place_name": "Lascari, Palermo, Italy",
+    "bbox": [
+        13.913349,
+        37.979282,
+        13.963295,
+        38.02136
+    ],
+    "center": [
+        13.93333,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93333,
+            38
+        ]
+    }
+}

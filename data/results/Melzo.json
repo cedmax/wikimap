@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Romano Perticone",
-            "pageView": 43056
+            "pageView": 23,
+            "total": 43079
         },
         {
             "page": "Gianni Colombo (artista)",
-            "pageView": 13540
+            "pageView": 9,
+            "total": 13550
         },
         {
             "page": "Antonio Guido Filipazzi",
-            "pageView": 12607
-        },
-        {
-            "page": "Alberto Busnari",
-            "pageView": 10354
+            "pageView": 7,
+            "total": 12615
         },
         {
             "page": "Lorenzo Rossetti",
-            "pageView": 9139
+            "pageView": 5,
+            "total": 9145
         },
         {
-            "page": "Luciano Comaschi",
-            "pageView": 8810
-        },
-        {
-            "page": "Enrico Cassani",
-            "pageView": 4979
+            "page": "Alberto Busnari",
+            "pageView": 5,
+            "total": 10358
         },
         {
             "page": "Paolo Bordogna",
-            "pageView": 4038
+            "pageView": 4,
+            "total": 4039
         },
         {
-            "page": "Davide Ignazio Franceschetti",
-            "pageView": 3219
+            "page": "Luciano Comaschi",
+            "pageView": 4,
+            "total": 8816
         },
         {
-            "page": "Corinto Marchini",
-            "pageView": 2744
+            "page": "Enrico Cassani",
+            "pageView": 3,
+            "total": 4985
         },
         {
             "page": "Giuseppe Brambilla",
-            "pageView": 2294
+            "pageView": 2,
+            "total": 2294
+        },
+        {
+            "page": "Davide Ignazio Franceschetti",
+            "pageView": 2,
+            "total": 3222
+        },
+        {
+            "page": "Corinto Marchini",
+            "pageView": 2,
+            "total": 2744
         },
         {
             "page": "Giordano Piciga",
-            "pageView": 1688
+            "pageView": 1,
+            "total": 1688
         },
         {
             "page": "Gemma Galli",
-            "pageView": 560
+            "pageView": 0,
+            "total": 560
         },
         {
             "page": "Gian Giacomo Teodoro Trivulzio",
-            "pageView": 96
+            "pageView": 0,
+            "total": 97
         }
     ]
 }

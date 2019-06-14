@@ -1,0 +1,27 @@
+{
+    "id": "place.14392122723214560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostuni",
+    "place_name": "Ostuni, Brindisi, Italy",
+    "bbox": [
+        17.366507,
+        40.641298,
+        17.677413,
+        40.81425
+    ],
+    "center": [
+        17.57778,
+        40.73222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.57778,
+            40.73222
+        ]
+    }
+}

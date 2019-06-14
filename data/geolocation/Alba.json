@@ -1,0 +1,27 @@
+{
+    "id": "place.16502271983168820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alba",
+    "place_name": "Alba, Cuneo, Italy",
+    "bbox": [
+        7.966448,
+        44.637802,
+        8.098574,
+        44.734182
+    ],
+    "center": [
+        8.08333,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.08333,
+            44.71667
+        ]
+    }
+}

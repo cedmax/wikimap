@@ -1,0 +1,21 @@
+{
+    "id": "poi.3350074543858",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Villadossola",
+    "place_name": "Villadossola, Via Marconi 21, Villadossola, Verbano-Cusio-Ossola 28844, Italy",
+    "center": [
+        8.264674,
+        46.066879
+    ],
+    "geometry": {
+        "coordinates": [
+            8.264674,
+            46.066879
+        ],
+        "type": "Point"
+    }
+}

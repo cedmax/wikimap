@@ -1,0 +1,27 @@
+{
+    "id": "place.11079359851651220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Flero",
+    "place_name": "Flero, Brescia, Italy",
+    "bbox": [
+        10.14368,
+        45.463015,
+        10.196424,
+        45.496837
+    ],
+    "center": [
+        10.1745,
+        45.4835
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1745,
+            45.4835
+        ]
+    }
+}

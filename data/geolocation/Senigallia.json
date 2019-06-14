@@ -1,0 +1,27 @@
+{
+    "id": "place.2039679455376980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Senigallia",
+    "place_name": "Senigallia, Ancona, Italy",
+    "bbox": [
+        13.118428,
+        43.604389,
+        13.301968,
+        43.75067
+    ],
+    "center": [
+        13.21833,
+        43.71306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21833,
+            43.71306
+        ]
+    }
+}

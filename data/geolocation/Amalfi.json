@@ -1,0 +1,27 @@
+{
+    "id": "place.6607810090931540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Amalfi",
+    "place_name": "Amalfi, Napoli, Italy",
+    "bbox": [
+        14.558158,
+        40.61757,
+        14.607922,
+        40.648333
+    ],
+    "center": [
+        14.60278,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.60278,
+            40.63333
+        ]
+    }
+}

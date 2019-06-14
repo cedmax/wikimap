@@ -1,0 +1,27 @@
+{
+    "id": "place.8584172958709670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavarzere",
+    "place_name": "Cavarzere, Venezia, Italy",
+    "bbox": [
+        11.962107,
+        45.055911,
+        12.23734,
+        45.17048
+    ],
+    "center": [
+        12.08171,
+        45.13701
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08171,
+            45.13701
+        ]
+    }
+}

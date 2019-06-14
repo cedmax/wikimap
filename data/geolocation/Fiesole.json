@@ -1,0 +1,27 @@
+{
+    "id": "place.15809363513977410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiesole",
+    "place_name": "Fiesole, Firenze, Italy",
+    "bbox": [
+        11.279253,
+        43.764985,
+        11.378839,
+        43.87015
+    ],
+    "center": [
+        11.3,
+        43.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3,
+            43.8
+        ]
+    }
+}

@@ -3,231 +3,288 @@
     "people": [
         {
             "page": "Indro Montanelli",
-            "pageView": 932015
+            "pageView": 499.5,
+            "total": 932580
         },
         {
             "page": "Manuela Falorni",
-            "pageView": 126442
-        },
-        {
-            "page": "Simone Buti",
-            "pageView": 96777
+            "pageView": 70,
+            "total": 126499
         },
         {
             "page": "Andrea Degortes",
-            "pageView": 93010
+            "pageView": 36,
+            "total": 93044
+        },
+        {
+            "page": "Simone Buti",
+            "pageView": 23,
+            "total": 96790
         },
         {
             "page": "Luigi Bruschelli",
-            "pageView": 69470
+            "pageView": 22,
+            "total": 69490
         },
         {
             "page": "Giovanni Atzeni",
-            "pageView": 64426
-        },
-        {
-            "page": "Marco Bracci",
-            "pageView": 43154
-        },
-        {
-            "page": "Andrea Mari",
-            "pageView": 42408
+            "pageView": 22,
+            "total": 64445
         },
         {
             "page": "Andrea Tafi",
-            "pageView": 40188
+            "pageView": 18,
+            "total": 40204
         },
         {
-            "page": "Alessandro Lambruschini",
-            "pageView": 32393
+            "page": "Marco Bracci",
+            "pageView": 17,
+            "total": 43175
         },
         {
-            "page": "Giuseppe Zedde",
-            "pageView": 30246
+            "page": "Andrea Mari",
+            "pageView": 14,
+            "total": 42432
         },
         {
             "page": "Graziano Salvadori",
-            "pageView": 29790
-        },
-        {
-            "page": "Giuseppe Pes",
-            "pageView": 22572
-        },
-        {
-            "page": "Massimo Columbu",
-            "pageView": 20238
+            "pageView": 14,
+            "total": 29798
         },
         {
             "page": "Luca Cecconi",
-            "pageView": 20107
+            "pageView": 12,
+            "total": 20120
         },
         {
             "page": "Giuseppe Montanelli",
-            "pageView": 19482
+            "pageView": 11,
+            "total": 19497
         },
         {
-            "page": "Valter Pusceddu",
-            "pageView": 16518
+            "page": "Giuseppe Pes",
+            "pageView": 11,
+            "total": 22589
         },
         {
-            "page": "Salvatore Ladu (fantino)",
-            "pageView": 15572
+            "page": "Alessandro Lambruschini",
+            "pageView": 10,
+            "total": 32502
         },
         {
-            "page": "Maurizio Farnetani",
-            "pageView": 14987
+            "page": "Giuseppe Zedde",
+            "pageView": 9,
+            "total": 30262
         },
         {
             "page": "Perla Francalanci",
-            "pageView": 14654
+            "pageView": 8,
+            "total": 14656
         },
         {
-            "page": "Alberto Ricceri",
-            "pageView": 13568
+            "page": "Maurizio Farnetani",
+            "pageView": 7,
+            "total": 14993
+        },
+        {
+            "page": "Salvatore Ladu (fantino)",
+            "pageView": 7,
+            "total": 15577
         },
         {
             "page": "Silvano Mulas",
-            "pageView": 13521
+            "pageView": 7,
+            "total": 13523
+        },
+        {
+            "page": "Massimo Columbu",
+            "pageView": 6,
+            "total": 20242
         },
         {
             "page": "Massimo Coghe",
-            "pageView": 12151
+            "pageView": 6,
+            "total": 12160
         },
         {
-            "page": "Dino Pes",
-            "pageView": 11776
+            "page": "Valter Pusceddu",
+            "pageView": 6,
+            "total": 16529
+        },
+        {
+            "page": "Alberto Ricceri",
+            "pageView": 6,
+            "total": 13577
         },
         {
             "page": "Silvano Vigni",
-            "pageView": 10322
+            "pageView": 5,
+            "total": 10334
         },
         {
-            "page": "Alessandro Chiti",
-            "pageView": 8774
-        },
-        {
-            "page": "Dario Colagè",
-            "pageView": 8130
-        },
-        {
-            "page": "Virginio Zedde",
-            "pageView": 7475
+            "page": "Dino Pes",
+            "pageView": 5,
+            "total": 11791
         },
         {
             "page": "Martin Ballesteros",
-            "pageView": 6818
-        },
-        {
-            "page": "Indro Cenci",
-            "pageView": 6816
-        },
-        {
-            "page": "Massimo Alessandri",
-            "pageView": 6493
+            "pageView": 4,
+            "total": 6826
         },
         {
             "page": "Antonio Villella",
-            "pageView": 6468
+            "pageView": 4,
+            "total": 6474
         },
         {
-            "page": "Luca Minisini",
-            "pageView": 6110
+            "page": "Massimo Alessandri",
+            "pageView": 4,
+            "total": 6498
+        },
+        {
+            "page": "Dario Colagè",
+            "pageView": 4,
+            "total": 8134
+        },
+        {
+            "page": "Indro Cenci",
+            "pageView": 4,
+            "total": 6820
         },
         {
             "page": "Giovanni Ferradini",
-            "pageView": 6071
+            "pageView": 4,
+            "total": 6075
         },
         {
-            "page": "Gianluca Fais",
-            "pageView": 5975
-        },
-        {
-            "page": "Ancillotto Ancillotti",
-            "pageView": 5926
-        },
-        {
-            "page": "Guido Tomassucci",
-            "pageView": 5381
-        },
-        {
-            "page": "Renzo Melani",
-            "pageView": 5252
-        },
-        {
-            "page": "Claudio Bandini",
-            "pageView": 5188
-        },
-        {
-            "page": "Simone Mereu",
-            "pageView": 5157
-        },
-        {
-            "page": "Riccardo Cenci",
-            "pageView": 5135
+            "page": "Virginio Zedde",
+            "pageView": 3,
+            "total": 7476
         },
         {
             "page": "Fosco Risorti",
-            "pageView": 4551
+            "pageView": 3,
+            "total": 4554
         },
         {
-            "page": "Mario Canu",
-            "pageView": 4364
+            "page": "Luca Minisini",
+            "pageView": 3,
+            "total": 6114
+        },
+        {
+            "page": "Simone Mereu",
+            "pageView": 3,
+            "total": 5160
+        },
+        {
+            "page": "Riccardo Cenci",
+            "pageView": 3,
+            "total": 5142
         },
         {
             "page": "Arturo Checchi",
-            "pageView": 4237
+            "pageView": 3,
+            "total": 4238
+        },
+        {
+            "page": "Guido Tomassucci",
+            "pageView": 3,
+            "total": 5383
+        },
+        {
+            "page": "Claudio Bandini",
+            "pageView": 3,
+            "total": 5193
+        },
+        {
+            "page": "Alessandro Chiti",
+            "pageView": 3,
+            "total": 8789
+        },
+        {
+            "page": "Renzo Melani",
+            "pageView": 3,
+            "total": 5255
+        },
+        {
+            "page": "Mario Canu",
+            "pageView": 3,
+            "total": 4368
+        },
+        {
+            "page": "Gianluca Fais",
+            "pageView": 3,
+            "total": 5985
         },
         {
             "page": "Tonino Cossu",
-            "pageView": 3737
-        },
-        {
-            "page": "Roberto Falchi",
-            "pageView": 3511
+            "pageView": 2,
+            "total": 3739
         },
         {
             "page": "Teofilo da Corte",
-            "pageView": 3158
+            "pageView": 2,
+            "total": 3159
+        },
+        {
+            "page": "Ancillotto Ancillotti",
+            "pageView": 2,
+            "total": 5930
         },
         {
             "page": "Jaurès Pacifico Cecconi",
-            "pageView": 2495
-        },
-        {
-            "page": "Gustavo Matteoni",
-            "pageView": 2366
-        },
-        {
-            "page": "Alfredo Robert",
-            "pageView": 2215
-        },
-        {
-            "page": "Adamo Puccini",
-            "pageView": 2128
-        },
-        {
-            "page": "Vittorio Magni",
-            "pageView": 2108
-        },
-        {
-            "page": "Spartaco Donati",
-            "pageView": 2085
-        },
-        {
-            "page": "Adriano Guerrieri",
-            "pageView": 1954
+            "pageView": 2,
+            "total": 2498
         },
         {
             "page": "Secondo Magni",
-            "pageView": 1841
+            "pageView": 2,
+            "total": 1841
+        },
+        {
+            "page": "Vittorio Magni",
+            "pageView": 2,
+            "total": 2110
+        },
+        {
+            "page": "Gustavo Matteoni",
+            "pageView": 2,
+            "total": 2370
+        },
+        {
+            "page": "Spartaco Donati",
+            "pageView": 2,
+            "total": 2087
+        },
+        {
+            "page": "Roberto Falchi",
+            "pageView": 2,
+            "total": 3512
+        },
+        {
+            "page": "Adamo Puccini",
+            "pageView": 2,
+            "total": 2128
+        },
+        {
+            "page": "Adriano Guerrieri",
+            "pageView": 2,
+            "total": 1955
+        },
+        {
+            "page": "Alfredo Robert",
+            "pageView": 2,
+            "total": 2216
         },
         {
             "page": "Manrico Guerrieri",
-            "pageView": 1561
+            "pageView": 1,
+            "total": 1565
         },
         {
             "page": "Antonio Guaschi",
-            "pageView": 1336
+            "pageView": 1,
+            "total": 1336
         }
     ]
 }

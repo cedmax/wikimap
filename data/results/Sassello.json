@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Chiara Badano",
-            "pageView": 149340
+            "pageView": 81,
+            "total": 149394
         },
         {
             "page": "Silvio Tanzi",
-            "pageView": 7761
+            "pageView": 5,
+            "total": 7762
         },
         {
             "page": "Giacomo Micaglia",
-            "pageView": 2792
+            "pageView": 2,
+            "total": 2792
         },
         {
             "page": "Clemente Manzini",
-            "pageView": 1746
-        },
-        {
-            "page": "Pasquale Lissoni",
-            "pageView": 1701
+            "pageView": 2,
+            "total": 1748
         },
         {
             "page": "Ferdinando Ramognini",
-            "pageView": 1648
+            "pageView": 2,
+            "total": 1648
+        },
+        {
+            "page": "Pasquale Lissoni",
+            "pageView": 1,
+            "total": 1702
         }
     ]
 }

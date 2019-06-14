@@ -1,0 +1,27 @@
+{
+    "id": "place.15028979439710780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calvi Risorta",
+    "place_name": "Calvi Risorta, Caserta, Italy",
+    "bbox": [
+        14.089095,
+        41.146033,
+        14.161194,
+        41.233406
+    ],
+    "center": [
+        14.12917,
+        41.21889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.12917,
+            41.21889
+        ]
+    }
+}

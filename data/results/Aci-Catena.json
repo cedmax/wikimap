@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Francesco Finocchiaro",
-            "pageView": 17392
+            "pageView": 10,
+            "total": 17402
         },
         {
             "page": "Salvatore Maugeri",
-            "pageView": 6494
-        },
-        {
-            "page": "Valeria Palmieri",
-            "pageView": 4399
-        },
-        {
-            "page": "Cristoforo Filetti",
-            "pageView": 3774
-        },
-        {
-            "page": "Francesco Guglielmino",
-            "pageView": 2585
-        },
-        {
-            "page": "Emanuele Rossi (filosofo)",
-            "pageView": 1791
-        },
-        {
-            "page": "Arcangelo Tropea",
-            "pageView": 1072
+            "pageView": 8,
+            "total": 6499
         },
         {
             "page": "Salvatore Bella",
-            "pageView": 856
+            "pageView": 2,
+            "total": 856
         },
         {
-            "page": "Giovanni Grasso (1792-1863)",
-            "pageView": 674
+            "page": "Cristoforo Filetti",
+            "pageView": 2,
+            "total": 3776
+        },
+        {
+            "page": "Francesco Guglielmino",
+            "pageView": 2,
+            "total": 2586
+        },
+        {
+            "page": "Valeria Palmieri",
+            "pageView": 2,
+            "total": 4400
+        },
+        {
+            "page": "Emanuele Rossi (filosofo)",
+            "pageView": 1.5,
+            "total": 1792
+        },
+        {
+            "page": "Arcangelo Tropea",
+            "pageView": 1,
+            "total": 1072
         },
         {
             "page": "Lucio Paternò",
-            "pageView": 212
+            "pageView": 0,
+            "total": 215
+        },
+        {
+            "page": "Giovanni Grasso (1792-1863)",
+            "pageView": 0,
+            "total": 675
         }
     ]
 }

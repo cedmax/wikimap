@@ -1,0 +1,27 @@
+{
+    "id": "place.14472659434289110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiorano Modenese",
+    "place_name": "Fiorano Modenese, Modena, Italy",
+    "bbox": [
+        10.78902,
+        44.490935,
+        10.865823,
+        44.568499
+    ],
+    "center": [
+        10.81173,
+        44.53919
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81173,
+            44.53919
+        ]
+    }
+}

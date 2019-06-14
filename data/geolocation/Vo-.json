@@ -1,0 +1,27 @@
+{
+    "id": "place.11064156139952690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vo'",
+    "place_name": "Vo', Padova, Italy",
+    "bbox": [
+        11.611817,
+        45.300362,
+        11.698824,
+        45.355778
+    ],
+    "center": [
+        11.63333,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63333,
+            45.33333
+        ]
+    }
+}

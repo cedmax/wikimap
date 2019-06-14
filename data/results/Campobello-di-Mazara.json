@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Aldo Stellita",
-            "pageView": 140946
+            "pageView": 60,
+            "total": 141119
         },
         {
             "page": "Natale Ciravolo",
-            "pageView": 37054
+            "pageView": 24,
+            "total": 37077
         },
         {
             "page": "Rosario Spatola (1949)",
-            "pageView": 7987
+            "pageView": 5,
+            "total": 7994
         },
         {
             "page": "Salvatore Bono",
-            "pageView": 3664
+            "pageView": 2,
+            "total": 3664
         },
         {
             "page": "Giovanni Commare",
-            "pageView": 1602
+            "pageView": 1,
+            "total": 1606
         },
         {
             "page": "Ulpio Minucci",
-            "pageView": 553
+            "pageView": 0,
+            "total": 553
         }
     ]
 }

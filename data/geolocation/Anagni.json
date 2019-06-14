@@ -1,0 +1,27 @@
+{
+    "id": "place.11002150414605250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anagni",
+    "place_name": "Anagni, Frosinone, Italy",
+    "bbox": [
+        13.064406,
+        41.671166,
+        13.245614,
+        41.79248
+    ],
+    "center": [
+        13.15,
+        41.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.15,
+            41.75
+        ]
+    }
+}

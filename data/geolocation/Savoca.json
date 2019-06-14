@@ -1,0 +1,21 @@
+{
+    "id": "poi.1932735300505",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Savoca",
+    "place_name": "Savoca, Savoca, Messina 98038, Italy",
+    "center": [
+        15.3399,
+        37.954487
+    ],
+    "geometry": {
+        "coordinates": [
+            15.3399,
+            37.954487
+        ],
+        "type": "Point"
+    }
+}

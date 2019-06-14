@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Alberto Manzi",
-            "pageView": 188138
+            "pageView": 94,
+            "total": 188245
         },
         {
             "page": "Guglielmo Borghetti",
-            "pageView": 18404
+            "pageView": 10,
+            "total": 18410
         },
         {
             "page": "Salvatore Mannuzzu",
-            "pageView": 14329
+            "pageView": 8,
+            "total": 14340
         },
         {
             "page": "Niccolò Orsini",
-            "pageView": 11075
+            "pageView": 7,
+            "total": 11080
         },
         {
             "page": "Francesco Zuccarelli",
-            "pageView": 10746
-        },
-        {
-            "page": "Mario Meini",
-            "pageView": 10327
+            "pageView": 7,
+            "total": 10748
         },
         {
             "page": "Dante Lattes",
-            "pageView": 8738
+            "pageView": 6,
+            "total": 8749
         },
         {
-            "page": "Giacomo Babini",
-            "pageView": 8222
+            "page": "Mario Meini",
+            "pageView": 6,
+            "total": 10329
         },
         {
             "page": "Pier Luigi Celata",
-            "pageView": 7195
+            "pageView": 5,
+            "total": 7199
         },
         {
-            "page": "Umberto Baldini",
-            "pageView": 6727
-        },
-        {
-            "page": "Giuseppe Bennati",
-            "pageView": 5787
+            "page": "Giacomo Babini",
+            "pageView": 5,
+            "total": 8228
         },
         {
             "page": "Giovanni Roncari",
-            "pageView": 4615
+            "pageView": 5,
+            "total": 4617
         },
         {
-            "page": "Giovanni D'Ascenzi",
-            "pageView": 3438
+            "page": "Giuseppe Bennati",
+            "pageView": 4,
+            "total": 5792
         },
         {
-            "page": "Enrico Lattes",
-            "pageView": 2841
+            "page": "Umberto Baldini",
+            "pageView": 4,
+            "total": 6731
         },
         {
             "page": "Eugenio Binini",
-            "pageView": 2760
+            "pageView": 3,
+            "total": 2761
         },
         {
-            "page": "Gustavo Matteoni",
-            "pageView": 2366
-        },
-        {
-            "page": "Enrico Pieruccini",
-            "pageView": 2313
-        },
-        {
-            "page": "Michele Parigi",
-            "pageView": 2207
+            "page": "Giovanni D'Ascenzi",
+            "pageView": 2,
+            "total": 3441
         },
         {
             "page": "Stefano Gentili",
-            "pageView": 2143
+            "pageView": 2,
+            "total": 2146
         },
         {
-            "page": "Giulio Matteoli",
-            "pageView": 1324
+            "page": "Gustavo Matteoni",
+            "pageView": 2,
+            "total": 2370
         },
         {
-            "page": "Gaspero Ciacci",
-            "pageView": 844
+            "page": "Enrico Lattes",
+            "pageView": 2,
+            "total": 2841
+        },
+        {
+            "page": "Enrico Pieruccini",
+            "pageView": 2,
+            "total": 2314
+        },
+        {
+            "page": "Michele Parigi",
+            "pageView": 2,
+            "total": 2208
         },
         {
             "page": "Ugo Sorani",
-            "pageView": 791
+            "pageView": 1,
+            "total": 791
+        },
+        {
+            "page": "Gaspero Ciacci",
+            "pageView": 1,
+            "total": 844
+        },
+        {
+            "page": "Giulio Matteoli",
+            "pageView": 1,
+            "total": 1325
         },
         {
             "page": "Elena Orsini",
-            "pageView": 603
+            "pageView": 0,
+            "total": 603
         }
     ]
 }

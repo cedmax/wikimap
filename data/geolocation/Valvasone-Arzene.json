@@ -1,0 +1,27 @@
+{
+    "id": "place.2084390002935080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valvasone Arzene",
+    "place_name": "Valvasone Arzene, Pordenone, Italy",
+    "bbox": [
+        12.807964,
+        45.959679,
+        12.912879,
+        46.030324
+    ],
+    "center": [
+        12.8477,
+        46.0022
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8477,
+            46.0022
+        ]
+    }
+}

@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Marco Ballotta",
-            "pageView": 200221
+            "pageView": 115.5,
+            "total": 200323
         },
         {
             "page": "Laura Betti",
-            "pageView": 141111
+            "pageView": 76,
+            "total": 141167
         },
         {
             "page": "Lara Saint Paul",
-            "pageView": 106930
+            "pageView": 28,
+            "total": 106946
         },
         {
             "page": "Carmine Esposito",
-            "pageView": 33759
+            "pageView": 19,
+            "total": 33778
         },
         {
             "page": "Jonatan Binotto",
-            "pageView": 30367
+            "pageView": 17,
+            "total": 30380
         },
         {
             "page": "Carlo Pedretti",
-            "pageView": 24912
+            "pageView": 12,
+            "total": 24931
         },
         {
             "page": "Sergio Telmon",
-            "pageView": 10219
-        },
-        {
-            "page": "Egano Righi-Lambertini",
-            "pageView": 4882
-        },
-        {
-            "page": "Riccardo Stracciari",
-            "pageView": 4767
+            "pageView": 6,
+            "total": 10221
         },
         {
             "page": "Giorgio Walter Chili",
-            "pageView": 4341
+            "pageView": 3,
+            "total": 4342
         },
         {
-            "page": "Giuseppe Barbanti Brodano",
-            "pageView": 3802
+            "page": "Riccardo Stracciari",
+            "pageView": 3,
+            "total": 4768
         },
         {
-            "page": "Dino Dondi",
-            "pageView": 3598
+            "page": "Egano Righi-Lambertini",
+            "pageView": 3,
+            "total": 4886
         },
         {
             "page": "Giuseppe Gambarini",
-            "pageView": 3230
-        },
-        {
-            "page": "Andrea Parenti",
-            "pageView": 2681
-        },
-        {
-            "page": "Adriano Vignoli",
-            "pageView": 2660
+            "pageView": 2,
+            "total": 3231
         },
         {
             "page": "Giuseppe Nadi",
-            "pageView": 1868
+            "pageView": 2,
+            "total": 1869
+        },
+        {
+            "page": "Andrea Parenti",
+            "pageView": 2,
+            "total": 2682
+        },
+        {
+            "page": "Adriano Vignoli",
+            "pageView": 2,
+            "total": 2660
+        },
+        {
+            "page": "Giuseppe Barbanti Brodano",
+            "pageView": 2,
+            "total": 3807
+        },
+        {
+            "page": "Dino Dondi",
+            "pageView": 2,
+            "total": 3601
         },
         {
             "page": "Romildo Mercatelli",
-            "pageView": 1255
-        },
-        {
-            "page": "Franco Petrini",
-            "pageView": 762
+            "pageView": 1,
+            "total": 1257
         },
         {
             "page": "Carlos Luis Collado Martínez",
-            "pageView": 573
+            "pageView": 0,
+            "total": 573
+        },
+        {
+            "page": "Franco Petrini",
+            "pageView": 0,
+            "total": 764
         }
     ]
 }

@@ -2,40 +2,49 @@
     "name": "Nove",
     "people": [
         {
-            "page": "Alessio Tasca",
-            "pageView": 7255
-        },
-        {
             "page": "Giuseppe De Fabris",
-            "pageView": 6329
+            "pageView": 4,
+            "total": 6333
         },
         {
-            "page": "Severino Morlin",
-            "pageView": 3636
-        },
-        {
-            "page": "Luciano Zanardello",
-            "pageView": 2698
-        },
-        {
-            "page": "Gioacchino Stevan",
-            "pageView": 1971
+            "page": "Alessio Tasca",
+            "pageView": 4,
+            "total": 7263
         },
         {
             "page": "Giovanni Petucco",
-            "pageView": 1966
+            "pageView": 2,
+            "total": 1966
+        },
+        {
+            "page": "Severino Morlin",
+            "pageView": 2,
+            "total": 3639
+        },
+        {
+            "page": "Gioacchino Stevan",
+            "pageView": 2,
+            "total": 1972
+        },
+        {
+            "page": "Luciano Zanardello",
+            "pageView": 2,
+            "total": 2699
         },
         {
             "page": "Francesco Zanin",
-            "pageView": 1535
+            "pageView": 2,
+            "total": 1536
         },
         {
             "page": "Arnaldo Armani",
-            "pageView": 1490
+            "pageView": 1,
+            "total": 1492
         },
         {
             "page": "Pietro Negrisolo",
-            "pageView": 1125
+            "pageView": 1,
+            "total": 1127
         }
     ]
 }

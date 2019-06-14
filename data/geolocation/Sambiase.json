@@ -1,0 +1,21 @@
+{
+    "id": "address.486729344",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Sambiase",
+    "place_name": "via Sambiase, 00118 Roma Roma, Italy",
+    "center": [
+        12.604833,
+        41.814356
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.604833,
+            41.814356
+        ]
+    }
+}

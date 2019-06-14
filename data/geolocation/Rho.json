@@ -1,0 +1,27 @@
+{
+    "id": "place.10269762079927880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rho",
+    "place_name": "Rho, Milano, Italy",
+    "bbox": [
+        9.006395,
+        45.502312,
+        9.096302,
+        45.559767
+    ],
+    "center": [
+        9.03333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.53333
+        ]
+    }
+}

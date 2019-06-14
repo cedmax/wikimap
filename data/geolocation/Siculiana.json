@@ -1,0 +1,27 @@
+{
+    "id": "place.5272196981374410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siculiana",
+    "place_name": "Siculiana, Agrigento, Italy",
+    "bbox": [
+        13.308986,
+        37.323065,
+        13.443735,
+        37.3917
+    ],
+    "center": [
+        13.4225,
+        37.33556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4225,
+            37.33556
+        ]
+    }
+}

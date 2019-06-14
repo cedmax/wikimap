@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Edgar Bertoni",
-            "pageView": 18039
-        },
-        {
-            "page": "Julio César Simonato Cordeiro",
-            "pageView": 7446
-        },
-        {
-            "page": "Gabriel Miraglia",
-            "pageView": 4459
-        },
-        {
-            "page": "Antonio Beni",
-            "pageView": 3678
-        },
-        {
-            "page": "Arlan Pablo Vieira",
-            "pageView": 3627
-        },
-        {
-            "page": "Pablo Esteban Belsito",
-            "pageView": 3368
-        },
-        {
-            "page": "Erick Bellomo",
-            "pageView": 3356
-        },
-        {
-            "page": "Marco Boaventura",
-            "pageView": 2967
-        },
-        {
-            "page": "Luca Morassi",
-            "pageView": 2858
-        },
-        {
-            "page": "Augusto Vanzo",
-            "pageView": 2479
-        },
-        {
-            "page": "Gregorio Gregorj",
-            "pageView": 2378
+            "pageView": 8,
+            "total": 18053
         },
         {
             "page": "Cristiano Fusari",
-            "pageView": 2274
+            "pageView": 3,
+            "total": 2275
+        },
+        {
+            "page": "Gabriel Miraglia",
+            "pageView": 3,
+            "total": 4461
+        },
+        {
+            "page": "Julio César Simonato Cordeiro",
+            "pageView": 3,
+            "total": 7449
         },
         {
             "page": "Sylvio Rocha",
-            "pageView": 1468
+            "pageView": 2,
+            "total": 1469
+        },
+        {
+            "page": "Gregorio Gregorj",
+            "pageView": 2,
+            "total": 2380
+        },
+        {
+            "page": "Pablo Esteban Belsito",
+            "pageView": 2,
+            "total": 3369
         },
         {
             "page": "Thiago Grippi",
-            "pageView": 1306
+            "pageView": 2,
+            "total": 1309
         },
         {
-            "page": "Marcos Rogério Pagnan",
-            "pageView": 1083
+            "page": "Augusto Vanzo",
+            "pageView": 2,
+            "total": 2480
+        },
+        {
+            "page": "Erick Bellomo",
+            "pageView": 2,
+            "total": 3373
+        },
+        {
+            "page": "Antonio Beni",
+            "pageView": 2,
+            "total": 3680
+        },
+        {
+            "page": "Arlan Pablo Vieira",
+            "pageView": 2,
+            "total": 3629
+        },
+        {
+            "page": "Marco Boaventura",
+            "pageView": 2,
+            "total": 2971
+        },
+        {
+            "page": "Luca Morassi",
+            "pageView": 2,
+            "total": 2864
         },
         {
             "page": "Marco Vascello",
-            "pageView": 981
+            "pageView": 1,
+            "total": 981
         },
         {
-            "page": "Cainan De Matos",
-            "pageView": 473
+            "page": "Marcos Rogério Pagnan",
+            "pageView": 1,
+            "total": 1083
         },
         {
             "page": "Murilo Schiochet",
-            "pageView": 51
+            "pageView": 0,
+            "total": 51
+        },
+        {
+            "page": "Cainan De Matos",
+            "pageView": 0,
+            "total": 483
         }
     ]
 }

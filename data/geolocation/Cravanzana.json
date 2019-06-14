@@ -1,0 +1,27 @@
+{
+    "id": "place.13856043252198780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cravanzana",
+    "place_name": "Cravanzana, Cuneo, Italy",
+    "bbox": [
+        8.095659,
+        44.552648,
+        8.142907,
+        44.590604
+    ],
+    "center": [
+        8.13333,
+        44.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.13333,
+            44.58333
+        ]
+    }
+}

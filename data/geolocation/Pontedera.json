@@ -1,0 +1,27 @@
+{
+    "id": "place.7730678544083010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontedera",
+    "place_name": "Pontedera, Pisa, Italy",
+    "bbox": [
+        10.570618,
+        43.610488,
+        10.706688,
+        43.68059
+    ],
+    "center": [
+        10.63278,
+        43.6625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63278,
+            43.6625
+        ]
+    }
+}

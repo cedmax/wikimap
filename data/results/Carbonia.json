@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Sandro Ghiani",
-            "pageView": 175018
-        },
-        {
-            "page": "Mauro Pili",
-            "pageView": 50495
+            "pageView": 84.5,
+            "total": 175099
         },
         {
             "page": "Simone Aresti",
-            "pageView": 40999
+            "pageView": 32,
+            "total": 41033
+        },
+        {
+            "page": "Mauro Pili",
+            "pageView": 24,
+            "total": 50516
         },
         {
             "page": "Rosario Rampanti",
-            "pageView": 18500
+            "pageView": 12,
+            "total": 18506
         },
         {
             "page": "Claudia Lombardo",
-            "pageView": 18231
+            "pageView": 7,
+            "total": 18517
         },
         {
             "page": "Giorgio Melis",
-            "pageView": 10676
+            "pageView": 7,
+            "total": 10681
         },
         {
             "page": "Salvatore Cherchi",
-            "pageView": 7845
-        },
-        {
-            "page": "Carla Cocco",
-            "pageView": 5324
-        },
-        {
-            "page": "Simone Mereu",
-            "pageView": 5157
+            "pageView": 5,
+            "total": 7848
         },
         {
             "page": "Roberto Dal Cortivo",
-            "pageView": 4950
-        },
-        {
-            "page": "Emanuele Cani",
-            "pageView": 4671
-        },
-        {
-            "page": "Ida Collu",
-            "pageView": 3713
-        },
-        {
-            "page": "Ennio Meloni",
-            "pageView": 3486
-        },
-        {
-            "page": "Anna Loddo",
-            "pageView": 3385
-        },
-        {
-            "page": "Maria Gabriella Pinto",
-            "pageView": 3158
-        },
-        {
-            "page": "Antonangelo Casula",
-            "pageView": 3099
+            "pageView": 3,
+            "total": 4952
         },
         {
             "page": "Alessandro De Roma",
-            "pageView": 2415
+            "pageView": 3,
+            "total": 2419
+        },
+        {
+            "page": "Carla Cocco",
+            "pageView": 3,
+            "total": 5324
+        },
+        {
+            "page": "Emanuele Cani",
+            "pageView": 3,
+            "total": 4680
+        },
+        {
+            "page": "Simone Mereu",
+            "pageView": 3,
+            "total": 5160
         },
         {
             "page": "Pierfranco Gaviano",
-            "pageView": 2284
+            "pageView": 2,
+            "total": 2287
+        },
+        {
+            "page": "Ida Collu",
+            "pageView": 2,
+            "total": 3714
+        },
+        {
+            "page": "Ennio Meloni",
+            "pageView": 2,
+            "total": 3486
+        },
+        {
+            "page": "Antonangelo Casula",
+            "pageView": 2,
+            "total": 3099
         },
         {
             "page": "Raimondo Piredda",
-            "pageView": 1936
+            "pageView": 2,
+            "total": 1936
+        },
+        {
+            "page": "Maria Gabriella Pinto",
+            "pageView": 2,
+            "total": 3160
+        },
+        {
+            "page": "Anna Loddo",
+            "pageView": 2,
+            "total": 3385
         },
         {
             "page": "Paola Massidda",
-            "pageView": 700
+            "pageView": 0,
+            "total": 708
         }
     ]
 }

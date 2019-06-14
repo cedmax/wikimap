@@ -1,0 +1,27 @@
+{
+    "id": "place.11702505623053740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carbonera",
+    "place_name": "Carbonera, Treviso, Italy",
+    "bbox": [
+        12.273271,
+        45.6668,
+        12.343753,
+        45.748955
+    ],
+    "center": [
+        12.28333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.28333,
+            45.68333
+        ]
+    }
+}

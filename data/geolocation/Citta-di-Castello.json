@@ -1,0 +1,27 @@
+{
+    "id": "place.10774498685517080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Città di Castello",
+    "place_name": "Città di Castello, Perugia, Italy",
+    "bbox": [
+        12.072759,
+        43.281347,
+        12.434985,
+        43.617339
+    ],
+    "center": [
+        12.23139,
+        43.47
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23139,
+            43.47
+        ]
+    }
+}

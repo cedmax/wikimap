@@ -3,159 +3,198 @@
     "people": [
         {
             "page": "George McAnthony",
-            "pageView": 9804
+            "pageView": 6,
+            "total": 9806
         },
         {
             "page": "Marco Insam",
-            "pageView": 6218
-        },
-        {
-            "page": "Vittorio Mayer Pasquale",
-            "pageView": 5667
+            "pageView": 4,
+            "total": 6218
         },
         {
             "page": "Patrice Lefebvre",
-            "pageView": 5419
+            "pageView": 3,
+            "total": 5421
         },
         {
-            "page": "Stefan Mair",
-            "pageView": 5141
+            "page": "Vittorio Mayer Pasquale",
+            "pageView": 3,
+            "total": 5667
         },
         {
             "page": "Anton Bernard",
-            "pageView": 5071
+            "pageView": 3,
+            "total": 5072
         },
         {
-            "page": "Paolo Bustreo",
-            "pageView": 3947
-        },
-        {
-            "page": "Adolf Insam",
-            "pageView": 3800
-        },
-        {
-            "page": "Daniele Veggiato",
-            "pageView": 3133
-        },
-        {
-            "page": "Günther Hell",
-            "pageView": 2842
-        },
-        {
-            "page": "Thomas Tragust",
-            "pageView": 2414
+            "page": "Stefan Mair",
+            "pageView": 3,
+            "total": 5141
         },
         {
             "page": "Friedrich Tessmann",
-            "pageView": 2369
+            "pageView": 2,
+            "total": 2371
         },
         {
-            "page": "Jari Helle",
-            "pageView": 2184
+            "page": "Günther Hell",
+            "pageView": 2,
+            "total": 2843
         },
         {
-            "page": "Massimo Ansoldi",
-            "pageView": 1923
-        },
-        {
-            "page": "Giovanni Marchetti (hockeista su ghiaccio)",
-            "pageView": 1904
-        },
-        {
-            "page": "Anthony Tuzzolino",
-            "pageView": 1684
-        },
-        {
-            "page": "Marco Tremolaterra",
-            "pageView": 1638
-        },
-        {
-            "page": "David Ceresa",
-            "pageView": 1494
-        },
-        {
-            "page": "George Halkidis",
-            "pageView": 1437
-        },
-        {
-            "page": "Daniel Peruzzo",
-            "pageView": 1312
-        },
-        {
-            "page": "Jonathan Coleman",
-            "pageView": 1294
-        },
-        {
-            "page": "Stefan Unterkofler",
-            "pageView": 1290
-        },
-        {
-            "page": "Daniel Fabris",
-            "pageView": 1210
-        },
-        {
-            "page": "Tuomo Harjula",
-            "pageView": 1179
-        },
-        {
-            "page": "David Hale",
-            "pageView": 1134
-        },
-        {
-            "page": "Michael Messner (hockeista su ghiaccio)",
-            "pageView": 1102
-        },
-        {
-            "page": "Fabian Ebner",
-            "pageView": 1091
-        },
-        {
-            "page": "Mirko Quinz",
-            "pageView": 1070
-        },
-        {
-            "page": "Heinrich von Siebold",
-            "pageView": 1069
-        },
-        {
-            "page": "Pippo Limnell Finocchiaro",
-            "pageView": 958
-        },
-        {
-            "page": "Federico Demetz",
-            "pageView": 940
+            "page": "Paolo Bustreo",
+            "pageView": 2,
+            "total": 3949
         },
         {
             "page": "Egnone di Appiano",
-            "pageView": 906
+            "pageView": 2,
+            "total": 907
         },
         {
-            "page": "Peter Campbell (hockeista su ghiaccio)",
-            "pageView": 811
+            "page": "Daniele Veggiato",
+            "pageView": 2,
+            "total": 3136
         },
         {
-            "page": "Daniel Maffia",
-            "pageView": 786
+            "page": "Daniel Peruzzo",
+            "pageView": 2,
+            "total": 1313
         },
         {
-            "page": "Gianluca Vallini",
-            "pageView": 724
+            "page": "Thomas Tragust",
+            "pageView": 2,
+            "total": 2414
+        },
+        {
+            "page": "Giovanni Marchetti (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 1904
+        },
+        {
+            "page": "Adolf Insam",
+            "pageView": 2,
+            "total": 3801
+        },
+        {
+            "page": "Daniel Fabris",
+            "pageView": 1,
+            "total": 1210
+        },
+        {
+            "page": "Jari Helle",
+            "pageView": 1,
+            "total": 2185
+        },
+        {
+            "page": "George Halkidis",
+            "pageView": 1,
+            "total": 1438
+        },
+        {
+            "page": "Tuomo Harjula",
+            "pageView": 1,
+            "total": 1179
         },
         {
             "page": "Tobias Ebner",
-            "pageView": 719
+            "pageView": 1,
+            "total": 721
         },
         {
-            "page": "Jan Waldner",
-            "pageView": 704
+            "page": "Fabian Ebner",
+            "pageView": 1,
+            "total": 1091
+        },
+        {
+            "page": "Pippo Limnell Finocchiaro",
+            "pageView": 1,
+            "total": 958
+        },
+        {
+            "page": "Daniel Maffia",
+            "pageView": 1,
+            "total": 786
+        },
+        {
+            "page": "Federico Demetz",
+            "pageView": 1,
+            "total": 942
+        },
+        {
+            "page": "Michael Messner (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1103
+        },
+        {
+            "page": "Jonathan Coleman",
+            "pageView": 1,
+            "total": 1294
+        },
+        {
+            "page": "Mirko Quinz",
+            "pageView": 1,
+            "total": 1070
+        },
+        {
+            "page": "David Hale",
+            "pageView": 1,
+            "total": 1135
+        },
+        {
+            "page": "Anthony Tuzzolino",
+            "pageView": 1,
+            "total": 1684
+        },
+        {
+            "page": "Stefan Unterkofler",
+            "pageView": 1,
+            "total": 1291
         },
         {
             "page": "Murajica Pajič",
-            "pageView": 695
+            "pageView": 1,
+            "total": 697
+        },
+        {
+            "page": "David Ceresa",
+            "pageView": 1,
+            "total": 1494
+        },
+        {
+            "page": "Jan Waldner",
+            "pageView": 1,
+            "total": 704
+        },
+        {
+            "page": "Massimo Ansoldi",
+            "pageView": 1,
+            "total": 1924
+        },
+        {
+            "page": "Heinrich von Siebold",
+            "pageView": 1,
+            "total": 1070
+        },
+        {
+            "page": "Peter Campbell (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 812
+        },
+        {
+            "page": "Marco Tremolaterra",
+            "pageView": 1,
+            "total": 1639
         },
         {
             "page": "Reinhard Wieser",
-            "pageView": 350
+            "pageView": 0,
+            "total": 351
+        },
+        {
+            "page": "Gianluca Vallini",
+            "pageView": 0,
+            "total": 724
         }
     ]
 }

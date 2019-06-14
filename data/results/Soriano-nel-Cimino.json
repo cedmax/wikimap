@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Papa Niccolò III",
-            "pageView": 52161
+            "pageView": 35,
+            "total": 52193
         },
         {
             "page": "Ernesto Monaci",
-            "pageView": 7648
+            "pageView": 5,
+            "total": 7651
         },
         {
             "page": "Pietro Sgarlata",
-            "pageView": 7121
-        },
-        {
-            "page": "Francesco Soriano",
-            "pageView": 4714
+            "pageView": 4,
+            "total": 7129
         },
         {
             "page": "Vittorio Emanuele Giuntella",
-            "pageView": 4587
+            "pageView": 3,
+            "total": 4588
+        },
+        {
+            "page": "Francesco Soriano",
+            "pageView": 3,
+            "total": 4715
         },
         {
             "page": "Roberto Loyola",
-            "pageView": 3776
+            "pageView": 2,
+            "total": 3776
         },
         {
             "page": "Corrado III Trinci",
-            "pageView": 3634
+            "pageView": 2,
+            "total": 3637
         },
         {
             "page": "Serafino Cretoni",
-            "pageView": 1995
+            "pageView": 2,
+            "total": 1995
         },
         {
             "page": "Giuseppe Maria d'Altemps, IV duca di Gallese",
-            "pageView": 287
+            "pageView": 0,
+            "total": 287
         }
     ]
 }

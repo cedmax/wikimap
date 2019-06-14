@@ -1,0 +1,27 @@
+{
+    "id": "place.7028102317759600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pocenia",
+    "place_name": "Pocenia, Udine, Italy",
+    "bbox": [
+        13.08097,
+        45.812669,
+        13.162183,
+        45.889648
+    ],
+    "center": [
+        13.10167,
+        45.83639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.10167,
+            45.83639
+        ]
+    }
+}

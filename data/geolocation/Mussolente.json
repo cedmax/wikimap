@@ -1,0 +1,27 @@
+{
+    "id": "place.11545241614842250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mussolente",
+    "place_name": "Mussolente, Vicenza, Italy",
+    "bbox": [
+        11.779321,
+        45.740431,
+        11.836131,
+        45.801183
+    ],
+    "center": [
+        11.81667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81667,
+            45.78333
+        ]
+    }
+}

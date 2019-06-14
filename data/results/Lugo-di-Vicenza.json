@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Massimo Briaschi",
-            "pageView": 48997
+            "pageView": 30,
+            "total": 49015
         },
         {
             "page": "Gino Pellegrini",
-            "pageView": 6065
-        },
-        {
-            "page": "Giovanni Simonato",
-            "pageView": 2565
+            "pageView": 4,
+            "total": 6067
         },
         {
             "page": "Franco Borgo",
-            "pageView": 2522
+            "pageView": 2,
+            "total": 2522
+        },
+        {
+            "page": "Giovanni Simonato",
+            "pageView": 2,
+            "total": 2567
         },
         {
             "page": "Andrea De Giovanni",
-            "pageView": 413
+            "pageView": 0,
+            "total": 413
         }
     ]
 }

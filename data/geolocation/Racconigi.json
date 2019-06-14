@@ -1,0 +1,27 @@
+{
+    "id": "place.4558956186678720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Racconigi",
+    "place_name": "Racconigi, Cuneo, Italy",
+    "bbox": [
+        7.619331,
+        44.734857,
+        7.726258,
+        44.821329
+    ],
+    "center": [
+        7.68333,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.68333,
+            44.76667
+        ]
+    }
+}

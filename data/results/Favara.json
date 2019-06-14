@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Salvatore Vullo",
-            "pageView": 29483
-        },
-        {
-            "page": "Paolo Ferraro",
-            "pageView": 15828
+            "pageView": 18,
+            "total": 29500
         },
         {
             "page": "Gaspare Ambrosini",
-            "pageView": 14361
+            "pageView": 9,
+            "total": 14361
+        },
+        {
+            "page": "Paolo Ferraro",
+            "pageView": 9,
+            "total": 15837
         },
         {
             "page": "Calogero Marrone",
-            "pageView": 12878
-        },
-        {
-            "page": "Stefano Pompeo",
-            "pageView": 8395
+            "pageView": 5,
+            "total": 12880
         },
         {
             "page": "Vittorio Ambrosini",
-            "pageView": 7847
-        },
-        {
-            "page": "Salvatore Iacolino",
-            "pageView": 7574
-        },
-        {
-            "page": "Antonio Russello",
-            "pageView": 6488
+            "pageView": 5,
+            "total": 7851
         },
         {
             "page": "Gaetano Guarino",
-            "pageView": 6476
+            "pageView": 4,
+            "total": 6479
+        },
+        {
+            "page": "Antonio Russello",
+            "pageView": 4,
+            "total": 6492
+        },
+        {
+            "page": "Stefano Pompeo",
+            "pageView": 4,
+            "total": 8418
+        },
+        {
+            "page": "Salvatore Iacolino",
+            "pageView": 4,
+            "total": 7582
         },
         {
             "page": "Gabriele Dulcetta",
-            "pageView": 5953
-        },
-        {
-            "page": "Antonio Mendola",
-            "pageView": 5309
-        },
-        {
-            "page": "Biagio Licata di Baucina",
-            "pageView": 4377
+            "pageView": 4,
+            "total": 5955
         },
         {
             "page": "Calogero Cicero",
-            "pageView": 4362
+            "pageView": 3,
+            "total": 4363
         },
         {
             "page": "Francesco Scaduto",
-            "pageView": 4233
+            "pageView": 3,
+            "total": 4234
+        },
+        {
+            "page": "Antonio Mendola",
+            "pageView": 3,
+            "total": 5311
         },
         {
             "page": "Alessandro Ambrosini",
-            "pageView": 4096
+            "pageView": 3,
+            "total": 4101
         },
         {
-            "page": "Giuseppe Vita",
-            "pageView": 3704
-        },
-        {
-            "page": "Francesco Lombardo",
-            "pageView": 3596
-        },
-        {
-            "page": "Pietro Vasta",
-            "pageView": 3416
-        },
-        {
-            "page": "Filippo Lentini",
-            "pageView": 3291
+            "page": "Biagio Licata di Baucina",
+            "pageView": 3,
+            "total": 4381
         },
         {
             "page": "Fedele De Francisca",
-            "pageView": 2936
-        },
-        {
-            "page": "Antonio Ambrosini",
-            "pageView": 2837
-        },
-        {
-            "page": "Angelo La Russa",
-            "pageView": 2742
+            "pageView": 2,
+            "total": 2937
         },
         {
             "page": "Antonio Callea",
-            "pageView": 2710
-        },
-        {
-            "page": "Giuseppe Bruccoleri",
-            "pageView": 2263
-        },
-        {
-            "page": "Bernardino Re",
-            "pageView": 2073
+            "pageView": 2,
+            "total": 2711
         },
         {
             "page": "Filippo Iacolino",
-            "pageView": 1991
+            "pageView": 2,
+            "total": 1991
+        },
+        {
+            "page": "Angelo La Russa",
+            "pageView": 2,
+            "total": 2744
+        },
+        {
+            "page": "Filippo Lentini",
+            "pageView": 2,
+            "total": 3292
+        },
+        {
+            "page": "Antonio Ambrosini",
+            "pageView": 2,
+            "total": 2837
+        },
+        {
+            "page": "Giuseppe Bruccoleri",
+            "pageView": 2,
+            "total": 2264
+        },
+        {
+            "page": "Bernardino Re",
+            "pageView": 2,
+            "total": 2073
+        },
+        {
+            "page": "Francesco Lombardo",
+            "pageView": 2,
+            "total": 3596
+        },
+        {
+            "page": "Giuseppe Vita",
+            "pageView": 2,
+            "total": 3709
+        },
+        {
+            "page": "Pietro Vasta",
+            "pageView": 2,
+            "total": 3418
         },
         {
             "page": "Giuseppe Stuto",
-            "pageView": 1952
+            "pageView": 1,
+            "total": 1952
         }
     ]
 }

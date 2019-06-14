@@ -1,0 +1,27 @@
+{
+    "id": "place.1632022837881120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivignano Teor",
+    "place_name": "Rivignano Teor, Udine, Italy",
+    "bbox": [
+        13.002913,
+        45.811332,
+        13.113407,
+        45.911505
+    ],
+    "center": [
+        13.03333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03333,
+            45.88333
+        ]
+    }
+}

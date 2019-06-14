@@ -1,0 +1,27 @@
+{
+    "id": "place.7494415262682350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto San Giorgio",
+    "place_name": "Porto San Giorgio, Fermo, Italy",
+    "bbox": [
+        13.761148,
+        43.16159,
+        13.813795,
+        43.199104
+    ],
+    "center": [
+        13.79411,
+        43.17784
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.79411,
+            43.17784
+        ]
+    }
+}

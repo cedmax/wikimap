@@ -1,0 +1,27 @@
+{
+    "id": "place.10167490040032280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verona",
+    "place_name": "Verona, Verona, Italy",
+    "bbox": [
+        10.877061,
+        45.348458,
+        11.124613,
+        45.541583
+    ],
+    "center": [
+        10.99374,
+        45.43816
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.99374,
+            45.43816
+        ]
+    }
+}

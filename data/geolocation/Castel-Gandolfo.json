@@ -1,0 +1,27 @@
+{
+    "id": "place.17981989076949060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Gandolfo",
+    "place_name": "Castel Gandolfo, Roma, Italy",
+    "bbox": [
+        12.593256,
+        41.724917,
+        12.686563,
+        41.764159
+    ],
+    "center": [
+        12.65,
+        41.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            41.75
+        ]
+    }
+}

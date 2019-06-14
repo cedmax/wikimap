@@ -1,0 +1,27 @@
+{
+    "id": "place.8168776025189710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Giuletta",
+    "place_name": "Santa Giuletta, Pavia, Italy",
+    "bbox": [
+        9.162578,
+        45.015284,
+        9.219109,
+        45.060742
+    ],
+    "center": [
+        9.1908435,
+        45.038013
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1908435,
+            45.038013
+        ]
+    }
+}

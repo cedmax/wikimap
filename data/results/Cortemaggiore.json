@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Franco Fabrizi",
-            "pageView": 178735
+            "pageView": 90,
+            "total": 178880
         },
         {
             "page": "Ranuccio II Farnese",
-            "pageView": 24911
-        },
-        {
-            "page": "Menotti (fumettista)",
-            "pageView": 21461
+            "pageView": 16,
+            "total": 24928
         },
         {
             "page": "Silvio Oddi",
-            "pageView": 18317
+            "pageView": 11,
+            "total": 18322
         },
         {
-            "page": "Lorenzo Respighi",
-            "pageView": 8901
+            "page": "Menotti (fumettista)",
+            "pageView": 9,
+            "total": 21468
         },
         {
             "page": "Giuseppe Manfredi",
-            "pageView": 8268
+            "pageView": 5,
+            "total": 8278
         },
         {
             "page": "Claudio Toscanini",
-            "pageView": 7720
+            "pageView": 4,
+            "total": 7729
         },
         {
             "page": "Camilla de' Rossi",
-            "pageView": 5215
+            "pageView": 3,
+            "total": 5216
         },
         {
-            "page": "Ellis Rastelli",
-            "pageView": 2613
-        },
-        {
-            "page": "Giuseppe Respighi",
-            "pageView": 1697
-        },
-        {
-            "page": "Vittorio Cipelli",
-            "pageView": 1125
+            "page": "Lorenzo Respighi",
+            "pageView": 3,
+            "total": 8905
         },
         {
             "page": "Abelardo Albisi",
-            "pageView": 921
+            "pageView": 2,
+            "total": 921
+        },
+        {
+            "page": "Ellis Rastelli",
+            "pageView": 2,
+            "total": 2614
+        },
+        {
+            "page": "Vittorio Cipelli",
+            "pageView": 1,
+            "total": 1125
+        },
+        {
+            "page": "Giuseppe Respighi",
+            "pageView": 1,
+            "total": 1699
         },
         {
             "page": "Girolamo Pallavicino",
-            "pageView": 203
+            "pageView": 0,
+            "total": 205
         },
         {
             "page": "Gian Lodovico I Pallavicino",
-            "pageView": 156
+            "pageView": 0,
+            "total": 157
         }
     ]
 }

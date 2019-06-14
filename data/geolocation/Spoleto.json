@@ -1,0 +1,27 @@
+{
+    "id": "place.10597140703725550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spoleto",
+    "place_name": "Spoleto, Perugia, Italy",
+    "bbox": [
+        12.558678,
+        42.597128,
+        12.847292,
+        42.843575
+    ],
+    "center": [
+        12.73333,
+        42.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73333,
+            42.73333
+        ]
+    }
+}

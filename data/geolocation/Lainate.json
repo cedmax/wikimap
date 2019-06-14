@@ -1,0 +1,27 @@
+{
+    "id": "place.15163429536541380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lainate",
+    "place_name": "Lainate, Milano, Italy",
+    "bbox": [
+        8.995457,
+        45.541026,
+        9.056176,
+        45.588511
+    ],
+    "center": [
+        9.03333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.56667
+        ]
+    }
+}

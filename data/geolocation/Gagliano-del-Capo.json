@@ -1,0 +1,27 @@
+{
+    "id": "place.8355664790686350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gagliano del Capo",
+    "place_name": "Gagliano del Capo, Lecce, Italy",
+    "bbox": [
+        18.344317,
+        39.794196,
+        18.39238,
+        39.870595
+    ],
+    "center": [
+        18.36667,
+        39.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.36667,
+            39.85
+        ]
+    }
+}

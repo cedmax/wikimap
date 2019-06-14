@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Benito Mussolini",
-            "pageView": 3729551
+            "pageView": 2248.5,
+            "total": 3731591
         },
         {
             "page": "Rachele Guidi",
-            "pageView": 378366
-        },
-        {
-            "page": "Arnaldo Mussolini",
-            "pageView": 144036
+            "pageView": 206,
+            "total": 378531
         },
         {
             "page": "Giorgio Canali",
-            "pageView": 143782
+            "pageView": 89,
+            "total": 143840
+        },
+        {
+            "page": "Arnaldo Mussolini",
+            "pageView": 85,
+            "total": 144123
         },
         {
             "page": "Edvige Mussolini",
-            "pageView": 69507
+            "pageView": 42,
+            "total": 69535
         },
         {
             "page": "Pino Romualdi",
-            "pageView": 67467
+            "pageView": 38,
+            "total": 67519
         },
         {
             "page": "Rosa Maltoni",
-            "pageView": 53000
+            "pageView": 32,
+            "total": 53029
         },
         {
             "page": "Vittorio Emiliani",
-            "pageView": 19147
+            "pageView": 11,
+            "total": 19171
         },
         {
             "page": "Andrea Emiliani",
-            "pageView": 13958
+            "pageView": 8,
+            "total": 13967
         },
         {
             "page": "Ivano Nicolucci",
-            "pageView": 10310
+            "pageView": 7,
+            "total": 10314
         },
         {
             "page": "Marino Amadori",
-            "pageView": 7518
+            "pageView": 5,
+            "total": 7519
         },
         {
             "page": "Antonio Piolanti",
-            "pageView": 4541
-        },
-        {
-            "page": "Morena Tartagni",
-            "pageView": 3500
+            "pageView": 3,
+            "total": 4541
         },
         {
             "page": "Pier Luigi Cignani",
-            "pageView": 2720
+            "pageView": 2,
+            "total": 2720
         },
         {
             "page": "Benito Partisani",
-            "pageView": 2610
+            "pageView": 2,
+            "total": 2611
         },
         {
             "page": "Pietro Baccanelli",
-            "pageView": 2247
+            "pageView": 2,
+            "total": 2249
         },
         {
             "page": "Gilberto Cappelli",
-            "pageView": 2176
+            "pageView": 2,
+            "total": 2176
+        },
+        {
+            "page": "Morena Tartagni",
+            "pageView": 2,
+            "total": 3503
         },
         {
             "page": "Giorgia Galletti",
-            "pageView": 1769
+            "pageView": 1,
+            "total": 1769
         },
         {
             "page": "Luciano Succi",
-            "pageView": 117
+            "pageView": 0,
+            "total": 117
         }
     ]
 }

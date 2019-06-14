@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Francesco Caracciolo (santo)",
-            "pageView": 24940
+            "pageView": 13,
+            "total": 24953
         },
         {
             "page": "Dominick Salvatore",
-            "pageView": 23132
+            "pageView": 11,
+            "total": 23146
         },
         {
             "page": "Giuseppe Di Lello Finuoli",
-            "pageView": 20732
+            "pageView": 10,
+            "total": 20749
         },
         {
             "page": "Michele Mascitti",
-            "pageView": 5272
+            "pageView": 3,
+            "total": 5273
         },
         {
             "page": "Niccolò Caracciolo",
-            "pageView": 4692
-        },
-        {
-            "page": "Pietro Marchitelli",
-            "pageView": 3067
+            "pageView": 2,
+            "total": 4694
         },
         {
             "page": "Carlo Cotumacci",
-            "pageView": 2362
+            "pageView": 2,
+            "total": 2364
+        },
+        {
+            "page": "Pietro Marchitelli",
+            "pageView": 2,
+            "total": 3068
         },
         {
             "page": "Michele Cotumacci",
-            "pageView": 1581
+            "pageView": 1,
+            "total": 1581
         }
     ]
 }

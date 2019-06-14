@@ -1,0 +1,27 @@
+{
+    "id": "place.15675845035013980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Renate",
+    "place_name": "Renate, Lecco, Italy",
+    "bbox": [
+        9.266083,
+        45.711556,
+        9.290675,
+        45.733479
+    ],
+    "center": [
+        9.28333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28333,
+            45.73333
+        ]
+    }
+}

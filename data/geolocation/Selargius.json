@@ -1,0 +1,27 @@
+{
+    "id": "place.18085067530275790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Selargius",
+    "place_name": "Selargius, Cagliari, Italy",
+    "bbox": [
+        9.098807,
+        39.244052,
+        9.182043,
+        39.323479
+    ],
+    "center": [
+        9.16667,
+        39.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            39.25
+        ]
+    }
+}

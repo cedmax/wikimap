@@ -1,0 +1,27 @@
+{
+    "id": "place.7496720850870660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sassari",
+    "place_name": "Sassari, Sassari, Italy",
+    "bbox": [
+        8.131115,
+        40.651949,
+        8.643845,
+        40.868901
+    ],
+    "center": [
+        8.55917,
+        40.72667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.55917,
+            40.72667
+        ]
+    }
+}

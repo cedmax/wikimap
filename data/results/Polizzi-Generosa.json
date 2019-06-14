@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Domenico Dolce",
-            "pageView": 210675
+            "pageView": 102,
+            "total": 210757
         },
         {
             "page": "Vincent Schiavelli",
-            "pageView": 106219
+            "pageView": 56,
+            "total": 106269
         },
         {
             "page": "Giuseppe Antonio Borgese",
-            "pageView": 45573
+            "pageView": 30,
+            "total": 45605
         },
         {
             "page": "Mariano Rampolla del Tindaro",
-            "pageView": 38120
+            "pageView": 25,
+            "total": 38142
         },
         {
             "page": "Croce Taravella",
-            "pageView": 7894
+            "pageView": 5,
+            "total": 7896
         },
         {
             "page": "Giuseppe D'Alesi",
-            "pageView": 4842
+            "pageView": 3,
+            "total": 4843
         },
         {
             "page": "Francesco Paolo Anselmo",
-            "pageView": 3269
+            "pageView": 2,
+            "total": 3271
         },
         {
             "page": "Gandolfo Sacchi",
-            "pageView": 2974
-        },
-        {
-            "page": "Guglielmo Gnoffi",
-            "pageView": 2323
-        },
-        {
-            "page": "Francesco Maria Rini",
-            "pageView": 1948
+            "pageView": 2,
+            "total": 2978
         },
         {
             "page": "Giuseppe d'Alessi",
-            "pageView": 1834
+            "pageView": 2,
+            "total": 1834
+        },
+        {
+            "page": "Guglielmo Gnoffi",
+            "pageView": 2,
+            "total": 2324
+        },
+        {
+            "page": "Francesco Maria Rini",
+            "pageView": 1,
+            "total": 1948
         },
         {
             "page": "Rosario Allegra",
-            "pageView": 1530
+            "pageView": 1,
+            "total": 1550
         },
         {
             "page": "Gioacchino Castelli",
-            "pageView": 703
+            "pageView": 1,
+            "total": 704
         },
         {
             "page": "Celidonio Errante",
-            "pageView": 185
+            "pageView": 0,
+            "total": 186
         }
     ]
 }

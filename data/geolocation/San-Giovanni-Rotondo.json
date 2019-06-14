@@ -1,0 +1,27 @@
+{
+    "id": "place.11004477721409430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Rotondo",
+    "place_name": "San Giovanni Rotondo, Foggia, Italy",
+    "bbox": [
+        15.635277,
+        41.513423,
+        15.874767,
+        41.764299
+    ],
+    "center": [
+        15.73333,
+        41.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.73333,
+            41.7
+        ]
+    }
+}

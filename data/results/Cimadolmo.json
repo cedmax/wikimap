@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Renzo Bariviera",
-            "pageView": 15441
-        },
-        {
-            "page": "Angelo Mengaldo",
-            "pageView": 2307
+            "pageView": 10,
+            "total": 15455
         },
         {
             "page": "Giacomo Agostinetti",
-            "pageView": 2283
+            "pageView": 2,
+            "total": 2283
+        },
+        {
+            "page": "Angelo Mengaldo",
+            "pageView": 2,
+            "total": 2307
         },
         {
             "page": "Gianni Giacomini",
-            "pageView": 235
+            "pageView": 0,
+            "total": 236
         }
     ]
 }

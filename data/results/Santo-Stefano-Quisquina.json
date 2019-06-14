@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Ignazio Zambito",
-            "pageView": 10915
-        },
-        {
-            "page": "Giacinto Giordano Ansalone",
-            "pageView": 7427
+            "pageView": 6,
+            "total": 10916
         },
         {
             "page": "Lorenzo Panepinto",
-            "pageView": 6502
+            "pageView": 4,
+            "total": 6508
+        },
+        {
+            "page": "Giacinto Giordano Ansalone",
+            "pageView": 4,
+            "total": 7431
         },
         {
             "page": "Aurelio Spoto",
-            "pageView": 6287
+            "pageView": 3,
+            "total": 6301
         }
     ]
 }

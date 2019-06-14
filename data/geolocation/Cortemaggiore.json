@@ -1,0 +1,27 @@
+{
+    "id": "place.13083691482540970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cortemaggiore",
+    "place_name": "Cortemaggiore, Piacenza, Italy",
+    "bbox": [
+        9.833263,
+        44.958644,
+        9.997573,
+        45.032839
+    ],
+    "center": [
+        9.93333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45
+        ]
+    }
+}

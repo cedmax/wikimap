@@ -1,0 +1,27 @@
+{
+    "id": "place.4439576599362840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Correggio",
+    "place_name": "Correggio, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.702325,
+        44.694998,
+        10.842069,
+        44.81601
+    ],
+    "center": [
+        10.78056,
+        44.77167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.78056,
+            44.77167
+        ]
+    }
+}

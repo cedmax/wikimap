@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Carlo Lievore",
-            "pageView": 6383
-        },
-        {
-            "page": "Giovanni Lievore",
-            "pageView": 1816
+            "pageView": 4,
+            "total": 6388
         },
         {
             "page": "Giovanni Andrea Gasparini",
-            "pageView": 1481
+            "pageView": 1,
+            "total": 1481
+        },
+        {
+            "page": "Giovanni Lievore",
+            "pageView": 1,
+            "total": 1817
         },
         {
             "page": "Achille Marzarotto",
-            "pageView": 645
+            "pageView": 1,
+            "total": 645
         }
     ]
 }

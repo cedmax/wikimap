@@ -1,0 +1,27 @@
+{
+    "id": "place.3067259757135340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belluno",
+    "place_name": "Belluno, Belluno, Italy",
+    "bbox": [
+        12.118364,
+        46.036408,
+        12.308,
+        46.23349
+    ],
+    "center": [
+        12.21556,
+        46.14083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21556,
+            46.14083
+        ]
+    }
+}

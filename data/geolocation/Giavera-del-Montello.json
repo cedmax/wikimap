@@ -1,0 +1,27 @@
+{
+    "id": "place.3147404417149310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giavera del Montello",
+    "place_name": "Giavera del Montello, Treviso, Italy",
+    "bbox": [
+        12.1232,
+        45.759116,
+        12.210241,
+        45.845302
+    ],
+    "center": [
+        12.16667,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.16667,
+            45.8
+        ]
+    }
+}

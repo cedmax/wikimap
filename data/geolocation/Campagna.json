@@ -1,0 +1,27 @@
+{
+    "id": "place.6523023322215520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campagna",
+    "place_name": "Campagna, Salerno, Italy",
+    "bbox": [
+        15.044039,
+        40.590935,
+        15.221191,
+        40.732387
+    ],
+    "center": [
+        15.1,
+        40.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            40.66667
+        ]
+    }
+}

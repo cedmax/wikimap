@@ -1,0 +1,27 @@
+{
+    "id": "place.10802515382469560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Livorno",
+    "place_name": "Livorno, Livorno, Italy",
+    "bbox": [
+        9.888629,
+        43.419965,
+        10.419395,
+        43.595417
+    ],
+    "center": [
+        10.31667,
+        43.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.31667,
+            43.55
+        ]
+    }
+}

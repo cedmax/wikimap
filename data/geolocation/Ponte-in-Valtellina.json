@@ -1,0 +1,27 @@
+{
+    "id": "place.8420008864271170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte in Valtellina",
+    "place_name": "Ponte in Valtellina, Sondrio, Italy",
+    "bbox": [
+        9.928736,
+        46.070472,
+        10.055463,
+        46.238393
+    ],
+    "center": [
+        9.98333,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            46.18333
+        ]
+    }
+}

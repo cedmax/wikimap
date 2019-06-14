@@ -1,0 +1,27 @@
+{
+    "id": "place.4319959169044260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forlì",
+    "place_name": "Forlì, Forli'-Cesena, Italy",
+    "bbox": [
+        11.922048,
+        44.126077,
+        12.21151,
+        44.33092
+    ],
+    "center": [
+        12.04083,
+        44.2225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.04083,
+            44.2225
+        ]
+    }
+}

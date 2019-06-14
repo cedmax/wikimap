@@ -1,0 +1,27 @@
+{
+    "id": "place.13722538554416800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Battaglia Terme",
+    "place_name": "Battaglia Terme, Padova, Italy",
+    "bbox": [
+        11.757874,
+        45.27128,
+        11.79351,
+        45.311427
+    ],
+    "center": [
+        11.77959,
+        45.28937
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.77959,
+            45.28937
+        ]
+    }
+}

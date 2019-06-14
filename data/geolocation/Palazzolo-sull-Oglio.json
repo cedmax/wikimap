@@ -1,0 +1,27 @@
+{
+    "id": "place.8446676164325680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzolo sull'Oglio",
+    "place_name": "Palazzolo sull'Oglio, Brescia, Italy",
+    "bbox": [
+        9.848517,
+        45.552838,
+        9.935949,
+        45.623327
+    ],
+    "center": [
+        9.88333,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88333,
+            45.6
+        ]
+    }
+}

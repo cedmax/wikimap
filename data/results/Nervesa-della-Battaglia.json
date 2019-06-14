@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Francesco Baracca",
-            "pageView": 295291
+            "pageView": 170,
+            "total": 295438
         },
         {
             "page": "Claudio Malagoli",
-            "pageView": 14556
+            "pageView": 9,
+            "total": 14571
         },
         {
             "page": "Mario Fiore",
-            "pageView": 10695
+            "pageView": 6,
+            "total": 10701
         },
         {
             "page": "Narciso Soldan",
-            "pageView": 10140
-        },
-        {
-            "page": "Giuseppe Mancino",
-            "pageView": 6716
-        },
-        {
-            "page": "Annibale Caretta",
-            "pageView": 6173
-        },
-        {
-            "page": "Gaetano Zompini",
-            "pageView": 5206
-        },
-        {
-            "page": "Vittorio Emanuele Borsi di Parma",
-            "pageView": 4222
-        },
-        {
-            "page": "Guido Alessi",
-            "pageView": 2983
+            "pageView": 6,
+            "total": 10141
         },
         {
             "page": "Victor Edouard Busnello",
-            "pageView": 2800
+            "pageView": 4,
+            "total": 2837
+        },
+        {
+            "page": "Annibale Caretta",
+            "pageView": 4,
+            "total": 6176
+        },
+        {
+            "page": "Giuseppe Mancino",
+            "pageView": 4,
+            "total": 6719
         },
         {
             "page": "Giancarlo Zanatta",
-            "pageView": 2585
+            "pageView": 4,
+            "total": 2596
+        },
+        {
+            "page": "Gaetano Zompini",
+            "pageView": 3,
+            "total": 5207
+        },
+        {
+            "page": "Vittorio Emanuele Borsi di Parma",
+            "pageView": 3,
+            "total": 4225
         },
         {
             "page": "Antonio Gorini",
-            "pageView": 2383
+            "pageView": 2,
+            "total": 2384
         },
         {
-            "page": "Ivo Lollini",
-            "pageView": 1503
+            "page": "Guido Alessi",
+            "pageView": 2,
+            "total": 2985
         },
         {
             "page": "Bruno Bozzolo",
-            "pageView": 1487
+            "pageView": 1,
+            "total": 1490
+        },
+        {
+            "page": "Ivo Lollini",
+            "pageView": 1,
+            "total": 1503
         }
     ]
 }

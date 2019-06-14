@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Luciano Re Cecconi",
-            "pageView": 243796
+            "pageView": 118,
+            "total": 243910
         },
         {
             "page": "Paolo Caccia Dominioni",
-            "pageView": 60913
+            "pageView": 36,
+            "total": 60945
         },
         {
             "page": "Franco Paleari",
-            "pageView": 30349
-        },
-        {
-            "page": "Remo Morelli",
-            "pageView": 5357
+            "pageView": 15,
+            "total": 30363
         },
         {
             "page": "Ambrogio Morelli",
-            "pageView": 3926
+            "pageView": 3,
+            "total": 3928
         },
         {
-            "page": "Ernesto Vegetti",
-            "pageView": 3433
-        },
-        {
-            "page": "Ottavio Cogliati",
-            "pageView": 2949
+            "page": "Remo Morelli",
+            "pageView": 3,
+            "total": 5361
         },
         {
             "page": "Rolando Del Bello",
-            "pageView": 1869
+            "pageView": 2,
+            "total": 1871
         },
         {
-            "page": "Nino Pisoni",
-            "pageView": 1574
+            "page": "Ottavio Cogliati",
+            "pageView": 2,
+            "total": 2950
+        },
+        {
+            "page": "Ernesto Vegetti",
+            "pageView": 2,
+            "total": 3433
         },
         {
             "page": "Virginio Mezzanzanica",
-            "pageView": 1305
+            "pageView": 1,
+            "total": 1305
+        },
+        {
+            "page": "Nino Pisoni",
+            "pageView": 1,
+            "total": 1574
         }
     ]
 }

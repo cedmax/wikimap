@@ -1,0 +1,27 @@
+{
+    "id": "place.13699479692922620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sesto Fiorentino",
+    "place_name": "Sesto Fiorentino, Firenze, Italy",
+    "bbox": [
+        11.144806,
+        43.799716,
+        11.292187,
+        43.879976
+    ],
+    "center": [
+        11.2,
+        43.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            43.83333
+        ]
+    }
+}

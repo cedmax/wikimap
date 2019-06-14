@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Mario Musolesi",
-            "pageView": 109121
+            "pageView": 14,
+            "total": 109136
         },
         {
             "page": "Andrea De Maria",
-            "pageView": 17058
+            "pageView": 10,
+            "total": 17068
         },
         {
             "page": "Giovanni Fornasini",
-            "pageView": 13354
+            "pageView": 7,
+            "total": 13361
         },
         {
             "page": "Ubaldo Marchioni",
-            "pageView": 9090
+            "pageView": 5,
+            "total": 9095
         },
         {
             "page": "Gastone Rossi",
-            "pageView": 3146
-        },
-        {
-            "page": "Giovanni Bottonelli",
-            "pageView": 2305
+            "pageView": 2,
+            "total": 3148
         },
         {
             "page": "Arciso Artesiani",
-            "pageView": 2159
+            "pageView": 2,
+            "total": 2159
+        },
+        {
+            "page": "Giovanni Bottonelli",
+            "pageView": 2,
+            "total": 2308
         },
         {
             "page": "Dante Cruicchi",
-            "pageView": 2066
+            "pageView": 2,
+            "total": 2068
         },
         {
             "page": "Francesco Calzolari (partigiano)",
-            "pageView": 257
+            "pageView": 0,
+            "total": 257
         }
     ]
 }

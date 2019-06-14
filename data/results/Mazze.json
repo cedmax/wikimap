@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Alberto Maria Careggio",
-            "pageView": 9238
-        },
-        {
-            "page": "Lorenzo Piretto",
-            "pageView": 3825
+            "pageView": 6,
+            "total": 9242
         },
         {
             "page": "Pietro Monte",
-            "pageView": 1911
+            "pageView": 2,
+            "total": 1911
+        },
+        {
+            "page": "Lorenzo Piretto",
+            "pageView": 2,
+            "total": 3826
         },
         {
             "page": "Pietro Solero",
-            "pageView": 1417
+            "pageView": 1,
+            "total": 1417
         }
     ]
 }

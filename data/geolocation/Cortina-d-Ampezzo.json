@@ -1,0 +1,27 @@
+{
+    "id": "place.14597139610158040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cortina d'Ampezzo",
+    "place_name": "Cortina d'Ampezzo, Belluno, Italy",
+    "bbox": [
+        11.988397,
+        46.4618,
+        12.257573,
+        46.674993
+    ],
+    "center": [
+        12.13722,
+        46.53806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13722,
+            46.53806
+        ]
+    }
+}

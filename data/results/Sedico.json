@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Francesco Da Gioz",
-            "pageView": 1345
+            "pageView": 1,
+            "total": 1346
         },
         {
             "page": "Piera Verri",
-            "pageView": 1015
+            "pageView": 1,
+            "total": 1015
         },
         {
             "page": "Antonio Miari",
-            "pageView": 753
+            "pageView": 0,
+            "total": 755
         },
         {
             "page": "Ida Da Poian",
-            "pageView": 356
+            "pageView": 0,
+            "total": 356
         }
     ]
 }

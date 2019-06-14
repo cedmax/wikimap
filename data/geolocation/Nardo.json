@@ -1,0 +1,27 @@
+{
+    "id": "place.16598163524576520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nardò",
+    "place_name": "Nardò, Lecce, Italy",
+    "bbox": [
+        17.79276,
+        40.1209,
+        18.086705,
+        40.362316
+    ],
+    "center": [
+        18.03333,
+        40.17972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.03333,
+            40.17972
+        ]
+    }
+}

@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Novella Parigini",
-            "pageView": 36882
+            "pageView": 23,
+            "total": 36892
         },
         {
             "page": "Alberto Gimignani",
-            "pageView": 33097
-        },
-        {
-            "page": "Rodolfo Cetoloni",
-            "pageView": 11074
+            "pageView": 17,
+            "total": 33113
         },
         {
             "page": "Stefano Manetti",
-            "pageView": 9759
+            "pageView": 6,
+            "total": 9760
         },
         {
-            "page": "Giovanni Ricci (cardinale)",
-            "pageView": 5556
+            "page": "Rodolfo Cetoloni",
+            "pageView": 6,
+            "total": 11082
         },
         {
             "page": "Rodolfo II Baglioni",
-            "pageView": 5072
+            "pageView": 3,
+            "total": 5074
+        },
+        {
+            "page": "Giovanni Ricci (cardinale)",
+            "pageView": 3,
+            "total": 5557
         },
         {
             "page": "Idilio Dell'Era",
-            "pageView": 4875
-        },
-        {
-            "page": "Carlo Antonini",
-            "pageView": 3676
-        },
-        {
-            "page": "Angiolo Nardi Dei",
-            "pageView": 3426
-        },
-        {
-            "page": "Mario Tosti",
-            "pageView": 3093
-        },
-        {
-            "page": "Loris Scricciolo",
-            "pageView": 3064
-        },
-        {
-            "page": "Ezio Cardaioli",
-            "pageView": 2811
-        },
-        {
-            "page": "Ricciardo Meacci",
-            "pageView": 2723
-        },
-        {
-            "page": "Pietro Locchi",
-            "pageView": 2333
-        },
-        {
-            "page": "Pietro Bonci Casuccini",
-            "pageView": 2272
-        },
-        {
-            "page": "Federico Flora",
-            "pageView": 2209
-        },
-        {
-            "page": "Francesco Atti",
-            "pageView": 2105
+            "pageView": 3,
+            "total": 4875
         },
         {
             "page": "Walter Barni",
-            "pageView": 1840
+            "pageView": 2,
+            "total": 1840
+        },
+        {
+            "page": "Ricciardo Meacci",
+            "pageView": 2,
+            "total": 2727
+        },
+        {
+            "page": "Carlo Antonini",
+            "pageView": 2,
+            "total": 3677
+        },
+        {
+            "page": "Loris Scricciolo",
+            "pageView": 2,
+            "total": 3064
+        },
+        {
+            "page": "Pietro Locchi",
+            "pageView": 2,
+            "total": 2337
+        },
+        {
+            "page": "Pietro Bonci Casuccini",
+            "pageView": 2,
+            "total": 2272
+        },
+        {
+            "page": "Francesco Atti",
+            "pageView": 2,
+            "total": 2105
+        },
+        {
+            "page": "Mario Tosti",
+            "pageView": 2,
+            "total": 3095
+        },
+        {
+            "page": "Angiolo Nardi Dei",
+            "pageView": 2,
+            "total": 3427
         },
         {
             "page": "Giacomo l'Elemosiniere",
-            "pageView": 1839
+            "pageView": 2,
+            "total": 1840
+        },
+        {
+            "page": "Ezio Cardaioli",
+            "pageView": 2,
+            "total": 2812
+        },
+        {
+            "page": "Federico Flora",
+            "pageView": 2,
+            "total": 2210
         },
         {
             "page": "Giorgio Andreasi",
-            "pageView": 1590
-        },
-        {
-            "page": "Salvatore Pacini",
-            "pageView": 1397
-        },
-        {
-            "page": "Gregorio Magalotti",
-            "pageView": 1366
-        },
-        {
-            "page": "Riccardo Margheriti",
-            "pageView": 1252
-        },
-        {
-            "page": "Gaia Romanini",
-            "pageView": 953
+            "pageView": 1,
+            "total": 1594
         },
         {
             "page": "Zelindo Ciro Boddi",
-            "pageView": 903
+            "pageView": 1,
+            "total": 904
         },
         {
-            "page": "Giacomo Tolomei",
-            "pageView": 666
+            "page": "Gregorio Magalotti",
+            "pageView": 1,
+            "total": 1368
+        },
+        {
+            "page": "Salvatore Pacini",
+            "pageView": 1,
+            "total": 1397
+        },
+        {
+            "page": "Riccardo Margheriti",
+            "pageView": 1,
+            "total": 1252
+        },
+        {
+            "page": "Gaia Romanini",
+            "pageView": 0,
+            "total": 953
         },
         {
             "page": "Mario Morgantini",
-            "pageView": 279
+            "pageView": 0,
+            "total": 279
+        },
+        {
+            "page": "Giacomo Tolomei",
+            "pageView": 0,
+            "total": 667
         }
     ]
 }

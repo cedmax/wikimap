@@ -1,0 +1,27 @@
+{
+    "id": "place.11211260969515710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lentini",
+    "place_name": "Lentini, Siracusa, Italy",
+    "bbox": [
+        14.778726,
+        37.248128,
+        15.033386,
+        37.412842
+    ],
+    "center": [
+        15,
+        37.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15,
+            37.28333
+        ]
+    }
+}

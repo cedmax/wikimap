@@ -1,0 +1,27 @@
+{
+    "id": "place.9211185083089410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scandiano",
+    "place_name": "Scandiano, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.634668,
+        44.538392,
+        10.757443,
+        44.646692
+    ],
+    "center": [
+        10.68778,
+        44.5925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68778,
+            44.5925
+        ]
+    }
+}

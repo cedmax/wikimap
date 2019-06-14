@@ -1,0 +1,27 @@
+{
+    "id": "place.9111465595943750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Margherita Ligure",
+    "place_name": "Santa Margherita Ligure, Genova, Italy",
+    "bbox": [
+        9.168948,
+        44.31009,
+        9.22166,
+        44.34587
+    ],
+    "center": [
+        9.21012,
+        44.33493
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21012,
+            44.33493
+        ]
+    }
+}

@@ -3,171 +3,213 @@
     "people": [
         {
             "page": "Papa Pio VIII",
-            "pageView": 114192
+            "pageView": 75,
+            "total": 114280
         },
         {
             "page": "Tito Labieno",
-            "pageView": 40297
-        },
-        {
-            "page": "Giovanni Maria Vitelleschi",
-            "pageView": 20027
+            "pageView": 25,
+            "total": 40324
         },
         {
             "page": "Claudio Giuliodori",
-            "pageView": 18774
+            "pageView": 12,
+            "total": 18783
         },
         {
             "page": "Luigi Conti",
-            "pageView": 13692
+            "pageView": 8,
+            "total": 13695
+        },
+        {
+            "page": "Giovanni Maria Vitelleschi",
+            "pageView": 7,
+            "total": 20034
         },
         {
             "page": "Nazzareno Marconi",
-            "pageView": 12294
+            "pageView": 7,
+            "total": 12299
         },
         {
             "page": "Angelo Clareno",
-            "pageView": 10037
-        },
-        {
-            "page": "Filippo Saltamartini",
-            "pageView": 8944
+            "pageView": 6,
+            "total": 10040
         },
         {
             "page": "Carlo Maccari",
-            "pageView": 8274
+            "pageView": 5,
+            "total": 8278
         },
         {
             "page": "Carlo Vecchiarelli",
-            "pageView": 7065
+            "pageView": 4,
+            "total": 7069
         },
         {
-            "page": "Esuperanzio di Cingoli",
-            "pageView": 4921
-        },
-        {
-            "page": "Odo Fusi Pecci",
-            "pageView": 4849
+            "page": "Filippo Saltamartini",
+            "pageView": 4,
+            "total": 8949
         },
         {
             "page": "Giovanni Domenico De Cupis",
-            "pageView": 4838
+            "pageView": 3,
+            "total": 4841
+        },
+        {
+            "page": "Esuperanzio di Cingoli",
+            "pageView": 3,
+            "total": 4927
         },
         {
             "page": "Fra Bevignate",
-            "pageView": 3889
-        },
-        {
-            "page": "Alessandro Crescenzi (cardinale)",
-            "pageView": 3806
-        },
-        {
-            "page": "Vittorio Amedeo Ranuzzi de' Bianchi",
-            "pageView": 3403
-        },
-        {
-            "page": "Giovanni Soglia Ceroni",
-            "pageView": 3347
-        },
-        {
-            "page": "Alessandro Mattioli Pasqualini",
-            "pageView": 3293
-        },
-        {
-            "page": "Tarcisio Carboni",
-            "pageView": 3198
-        },
-        {
-            "page": "Giovanni Antonio Benvenuti",
-            "pageView": 3121
-        },
-        {
-            "page": "Giovanni Castiglione",
-            "pageView": 3031
-        },
-        {
-            "page": "Giovanni Brunelli",
-            "pageView": 2995
-        },
-        {
-            "page": "Agostino Pipia",
-            "pageView": 2972
-        },
-        {
-            "page": "Guido Calcagnini",
-            "pageView": 2540
-        },
-        {
-            "page": "Egidio Mauri",
-            "pageView": 2249
-        },
-        {
-            "page": "Salvatore Nobili Vitelleschi",
-            "pageView": 2230
-        },
-        {
-            "page": "Giacomo Lanfredini",
-            "pageView": 2069
-        },
-        {
-            "page": "Raniero Felice Simonetti",
-            "pageView": 2059
-        },
-        {
-            "page": "Nicolò dall'Aste",
-            "pageView": 2057
-        },
-        {
-            "page": "Ercole Dandini",
-            "pageView": 1993
-        },
-        {
-            "page": "Luigi Tasso",
-            "pageView": 1966
-        },
-        {
-            "page": "Francesco Ansaldo Teloni",
-            "pageView": 1858
-        },
-        {
-            "page": "Carlo Andrea Pelagallo",
-            "pageView": 1580
-        },
-        {
-            "page": "Fiorella Diamantini",
-            "pageView": 1491
-        },
-        {
-            "page": "Egidio Falcetta",
-            "pageView": 1468
+            "pageView": 3,
+            "total": 3891
         },
         {
             "page": "Ettore Ascoli",
-            "pageView": 1445
+            "pageView": 2,
+            "total": 1445
         },
         {
-            "page": "Corrado Ciamberlini",
-            "pageView": 1310
+            "page": "Agostino Pipia",
+            "pageView": 2,
+            "total": 2972
         },
         {
-            "page": "Giovanni Maria Simula",
-            "pageView": 1111
+            "page": "Ercole Dandini",
+            "pageView": 2,
+            "total": 1993
+        },
+        {
+            "page": "Raniero Felice Simonetti",
+            "pageView": 2,
+            "total": 2060
+        },
+        {
+            "page": "Salvatore Nobili Vitelleschi",
+            "pageView": 2,
+            "total": 2230
+        },
+        {
+            "page": "Giovanni Castiglione",
+            "pageView": 2,
+            "total": 3031
+        },
+        {
+            "page": "Tarcisio Carboni",
+            "pageView": 2,
+            "total": 3200
+        },
+        {
+            "page": "Odo Fusi Pecci",
+            "pageView": 2,
+            "total": 4852
+        },
+        {
+            "page": "Guido Calcagnini",
+            "pageView": 2,
+            "total": 2541
+        },
+        {
+            "page": "Nicolò dall'Aste",
+            "pageView": 2,
+            "total": 2057
+        },
+        {
+            "page": "Giovanni Soglia Ceroni",
+            "pageView": 2,
+            "total": 3347
+        },
+        {
+            "page": "Alessandro Mattioli Pasqualini",
+            "pageView": 2,
+            "total": 3294
+        },
+        {
+            "page": "Egidio Mauri",
+            "pageView": 2,
+            "total": 2250
+        },
+        {
+            "page": "Vittorio Amedeo Ranuzzi de' Bianchi",
+            "pageView": 2,
+            "total": 3404
+        },
+        {
+            "page": "Luigi Tasso",
+            "pageView": 2,
+            "total": 1966
+        },
+        {
+            "page": "Giacomo Lanfredini",
+            "pageView": 2,
+            "total": 2071
+        },
+        {
+            "page": "Giovanni Antonio Benvenuti",
+            "pageView": 2,
+            "total": 3126
+        },
+        {
+            "page": "Giovanni Brunelli",
+            "pageView": 2,
+            "total": 2996
+        },
+        {
+            "page": "Alessandro Crescenzi (cardinale)",
+            "pageView": 2,
+            "total": 3811
         },
         {
             "page": "Bonfiglio di Foligno",
-            "pageView": 1098
+            "pageView": 1,
+            "total": 1099
         },
         {
             "page": "Pompeo Compagnoni (vescovo)",
-            "pageView": 777
+            "pageView": 1,
+            "total": 778
+        },
+        {
+            "page": "Giovanni Maria Simula",
+            "pageView": 1,
+            "total": 1111
+        },
+        {
+            "page": "Carlo Andrea Pelagallo",
+            "pageView": 1,
+            "total": 1580
+        },
+        {
+            "page": "Francesco Ansaldo Teloni",
+            "pageView": 1,
+            "total": 1858
+        },
+        {
+            "page": "Fiorella Diamantini",
+            "pageView": 1,
+            "total": 1492
+        },
+        {
+            "page": "Corrado Ciamberlini",
+            "pageView": 1,
+            "total": 1310
+        },
+        {
+            "page": "Egidio Falcetta",
+            "pageView": 1,
+            "total": 1469
         },
         {
             "page": "Cesarina Ricci de Tingoli",
-            "pageView": 344
+            "pageView": 0,
+            "total": 344
         },
         {
             "page": "Francesco Silvestri (vescovo)",
-            "pageView": 89
+            "pageView": 0,
+            "total": 89
         }
     ]
 }

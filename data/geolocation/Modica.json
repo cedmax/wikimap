@@ -1,0 +1,27 @@
+{
+    "id": "place.6179141400175020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Modica",
+    "place_name": "Modica, Ragusa, Italy",
+    "bbox": [
+        14.712404,
+        36.703514,
+        14.9387,
+        37.037887
+    ],
+    "center": [
+        14.76139,
+        36.86722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.76139,
+            36.86722
+        ]
+    }
+}

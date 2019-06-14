@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Andrea Pazienza",
-            "pageView": 508757
+            "pageView": 196,
+            "total": 508925
         },
         {
             "page": "Agnolo Poliziano",
-            "pageView": 144336
-        },
-        {
-            "page": "Francesco Bianconi",
-            "pageView": 134970
+            "pageView": 90,
+            "total": 144404
         },
         {
             "page": "Roberto Bellarmino",
-            "pageView": 130160
+            "pageView": 70,
+            "total": 130239
+        },
+        {
+            "page": "Francesco Bianconi",
+            "pageView": 63,
+            "total": 135022
         },
         {
             "page": "Giovanni Della Casa",
-            "pageView": 92346
+            "pageView": 61,
+            "total": 92413
         },
         {
             "page": "Elémire Zolla",
-            "pageView": 74697
-        },
-        {
-            "page": "Rodolfo Cetoloni",
-            "pageView": 11074
+            "pageView": 48,
+            "total": 74731
         },
         {
             "page": "Stefano Manetti",
-            "pageView": 9759
+            "pageView": 6,
+            "total": 9760
+        },
+        {
+            "page": "Rodolfo Cetoloni",
+            "pageView": 6,
+            "total": 11082
         },
         {
             "page": "Cino Cinelli",
-            "pageView": 9129
-        },
-        {
-            "page": "Franco Ceccuzzi",
-            "pageView": 8094
-        },
-        {
-            "page": "Roberto de Nobili",
-            "pageView": 6489
-        },
-        {
-            "page": "Marco Coltellini",
-            "pageView": 6259
+            "pageView": 6,
+            "total": 9133
         },
         {
             "page": "Paolo Parisi",
-            "pageView": 5785
+            "pageView": 4,
+            "total": 5789
         },
         {
-            "page": "Mario Guidotti",
-            "pageView": 4367
+            "page": "Roberto de Nobili",
+            "pageView": 4,
+            "total": 6490
+        },
+        {
+            "page": "Franco Ceccuzzi",
+            "pageView": 4,
+            "total": 8097
+        },
+        {
+            "page": "Marco Coltellini",
+            "pageView": 4,
+            "total": 6263
         },
         {
             "page": "Dino Trabalzini",
-            "pageView": 4161
+            "pageView": 3,
+            "total": 4162
+        },
+        {
+            "page": "Mario Guidotti",
+            "pageView": 3,
+            "total": 4370
         },
         {
             "page": "Giovanni Antonio Pandolfi Mealli",
-            "pageView": 4017
-        },
-        {
-            "page": "Francesco Maria Tarugi",
-            "pageView": 3931
-        },
-        {
-            "page": "Ugo Mioni",
-            "pageView": 3818
-        },
-        {
-            "page": "Roberto Ubaldini",
-            "pageView": 3611
-        },
-        {
-            "page": "Giovanni Battista Fioretti",
-            "pageView": 3127
-        },
-        {
-            "page": "Mario Specchio",
-            "pageView": 3064
-        },
-        {
-            "page": "Bartolomeo Massei",
-            "pageView": 2970
+            "pageView": 3,
+            "total": 4019
         },
         {
             "page": "Pietro Bucelli",
-            "pageView": 2849
-        },
-        {
-            "page": "Cesare Nerazzini",
-            "pageView": 2676
-        },
-        {
-            "page": "Pasquino da Montepulciano",
-            "pageView": 2603
+            "pageView": 3,
+            "total": 2849
         },
         {
             "page": "Bartolomeo Aragazzi",
-            "pageView": 2582
-        },
-        {
-            "page": "Roberto de' Nobili",
-            "pageView": 2552
-        },
-        {
-            "page": "Sallustio Tarugi",
-            "pageView": 2448
-        },
-        {
-            "page": "Benincasa (beato)",
-            "pageView": 2320
+            "pageView": 2,
+            "total": 2584
         },
         {
             "page": "Giovanni Boscoli",
-            "pageView": 2163
+            "pageView": 2,
+            "total": 2163
+        },
+        {
+            "page": "Benincasa (beato)",
+            "pageView": 2,
+            "total": 2322
+        },
+        {
+            "page": "Pasquino da Montepulciano",
+            "pageView": 2,
+            "total": 2606
+        },
+        {
+            "page": "Roberto de' Nobili",
+            "pageView": 2,
+            "total": 2552
+        },
+        {
+            "page": "Giovanni Battista Fioretti",
+            "pageView": 2,
+            "total": 3130
         },
         {
             "page": "Lidio Bozzini",
-            "pageView": 2102
+            "pageView": 2,
+            "total": 2102
         },
         {
-            "page": "Cesare Sabelli",
-            "pageView": 1905
-        },
-        {
-            "page": "Bartolomeo Pucci",
-            "pageView": 1607
-        },
-        {
-            "page": "Paolo Massei",
-            "pageView": 1462
-        },
-        {
-            "page": "Vincenzo Cozzani",
-            "pageView": 1421
-        },
-        {
-            "page": "Ilio Calabresi",
-            "pageView": 1416
-        },
-        {
-            "page": "Gabriello Puliti",
-            "pageView": 1311
-        },
-        {
-            "page": "Francesco Crociani",
-            "pageView": 1287
+            "page": "Bartolomeo Massei",
+            "pageView": 2,
+            "total": 2975
         },
         {
             "page": "Contuccio Contucci",
-            "pageView": 1256
+            "pageView": 2,
+            "total": 1256
         },
         {
-            "page": "Agnese di Montepulciano",
-            "pageView": 1064
+            "page": "Mario Specchio",
+            "pageView": 2,
+            "total": 3068
+        },
+        {
+            "page": "Ilio Calabresi",
+            "pageView": 2,
+            "total": 1416
+        },
+        {
+            "page": "Cesare Nerazzini",
+            "pageView": 2,
+            "total": 2677
+        },
+        {
+            "page": "Ugo Mioni",
+            "pageView": 2,
+            "total": 3820
+        },
+        {
+            "page": "Cesare Sabelli",
+            "pageView": 2,
+            "total": 1905
+        },
+        {
+            "page": "Francesco Maria Tarugi",
+            "pageView": 2,
+            "total": 3934
+        },
+        {
+            "page": "Sallustio Tarugi",
+            "pageView": 2,
+            "total": 2449
+        },
+        {
+            "page": "Roberto Ubaldini",
+            "pageView": 2,
+            "total": 3612
+        },
+        {
+            "page": "Vincenzo Cozzani",
+            "pageView": 1,
+            "total": 1422
+        },
+        {
+            "page": "Bartolomeo Pucci",
+            "pageView": 1,
+            "total": 1607
+        },
+        {
+            "page": "Gabriello Puliti",
+            "pageView": 1,
+            "total": 1311
         },
         {
             "page": "Giovanni Nardi (medico)",
-            "pageView": 1037
+            "pageView": 1,
+            "total": 1037
+        },
+        {
+            "page": "Francesco Crociani",
+            "pageView": 1,
+            "total": 1287
         },
         {
             "page": "Zelindo Ciro Boddi",
-            "pageView": 903
+            "pageView": 1,
+            "total": 904
+        },
+        {
+            "page": "Paolo Massei",
+            "pageView": 1,
+            "total": 1463
         },
         {
             "page": "Mario Mencatelli",
-            "pageView": 268
+            "pageView": 0,
+            "total": 268
         },
         {
             "page": "Bartolomeo Pucci-Franceschi",
-            "pageView": 47
+            "pageView": 0,
+            "total": 47
+        },
+        {
+            "page": "Agnese di Montepulciano",
+            "pageView": 0,
+            "total": 1070
         }
     ]
 }

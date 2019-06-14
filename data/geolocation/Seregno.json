@@ -1,0 +1,27 @@
+{
+    "id": "place.8418100175784130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seregno",
+    "place_name": "Seregno, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.174939,
+        45.631964,
+        9.241,
+        45.668212
+    ],
+    "center": [
+        9.2,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            45.65
+        ]
+    }
+}

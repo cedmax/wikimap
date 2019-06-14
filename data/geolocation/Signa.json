@@ -1,0 +1,27 @@
+{
+    "id": "place.9954887501679840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Signa",
+    "place_name": "Signa, Firenze, Italy",
+    "bbox": [
+        11.05624,
+        43.772977,
+        11.143312,
+        43.814525
+    ],
+    "center": [
+        11.1,
+        43.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.1,
+            43.78333
+        ]
+    }
+}

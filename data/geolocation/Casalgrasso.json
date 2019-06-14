@@ -1,0 +1,27 @@
+{
+    "id": "place.14615731006208440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalgrasso",
+    "place_name": "Casalgrasso, Cuneo, Italy",
+    "bbox": [
+        7.592008,
+        44.783582,
+        7.654147,
+        44.847425
+    ],
+    "center": [
+        7.63333,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63333,
+            44.81667
+        ]
+    }
+}

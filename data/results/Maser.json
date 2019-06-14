@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Andrea Palladio",
-            "pageView": 486387
-        },
-        {
-            "page": "Francesco Fanzago",
-            "pageView": 3240
+            "pageView": 303,
+            "total": 486617
         },
         {
             "page": "Angelo Dalmistro",
-            "pageView": 2055
+            "pageView": 2,
+            "total": 2055
+        },
+        {
+            "page": "Francesco Fanzago",
+            "pageView": 2,
+            "total": 3241
         }
     ]
 }

@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Luigi Morstabilini",
-            "pageView": 7650
+            "pageView": 5,
+            "total": 7655
         },
         {
             "page": "Giacomo Fornoni",
-            "pageView": 5094
-        },
-        {
-            "page": "Tito Terzi",
-            "pageView": 2536
+            "pageView": 3,
+            "total": 5098
         },
         {
             "page": "Berardo Cittadini",
-            "pageView": 2525
-        },
-        {
-            "page": "Carlo Maria Pensa",
-            "pageView": 2492
-        },
-        {
-            "page": "Antonio Gonzales (musicista)",
-            "pageView": 2322
+            "pageView": 2,
+            "total": 2525
         },
         {
             "page": "Sorelle De Marchi",
-            "pageView": 2197
+            "pageView": 2,
+            "total": 2197
         },
         {
-            "page": "Licinio Filisetti",
-            "pageView": 687
+            "page": "Carlo Maria Pensa",
+            "pageView": 2,
+            "total": 2499
+        },
+        {
+            "page": "Antonio Gonzales (musicista)",
+            "pageView": 2,
+            "total": 2323
+        },
+        {
+            "page": "Tito Terzi",
+            "pageView": 2,
+            "total": 2536
         },
         {
             "page": "Giovanni Buccelleni",
-            "pageView": 550
+            "pageView": 0,
+            "total": 551
+        },
+        {
+            "page": "Licinio Filisetti",
+            "pageView": 0,
+            "total": 687
         }
     ]
 }

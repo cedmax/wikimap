@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Ivano Baldanzeddu",
-            "pageView": 40349
+            "pageView": 19,
+            "total": 40356
         },
         {
             "page": "Carmine Nunziata",
-            "pageView": 37282
+            "pageView": 14,
+            "total": 37327
         },
         {
             "page": "Raffaele Cerbone",
-            "pageView": 16181
-        },
-        {
-            "page": "Emiliano Melis",
-            "pageView": 11356
-        },
-        {
-            "page": "Enrico Arcelli",
-            "pageView": 8735
-        },
-        {
-            "page": "Leandro Guaita",
-            "pageView": 8562
-        },
-        {
-            "page": "Fiorenzo D'Ainzara",
-            "pageView": 8005
+            "pageView": 10,
+            "total": 16195
         },
         {
             "page": "Giuseppe Mastinu",
-            "pageView": 6188
+            "pageView": 10,
+            "total": 6190
         },
         {
-            "page": "Patrizio Balleello",
-            "pageView": 5993
+            "page": "Enrico Arcelli",
+            "pageView": 7,
+            "total": 8739
+        },
+        {
+            "page": "Emiliano Melis",
+            "pageView": 7,
+            "total": 11361
+        },
+        {
+            "page": "Leandro Guaita",
+            "pageView": 7,
+            "total": 8581
+        },
+        {
+            "page": "Fiorenzo D'Ainzara",
+            "pageView": 5,
+            "total": 8011
         },
         {
             "page": "Sergio Bagatti",
-            "pageView": 5563
+            "pageView": 4,
+            "total": 5564
+        },
+        {
+            "page": "Patrizio Balleello",
+            "pageView": 4,
+            "total": 5995
         },
         {
             "page": "Viola Langella",
-            "pageView": 1532
+            "pageView": 2,
+            "total": 1536
         }
     ]
 }

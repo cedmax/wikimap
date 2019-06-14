@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Carlo Emanuele Madruzzo",
-            "pageView": 8241
-        },
-        {
-            "page": "Carlo Gaudenzio Madruzzo",
-            "pageView": 5010
+            "pageView": 5,
+            "total": 8242
         },
         {
             "page": "Renato di Challant",
-            "pageView": 4706
+            "pageView": 3,
+            "total": 4707
+        },
+        {
+            "page": "Carlo Gaudenzio Madruzzo",
+            "pageView": 3,
+            "total": 5011
         }
     ]
 }

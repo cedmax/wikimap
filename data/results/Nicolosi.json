@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Salvatore Pappalardo (1945)",
-            "pageView": 16582
+            "pageView": 10,
+            "total": 16593
         },
         {
             "page": "Eleonora d'Angiò",
-            "pageView": 12589
+            "pageView": 8,
+            "total": 12600
         },
         {
             "page": "Carlo Gemmellaro",
-            "pageView": 9124
+            "pageView": 6,
+            "total": 9128
         },
         {
             "page": "Giuseppe Anselmi",
-            "pageView": 4062
-        },
-        {
-            "page": "Salvatore Tomaselli",
-            "pageView": 3187
+            "pageView": 3,
+            "total": 4063
         },
         {
             "page": "Mario Gemmellaro",
-            "pageView": 2878
+            "pageView": 2,
+            "total": 2879
         },
         {
-            "page": "Antonino Longo",
-            "pageView": 1639
+            "page": "Salvatore Tomaselli",
+            "pageView": 2,
+            "total": 3188
         },
         {
             "page": "Atanasiu di Iaci",
-            "pageView": 1352
+            "pageView": 1,
+            "total": 1352
+        },
+        {
+            "page": "Antonino Longo",
+            "pageView": 1,
+            "total": 1639
         }
     ]
 }

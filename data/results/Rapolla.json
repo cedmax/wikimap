@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Nicola Chiaromonte",
-            "pageView": 15413
-        },
-        {
-            "page": "Gianfranco Todisco",
-            "pageView": 10992
+            "pageView": 10,
+            "total": 15429
         },
         {
             "page": "Ciro Fanelli",
-            "pageView": 8133
+            "pageView": 7,
+            "total": 8138
         },
         {
-            "page": "Alberto Costa",
-            "pageView": 5405
+            "page": "Gianfranco Todisco",
+            "pageView": 5,
+            "total": 10993
         },
         {
             "page": "Vito Paradiso",
-            "pageView": 4914
+            "pageView": 3,
+            "total": 4914
         },
         {
             "page": "Armando Franco",
-            "pageView": 4628
+            "pageView": 3,
+            "total": 4629
         },
         {
-            "page": "Vitale di Castronovo",
-            "pageView": 3593
-        },
-        {
-            "page": "Desiderio Scaglia",
-            "pageView": 3121
+            "page": "Alberto Costa",
+            "pageView": 3,
+            "total": 5407
         },
         {
             "page": "Gioacchino de Gemmis",
-            "pageView": 3105
-        },
-        {
-            "page": "Biagio Guarnaccio",
-            "pageView": 2690
-        },
-        {
-            "page": "Roberto Pucci (cardinale)",
-            "pageView": 2488
-        },
-        {
-            "page": "Mondilio Orsini",
-            "pageView": 2458
+            "pageView": 2,
+            "total": 3107
         },
         {
             "page": "Giovanni Vincenzo Acquaviva d'Aragona",
-            "pageView": 2415
+            "pageView": 2,
+            "total": 2420
+        },
+        {
+            "page": "Mondilio Orsini",
+            "pageView": 2,
+            "total": 2462
+        },
+        {
+            "page": "Roberto Pucci (cardinale)",
+            "pageView": 2,
+            "total": 2488
+        },
+        {
+            "page": "Desiderio Scaglia",
+            "pageView": 2,
+            "total": 3122
+        },
+        {
+            "page": "Biagio Guarnaccio",
+            "pageView": 2,
+            "total": 2690
+        },
+        {
+            "page": "Vitale di Castronovo",
+            "pageView": 2,
+            "total": 3594
         },
         {
             "page": "Domenico Rosso",
-            "pageView": 161
+            "pageView": 0,
+            "total": 161
         }
     ]
 }

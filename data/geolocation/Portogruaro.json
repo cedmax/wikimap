@@ -1,0 +1,27 @@
+{
+    "id": "place.10888215549112060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portogruaro",
+    "place_name": "Portogruaro, Venezia, Italy",
+    "bbox": [
+        12.727134,
+        45.698594,
+        12.981747,
+        45.816956
+    ],
+    "center": [
+        12.83333,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            45.78333
+        ]
+    }
+}

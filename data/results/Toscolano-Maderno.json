@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Giuseppe Zanardelli",
-            "pageView": 99852
+            "pageView": 68,
+            "total": 99932
         },
         {
             "page": "Osvaldo Cavandoli",
-            "pageView": 42066
+            "pageView": 27,
+            "total": 42081
         },
         {
             "page": "Ugo Locatelli",
-            "pageView": 17288
+            "pageView": 11,
+            "total": 17297
         },
         {
             "page": "Andrea Celesti",
-            "pageView": 7198
+            "pageView": 5,
+            "total": 7211
         },
         {
             "page": "Francesco Gonzaga (1577-1616)",
-            "pageView": 6531
+            "pageView": 4,
+            "total": 6534
         },
         {
             "page": "Paganino Paganini",
-            "pageView": 5536
-        },
-        {
-            "page": "Ferdinando Bellorini",
-            "pageView": 3431
-        },
-        {
-            "page": "Giuseppina Cobelli",
-            "pageView": 3373
+            "pageView": 3,
+            "total": 5539
         },
         {
             "page": "Andrea Fossati",
-            "pageView": 2801
-        },
-        {
-            "page": "Giuseppe Avanzini",
-            "pageView": 2690
-        },
-        {
-            "page": "Bartolomeo Bortolazzi",
-            "pageView": 2442
-        },
-        {
-            "page": "Pietro Serini",
-            "pageView": 2076
+            "pageView": 2,
+            "total": 2801
         },
         {
             "page": "Aldo Rebecchi",
-            "pageView": 1736
+            "pageView": 2,
+            "total": 1737
         },
         {
-            "page": "Giovanni Veronese",
-            "pageView": 1366
+            "page": "Ferdinando Bellorini",
+            "pageView": 2,
+            "total": 3433
         },
         {
-            "page": "Emilio Bianchi (astronomo)",
-            "pageView": 1357
+            "page": "Bartolomeo Bortolazzi",
+            "pageView": 2,
+            "total": 2443
+        },
+        {
+            "page": "Giuseppe Avanzini",
+            "pageView": 2,
+            "total": 2690
+        },
+        {
+            "page": "Giuseppina Cobelli",
+            "pageView": 2,
+            "total": 3374
+        },
+        {
+            "page": "Pietro Serini",
+            "pageView": 2,
+            "total": 2079
         },
         {
             "page": "Donato Fossati",
-            "pageView": 725
+            "pageView": 1,
+            "total": 726
         },
         {
-            "page": "Vincenzo Bendinelli",
-            "pageView": 686
+            "page": "Giovanni Veronese",
+            "pageView": 1,
+            "total": 1366
+        },
+        {
+            "page": "Emilio Bianchi (astronomo)",
+            "pageView": 1,
+            "total": 1358
         },
         {
             "page": "Giacomo Benvenuti",
-            "pageView": 497
+            "pageView": 0,
+            "total": 499
+        },
+        {
+            "page": "Vincenzo Bendinelli",
+            "pageView": 0,
+            "total": 687
         }
     ]
 }

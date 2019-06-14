@@ -2,80 +2,99 @@
     "name": "Santa Severina",
     "people": [
         {
-            "page": "Papa Zaccaria",
-            "pageView": 40450
+            "page": "Agazio Loiero",
+            "pageView": 24,
+            "total": 35874
         },
         {
-            "page": "Agazio Loiero",
-            "pageView": 35847
+            "page": "Papa Zaccaria",
+            "pageView": 23,
+            "total": 40465
         },
         {
             "page": "Giulio Antonio Santori",
-            "pageView": 17017
-        },
-        {
-            "page": "Enrico Aristippo",
-            "pageView": 3761
-        },
-        {
-            "page": "Carmelo Pujia (arcivescovo)",
-            "pageView": 3322
-        },
-        {
-            "page": "Diodato Borrelli",
-            "pageView": 3219
+            "pageView": 11,
+            "total": 17026
         },
         {
             "page": "Alfonso D'Alfonso",
-            "pageView": 2966
+            "pageView": 5,
+            "total": 2976
         },
         {
-            "page": "Nicolò d'Alfonso",
-            "pageView": 2923
-        },
-        {
-            "page": "Nicolò Carmine Falcone",
-            "pageView": 2702
-        },
-        {
-            "page": "Domenico Lucente",
-            "pageView": 2647
+            "page": "Enrico Aristippo",
+            "pageView": 2,
+            "total": 3762
         },
         {
             "page": "Michele Federici",
-            "pageView": 2217
+            "pageView": 2,
+            "total": 2217
+        },
+        {
+            "page": "Domenico Lucente",
+            "pageView": 2,
+            "total": 2647
+        },
+        {
+            "page": "Carmelo Pujia (arcivescovo)",
+            "pageView": 2,
+            "total": 3324
+        },
+        {
+            "page": "Nicolò d'Alfonso",
+            "pageView": 2,
+            "total": 2925
         },
         {
             "page": "Carlo Berlingeri",
-            "pageView": 2111
+            "pageView": 2,
+            "total": 2111
         },
         {
-            "page": "Annibale Raffaele Montalcini",
-            "pageView": 1795
+            "page": "Diodato Borrelli",
+            "pageView": 2,
+            "total": 3223
         },
         {
-            "page": "Alessandro della Marra",
-            "pageView": 1487
+            "page": "Nicolò Carmine Falcone",
+            "pageView": 2,
+            "total": 2705
         },
         {
             "page": "Muzio Soriano",
-            "pageView": 1462
+            "pageView": 1,
+            "total": 1463
         },
         {
-            "page": "Fausto Caffarelli",
-            "pageView": 816
+            "page": "Annibale Raffaele Montalcini",
+            "pageView": 1,
+            "total": 1795
         },
         {
-            "page": "Giovanni Battista Modio",
-            "pageView": 311
+            "page": "Alessandro della Marra",
+            "pageView": 1,
+            "total": 1488
         },
         {
             "page": "Simone Biondo",
-            "pageView": 236
+            "pageView": 0,
+            "total": 237
         },
         {
             "page": "Antonio Sangallo",
-            "pageView": 197
+            "pageView": 0,
+            "total": 197
+        },
+        {
+            "page": "Fausto Caffarelli",
+            "pageView": 0,
+            "total": 816
+        },
+        {
+            "page": "Giovanni Battista Modio",
+            "pageView": 0,
+            "total": 311
         }
     ]
 }

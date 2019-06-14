@@ -1,0 +1,27 @@
+{
+    "id": "place.16628683370396560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Geraci Siculo",
+    "place_name": "Geraci Siculo, Palermo, Italy",
+    "bbox": [
+        14.086012,
+        37.761557,
+        14.280274,
+        37.921814
+    ],
+    "center": [
+        14.15,
+        37.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.15,
+            37.86667
+        ]
+    }
+}

@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Rita Atria",
-            "pageView": 165561
+            "pageView": 78,
+            "total": 165629
         },
         {
             "page": "Corradino Mineo",
-            "pageView": 106410
-        },
-        {
-            "page": "Piera Aiello",
-            "pageView": 50685
+            "pageView": 49.5,
+            "total": 106443
         },
         {
             "page": "Vincenzo Li Causi",
-            "pageView": 47142
+            "pageView": 21,
+            "total": 47195
+        },
+        {
+            "page": "Piera Aiello",
+            "pageView": 18,
+            "total": 50713
         },
         {
             "page": "Gianni Partanna",
-            "pageView": 33093
+            "pageView": 14,
+            "total": 33145
         },
         {
             "page": "Claudio Undari",
-            "pageView": 22389
+            "pageView": 10,
+            "total": 22419
         },
         {
             "page": "Antonio Sanfilippo",
-            "pageView": 10646
-        },
-        {
-            "page": "Vincenzino Culicchia",
-            "pageView": 8499
+            "pageView": 7,
+            "total": 10659
         },
         {
             "page": "Giuseppe Palermo",
-            "pageView": 7120
+            "pageView": 5,
+            "total": 7128
         },
         {
-            "page": "Rosario Alagna",
-            "pageView": 5462
+            "page": "Vincenzino Culicchia",
+            "pageView": 4,
+            "total": 8501
         },
         {
             "page": "Giuseppe Parlato (funzionario)",
-            "pageView": 5209
+            "pageView": 3,
+            "total": 5212
         },
         {
             "page": "Stefano Caronia",
-            "pageView": 3782
+            "pageView": 2,
+            "total": 3784
+        },
+        {
+            "page": "Rosario Alagna",
+            "pageView": 2,
+            "total": 5476
         },
         {
             "page": "Bonaventura Stabile",
-            "pageView": 1744
+            "pageView": 1,
+            "total": 1745
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.12531135315728390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mogliano Veneto",
+    "place_name": "Mogliano Veneto, Treviso, Italy",
+    "bbox": [
+        12.181817,
+        45.53049,
+        12.343494,
+        45.604833
+    ],
+    "center": [
+        12.23639,
+        45.56194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23639,
+            45.56194
+        ]
+    }
+}

@@ -2,76 +2,94 @@
     "name": "Vieste",
     "people": [
         {
-            "page": "Tommaso Ragno",
-            "pageView": 151252
+            "page": "Papa Gregorio XIII",
+            "pageView": 92.5,
+            "total": 141931
         },
         {
-            "page": "Papa Gregorio XIII",
-            "pageView": 141860
+            "page": "Tommaso Ragno",
+            "pageView": 52,
+            "total": 151315
         },
         {
             "page": "Michele Castoro",
-            "pageView": 42129
+            "pageView": 14,
+            "total": 42139
         },
         {
             "page": "Domenico Umberto D'Ambrosio",
-            "pageView": 25278
+            "pageView": 14,
+            "total": 25287
         },
         {
             "page": "Antonio Cariglia",
-            "pageView": 14410
-        },
-        {
-            "page": "Domenico Sesta",
-            "pageView": 7910
+            "pageView": 9,
+            "total": 14421
         },
         {
             "page": "Vincenzo D'Addario",
-            "pageView": 6487
+            "pageView": 4,
+            "total": 6492
         },
         {
-            "page": "Pierluigi Torre",
-            "pageView": 4644
-        },
-        {
-            "page": "Argiro (politico bizantino)",
-            "pageView": 4441
+            "page": "Domenico Sesta",
+            "pageView": 3,
+            "total": 7911
         },
         {
             "page": "Valentino Vailati",
-            "pageView": 4331
+            "pageView": 3,
+            "total": 4333
         },
         {
-            "page": "Franco Moscone",
-            "pageView": 4160
+            "page": "Argiro (politico bizantino)",
+            "pageView": 3,
+            "total": 4445
+        },
+        {
+            "page": "Pierluigi Torre",
+            "pageView": 3,
+            "total": 4645
         },
         {
             "page": "Leonardo Buonafede",
-            "pageView": 3736
-        },
-        {
-            "page": "Vincenzo Giuliani",
-            "pageView": 2372
-        },
-        {
-            "page": "Francesco Dell'Erba",
-            "pageView": 2189
+            "pageView": 2,
+            "total": 3744
         },
         {
             "page": "Giacomo Accarisi",
-            "pageView": 2067
+            "pageView": 2,
+            "total": 2068
+        },
+        {
+            "page": "Francesco Dell'Erba",
+            "pageView": 2,
+            "total": 2189
+        },
+        {
+            "page": "Vincenzo Giuliani",
+            "pageView": 2,
+            "total": 2372
         },
         {
             "page": "Domenicantonio Spina Diana",
-            "pageView": 1610
+            "pageView": 1,
+            "total": 1610
+        },
+        {
+            "page": "Franco Moscone",
+            "pageView": 0,
+            "total": 4169
         },
         {
             "page": "Michele Protano",
-            "pageView": 594
+            "pageView": 0,
+            "total": 594
         },
         {
             "page": "Lorenzo Fazzini",
-            "pageView": 486
+            "pageView": 0,
+            "total": 513
         }
     ]
 }

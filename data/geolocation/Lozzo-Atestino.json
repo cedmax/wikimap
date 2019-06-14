@@ -1,0 +1,27 @@
+{
+    "id": "place.12144344068885500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lozzo Atestino",
+    "place_name": "Lozzo Atestino, Padova, Italy",
+    "bbox": [
+        11.579998,
+        45.25602,
+        11.641445,
+        45.318466
+    ],
+    "center": [
+        11.63333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63333,
+            45.28333
+        ]
+    }
+}

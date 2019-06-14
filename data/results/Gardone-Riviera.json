@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Gabriele D'Annunzio",
-            "pageView": 2619454
+            "pageView": 1588,
+            "total": 2623468
         },
         {
             "page": "Mario Camerini",
-            "pageView": 56353
+            "pageView": 36,
+            "total": 56381
         },
         {
             "page": "Ernesto Nathan Rogers",
-            "pageView": 45029
-        },
-        {
-            "page": "Roberto Visentini",
-            "pageView": 36866
+            "pageView": 30,
+            "total": 45053
         },
         {
             "page": "Maria Hardouin",
-            "pageView": 36607
+            "pageView": 23,
+            "total": 36647
+        },
+        {
+            "page": "Roberto Visentini",
+            "pageView": 17,
+            "total": 36894
         },
         {
             "page": "Raffaella Curiel",
-            "pageView": 14354
+            "pageView": 8,
+            "total": 14363
         },
         {
             "page": "Michelangelo Abbado",
-            "pageView": 11483
-        },
-        {
-            "page": "Eugenio Bava",
-            "pageView": 6700
+            "pageView": 7,
+            "total": 11495
         },
         {
             "page": "Francesco Ercole",
-            "pageView": 6327
+            "pageView": 4,
+            "total": 6332
+        },
+        {
+            "page": "Eugenio Bava",
+            "pageView": 4,
+            "total": 6702
         },
         {
             "page": "Augusto Lozzia",
-            "pageView": 2543
+            "pageView": 2,
+            "total": 2544
         },
         {
             "page": "Cosimo Canovetti",
-            "pageView": 1863
+            "pageView": 1,
+            "total": 1864
         },
         {
             "page": "Cristiano Ridomi",
-            "pageView": 572
+            "pageView": 0,
+            "total": 572
         }
     ]
 }

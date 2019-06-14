@@ -1,0 +1,27 @@
+{
+    "id": "place.7463096256522530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terracina",
+    "place_name": "Terracina, Latina, Italy",
+    "bbox": [
+        13.060515,
+        41.258469,
+        13.314115,
+        41.37788
+    ],
+    "center": [
+        13.25,
+        41.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            41.28333
+        ]
+    }
+}

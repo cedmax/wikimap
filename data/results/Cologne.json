@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Gervasio Chiari",
-            "pageView": 5865
-        },
-        {
-            "page": "Faustino Turra",
-            "pageView": 5608
-        },
-        {
-            "page": "Sergio Vignoni",
-            "pageView": 5472
+            "pageView": 4,
+            "total": 5869
         },
         {
             "page": "Faustino Goffi",
-            "pageView": 5449
+            "pageView": 3,
+            "total": 5454
         },
         {
-            "page": "Ida Travi",
-            "pageView": 3626
+            "page": "Faustino Turra",
+            "pageView": 3,
+            "total": 5610
+        },
+        {
+            "page": "Sergio Vignoni",
+            "pageView": 3,
+            "total": 5480
         },
         {
             "page": "Silvano Dal Seno",
-            "pageView": 3299
+            "pageView": 2,
+            "total": 3300
+        },
+        {
+            "page": "Ida Travi",
+            "pageView": 2,
+            "total": 3627
         }
     ]
 }

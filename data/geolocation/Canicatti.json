@@ -1,0 +1,27 @@
+{
+    "id": "place.7157755514648370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canicattì",
+    "place_name": "Canicattì, Agrigento, Italy",
+    "bbox": [
+        13.761459,
+        37.317839,
+        13.910118,
+        37.437675
+    ],
+    "center": [
+        13.85111,
+        37.36
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85111,
+            37.36
+        ]
+    }
+}

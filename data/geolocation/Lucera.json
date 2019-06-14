@@ -1,0 +1,27 @@
+{
+    "id": "place.16897892783768290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lucera",
+    "place_name": "Lucera, Foggia, Italy",
+    "bbox": [
+        15.189731,
+        41.392349,
+        15.479247,
+        41.600435
+    ],
+    "center": [
+        15.33333,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.33333,
+            41.5
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1331439862000",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sezze",
+    "place_name": "Sezze, Piazza Margherita, Sezze, Latina 04018, Italy",
+    "center": [
+        13.060433499999998,
+        41.4993185
+    ],
+    "geometry": {
+        "coordinates": [
+            13.060433499999998,
+            41.4993185
+        ],
+        "type": "Point"
+    }
+}

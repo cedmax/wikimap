@@ -1,0 +1,27 @@
+{
+    "id": "place.5172600678838470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altavilla Vicentina",
+    "place_name": "Altavilla Vicentina, Vicenza, Italy",
+    "bbox": [
+        11.441017,
+        45.48065,
+        11.510708,
+        45.52614
+    ],
+    "center": [
+        11.45,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.51667
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Cesare Boschin",
-            "pageView": 9147
+            "pageView": 5,
+            "total": 9155
         },
         {
             "page": "Eugenio Beccegato",
-            "pageView": 2917
+            "pageView": 2,
+            "total": 2922
         },
         {
             "page": "Luciano Cian",
-            "pageView": 2832
+            "pageView": 2,
+            "total": 2832
         },
         {
             "page": "Enzo Zotti",
-            "pageView": 1107
+            "pageView": 1,
+            "total": 1107
         },
         {
             "page": "Italo Sacchetto",
-            "pageView": 590
+            "pageView": 0,
+            "total": 590
         }
     ]
 }

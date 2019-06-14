@@ -1,0 +1,27 @@
+{
+    "id": "place.1543650990113660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cison di Valmarino",
+    "place_name": "Cison di Valmarino, Treviso, Italy",
+    "bbox": [
+        12.13337,
+        45.936893,
+        12.202099,
+        46.014098
+    ],
+    "center": [
+        12.14306,
+        45.97028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.14306,
+            45.97028
+        ]
+    }
+}

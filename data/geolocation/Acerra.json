@@ -1,0 +1,27 @@
+{
+    "id": "place.9188622900229640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acerra",
+    "place_name": "Acerra, Napoli, Italy",
+    "bbox": [
+        14.334169,
+        40.920369,
+        14.457717,
+        41.002532
+    ],
+    "center": [
+        14.36667,
+        40.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            40.95
+        ]
+    }
+}

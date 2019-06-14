@@ -1,0 +1,27 @@
+{
+    "id": "place.7961694847483050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellania",
+    "place_name": "Castellania, Alessandria, Italy",
+    "bbox": [
+        8.914299,
+        44.782847,
+        8.965317,
+        44.812001
+    ],
+    "center": [
+        8.93139,
+        44.79944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93139,
+            44.79944
+        ]
+    }
+}

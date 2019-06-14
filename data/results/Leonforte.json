@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Salvo (artista)",
-            "pageView": 19277
+            "pageView": 11,
+            "total": 19285
         },
         {
             "page": "Nicolò Fragile",
-            "pageView": 15797
+            "pageView": 9,
+            "total": 15805
         },
         {
             "page": "Antonino Buttafuoco",
-            "pageView": 14363
-        },
-        {
-            "page": "Filippo Liardo",
-            "pageView": 4539
+            "pageView": 7,
+            "total": 14366
         },
         {
             "page": "Giuseppe Antonino Laneri",
-            "pageView": 2928
+            "pageView": 4,
+            "total": 2935
+        },
+        {
+            "page": "Filippo Liardo",
+            "pageView": 2,
+            "total": 4539
         },
         {
             "page": "Ignazio Nigrelli",
-            "pageView": 2764
+            "pageView": 2,
+            "total": 2766
         },
         {
             "page": "Francesco Tenerelli",
-            "pageView": 2201
+            "pageView": 2,
+            "total": 2201
         },
         {
             "page": "Michele Stornello",
-            "pageView": 896
+            "pageView": 1,
+            "total": 896
         }
     ]
 }

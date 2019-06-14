@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Attilio Celant",
-            "pageView": 4263
+            "pageView": 3,
+            "total": 4263
         },
         {
             "page": "Giuseppe Ovio",
-            "pageView": 1404
+            "pageView": 1,
+            "total": 1405
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.5925634856771860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Molazzana",
+    "place_name": "Molazzana, Lucca, Italy",
+    "bbox": [
+        10.314122,
+        44.036707,
+        10.445133,
+        44.098149
+    ],
+    "center": [
+        10.41667,
+        44.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41667,
+            44.06667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7100274534056170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tripi",
+    "place_name": "Tripi, Messina, Italy",
+    "bbox": [
+        15.045105,
+        37.967888,
+        15.125894,
+        38.106647
+    ],
+    "center": [
+        15.1,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            38.05
+        ]
+    }
+}

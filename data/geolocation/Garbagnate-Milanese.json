@@ -1,0 +1,27 @@
+{
+    "id": "place.5156947576988360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Garbagnate Milanese",
+    "place_name": "Garbagnate Milanese, Milano, Italy",
+    "bbox": [
+        9.049519,
+        45.559248,
+        9.102049,
+        45.588329
+    ],
+    "center": [
+        9.06667,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06667,
+            45.58333
+        ]
+    }
+}

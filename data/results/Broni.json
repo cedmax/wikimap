@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Simone Verdi",
-            "pageView": 877132
+            "pageView": 217,
+            "total": 877291
         },
         {
             "page": "Tiziano Sclavi",
-            "pageView": 145343
+            "pageView": 81,
+            "total": 145399
         },
         {
             "page": "Cecilia Zandalasini",
-            "pageView": 129398
+            "pageView": 31,
+            "total": 129480
         },
         {
             "page": "Paolo Baffi",
-            "pageView": 41893
+            "pageView": 23,
+            "total": 41976
         },
         {
             "page": "Alberto Alesina",
-            "pageView": 37941
+            "pageView": 19,
+            "total": 37978
         },
         {
             "page": "Giorgio Soavi",
-            "pageView": 12108
+            "pageView": 8,
+            "total": 12115
         },
         {
             "page": "Mauro Boerchio",
-            "pageView": 11970
+            "pageView": 6,
+            "total": 12008
         },
         {
             "page": "Gian Carlo Abelli",
-            "pageView": 9774
+            "pageView": 4,
+            "total": 9779
         },
         {
             "page": "Contardo d'Este",
-            "pageView": 8044
-        },
-        {
-            "page": "Maria Jottini",
-            "pageView": 5203
+            "pageView": 4,
+            "total": 8046
         },
         {
             "page": "Giuseppe Mangiarotti",
-            "pageView": 4917
-        },
-        {
-            "page": "Alessandro Sisti",
-            "pageView": 4629
-        },
-        {
-            "page": "Contardo Barbieri",
-            "pageView": 4316
+            "pageView": 3,
+            "total": 4954
         },
         {
             "page": "Umberto Petrin",
-            "pageView": 3985
+            "pageView": 3,
+            "total": 3990
+        },
+        {
+            "page": "Contardo Barbieri",
+            "pageView": 3,
+            "total": 4317
+        },
+        {
+            "page": "Alessandro Sisti",
+            "pageView": 3,
+            "total": 4630
+        },
+        {
+            "page": "Maria Jottini",
+            "pageView": 3,
+            "total": 5206
         },
         {
             "page": "Enrico Fagone",
-            "pageView": 3598
+            "pageView": 2,
+            "total": 3598
         },
         {
             "page": "Mauro Salvaneschi",
-            "pageView": 3100
-        },
-        {
-            "page": "Michele Molese",
-            "pageView": 3079
+            "pageView": 2,
+            "total": 3103
         },
         {
             "page": "Maria Adelaide Raschini",
-            "pageView": 2182
+            "pageView": 2,
+            "total": 2182
+        },
+        {
+            "page": "Michele Molese",
+            "pageView": 2,
+            "total": 3081
         },
         {
             "page": "Carlo Colombetti",
-            "pageView": 1910
+            "pageView": 2,
+            "total": 1913
         },
         {
             "page": "Giuseppe Faravelli",
-            "pageView": 623
+            "pageView": 0,
+            "total": 623
         }
     ]
 }

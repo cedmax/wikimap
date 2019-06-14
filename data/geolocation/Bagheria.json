@@ -1,0 +1,27 @@
+{
+    "id": "place.9914822956165080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagheria",
+    "place_name": "Bagheria, Palermo, Italy",
+    "bbox": [
+        13.465693,
+        38.03528,
+        13.533456,
+        38.119429
+    ],
+    "center": [
+        13.5,
+        38.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5,
+            38.08333
+        ]
+    }
+}

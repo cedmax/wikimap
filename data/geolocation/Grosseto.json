@@ -1,0 +1,27 @@
+{
+    "id": "place.4268951386328610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grosseto",
+    "place_name": "Grosseto, Grosseto, Italy",
+    "bbox": [
+        10.911415,
+        42.627531,
+        11.231274,
+        42.923855
+    ],
+    "center": [
+        11.10889,
+        42.77222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.10889,
+            42.77222
+        ]
+    }
+}

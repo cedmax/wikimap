@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Fabio Gava",
-            "pageView": 7424
+            "pageView": 5,
+            "total": 7427
         },
         {
             "page": "Enrico Benetti",
-            "pageView": 1389
+            "pageView": 2,
+            "total": 1391
         },
         {
             "page": "Bonaventura Cipriani",
-            "pageView": 1371
+            "pageView": 1,
+            "total": 1373
         }
     ]
 }

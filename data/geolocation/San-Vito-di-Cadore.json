@@ -1,0 +1,27 @@
+{
+    "id": "place.12147252867052480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito di Cadore",
+    "place_name": "San Vito di Cadore, Belluno, Italy",
+    "bbox": [
+        12.050986,
+        46.444416,
+        12.270486,
+        46.508452
+    ],
+    "center": [
+        12.21667,
+        46.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21667,
+            46.45
+        ]
+    }
+}

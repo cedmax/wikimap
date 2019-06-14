@@ -1,0 +1,27 @@
+{
+    "id": "place.5678523555919760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cusago",
+    "place_name": "Cusago, Milano, Italy",
+    "bbox": [
+        9.001822,
+        45.4261,
+        9.054962,
+        45.469295
+    ],
+    "center": [
+        9.03333,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.45
+        ]
+    }
+}

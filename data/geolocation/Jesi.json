@@ -1,0 +1,27 @@
+{
+    "id": "place.11389346673980220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Jesi",
+    "place_name": "Jesi, Ancona, Italy",
+    "bbox": [
+        13.169173,
+        43.458847,
+        13.344719,
+        43.587827
+    ],
+    "center": [
+        13.24395,
+        43.52279
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.24395,
+            43.52279
+        ]
+    }
+}

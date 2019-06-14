@@ -1,0 +1,27 @@
+{
+    "id": "place.9431430681998030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lodi",
+    "place_name": "Lodi, Lodi, Italy",
+    "bbox": [
+        9.442125,
+        45.278689,
+        9.552188,
+        45.351992
+    ],
+    "center": [
+        9.5,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.5,
+            45.31667
+        ]
+    }
+}

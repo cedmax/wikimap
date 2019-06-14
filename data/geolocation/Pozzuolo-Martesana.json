@@ -1,0 +1,27 @@
+{
+    "id": "place.13857980187073320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzuolo Martesana",
+    "place_name": "Pozzuolo Martesana, Milano, Italy",
+    "bbox": [
+        9.42516,
+        45.49024,
+        9.496063,
+        45.531163
+    ],
+    "center": [
+        9.45,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.45,
+            45.51667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7047701344978200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Goffredo",
+    "place_name": "Castel Goffredo, Mantova, Italy",
+    "bbox": [
+        10.424269,
+        45.266601,
+        10.546207,
+        45.334744
+    ],
+    "center": [
+        10.475,
+        45.29778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.475,
+            45.29778
+        ]
+    }
+}

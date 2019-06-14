@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Luigi Einaudi",
-            "pageView": 557916
+            "pageView": 331,
+            "total": 558312
         },
         {
             "page": "Francesco Tomatis",
-            "pageView": 5919
+            "pageView": 4,
+            "total": 5921
         },
         {
             "page": "Celestino Galli",
-            "pageView": 3274
+            "pageView": 2,
+            "total": 3277
         },
         {
             "page": "Antonio Scuero",
-            "pageView": 2259
+            "pageView": 2,
+            "total": 2259
         },
         {
             "page": "Felice Cenacchio",
-            "pageView": 470
+            "pageView": 0,
+            "total": 470
         }
     ]
 }

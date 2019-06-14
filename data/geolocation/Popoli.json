@@ -1,0 +1,27 @@
+{
+    "id": "place.18949541005083970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Popoli",
+    "place_name": "Popoli, Pescara, Italy",
+    "bbox": [
+        13.789603,
+        42.143013,
+        13.899891,
+        42.197993
+    ],
+    "center": [
+        13.83167,
+        42.17083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83167,
+            42.17083
+        ]
+    }
+}

@@ -3,311 +3,388 @@
     "people": [
         {
             "page": "Piero della Francesca",
-            "pageView": 575178
+            "pageView": 378,
+            "total": 575405
         },
         {
             "page": "Luca Pacioli",
-            "pageView": 119965
+            "pageView": 81,
+            "total": 120055
         },
         {
             "page": "Gualtiero Bassetti",
-            "pageView": 86421
+            "pageView": 38,
+            "total": 86465
         },
         {
             "page": "Valerio Gildoni",
-            "pageView": 38628
+            "pageView": 20,
+            "total": 38642
         },
         {
             "page": "Giuseppe Fanfani",
-            "pageView": 23847
+            "pageView": 12,
+            "total": 23862
         },
         {
             "page": "Riccardo Fontana",
-            "pageView": 20761
-        },
-        {
-            "page": "Flavio Roberto Carraro",
-            "pageView": 14873
-        },
-        {
-            "page": "Davide Mezzanotti",
-            "pageView": 13685
+            "pageView": 12,
+            "total": 20775
         },
         {
             "page": "Matteo di Giovanni",
-            "pageView": 13338
+            "pageView": 9,
+            "total": 13352
+        },
+        {
+            "page": "Flavio Roberto Carraro",
+            "pageView": 9,
+            "total": 14886
+        },
+        {
+            "page": "Davide Mezzanotti",
+            "pageView": 9,
+            "total": 13694
         },
         {
             "page": "Diocesi di Sansepolcro",
-            "pageView": 12538
+            "pageView": 7,
+            "total": 12545
         },
         {
             "page": "Raffaellino del Colle",
-            "pageView": 11791
+            "pageView": 7,
+            "total": 11803
         },
         {
             "page": "Bruno Nespoli",
-            "pageView": 10137
-        },
-        {
-            "page": "Roberto Finzi",
-            "pageView": 9381
-        },
-        {
-            "page": "Abele Conigli",
-            "pageView": 7100
+            "pageView": 6,
+            "total": 10137
         },
         {
             "page": "Beatrice Agrifoglio",
-            "pageView": 6747
-        },
-        {
-            "page": "Alessandro Franceschini",
-            "pageView": 6715
+            "pageView": 4,
+            "total": 6751
         },
         {
             "page": "Cherubino Alberti",
-            "pageView": 6246
+            "pageView": 4,
+            "total": 6247
         },
         {
-            "page": "Niccolò Aggiunti",
-            "pageView": 6081
-        },
-        {
-            "page": "Filippo Archinto",
-            "pageView": 5306
+            "page": "Abele Conigli",
+            "pageView": 4,
+            "total": 7104
         },
         {
             "page": "Giovanni De Vecchi",
-            "pageView": 5299
+            "pageView": 3,
+            "total": 5302
         },
         {
             "page": "Francesco del Borgo",
-            "pageView": 4970
+            "pageView": 3,
+            "total": 4973
+        },
+        {
+            "page": "Filippo Archinto",
+            "pageView": 3,
+            "total": 5310
+        },
+        {
+            "page": "Roberto Finzi",
+            "pageView": 3,
+            "total": 9383
+        },
+        {
+            "page": "Alessandro Franceschini",
+            "pageView": 3,
+            "total": 6717
         },
         {
             "page": "Angiolo Tricca",
-            "pageView": 4928
-        },
-        {
-            "page": "Ranieri dal Borgo",
-            "pageView": 4672
-        },
-        {
-            "page": "Cristoforo Gherardi",
-            "pageView": 4572
-        },
-        {
-            "page": "Durante Alberti",
-            "pageView": 4087
+            "pageView": 3,
+            "total": 4929
         },
         {
             "page": "Leonardo Tornabuoni",
-            "pageView": 3860
+            "pageView": 3,
+            "total": 3865
         },
         {
-            "page": "Roberto Costaguti",
-            "pageView": 3853
-        },
-        {
-            "page": "Pompeo Ghezzi",
-            "pageView": 3712
-        },
-        {
-            "page": "Andrea Dotti (beato)",
-            "pageView": 3505
-        },
-        {
-            "page": "Giovanni D'Ascenzi",
-            "pageView": 3438
-        },
-        {
-            "page": "Roberto Tofi",
-            "pageView": 3248
-        },
-        {
-            "page": "Arcano da Sansepolcro",
-            "pageView": 3180
-        },
-        {
-            "page": "Remigio Cantagallina",
-            "pageView": 3091
-        },
-        {
-            "page": "Galeotto Graziani",
-            "pageView": 3089
-        },
-        {
-            "page": "Duilio Mengozzi",
-            "pageView": 3042
-        },
-        {
-            "page": "Andrea Piccini",
-            "pageView": 2912
-        },
-        {
-            "page": "Ubaldo Adimari",
-            "pageView": 2905
-        },
-        {
-            "page": "Enzo Mattesini",
-            "pageView": 2813
-        },
-        {
-            "page": "Alberto di Giovanni Alberti",
-            "pageView": 2750
-        },
-        {
-            "page": "Domenico Bornigia",
-            "pageView": 2724
-        },
-        {
-            "page": "Athos Fiordelli",
-            "pageView": 2653
-        },
-        {
-            "page": "Niccolò Tornabuoni",
-            "pageView": 2595
-        },
-        {
-            "page": "Angelo Scarpetti",
-            "pageView": 2477
-        },
-        {
-            "page": "Zanobi de' Medici",
-            "pageView": 2348
-        },
-        {
-            "page": "Nero Alberti da Sansepolcro",
-            "pageView": 2327
-        },
-        {
-            "page": "Franco Polcri",
-            "pageView": 2302
-        },
-        {
-            "page": "Alfonso Tornabuoni",
-            "pageView": 2244
-        },
-        {
-            "page": "Michele Alberti",
-            "pageView": 2201
-        },
-        {
-            "page": "Luigi Monti (aviatore)",
-            "pageView": 2189
-        },
-        {
-            "page": "Luigi Bosi",
-            "pageView": 1976
-        },
-        {
-            "page": "Secondo Giorni",
-            "pageView": 1968
-        },
-        {
-            "page": "Lando Landucci",
-            "pageView": 1968
-        },
-        {
-            "page": "Emanuele Calchetti",
-            "pageView": 1951
-        },
-        {
-            "page": "Francesca Olivoni",
-            "pageView": 1917
-        },
-        {
-            "page": "Gino Franceschini",
-            "pageView": 1914
-        },
-        {
-            "page": "Evelyn Franceschi Marini",
-            "pageView": 1901
-        },
-        {
-            "page": "Federico Nomi",
-            "pageView": 1900
-        },
-        {
-            "page": "Giovanni Abbarbagliati",
-            "pageView": 1728
-        },
-        {
-            "page": "Franco Folli (medico)",
-            "pageView": 1707
-        },
-        {
-            "page": "Arioldo Arioldi",
-            "pageView": 1592
-        },
-        {
-            "page": "Giulio Boninsegni",
-            "pageView": 1514
-        },
-        {
-            "page": "Orlando Pucci",
-            "pageView": 1422
-        },
-        {
-            "page": "Filippo Tornabuoni",
-            "pageView": 1285
+            "page": "Durante Alberti",
+            "pageView": 3,
+            "total": 4090
         },
         {
             "page": "Francesco D'Amore",
-            "pageView": 1282
+            "pageView": 3,
+            "total": 1283
+        },
+        {
+            "page": "Ranieri dal Borgo",
+            "pageView": 3,
+            "total": 4672
+        },
+        {
+            "page": "Cristoforo Gherardi",
+            "pageView": 3,
+            "total": 4572
+        },
+        {
+            "page": "Ubaldo Adimari",
+            "pageView": 2,
+            "total": 2907
+        },
+        {
+            "page": "Niccolò Aggiunti",
+            "pageView": 2,
+            "total": 6084
+        },
+        {
+            "page": "Zanobi de' Medici",
+            "pageView": 2,
+            "total": 2352
+        },
+        {
+            "page": "Alberto di Giovanni Alberti",
+            "pageView": 2,
+            "total": 2752
+        },
+        {
+            "page": "Pompeo Ghezzi",
+            "pageView": 2,
+            "total": 3715
+        },
+        {
+            "page": "Gino Franceschini",
+            "pageView": 2,
+            "total": 1914
+        },
+        {
+            "page": "Roberto Costaguti",
+            "pageView": 2,
+            "total": 3857
+        },
+        {
+            "page": "Giovanni D'Ascenzi",
+            "pageView": 2,
+            "total": 3441
+        },
+        {
+            "page": "Michele Alberti",
+            "pageView": 2,
+            "total": 2202
+        },
+        {
+            "page": "Nero Alberti da Sansepolcro",
+            "pageView": 2,
+            "total": 2328
+        },
+        {
+            "page": "Galeotto Graziani",
+            "pageView": 2,
+            "total": 3091
         },
         {
             "page": "Simone Graziani",
-            "pageView": 1263
+            "pageView": 2,
+            "total": 1263
         },
         {
-            "page": "Duilio Gigli",
-            "pageView": 1245
+            "page": "Domenico Bornigia",
+            "pageView": 2,
+            "total": 2726
         },
         {
-            "page": "Giovanni Gualtieri",
-            "pageView": 1155
+            "page": "Emanuele Calchetti",
+            "pageView": 2,
+            "total": 1952
         },
         {
-            "page": "Giambattista Collacchioni",
-            "pageView": 1141
+            "page": "Remigio Cantagallina",
+            "pageView": 2,
+            "total": 3091
         },
         {
-            "page": "Girolamo Incontri",
-            "pageView": 1110
+            "page": "Duilio Mengozzi",
+            "pageView": 2,
+            "total": 3042
+        },
+        {
+            "page": "Luigi Monti (aviatore)",
+            "pageView": 2,
+            "total": 2195
+        },
+        {
+            "page": "Andrea Dotti (beato)",
+            "pageView": 2,
+            "total": 3507
+        },
+        {
+            "page": "Federico Nomi",
+            "pageView": 2,
+            "total": 1900
+        },
+        {
+            "page": "Arcano da Sansepolcro",
+            "pageView": 2,
+            "total": 3183
         },
         {
             "page": "Alessandro Borghi (vescovo)",
-            "pageView": 1092
+            "pageView": 2,
+            "total": 1093
+        },
+        {
+            "page": "Luigi Bosi",
+            "pageView": 2,
+            "total": 1976
+        },
+        {
+            "page": "Angelo Scarpetti",
+            "pageView": 2,
+            "total": 2479
+        },
+        {
+            "page": "Secondo Giorni",
+            "pageView": 2,
+            "total": 1972
+        },
+        {
+            "page": "Roberto Tofi",
+            "pageView": 2,
+            "total": 3249
+        },
+        {
+            "page": "Lando Landucci",
+            "pageView": 2,
+            "total": 1970
+        },
+        {
+            "page": "Alfonso Tornabuoni",
+            "pageView": 2,
+            "total": 2247
+        },
+        {
+            "page": "Enzo Mattesini",
+            "pageView": 2,
+            "total": 2816
+        },
+        {
+            "page": "Franco Polcri",
+            "pageView": 2,
+            "total": 2302
+        },
+        {
+            "page": "Athos Fiordelli",
+            "pageView": 2,
+            "total": 2655
+        },
+        {
+            "page": "Andrea Piccini",
+            "pageView": 2,
+            "total": 2917
+        },
+        {
+            "page": "Niccolò Tornabuoni",
+            "pageView": 2,
+            "total": 2600
+        },
+        {
+            "page": "Francesca Olivoni",
+            "pageView": 2,
+            "total": 1918
+        },
+        {
+            "page": "Giovanni Abbarbagliati",
+            "pageView": 2,
+            "total": 1731
+        },
+        {
+            "page": "Filippo Tornabuoni",
+            "pageView": 1,
+            "total": 1288
         },
         {
             "page": "Stefano Mucciarelli",
-            "pageView": 1077
+            "pageView": 1,
+            "total": 1078
         },
         {
             "page": "Lorenzo Coleschi",
-            "pageView": 1047
+            "pageView": 1,
+            "total": 1047
+        },
+        {
+            "page": "Duilio Gigli",
+            "pageView": 1,
+            "total": 1245
         },
         {
             "page": "Livio Boncompagni",
-            "pageView": 1020
+            "pageView": 1,
+            "total": 1021
+        },
+        {
+            "page": "Arioldo Arioldi",
+            "pageView": 1,
+            "total": 1595
+        },
+        {
+            "page": "Girolamo Incontri",
+            "pageView": 1,
+            "total": 1110
+        },
+        {
+            "page": "Giovanni Gualtieri",
+            "pageView": 1,
+            "total": 1156
+        },
+        {
+            "page": "Giambattista Collacchioni",
+            "pageView": 1,
+            "total": 1141
+        },
+        {
+            "page": "Orlando Pucci",
+            "pageView": 1,
+            "total": 1422
+        },
+        {
+            "page": "Evelyn Franceschi Marini",
+            "pageView": 1,
+            "total": 1902
+        },
+        {
+            "page": "Franco Folli (medico)",
+            "pageView": 1,
+            "total": 1709
+        },
+        {
+            "page": "Giulio Boninsegni",
+            "pageView": 1,
+            "total": 1514
         },
         {
             "page": "Giovanni Battista Mercati",
-            "pageView": 620
-        },
-        {
-            "page": "Giovanni Alberti (pittore)",
-            "pageView": 531
+            "pageView": 0,
+            "total": 620
         },
         {
             "page": "Alessandro Alberti (pittore)",
-            "pageView": 316
+            "pageView": 0,
+            "total": 317
+        },
+        {
+            "page": "Giovanni Alberti (pittore)",
+            "pageView": 0,
+            "total": 531
         },
         {
             "page": "Giorgio Graziosi",
-            "pageView": 252
+            "pageView": 0,
+            "total": 252
         }
     ]
 }

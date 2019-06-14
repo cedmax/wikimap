@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Toni Servillo",
-            "pageView": 846001
-        },
-        {
-            "page": "Antonio Bassolino",
-            "pageView": 123711
+            "pageView": 415,
+            "total": 846289
         },
         {
             "page": "Vincenzo Spadafora",
-            "pageView": 81471
+            "pageView": 88,
+            "total": 81531
+        },
+        {
+            "page": "Antonio Bassolino",
+            "pageView": 58,
+            "total": 123773
         },
         {
             "page": "Anna Mazza",
-            "pageView": 67465
-        },
-        {
-            "page": "Giuseppina Castiello",
-            "pageView": 29805
+            "pageView": 34,
+            "total": 67479
         },
         {
             "page": "Ippolito Cavalcanti",
-            "pageView": 24765
+            "pageView": 15,
+            "total": 24779
         },
         {
             "page": "Raffaele Cerbone",
-            "pageView": 16181
-        },
-        {
-            "page": "Tommaso Caputo",
-            "pageView": 13870
+            "pageView": 10,
+            "total": 16195
         },
         {
             "page": "Alessio Ascalesi",
-            "pageView": 13344
+            "pageView": 9,
+            "total": 13355
+        },
+        {
+            "page": "Tommaso Caputo",
+            "pageView": 8,
+            "total": 13877
+        },
+        {
+            "page": "Giuseppina Castiello",
+            "pageView": 8,
+            "total": 29829
         },
         {
             "page": "Domenico Tuccillo",
-            "pageView": 10788
-        },
-        {
-            "page": "Armando Izzo",
-            "pageView": 9656
-        },
-        {
-            "page": "Vincenzo Nespoli",
-            "pageView": 8941
+            "pageView": 6,
+            "total": 10794
         },
         {
             "page": "Angelo Mozzillo",
-            "pageView": 7316
+            "pageView": 5,
+            "total": 7316
         },
         {
-            "page": "Luigi Troiani",
-            "pageView": 5789
+            "page": "Armando Izzo",
+            "pageView": 5,
+            "total": 9664
         },
         {
             "page": "Giuseppe Avolio",
-            "pageView": 5773
+            "pageView": 4,
+            "total": 5774
         },
         {
-            "page": "Giuseppe Moccia (imprenditore)",
-            "pageView": 3565
+            "page": "Vincenzo Nespoli",
+            "pageView": 4,
+            "total": 8949
+        },
+        {
+            "page": "Luigi Troiani",
+            "pageView": 3,
+            "total": 5790
         },
         {
             "page": "Francesco Domenico Moccia",
-            "pageView": 3263
-        },
-        {
-            "page": "Cinzia (cantante)",
-            "pageView": 2944
-        },
-        {
-            "page": "Luigi Grillo (arbitro)",
-            "pageView": 2864
+            "pageView": 2,
+            "total": 3264
         },
         {
             "page": "Antonio da Pisticci",
-            "pageView": 2398
+            "pageView": 2,
+            "total": 2398
+        },
+        {
+            "page": "Luigi Grillo (arbitro)",
+            "pageView": 2,
+            "total": 2864
+        },
+        {
+            "page": "Giuseppe Moccia (imprenditore)",
+            "pageView": 2,
+            "total": 3566
+        },
+        {
+            "page": "Cinzia (cantante)",
+            "pageView": 2,
+            "total": 2945
         },
         {
             "page": "Alfonso Capone",
-            "pageView": 1785
+            "pageView": 2,
+            "total": 1787
         },
         {
             "page": "Vincenzo Severino",
-            "pageView": 504
+            "pageView": 0,
+            "total": 504
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8472932847523820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Umbriatico",
+    "place_name": "Umbriatico, Crotone, Italy",
+    "bbox": [
+        16.870314,
+        39.319685,
+        17.014415,
+        39.413163
+    ],
+    "center": [
+        16.918,
+        39.35324
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.918,
+            39.35324
+        ]
+    }
+}

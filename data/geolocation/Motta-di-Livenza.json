@@ -1,0 +1,27 @@
+{
+    "id": "place.12442028919986350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta di Livenza",
+    "place_name": "Motta di Livenza, Treviso, Italy",
+    "bbox": [
+        12.57313,
+        45.723797,
+        12.67107,
+        45.805123
+    ],
+    "center": [
+        12.60861,
+        45.77972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.60861,
+            45.77972
+        ]
+    }
+}

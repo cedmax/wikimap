@@ -1,0 +1,27 @@
+{
+    "id": "place.10535059117493160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moncalieri",
+    "place_name": "Moncalieri, Torino, Italy",
+    "bbox": [
+        7.648304,
+        44.927919,
+        7.757046,
+        45.031199
+    ],
+    "center": [
+        7.68333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.68333,
+            45
+        ]
+    }
+}

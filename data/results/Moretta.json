@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Angelo Tasca",
-            "pageView": 23500
+            "pageView": 15,
+            "total": 23516
         },
         {
             "page": "Gaspare Coller",
-            "pageView": 4634
-        },
-        {
-            "page": "Giovanni Battista Balbis",
-            "pageView": 3165
+            "pageView": 3,
+            "total": 4638
         },
         {
             "page": "Francesco Lardone",
-            "pageView": 2423
+            "pageView": 2,
+            "total": 2425
+        },
+        {
+            "page": "Giovanni Battista Balbis",
+            "pageView": 2,
+            "total": 3167
         },
         {
             "page": "Diodato Pallieri",
-            "pageView": 1366
+            "pageView": 1,
+            "total": 1367
         }
     ]
 }

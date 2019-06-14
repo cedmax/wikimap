@@ -1,0 +1,27 @@
+{
+    "id": "place.13266718701117770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galbiate",
+    "place_name": "Galbiate, Lecco, Italy",
+    "bbox": [
+        9.35092,
+        45.771372,
+        9.397574,
+        45.847329
+    ],
+    "center": [
+        9.38333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38333,
+            45.8
+        ]
+    }
+}

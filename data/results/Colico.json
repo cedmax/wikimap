@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Maria Laura Mainetti",
-            "pageView": 54801
-        },
-        {
-            "page": "Romano Sgheiz",
-            "pageView": 2919
+            "pageView": 31,
+            "total": 54840
         },
         {
             "page": "Riccardo Castagnedi",
-            "pageView": 2520
+            "pageView": 2,
+            "total": 2522
+        },
+        {
+            "page": "Romano Sgheiz",
+            "pageView": 2,
+            "total": 2919
         },
         {
             "page": "Roberto Osio",
-            "pageView": 1788
+            "pageView": 1,
+            "total": 1790
         },
         {
             "page": "Achille Polti",
-            "pageView": 1005
+            "pageView": 1,
+            "total": 1006
         }
     ]
 }

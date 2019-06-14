@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Dino Campana",
-            "pageView": 215290
+            "pageView": 132,
+            "total": 215456
         },
         {
             "page": "Gualtiero Bassetti",
-            "pageView": 86421
+            "pageView": 38,
+            "total": 86465
         },
         {
             "page": "Stefano Mordini",
-            "pageView": 32047
+            "pageView": 13,
+            "total": 32073
         },
         {
             "page": "Bruno Neri",
-            "pageView": 16609
-        },
-        {
-            "page": "Anna Anni",
-            "pageView": 5313
-        },
-        {
-            "page": "Gaspare Finali",
-            "pageView": 4522
-        },
-        {
-            "page": "Maria Anna Donati",
-            "pageView": 4501
-        },
-        {
-            "page": "Oddo Fortebracci",
-            "pageView": 4376
+            "pageView": 8,
+            "total": 16621
         },
         {
             "page": "Giuseppe Matulli",
-            "pageView": 3938
+            "pageView": 3,
+            "total": 3938
+        },
+        {
+            "page": "Anna Anni",
+            "pageView": 3,
+            "total": 5316
+        },
+        {
+            "page": "Maria Anna Donati",
+            "pageView": 3,
+            "total": 4502
+        },
+        {
+            "page": "Gaspare Finali",
+            "pageView": 3,
+            "total": 4524
+        },
+        {
+            "page": "Oddo Fortebracci",
+            "pageView": 3,
+            "total": 4380
         },
         {
             "page": "Vincenzo Castaldi",
-            "pageView": 3163
-        },
-        {
-            "page": "Celestino Bianchi",
-            "pageView": 3061
+            "pageView": 2,
+            "total": 3164
         },
         {
             "page": "Angelo Fabroni",
-            "pageView": 2858
+            "pageView": 2,
+            "total": 2859
         },
         {
             "page": "Rocco Guerrini",
-            "pageView": 2721
+            "pageView": 2,
+            "total": 2722
         },
         {
             "page": "Enrico Gurioli",
-            "pageView": 2197
+            "pageView": 2,
+            "total": 2198
+        },
+        {
+            "page": "Celestino Bianchi",
+            "pageView": 2,
+            "total": 3063
         },
         {
             "page": "Federico Cattani Amadori",
-            "pageView": 2013
+            "pageView": 2,
+            "total": 2013
         },
         {
             "page": "Vittorio Chiarini",
-            "pageView": 1206
-        },
-        {
-            "page": "Amneris Roselli",
-            "pageView": 655
+            "pageView": 1,
+            "total": 1206
         },
         {
             "page": "Giulio Monti",
-            "pageView": 80
+            "pageView": 0,
+            "total": 80
+        },
+        {
+            "page": "Amneris Roselli",
+            "pageView": 0,
+            "total": 658
         }
     ]
 }

@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Antonio Gramsci",
-            "pageView": 1197382
+            "pageView": 730,
+            "total": 1198154
         },
         {
             "page": "Fernando Atzori",
-            "pageView": 9648
-        },
-        {
-            "page": "Giovanni Paolo Gibertini",
-            "pageView": 9165
-        },
-        {
-            "page": "Giovanni Dettori",
-            "pageView": 7580
+            "pageView": 6,
+            "total": 9655
         },
         {
             "page": "Roberto Carboni",
-            "pageView": 6666
+            "pageView": 5,
+            "total": 6677
+        },
+        {
+            "page": "Giovanni Paolo Gibertini",
+            "pageView": 4,
+            "total": 9168
+        },
+        {
+            "page": "Giovanni Dettori",
+            "pageView": 4,
+            "total": 7583
         },
         {
             "page": "Gianfranco Tunis",
-            "pageView": 2763
+            "pageView": 2,
+            "total": 2766
         }
     ]
 }

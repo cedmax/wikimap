@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Marino Moretti",
-            "pageView": 77689
+            "pageView": 50,
+            "total": 77762
         },
         {
             "page": "Giorgio Ghezzi",
-            "pageView": 52169
-        },
-        {
-            "page": "Patrizio Fariselli",
-            "pageView": 31180
+            "pageView": 32,
+            "total": 52197
         },
         {
             "page": "Giulio Capiozzo",
-            "pageView": 30079
+            "pageView": 19,
+            "total": 30247
         },
         {
-            "page": "Emilio Pericoli",
-            "pageView": 27556
+            "page": "Patrizio Fariselli",
+            "pageView": 19,
+            "total": 31364
         },
         {
             "page": "Mattia Graffiedi",
-            "pageView": 27151
+            "pageView": 17,
+            "total": 27166
+        },
+        {
+            "page": "Emilio Pericoli",
+            "pageView": 16,
+            "total": 27571
         },
         {
             "page": "Sandro Italico Mussolini",
-            "pageView": 22054
+            "pageView": 14,
+            "total": 22081
         },
         {
             "page": "Ennio Tarantola",
-            "pageView": 13677
+            "pageView": 8,
+            "total": 13686
         },
         {
             "page": "Pier Foschi",
-            "pageView": 8627
+            "pageView": 5,
+            "total": 8629
         },
         {
             "page": "Pasquale Fanesi",
-            "pageView": 8007
-        },
-        {
-            "page": "Sam Paglia",
-            "pageView": 6880
+            "pageView": 5,
+            "total": 8012
         },
         {
             "page": "Paolo Sacchetti",
-            "pageView": 6503
+            "pageView": 4,
+            "total": 6511
         },
         {
             "page": "Damiano Zoffoli",
-            "pageView": 4570
+            "pageView": 4,
+            "total": 4572
         },
         {
-            "page": "Gemma Bolognesi",
-            "pageView": 4283
-        },
-        {
-            "page": "Dalia Muccioli",
-            "pageView": 4259
-        },
-        {
-            "page": "Alessandro Schiavi",
-            "pageView": 3756
-        },
-        {
-            "page": "Alfiero Agostinelli",
-            "pageView": 3650
-        },
-        {
-            "page": "Angelina Pirini",
-            "pageView": 3298
+            "page": "Sam Paglia",
+            "pageView": 4,
+            "total": 6892
         },
         {
             "page": "Marcella Hazan",
-            "pageView": 3079
+            "pageView": 3,
+            "total": 3085
         },
         {
-            "page": "Ferrer Rossi",
-            "pageView": 2509
+            "page": "Dalia Muccioli",
+            "pageView": 3,
+            "total": 4262
+        },
+        {
+            "page": "Gemma Bolognesi",
+            "pageView": 3,
+            "total": 4295
+        },
+        {
+            "page": "Angelina Pirini",
+            "pageView": 2,
+            "total": 3300
+        },
+        {
+            "page": "Alfiero Agostinelli",
+            "pageView": 2,
+            "total": 3654
         },
         {
             "page": "Luciano Marchetti",
-            "pageView": 2255
+            "pageView": 2,
+            "total": 2259
+        },
+        {
+            "page": "Ferrer Rossi",
+            "pageView": 2,
+            "total": 2512
+        },
+        {
+            "page": "Alessandro Schiavi",
+            "pageView": 2,
+            "total": 3762
         },
         {
             "page": "Pio Caimmi",
-            "pageView": 1593
+            "pageView": 1,
+            "total": 1594
         },
         {
             "page": "Augusta Costanza Succi",
-            "pageView": 1161
+            "pageView": 1,
+            "total": 1164
         },
         {
             "page": "Ferruccio Benzoni",
-            "pageView": 354
+            "pageView": 0,
+            "total": 356
         }
     ]
 }

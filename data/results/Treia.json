@@ -3,603 +3,753 @@
     "people": [
         {
             "page": "Ivan Zaytsev",
-            "pageView": 1701146
+            "pageView": 291.5,
+            "total": 1701474
         },
         {
             "page": "Osmany Juantorena",
-            "pageView": 578847
-        },
-        {
-            "page": "Luigi Mastrangelo",
-            "pageView": 252945
-        },
-        {
-            "page": "Gianlorenzo Blengini",
-            "pageView": 243294
+            "pageView": 81,
+            "total": 578946
         },
         {
             "page": "Lorenzo Bernardi",
-            "pageView": 228551
+            "pageView": 79,
+            "total": 228666
         },
         {
             "page": "Federico Melchiorri",
-            "pageView": 178878
+            "pageView": 66,
+            "total": 178933
+        },
+        {
+            "page": "Luigi Mastrangelo",
+            "pageView": 59,
+            "total": 253010
         },
         {
             "page": "Andrea Zorzi",
-            "pageView": 148365
+            "pageView": 57,
+            "total": 148404
         },
         {
-            "page": "Bruno de Rezende",
-            "pageView": 84791
-        },
-        {
-            "page": "Micah Christenson",
-            "pageView": 76525
+            "page": "Gianlorenzo Blengini",
+            "pageView": 28,
+            "total": 243372
         },
         {
             "page": "Alessandro Fei (pallavolista)",
-            "pageView": 74651
+            "pageView": 27,
+            "total": 74675
         },
         {
-            "page": "Mauro Berruto",
-            "pageView": 71715
-        },
-        {
-            "page": "Michele Baranowicz",
-            "pageView": 70441
-        },
-        {
-            "page": "Ferdinando De Giorgi",
-            "pageView": 66928
-        },
-        {
-            "page": "Bartosz Kurek",
-            "pageView": 60761
-        },
-        {
-            "page": "Dragan Travica",
-            "pageView": 58222
-        },
-        {
-            "page": "Cristian Savani",
-            "pageView": 57447
-        },
-        {
-            "page": "Luigi Randazzo",
-            "pageView": 57138
-        },
-        {
-            "page": "Enrico Cester",
-            "pageView": 54892
-        },
-        {
-            "page": "Robertlandy Simón",
-            "pageView": 54320
-        },
-        {
-            "page": "Jenia Grebennikov",
-            "pageView": 54236
-        },
-        {
-            "page": "Taylor Sander",
-            "pageView": 45733
+            "page": "Bruno de Rezende",
+            "pageView": 27,
+            "total": 84815
         },
         {
             "page": "Giacomo Sintini",
-            "pageView": 45228
+            "pageView": 24,
+            "total": 45272
         },
         {
-            "page": "Giulio Sabbi",
-            "pageView": 44718
+            "page": "Micah Christenson",
+            "pageView": 24,
+            "total": 76545
+        },
+        {
+            "page": "Cristian Savani",
+            "pageView": 23,
+            "total": 57454
+        },
+        {
+            "page": "Mauro Berruto",
+            "pageView": 22,
+            "total": 71744
+        },
+        {
+            "page": "Jenia Grebennikov",
+            "pageView": 22,
+            "total": 54250
         },
         {
             "page": "Valerio Vermiglio",
-            "pageView": 44497
+            "pageView": 21,
+            "total": 44528
         },
         {
-            "page": "Cvetan Sokolov",
-            "pageView": 43536
+            "page": "Dragan Travica",
+            "pageView": 21,
+            "total": 58240
         },
         {
-            "page": "Marco Bracci",
-            "pageView": 43154
-        },
-        {
-            "page": "Matteo Martino",
-            "pageView": 40814
-        },
-        {
-            "page": "Davide Candellaro",
-            "pageView": 40338
-        },
-        {
-            "page": "Marko Podraščanin",
-            "pageView": 38271
-        },
-        {
-            "page": "Alberto Cisolla",
-            "pageView": 38153
-        },
-        {
-            "page": "Jiří Kovář",
-            "pageView": 36481
-        },
-        {
-            "page": "Fabio Vullo",
-            "pageView": 35566
-        },
-        {
-            "page": "Pasquale Gravina",
-            "pageView": 33616
-        },
-        {
-            "page": "Fabio Balaso",
-            "pageView": 28492
-        },
-        {
-            "page": "Ivan Miljković",
-            "pageView": 28207
-        },
-        {
-            "page": "Simone Parodi",
-            "pageView": 27641
-        },
-        {
-            "page": "Dragan Stanković",
-            "pageView": 27401
-        },
-        {
-            "page": "Klemen Čebulj",
-            "pageView": 26602
-        },
-        {
-            "page": "Fabio Ricci (pallavolista)",
-            "pageView": 24683
-        },
-        {
-            "page": "Marco Meoni",
-            "pageView": 20587
-        },
-        {
-            "page": "Giovanni Maria Vitelleschi",
-            "pageView": 20027
-        },
-        {
-            "page": "Claudio Giuliodori",
-            "pageView": 18774
-        },
-        {
-            "page": "Denis Kaliberda",
-            "pageView": 18624
-        },
-        {
-            "page": "Jacopo Massari",
-            "pageView": 18593
+            "page": "Ferdinando De Giorgi",
+            "pageView": 20,
+            "total": 66957
         },
         {
             "page": "Yoandy Leal",
-            "pageView": 17871
+            "pageView": 19,
+            "total": 17877
         },
         {
-            "page": "Giampaolo Medei",
-            "pageView": 17762
+            "page": "Alberto Cisolla",
+            "pageView": 19,
+            "total": 38176
         },
         {
-            "page": "Mirko Corsano",
-            "pageView": 16998
+            "page": "Giulio Sabbi",
+            "pageView": 18,
+            "total": 44725
+        },
+        {
+            "page": "Marco Bracci",
+            "pageView": 17,
+            "total": 43175
+        },
+        {
+            "page": "Fabio Vullo",
+            "pageView": 16,
+            "total": 35578
+        },
+        {
+            "page": "Robertlandy Simón",
+            "pageView": 16,
+            "total": 54337
+        },
+        {
+            "page": "Pasquale Gravina",
+            "pageView": 15,
+            "total": 33881
+        },
+        {
+            "page": "Cvetan Sokolov",
+            "pageView": 14,
+            "total": 43546
+        },
+        {
+            "page": "Jiří Kovář",
+            "pageView": 14,
+            "total": 36485
+        },
+        {
+            "page": "Marko Podraščanin",
+            "pageView": 14,
+            "total": 38276
+        },
+        {
+            "page": "Matteo Martino",
+            "pageView": 14,
+            "total": 40823
+        },
+        {
+            "page": "Taylor Sander",
+            "pageView": 13,
+            "total": 45738
+        },
+        {
+            "page": "Michele Baranowicz",
+            "pageView": 13,
+            "total": 70483
+        },
+        {
+            "page": "Luigi Randazzo",
+            "pageView": 13,
+            "total": 57167
+        },
+        {
+            "page": "Enrico Cester",
+            "pageView": 12,
+            "total": 54916
+        },
+        {
+            "page": "Simone Parodi",
+            "pageView": 12,
+            "total": 27647
+        },
+        {
+            "page": "Claudio Giuliodori",
+            "pageView": 12,
+            "total": 18783
+        },
+        {
+            "page": "Marco Meoni",
+            "pageView": 10,
+            "total": 20594
         },
         {
             "page": "Luigi Antonio Lanzi",
-            "pageView": 16178
+            "pageView": 10,
+            "total": 16192
         },
         {
-            "page": "Slobodan Kovač",
-            "pageView": 15900
+            "page": "Davide Candellaro",
+            "pageView": 9,
+            "total": 40362
         },
         {
-            "page": "Ángel Dennis",
-            "pageView": 15443
+            "page": "Ivan Miljković",
+            "pageView": 9,
+            "total": 28209
         },
         {
-            "page": "Alberto Giuliani",
-            "pageView": 15282
+            "page": "Dragan Stanković",
+            "pageView": 9,
+            "total": 27408
         },
         {
-            "page": "Facundo Conte",
-            "pageView": 14589
-        },
-        {
-            "page": "Silvano Prandi",
-            "pageView": 14387
+            "page": "Klemen Čebulj",
+            "pageView": 8.5,
+            "total": 26605
         },
         {
             "page": "Luigi Conti",
-            "pageView": 13692
+            "pageView": 8,
+            "total": 13695
         },
         {
-            "page": "Alberto Casadei (pallavolista)",
-            "pageView": 13026
+            "page": "Fabio Balaso",
+            "pageView": 8,
+            "total": 28501
         },
         {
-            "page": "Andrea Giovi",
-            "pageView": 12781
+            "page": "Fabio Ricci (pallavolista)",
+            "pageView": 8,
+            "total": 24686
         },
         {
-            "page": "William Priddy",
-            "pageView": 12514
+            "page": "Bartosz Kurek",
+            "pageView": 8,
+            "total": 61083
         },
         {
-            "page": "Simone Rosalba",
-            "pageView": 12362
+            "page": "Jacopo Massari",
+            "pageView": 8,
+            "total": 18599
         },
         {
-            "page": "Juan Luca Sacchi",
-            "pageView": 12325
+            "page": "Ángel Dennis",
+            "pageView": 8,
+            "total": 15464
+        },
+        {
+            "page": "Giovanni Maria Vitelleschi",
+            "pageView": 7,
+            "total": 20034
+        },
+        {
+            "page": "Alberto Giuliani",
+            "pageView": 7,
+            "total": 15297
+        },
+        {
+            "page": "Mirko Corsano",
+            "pageView": 7,
+            "total": 17005
+        },
+        {
+            "page": "Silvano Prandi",
+            "pageView": 7,
+            "total": 14403
         },
         {
             "page": "Nazzareno Marconi",
-            "pageView": 12294
+            "pageView": 7,
+            "total": 12299
+        },
+        {
+            "page": "Juan Luca Sacchi",
+            "pageView": 7,
+            "total": 12331
+        },
+        {
+            "page": "Simone Rosalba",
+            "pageView": 6,
+            "total": 12365
+        },
+        {
+            "page": "Alberto Casadei (pallavolista)",
+            "pageView": 6,
+            "total": 13029
+        },
+        {
+            "page": "Andrea Giovi",
+            "pageView": 6,
+            "total": 12783
+        },
+        {
+            "page": "Denis Kaliberda",
+            "pageView": 6,
+            "total": 18628
+        },
+        {
+            "page": "Facundo Conte",
+            "pageView": 6,
+            "total": 14596
         },
         {
             "page": "Stefano Patriarca",
-            "pageView": 11007
-        },
-        {
-            "page": "Wout Wijsmans",
-            "pageView": 10486
-        },
-        {
-            "page": "Saša Starović",
-            "pageView": 9848
-        },
-        {
-            "page": "Igor Omrčen",
-            "pageView": 9673
-        },
-        {
-            "page": "Nicola Pesaresi",
-            "pageView": 9436
-        },
-        {
-            "page": "Raúl Lozano",
-            "pageView": 9242
-        },
-        {
-            "page": "Antonio Corvetta",
-            "pageView": 8890
-        },
-        {
-            "page": "Enrico Diamantini",
-            "pageView": 8634
-        },
-        {
-            "page": "Andrea Marchisio",
-            "pageView": 8481
-        },
-        {
-            "page": "Sebastiano Milan",
-            "pageView": 7822
-        },
-        {
-            "page": "Fabio Fanuli",
-            "pageView": 7811
-        },
-        {
-            "page": "Dick Kooy",
-            "pageView": 7437
-        },
-        {
-            "page": "Leondino Giombini",
-            "pageView": 7406
-        },
-        {
-            "page": "Alessandro Paparoni",
-            "pageView": 7324
-        },
-        {
-            "page": "Daniele Ricci",
-            "pageView": 7271
-        },
-        {
-            "page": "Mateusz Bieniek",
-            "pageView": 6968
-        },
-        {
-            "page": "Carlo Didimi",
-            "pageView": 6920
-        },
-        {
-            "page": "Natale Monopoli",
-            "pageView": 6503
-        },
-        {
-            "page": "Carmelo Gitto",
-            "pageView": 6462
-        },
-        {
-            "page": "Stefano Margutti",
-            "pageView": 6378
-        },
-        {
-            "page": "Ricardo Garcia",
-            "pageView": 6365
-        },
-        {
-            "page": "Hubert Henno",
-            "pageView": 5518
-        },
-        {
-            "page": "Pierre Pujol",
-            "pageView": 5121
-        },
-        {
-            "page": "Alen Pajenk",
-            "pageView": 4897
-        },
-        {
-            "page": "Giovanni Domenico De Cupis",
-            "pageView": 4838
-        },
-        {
-            "page": "Giacomo Bellei",
-            "pageView": 4735
-        },
-        {
-            "page": "Gert Van Walle",
-            "pageView": 4595
-        },
-        {
-            "page": "Marco Fabroni",
-            "pageView": 4471
-        },
-        {
-            "page": "Tsimafei Zhukouski",
-            "pageView": 4442
-        },
-        {
-            "page": "Henk-Jan Held",
-            "pageView": 4248
-        },
-        {
-            "page": "Kamil Rychlicki",
-            "pageView": 4177
+            "pageView": 5,
+            "total": 11008
         },
         {
             "page": "Pier Paolo Partenio",
-            "pageView": 4166
+            "pageView": 5,
+            "total": 4167
+        },
+        {
+            "page": "Igor Omrčen",
+            "pageView": 5,
+            "total": 9677
+        },
+        {
+            "page": "Nicola Pesaresi",
+            "pageView": 5,
+            "total": 9440
+        },
+        {
+            "page": "Slobodan Kovač",
+            "pageView": 5,
+            "total": 15901
+        },
+        {
+            "page": "Saša Starović",
+            "pageView": 5,
+            "total": 9848
+        },
+        {
+            "page": "Giampaolo Medei",
+            "pageView": 5,
+            "total": 17764
+        },
+        {
+            "page": "Wout Wijsmans",
+            "pageView": 5,
+            "total": 10488
+        },
+        {
+            "page": "Andrea Marchisio",
+            "pageView": 4,
+            "total": 8483
+        },
+        {
+            "page": "Antonio Corvetta",
+            "pageView": 4,
+            "total": 8891
+        },
+        {
+            "page": "Daniele Ricci",
+            "pageView": 4,
+            "total": 7272
+        },
+        {
+            "page": "Fabio Fanuli",
+            "pageView": 4,
+            "total": 7812
+        },
+        {
+            "page": "Carlo Didimi",
+            "pageView": 4,
+            "total": 6927
+        },
+        {
+            "page": "Kamil Rychlicki",
+            "pageView": 4,
+            "total": 4182
+        },
+        {
+            "page": "Leondino Giombini",
+            "pageView": 4,
+            "total": 7413
+        },
+        {
+            "page": "William Priddy",
+            "pageView": 4,
+            "total": 12516
+        },
+        {
+            "page": "Ricardo Garcia",
+            "pageView": 4,
+            "total": 6366
+        },
+        {
+            "page": "Sebastiano Milan",
+            "pageView": 4,
+            "total": 7823
+        },
+        {
+            "page": "Alessandro Paparoni",
+            "pageView": 4,
+            "total": 7327
+        },
+        {
+            "page": "Natale Monopoli",
+            "pageView": 4,
+            "total": 6503
+        },
+        {
+            "page": "Giovanni Domenico De Cupis",
+            "pageView": 3,
+            "total": 4841
+        },
+        {
+            "page": "Enrico Diamantini",
+            "pageView": 3,
+            "total": 8637
+        },
+        {
+            "page": "Marco Fabroni",
+            "pageView": 3,
+            "total": 4471
+        },
+        {
+            "page": "Carmelo Gitto",
+            "pageView": 3,
+            "total": 6463
+        },
+        {
+            "page": "Stefano Margutti",
+            "pageView": 3,
+            "total": 6381
+        },
+        {
+            "page": "Henk-Jan Held",
+            "pageView": 3,
+            "total": 4250
+        },
+        {
+            "page": "Giacomo Bellei",
+            "pageView": 3,
+            "total": 4735
         },
         {
             "page": "Antonio Pettinari",
-            "pageView": 4125
+            "pageView": 3,
+            "total": 4127
+        },
+        {
+            "page": "Pierre Pujol",
+            "pageView": 3,
+            "total": 5121
+        },
+        {
+            "page": "Dick Kooy",
+            "pageView": 3,
+            "total": 7447
         },
         {
             "page": "Franco Capponi",
-            "pageView": 4042
-        },
-        {
-            "page": "Marco Molteni",
-            "pageView": 3970
-        },
-        {
-            "page": "Maurício de Lima",
-            "pageView": 3874
-        },
-        {
-            "page": "Alessandro Crescenzi (cardinale)",
-            "pageView": 3806
-        },
-        {
-            "page": "Gianluca Saraceni",
-            "pageView": 3806
-        },
-        {
-            "page": "Martin Lébl",
-            "pageView": 3777
-        },
-        {
-            "page": "Andrea Bartoletti",
-            "pageView": 3690
-        },
-        {
-            "page": "Davide Bellini",
-            "pageView": 3528
-        },
-        {
-            "page": "Rodrigo Santana",
-            "pageView": 3511
-        },
-        {
-            "page": "Simmaco Tartaglione",
-            "pageView": 3494
-        },
-        {
-            "page": "Jan Willem Snippe",
-            "pageView": 3476
-        },
-        {
-            "page": "Vittorio Amedeo Ranuzzi de' Bianchi",
-            "pageView": 3403
-        },
-        {
-            "page": "Nalbert Bitencourt",
-            "pageView": 3290
-        },
-        {
-            "page": "Tarcisio Carboni",
-            "pageView": 3198
-        },
-        {
-            "page": "Sebastian Świderski",
-            "pageView": 2962
-        },
-        {
-            "page": "Ilario Altobelli",
-            "pageView": 2778
-        },
-        {
-            "page": "Pasquale Gabriele",
-            "pageView": 2771
-        },
-        {
-            "page": "Richard Schuil",
-            "pageView": 2765
-        },
-        {
-            "page": "Jean-François Exiga",
-            "pageView": 2756
-        },
-        {
-            "page": "Lorenzo Smerilli",
-            "pageView": 2643
-        },
-        {
-            "page": "Dejan Brđović",
-            "pageView": 2622
-        },
-        {
-            "page": "Pacifico Arcangeli",
-            "pageView": 2578
-        },
-        {
-            "page": "Lorenzo Gemmi",
-            "pageView": 2506
-        },
-        {
-            "page": "Alessandro Trimarchi",
-            "pageView": 2490
-        },
-        {
-            "page": "Manuele Marchiani",
-            "pageView": 2489
-        },
-        {
-            "page": "Žarko Petrović",
-            "pageView": 2474
-        },
-        {
-            "page": "Manuele Ravellino",
-            "pageView": 2448
-        },
-        {
-            "page": "Jurij Pančenko",
-            "pageView": 2396
+            "pageView": 3,
+            "total": 4047
         },
         {
             "page": "Marco Vitelli",
-            "pageView": 2362
+            "pageView": 3,
+            "total": 2362
         },
         {
-            "page": "Andrija Gerić",
-            "pageView": 2332
+            "page": "Hubert Henno",
+            "pageView": 3,
+            "total": 5520
         },
         {
-            "page": "Davidson Lampariello",
-            "pageView": 2326
+            "page": "Simmaco Tartaglione",
+            "pageView": 3,
+            "total": 3494
         },
         {
-            "page": "Nicola Grimaldi (1768-1845)",
-            "pageView": 2276
+            "page": "Lorenzo Smerilli",
+            "pageView": 2,
+            "total": 2646
         },
         {
-            "page": "Antonietta Capelli",
-            "pageView": 2241
+            "page": "Marco Molteni",
+            "pageView": 2,
+            "total": 3972
         },
         {
-            "page": "Yoann Jaumel",
-            "pageView": 2187
-        },
-        {
-            "page": "Konstantin Shumov",
-            "pageView": 2133
-        },
-        {
-            "page": "Renaud Herpe",
-            "pageView": 2123
-        },
-        {
-            "page": "Nicolò dall'Aste",
-            "pageView": 2057
-        },
-        {
-            "page": "Giuseppe Sorcinelli",
-            "pageView": 2014
+            "page": "Alen Pajenk",
+            "pageView": 2,
+            "total": 4900
         },
         {
             "page": "Luigi Tasso",
-            "pageView": 1966
-        },
-        {
-            "page": "Ryley Barnes",
-            "pageView": 1961
-        },
-        {
-            "page": "Giovanni Benadduci",
-            "pageView": 1904
-        },
-        {
-            "page": "Stijn D'Hulst",
-            "pageView": 1867
-        },
-        {
-            "page": "Miloš Stojković",
-            "pageView": 1864
+            "pageView": 2,
+            "total": 1966
         },
         {
             "page": "Osvaldo Prosperi",
-            "pageView": 1864
+            "pageView": 2,
+            "total": 1865
         },
         {
-            "page": "Francesco Ansaldo Teloni",
-            "pageView": 1858
+            "page": "Lorenzo Gemmi",
+            "pageView": 2,
+            "total": 2506
         },
         {
-            "page": "Amir Ghafour",
-            "pageView": 1836
+            "page": "Vittorio Amedeo Ranuzzi de' Bianchi",
+            "pageView": 2,
+            "total": 3404
         },
         {
-            "page": "Marcello Mescoli",
-            "pageView": 1668
+            "page": "Maurício de Lima",
+            "pageView": 2,
+            "total": 3874
         },
         {
-            "page": "Ageo Arcangeli",
-            "pageView": 1491
+            "page": "Žarko Petrović",
+            "pageView": 2,
+            "total": 2476
         },
         {
-            "page": "Matias Raymaekers",
-            "pageView": 1476
+            "page": "Renaud Herpe",
+            "pageView": 2,
+            "total": 2124
         },
         {
-            "page": "Frank Dehne",
-            "pageView": 1456
+            "page": "Nicolò dall'Aste",
+            "pageView": 2,
+            "total": 2057
+        },
+        {
+            "page": "Ryley Barnes",
+            "pageView": 2,
+            "total": 1961
+        },
+        {
+            "page": "Andrea Bartoletti",
+            "pageView": 2,
+            "total": 3690
+        },
+        {
+            "page": "Manuele Ravellino",
+            "pageView": 2,
+            "total": 2448
+        },
+        {
+            "page": "Alessandro Crescenzi (cardinale)",
+            "pageView": 2,
+            "total": 3811
+        },
+        {
+            "page": "Nicola Grimaldi (1768-1845)",
+            "pageView": 2,
+            "total": 2276
+        },
+        {
+            "page": "Raúl Lozano",
+            "pageView": 2,
+            "total": 9245
+        },
+        {
+            "page": "Pasquale Gabriele",
+            "pageView": 2,
+            "total": 2772
+        },
+        {
+            "page": "Manuele Marchiani",
+            "pageView": 2,
+            "total": 2491
+        },
+        {
+            "page": "Pacifico Arcangeli",
+            "pageView": 2,
+            "total": 2580
+        },
+        {
+            "page": "Tarcisio Carboni",
+            "pageView": 2,
+            "total": 3200
+        },
+        {
+            "page": "Tsimafei Zhukouski",
+            "pageView": 2,
+            "total": 4455
+        },
+        {
+            "page": "Rodrigo Santana",
+            "pageView": 2,
+            "total": 3512
+        },
+        {
+            "page": "Gianluca Saraceni",
+            "pageView": 2,
+            "total": 3806
+        },
+        {
+            "page": "Jurij Pančenko",
+            "pageView": 2,
+            "total": 2397
+        },
+        {
+            "page": "Richard Schuil",
+            "pageView": 2,
+            "total": 2767
+        },
+        {
+            "page": "Konstantin Shumov",
+            "pageView": 2,
+            "total": 2134
+        },
+        {
+            "page": "Jean-François Exiga",
+            "pageView": 2,
+            "total": 2756
+        },
+        {
+            "page": "Martin Lébl",
+            "pageView": 2,
+            "total": 3779
+        },
+        {
+            "page": "Andrija Gerić",
+            "pageView": 2,
+            "total": 2334
+        },
+        {
+            "page": "Jan Willem Snippe",
+            "pageView": 2,
+            "total": 3478
+        },
+        {
+            "page": "Antonietta Capelli",
+            "pageView": 2,
+            "total": 2242
+        },
+        {
+            "page": "Giuseppe Sorcinelli",
+            "pageView": 2,
+            "total": 2015
+        },
+        {
+            "page": "Giovanni Benadduci",
+            "pageView": 2,
+            "total": 1906
+        },
+        {
+            "page": "Davide Bellini",
+            "pageView": 2,
+            "total": 3529
+        },
+        {
+            "page": "Nalbert Bitencourt",
+            "pageView": 2,
+            "total": 3291
+        },
+        {
+            "page": "Sebastian Świderski",
+            "pageView": 2,
+            "total": 2962
+        },
+        {
+            "page": "Davidson Lampariello",
+            "pageView": 2,
+            "total": 2326
+        },
+        {
+            "page": "Ilario Altobelli",
+            "pageView": 2,
+            "total": 2778
+        },
+        {
+            "page": "Alessandro Trimarchi",
+            "pageView": 2,
+            "total": 2494
+        },
+        {
+            "page": "Mateusz Bieniek",
+            "pageView": 2,
+            "total": 6970
+        },
+        {
+            "page": "Gert Van Walle",
+            "pageView": 2,
+            "total": 4596
         },
         {
             "page": "Luc Marquet",
-            "pageView": 1316
+            "pageView": 1,
+            "total": 1317
         },
         {
             "page": "Romain Vadeleux",
-            "pageView": 1241
+            "pageView": 1,
+            "total": 1241
+        },
+        {
+            "page": "Dejan Brđović",
+            "pageView": 1,
+            "total": 2622
         },
         {
             "page": "Fulvio Androzio",
-            "pageView": 1220
+            "pageView": 1,
+            "total": 1220
+        },
+        {
+            "page": "Francesco Ansaldo Teloni",
+            "pageView": 1,
+            "total": 1858
+        },
+        {
+            "page": "Ageo Arcangeli",
+            "pageView": 1,
+            "total": 1492
+        },
+        {
+            "page": "Yoann Jaumel",
+            "pageView": 1,
+            "total": 2188
         },
         {
             "page": "Juan José Salvador",
-            "pageView": 1185
+            "pageView": 1,
+            "total": 1185
+        },
+        {
+            "page": "Miloš Stojković",
+            "pageView": 1,
+            "total": 1864
+        },
+        {
+            "page": "Matias Raymaekers",
+            "pageView": 1,
+            "total": 1476
         },
         {
             "page": "Giovanni Maria Teloni",
-            "pageView": 1018
+            "pageView": 1,
+            "total": 1018
         },
         {
-            "page": "Jurij Čerednik",
-            "pageView": 750
+            "page": "Marcello Mescoli",
+            "pageView": 1,
+            "total": 1671
+        },
+        {
+            "page": "Frank Dehne",
+            "pageView": 1,
+            "total": 1456
+        },
+        {
+            "page": "Stijn D'Hulst",
+            "pageView": 0,
+            "total": 1870
         },
         {
             "page": "Pietro da Treia",
-            "pageView": 619
+            "pageView": 0,
+            "total": 619
+        },
+        {
+            "page": "Amir Ghafour",
+            "pageView": 0,
+            "total": 1846
+        },
+        {
+            "page": "Jurij Čerednik",
+            "pageView": 0,
+            "total": 750
         }
     ]
 }

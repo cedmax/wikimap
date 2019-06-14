@@ -1,0 +1,29 @@
+{
+    "id": "place.11075722158223220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Aldino - Aldein",
+    "place_name": "Aldino - Aldein, Bolzano, Italy",
+    "matching_text": "Aldino",
+    "matching_place_name": "Aldino, Bolzano, Italy",
+    "bbox": [
+        11.31372,
+        46.320634,
+        11.479385,
+        46.401524
+    ],
+    "center": [
+        11.35,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.35,
+            46.36667
+        ]
+    }
+}

@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Leonardo Vinci",
-            "pageView": 26201
+            "pageView": 16,
+            "total": 26228
         },
         {
             "page": "Rinaldo Corso",
-            "pageView": 4516
+            "pageView": 3,
+            "total": 4518
         },
         {
             "page": "Biagio Miraglia",
-            "pageView": 3279
+            "pageView": 2,
+            "total": 3280
         },
         {
             "page": "Domenico Morelli (vescovo)",
-            "pageView": 2107
+            "pageView": 2,
+            "total": 2107
         },
         {
             "page": "Girolamo Grimaldi (1527)",
-            "pageView": 1730
-        },
-        {
-            "page": "Simone Biondo",
-            "pageView": 236
-        },
-        {
-            "page": "Antonio Sangallo",
-            "pageView": 197
-        },
-        {
-            "page": "Tommaso Olivieri",
-            "pageView": 94
-        },
-        {
-            "page": "Domenico Sabbatino",
-            "pageView": 91
+            "pageView": 1,
+            "total": 1730
         },
         {
             "page": "Gaspare Murgi",
-            "pageView": 76
+            "pageView": 0,
+            "total": 77
+        },
+        {
+            "page": "Tommaso Olivieri",
+            "pageView": 0,
+            "total": 94
+        },
+        {
+            "page": "Domenico Sabbatino",
+            "pageView": 0,
+            "total": 91
+        },
+        {
+            "page": "Simone Biondo",
+            "pageView": 0,
+            "total": 237
+        },
+        {
+            "page": "Antonio Sangallo",
+            "pageView": 0,
+            "total": 197
         }
     ]
 }

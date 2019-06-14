@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Maria Domenica Mazzarello",
-            "pageView": 25866
+            "pageView": 14,
+            "total": 25874
         },
         {
             "page": "Francesco Cirio",
-            "pageView": 24051
+            "pageView": 14,
+            "total": 24086
         },
         {
             "page": "Luigi Zunino",
-            "pageView": 21272
+            "pageView": 13,
+            "total": 21278
         },
         {
             "page": "Isabella Riva",
-            "pageView": 5322
+            "pageView": 3,
+            "total": 5323
         },
         {
             "page": "Achille Argentino",
-            "pageView": 3280
+            "pageView": 2,
+            "total": 3283
         },
         {
             "page": "Raffaele Rivolo",
-            "pageView": 3219
-        },
-        {
-            "page": "Bartolomeo Bona",
-            "pageView": 2644
-        },
-        {
-            "page": "Giovanni Battista De Negri",
-            "pageView": 2559
-        },
-        {
-            "page": "Gian Felice Gino",
-            "pageView": 2349
-        },
-        {
-            "page": "Giacomo Roseo",
-            "pageView": 2072
-        },
-        {
-            "page": "Alessandro Amerio",
-            "pageView": 1971
+            "pageView": 2,
+            "total": 3219
         },
         {
             "page": "Luigi Astore",
-            "pageView": 1898
+            "pageView": 2,
+            "total": 1899
         },
         {
             "page": "Natale Beretta",
-            "pageView": 1238
+            "pageView": 2,
+            "total": 1239
+        },
+        {
+            "page": "Giacomo Roseo",
+            "pageView": 2,
+            "total": 2072
+        },
+        {
+            "page": "Gian Felice Gino",
+            "pageView": 2,
+            "total": 2350
+        },
+        {
+            "page": "Giovanni Battista De Negri",
+            "pageView": 2,
+            "total": 2560
+        },
+        {
+            "page": "Bartolomeo Bona",
+            "pageView": 2,
+            "total": 2646
+        },
+        {
+            "page": "Alessandro Amerio",
+            "pageView": 1,
+            "total": 1974
         },
         {
             "page": "Carlo Corsi di Bosnasco",
-            "pageView": 1104
+            "pageView": 1,
+            "total": 1104
         },
         {
             "page": "Paolo Pio Perazzo",
-            "pageView": 353
+            "pageView": 0,
+            "total": 354
         }
     ]
 }

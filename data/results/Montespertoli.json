@@ -2,36 +2,44 @@
     "name": "Montespertoli",
     "people": [
         {
-            "page": "Mario Mariotti",
-            "pageView": 11821
+            "page": "Germano Serafin",
+            "pageView": 7,
+            "total": 10315
         },
         {
-            "page": "Germano Serafin",
-            "pageView": 10305
+            "page": "Mario Mariotti",
+            "pageView": 7,
+            "total": 11829
         },
         {
             "page": "Cino Cinelli",
-            "pageView": 9129
+            "pageView": 6,
+            "total": 9133
         },
         {
             "page": "Amedeo Bassi",
-            "pageView": 4550
-        },
-        {
-            "page": "Bartolomeo Intieri",
-            "pageView": 3445
+            "pageView": 3,
+            "total": 4552
         },
         {
             "page": "Osbert Sitwell",
-            "pageView": 3320
+            "pageView": 2,
+            "total": 3322
         },
         {
             "page": "Amerigo Guasti",
-            "pageView": 2042
+            "pageView": 2,
+            "total": 2043
+        },
+        {
+            "page": "Bartolomeo Intieri",
+            "pageView": 2,
+            "total": 3449
         },
         {
             "page": "Moreno Bambi",
-            "pageView": 530
+            "pageView": 0,
+            "total": 531
         }
     ]
 }

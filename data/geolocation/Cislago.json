@@ -1,0 +1,27 @@
+{
+    "id": "place.12324401550772990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cislago",
+    "place_name": "Cislago, Varese, Italy",
+    "bbox": [
+        8.935232,
+        45.633567,
+        8.988011,
+        45.67983
+    ],
+    "center": [
+        8.96667,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.96667,
+            45.65
+        ]
+    }
+}

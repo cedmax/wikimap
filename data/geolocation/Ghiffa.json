@@ -1,0 +1,27 @@
+{
+    "id": "place.15373115560216920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ghiffa",
+    "place_name": "Ghiffa, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.588385,
+        45.931747,
+        8.65345,
+        45.983813
+    ],
+    "center": [
+        8.61667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.61667,
+            45.95
+        ]
+    }
+}

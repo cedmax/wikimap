@@ -1,0 +1,27 @@
+{
+    "id": "place.6273780675003150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riva Valdobbia",
+    "place_name": "Riva Valdobbia, Vercelli, Italy",
+    "bbox": [
+        7.862345,
+        45.724898,
+        8.000392,
+        45.855777
+    ],
+    "center": [
+        7.95375,
+        45.83294
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95375,
+            45.83294
+        ]
+    }
+}

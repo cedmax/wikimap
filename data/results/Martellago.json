@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Giovanni Bertati",
-            "pageView": 5848
-        },
-        {
-            "page": "Francesco Scipione Fapanni",
-            "pageView": 2632
+            "pageView": 3,
+            "total": 5850
         },
         {
             "page": "Agostino Fapanni",
-            "pageView": 1969
+            "pageView": 2,
+            "total": 1969
+        },
+        {
+            "page": "Francesco Scipione Fapanni",
+            "pageView": 2,
+            "total": 2636
         }
     ]
 }

@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Jacopo del Cassero",
-            "pageView": 18165
+            "pageView": 11,
+            "total": 18168
         },
         {
             "page": "Franco Pezzato",
-            "pageView": 13726
-        },
-        {
-            "page": "Giuseppe Carraro",
-            "pageView": 9471
+            "pageView": 8,
+            "total": 13734
         },
         {
             "page": "Giovanni Mialich",
-            "pageView": 8966
+            "pageView": 6,
+            "total": 8972
+        },
+        {
+            "page": "Giuseppe Carraro",
+            "pageView": 5,
+            "total": 9483
         },
         {
             "page": "Armando Gallo",
-            "pageView": 6636
-        },
-        {
-            "page": "Giuliano Groppi",
-            "pageView": 5351
+            "pageView": 4,
+            "total": 6639
         },
         {
             "page": "Barbara Marchisio",
-            "pageView": 4639
+            "pageView": 3,
+            "total": 4641
         },
         {
             "page": "Antonio Santucci (filosofo)",
-            "pageView": 3913
+            "pageView": 3,
+            "total": 3913
         },
         {
             "page": "Gino Pizzati",
-            "pageView": 3708
+            "pageView": 3,
+            "total": 3711
         },
         {
-            "page": "Pietro Fiore",
-            "pageView": 3453
-        },
-        {
-            "page": "Maurizio Bacchin",
-            "pageView": 2547
-        },
-        {
-            "page": "Agostino Saccozzi",
-            "pageView": 2369
+            "page": "Giuliano Groppi",
+            "pageView": 3,
+            "total": 5356
         },
         {
             "page": "Carlo Tolotti",
-            "pageView": 2063
+            "pageView": 2,
+            "total": 2063
+        },
+        {
+            "page": "Agostino Saccozzi",
+            "pageView": 2,
+            "total": 2369
         },
         {
             "page": "Giovanni Favaretto Fisca",
-            "pageView": 1966
+            "pageView": 2,
+            "total": 1971
+        },
+        {
+            "page": "Pietro Fiore",
+            "pageView": 2,
+            "total": 3454
+        },
+        {
+            "page": "Maurizio Bacchin",
+            "pageView": 2,
+            "total": 2549
         },
         {
             "page": "Mario Formenton (calciatore)",
-            "pageView": 1296
+            "pageView": 1,
+            "total": 1296
         },
         {
             "page": "Luigi Dei Bei",
-            "pageView": 906
+            "pageView": 1,
+            "total": 906
         },
         {
             "page": "Attilio Conton",
-            "pageView": 700
+            "pageView": 0,
+            "total": 701
         }
     ]
 }

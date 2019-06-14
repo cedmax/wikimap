@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Nico Tirone",
-            "pageView": 20073
+            "pageView": 13,
+            "total": 20084
         },
         {
             "page": "Mike Merlo",
-            "pageView": 20002
+            "pageView": 12,
+            "total": 20022
         },
         {
             "page": "Ignazio Milillo",
-            "pageView": 18212
+            "pageView": 10,
+            "total": 18226
         },
         {
             "page": "Antonino Cuffaro",
-            "pageView": 12370
+            "pageView": 8,
+            "total": 12379
         },
         {
             "page": "Antonino Intelisano",
-            "pageView": 11211
+            "pageView": 7,
+            "total": 11215
         },
         {
             "page": "Gianbecchina",
-            "pageView": 9949
+            "pageView": 6,
+            "total": 9950
         },
         {
             "page": "Vincenzo Navarro",
-            "pageView": 4918
+            "pageView": 3,
+            "total": 4921
         },
         {
             "page": "Michelangelo Bonadies",
-            "pageView": 3739
+            "pageView": 2,
+            "total": 3742
         },
         {
             "page": "Antonio Giacone",
-            "pageView": 1440
-        },
-        {
-            "page": "Fra Felice da Sambuca",
-            "pageView": 1123
+            "pageView": 1,
+            "total": 1441
         },
         {
             "page": "Giuseppe Amorelli",
-            "pageView": 329
+            "pageView": 0,
+            "total": 331
+        },
+        {
+            "page": "Fra Felice da Sambuca",
+            "pageView": 0,
+            "total": 1129
         }
     ]
 }

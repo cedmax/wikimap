@@ -1,0 +1,27 @@
+{
+    "id": "place.7013253104602150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontassieve",
+    "place_name": "Pontassieve, Firenze, Italy",
+    "bbox": [
+        11.339992,
+        43.76842,
+        11.530139,
+        43.884686
+    ],
+    "center": [
+        11.42917,
+        43.77444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.42917,
+            43.77444
+        ]
+    }
+}

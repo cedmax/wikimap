@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Vincenzo Talarico",
-            "pageView": 28920
+            "pageView": 17,
+            "total": 28933
         },
         {
             "page": "Angelo d'Acri",
-            "pageView": 27313
+            "pageView": 10,
+            "total": 27334
         },
         {
             "page": "Vincenzo Padula",
-            "pageView": 17489
+            "pageView": 9,
+            "total": 17491
         },
         {
             "page": "Fabio Roselli (calciatore)",
-            "pageView": 17018
+            "pageView": 8,
+            "total": 17022
         },
         {
             "page": "Massimo Scaglione (regista)",
-            "pageView": 9669
+            "pageView": 6,
+            "total": 9677
         },
         {
             "page": "Charles Atlas",
-            "pageView": 9113
-        },
-        {
-            "page": "Enzo Gallo",
-            "pageView": 8951
+            "pageView": 6,
+            "total": 9129
         },
         {
             "page": "Nicola Fusaro",
-            "pageView": 7716
+            "pageView": 5,
+            "total": 7730
         },
         {
             "page": "Giovan Battista Falcone",
-            "pageView": 5662
-        },
-        {
-            "page": "Vincenzo Julia",
-            "pageView": 3587
-        },
-        {
-            "page": "Francesco Sprovieri",
-            "pageView": 3045
+            "pageView": 3.5,
+            "total": 5667
         },
         {
             "page": "Giuseppe Antonio Arena",
-            "pageView": 2965
+            "pageView": 2,
+            "total": 2967
         },
         {
-            "page": "Francesco Spezzano",
-            "pageView": 2461
+            "page": "Enzo Gallo",
+            "pageView": 2,
+            "total": 8961
+        },
+        {
+            "page": "Vincenzo Julia",
+            "pageView": 2,
+            "total": 3590
         },
         {
             "page": "Luigi Giannone",
-            "pageView": 2366
+            "pageView": 2,
+            "total": 2366
+        },
+        {
+            "page": "Francesco Sprovieri",
+            "pageView": 2,
+            "total": 3046
+        },
+        {
+            "page": "Francesco Spezzano",
+            "pageView": 2,
+            "total": 2463
         },
         {
             "page": "Vincenzo Sprovieri",
-            "pageView": 1773
+            "pageView": 1,
+            "total": 1774
         },
         {
             "page": "Biagio Autieri",
-            "pageView": 1706
+            "pageView": 1,
+            "total": 1708
         },
         {
             "page": "Francesco Maria Greco (presbitero)",
-            "pageView": 533
+            "pageView": 0,
+            "total": 533
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "id": "poi.807453851874",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ercolano",
+    "place_name": "Ercolano, Corso Resina, 187, Ercolano, Napoli 80056, Italy",
+    "center": [
+        14.3486396875,
+        40.8061284375
+    ],
+    "geometry": {
+        "coordinates": [
+            14.3486396875,
+            40.8061284375
+        ],
+        "type": "Point"
+    }
+}

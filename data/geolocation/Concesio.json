@@ -1,0 +1,27 @@
+{
+    "id": "place.13150322711218670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Concesio",
+    "place_name": "Concesio, Brescia, Italy",
+    "bbox": [
+        10.172146,
+        45.585611,
+        10.259356,
+        45.637101
+    ],
+    "center": [
+        10.21667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21667,
+            45.6
+        ]
+    }
+}

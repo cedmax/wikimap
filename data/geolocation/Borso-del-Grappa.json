@@ -1,0 +1,27 @@
+{
+    "id": "place.9714664106578910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borso del Grappa",
+    "place_name": "Borso del Grappa, Treviso, Italy",
+    "bbox": [
+        11.74348,
+        45.792131,
+        11.822797,
+        45.871975
+    ],
+    "center": [
+        11.8,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            45.81667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9018675532777010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rapolla",
+    "place_name": "Rapolla, Potenza, Italy",
+    "bbox": [
+        15.641782,
+        40.953726,
+        15.748404,
+        41.021807
+    ],
+    "center": [
+        15.66667,
+        40.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.66667,
+            40.98333
+        ]
+    }
+}

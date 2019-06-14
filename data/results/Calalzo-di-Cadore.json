@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Lucio e Giuseppe Lozza",
-            "pageView": 9612
+            "pageView": 6,
+            "total": 9618
         },
         {
             "page": "Giorgio Valmassoi",
-            "pageView": 6478
+            "pageView": 4,
+            "total": 6480
         },
         {
             "page": "Alessio De Bon",
-            "pageView": 2400
+            "pageView": 2,
+            "total": 2405
         },
         {
             "page": "Giovanni Battista Frescura",
-            "pageView": 2100
+            "pageView": 2,
+            "total": 2102
         },
         {
             "page": "Aldo Vascellari",
-            "pageView": 1847
+            "pageView": 2,
+            "total": 1849
         },
         {
             "page": "Walter Frescura",
-            "pageView": 85
+            "pageView": 0,
+            "total": 85
         }
     ]
 }

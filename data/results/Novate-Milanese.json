@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Giovanni Testori",
-            "pageView": 92858
+            "pageView": 57,
+            "total": 92917
         },
         {
             "page": "Vincenzo Torriani",
-            "pageView": 21369
-        },
-        {
-            "page": "Bertola da Novate",
-            "pageView": 4477
+            "pageView": 7,
+            "total": 21375
         },
         {
             "page": "Angelo Uboldi",
-            "pageView": 3844
+            "pageView": 3,
+            "total": 3845
         },
         {
-            "page": "Giuseppe Radaelli",
-            "pageView": 2632
+            "page": "Bertola da Novate",
+            "pageView": 3,
+            "total": 4481
         },
         {
             "page": "Renato Galli",
-            "pageView": 1595
+            "pageView": 2,
+            "total": 1596
+        },
+        {
+            "page": "Giuseppe Radaelli",
+            "pageView": 2,
+            "total": 2632
         },
         {
             "page": "Bernardino da Novate",
-            "pageView": 1192
+            "pageView": 1,
+            "total": 1194
         }
     ]
 }

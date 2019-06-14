@@ -1,0 +1,27 @@
+{
+    "id": "place.14377435660485240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sulmona",
+    "place_name": "Sulmona, L'Aquila, Italy",
+    "bbox": [
+        13.862183,
+        42.009961,
+        13.981591,
+        42.125699
+    ],
+    "center": [
+        13.92232,
+        42.05233
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.92232,
+            42.05233
+        ]
+    }
+}

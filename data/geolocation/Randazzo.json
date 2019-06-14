@@ -1,0 +1,27 @@
+{
+    "id": "place.3069876293085580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Randazzo",
+    "place_name": "Randazzo, Catania, Italy",
+    "bbox": [
+        14.705844,
+        37.680238,
+        15.024853,
+        37.96056
+    ],
+    "center": [
+        14.95,
+        37.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.95,
+            37.88333
+        ]
+    }
+}

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Mario Borsa",
-            "pageView": 8435
+            "pageView": 5,
+            "total": 8441
         },
         {
             "page": "Arnaldo Agnelli",
-            "pageView": 2387
+            "pageView": 2,
+            "total": 2390
         },
         {
             "page": "Saverio Griffini",
-            "pageView": 2102
+            "pageView": 2,
+            "total": 2102
         }
     ]
 }

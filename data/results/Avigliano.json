@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Ninco Nanco",
-            "pageView": 204301
+            "pageView": 115.5,
+            "total": 204510
         },
         {
             "page": "Emanuele Gianturco",
-            "pageView": 17040
+            "pageView": 11,
+            "total": 17049
         },
         {
             "page": "Silvio Spaventa Filippi",
-            "pageView": 7260
+            "pageView": 5,
+            "total": 7265
         },
         {
             "page": "Romualdo Coviello",
-            "pageView": 3933
-        },
-        {
-            "page": "Vincenzo Verrastro",
-            "pageView": 3856
-        },
-        {
-            "page": "Leonard Covello",
-            "pageView": 3497
+            "pageView": 3,
+            "total": 3936
         },
         {
             "page": "Virgilio Corbo",
-            "pageView": 2769
+            "pageView": 2,
+            "total": 2769
+        },
+        {
+            "page": "Leonard Covello",
+            "pageView": 2,
+            "total": 3498
         },
         {
             "page": "Tommaso Claps",
-            "pageView": 2693
-        },
-        {
-            "page": "Francescantonio Bardi",
-            "pageView": 2354
+            "pageView": 2,
+            "total": 2694
         },
         {
             "page": "Luigi Filippi",
-            "pageView": 2118
-        },
-        {
-            "page": "Luigi Gianturco",
-            "pageView": 2021
-        },
-        {
-            "page": "Giulio Corbo",
-            "pageView": 1969
+            "pageView": 2,
+            "total": 2121
         },
         {
             "page": "Bartolo Gianturco",
-            "pageView": 1927
+            "pageView": 2,
+            "total": 1927
+        },
+        {
+            "page": "Francescantonio Bardi",
+            "pageView": 2,
+            "total": 2357
+        },
+        {
+            "page": "Luigi Gianturco",
+            "pageView": 2,
+            "total": 2022
         },
         {
             "page": "Donato Pace",
-            "pageView": 1292
+            "pageView": 2,
+            "total": 1292
         },
         {
-            "page": "Donato Sabato",
-            "pageView": 978
+            "page": "Giulio Corbo",
+            "pageView": 2,
+            "total": 1969
         },
         {
-            "page": "Nicola Palomba",
-            "pageView": 455
+            "page": "Vincenzo Verrastro",
+            "pageView": 2,
+            "total": 3858
         },
         {
             "page": "Giustiniano Palomba",
-            "pageView": 360
+            "pageView": 0,
+            "total": 361
+        },
+        {
+            "page": "Nicola Palomba",
+            "pageView": 0,
+            "total": 455
+        },
+        {
+            "page": "Donato Sabato",
+            "pageView": 0,
+            "total": 986
         },
         {
             "page": "Francesco Paolo Palomba",
-            "pageView": 243
+            "pageView": 0,
+            "total": 243
         }
     ]
 }

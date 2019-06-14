@@ -1,0 +1,27 @@
+{
+    "id": "place.8505668086330510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterosi",
+    "place_name": "Monterosi, Viterbo, Italy",
+    "bbox": [
+        12.270891,
+        42.159212,
+        12.314165,
+        42.208874
+    ],
+    "center": [
+        12.3,
+        42.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3,
+            42.18333
+        ]
+    }
+}

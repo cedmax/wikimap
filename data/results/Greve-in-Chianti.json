@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Aleandro Baldi",
-            "pageView": 232443
+            "pageView": 98,
+            "total": 232541
         },
         {
             "page": "Giovanni da Verrazzano",
-            "pageView": 121171
+            "pageView": 70.5,
+            "total": 121214
         },
         {
             "page": "Evelina Gori",
-            "pageView": 59151
+            "pageView": 29,
+            "total": 59235
         },
         {
             "page": "Piera Gatteschi Fondelli",
-            "pageView": 14130
+            "pageView": 8,
+            "total": 14133
         },
         {
             "page": "Massimo Baldini (filosofo)",
-            "pageView": 11329
+            "pageView": 7,
+            "total": 11334
         },
         {
             "page": "Scipione de' Ricci",
-            "pageView": 9132
-        },
-        {
-            "page": "Zanobi da Strada",
-            "pageView": 8364
+            "pageView": 6,
+            "total": 9138
         },
         {
             "page": "Domenico Giuliotti",
-            "pageView": 7628
+            "pageView": 5,
+            "total": 7632
+        },
+        {
+            "page": "Zanobi da Strada",
+            "pageView": 4,
+            "total": 8364
         },
         {
             "page": "Nino Tirinnanzi",
-            "pageView": 6703
+            "pageView": 4,
+            "total": 6713
         },
         {
             "page": "Bino Sanminiatelli",
-            "pageView": 4790
+            "pageView": 3,
+            "total": 4793
         },
         {
             "page": "Giuliano Vanghetti",
-            "pageView": 4313
+            "pageView": 3,
+            "total": 4317
         },
         {
             "page": "Simone Borgheresi",
-            "pageView": 3388
-        },
-        {
-            "page": "Carlo Baldini",
-            "pageView": 3150
-        },
-        {
-            "page": "Enrico Longinotti",
-            "pageView": 2890
+            "pageView": 2,
+            "total": 3390
         },
         {
             "page": "Giulio Bucciolini",
-            "pageView": 1936
+            "pageView": 2,
+            "total": 1937
+        },
+        {
+            "page": "Enrico Longinotti",
+            "pageView": 2,
+            "total": 2892
+        },
+        {
+            "page": "Carlo Baldini",
+            "pageView": 2,
+            "total": 3151
         },
         {
             "page": "Eufrosino",
-            "pageView": 1259
+            "pageView": 1,
+            "total": 1261
         }
     ]
 }

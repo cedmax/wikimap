@@ -1,0 +1,27 @@
+{
+    "id": "place.13162347847631320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marcello Pistoiese",
+    "place_name": "San Marcello Pistoiese, Pistoia, Italy",
+    "bbox": [
+        10.740924,
+        44.018074,
+        10.890699,
+        44.129774
+    ],
+    "center": [
+        10.79083,
+        44.05556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.79083,
+            44.05556
+        ]
+    }
+}

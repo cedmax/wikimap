@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Doctor Zot",
-            "pageView": 2666
-        },
-        {
-            "page": "Mario Viana",
-            "pageView": 1464
+            "pageView": 2,
+            "total": 2666
         },
         {
             "page": "Marco Pozzo",
-            "pageView": 1228
+            "pageView": 1,
+            "total": 1230
+        },
+        {
+            "page": "Mario Viana",
+            "pageView": 1,
+            "total": 1464
         }
     ]
 }

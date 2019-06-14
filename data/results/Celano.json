@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Tommaso da Celano",
-            "pageView": 50543
+            "pageView": 31,
+            "total": 50569
         },
         {
             "page": "Nazzareno Carusi",
-            "pageView": 14534
-        },
-        {
-            "page": "Filippo Piccone",
-            "pageView": 9616
-        },
-        {
-            "page": "Renzo Paris",
-            "pageView": 8480
+            "pageView": 8,
+            "total": 14546
         },
         {
             "page": "Angelo Pierleoni",
-            "pageView": 7476
+            "pageView": 5,
+            "total": 7485
+        },
+        {
+            "page": "Filippo Piccone",
+            "pageView": 5,
+            "total": 9618
+        },
+        {
+            "page": "Renzo Paris",
+            "pageView": 5,
+            "total": 8486
         },
         {
             "page": "Antonio Del Corvo",
-            "pageView": 7381
+            "pageView": 4,
+            "total": 7395
         },
         {
             "page": "Jacovella da Celano",
-            "pageView": 6057
+            "pageView": 3,
+            "total": 6064
         },
         {
             "page": "Oreste Ranelletti",
-            "pageView": 5600
-        },
-        {
-            "page": "Giuseppe Corsi da Celano",
-            "pageView": 3201
+            "pageView": 3,
+            "total": 5603
         },
         {
             "page": "Vittoriano Esposito",
-            "pageView": 3136
+            "pageView": 2,
+            "total": 3137
+        },
+        {
+            "page": "Giuseppe Corsi da Celano",
+            "pageView": 2,
+            "total": 3203
         },
         {
             "page": "Pietro Antonio Corsignani",
-            "pageView": 2199
+            "pageView": 2,
+            "total": 2202
         },
         {
             "page": "Antonio Pietrantoni",
-            "pageView": 1858
+            "pageView": 1,
+            "total": 1859
         },
         {
             "page": "Panfilo Tabassi",
-            "pageView": 304
+            "pageView": 0,
+            "total": 305
         }
     ]
 }

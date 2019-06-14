@@ -1,0 +1,27 @@
+{
+    "id": "place.9128646627427260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Medolago",
+    "place_name": "Medolago, Bergamo, Italy",
+    "bbox": [
+        9.473762,
+        45.663579,
+        9.517523,
+        45.683049
+    ],
+    "center": [
+        9.5,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.5,
+            45.66667
+        ]
+    }
+}

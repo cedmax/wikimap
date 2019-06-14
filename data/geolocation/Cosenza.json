@@ -1,0 +1,27 @@
+{
+    "id": "place.4201357959119940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cosenza",
+    "place_name": "Cosenza, Cosenza, Italy",
+    "bbox": [
+        16.217962,
+        39.226056,
+        16.324051,
+        39.331904
+    ],
+    "center": [
+        16.25,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.25,
+            39.3
+        ]
+    }
+}

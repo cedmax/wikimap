@@ -2,60 +2,74 @@
     "name": "Sant'Angelo dei Lombardi",
     "people": [
         {
-            "page": "Salvatore Nunnari",
-            "pageView": 15496
+            "page": "Francesco Alfano",
+            "pageView": 8,
+            "total": 13185
         },
         {
-            "page": "Francesco Alfano",
-            "pageView": 13152
+            "page": "Salvatore Nunnari",
+            "pageView": 8,
+            "total": 15502
         },
         {
             "page": "Pasquale Cascio",
-            "pageView": 8227
+            "pageView": 5,
+            "total": 8233
         },
         {
             "page": "Mario Milano",
-            "pageView": 8162
+            "pageView": 5,
+            "total": 8164
         },
         {
             "page": "Gabriele Berardi",
-            "pageView": 6721
+            "pageView": 4,
+            "total": 6723
         },
         {
             "page": "Rosanna Repole",
-            "pageView": 5718
-        },
-        {
-            "page": "Lorenzo De Vitto",
-            "pageView": 3657
-        },
-        {
-            "page": "Ebe De Paulis",
-            "pageView": 3577
+            "pageView": 3,
+            "total": 5719
         },
         {
             "page": "Achille Argentino",
-            "pageView": 3280
-        },
-        {
-            "page": "Dante Della Terza",
-            "pageView": 2958
+            "pageView": 2,
+            "total": 3283
         },
         {
             "page": "Ferdinando Schettino",
-            "pageView": 2870
+            "pageView": 2,
+            "total": 2873
         },
         {
-            "page": "Gabriele Criscuoli",
-            "pageView": 1756
+            "page": "Ebe De Paulis",
+            "pageView": 2,
+            "total": 3579
         },
         {
-            "page": "Raffaele Rotiroti",
-            "pageView": 1362
+            "page": "Lorenzo De Vitto",
+            "pageView": 2,
+            "total": 3657
+        },
+        {
+            "page": "Dante Della Terza",
+            "pageView": 2,
+            "total": 2959
         },
         {
             "page": "Michele Sambiase Sanseverino",
-            "pageView": 1098
+            "pageView": 1,
+            "total": 1098
+        },
+        {
+            "page": "Raffaele Rotiroti",
+            "pageView": 1,
+            "total": 1363
+        },
+        {
+            "page": "Gabriele Criscuoli",
+            "pageView": 1,
+            "total": 1756
         }
     ]
 }

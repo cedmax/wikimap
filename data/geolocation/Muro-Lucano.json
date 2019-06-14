@@ -1,0 +1,27 @@
+{
+    "id": "place.12413275283584230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Muro Lucano",
+    "place_name": "Muro Lucano, Potenza, Italy",
+    "bbox": [
+        15.378864,
+        40.672742,
+        15.545268,
+        40.802542
+    ],
+    "center": [
+        15.48333,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.48333,
+            40.75
+        ]
+    }
+}

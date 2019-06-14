@@ -1,0 +1,27 @@
+{
+    "id": "place.15220742889138120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vitulano",
+    "place_name": "Vitulano, Benevento, Italy",
+    "bbox": [
+        14.563419,
+        41.119277,
+        14.688788,
+        41.223606
+    ],
+    "center": [
+        14.65,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.65,
+            41.18333
+        ]
+    }
+}

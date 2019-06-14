@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Vasco Rossi",
-            "pageView": 3865910
+            "pageView": 1629.5,
+            "total": 3873913
         },
         {
             "page": "Massimo Riva",
-            "pageView": 589763
+            "pageView": 198,
+            "total": 590636
         },
         {
             "page": "Maurizio Cheli",
-            "pageView": 56209
-        },
-        {
-            "page": "Giulio Santagata",
-            "pageView": 44305
+            "pageView": 32,
+            "total": 56261
         },
         {
             "page": "Marco Santagata",
-            "pageView": 37006
+            "pageView": 22,
+            "total": 37014
         },
         {
-            "page": "Gabriele Adani",
-            "pageView": 5539
+            "page": "Giulio Santagata",
+            "pageView": 9,
+            "total": 44315
         },
         {
             "page": "Giovanni Maria Bononcini",
-            "pageView": 5133
+            "pageView": 3,
+            "total": 5134
         },
         {
-            "page": "Mauro Antonio Tesi",
-            "pageView": 3522
-        },
-        {
-            "page": "Claudio Venturi",
-            "pageView": 3134
+            "page": "Gabriele Adani",
+            "pageView": 3,
+            "total": 5541
         },
         {
             "page": "Zosimo Marinelli",
-            "pageView": 2120
+            "pageView": 2,
+            "total": 2120
+        },
+        {
+            "page": "Mauro Antonio Tesi",
+            "pageView": 2,
+            "total": 3522
+        },
+        {
+            "page": "Claudio Venturi",
+            "pageView": 2,
+            "total": 3134
         },
         {
             "page": "Claudio Sandonnini",
-            "pageView": 1355
+            "pageView": 1,
+            "total": 1357
         }
     ]
 }

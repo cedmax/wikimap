@@ -1,0 +1,27 @@
+{
+    "id": "place.18759498188054330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altivole",
+    "place_name": "Altivole, Treviso, Italy",
+    "bbox": [
+        11.89021,
+        45.725459,
+        11.998573,
+        45.772729
+    ],
+    "center": [
+        11.95,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95,
+            45.75
+        ]
+    }
+}

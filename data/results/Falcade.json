@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Augusto Murer",
-            "pageView": 23763
+            "pageView": 15,
+            "total": 23787
         },
         {
             "page": "Franco Murer",
-            "pageView": 7793
+            "pageView": 5,
+            "total": 7798
         },
         {
             "page": "Ferruccio Serafini",
-            "pageView": 7253
-        },
-        {
-            "page": "Giovanni Marchiori",
-            "pageView": 4670
+            "pageView": 4,
+            "total": 7258
         },
         {
             "page": "Antonio Della Lucia",
-            "pageView": 3949
+            "pageView": 3,
+            "total": 3949
         },
         {
-            "page": "Dante Moro",
-            "pageView": 3114
-        },
-        {
-            "page": "Delia Murer",
-            "pageView": 2539
+            "page": "Giovanni Marchiori",
+            "pageView": 3,
+            "total": 4672
         },
         {
             "page": "Pietro Follador",
-            "pageView": 2187
+            "pageView": 2,
+            "total": 2188
+        },
+        {
+            "page": "Delia Murer",
+            "pageView": 2,
+            "total": 2539
+        },
+        {
+            "page": "Dante Moro",
+            "pageView": 2,
+            "total": 3116
         },
         {
             "page": "Milos Ganz",
-            "pageView": 1358
+            "pageView": 1,
+            "total": 1358
         },
         {
             "page": "Gioacchino Busin",
-            "pageView": 38
+            "pageView": 0,
+            "total": 38
         }
     ]
 }

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Tom Perry",
-            "pageView": 10253
+            "pageView": 5,
+            "total": 10254
         },
         {
             "page": "Vincenza Pasini",
-            "pageView": 6396
+            "pageView": 4,
+            "total": 6396
         },
         {
             "page": "August Nogara",
-            "pageView": 307
+            "pageView": 0,
+            "total": 307
         }
     ]
 }

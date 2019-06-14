@@ -1,0 +1,27 @@
+{
+    "id": "place.12276503233625420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Misterbianco",
+    "place_name": "Misterbianco, Catania, Italy",
+    "bbox": [
+        14.966339,
+        37.452837,
+        15.056425,
+        37.550397
+    ],
+    "center": [
+        15.00694,
+        37.51833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.00694,
+            37.51833
+        ]
+    }
+}

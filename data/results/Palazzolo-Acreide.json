@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Giuseppe Fava",
-            "pageView": 342293
+            "pageView": 77,
+            "total": 342362
         },
         {
             "page": "Silvia Salemi",
-            "pageView": 247974
+            "pageView": 62,
+            "total": 248083
         },
         {
             "page": "Giacinto Ferro",
-            "pageView": 65181
+            "pageView": 25,
+            "total": 65208
         },
         {
             "page": "Gaetano Giuliano",
-            "pageView": 14602
+            "pageView": 7,
+            "total": 14608
         },
         {
             "page": "Francesco Carpino",
-            "pageView": 10237
+            "pageView": 6,
+            "total": 10240
         },
         {
             "page": "Antonino Uccello",
-            "pageView": 7817
-        },
-        {
-            "page": "Turi Golino",
-            "pageView": 3437
-        },
-        {
-            "page": "Giuseppe Rovella",
-            "pageView": 1852
+            "pageView": 5,
+            "total": 7821
         },
         {
             "page": "Salvatore Bologna",
-            "pageView": 1623
+            "pageView": 2,
+            "total": 1623
         },
         {
-            "page": "Giovanni Battista Bongiorno",
-            "pageView": 737
+            "page": "Turi Golino",
+            "pageView": 2,
+            "total": 3438
         },
         {
             "page": "Antonietta Rizza",
-            "pageView": 724
+            "pageView": 1,
+            "total": 725
+        },
+        {
+            "page": "Giuseppe Rovella",
+            "pageView": 1,
+            "total": 1852
+        },
+        {
+            "page": "Giovanni Battista Bongiorno",
+            "pageView": 0,
+            "total": 737
         },
         {
             "page": "Salvatore Italia",
-            "pageView": 390
+            "pageView": 0,
+            "total": 391
         }
     ]
 }

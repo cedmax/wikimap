@@ -1,0 +1,27 @@
+{
+    "id": "place.11002938251117180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontebba",
+    "place_name": "Pontebba, Udine, Italy",
+    "bbox": [
+        13.20491,
+        46.468146,
+        13.389537,
+        46.570105
+    ],
+    "center": [
+        13.31667,
+        46.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31667,
+            46.5
+        ]
+    }
+}

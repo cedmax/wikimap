@@ -2,7 +2,8 @@ const pageviews = require("pageviews");
 const fs = require("fs");
 const requireFolderTree = require("require-folder-tree");
 const rimraf = require("rimraf");
-const citiesData = requireFolderTree(`${__dirname}/data`);
+const median = require("median");
+const citiesData = requireFolderTree(`${__dirname}/lists`);
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const end = new Date();
@@ -36,7 +37,11 @@ const getPageViews = async (name, array, counter) => {
       JSON.stringify(
         list.map((page, i) => ({
           page,
-          pageView: pageViewData[i].items.reduce(
+          pageView:
+            pageViewData[i].items.length >= 365
+              ? median(pageViewData[i].items.map(({ views }) => views))
+              : 0,
+          total: pageViewData[i].items.reduce(
             (acc, { views }) => acc + views,
             0
           ),
@@ -75,7 +80,8 @@ const failed = [];
             {
               name,
               people: results.sort(
-                ({ pageView }, { pageView: pageViewb }) => pageViewb - pageView
+                ({ pageView, total }, { pageView: pageViewB, totalB }) =>
+                  pageViewB - pageView
               ),
             },
             null,

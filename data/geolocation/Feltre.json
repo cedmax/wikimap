@@ -1,0 +1,27 @@
+{
+    "id": "place.12722180210154030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Feltre",
+    "place_name": "Feltre, Belluno, Italy",
+    "bbox": [
+        11.840889,
+        45.9722,
+        11.986332,
+        46.120489
+    ],
+    "center": [
+        11.9,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9,
+            46.01667
+        ]
+    }
+}

@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Fabio Capello",
-            "pageView": 894185
+            "pageView": 435,
+            "total": 894589
         },
         {
             "page": "Gastone Bean",
-            "pageView": 25738
+            "pageView": 17,
+            "total": 25753
         },
         {
             "page": "Mario Tortul",
-            "pageView": 12476
+            "pageView": 8,
+            "total": 12479
         },
         {
             "page": "Lucio Bertogna",
-            "pageView": 6495
+            "pageView": 4,
+            "total": 6498
         },
         {
             "page": "Gabriele Polo",
-            "pageView": 5850
-        },
-        {
-            "page": "Italo Mazzero",
-            "pageView": 5153
-        },
-        {
-            "page": "Luigi Spanghero",
-            "pageView": 4352
+            "pageView": 4,
+            "total": 5854
         },
         {
             "page": "Corrado Zorzin",
-            "pageView": 4221
+            "pageView": 3,
+            "total": 4221
+        },
+        {
+            "page": "Italo Mazzero",
+            "pageView": 3,
+            "total": 5158
+        },
+        {
+            "page": "Luigi Spanghero",
+            "pageView": 3,
+            "total": 4356
         },
         {
             "page": "Aldo Fontana",
-            "pageView": 3004
-        },
-        {
-            "page": "Roberto Malaroda",
-            "pageView": 1922
+            "pageView": 2,
+            "total": 3005
         },
         {
             "page": "Michela Ceschia",
-            "pageView": 1169
+            "pageView": 2,
+            "total": 1169
+        },
+        {
+            "page": "Roberto Malaroda",
+            "pageView": 2,
+            "total": 1922
         }
     ]
 }

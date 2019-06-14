@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Salvatore Ligorio",
-            "pageView": 24446
+            "pageView": 11,
+            "total": 24454
         },
         {
             "page": "Agostino Superbo",
-            "pageView": 15507
+            "pageView": 6,
+            "total": 15509
         },
         {
             "page": "Ennio Appignanesi",
-            "pageView": 6616
-        },
-        {
-            "page": "Augusto Bertazzoni",
-            "pageView": 4560
+            "pageView": 4,
+            "total": 6619
         },
         {
             "page": "Bernardo della Torre",
-            "pageView": 4266
+            "pageView": 3,
+            "total": 4268
         },
         {
-            "page": "Aurelio Sorrentino",
-            "pageView": 3720
+            "page": "Augusto Bertazzoni",
+            "pageView": 3,
+            "total": 4561
         },
         {
             "page": "Gino Volpe",
-            "pageView": 3552
+            "pageView": 2,
+            "total": 3552
         },
         {
-            "page": "Antonio Lotierzo",
-            "pageView": 2924
-        },
-        {
-            "page": "Michele Gerardo Pasquarelli",
-            "pageView": 2748
-        },
-        {
-            "page": "Donato Anzani",
-            "pageView": 1846
+            "page": "Aurelio Sorrentino",
+            "pageView": 2,
+            "total": 3723
         },
         {
             "page": "Pietro Ignazio Marolda",
-            "pageView": 1831
+            "pageView": 2,
+            "total": 1833
         },
         {
-            "page": "Giuseppe Ciantes",
-            "pageView": 554
+            "page": "Antonio Lotierzo",
+            "pageView": 2,
+            "total": 2932
+        },
+        {
+            "page": "Michele Gerardo Pasquarelli",
+            "pageView": 2,
+            "total": 2751
+        },
+        {
+            "page": "Donato Anzani",
+            "pageView": 1,
+            "total": 1847
         },
         {
             "page": "Luigi Carvelli",
-            "pageView": 222
+            "pageView": 0,
+            "total": 225
+        },
+        {
+            "page": "Giuseppe Ciantes",
+            "pageView": 0,
+            "total": 559
         }
     ]
 }

@@ -3,187 +3,233 @@
     "people": [
         {
             "page": "Crescenzio Sepe",
-            "pageView": 97643
+            "pageView": 55,
+            "total": 97679
         },
         {
             "page": "Biagio Marin",
-            "pageView": 24574
-        },
-        {
-            "page": "Maurizio Raise",
-            "pageView": 11322
+            "pageView": 16,
+            "total": 24586
         },
         {
             "page": "Antonio Smareglia",
-            "pageView": 10428
+            "pageView": 6,
+            "total": 10429
         },
         {
             "page": "Alessandro Maran",
-            "pageView": 10043
+            "pageView": 6,
+            "total": 10058
         },
         {
             "page": "Giancarlo Ghirardi",
-            "pageView": 8521
+            "pageView": 5,
+            "total": 8532
         },
         {
             "page": "Giuseppe Ostromann",
-            "pageView": 5882
+            "pageView": 4,
+            "total": 5884
         },
         {
             "page": "Giovanni I Partecipazio",
-            "pageView": 5579
-        },
-        {
-            "page": "Marzio Lugnan",
-            "pageView": 4665
+            "pageView": 4,
+            "total": 5582
         },
         {
             "page": "Giuseppe Bugatto",
-            "pageView": 3807
+            "pageView": 3,
+            "total": 3810
         },
         {
-            "page": "Franco Meneghel",
-            "pageView": 3758
+            "page": "Marzio Lugnan",
+            "pageView": 3,
+            "total": 4666
         },
         {
-            "page": "Orso Orseolo",
-            "pageView": 3317
-        },
-        {
-            "page": "Enrico Dandolo (patriarca)",
-            "pageView": 3273
-        },
-        {
-            "page": "Guglielmo Toros",
-            "pageView": 2909
-        },
-        {
-            "page": "Mirko Gruden",
-            "pageView": 2848
-        },
-        {
-            "page": "Paolino I",
-            "pageView": 2812
-        },
-        {
-            "page": "Mauro De Grassi",
-            "pageView": 2415
-        },
-        {
-            "page": "Francesco Lando",
-            "pageView": 2303
-        },
-        {
-            "page": "Antonio Gordini",
-            "pageView": 2214
-        },
-        {
-            "page": "Vigilio De Grassi",
-            "pageView": 2156
-        },
-        {
-            "page": "Stefano Raise",
-            "pageView": 2075
-        },
-        {
-            "page": "Fortunato II di Grado",
-            "pageView": 2064
-        },
-        {
-            "page": "Aldo Tarlao",
-            "pageView": 2056
-        },
-        {
-            "page": "Marco Condulmer",
-            "pageView": 1919
-        },
-        {
-            "page": "Angelo Barozzi",
-            "pageView": 1789
-        },
-        {
-            "page": "Severo (patriarca di Aquileia)",
-            "pageView": 1725
-        },
-        {
-            "page": "Dino di Radicofani",
-            "pageView": 1600
-        },
-        {
-            "page": "Luigi Zoni",
-            "pageView": 1543
-        },
-        {
-            "page": "Giovanni di Grado",
-            "pageView": 1480
-        },
-        {
-            "page": "Vitale Candiano (patriarca)",
-            "pageView": 1370
-        },
-        {
-            "page": "Pietro Marturio",
-            "pageView": 1364
-        },
-        {
-            "page": "Fortunato I di Grado",
-            "pageView": 1232
-        },
-        {
-            "page": "Giovanni Marin (1934)",
-            "pageView": 1188
-        },
-        {
-            "page": "Probino (patriarca di Aquileia)",
-            "pageView": 1182
-        },
-        {
-            "page": "Venerio Trasmondo",
-            "pageView": 1162
-        },
-        {
-            "page": "Francesco Querini",
-            "pageView": 1144
-        },
-        {
-            "page": "Domenico Marango",
-            "pageView": 1127
-        },
-        {
-            "page": "Vitale Partecipazio",
-            "pageView": 1115
-        },
-        {
-            "page": "Giovanni V (patriarca di Grado)",
-            "pageView": 1015
-        },
-        {
-            "page": "Orso Dolfin",
-            "pageView": 1001
+            "page": "Maurizio Raise",
+            "pageView": 3,
+            "total": 11324
         },
         {
             "page": "Sofronio Pocarini",
-            "pageView": 962
+            "pageView": 2,
+            "total": 963
+        },
+        {
+            "page": "Severo (patriarca di Aquileia)",
+            "pageView": 2,
+            "total": 1727
+        },
+        {
+            "page": "Mirko Gruden",
+            "pageView": 2,
+            "total": 2848
+        },
+        {
+            "page": "Luigi Zoni",
+            "pageView": 2,
+            "total": 1545
+        },
+        {
+            "page": "Vigilio De Grassi",
+            "pageView": 2,
+            "total": 2157
+        },
+        {
+            "page": "Francesco Querini",
+            "pageView": 2,
+            "total": 1145
+        },
+        {
+            "page": "Mauro De Grassi",
+            "pageView": 2,
+            "total": 2415
+        },
+        {
+            "page": "Franco Meneghel",
+            "pageView": 2,
+            "total": 3761
+        },
+        {
+            "page": "Paolino I",
+            "pageView": 2,
+            "total": 2812
+        },
+        {
+            "page": "Antonio Gordini",
+            "pageView": 2,
+            "total": 2215
+        },
+        {
+            "page": "Stefano Raise",
+            "pageView": 2,
+            "total": 2076
+        },
+        {
+            "page": "Aldo Tarlao",
+            "pageView": 2,
+            "total": 2059
+        },
+        {
+            "page": "Guglielmo Toros",
+            "pageView": 2,
+            "total": 2909
+        },
+        {
+            "page": "Angelo Barozzi",
+            "pageView": 2,
+            "total": 1792
+        },
+        {
+            "page": "Marco Condulmer",
+            "pageView": 2,
+            "total": 1922
+        },
+        {
+            "page": "Enrico Dandolo (patriarca)",
+            "pageView": 2,
+            "total": 3273
+        },
+        {
+            "page": "Fortunato II di Grado",
+            "pageView": 2,
+            "total": 2064
+        },
+        {
+            "page": "Francesco Lando",
+            "pageView": 2,
+            "total": 2303
+        },
+        {
+            "page": "Orso Orseolo",
+            "pageView": 2,
+            "total": 3318
+        },
+        {
+            "page": "Vitale Candiano (patriarca)",
+            "pageView": 1,
+            "total": 1371
+        },
+        {
+            "page": "Probino (patriarca di Aquileia)",
+            "pageView": 1,
+            "total": 1182
+        },
+        {
+            "page": "Giovanni di Grado",
+            "pageView": 1,
+            "total": 1480
+        },
+        {
+            "page": "Dino di Radicofani",
+            "pageView": 1,
+            "total": 1601
+        },
+        {
+            "page": "Orso Dolfin",
+            "pageView": 1,
+            "total": 1001
+        },
+        {
+            "page": "Fortunato I di Grado",
+            "pageView": 1,
+            "total": 1232
+        },
+        {
+            "page": "Venerio Trasmondo",
+            "pageView": 1,
+            "total": 1162
+        },
+        {
+            "page": "Giovanni V (patriarca di Grado)",
+            "pageView": 1,
+            "total": 1016
+        },
+        {
+            "page": "Giovanni Marin (1934)",
+            "pageView": 1,
+            "total": 1189
+        },
+        {
+            "page": "Domenico Marango",
+            "pageView": 1,
+            "total": 1128
+        },
+        {
+            "page": "Pietro Marturio",
+            "pageView": 1,
+            "total": 1364
         },
         {
             "page": "Vittore Partecipazio",
-            "pageView": 768
+            "pageView": 1,
+            "total": 768
         },
         {
-            "page": "Guido Andloviz",
-            "pageView": 633
-        },
-        {
-            "page": "Mario Baresi",
-            "pageView": 438
+            "page": "Vitale Partecipazio",
+            "pageView": 1,
+            "total": 1115
         },
         {
             "page": "Silvano Baresi (architetto)",
-            "pageView": 428
+            "pageView": 0,
+            "total": 431
         },
         {
             "page": "Silvano Baresi (politico)",
-            "pageView": 418
+            "pageView": 0,
+            "total": 418
+        },
+        {
+            "page": "Mario Baresi",
+            "pageView": 0,
+            "total": 439
+        },
+        {
+            "page": "Guido Andloviz",
+            "pageView": 0,
+            "total": 633
         }
     ]
 }

@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Michele Scarponi",
-            "pageView": 404208
-        },
-        {
-            "page": "Vincenzo Ottorino Gentiloni",
-            "pageView": 80338
-        },
-        {
-            "page": "Paola Cardullo",
-            "pageView": 61524
+            "pageView": 58,
+            "total": 404334
         },
         {
             "page": "Giancarlo Falappa",
-            "pageView": 56296
+            "pageView": 29,
+            "total": 56352
+        },
+        {
+            "page": "Vincenzo Ottorino Gentiloni",
+            "pageView": 27.5,
+            "total": 80385
+        },
+        {
+            "page": "Paola Cardullo",
+            "pageView": 27,
+            "total": 61601
         },
         {
             "page": "Giulia Pisani",
-            "pageView": 32508
-        },
-        {
-            "page": "Chiara Di Iulio",
-            "pageView": 16782
+            "pageView": 18,
+            "total": 32530
         },
         {
             "page": "Giacomo Costantino Beltrami",
-            "pageView": 16276
+            "pageView": 9,
+            "total": 16289
+        },
+        {
+            "page": "Chiara Di Iulio",
+            "pageView": 8,
+            "total": 16801
         },
         {
             "page": "Laura Partenio",
-            "pageView": 14364
-        },
-        {
-            "page": "Berenika Tomsia",
-            "pageView": 12017
+            "pageView": 7,
+            "total": 14379
         },
         {
             "page": "Anthī Vasilantōnakī",
-            "pageView": 11959
+            "pageView": 6,
+            "total": 11967
         },
         {
             "page": "Ilaria Garzaro",
-            "pageView": 11262
+            "pageView": 6,
+            "total": 11270
         },
         {
-            "page": "Alessandro Beltrami",
-            "pageView": 10467
+            "page": "Berenika Tomsia",
+            "pageView": 5,
+            "total": 12019
         },
         {
             "page": "Francesca Bosio",
-            "pageView": 8657
+            "pageView": 5,
+            "total": 8663
+        },
+        {
+            "page": "Alessandro Beltrami",
+            "pageView": 5,
+            "total": 10509
         },
         {
             "page": "Paolo Corallini",
-            "pageView": 7783
-        },
-        {
-            "page": "Laura Baggi",
-            "pageView": 6950
-        },
-        {
-            "page": "Beatrice Agrifoglio",
-            "pageView": 6747
-        },
-        {
-            "page": "Giovanni Carestini",
-            "pageView": 6467
-        },
-        {
-            "page": "Chiara Negrini",
-            "pageView": 6180
-        },
-        {
-            "page": "Veronica Bisconti",
-            "pageView": 6103
-        },
-        {
-            "page": "Tereza Vanžurová",
-            "pageView": 5111
-        },
-        {
-            "page": "Lana Ščuka",
-            "pageView": 4926
-        },
-        {
-            "page": "Koyomi Tominaga",
-            "pageView": 3990
-        },
-        {
-            "page": "Bernarda Brčić",
-            "pageView": 3953
+            "pageView": 5,
+            "total": 7783
         },
         {
             "page": "Annie Mitchem",
-            "pageView": 3874
+            "pageView": 5,
+            "total": 3881
+        },
+        {
+            "page": "Giovanni Carestini",
+            "pageView": 4,
+            "total": 6467
+        },
+        {
+            "page": "Laura Baggi",
+            "pageView": 4,
+            "total": 6960
+        },
+        {
+            "page": "Beatrice Agrifoglio",
+            "pageView": 4,
+            "total": 6751
         },
         {
             "page": "Nicole Gamba",
-            "pageView": 3478
-        },
-        {
-            "page": "Aiyana Whitney",
-            "pageView": 3130
-        },
-        {
-            "page": "Sara Giuliodori",
-            "pageView": 2444
-        },
-        {
-            "page": "Serena Moneta",
-            "pageView": 2343
-        },
-        {
-            "page": "Dušanka Karić",
-            "pageView": 1533
+            "pageView": 3,
+            "total": 3479
         },
         {
             "page": "Sara Hutinski",
-            "pageView": 1513
+            "pageView": 3,
+            "total": 1513
+        },
+        {
+            "page": "Veronica Bisconti",
+            "pageView": 3,
+            "total": 6108
+        },
+        {
+            "page": "Serena Moneta",
+            "pageView": 3,
+            "total": 2348
+        },
+        {
+            "page": "Chiara Negrini",
+            "pageView": 3,
+            "total": 6185
+        },
+        {
+            "page": "Tereza Vanžurová",
+            "pageView": 3,
+            "total": 5114
+        },
+        {
+            "page": "Lana Ščuka",
+            "pageView": 3,
+            "total": 4928
+        },
+        {
+            "page": "Aiyana Whitney",
+            "pageView": 2,
+            "total": 3131
+        },
+        {
+            "page": "Bernarda Brčić",
+            "pageView": 2,
+            "total": 3956
+        },
+        {
+            "page": "Koyomi Tominaga",
+            "pageView": 2,
+            "total": 3994
+        },
+        {
+            "page": "Sara Giuliodori",
+            "pageView": 2,
+            "total": 2447
+        },
+        {
+            "page": "Dušanka Karić",
+            "pageView": 1,
+            "total": 1535
         },
         {
             "page": "Germano Sassaroli",
-            "pageView": 1070
-        },
-        {
-            "page": "Amos Luchetti Gentiloni",
-            "pageView": 512
-        },
-        {
-            "page": "Francesca Villani",
-            "pageView": 182
-        },
-        {
-            "page": "Nikki Taylor",
-            "pageView": 156
+            "pageView": 1,
+            "total": 1072
         },
         {
             "page": "Courtney Schwan",
-            "pageView": 134
+            "pageView": 0,
+            "total": 134
+        },
+        {
+            "page": "Nikki Taylor",
+            "pageView": 0,
+            "total": 157
         },
         {
             "page": "Athīna Papafōtiou",
-            "pageView": 81
+            "pageView": 0,
+            "total": 83
+        },
+        {
+            "page": "Amos Luchetti Gentiloni",
+            "pageView": 0,
+            "total": 513
+        },
+        {
+            "page": "Francesca Villani",
+            "pageView": 0,
+            "total": 193
         }
     ]
 }

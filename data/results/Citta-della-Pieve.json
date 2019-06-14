@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Perugino",
-            "pageView": 197268
-        },
-        {
-            "page": "Gualtiero Bassetti",
-            "pageView": 86421
+            "pageView": 127,
+            "total": 197341
         },
         {
             "page": "Mario Giuliacci",
-            "pageView": 65348
+            "pageView": 38,
+            "total": 65388
+        },
+        {
+            "page": "Gualtiero Bassetti",
+            "pageView": 38,
+            "total": 86465
         },
         {
             "page": "Ennio Antonelli",
-            "pageView": 35721
+            "pageView": 21,
+            "total": 35732
         },
         {
             "page": "Mario Petri",
-            "pageView": 29777
-        },
-        {
-            "page": "Diana Bacosi",
-            "pageView": 17157
+            "pageView": 14,
+            "total": 29783
         },
         {
             "page": "Alvaro Marchini",
-            "pageView": 11621
+            "pageView": 10,
+            "total": 11636
         },
         {
             "page": "Giuseppe Chiaretti",
-            "pageView": 9686
+            "pageView": 6,
+            "total": 9692
         },
         {
-            "page": "Giovanni Tacci Porcelli",
-            "pageView": 6717
+            "page": "Diana Bacosi",
+            "pageView": 5,
+            "total": 17166
         },
         {
             "page": "Antonio Circignani",
-            "pageView": 6024
+            "pageView": 4,
+            "total": 6027
         },
         {
-            "page": "Carlo Franci",
-            "pageView": 5596
-        },
-        {
-            "page": "Mario Mazza (attore)",
-            "pageView": 4178
-        },
-        {
-            "page": "Gaio Fratini",
-            "pageView": 3335
-        },
-        {
-            "page": "Cesare Sermei",
-            "pageView": 3290
-        },
-        {
-            "page": "Andrea Basili",
-            "pageView": 3223
-        },
-        {
-            "page": "Serafino Calindri",
-            "pageView": 3033
-        },
-        {
-            "page": "Matteo Balducci",
-            "pageView": 2934
-        },
-        {
-            "page": "Icilio Vanni",
-            "pageView": 2669
-        },
-        {
-            "page": "Ferdinando Lambruschini",
-            "pageView": 2581
+            "page": "Giovanni Tacci Porcelli",
+            "pageView": 4,
+            "total": 6721
         },
         {
             "page": "Alfio Marchini (1912)",
-            "pageView": 2568
+            "pageView": 4,
+            "total": 2571
         },
         {
-            "page": "Francesco Melosio",
-            "pageView": 2010
+            "page": "Carlo Franci",
+            "pageView": 3,
+            "total": 5599
         },
         {
-            "page": "Roberto Bonchio",
-            "pageView": 1950
+            "page": "Mario Mazza (attore)",
+            "pageView": 3,
+            "total": 4180
+        },
+        {
+            "page": "Andrea Basili",
+            "pageView": 2,
+            "total": 3232
         },
         {
             "page": "Giacomo l'Elemosiniere",
-            "pageView": 1839
+            "pageView": 2,
+            "total": 1840
         },
         {
-            "page": "Giacomo Peppicelli",
-            "pageView": 1762
+            "page": "Ferdinando Lambruschini",
+            "pageView": 2,
+            "total": 2583
         },
         {
-            "page": "Antonio Verri (geologo)",
-            "pageView": 1744
+            "page": "Matteo Balducci",
+            "pageView": 2,
+            "total": 2934
+        },
+        {
+            "page": "Roberto Bonchio",
+            "pageView": 2,
+            "total": 1950
+        },
+        {
+            "page": "Icilio Vanni",
+            "pageView": 2,
+            "total": 2672
+        },
+        {
+            "page": "Cesare Sermei",
+            "pageView": 2,
+            "total": 3293
+        },
+        {
+            "page": "Gaio Fratini",
+            "pageView": 2,
+            "total": 3337
         },
         {
             "page": "Cesare Orlandi",
-            "pageView": 1683
+            "pageView": 2,
+            "total": 1683
         },
         {
-            "page": "Manuel Volpi",
-            "pageView": 1638
+            "page": "Giacomo Peppicelli",
+            "pageView": 2,
+            "total": 1763
         },
         {
-            "page": "Ascanio Marchini",
-            "pageView": 1315
+            "page": "Serafino Calindri",
+            "pageView": 2,
+            "total": 3035
+        },
+        {
+            "page": "Francesco Melosio",
+            "pageView": 2,
+            "total": 2010
         },
         {
             "page": "Lucio Mazzuoli",
-            "pageView": 1207
+            "pageView": 1,
+            "total": 1207
+        },
+        {
+            "page": "Ascanio Marchini",
+            "pageView": 1,
+            "total": 1316
+        },
+        {
+            "page": "Antonio Verri (geologo)",
+            "pageView": 1,
+            "total": 1744
+        },
+        {
+            "page": "Manuel Volpi",
+            "pageView": 0,
+            "total": 1645
         },
         {
             "page": "Cesare Pagani",
-            "pageView": 520
+            "pageView": 0,
+            "total": 521
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.15304872414016220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Candelo",
+    "place_name": "Candelo, Biella, Italy",
+    "bbox": [
+        8.085872,
+        45.518754,
+        8.167176,
+        45.553656
+    ],
+    "center": [
+        8.10694,
+        45.54778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.10694,
+            45.54778
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14752292824369860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arquata del Tronto",
+    "place_name": "Arquata del Tronto, Ascoli Piceno, Italy",
+    "bbox": [
+        13.188461,
+        42.69407,
+        13.359061,
+        42.823417
+    ],
+    "center": [
+        13.29664,
+        42.77257
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29664,
+            42.77257
+        ]
+    }
+}

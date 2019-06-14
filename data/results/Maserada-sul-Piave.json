@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Renato Villalta",
-            "pageView": 23529
+            "pageView": 14,
+            "total": 23553
         },
         {
             "page": "Roberto Scandiuzzi",
-            "pageView": 10466
-        },
-        {
-            "page": "Floriana Casellato",
-            "pageView": 4914
+            "pageView": 6,
+            "total": 10467
         },
         {
             "page": "Antonio Caccianiga",
-            "pageView": 4350
+            "pageView": 3,
+            "total": 4353
+        },
+        {
+            "page": "Floriana Casellato",
+            "pageView": 3,
+            "total": 4918
         },
         {
             "page": "Lino Cason",
-            "pageView": 3216
+            "pageView": 2,
+            "total": 3216
         },
         {
             "page": "Gaetano Nave",
-            "pageView": 2237
+            "pageView": 2,
+            "total": 2237
         },
         {
             "page": "Veronica Schiavon",
-            "pageView": 1662
+            "pageView": 2,
+            "total": 1664
         },
         {
             "page": "Ernesto Paselli",
-            "pageView": 1389
+            "pageView": 1,
+            "total": 1389
         }
     ]
 }

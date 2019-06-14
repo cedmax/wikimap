@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Giovanni Nuvoletti",
-            "pageView": 44675
+            "pageView": 20,
+            "total": 44698
         },
         {
             "page": "Pietro d'Abano",
-            "pageView": 20222
+            "pageView": 12,
+            "total": 20247
         },
         {
             "page": "Marco Ercolessi",
-            "pageView": 15486
+            "pageView": 7,
+            "total": 15496
         },
         {
             "page": "Giulio Grassini",
-            "pageView": 7954
-        },
-        {
-            "page": "Lucio Fasolato",
-            "pageView": 7185
-        },
-        {
-            "page": "Quirino De Giorgio",
-            "pageView": 6924
+            "pageView": 5,
+            "total": 7959
         },
         {
             "page": "Liduina Meneguzzi",
-            "pageView": 5927
-        },
-        {
-            "page": "Gianni Di Capua",
-            "pageView": 5820
+            "pageView": 4,
+            "total": 5929
         },
         {
             "page": "Angelica Soffia",
-            "pageView": 4694
+            "pageView": 4,
+            "total": 4705
+        },
+        {
+            "page": "Lucio Fasolato",
+            "pageView": 4,
+            "total": 7191
+        },
+        {
+            "page": "Quirino De Giorgio",
+            "pageView": 4,
+            "total": 6930
         },
         {
             "page": "Alessandro Simioni",
-            "pageView": 4560
+            "pageView": 4,
+            "total": 4562
         },
         {
             "page": "Otello Pighin",
-            "pageView": 4252
+            "pageView": 3,
+            "total": 4255
         },
         {
-            "page": "Luigi Lanaro",
-            "pageView": 4001
+            "page": "Gianni Di Capua",
+            "pageView": 3,
+            "total": 5822
         },
         {
             "page": "Gigi Cameroni",
-            "pageView": 2239
-        },
-        {
-            "page": "Maria Antonia von Elsener",
-            "pageView": 1637
+            "pageView": 2,
+            "total": 2242
         },
         {
             "page": "Cesarino Crescente",
-            "pageView": 1452
+            "pageView": 2,
+            "total": 1454
+        },
+        {
+            "page": "Luigi Lanaro",
+            "pageView": 2,
+            "total": 4003
+        },
+        {
+            "page": "Maria Antonia von Elsener",
+            "pageView": 2,
+            "total": 1637
         },
         {
             "page": "Beatrice Rigoni",
-            "pageView": 775
+            "pageView": 0,
+            "total": 775
         },
         {
             "page": "Eddy Brown",
-            "pageView": 27
+            "pageView": 0,
+            "total": 27
         }
     ]
 }

@@ -2,244 +2,304 @@
     "name": "Giugliano in Campania",
     "people": [
         {
-            "page": "Fabio Paratici",
-            "pageView": 249511
-        },
-        {
             "page": "Giambattista Basile",
-            "pageView": 197082
+            "pageView": 111,
+            "total": 197156
         },
         {
             "page": "Claudio Sicilia",
-            "pageView": 164129
+            "pageView": 97,
+            "total": 164185
         },
         {
-            "page": "Massimo Gobbi",
-            "pageView": 136553
+            "page": "Fabio Paratici",
+            "pageView": 76,
+            "total": 250245
         },
         {
             "page": "Aniello Cutolo",
-            "pageView": 126372
-        },
-        {
-            "page": "Giuseppe Vives",
-            "pageView": 126145
-        },
-        {
-            "page": "Luigi Castaldo",
-            "pageView": 118255
+            "pageView": 66,
+            "total": 126419
         },
         {
             "page": "Giulio Migliaccio",
-            "pageView": 117984
+            "pageView": 65,
+            "total": 118049
+        },
+        {
+            "page": "Massimo Gobbi",
+            "pageView": 58,
+            "total": 136590
+        },
+        {
+            "page": "Giuseppe Vives",
+            "pageView": 53,
+            "total": 126190
+        },
+        {
+            "page": "Luigi Castaldo",
+            "pageView": 51,
+            "total": 118297
         },
         {
             "page": "Giorgio Corona",
-            "pageView": 90342
+            "pageView": 48,
+            "total": 90367
         },
         {
             "page": "Dino Fava Passaro",
-            "pageView": 80095
+            "pageView": 40,
+            "total": 80124
         },
         {
             "page": "Salvatore Campilongo",
-            "pageView": 51146
-        },
-        {
-            "page": "Nunzio Di Roberto",
-            "pageView": 48458
+            "pageView": 30,
+            "total": 51168
         },
         {
             "page": "Alfredo Maisto",
-            "pageView": 45971
+            "pageView": 27,
+            "total": 45994
         },
         {
             "page": "Gennaro Sardo",
-            "pageView": 44366
+            "pageView": 25,
+            "total": 44375
         },
         {
             "page": "Raffaele Biancolino",
-            "pageView": 43688
+            "pageView": 23,
+            "total": 43703
+        },
+        {
+            "page": "Nunzio Di Roberto",
+            "pageView": 21,
+            "total": 48470
         },
         {
             "page": "Mimmo Dany",
-            "pageView": 37129
-        },
-        {
-            "page": "Vincenzo Marruocco",
-            "pageView": 30620
-        },
-        {
-            "page": "Nicola Ciotola",
-            "pageView": 30460
-        },
-        {
-            "page": "Gaetano Vastola",
-            "pageView": 26948
+            "pageView": 21,
+            "total": 37143
         },
         {
             "page": "Costanzo Celestini",
-            "pageView": 24461
+            "pageView": 16,
+            "total": 24469
+        },
+        {
+            "page": "Nicola Ciotola",
+            "pageView": 16,
+            "total": 30472
+        },
+        {
+            "page": "Gaetano Vastola",
+            "pageView": 15,
+            "total": 26952
+        },
+        {
+            "page": "Vincenzo Marruocco",
+            "pageView": 14,
+            "total": 30625
         },
         {
             "page": "Francesco Scarpa",
-            "pageView": 22278
+            "pageView": 13,
+            "total": 22283
         },
         {
             "page": "Antonio Di Nardo",
-            "pageView": 21171
-        },
-        {
-            "page": "Giovanni Simonelli (allenatore)",
-            "pageView": 19203
+            "pageView": 12,
+            "total": 21181
         },
         {
             "page": "Raffaele Gragnaniello",
-            "pageView": 18971
+            "pageView": 11,
+            "total": 18974
         },
         {
-            "page": "Marco Cari",
-            "pageView": 16575
-        },
-        {
-            "page": "Maximiliano Cejas",
-            "pageView": 16511
+            "page": "Giovanni Simonelli (allenatore)",
+            "pageView": 10,
+            "total": 19211
         },
         {
             "page": "Giuseppe Dell'Aquila",
-            "pageView": 15299
+            "pageView": 10,
+            "total": 15306
         },
         {
-            "page": "Giuseppe Ferazzoli",
-            "pageView": 14766
+            "page": "Maximiliano Cejas",
+            "pageView": 9,
+            "total": 16512
+        },
+        {
+            "page": "Marco Cari",
+            "pageView": 9,
+            "total": 16581
         },
         {
             "page": "Lamberto Leonardi",
-            "pageView": 14602
+            "pageView": 9,
+            "total": 14617
         },
         {
             "page": "Filomena Morlando",
-            "pageView": 14312
+            "pageView": 8,
+            "total": 14318
         },
         {
-            "page": "Paolo De Crescenzo",
-            "pageView": 13083
-        },
-        {
-            "page": "Fabrizio Romondini",
-            "pageView": 12092
+            "page": "Giuseppe Ferazzoli",
+            "pageView": 8,
+            "total": 14773
         },
         {
             "page": "Marco De Simone",
-            "pageView": 11609
+            "pageView": 7,
+            "total": 11613
         },
         {
             "page": "Simone Veronese",
-            "pageView": 11482
+            "pageView": 7,
+            "total": 11488
         },
         {
-            "page": "Francesco Maglione",
-            "pageView": 10043
+            "page": "Fabrizio Romondini",
+            "pageView": 7,
+            "total": 12096
         },
         {
             "page": "Roberto Chiancone",
-            "pageView": 9716
+            "pageView": 6,
+            "total": 9722
+        },
+        {
+            "page": "Francesco Maglione",
+            "pageView": 5,
+            "total": 10057
         },
         {
             "page": "Giovanni Di Rocco",
-            "pageView": 8452
+            "pageView": 5,
+            "total": 8455
         },
         {
             "page": "Nunzio Falco",
-            "pageView": 7626
-        },
-        {
-            "page": "Ettore Recagni",
-            "pageView": 6958
-        },
-        {
-            "page": "Biagio Grasso",
-            "pageView": 6736
+            "pageView": 5,
+            "total": 7634
         },
         {
             "page": "Antonella Carta",
-            "pageView": 6192
+            "pageView": 4,
+            "total": 6224
         },
         {
-            "page": "Aniello Palumbo",
-            "pageView": 5004
+            "page": "Paolo De Crescenzo",
+            "pageView": 4,
+            "total": 13084
         },
         {
-            "page": "Antonio Iodice",
-            "pageView": 4165
+            "page": "Ettore Recagni",
+            "pageView": 4,
+            "total": 6971
+        },
+        {
+            "page": "Biagio Grasso",
+            "pageView": 4,
+            "total": 6737
         },
         {
             "page": "Angelo Tasca (calciatore)",
-            "pageView": 4064
+            "pageView": 3,
+            "total": 4064
         },
         {
-            "page": "Antonio Borzacchelli",
-            "pageView": 4012
+            "page": "Aniello Palumbo",
+            "pageView": 3,
+            "total": 5006
         },
         {
-            "page": "Nicolò Mignogna",
-            "pageView": 3424
-        },
-        {
-            "page": "Raffaele Di Nardo",
-            "pageView": 2911
-        },
-        {
-            "page": "Antonio Russo (politico)",
-            "pageView": 2685
-        },
-        {
-            "page": "Giuseppe Rizza",
-            "pageView": 2426
-        },
-        {
-            "page": "Antonio Migliaccio",
-            "pageView": 2344
-        },
-        {
-            "page": "Giuseppe Antonini (barone di San Biase)",
-            "pageView": 2162
-        },
-        {
-            "page": "Concepción Sánchez Freire",
-            "pageView": 2093
-        },
-        {
-            "page": "Giovanni Salvo",
-            "pageView": 2031
+            "page": "Antonio Iodice",
+            "pageView": 3,
+            "total": 4165
         },
         {
             "page": "Massimo Cacciapuoti",
-            "pageView": 1718
+            "pageView": 3,
+            "total": 1720
         },
         {
-            "page": "Armando Favi",
-            "pageView": 1584
+            "page": "Antonio Borzacchelli",
+            "pageView": 3,
+            "total": 4013
         },
         {
             "page": "Giuseppe Stasio",
-            "pageView": 1567
+            "pageView": 3,
+            "total": 1570
         },
         {
-            "page": "Francesco Paolo Cacciapuoti",
-            "pageView": 1558
+            "page": "Giovanni Salvo",
+            "pageView": 2,
+            "total": 2032
+        },
+        {
+            "page": "Giuseppe Antonini (barone di San Biase)",
+            "pageView": 2,
+            "total": 2163
         },
         {
             "page": "Viola Langella",
-            "pageView": 1532
+            "pageView": 2,
+            "total": 1536
         },
         {
-            "page": "Fabio Sebastiano Santoro",
-            "pageView": 1493
+            "page": "Giuseppe Rizza",
+            "pageView": 2,
+            "total": 2427
+        },
+        {
+            "page": "Armando Favi",
+            "pageView": 2,
+            "total": 1586
+        },
+        {
+            "page": "Nicolò Mignogna",
+            "pageView": 2,
+            "total": 3425
+        },
+        {
+            "page": "Antonio Russo (politico)",
+            "pageView": 2,
+            "total": 2686
         },
         {
             "page": "Francesco Di Domenico (giornalista)",
-            "pageView": 1229
+            "pageView": 2,
+            "total": 1231
+        },
+        {
+            "page": "Raffaele Di Nardo",
+            "pageView": 2,
+            "total": 2911
+        },
+        {
+            "page": "Concepción Sánchez Freire",
+            "pageView": 2,
+            "total": 2102
+        },
+        {
+            "page": "Antonio Migliaccio",
+            "pageView": 2,
+            "total": 2344
+        },
+        {
+            "page": "Francesco Paolo Cacciapuoti",
+            "pageView": 1,
+            "total": 1559
+        },
+        {
+            "page": "Fabio Sebastiano Santoro",
+            "pageView": 1,
+            "total": 1495
         }
     ]
 }

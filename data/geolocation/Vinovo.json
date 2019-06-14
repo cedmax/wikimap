@@ -1,0 +1,27 @@
+{
+    "id": "place.15763810251471220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vinovo",
+    "place_name": "Vinovo, Torino, Italy",
+    "bbox": [
+        7.599513,
+        44.925926,
+        7.658124,
+        44.984326
+    ],
+    "center": [
+        7.63333,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63333,
+            44.95
+        ]
+    }
+}

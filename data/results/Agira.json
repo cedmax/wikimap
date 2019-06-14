@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Filippo di Agira",
-            "pageView": 20523
+            "pageView": 9,
+            "total": 20529
         },
         {
             "page": "Pasquale Pistorio",
-            "pageView": 14264
+            "pageView": 9,
+            "total": 14284
         },
         {
             "page": "Maria Gaetana Greco",
-            "pageView": 7340
+            "pageView": 4,
+            "total": 7346
         },
         {
             "page": "Fortunato Fedele",
-            "pageView": 5394
+            "pageView": 3,
+            "total": 5396
         },
         {
             "page": "Giuseppe Giusti Sinopoli",
-            "pageView": 2239
+            "pageView": 2,
+            "total": 2239
         },
         {
             "page": "Francesco Monaco (vescovo)",
-            "pageView": 975
+            "pageView": 1,
+            "total": 975
         },
         {
             "page": "Paolo Foti",
-            "pageView": 645
+            "pageView": 0,
+            "total": 648
         }
     ]
 }

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Giuseppe Faggin",
-            "pageView": 4439
+            "pageView": 4,
+            "total": 4455
         },
         {
             "page": "Anacleto Milani",
-            "pageView": 4138
-        },
-        {
-            "page": "Valentino Gasparella",
-            "pageView": 3678
-        },
-        {
-            "page": "Arduino Bertoldo",
-            "pageView": 3087
+            "pageView": 2,
+            "total": 4140
         },
         {
             "page": "Gioacchino Stevan",
-            "pageView": 1971
+            "pageView": 2,
+            "total": 1972
+        },
+        {
+            "page": "Arduino Bertoldo",
+            "pageView": 2,
+            "total": 3090
+        },
+        {
+            "page": "Valentino Gasparella",
+            "pageView": 2,
+            "total": 3680
         }
     ]
 }

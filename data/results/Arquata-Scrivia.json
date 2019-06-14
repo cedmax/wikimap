@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Peppe Servillo",
-            "pageView": 264687
+            "pageView": 84,
+            "total": 264738
         },
         {
             "page": "Enrico Morando",
-            "pageView": 37166
-        },
-        {
-            "page": "Ando Gilardi",
-            "pageView": 12043
+            "pageView": 18,
+            "total": 37186
         },
         {
             "page": "Giuseppe Cavo Dragone",
-            "pageView": 8640
+            "pageView": 15,
+            "total": 8678
+        },
+        {
+            "page": "Ando Gilardi",
+            "pageView": 7,
+            "total": 12046
         },
         {
             "page": "Mino De Rossi",
-            "pageView": 4038
-        },
-        {
-            "page": "Vico Polotto",
-            "pageView": 3385
-        },
-        {
-            "page": "Piero Portalupi",
-            "pageView": 2692
-        },
-        {
-            "page": "Paolo Pansa",
-            "pageView": 2352
+            "pageView": 3,
+            "total": 4041
         },
         {
             "page": "Santo Bertelli",
-            "pageView": 2299
+            "pageView": 2,
+            "total": 2299
+        },
+        {
+            "page": "Paolo Pansa",
+            "pageView": 2,
+            "total": 2352
+        },
+        {
+            "page": "Piero Portalupi",
+            "pageView": 2,
+            "total": 2692
+        },
+        {
+            "page": "Vico Polotto",
+            "pageView": 2,
+            "total": 3389
         },
         {
             "page": "Luigi Patri",
-            "pageView": 1643
-        },
-        {
-            "page": "G. Alvigini",
-            "pageView": 420
+            "pageView": 1,
+            "total": 1643
         },
         {
             "page": "Enrico Rimini",
-            "pageView": 164
+            "pageView": 0,
+            "total": 164
+        },
+        {
+            "page": "G. Alvigini",
+            "pageView": 0,
+            "total": 421
         }
     ]
 }

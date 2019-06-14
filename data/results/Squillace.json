@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Guglielmo Pepe",
-            "pageView": 54686
+            "pageView": 33,
+            "total": 54724
         },
         {
             "page": "Goffredo Borgia",
-            "pageView": 54358
+            "pageView": 31,
+            "total": 54376
         },
         {
             "page": "Florestano Pepe",
-            "pageView": 13407
+            "pageView": 8,
+            "total": 13411
         },
         {
             "page": "Eugenio Tosi",
-            "pageView": 10872
+            "pageView": 7,
+            "total": 10875
         },
         {
             "page": "Guglielmo Sirleto",
-            "pageView": 8944
+            "pageView": 5,
+            "total": 8951
         },
         {
             "page": "Antonio Cantisani",
-            "pageView": 6575
+            "pageView": 4,
+            "total": 6577
         },
         {
             "page": "Guido Rhodio",
-            "pageView": 5017
+            "pageView": 3,
+            "total": 5025
         },
         {
             "page": "Vito Napoli",
-            "pageView": 3856
+            "pageView": 2,
+            "total": 3860
         },
         {
             "page": "Enrique de Borja y Aragón",
-            "pageView": 1982
+            "pageView": 1,
+            "total": 1982
         }
     ]
 }

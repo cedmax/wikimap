@@ -1,0 +1,27 @@
+{
+    "id": "place.6029594357008520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontremoli",
+    "place_name": "Pontremoli, Massa-Carrara, Italy",
+    "bbox": [
+        9.753164,
+        44.321805,
+        10.007131,
+        44.472552
+    ],
+    "center": [
+        9.8799,
+        44.37611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.8799,
+            44.37611
+        ]
+    }
+}

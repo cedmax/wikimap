@@ -1,0 +1,27 @@
+{
+    "id": "place.5854100718969080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Itala",
+    "place_name": "Itala, Messina, Italy",
+    "bbox": [
+        15.401827,
+        38.026126,
+        15.456713,
+        38.074593
+    ],
+    "center": [
+        15.43694,
+        38.05111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.43694,
+            38.05111
+        ]
+    }
+}

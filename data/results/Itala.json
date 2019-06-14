@@ -2,20 +2,24 @@
     "name": "Itala",
     "people": [
         {
+            "page": "Attilio Basile",
+            "pageView": 3,
+            "total": 1734
+        },
+        {
             "page": "Letterio D'Arrigo Ramondini",
-            "pageView": 4441
+            "pageView": 3,
+            "total": 4447
         },
         {
             "page": "Pietro Cuppari",
-            "pageView": 3965
-        },
-        {
-            "page": "Attilio Basile",
-            "pageView": 1730
+            "pageView": 2,
+            "total": 3965
         },
         {
             "page": "Antonino D'Angelo",
-            "pageView": 446
+            "pageView": 0,
+            "total": 447
         }
     ]
 }

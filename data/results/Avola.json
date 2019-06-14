@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Giovanni Scuderi",
-            "pageView": 48356
-        },
-        {
-            "page": "Salvatore Caruso",
-            "pageView": 45807
+            "pageView": 30,
+            "total": 48386
         },
         {
             "page": "Luigi Busà",
-            "pageView": 35729
+            "pageView": 21,
+            "total": 35741
         },
         {
-            "page": "Paolo Tiralongo",
-            "pageView": 24959
+            "page": "Salvatore Caruso",
+            "pageView": 18,
+            "total": 45850
         },
         {
             "page": "Paolo Di Stefano",
-            "pageView": 21155
+            "pageView": 13,
+            "total": 21162
+        },
+        {
+            "page": "Paolo Tiralongo",
+            "pageView": 9,
+            "total": 24963
         },
         {
             "page": "Fortunato Di Noto",
-            "pageView": 15133
+            "pageView": 8,
+            "total": 15160
         },
         {
             "page": "Giampaolo Caruso",
-            "pageView": 12918
+            "pageView": 6,
+            "total": 12925
         },
         {
             "page": "Giuseppe Di Giacomo",
-            "pageView": 9113
+            "pageView": 5,
+            "total": 9115
         },
         {
             "page": "Lino Coletta",
-            "pageView": 7800
+            "pageView": 5,
+            "total": 7804
         },
         {
             "page": "Franza Di Rosa",
-            "pageView": 6113
+            "pageView": 4,
+            "total": 6114
         },
         {
             "page": "Carmelo Barone",
-            "pageView": 5540
+            "pageView": 3.5,
+            "total": 5542
         },
         {
             "page": "Lorenzo Artale",
-            "pageView": 3805
-        },
-        {
-            "page": "Giuseppe Bianca",
-            "pageView": 3277
-        },
-        {
-            "page": "Corrado Bonfanti Linares",
-            "pageView": 2900
-        },
-        {
-            "page": "Antonio Cappello (generale)",
-            "pageView": 2757
-        },
-        {
-            "page": "Sebastiano Burgaretta Aparo",
-            "pageView": 2627
-        },
-        {
-            "page": "Raffaele Scalia",
-            "pageView": 2321
-        },
-        {
-            "page": "Giuseppe Schirinà",
-            "pageView": 2210
+            "pageView": 2,
+            "total": 3805
         },
         {
             "page": "Antonino D'Agata",
-            "pageView": 1950
+            "pageView": 2,
+            "total": 1952
+        },
+        {
+            "page": "Antonio Cappello (generale)",
+            "pageView": 2,
+            "total": 2759
+        },
+        {
+            "page": "Giuseppe Bianca",
+            "pageView": 2,
+            "total": 3278
+        },
+        {
+            "page": "Corrado Bonfanti Linares",
+            "pageView": 2,
+            "total": 2903
         },
         {
             "page": "Francesco Giangreco",
-            "pageView": 1787
+            "pageView": 2,
+            "total": 1789
+        },
+        {
+            "page": "Sebastiano Burgaretta Aparo",
+            "pageView": 2,
+            "total": 2627
+        },
+        {
+            "page": "Raffaele Scalia",
+            "pageView": 2,
+            "total": 2323
+        },
+        {
+            "page": "Giuseppe Schirinà",
+            "pageView": 1,
+            "total": 2210
         },
         {
             "page": "Adolfo Montoneri",
-            "pageView": 1484
+            "pageView": 1,
+            "total": 1484
         },
         {
             "page": "Barbara Andolina",
-            "pageView": 504
+            "pageView": 0,
+            "total": 504
         }
     ]
 }

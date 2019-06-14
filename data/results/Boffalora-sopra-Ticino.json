@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Piero Cucchi",
-            "pageView": 17406
+            "pageView": 11,
+            "total": 17413
         },
         {
             "page": "Amanzia Guérillot",
-            "pageView": 3438
-        },
-        {
-            "page": "Ambrogio Portaluppi",
-            "pageView": 2088
-        },
-        {
-            "page": "Luigi Masperi",
-            "pageView": 1902
+            "pageView": 2,
+            "total": 3440
         },
         {
             "page": "Alfredo Colombo",
-            "pageView": 1858
+            "pageView": 2,
+            "total": 1860
+        },
+        {
+            "page": "Luigi Masperi",
+            "pageView": 2,
+            "total": 1903
+        },
+        {
+            "page": "Ambrogio Portaluppi",
+            "pageView": 2,
+            "total": 2089
         },
         {
             "page": "Giuseppe Viglezzi",
-            "pageView": 360
+            "pageView": 0,
+            "total": 361
         }
     ]
 }

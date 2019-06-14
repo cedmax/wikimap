@@ -1,0 +1,27 @@
+{
+    "id": "place.6881478132509140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gressan",
+    "place_name": "Gressan, Valle D'Aosta, Italy",
+    "bbox": [
+        7.27788,
+        45.650198,
+        7.341026,
+        45.727935
+    ],
+    "center": [
+        7.28333,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.28333,
+            45.71667
+        ]
+    }
+}

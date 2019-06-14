@@ -1,0 +1,27 @@
+{
+    "id": "place.17723406206937980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zero Branco",
+    "place_name": "Zero Branco, Treviso, Italy",
+    "bbox": [
+        12.083396,
+        45.573898,
+        12.193837,
+        45.632309
+    ],
+    "center": [
+        12.16667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.16667,
+            45.6
+        ]
+    }
+}

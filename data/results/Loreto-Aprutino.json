@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Giacomo Acerbo",
-            "pageView": 43314
+            "pageView": 28,
+            "total": 43330
         },
         {
             "page": "Tito Acerbo",
-            "pageView": 16030
-        },
-        {
-            "page": "Antonio Capuozzo",
-            "pageView": 6089
-        },
-        {
-            "page": "Andrei Bordignon",
-            "pageView": 5020
-        },
-        {
-            "page": "Conrado Sampaio",
-            "pageView": 3222
-        },
-        {
-            "page": "Alfonso Di Vestea",
-            "pageView": 2927
-        },
-        {
-            "page": "Douglas Correia",
-            "pageView": 2640
+            "pageView": 10,
+            "total": 16038
         },
         {
             "page": "Giovanni Esposito (militare)",
-            "pageView": 2574
+            "pageView": 4,
+            "total": 2576
         },
         {
-            "page": "Cesidio Guazzaroni",
-            "pageView": 2491
+            "page": "Andrei Bordignon",
+            "pageView": 3,
+            "total": 5027
+        },
+        {
+            "page": "Antonio Capuozzo",
+            "pageView": 3,
+            "total": 6090
+        },
+        {
+            "page": "Conrado Sampaio",
+            "pageView": 2,
+            "total": 3223
         },
         {
             "page": "Andrea Terenzi",
-            "pageView": 2451
-        },
-        {
-            "page": "Leandro Alfonso",
-            "pageView": 2395
-        },
-        {
-            "page": "Vincenzo Chiola",
-            "pageView": 1645
+            "pageView": 2,
+            "total": 2452
         },
         {
             "page": "Bruno Rossa",
-            "pageView": 1574
+            "pageView": 2,
+            "total": 1575
+        },
+        {
+            "page": "Leandro Alfonso",
+            "pageView": 2,
+            "total": 2395
+        },
+        {
+            "page": "Alfonso Di Vestea",
+            "pageView": 2,
+            "total": 2932
+        },
+        {
+            "page": "Douglas Correia",
+            "pageView": 2,
+            "total": 2645
+        },
+        {
+            "page": "Cesidio Guazzaroni",
+            "pageView": 2,
+            "total": 2492
+        },
+        {
+            "page": "Vincenzo Chiola",
+            "pageView": 1,
+            "total": 1646
         },
         {
             "page": "Quintino Guanciali",
-            "pageView": 1056
+            "pageView": 1,
+            "total": 1056
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.10710325798787580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asiago",
+    "place_name": "Asiago, Vicenza, Italy",
+    "bbox": [
+        11.372567,
+        45.811527,
+        11.634536,
+        46.014271
+    ],
+    "center": [
+        11.51667,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.51667,
+            45.86667
+        ]
+    }
+}

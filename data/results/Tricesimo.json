@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Stefano De Agostini",
-            "pageView": 15860
+            "pageView": 10,
+            "total": 15868
         },
         {
             "page": "Luca Bertossio",
-            "pageView": 13966
+            "pageView": 7,
+            "total": 13969
         },
         {
             "page": "Giuliano Fortunato",
-            "pageView": 9810
+            "pageView": 6,
+            "total": 9819
         },
         {
             "page": "Alberto Asquini",
-            "pageView": 9297
+            "pageView": 6,
+            "total": 9307
         },
         {
             "page": "Arduino Berlam",
-            "pageView": 5668
-        },
-        {
-            "page": "Maria Luisa Astaldi",
-            "pageView": 4876
+            "pageView": 4,
+            "total": 5668
         },
         {
             "page": "Bruno di Montegnacco",
-            "pageView": 4774
-        },
-        {
-            "page": "Max Piccini",
-            "pageView": 4057
+            "pageView": 3,
+            "total": 4781
         },
         {
             "page": "Onofrio Pirrotta",
-            "pageView": 3827
+            "pageView": 3,
+            "total": 3830
         },
         {
-            "page": "Giovanni Ellero",
-            "pageView": 3485
+            "page": "Max Piccini",
+            "pageView": 3,
+            "total": 4057
         },
         {
-            "page": "Mario Tosolini",
-            "pageView": 3117
-        },
-        {
-            "page": "Giuseppe Girardini",
-            "pageView": 3100
+            "page": "Maria Luisa Astaldi",
+            "pageView": 3,
+            "total": 4877
         },
         {
             "page": "Bernardino da Bissone",
-            "pageView": 3094
+            "pageView": 2,
+            "total": 3094
+        },
+        {
+            "page": "Giuseppe Girardini",
+            "pageView": 2,
+            "total": 3100
+        },
+        {
+            "page": "Giovanni Ellero",
+            "pageView": 2,
+            "total": 3490
         },
         {
             "page": "Sante Patussi",
-            "pageView": 2800
+            "pageView": 2,
+            "total": 2801
         },
         {
-            "page": "Luigi De Puppi",
-            "pageView": 1973
-        },
-        {
-            "page": "Luigi Antonio Tami",
-            "pageView": 1728
+            "page": "Mario Tosolini",
+            "pageView": 2,
+            "total": 3119
         },
         {
             "page": "Aridex Calligaris",
-            "pageView": 1619
-        },
-        {
-            "page": "Plinio Petrozzi",
-            "pageView": 1550
+            "pageView": 1,
+            "total": 1620
         },
         {
             "page": "Ermes Amilcare Zumino",
-            "pageView": 861
+            "pageView": 1,
+            "total": 861
+        },
+        {
+            "page": "Luigi De Puppi",
+            "pageView": 1,
+            "total": 1976
+        },
+        {
+            "page": "Plinio Petrozzi",
+            "pageView": 1,
+            "total": 1551
+        },
+        {
+            "page": "Luigi Antonio Tami",
+            "pageView": 1,
+            "total": 1730
         }
     ]
 }

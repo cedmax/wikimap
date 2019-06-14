@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Carlo Bagno",
-            "pageView": 32957
+            "pageView": 16,
+            "total": 32971
         },
         {
             "page": "Alberto Mario",
-            "pageView": 16942
-        },
-        {
-            "page": "Emanuela Munerato",
-            "pageView": 8901
+            "pageView": 10,
+            "total": 16950
         },
         {
             "page": "Roberto Baccaro",
-            "pageView": 8746
+            "pageView": 6,
+            "total": 8749
         },
         {
             "page": "Domenico Montagnana",
-            "pageView": 8381
+            "pageView": 5,
+            "total": 8386
         },
         {
-            "page": "Adolfo Rossi",
-            "pageView": 6845
+            "page": "Emanuela Munerato",
+            "pageView": 5,
+            "total": 8905
         },
         {
             "page": "Lorenzo Canozi",
-            "pageView": 6553
+            "pageView": 4,
+            "total": 6555
+        },
+        {
+            "page": "Adolfo Rossi",
+            "pageView": 4,
+            "total": 6848
         },
         {
             "page": "Gaetano Rasi",
-            "pageView": 5488
-        },
-        {
-            "page": "Giuseppe Marchiori (critico)",
-            "pageView": 4957
-        },
-        {
-            "page": "Giorgio Anselmi (pittore)",
-            "pageView": 4248
-        },
-        {
-            "page": "Emilio Sanna",
-            "pageView": 4217
-        },
-        {
-            "page": "Giuseppe Marchiori",
-            "pageView": 4040
+            "pageView": 3,
+            "total": 5488
         },
         {
             "page": "Giuseppe Boerio",
-            "pageView": 4019
+            "pageView": 3,
+            "total": 4021
         },
         {
-            "page": "Giancarlo Magnavacca",
-            "pageView": 3119
+            "page": "Giuseppe Marchiori",
+            "pageView": 3,
+            "total": 4043
         },
         {
-            "page": "Tommaso Maria Sciacca",
-            "pageView": 2593
+            "page": "Giuseppe Marchiori (critico)",
+            "pageView": 3,
+            "total": 4961
+        },
+        {
+            "page": "Giorgio Anselmi (pittore)",
+            "pageView": 3,
+            "total": 4250
         },
         {
             "page": "Carlo Zoppellari",
-            "pageView": 2223
+            "pageView": 2,
+            "total": 2225
         },
         {
-            "page": "Altigrado Cattaneo",
-            "pageView": 2155
+            "page": "Tommaso Maria Sciacca",
+            "pageView": 2,
+            "total": 2597
         },
         {
-            "page": "Giacomo Baccari",
-            "pageView": 1670
+            "page": "Giancarlo Magnavacca",
+            "pageView": 2,
+            "total": 3122
         },
         {
-            "page": "Gaetano Baccari",
-            "pageView": 1669
-        },
-        {
-            "page": "Adelardo Cattaneo",
-            "pageView": 1485
+            "page": "Emilio Sanna",
+            "pageView": 2,
+            "total": 4218
         },
         {
             "page": "Francesco Calcagnini",
-            "pageView": 1334
+            "pageView": 2,
+            "total": 1334
+        },
+        {
+            "page": "Altigrado Cattaneo",
+            "pageView": 2,
+            "total": 2160
         },
         {
             "page": "Leonilde Lonigo Calvi",
-            "pageView": 979
+            "pageView": 1,
+            "total": 980
         },
         {
-            "page": "Vittorino Girardi",
-            "pageView": 778
+            "page": "Giacomo Baccari",
+            "pageView": 1,
+            "total": 1670
+        },
+        {
+            "page": "Adelardo Cattaneo",
+            "pageView": 1,
+            "total": 1485
+        },
+        {
+            "page": "Gaetano Baccari",
+            "pageView": 1,
+            "total": 1669
         },
         {
             "page": "Domenico Ronconi",
-            "pageView": 39
+            "pageView": 0,
+            "total": 39
+        },
+        {
+            "page": "Vittorino Girardi",
+            "pageView": 0,
+            "total": 779
         }
     ]
 }

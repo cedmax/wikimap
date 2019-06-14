@@ -1,0 +1,27 @@
+{
+    "id": "place.3031069419831980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve d'Alpago",
+    "place_name": "Pieve d'Alpago, Belluno, Italy",
+    "bbox": [
+        12.320857,
+        46.140469,
+        12.409453,
+        46.228951
+    ],
+    "center": [
+        12.35,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.35,
+            46.16667
+        ]
+    }
+}

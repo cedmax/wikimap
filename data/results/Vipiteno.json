@@ -3,359 +3,448 @@
     "people": [
         {
             "page": "Alex Schwazer",
-            "pageView": 302199
+            "pageView": 105,
+            "total": 302370
         },
         {
             "page": "Alexander Langer",
-            "pageView": 89331
+            "pageView": 45,
+            "total": 89435
         },
         {
             "page": "Franco Bernabè",
-            "pageView": 81193
-        },
-        {
-            "page": "Phil Mer",
-            "pageView": 59881
+            "pageView": 40,
+            "total": 81219
         },
         {
             "page": "Oreste Baratieri",
-            "pageView": 45445
+            "pageView": 27,
+            "total": 45472
+        },
+        {
+            "page": "Phil Mer",
+            "pageView": 25,
+            "total": 59894
         },
         {
             "page": "Erich Abram",
-            "pageView": 19459
-        },
-        {
-            "page": "Herbert Plank",
-            "pageView": 19141
+            "pageView": 10,
+            "total": 19468
         },
         {
             "page": "Pier Giuseppe Murgia",
-            "pageView": 14515
+            "pageView": 9,
+            "total": 14527
         },
         {
-            "page": "Federica Sanfilippo",
-            "pageView": 12579
+            "page": "Herbert Plank",
+            "pageView": 8,
+            "total": 19148
         },
         {
             "page": "Michael Gaismair",
-            "pageView": 11995
-        },
-        {
-            "page": "Patrick Staudacher",
-            "pageView": 11165
-        },
-        {
-            "page": "Bibiana Perez",
-            "pageView": 10034
+            "pageView": 7,
+            "total": 12001
         },
         {
             "page": "Oswald Tötsch",
-            "pageView": 8903
+            "pageView": 4,
+            "total": 8907
+        },
+        {
+            "page": "Bibiana Perez",
+            "pageView": 4,
+            "total": 10038
+        },
+        {
+            "page": "Patrick Staudacher",
+            "pageView": 4,
+            "total": 11167
         },
         {
             "page": "Josef Polig",
-            "pageView": 7297
-        },
-        {
-            "page": "Denny Deanesi",
-            "pageView": 6300
-        },
-        {
-            "page": "Andy Plank",
-            "pageView": 6160
-        },
-        {
-            "page": "Lara Malsiner",
-            "pageView": 5555
+            "pageView": 3.5,
+            "total": 7300
         },
         {
             "page": "Stefan Mair",
-            "pageView": 5141
-        },
-        {
-            "page": "Hans Peter Fischnaller",
-            "pageView": 4677
-        },
-        {
-            "page": "Silvia Weissteiner",
-            "pageView": 4582
+            "pageView": 3,
+            "total": 5141
         },
         {
             "page": "Sandra Gasparini",
-            "pageView": 4097
+            "pageView": 3,
+            "total": 4098
         },
         {
-            "page": "Paolo Bustreo",
-            "pageView": 3947
+            "page": "Andy Plank",
+            "pageView": 3,
+            "total": 6160
         },
         {
-            "page": "Christian Borgatello",
-            "pageView": 3377
+            "page": "Federica Sanfilippo",
+            "pageView": 3,
+            "total": 12579
         },
         {
-            "page": "Dominic Perna",
-            "pageView": 3299
-        },
-        {
-            "page": "Manuela Malsiner",
-            "pageView": 3282
-        },
-        {
-            "page": "Leopold Steurer",
-            "pageView": 3189
+            "page": "Lara Malsiner",
+            "pageView": 3,
+            "total": 5556
         },
         {
             "page": "Clayton Beddoes",
-            "pageView": 2882
+            "pageView": 2,
+            "total": 2883
         },
         {
-            "page": "Guglielmo Sandri",
-            "pageView": 2848
+            "page": "Christian Borgatello",
+            "pageView": 2,
+            "total": 3378
         },
         {
-            "page": "Günther Hell",
-            "pageView": 2842
+            "page": "Leopold Steurer",
+            "pageView": 2,
+            "total": 3192
         },
         {
-            "page": "Luca Felicetti",
-            "pageView": 2800
-        },
-        {
-            "page": "Gerhard Plankensteiner",
-            "pageView": 2745
-        },
-        {
-            "page": "Markus Gander",
-            "pageView": 2567
-        },
-        {
-            "page": "Thomas Tragust",
-            "pageView": 2414
-        },
-        {
-            "page": "Marion Posch",
-            "pageView": 2390
-        },
-        {
-            "page": "Jari Helle",
-            "pageView": 2184
-        },
-        {
-            "page": "Katja Haller",
-            "pageView": 2163
-        },
-        {
-            "page": "Josef Rampold",
-            "pageView": 1978
-        },
-        {
-            "page": "Roland Hofer",
-            "pageView": 1956
-        },
-        {
-            "page": "Lorenz Daccordo",
-            "pageView": 1915
-        },
-        {
-            "page": "Peter Gschnitzer",
-            "pageView": 1910
+            "page": "Paolo Bustreo",
+            "pageView": 2,
+            "total": 3949
         },
         {
             "page": "Anthony Iob",
-            "pageView": 1906
+            "pageView": 2,
+            "total": 1906
         },
         {
-            "page": "Patrick Bona",
-            "pageView": 1876
-        },
-        {
-            "page": "Roberto Scelfo",
-            "pageView": 1868
+            "page": "Silvia Weissteiner",
+            "pageView": 2,
+            "total": 4585
         },
         {
             "page": "Marco Liberatore",
-            "pageView": 1847
+            "pageView": 2,
+            "total": 1850
+        },
+        {
+            "page": "Lorenz Daccordo",
+            "pageView": 2,
+            "total": 1916
+        },
+        {
+            "page": "Manuela Malsiner",
+            "pageView": 2,
+            "total": 3282
+        },
+        {
+            "page": "Denny Deanesi",
+            "pageView": 2,
+            "total": 6300
+        },
+        {
+            "page": "Josef Rampold",
+            "pageView": 2,
+            "total": 1980
+        },
+        {
+            "page": "Marion Posch",
+            "pageView": 2,
+            "total": 2391
+        },
+        {
+            "page": "Katja Haller",
+            "pageView": 2,
+            "total": 2163
+        },
+        {
+            "page": "Peter Gschnitzer",
+            "pageView": 2,
+            "total": 1910
+        },
+        {
+            "page": "Luca Felicetti",
+            "pageView": 2,
+            "total": 2801
+        },
+        {
+            "page": "Markus Gander",
+            "pageView": 2,
+            "total": 2567
+        },
+        {
+            "page": "Hans Peter Fischnaller",
+            "pageView": 2,
+            "total": 4677
+        },
+        {
+            "page": "Dominic Perna",
+            "pageView": 2,
+            "total": 3302
+        },
+        {
+            "page": "Patrick Bona",
+            "pageView": 2,
+            "total": 1876
+        },
+        {
+            "page": "Gerhard Plankensteiner",
+            "pageView": 2,
+            "total": 2745
+        },
+        {
+            "page": "Guglielmo Sandri",
+            "pageView": 2,
+            "total": 2854
         },
         {
             "page": "Carlo Gartner",
-            "pageView": 1838
+            "pageView": 2,
+            "total": 1838
         },
         {
-            "page": "Oskar Degilia",
-            "pageView": 1791
+            "page": "Günther Hell",
+            "pageView": 2,
+            "total": 2843
         },
         {
-            "page": "David Mair",
-            "pageView": 1646
-        },
-        {
-            "page": "Marco Tremolaterra",
-            "pageView": 1638
-        },
-        {
-            "page": "Hanspaul Menara",
-            "pageView": 1627
-        },
-        {
-            "page": "Aaron Kostner",
-            "pageView": 1497
-        },
-        {
-            "page": "Florian Runer",
-            "pageView": 1485
-        },
-        {
-            "page": "Patrick Dell Iannone",
-            "pageView": 1329
-        },
-        {
-            "page": "Reinhold Rainer",
-            "pageView": 1310
-        },
-        {
-            "page": "Gunnar Braito",
-            "pageView": 1295
-        },
-        {
-            "page": "Rod Hinks",
-            "pageView": 1260
-        },
-        {
-            "page": "Walter Brunner",
-            "pageView": 1254
-        },
-        {
-            "page": "Alexander Thaler",
-            "pageView": 1246
-        },
-        {
-            "page": "Patric Lochi",
-            "pageView": 1235
-        },
-        {
-            "page": "Daniel Fabris",
-            "pageView": 1210
-        },
-        {
-            "page": "Alexander Gschliesser",
-            "pageView": 1195
-        },
-        {
-            "page": "Felix Oberrauch",
-            "pageView": 1179
-        },
-        {
-            "page": "Massimo Camin",
-            "pageView": 1169
-        },
-        {
-            "page": "Hannes Oberdörfer",
-            "pageView": 1153
-        },
-        {
-            "page": "Johann Paul Saxl",
-            "pageView": 1147
-        },
-        {
-            "page": "Luca Scardoni",
-            "pageView": 1142
-        },
-        {
-            "page": "Axel Kammerer",
-            "pageView": 1131
-        },
-        {
-            "page": "Renè Baur",
-            "pageView": 1124
-        },
-        {
-            "page": "Robert Wilson (hockeista su ghiaccio)",
-            "pageView": 1113
-        },
-        {
-            "page": "Devis Da Canal",
-            "pageView": 1107
-        },
-        {
-            "page": "Michael Messner (hockeista su ghiaccio)",
-            "pageView": 1102
-        },
-        {
-            "page": "Fabian Hackhofer",
-            "pageView": 1067
+            "page": "Thomas Tragust",
+            "pageView": 2,
+            "total": 2414
         },
         {
             "page": "Christian Mair",
-            "pageView": 996
+            "pageView": 1,
+            "total": 996
         },
         {
-            "page": "Thomas Pichler (hockeista su ghiaccio 1985)",
-            "pageView": 983
+            "page": "Alexander Thaler",
+            "pageView": 1,
+            "total": 1247
         },
         {
-            "page": "Pippo Limnell Finocchiaro",
-            "pageView": 958
+            "page": "Roberto Scelfo",
+            "pageView": 1,
+            "total": 1868
+        },
+        {
+            "page": "Marco Tremolaterra",
+            "pageView": 1,
+            "total": 1639
         },
         {
             "page": "Samu Wesslin",
-            "pageView": 806
+            "pageView": 1,
+            "total": 806
         },
         {
-            "page": "Daniel Maffia",
-            "pageView": 786
+            "page": "Robert Wilson (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1113
         },
         {
-            "page": "Thomas Pichler (hockeista su ghiaccio 1986)",
-            "pageView": 779
+            "page": "Luca Scardoni",
+            "pageView": 1,
+            "total": 1143
         },
         {
-            "page": "Elmar Parth",
-            "pageView": 737
-        },
-        {
-            "page": "Gianluca Vallini",
-            "pageView": 724
+            "page": "Florian Runer",
+            "pageView": 1,
+            "total": 1485
         },
         {
             "page": "Philipp Pircher",
-            "pageView": 720
+            "pageView": 1,
+            "total": 720
+        },
+        {
+            "page": "Johann Paul Saxl",
+            "pageView": 1,
+            "total": 1147
+        },
+        {
+            "page": "Thomas Pichler (hockeista su ghiaccio 1986)",
+            "pageView": 1,
+            "total": 779
+        },
+        {
+            "page": "Thomas Pichler (hockeista su ghiaccio 1985)",
+            "pageView": 1,
+            "total": 983
+        },
+        {
+            "page": "Walter Brunner",
+            "pageView": 1,
+            "total": 1254
+        },
+        {
+            "page": "Devis Da Canal",
+            "pageView": 1,
+            "total": 1107
+        },
+        {
+            "page": "Elmar Parth",
+            "pageView": 1,
+            "total": 738
+        },
+        {
+            "page": "Felix Oberrauch",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Hannes Oberdörfer",
+            "pageView": 1,
+            "total": 1153
+        },
+        {
+            "page": "Michael Messner (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1103
+        },
+        {
+            "page": "Alexander Gschliesser",
+            "pageView": 1,
+            "total": 1196
+        },
+        {
+            "page": "David Mair",
+            "pageView": 1,
+            "total": 1647
+        },
+        {
+            "page": "Daniel Maffia",
+            "pageView": 1,
+            "total": 786
+        },
+        {
+            "page": "Patric Lochi",
+            "pageView": 1,
+            "total": 1235
+        },
+        {
+            "page": "Hanspaul Menara",
+            "pageView": 1,
+            "total": 1627
+        },
+        {
+            "page": "Pippo Limnell Finocchiaro",
+            "pageView": 1,
+            "total": 958
         },
         {
             "page": "Philipp Kosta",
-            "pageView": 703
+            "pageView": 1,
+            "total": 703
+        },
+        {
+            "page": "Patrick Dell Iannone",
+            "pageView": 1,
+            "total": 1331
+        },
+        {
+            "page": "Roland Hofer",
+            "pageView": 1,
+            "total": 1956
+        },
+        {
+            "page": "Rod Hinks",
+            "pageView": 1,
+            "total": 1260
+        },
+        {
+            "page": "Fabian Hackhofer",
+            "pageView": 1,
+            "total": 1067
+        },
+        {
+            "page": "Daniel Fabris",
+            "pageView": 1,
+            "total": 1210
+        },
+        {
+            "page": "Reinhold Rainer",
+            "pageView": 1,
+            "total": 1311
+        },
+        {
+            "page": "Oskar Degilia",
+            "pageView": 1,
+            "total": 1792
+        },
+        {
+            "page": "Massimo Camin",
+            "pageView": 1,
+            "total": 1170
+        },
+        {
+            "page": "Gunnar Braito",
+            "pageView": 1,
+            "total": 1295
+        },
+        {
+            "page": "Renè Baur",
+            "pageView": 1,
+            "total": 1124
+        },
+        {
+            "page": "Axel Kammerer",
+            "pageView": 1,
+            "total": 1132
+        },
+        {
+            "page": "Jari Helle",
+            "pageView": 1,
+            "total": 2185
         },
         {
             "page": "Piero Greco",
-            "pageView": 587
-        },
-        {
-            "page": "Pat Mazzoli",
-            "pageView": 455
-        },
-        {
-            "page": "Hannes Stofner",
-            "pageView": 454
-        },
-        {
-            "page": "Astrid Plank",
-            "pageView": 306
-        },
-        {
-            "page": "Jolanda Plank",
-            "pageView": 252
+            "pageView": 0,
+            "total": 587
         },
         {
             "page": "David Stricker",
-            "pageView": 223
-        },
-        {
-            "page": "Angelika Aukenthaler",
-            "pageView": 212
+            "pageView": 0,
+            "total": 224
         },
         {
             "page": "Fabian Bacher",
-            "pageView": 96
+            "pageView": 0,
+            "total": 97
+        },
+        {
+            "page": "Gianluca Vallini",
+            "pageView": 0,
+            "total": 724
+        },
+        {
+            "page": "Hannes Stofner",
+            "pageView": 0,
+            "total": 454
+        },
+        {
+            "page": "Astrid Plank",
+            "pageView": 0,
+            "total": 306
+        },
+        {
+            "page": "Angelika Aukenthaler",
+            "pageView": 0,
+            "total": 213
+        },
+        {
+            "page": "Jolanda Plank",
+            "pageView": 0,
+            "total": 253
+        },
+        {
+            "page": "Pat Mazzoli",
+            "pageView": 0,
+            "total": 456
+        },
+        {
+            "page": "Aaron Kostner",
+            "pageView": 0,
+            "total": 1498
         }
     ]
 }

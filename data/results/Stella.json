@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Sandro Pertini",
-            "pageView": 1368325
+            "pageView": 718,
+            "total": 1369161
         },
         {
             "page": "Ernesto Rayper",
-            "pageView": 4706
+            "pageView": 3,
+            "total": 4707
         },
         {
             "page": "Vincenzo Rossello",
-            "pageView": 3114
+            "pageView": 2,
+            "total": 3118
         },
         {
             "page": "Vittorio Rossello",
-            "pageView": 2721
+            "pageView": 2,
+            "total": 2721
         },
         {
             "page": "Bartolomeo Bolla",
-            "pageView": 454
+            "pageView": 0,
+            "total": 455
         }
     ]
 }

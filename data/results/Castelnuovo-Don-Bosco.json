@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Giovanni Bosco",
-            "pageView": 520209
+            "pageView": 276.5,
+            "total": 520437
         },
         {
             "page": "Domenico Savio",
-            "pageView": 159152
+            "pageView": 87,
+            "total": 159225
         },
         {
             "page": "Giuseppe Cafasso",
-            "pageView": 22764
+            "pageView": 13,
+            "total": 22778
         },
         {
             "page": "Giovanni Cagliero",
-            "pageView": 12657
+            "pageView": 8,
+            "total": 12661
         },
         {
             "page": "Giuseppe Allamano",
-            "pageView": 10395
+            "pageView": 6,
+            "total": 10397
         },
         {
             "page": "Luigi Marchisio",
-            "pageView": 8377
+            "pageView": 4,
+            "total": 8386
         },
         {
             "page": "Giovanni Melchiorre Calosso",
-            "pageView": 4857
-        },
-        {
-            "page": "Giuseppe Rapelli",
-            "pageView": 3424
+            "pageView": 3,
+            "total": 4858
         },
         {
             "page": "Giovanni Argenterio",
-            "pageView": 2094
+            "pageView": 2,
+            "total": 2095
+        },
+        {
+            "page": "Giuseppe Rapelli",
+            "pageView": 2,
+            "total": 3425
         }
     ]
 }

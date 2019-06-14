@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Agatino Cuttone",
-            "pageView": 26410
+            "pageView": 15,
+            "total": 26419
         },
         {
             "page": "Nicolò Politi",
-            "pageView": 14064
+            "pageView": 7,
+            "total": 14072
         },
         {
             "page": "Guido Ballo",
-            "pageView": 7835
-        },
-        {
-            "page": "Carmelo Salanitro",
-            "pageView": 6668
-        },
-        {
-            "page": "Giovanni Petronio Russo",
-            "pageView": 4577
+            "pageView": 5,
+            "total": 7843
         },
         {
             "page": "Domenico Sanfilippo",
-            "pageView": 4307
+            "pageView": 3,
+            "total": 4309
+        },
+        {
+            "page": "Giovanni Petronio Russo",
+            "pageView": 3,
+            "total": 4580
+        },
+        {
+            "page": "Carmelo Salanitro",
+            "pageView": 3,
+            "total": 6671
         },
         {
             "page": "Gianni Bonina",
-            "pageView": 4084
-        },
-        {
-            "page": "Pietro Branchina",
-            "pageView": 3324
-        },
-        {
-            "page": "Francesco II Moncada",
-            "pageView": 3287
-        },
-        {
-            "page": "Simone Ronsisvalle",
-            "pageView": 2199
-        },
-        {
-            "page": "Guglielmo Raimondo VI Moncada",
-            "pageView": 2128
+            "pageView": 3,
+            "total": 4085
         },
         {
             "page": "Turi Cariola",
-            "pageView": 1951
+            "pageView": 2,
+            "total": 1951
+        },
+        {
+            "page": "Simone Ronsisvalle",
+            "pageView": 2,
+            "total": 2201
+        },
+        {
+            "page": "Francesco II Moncada",
+            "pageView": 2,
+            "total": 3287
+        },
+        {
+            "page": "Guglielmo Raimondo VI Moncada",
+            "pageView": 2,
+            "total": 2128
+        },
+        {
+            "page": "Pietro Branchina",
+            "pageView": 2,
+            "total": 3325
         },
         {
             "page": "Marcello Alfio Buscemi",
-            "pageView": 1056
+            "pageView": 1,
+            "total": 1056
         },
         {
             "page": "Pietro Cuscani Politi",
-            "pageView": 522
+            "pageView": 0,
+            "total": 522
         }
     ]
 }

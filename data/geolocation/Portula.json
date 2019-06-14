@@ -1,0 +1,27 @@
+{
+    "id": "place.9379997501177670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portula",
+    "place_name": "Portula, Biella, Italy",
+    "bbox": [
+        8.102524,
+        45.666538,
+        8.191275,
+        45.730964
+    ],
+    "center": [
+        8.17946,
+        45.67476
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.17946,
+            45.67476
+        ]
+    }
+}

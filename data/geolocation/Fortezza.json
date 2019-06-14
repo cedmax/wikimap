@@ -1,0 +1,21 @@
+{
+    "id": "poi.2121713849291",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Fortezza",
+    "place_name": "Fortezza, Bahnhofplatz 3a, Fortezza - Franzensfeste, Bolzano 39045, Italy",
+    "center": [
+        11.610426625,
+        46.788881
+    ],
+    "geometry": {
+        "coordinates": [
+            11.610426625,
+            46.788881
+        ],
+        "type": "Point"
+    }
+}

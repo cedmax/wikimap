@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Dario Donà",
-            "pageView": 8422
+            "pageView": 5,
+            "total": 8426
         },
         {
             "page": "Roy D'Amy",
-            "pageView": 3550
-        },
-        {
-            "page": "Vigilio Federico Dalla Zuanna",
-            "pageView": 3060
+            "pageView": 2,
+            "total": 3551
         },
         {
             "page": "Andrea Campana",
-            "pageView": 2744
+            "pageView": 2,
+            "total": 2745
+        },
+        {
+            "page": "Vigilio Federico Dalla Zuanna",
+            "pageView": 2,
+            "total": 3062
         },
         {
             "page": "Pietro Stefanoni",
-            "pageView": 1902
-        },
-        {
-            "page": "Luigi Cavalli",
-            "pageView": 1550
+            "pageView": 2,
+            "total": 1904
         },
         {
             "page": "Gianni Smaniotto",
-            "pageView": 1520
+            "pageView": 1,
+            "total": 1521
+        },
+        {
+            "page": "Luigi Cavalli",
+            "pageView": 1,
+            "total": 1551
         }
     ]
 }

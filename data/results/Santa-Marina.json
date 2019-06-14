@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Angelo Spinillo",
-            "pageView": 14554
-        },
-        {
-            "page": "Antonio De Luca",
-            "pageView": 10434
+            "pageView": 9,
+            "total": 14559
         },
         {
             "page": "Francesco Pio Tamburrino",
-            "pageView": 8714
+            "pageView": 6,
+            "total": 8716
+        },
+        {
+            "page": "Antonio De Luca",
+            "pageView": 6,
+            "total": 10437
         },
         {
             "page": "Bruno Schettino",
-            "pageView": 7212
+            "pageView": 4,
+            "total": 7222
         },
         {
             "page": "Pietro Pappacarbone",
-            "pageView": 4764
-        },
-        {
-            "page": "Federico Pezzullo",
-            "pageView": 2918
-        },
-        {
-            "page": "Filippo Spinelli",
-            "pageView": 2454
-        },
-        {
-            "page": "Ludovico Ludovici",
-            "pageView": 2369
+            "pageView": 3,
+            "total": 4766
         },
         {
             "page": "Gabriele Altilio",
-            "pageView": 1943
+            "pageView": 2,
+            "total": 1946
+        },
+        {
+            "page": "Filippo Spinelli",
+            "pageView": 2,
+            "total": 2456
+        },
+        {
+            "page": "Ludovico Ludovici",
+            "pageView": 2,
+            "total": 2372
+        },
+        {
+            "page": "Federico Pezzullo",
+            "pageView": 2,
+            "total": 2918
         },
         {
             "page": "Giovanni Brancati",
-            "pageView": 1930
-        },
-        {
-            "page": "Giovanni di Castellomata",
-            "pageView": 1250
+            "pageView": 2,
+            "total": 1930
         },
         {
             "page": "Nicola Principato",
-            "pageView": 802
+            "pageView": 1,
+            "total": 802
         },
         {
-            "page": "Umberto Luciano Altomare",
-            "pageView": 607
-        },
-        {
-            "page": "Giovan Battista Minucci",
-            "pageView": 599
+            "page": "Giovanni di Castellomata",
+            "pageView": 1,
+            "total": 1250
         },
         {
             "page": "Nicola Maria Laudisio",
-            "pageView": 350
+            "pageView": 0,
+            "total": 357
         },
         {
             "page": "Ilario Cortesi",
-            "pageView": 152
+            "pageView": 0,
+            "total": 152
+        },
+        {
+            "page": "Umberto Luciano Altomare",
+            "pageView": 0,
+            "total": 607
+        },
+        {
+            "page": "Giovan Battista Minucci",
+            "pageView": 0,
+            "total": 599
         }
     ]
 }

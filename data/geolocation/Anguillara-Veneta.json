@@ -1,0 +1,27 @@
+{
+    "id": "place.10281697434960070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anguillara Veneta",
+    "place_name": "Anguillara Veneta, Padova, Italy",
+    "bbox": [
+        11.833803,
+        45.128525,
+        11.969013,
+        45.168909
+    ],
+    "center": [
+        11.88333,
+        45.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            45.15
+        ]
+    }
+}

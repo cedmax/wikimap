@@ -1,0 +1,27 @@
+{
+    "id": "place.5148167318724530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Roberto",
+    "place_name": "Monte Roberto, Ancona, Italy",
+    "bbox": [
+        13.128936,
+        43.466639,
+        13.222545,
+        43.500679
+    ],
+    "center": [
+        13.13803,
+        43.48129
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13803,
+            43.48129
+        ]
+    }
+}

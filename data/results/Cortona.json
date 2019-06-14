@@ -3,251 +3,313 @@
     "people": [
         {
             "page": "Zerocalcare",
-            "pageView": 595271
+            "pageView": 321,
+            "total": 595957
         },
         {
             "page": "Pietro da Cortona",
-            "pageView": 136109
+            "pageView": 83,
+            "total": 136191
         },
         {
             "page": "Luca Signorelli",
-            "pageView": 111537
+            "pageView": 70,
+            "total": 111628
         },
         {
             "page": "Gino Severini",
-            "pageView": 86727
+            "pageView": 55,
+            "total": 86788
         },
         {
             "page": "Gualtiero Bassetti",
-            "pageView": 86421
+            "pageView": 38,
+            "total": 86465
         },
         {
             "page": "Margherita da Cortona",
-            "pageView": 58900
-        },
-        {
-            "page": "Elia da Cortona",
-            "pageView": 30856
+            "pageView": 29,
+            "total": 58918
         },
         {
             "page": "Alberico da Barbiano",
-            "pageView": 29542
+            "pageView": 18,
+            "total": 29567
+        },
+        {
+            "page": "Elia da Cortona",
+            "pageView": 18,
+            "total": 30879
         },
         {
             "page": "Sassetta",
-            "pageView": 27909
+            "pageView": 17,
+            "total": 27928
         },
         {
             "page": "Massimo Massetti",
-            "pageView": 27753
+            "pageView": 14,
+            "total": 27773
         },
         {
             "page": "Riccardo Fontana",
-            "pageView": 20761
-        },
-        {
-            "page": "Benvenuto Italo Castellani",
-            "pageView": 17887
+            "pageView": 12,
+            "total": 20775
         },
         {
             "page": "Spartaco Lavagnini",
-            "pageView": 17583
+            "pageView": 11,
+            "total": 17596
         },
         {
             "page": "Corrado Pavolini",
-            "pageView": 15652
+            "pageView": 10,
+            "total": 15657
         },
         {
-            "page": "Maurizio Farnetani",
-            "pageView": 14987
+            "page": "Benvenuto Italo Castellani",
+            "pageView": 10,
+            "total": 17894
         },
         {
             "page": "Flavio Roberto Carraro",
-            "pageView": 14873
+            "pageView": 9,
+            "total": 14886
         },
         {
             "page": "Attilio Sorbi",
-            "pageView": 13357
+            "pageView": 8,
+            "total": 13395
+        },
+        {
+            "page": "Maurizio Farnetani",
+            "pageView": 7,
+            "total": 14993
         },
         {
             "page": "Giovanni Battista Tommasi",
-            "pageView": 10918
+            "pageView": 5,
+            "total": 10922
         },
         {
             "page": "Pietro Pancrazi",
-            "pageView": 8862
+            "pageView": 5,
+            "total": 8864
         },
         {
             "page": "Massimo Castri",
-            "pageView": 8732
+            "pageView": 5,
+            "total": 8735
         },
         {
             "page": "Francesco Soderini",
-            "pageView": 7150
+            "pageView": 4,
+            "total": 7154
         },
         {
             "page": "Silvio Passerini",
-            "pageView": 7015
-        },
-        {
-            "page": "Francesco Moneti (letterato)",
-            "pageView": 6883
-        },
-        {
-            "page": "Tito Barbini",
-            "pageView": 6253
-        },
-        {
-            "page": "Francesco Laparelli",
-            "pageView": 6005
+            "pageView": 4,
+            "total": 7018
         },
         {
             "page": "Andrea Cottini",
-            "pageView": 5890
+            "pageView": 4,
+            "total": 5894
         },
         {
-            "page": "Domenico da Cortona",
-            "pageView": 4588
+            "page": "Tito Barbini",
+            "pageView": 4,
+            "total": 6253
+        },
+        {
+            "page": "Francesco Laparelli",
+            "pageView": 4,
+            "total": 6008
+        },
+        {
+            "page": "Francesco Moneti (letterato)",
+            "pageView": 3,
+            "total": 6885
         },
         {
             "page": "Vannuccio Faralli",
-            "pageView": 4361
+            "pageView": 3,
+            "total": 4371
         },
         {
-            "page": "Guido da Cortona",
-            "pageView": 4082
+            "page": "Domenico da Cortona",
+            "pageView": 3,
+            "total": 4595
         },
         {
             "page": "Umberto Morra di Lavriano",
-            "pageView": 3938
-        },
-        {
-            "page": "Antonio Guadagnoli",
-            "pageView": 3854
-        },
-        {
-            "page": "Remo Bassini",
-            "pageView": 3799
-        },
-        {
-            "page": "Leonardo Buonafede",
-            "pageView": 3736
-        },
-        {
-            "page": "Giovanni D'Ascenzi",
-            "pageView": 3438
-        },
-        {
-            "page": "Ridolfino Venuti",
-            "pageView": 3380
-        },
-        {
-            "page": "Jacopo Vagnucci",
-            "pageView": 3197
-        },
-        {
-            "page": "Pietro Paolo Bonzi",
-            "pageView": 3085
-        },
-        {
-            "page": "Alice von Platen",
-            "pageView": 3075
-        },
-        {
-            "page": "Stefano Isidoro Bianchi",
-            "pageView": 3066
-        },
-        {
-            "page": "Francesco Benedetti",
-            "pageView": 3007
-        },
-        {
-            "page": "Filippo Venuti (archeologo)",
-            "pageView": 2916
-        },
-        {
-            "page": "Silvano Meconi",
-            "pageView": 2833
-        },
-        {
-            "page": "Tommaso Bernabei detto il Papacello",
-            "pageView": 2741
-        },
-        {
-            "page": "Urbano da Cortona",
-            "pageView": 2619
-        },
-        {
-            "page": "Vincenzo Chialli",
-            "pageView": 2558
-        },
-        {
-            "page": "Niccola Monti",
-            "pageView": 2556
-        },
-        {
-            "page": "Domenico Cecchi",
-            "pageView": 2480
-        },
-        {
-            "page": "Ferdinando Maria de' Rossi",
-            "pageView": 2273
-        },
-        {
-            "page": "Lido Sartini",
-            "pageView": 2219
-        },
-        {
-            "page": "Gregorio Tifernate",
-            "pageView": 2082
-        },
-        {
-            "page": "Filippo Venuti",
-            "pageView": 1976
-        },
-        {
-            "page": "Pasquale Rachini",
-            "pageView": 1885
-        },
-        {
-            "page": "Ivo Ulisse Camerini",
-            "pageView": 1852
-        },
-        {
-            "page": "Gregorio Fierli",
-            "pageView": 1836
-        },
-        {
-            "page": "Giorgio Malentacchi",
-            "pageView": 1789
-        },
-        {
-            "page": "Paolino Tribbioli",
-            "pageView": 1699
-        },
-        {
-            "page": "Lorenzo Passerini",
-            "pageView": 1557
-        },
-        {
-            "page": "Guerriera Guerrieri",
-            "pageView": 1490
+            "pageView": 3,
+            "total": 3942
         },
         {
             "page": "Marcello Venuti",
-            "pageView": 1321
+            "pageView": 3,
+            "total": 1322
         },
         {
-            "page": "Agnolo di Pietro",
-            "pageView": 1141
+            "page": "Antonio Guadagnoli",
+            "pageView": 3,
+            "total": 3856
+        },
+        {
+            "page": "Remo Bassini",
+            "pageView": 2,
+            "total": 3801
+        },
+        {
+            "page": "Francesco Benedetti",
+            "pageView": 2,
+            "total": 3009
+        },
+        {
+            "page": "Silvano Meconi",
+            "pageView": 2,
+            "total": 2833
+        },
+        {
+            "page": "Tommaso Bernabei detto il Papacello",
+            "pageView": 2,
+            "total": 2743
+        },
+        {
+            "page": "Stefano Isidoro Bianchi",
+            "pageView": 2,
+            "total": 3066
+        },
+        {
+            "page": "Giovanni D'Ascenzi",
+            "pageView": 2,
+            "total": 3441
+        },
+        {
+            "page": "Ivo Ulisse Camerini",
+            "pageView": 2,
+            "total": 1853
+        },
+        {
+            "page": "Niccola Monti",
+            "pageView": 2,
+            "total": 2557
+        },
+        {
+            "page": "Pietro Paolo Bonzi",
+            "pageView": 2,
+            "total": 3089
+        },
+        {
+            "page": "Pasquale Rachini",
+            "pageView": 2,
+            "total": 1886
+        },
+        {
+            "page": "Ferdinando Maria de' Rossi",
+            "pageView": 2,
+            "total": 2273
+        },
+        {
+            "page": "Lido Sartini",
+            "pageView": 2,
+            "total": 2220
+        },
+        {
+            "page": "Domenico Cecchi",
+            "pageView": 2,
+            "total": 2480
+        },
+        {
+            "page": "Vincenzo Chialli",
+            "pageView": 2,
+            "total": 2561
+        },
+        {
+            "page": "Leonardo Buonafede",
+            "pageView": 2,
+            "total": 3744
+        },
+        {
+            "page": "Gregorio Tifernate",
+            "pageView": 2,
+            "total": 2084
+        },
+        {
+            "page": "Alice von Platen",
+            "pageView": 2,
+            "total": 3076
+        },
+        {
+            "page": "Guerriera Guerrieri",
+            "pageView": 2,
+            "total": 1491
+        },
+        {
+            "page": "Urbano da Cortona",
+            "pageView": 2,
+            "total": 2619
+        },
+        {
+            "page": "Jacopo Vagnucci",
+            "pageView": 2,
+            "total": 3197
+        },
+        {
+            "page": "Filippo Venuti",
+            "pageView": 2,
+            "total": 1976
+        },
+        {
+            "page": "Gregorio Fierli",
+            "pageView": 2,
+            "total": 1838
+        },
+        {
+            "page": "Ridolfino Venuti",
+            "pageView": 2,
+            "total": 3381
+        },
+        {
+            "page": "Filippo Venuti (archeologo)",
+            "pageView": 2,
+            "total": 2917
+        },
+        {
+            "page": "Guido da Cortona",
+            "pageView": 2,
+            "total": 4103
+        },
+        {
+            "page": "Paolino Tribbioli",
+            "pageView": 1,
+            "total": 1699
+        },
+        {
+            "page": "Lorenzo Passerini",
+            "pageView": 1,
+            "total": 1557
         },
         {
             "page": "Ranieri II Casali",
-            "pageView": 968
+            "pageView": 1,
+            "total": 969
+        },
+        {
+            "page": "Agnolo di Pietro",
+            "pageView": 1,
+            "total": 1141
+        },
+        {
+            "page": "Giorgio Malentacchi",
+            "pageView": 1,
+            "total": 1789
         },
         {
             "page": "Onofrio Zeffirini",
-            "pageView": 530
+            "pageView": 0,
+            "total": 530
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.10334637480697600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dello",
+    "place_name": "Dello, Brescia, Italy",
+    "bbox": [
+        10.056797,
+        45.392947,
+        10.146548,
+        45.444533
+    ],
+    "center": [
+        10.075,
+        45.41944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.075,
+            45.41944
+        ]
+    }
+}

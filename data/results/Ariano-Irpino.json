@@ -3,163 +3,203 @@
     "people": [
         {
             "page": "Vincenzo Zoccano",
-            "pageView": 11514
-        },
-        {
-            "page": "Ottone Frangipane",
-            "pageView": 10258
+            "pageView": 24,
+            "total": 11524
         },
         {
             "page": "Alfredo Cardinale",
-            "pageView": 9914
+            "pageView": 6,
+            "total": 9918
         },
         {
             "page": "Gennaro Pascarella",
-            "pageView": 8154
-        },
-        {
-            "page": "Giovanni D'Alise",
-            "pageView": 7583
+            "pageView": 5,
+            "total": 8157
         },
         {
             "page": "Sergio Melillo",
-            "pageView": 7506
+            "pageView": 5,
+            "total": 7508
         },
         {
-            "page": "Giovanni Grasso (politico)",
-            "pageView": 7315
+            "page": "Giovanni D'Alise",
+            "pageView": 5,
+            "total": 7583
         },
         {
             "page": "Lorenzo Zecchino",
-            "pageView": 7211
+            "pageView": 5,
+            "total": 7215
+        },
+        {
+            "page": "Ottone Frangipane",
+            "pageView": 5,
+            "total": 10260
         },
         {
             "page": "Raffaele Manganiello",
-            "pageView": 6763
+            "pageView": 4,
+            "total": 6765
         },
         {
-            "page": "Pietro Paolo Parzanese",
-            "pageView": 6322
+            "page": "Giovanni Grasso (politico)",
+            "pageView": 4,
+            "total": 7321
         },
         {
             "page": "Enea Franza",
-            "pageView": 6173
+            "pageView": 4,
+            "total": 6195
         },
         {
             "page": "Diomede Carafa",
-            "pageView": 6126
+            "pageView": 4,
+            "total": 6129
         },
         {
-            "page": "Luigi Franza",
-            "pageView": 5718
-        },
-        {
-            "page": "Antonio Forte",
-            "pageView": 5125
-        },
-        {
-            "page": "Chiara Rossi",
-            "pageView": 4975
+            "page": "Pietro Paolo Parzanese",
+            "pageView": 4,
+            "total": 6332
         },
         {
             "page": "Luca Morelli",
-            "pageView": 4190
+            "pageView": 3,
+            "total": 4191
         },
         {
-            "page": "Giulio Negri",
-            "pageView": 3791
+            "page": "Antonio Forte",
+            "pageView": 3,
+            "total": 5129
         },
         {
-            "page": "Aurelio Covotti",
-            "pageView": 3088
+            "page": "Luigi Franza",
+            "pageView": 3,
+            "total": 5736
         },
         {
-            "page": "Nicola Intonti",
-            "pageView": 2963
-        },
-        {
-            "page": "Ireneo Vinciguerra",
-            "pageView": 2731
-        },
-        {
-            "page": "Oscar Pelosi",
-            "pageView": 2727
-        },
-        {
-            "page": "Iris Ferazzoli",
-            "pageView": 2681
-        },
-        {
-            "page": "Silvia Sarni",
-            "pageView": 2469
-        },
-        {
-            "page": "Eleonora Zanetti",
-            "pageView": 2398
+            "page": "Chiara Rossi",
+            "pageView": 3,
+            "total": 4976
         },
         {
             "page": "Eduardo Davino",
-            "pageView": 2339
-        },
-        {
-            "page": "Filippo Maria Pirelli",
-            "pageView": 2315
-        },
-        {
-            "page": "Girolamo Angeriano",
-            "pageView": 2219
-        },
-        {
-            "page": "Adriana Grasso",
-            "pageView": 1981
-        },
-        {
-            "page": "Alejandra Chesta",
-            "pageView": 1915
-        },
-        {
-            "page": "Donato Anzani",
-            "pageView": 1846
-        },
-        {
-            "page": "Giovanni Angelo Anzani",
-            "pageView": 1826
-        },
-        {
-            "page": "Marcello Passari",
-            "pageView": 1728
-        },
-        {
-            "page": "Elisa Mancinelli",
-            "pageView": 1671
-        },
-        {
-            "page": "Italo Sgobbo",
-            "pageView": 1650
-        },
-        {
-            "page": "Rodolfo d'Afflitto",
-            "pageView": 1592
-        },
-        {
-            "page": "Marija Mićović",
-            "pageView": 1565
-        },
-        {
-            "page": "Gabriele Grasso",
-            "pageView": 1542
-        },
-        {
-            "page": "Gabrielė Narvičiūtė",
-            "pageView": 1532
+            "pageView": 2,
+            "total": 2341
         },
         {
             "page": "Giuseppina Arcucci",
-            "pageView": 1385
+            "pageView": 2,
+            "total": 1385
+        },
+        {
+            "page": "Girolamo Angeriano",
+            "pageView": 2,
+            "total": 2221
+        },
+        {
+            "page": "Elisa Mancinelli",
+            "pageView": 2,
+            "total": 1679
+        },
+        {
+            "page": "Alejandra Chesta",
+            "pageView": 2,
+            "total": 1916
+        },
+        {
+            "page": "Ireneo Vinciguerra",
+            "pageView": 2,
+            "total": 2733
+        },
+        {
+            "page": "Gabriele Grasso",
+            "pageView": 2,
+            "total": 1543
+        },
+        {
+            "page": "Eleonora Zanetti",
+            "pageView": 2,
+            "total": 2401
+        },
+        {
+            "page": "Nicola Intonti",
+            "pageView": 2,
+            "total": 2966
+        },
+        {
+            "page": "Silvia Sarni",
+            "pageView": 2,
+            "total": 2470
+        },
+        {
+            "page": "Aurelio Covotti",
+            "pageView": 2,
+            "total": 3089
+        },
+        {
+            "page": "Giulio Negri",
+            "pageView": 2,
+            "total": 3791
+        },
+        {
+            "page": "Filippo Maria Pirelli",
+            "pageView": 2,
+            "total": 2317
+        },
+        {
+            "page": "Oscar Pelosi",
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Iris Ferazzoli",
+            "pageView": 2,
+            "total": 2682
+        },
+        {
+            "page": "Marcello Passari",
+            "pageView": 1,
+            "total": 1729
+        },
+        {
+            "page": "Italo Sgobbo",
+            "pageView": 1,
+            "total": 1652
+        },
+        {
+            "page": "Gabrielė Narvičiūtė",
+            "pageView": 1,
+            "total": 1533
+        },
+        {
+            "page": "Marija Mićović",
+            "pageView": 1,
+            "total": 1565
+        },
+        {
+            "page": "Rodolfo d'Afflitto",
+            "pageView": 1,
+            "total": 1595
+        },
+        {
+            "page": "Giovanni Angelo Anzani",
+            "pageView": 1,
+            "total": 1826
+        },
+        {
+            "page": "Donato Anzani",
+            "pageView": 1,
+            "total": 1847
+        },
+        {
+            "page": "Adriana Grasso",
+            "pageView": 1,
+            "total": 1983
         },
         {
             "page": "Francesco Paolo Sgobbo",
-            "pageView": 268
+            "pageView": 0,
+            "total": 269
         }
     ]
 }

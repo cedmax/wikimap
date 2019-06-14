@@ -1,0 +1,27 @@
+{
+    "id": "place.3543740412385450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acireale",
+    "place_name": "Acireale, Catania, Italy",
+    "bbox": [
+        15.115479,
+        37.57411,
+        15.19957,
+        37.683002
+    ],
+    "center": [
+        15.16556,
+        37.6125
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.16556,
+            37.6125
+        ]
+    }
+}

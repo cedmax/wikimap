@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Papa Pio VIII",
-            "pageView": 114192
+            "pageView": 75,
+            "total": 114280
         },
         {
             "page": "Patrizio Peci",
-            "pageView": 85868
+            "pageView": 44,
+            "total": 85910
         },
         {
             "page": "Luigi Mercantini",
-            "pageView": 50595
+            "pageView": 28,
+            "total": 50614
         },
         {
             "page": "Edmondo Bruti Liberati",
-            "pageView": 26428
+            "pageView": 12,
+            "total": 26484
         },
         {
             "page": "Aldo Gabrielli",
-            "pageView": 22279
+            "pageView": 12,
+            "total": 22298
         },
         {
             "page": "Leonardo Vittorio Arena",
-            "pageView": 14106
+            "pageView": 9,
+            "total": 14113
         },
         {
             "page": "Ascanio Condivi",
-            "pageView": 11228
-        },
-        {
-            "page": "Giuseppe Chiaretti",
-            "pageView": 9686
+            "pageView": 7,
+            "total": 11233
         },
         {
             "page": "Carlo Bresciani (vescovo)",
-            "pageView": 9225
+            "pageView": 6,
+            "total": 9227
         },
         {
-            "page": "Gervasio Gestori",
-            "pageView": 6608
+            "page": "Giuseppe Chiaretti",
+            "pageView": 6,
+            "total": 9692
         },
         {
             "page": "Luciano Neroni",
-            "pageView": 5587
+            "pageView": 4,
+            "total": 5590
+        },
+        {
+            "page": "Gervasio Gestori",
+            "pageView": 4,
+            "total": 6610
         },
         {
             "page": "Ildebrando Malavolta",
-            "pageView": 4009
-        },
-        {
-            "page": "Ivo Illuminati",
-            "pageView": 3387
-        },
-        {
-            "page": "Filippo Sega",
-            "pageView": 3047
+            "pageView": 3,
+            "total": 4011
         },
         {
             "page": "Luigi Boschi",
-            "pageView": 2909
-        },
-        {
-            "page": "Jean Balue",
-            "pageView": 2865
+            "pageView": 2,
+            "total": 2912
         },
         {
             "page": "Giuseppe Neroni Cancelli",
-            "pageView": 2693
-        },
-        {
-            "page": "Lucio Sassi",
-            "pageView": 2301
+            "pageView": 2,
+            "total": 2693
         },
         {
             "page": "Gentile da Ripatransone",
-            "pageView": 2179
+            "pageView": 2,
+            "total": 2179
         },
         {
             "page": "Giovanni da Ripa",
-            "pageView": 2011
+            "pageView": 2,
+            "total": 2011
+        },
+        {
+            "page": "Ivo Illuminati",
+            "pageView": 2,
+            "total": 3389
+        },
+        {
+            "page": "Jean Balue",
+            "pageView": 2,
+            "total": 2868
         },
         {
             "page": "Vincenzo Radicioni",
-            "pageView": 1913
+            "pageView": 2,
+            "total": 1913
         },
         {
-            "page": "Luigi Ferri (vescovo)",
-            "pageView": 1781
+            "page": "Lucio Sassi",
+            "pageView": 2,
+            "total": 2302
+        },
+        {
+            "page": "Filippo Sega",
+            "pageView": 2,
+            "total": 3047
         },
         {
             "page": "Pietro Ossola",
-            "pageView": 1444
+            "pageView": 1,
+            "total": 1444
+        },
+        {
+            "page": "Luigi Ferri (vescovo)",
+            "pageView": 1,
+            "total": 1782
         },
         {
             "page": "Cesare Nisi",
-            "pageView": 1167
+            "pageView": 1,
+            "total": 1168
         },
         {
             "page": "Giuseppe Cellini (insorgente)",
-            "pageView": 90
+            "pageView": 0,
+            "total": 91
         }
     ]
 }

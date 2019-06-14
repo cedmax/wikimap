@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Franco Chioccioli",
-            "pageView": 38678
+            "pageView": 18,
+            "total": 38703
         },
         {
             "page": "Gastone Simoni",
-            "pageView": 7840
+            "pageView": 5,
+            "total": 7848
         },
         {
             "page": "Giorgio Sacchetti",
-            "pageView": 4382
+            "pageView": 3,
+            "total": 4385
         },
         {
             "page": "Bruno Tognaccini",
-            "pageView": 2123
+            "pageView": 2,
+            "total": 2123
         },
         {
             "page": "Iacopo Altoviti",
-            "pageView": 1288
+            "pageView": 1,
+            "total": 1289
         },
         {
             "page": "Gioacchino Antonelli",
-            "pageView": 618
+            "pageView": 0,
+            "total": 621
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8603040166378470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossò",
+    "place_name": "Fossò, Venezia, Italy",
+    "bbox": [
+        12.022488,
+        45.35228,
+        12.063542,
+        45.404938
+    ],
+    "center": [
+        12.05,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05,
+            45.38333
+        ]
+    }
+}

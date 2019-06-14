@@ -3,151 +3,188 @@
     "people": [
         {
             "page": "Quinto Orazio Flacco",
-            "pageView": 428268
+            "pageView": 284,
+            "total": 428488
         },
         {
             "page": "Manfredi di Sicilia",
-            "pageView": 284046
+            "pageView": 187,
+            "total": 284158
         },
         {
             "page": "Carlo Gesualdo",
-            "pageView": 127740
+            "pageView": 72,
+            "total": 127791
         },
         {
             "page": "Marco Claudio Marcello",
-            "pageView": 46823
+            "pageView": 31,
+            "total": 46855
         },
         {
             "page": "Cinzia Giorgio",
-            "pageView": 24792
+            "pageView": 11,
+            "total": 24803
         },
         {
             "page": "Mario de Bernardi",
-            "pageView": 23874
+            "pageView": 10,
+            "total": 23879
         },
         {
             "page": "Giovanni Battista De Luca",
-            "pageView": 11638
-        },
-        {
-            "page": "Gianfranco Todisco",
-            "pageView": 10992
-        },
-        {
-            "page": "Luigi Tansillo",
-            "pageView": 10590
-        },
-        {
-            "page": "Umfredo d'Altavilla",
-            "pageView": 10462
-        },
-        {
-            "page": "Luigi La Vista",
-            "pageView": 10256
-        },
-        {
-            "page": "Giacomo Di Chirico",
-            "pageView": 10104
-        },
-        {
-            "page": "Rocco Talucci",
-            "pageView": 9553
+            "pageView": 7,
+            "total": 11647
         },
         {
             "page": "Ciro Fanelli",
-            "pageView": 8133
+            "pageView": 7,
+            "total": 8138
+        },
+        {
+            "page": "Umfredo d'Altavilla",
+            "pageView": 7,
+            "total": 10467
+        },
+        {
+            "page": "Giacomo Di Chirico",
+            "pageView": 6,
+            "total": 10108
+        },
+        {
+            "page": "Luigi Tansillo",
+            "pageView": 6,
+            "total": 10598
         },
         {
             "page": "Luigi Frusci",
-            "pageView": 7801
+            "pageView": 5,
+            "total": 7803
+        },
+        {
+            "page": "Gianfranco Todisco",
+            "pageView": 5,
+            "total": 10993
+        },
+        {
+            "page": "Rocco Talucci",
+            "pageView": 5,
+            "total": 9559
         },
         {
             "page": "Alfredo Viviani",
-            "pageView": 6651
+            "pageView": 4,
+            "total": 6656
+        },
+        {
+            "page": "Luigi La Vista",
+            "pageView": 4,
+            "total": 10257
         },
         {
             "page": "Diodato Lioy",
-            "pageView": 6268
-        },
-        {
-            "page": "Raffaele Ciriello",
-            "pageView": 5728
-        },
-        {
-            "page": "Alberto Costa",
-            "pageView": 5405
+            "pageView": 3,
+            "total": 6272
         },
         {
             "page": "Vincenzo Tangorra",
-            "pageView": 5086
+            "pageView": 3,
+            "total": 5093
+        },
+        {
+            "page": "Raffaele Ciriello",
+            "pageView": 3,
+            "total": 5730
+        },
+        {
+            "page": "Alberto Costa",
+            "pageView": 3,
+            "total": 5407
         },
         {
             "page": "Armando Franco",
-            "pageView": 4628
-        },
-        {
-            "page": "Bartolomeo Maranta",
-            "pageView": 3739
-        },
-        {
-            "page": "Pasquale Del Giudice",
-            "pageView": 3380
+            "pageView": 3,
+            "total": 4629
         },
         {
             "page": "Giovanni Ninni",
-            "pageView": 3227
+            "pageView": 2,
+            "total": 3227
         },
         {
-            "page": "Ernesto Battaglini",
-            "pageView": 3081
+            "page": "Bartolomeo Maranta",
+            "pageView": 2,
+            "total": 3739
         },
         {
             "page": "Gaitelgrima di Salerno (Altrude)",
-            "pageView": 2688
-        },
-        {
-            "page": "Enzio Di Poppa Volture",
-            "pageView": 2331
+            "pageView": 2,
+            "total": 2688
         },
         {
             "page": "Emanuele Virgilio",
-            "pageView": 2178
+            "pageView": 2,
+            "total": 2178
+        },
+        {
+            "page": "Enzio Di Poppa Volture",
+            "pageView": 2,
+            "total": 2332
+        },
+        {
+            "page": "Pasquale Del Giudice",
+            "pageView": 2,
+            "total": 3383
         },
         {
             "page": "Donato Briscese",
-            "pageView": 2011
+            "pageView": 2,
+            "total": 2014
         },
         {
-            "page": "Guido de' Medici",
-            "pageView": 1861
-        },
-        {
-            "page": "Giacomo Cenna",
-            "pageView": 1751
-        },
-        {
-            "page": "Zevadyah",
-            "pageView": 1519
+            "page": "Ernesto Battaglini",
+            "pageView": 2,
+            "total": 3083
         },
         {
             "page": "Vincenzo Leggieri",
-            "pageView": 1457
+            "pageView": 1,
+            "total": 1459
+        },
+        {
+            "page": "Giacomo Cenna",
+            "pageView": 1,
+            "total": 1751
         },
         {
             "page": "Sigismondo Pappacoda",
-            "pageView": 1452
+            "pageView": 1,
+            "total": 1453
+        },
+        {
+            "page": "Zevadyah",
+            "pageView": 1,
+            "total": 1521
+        },
+        {
+            "page": "Guido de' Medici",
+            "pageView": 1,
+            "total": 1861
         },
         {
             "page": "Ferdinando Serone",
-            "pageView": 1285
+            "pageView": 1,
+            "total": 1285
         },
         {
             "page": "Giovanni (vescovo di Venosa)",
-            "pageView": 622
+            "pageView": 0,
+            "total": 622
         },
         {
             "page": "Nicola De Martino (vescovo)",
-            "pageView": 192
+            "pageView": 0,
+            "total": 192
         }
     ]
 }

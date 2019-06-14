@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Filippo Maniero",
-            "pageView": 101831
+            "pageView": 59,
+            "total": 101864
         },
         {
             "page": "Quirino Armellini",
-            "pageView": 10509
+            "pageView": 6,
+            "total": 10515
         },
         {
             "page": "Giovanni Francesco Busenello",
-            "pageView": 4227
-        },
-        {
-            "page": "Alcide Cerato",
-            "pageView": 3577
+            "pageView": 3,
+            "total": 4232
         },
         {
             "page": "Marino Boldrin",
-            "pageView": 2779
+            "pageView": 2,
+            "total": 2781
+        },
+        {
+            "page": "Alcide Cerato",
+            "pageView": 2,
+            "total": 3579
         }
     ]
 }

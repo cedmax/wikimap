@@ -1,0 +1,27 @@
+{
+    "id": "place.9571904781232110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palermo",
+    "place_name": "Palermo, Palermo, Italy",
+    "bbox": [
+        13.242594,
+        38.0499,
+        13.453124,
+        38.224283
+    ],
+    "center": [
+        13.36126,
+        38.11566
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36126,
+            38.11566
+        ]
+    }
+}

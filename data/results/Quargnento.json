@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Carlo Carrà",
-            "pageView": 206855
-        },
-        {
-            "page": "Maria Teresa Torti",
-            "pageView": 1987
+            "pageView": 104,
+            "total": 207094
         },
         {
             "page": "Giuseppe Motta (aviatore)",
-            "pageView": 1885
+            "pageView": 2,
+            "total": 1886
+        },
+        {
+            "page": "Maria Teresa Torti",
+            "pageView": 2,
+            "total": 1988
         },
         {
             "page": "Giulio Benzi",
-            "pageView": 509
+            "pageView": 0,
+            "total": 511
         }
     ]
 }

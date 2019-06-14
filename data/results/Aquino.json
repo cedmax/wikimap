@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Papa Paolo III",
-            "pageView": 295692
+            "pageView": 195,
+            "total": 295870
         },
         {
             "page": "Decimo Giunio Giovenale",
-            "pageView": 134432
-        },
-        {
-            "page": "Gerardo Antonazzo",
-            "pageView": 21117
-        },
-        {
-            "page": "Filippo Iannone",
-            "pageView": 19240
+            "pageView": 81,
+            "total": 134541
         },
         {
             "page": "Pescennio Nigro",
-            "pageView": 16901
+            "pageView": 11,
+            "total": 16914
+        },
+        {
+            "page": "Filippo Iannone",
+            "pageView": 10,
+            "total": 19243
+        },
+        {
+            "page": "Gerardo Antonazzo",
+            "pageView": 9,
+            "total": 21125
         },
         {
             "page": "Galeazzo Florimonte",
-            "pageView": 13683
-        },
-        {
-            "page": "Lorenzo Chiarinelli",
-            "pageView": 8663
+            "pageView": 6,
+            "total": 13710
         },
         {
             "page": "Luca Brandolini",
-            "pageView": 7872
+            "pageView": 5,
+            "total": 7878
+        },
+        {
+            "page": "Lorenzo Chiarinelli",
+            "pageView": 5,
+            "total": 8667
         },
         {
             "page": "Roberto Caracciolo",
-            "pageView": 4537
+            "pageView": 3,
+            "total": 4541
         },
         {
             "page": "Corrado di Wittelsbach",
-            "pageView": 3146
-        },
-        {
-            "page": "Costanzo d'Aquino",
-            "pageView": 2934
-        },
-        {
-            "page": "Angelo Ricasoli",
-            "pageView": 2832
+            "pageView": 2,
+            "total": 3150
         },
         {
             "page": "Ignazio Persico",
-            "pageView": 2661
+            "pageView": 2,
+            "total": 2664
         },
         {
-            "page": "Pietro Gerra",
-            "pageView": 2447
-        },
-        {
-            "page": "Antonio Arcioni (cardinale)",
-            "pageView": 2304
-        },
-        {
-            "page": "Bernardino Lonati",
-            "pageView": 2026
+            "page": "Costanzo d'Aquino",
+            "pageView": 2,
+            "total": 2937
         },
         {
             "page": "Giuseppe Maria Mazzetti",
-            "pageView": 1988
+            "pageView": 2,
+            "total": 1989
         },
         {
-            "page": "Giuseppe Montieri",
-            "pageView": 1651
+            "page": "Angelo Ricasoli",
+            "pageView": 2,
+            "total": 2836
         },
         {
-            "page": "Giacomo Gherardi",
-            "pageView": 1618
+            "page": "Pietro Gerra",
+            "pageView": 2,
+            "total": 2448
+        },
+        {
+            "page": "Antonio Arcioni (cardinale)",
+            "pageView": 2,
+            "total": 2306
         },
         {
             "page": "Luciano Bucci",
-            "pageView": 1456
+            "pageView": 1,
+            "total": 1456
+        },
+        {
+            "page": "Bernardino Lonati",
+            "pageView": 1,
+            "total": 2026
+        },
+        {
+            "page": "Giacomo Gherardi",
+            "pageView": 1,
+            "total": 1618
+        },
+        {
+            "page": "Giuseppe Montieri",
+            "pageView": 1,
+            "total": 1651
         },
         {
             "page": "Giulio Calvi (vescovo)",
-            "pageView": 1389
-        },
-        {
-            "page": "Agostino Mancinelli",
-            "pageView": 583
+            "pageView": 1,
+            "total": 1389
         },
         {
             "page": "Filippo Filonardi (cardinale)",
-            "pageView": 303
+            "pageView": 0,
+            "total": 304
+        },
+        {
+            "page": "Agostino Mancinelli",
+            "pageView": 0,
+            "total": 583
         }
     ]
 }

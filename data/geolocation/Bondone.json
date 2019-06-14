@@ -1,0 +1,27 @@
+{
+    "id": "place.5537203857725620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bondone",
+    "place_name": "Bondone, Trento, Italy",
+    "bbox": [
+        10.521004,
+        45.78323,
+        10.634367,
+        45.825535
+    ],
+    "center": [
+        10.55,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            45.8
+        ]
+    }
+}

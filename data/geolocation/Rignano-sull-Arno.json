@@ -1,0 +1,27 @@
+{
+    "id": "place.12894541018163730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rignano sull'Arno",
+    "place_name": "Rignano sull'Arno, Firenze, Italy",
+    "bbox": [
+        11.360272,
+        43.68673,
+        11.46867,
+        43.772346
+    ],
+    "center": [
+        11.45,
+        43.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            43.71667
+        ]
+    }
+}

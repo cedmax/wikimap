@@ -1,0 +1,27 @@
+{
+    "id": "place.16779476902887180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alatri",
+    "place_name": "Alatri, Frosinone, Italy",
+    "bbox": [
+        13.281463,
+        41.654116,
+        13.486331,
+        41.822786
+    ],
+    "center": [
+        13.34222,
+        41.72639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.34222,
+            41.72639
+        ]
+    }
+}

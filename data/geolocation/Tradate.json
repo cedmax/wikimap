@@ -1,0 +1,27 @@
+{
+    "id": "place.13256932465802330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tradate",
+    "place_name": "Tradate, Varese, Italy",
+    "bbox": [
+        8.880214,
+        45.684563,
+        8.952354,
+        45.747902
+    ],
+    "center": [
+        8.91667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91667,
+            45.7
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3359866812465040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gorgo al Monticano",
+    "place_name": "Gorgo al Monticano, Treviso, Italy",
+    "bbox": [
+        12.529242,
+        45.740606,
+        12.604353,
+        45.826205
+    ],
+    "center": [
+        12.58333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58333,
+            45.73333
+        ]
+    }
+}

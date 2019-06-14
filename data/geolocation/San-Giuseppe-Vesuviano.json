@@ -1,0 +1,27 @@
+{
+    "id": "place.7763749898639140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giuseppe Vesuviano",
+    "place_name": "San Giuseppe Vesuviano, Napoli, Italy",
+    "bbox": [
+        14.445784,
+        40.804804,
+        14.531853,
+        40.845094
+    ],
+    "center": [
+        14.5,
+        40.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5,
+            40.83333
+        ]
+    }
+}

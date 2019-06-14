@@ -1,0 +1,27 @@
+{
+    "id": "place.9006943337483870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calitri",
+    "place_name": "Calitri, Avellino, Italy",
+    "bbox": [
+        15.361711,
+        40.866356,
+        15.53897,
+        40.976982
+    ],
+    "center": [
+        15.43139,
+        40.90306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.43139,
+            40.90306
+        ]
+    }
+}

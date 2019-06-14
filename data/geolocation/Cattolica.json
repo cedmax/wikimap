@@ -1,0 +1,27 @@
+{
+    "id": "place.6573112124592140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cattolica",
+    "place_name": "Cattolica, Rimini, Italy",
+    "bbox": [
+        12.709691,
+        43.939631,
+        12.756039,
+        43.972494
+    ],
+    "center": [
+        12.73861,
+        43.95844
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73861,
+            43.95844
+        ]
+    }
+}

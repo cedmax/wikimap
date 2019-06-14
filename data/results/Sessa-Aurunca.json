@@ -3,115 +3,143 @@
     "people": [
         {
             "page": "Gaio Lucilio",
-            "pageView": 65328
+            "pageView": 41,
+            "total": 65357
         },
         {
             "page": "Antonio Leccese",
-            "pageView": 46300
+            "pageView": 29,
+            "total": 46323
         },
         {
             "page": "Alberto Beneduce (criminale)",
-            "pageView": 29144
+            "pageView": 17,
+            "total": 29161
         },
         {
             "page": "Castrese di Sessa",
-            "pageView": 19731
-        },
-        {
-            "page": "Agostino Superbo",
-            "pageView": 15507
-        },
-        {
-            "page": "Galeazzo Florimonte",
-            "pageView": 13683
+            "pageView": 11,
+            "total": 19741
         },
         {
             "page": "Orazio Francesco Piazza",
-            "pageView": 13609
+            "pageView": 7,
+            "total": 13611
         },
         {
             "page": "Raffaele Nogaro",
-            "pageView": 13066
+            "pageView": 7,
+            "total": 13067
         },
         {
-            "page": "Agostino Nifo",
-            "pageView": 9031
+            "page": "Agostino Superbo",
+            "pageView": 6,
+            "total": 15509
+        },
+        {
+            "page": "Galeazzo Florimonte",
+            "pageView": 6,
+            "total": 13710
         },
         {
             "page": "Gigino Battisti",
-            "pageView": 8236
+            "pageView": 5,
+            "total": 8239
+        },
+        {
+            "page": "Agostino Nifo",
+            "pageView": 5,
+            "total": 9032
         },
         {
             "page": "Marino Marzano",
-            "pageView": 7064
+            "pageView": 4,
+            "total": 7070
         },
         {
             "page": "Taddeo da Sessa",
-            "pageView": 6580
-        },
-        {
-            "page": "Antonio Napoletano",
-            "pageView": 5109
+            "pageView": 4,
+            "total": 6584
         },
         {
             "page": "Gioacchino Paparelli",
-            "pageView": 4821
+            "pageView": 3,
+            "total": 4822
         },
         {
             "page": "Marino Di Resta",
-            "pageView": 4714
-        },
-        {
-            "page": "Antonio Girfatti",
-            "pageView": 4323
-        },
-        {
-            "page": "Renato Filippelli",
-            "pageView": 3457
-        },
-        {
-            "page": "Luigi Toro",
-            "pageView": 3228
-        },
-        {
-            "page": "Vittorio Maria Costantini",
-            "pageView": 3148
-        },
-        {
-            "page": "Casto e Secondino",
-            "pageView": 3056
-        },
-        {
-            "page": "Francesco Granata",
-            "pageView": 2550
-        },
-        {
-            "page": "Mariano da Genazzano",
-            "pageView": 2369
-        },
-        {
-            "page": "Gaetano De Cicco",
-            "pageView": 2121
-        },
-        {
-            "page": "Carmine Saponetti",
-            "pageView": 1825
-        },
-        {
-            "page": "Antonio Carcaterra",
-            "pageView": 1294
-        },
-        {
-            "page": "Fortunato de Santa",
-            "pageView": 1237
+            "pageView": 3,
+            "total": 4717
         },
         {
             "page": "Lorenzo Montecuollo",
-            "pageView": 1192
+            "pageView": 3,
+            "total": 1207
+        },
+        {
+            "page": "Antonio Napoletano",
+            "pageView": 3,
+            "total": 5112
+        },
+        {
+            "page": "Mariano da Genazzano",
+            "pageView": 2,
+            "total": 2369
+        },
+        {
+            "page": "Antonio Carcaterra",
+            "pageView": 2,
+            "total": 1294
+        },
+        {
+            "page": "Renato Filippelli",
+            "pageView": 2,
+            "total": 3459
+        },
+        {
+            "page": "Casto e Secondino",
+            "pageView": 2,
+            "total": 3058
+        },
+        {
+            "page": "Francesco Granata",
+            "pageView": 2,
+            "total": 2551
+        },
+        {
+            "page": "Vittorio Maria Costantini",
+            "pageView": 2,
+            "total": 3149
+        },
+        {
+            "page": "Luigi Toro",
+            "pageView": 2,
+            "total": 3228
+        },
+        {
+            "page": "Gaetano De Cicco",
+            "pageView": 2,
+            "total": 2122
+        },
+        {
+            "page": "Antonio Girfatti",
+            "pageView": 2,
+            "total": 4324
+        },
+        {
+            "page": "Carmine Saponetti",
+            "pageView": 1.5,
+            "total": 1827
+        },
+        {
+            "page": "Fortunato de Santa",
+            "pageView": 1,
+            "total": 1237
         },
         {
             "page": "Giovanni Maria Diamare",
-            "pageView": 354
+            "pageView": 0,
+            "total": 354
         }
     ]
 }

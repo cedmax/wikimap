@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Emilio Gentile",
-            "pageView": 108349
-        },
-        {
-            "page": "Daniela Sabatino",
-            "pageView": 51422
+            "pageView": 51,
+            "total": 108431
         },
         {
             "page": "Giancarlo Maria Bregantini",
-            "pageView": 34100
+            "pageView": 20,
+            "total": 34126
         },
         {
-            "page": "Simona Sodini",
-            "pageView": 24313
+            "page": "Daniela Sabatino",
+            "pageView": 13,
+            "total": 52042
         },
         {
             "page": "Quinto Poppedio Silone",
-            "pageView": 11389
+            "pageView": 7,
+            "total": 11396
         },
         {
             "page": "Flavio Sala",
-            "pageView": 9059
+            "pageView": 6,
+            "total": 9060
+        },
+        {
+            "page": "Simona Sodini",
+            "pageView": 6,
+            "total": 24326
         },
         {
             "page": "Armando Dini",
-            "pageView": 7853
+            "pageView": 5,
+            "total": 7859
         },
         {
             "page": "Alfonso Desiata",
-            "pageView": 6325
+            "pageView": 4,
+            "total": 6333
         },
         {
             "page": "Simone Sala",
-            "pageView": 5799
-        },
-        {
-            "page": "Fabiana Colasuonno",
-            "pageView": 3101
-        },
-        {
-            "page": "Ettore Di Filippo",
-            "pageView": 3077
-        },
-        {
-            "page": "Gioia Masia",
-            "pageView": 2906
-        },
-        {
-            "page": "Luana Fracassi",
-            "pageView": 2896
-        },
-        {
-            "page": "Maria Sorvillo",
-            "pageView": 2684
-        },
-        {
-            "page": "Girolamo Pallotta",
-            "pageView": 2443
-        },
-        {
-            "page": "Antonio Pettinicchi",
-            "pageView": 2117
-        },
-        {
-            "page": "Bonifacio Chiovitti",
-            "pageView": 1808
-        },
-        {
-            "page": "Antonio De Donato",
-            "pageView": 1724
-        },
-        {
-            "page": "Valentina Lanzieri",
-            "pageView": 1707
+            "pageView": 3,
+            "total": 5800
         },
         {
             "page": "Luigi Di Marzio",
-            "pageView": 1497
+            "pageView": 3,
+            "total": 1500
+        },
+        {
+            "page": "Maria Sorvillo",
+            "pageView": 2,
+            "total": 2685
+        },
+        {
+            "page": "Antonio Pettinicchi",
+            "pageView": 2,
+            "total": 2118
+        },
+        {
+            "page": "Gioia Masia",
+            "pageView": 2,
+            "total": 2912
+        },
+        {
+            "page": "Antonio De Donato",
+            "pageView": 2,
+            "total": 1725
+        },
+        {
+            "page": "Ettore Di Filippo",
+            "pageView": 2,
+            "total": 3079
+        },
+        {
+            "page": "Luana Fracassi",
+            "pageView": 2,
+            "total": 2897
+        },
+        {
+            "page": "Girolamo Pallotta",
+            "pageView": 2,
+            "total": 2443
+        },
+        {
+            "page": "Fabiana Colasuonno",
+            "pageView": 2,
+            "total": 3105
+        },
+        {
+            "page": "Bonifacio Chiovitti",
+            "pageView": 1,
+            "total": 1809
         },
         {
             "page": "Gaetano Diamente",
-            "pageView": 1469
+            "pageView": 1,
+            "total": 1469
+        },
+        {
+            "page": "Valentina Lanzieri",
+            "pageView": 1,
+            "total": 1707
         },
         {
             "page": "Piera Cassandra Maglio",
-            "pageView": 730
+            "pageView": 0,
+            "total": 733
         }
     ]
 }

@@ -3,155 +3,193 @@
     "people": [
         {
             "page": "Arturo Aiello",
-            "pageView": 18424
-        },
-        {
-            "page": "Luigi Tansillo",
-            "pageView": 10590
+            "pageView": 14,
+            "total": 18443
         },
         {
             "page": "Giacomo Cirulli",
-            "pageView": 9271
+            "pageView": 10,
+            "total": 9273
         },
         {
             "page": "Carlo Lauberg",
-            "pageView": 9175
+            "pageView": 6,
+            "total": 9181
         },
         {
-            "page": "Cesare Baldini",
-            "pageView": 6747
+            "page": "Luigi Tansillo",
+            "pageView": 6,
+            "total": 10598
         },
         {
             "page": "Felice Cece",
-            "pageView": 6398
+            "pageView": 4,
+            "total": 6404
         },
         {
             "page": "Stefano Delle Chiaje",
-            "pageView": 6009
-        },
-        {
-            "page": "Guaiferio di Salerno",
-            "pageView": 5922
-        },
-        {
-            "page": "Paride di Teano",
-            "pageView": 5507
+            "pageView": 3,
+            "total": 6009
         },
         {
             "page": "Antonello Petrucci",
-            "pageView": 4799
+            "pageView": 3,
+            "total": 4809
         },
         {
-            "page": "Domenico Contestabile",
-            "pageView": 4598
-        },
-        {
-            "page": "Vincenzo Mancini",
-            "pageView": 4489
-        },
-        {
-            "page": "Adolfo L'Arco",
-            "pageView": 3749
-        },
-        {
-            "page": "Yvonne De Fleuriel",
-            "pageView": 3638
-        },
-        {
-            "page": "Leopoldo De Renzis",
-            "pageView": 2761
-        },
-        {
-            "page": "Matteo Guido Sperandeo",
-            "pageView": 2719
-        },
-        {
-            "page": "Francesco Tommasiello",
-            "pageView": 2655
-        },
-        {
-            "page": "Giacomo Palombella",
-            "pageView": 2481
-        },
-        {
-            "page": "Federico Capaldo",
-            "pageView": 2461
-        },
-        {
-            "page": "Vitaliano Caruso",
-            "pageView": 2378
-        },
-        {
-            "page": "Bartolomeo d'Avanzo",
-            "pageView": 2346
-        },
-        {
-            "page": "Amasio di Teano",
-            "pageView": 2277
-        },
-        {
-            "page": "Luigi Antonio Zompa",
-            "pageView": 2050
-        },
-        {
-            "page": "Nicola Grimaldi (1645-1717)",
-            "pageView": 1988
-        },
-        {
-            "page": "Corrado Teneggi",
-            "pageView": 1794
-        },
-        {
-            "page": "Domenico Raucci",
-            "pageView": 1758
-        },
-        {
-            "page": "Antonio Barattucci",
-            "pageView": 1509
-        },
-        {
-            "page": "Giulio Magnani",
-            "pageView": 1369
-        },
-        {
-            "page": "Filippo Mazzoccolo",
-            "pageView": 1238
+            "page": "Guaiferio di Salerno",
+            "pageView": 3,
+            "total": 5929
         },
         {
             "page": "Lorenzo Montecuollo",
-            "pageView": 1192
+            "pageView": 3,
+            "total": 1207
         },
         {
-            "page": "Calogero Licata",
-            "pageView": 1165
+            "page": "Paride di Teano",
+            "pageView": 3,
+            "total": 5510
         },
         {
-            "page": "Vincenzo Bonaventura Medori",
-            "pageView": 1007
+            "page": "Cesare Baldini",
+            "pageView": 3,
+            "total": 6750
+        },
+        {
+            "page": "Francesco Tommasiello",
+            "pageView": 3,
+            "total": 2657
+        },
+        {
+            "page": "Domenico Contestabile",
+            "pageView": 3,
+            "total": 4600
+        },
+        {
+            "page": "Federico Capaldo",
+            "pageView": 2,
+            "total": 2462
+        },
+        {
+            "page": "Amasio di Teano",
+            "pageView": 2,
+            "total": 2281
+        },
+        {
+            "page": "Matteo Guido Sperandeo",
+            "pageView": 2,
+            "total": 2721
+        },
+        {
+            "page": "Yvonne De Fleuriel",
+            "pageView": 2,
+            "total": 3639
+        },
+        {
+            "page": "Leopoldo De Renzis",
+            "pageView": 2,
+            "total": 2761
+        },
+        {
+            "page": "Giacomo Palombella",
+            "pageView": 2,
+            "total": 2483
+        },
+        {
+            "page": "Bartolomeo d'Avanzo",
+            "pageView": 2,
+            "total": 2347
+        },
+        {
+            "page": "Nicola Grimaldi (1645-1717)",
+            "pageView": 2,
+            "total": 1989
+        },
+        {
+            "page": "Adolfo L'Arco",
+            "pageView": 2,
+            "total": 3753
+        },
+        {
+            "page": "Luigi Antonio Zompa",
+            "pageView": 2,
+            "total": 2052
+        },
+        {
+            "page": "Vincenzo Mancini",
+            "pageView": 2,
+            "total": 4489
+        },
+        {
+            "page": "Corrado Teneggi",
+            "pageView": 2,
+            "total": 1794
+        },
+        {
+            "page": "Vitaliano Caruso",
+            "pageView": 2,
+            "total": 2380
         },
         {
             "page": "Albino Pella",
-            "pageView": 959
+            "pageView": 1,
+            "total": 960
+        },
+        {
+            "page": "Filippo Mazzoccolo",
+            "pageView": 1,
+            "total": 1238
         },
         {
             "page": "Giuseppe Marcozzi",
-            "pageView": 949
-        },
-        {
-            "page": "Giacinto Tamburini",
-            "pageView": 917
+            "pageView": 1,
+            "total": 949
         },
         {
             "page": "Nicola Sterlini",
-            "pageView": 838
+            "pageView": 1,
+            "total": 838
         },
         {
             "page": "Alfonso Maria Giordano",
-            "pageView": 781
+            "pageView": 1,
+            "total": 782
+        },
+        {
+            "page": "Calogero Licata",
+            "pageView": 1,
+            "total": 1167
+        },
+        {
+            "page": "Vincenzo Bonaventura Medori",
+            "pageView": 1,
+            "total": 1007
+        },
+        {
+            "page": "Antonio Barattucci",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "Giacinto Tamburini",
+            "pageView": 1,
+            "total": 917
+        },
+        {
+            "page": "Giulio Magnani",
+            "pageView": 1,
+            "total": 1372
+        },
+        {
+            "page": "Domenico Raucci",
+            "pageView": 1,
+            "total": 1759
         },
         {
             "page": "Margherita Del Sesto",
-            "pageView": 629
+            "pageView": 0,
+            "total": 633
         }
     ]
 }

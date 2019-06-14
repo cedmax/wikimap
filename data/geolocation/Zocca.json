@@ -1,0 +1,27 @@
+{
+    "id": "place.7445626915299650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zocca",
+    "place_name": "Zocca, Modena, Italy",
+    "bbox": [
+        10.924758,
+        44.296717,
+        11.049697,
+        44.430199
+    ],
+    "center": [
+        10.99278,
+        44.34528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.99278,
+            44.34528
+        ]
+    }
+}

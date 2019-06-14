@@ -1,0 +1,27 @@
+{
+    "id": "place.10819676018426610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio in Bosco",
+    "place_name": "San Giorgio in Bosco, Padova, Italy",
+    "bbox": [
+        11.758431,
+        45.554407,
+        11.849769,
+        45.621611
+    ],
+    "center": [
+        11.8,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            45.58333
+        ]
+    }
+}

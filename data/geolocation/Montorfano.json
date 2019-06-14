@@ -1,0 +1,27 @@
+{
+    "id": "place.9201563763106710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montorfano",
+    "place_name": "Montorfano, Como, Italy",
+    "bbox": [
+        9.126589,
+        45.770944,
+        9.165425,
+        45.792819
+    ],
+    "center": [
+        9.15,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15,
+            45.78333
+        ]
+    }
+}

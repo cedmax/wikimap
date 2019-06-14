@@ -1,0 +1,27 @@
+{
+    "id": "place.8133402482454680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nicotera",
+    "place_name": "Nicotera, Vibo Valentia, Italy",
+    "bbox": [
+        15.908049,
+        38.506195,
+        15.973284,
+        38.596288
+    ],
+    "center": [
+        15.93333,
+        38.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.93333,
+            38.55
+        ]
+    }
+}

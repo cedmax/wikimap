@@ -1,0 +1,27 @@
+{
+    "id": "place.9913586713087270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anzio",
+    "place_name": "Anzio, Roma, Italy",
+    "bbox": [
+        12.553096,
+        41.442517,
+        12.646039,
+        41.544196
+    ],
+    "center": [
+        12.61667,
+        41.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            41.43333
+        ]
+    }
+}

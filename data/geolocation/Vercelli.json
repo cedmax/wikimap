@@ -1,0 +1,27 @@
+{
+    "id": "place.3000550098802810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vercelli",
+    "place_name": "Vercelli, Vercelli, Italy",
+    "bbox": [
+        8.316417,
+        45.277769,
+        8.513587,
+        45.372329
+    ],
+    "center": [
+        8.41667,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.41667,
+            45.31667
+        ]
+    }
+}

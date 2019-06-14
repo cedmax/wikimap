@@ -1,0 +1,21 @@
+{
+    "id": "poi.3161095941780",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Lorenzago di Cadore",
+    "place_name": "Lorenzago di Cadore, Lorenzago di Cadore, Belluno 32040, Italy",
+    "center": [
+        12.4611695,
+        46.479169
+    ],
+    "geometry": {
+        "coordinates": [
+            12.4611695,
+            46.479169
+        ],
+        "type": "Point"
+    }
+}

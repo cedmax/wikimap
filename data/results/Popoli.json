@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Francesca Cipriani",
-            "pageView": 850810
+            "pageView": 186,
+            "total": 851094
         },
         {
             "page": "Corradino D'Ascanio",
-            "pageView": 90384
+            "pageView": 52,
+            "total": 90438
         },
         {
             "page": "Giuliana Longari",
-            "pageView": 74068
+            "pageView": 35,
+            "total": 74244
         },
         {
             "page": "Ratigher",
-            "pageView": 11208
-        },
-        {
-            "page": "Giuseppe Paolini",
-            "pageView": 5626
+            "pageView": 6,
+            "total": 11209
         },
         {
             "page": "Antonio Castricone",
-            "pageView": 4616
+            "pageView": 3,
+            "total": 4617
+        },
+        {
+            "page": "Giuseppe Paolini",
+            "pageView": 3,
+            "total": 5631
         },
         {
             "page": "Chiara Ianni",
-            "pageView": 4371
-        },
-        {
-            "page": "Paolo Giammarco",
-            "pageView": 3435
+            "pageView": 3,
+            "total": 4371
         },
         {
             "page": "Alfredo Di Cocco",
-            "pageView": 2858
-        },
-        {
-            "page": "Ippolita Cantelmo Stuart",
-            "pageView": 2331
-        },
-        {
-            "page": "Cesare Giarratano",
-            "pageView": 2194
+            "pageView": 2,
+            "total": 2860
         },
         {
             "page": "Alfonso Colarossi-Mancini",
-            "pageView": 1947
+            "pageView": 2,
+            "total": 1948
         },
         {
-            "page": "Vinicio Brandani",
-            "pageView": 1671
+            "page": "Paolo Giammarco",
+            "pageView": 2,
+            "total": 3437
         },
         {
-            "page": "Francesco Contaldi",
-            "pageView": 1450
+            "page": "Cesare Giarratano",
+            "pageView": 2,
+            "total": 2195
         },
         {
-            "page": "Alberto Lepidi",
-            "pageView": 1057
+            "page": "Ippolita Cantelmo Stuart",
+            "pageView": 2,
+            "total": 2332
         },
         {
             "page": "Edmondo Di Pillo",
-            "pageView": 901
+            "pageView": 2,
+            "total": 902
+        },
+        {
+            "page": "Alberto Lepidi",
+            "pageView": 1,
+            "total": 1060
+        },
+        {
+            "page": "Vinicio Brandani",
+            "pageView": 1,
+            "total": 1671
+        },
+        {
+            "page": "Francesco Contaldi",
+            "pageView": 1,
+            "total": 1451
         }
     ]
 }

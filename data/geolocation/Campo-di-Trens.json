@@ -1,0 +1,27 @@
+{
+    "id": "place.11531214176730570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campo di Trens - Freienfeld",
+    "place_name": "Campo di Trens - Freienfeld, Bolzano, Italy",
+    "bbox": [
+        11.421137,
+        46.804824,
+        11.594175,
+        46.909353
+    ],
+    "center": [
+        11.48333,
+        46.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48333,
+            46.88333
+        ]
+    }
+}

@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Aldo Biscardi",
-            "pageView": 430584
+            "pageView": 136,
+            "total": 430710
         },
         {
             "page": "Domenico Umberto D'Ambrosio",
-            "pageView": 25278
-        },
-        {
-            "page": "Luigi Biscardi",
-            "pageView": 23515
-        },
-        {
-            "page": "Vincenzo Cosco",
-            "pageView": 13569
-        },
-        {
-            "page": "Cosmo Francesco Ruppi",
-            "pageView": 13214
-        },
-        {
-            "page": "Tommaso Valentinetti",
-            "pageView": 12730
-        },
-        {
-            "page": "Paolo Di Paolo (fotografo)",
-            "pageView": 10505
-        },
-        {
-            "page": "Sabrina De Camillis",
-            "pageView": 8713
-        },
-        {
-            "page": "Giovanni Andrea Tria",
-            "pageView": 7475
-        },
-        {
-            "page": "Gianfranco De Luca",
-            "pageView": 7297
-        },
-        {
-            "page": "Primiano di Larino",
-            "pageView": 7018
-        },
-        {
-            "page": "Adriano Lualdi",
-            "pageView": 6033
+            "pageView": 14,
+            "total": 25287
         },
         {
             "page": "Giuseppina Occhionero",
-            "pageView": 5817
+            "pageView": 9,
+            "total": 5823
+        },
+        {
+            "page": "Vincenzo Cosco",
+            "pageView": 8,
+            "total": 13570
+        },
+        {
+            "page": "Cosmo Francesco Ruppi",
+            "pageView": 8,
+            "total": 13220
+        },
+        {
+            "page": "Tommaso Valentinetti",
+            "pageView": 8,
+            "total": 12735
+        },
+        {
+            "page": "Luigi Biscardi",
+            "pageView": 7,
+            "total": 23548
+        },
+        {
+            "page": "Sabrina De Camillis",
+            "pageView": 5,
+            "total": 8717
+        },
+        {
+            "page": "Gianfranco De Luca",
+            "pageView": 5,
+            "total": 7303
+        },
+        {
+            "page": "Primiano di Larino",
+            "pageView": 4,
+            "total": 7022
+        },
+        {
+            "page": "Adriano Lualdi",
+            "pageView": 4,
+            "total": 6036
+        },
+        {
+            "page": "Paolo Di Paolo (fotografo)",
+            "pageView": 3,
+            "total": 10539
+        },
+        {
+            "page": "Giovanni Andrea Tria",
+            "pageView": 2,
+            "total": 7479
         },
         {
             "page": "Massimo Colesanti",
-            "pageView": 3553
-        },
-        {
-            "page": "Costanzo Micci",
-            "pageView": 3358
+            "pageView": 2,
+            "total": 3553
         },
         {
             "page": "Renato Fabrizi",
-            "pageView": 2165
+            "pageView": 2,
+            "total": 2166
+        },
+        {
+            "page": "Costanzo Micci",
+            "pageView": 2,
+            "total": 3362
         },
         {
             "page": "Ugo Pietrantonio",
-            "pageView": 792
+            "pageView": 0,
+            "total": 792
         }
     ]
 }

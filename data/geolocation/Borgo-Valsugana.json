@@ -1,0 +1,27 @@
+{
+    "id": "place.15365063921731150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Valsugana",
+    "place_name": "Borgo Valsugana, Trento, Italy",
+    "bbox": [
+        11.360594,
+        45.97997,
+        11.493055,
+        46.065925
+    ],
+    "center": [
+        11.45,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            46.05
+        ]
+    }
+}

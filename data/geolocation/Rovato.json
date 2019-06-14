@@ -1,0 +1,27 @@
+{
+    "id": "place.8472995990118590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rovato",
+    "place_name": "Rovato, Brescia, Italy",
+    "bbox": [
+        9.980297,
+        45.515916,
+        10.04432,
+        45.580075
+    ],
+    "center": [
+        9.99972,
+        45.56417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.99972,
+            45.56417
+        ]
+    }
+}

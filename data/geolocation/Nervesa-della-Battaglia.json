@@ -1,0 +1,27 @@
+{
+    "id": "place.11506574665624920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nervesa della Battaglia",
+    "place_name": "Nervesa della Battaglia, Treviso, Italy",
+    "bbox": [
+        12.135292,
+        45.789101,
+        12.279772,
+        45.855639
+    ],
+    "center": [
+        12.21667,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21667,
+            45.83333
+        ]
+    }
+}

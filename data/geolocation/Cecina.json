@@ -1,0 +1,27 @@
+{
+    "id": "place.12101941417400970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cecina",
+    "place_name": "Cecina, Livorno, Italy",
+    "bbox": [
+        10.462835,
+        43.272901,
+        10.58183,
+        43.368517
+    ],
+    "center": [
+        10.525,
+        43.31389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.525,
+            43.31389
+        ]
+    }
+}

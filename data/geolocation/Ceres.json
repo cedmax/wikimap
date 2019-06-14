@@ -1,0 +1,27 @@
+{
+    "id": "place.11569076543908440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceres",
+    "place_name": "Ceres, Torino, Italy",
+    "bbox": [
+        7.297182,
+        45.29478,
+        7.418508,
+        45.347066
+    ],
+    "center": [
+        7.38861,
+        45.31306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.38861,
+            45.31306
+        ]
+    }
+}

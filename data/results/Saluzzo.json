@@ -3,431 +3,538 @@
     "people": [
         {
             "page": "Carlo Alberto dalla Chiesa",
-            "pageView": 952234
+            "pageView": 386,
+            "total": 952725
         },
         {
             "page": "Silvio Pellico",
-            "pageView": 261013
+            "pageView": 156,
+            "total": 261136
         },
         {
             "page": "Pitigrilli",
-            "pageView": 99664
-        },
-        {
-            "page": "Paolo De Chiesa",
-            "pageView": 67860
-        },
-        {
-            "page": "Federico Lombardi",
-            "pageView": 46575
+            "pageView": 46,
+            "total": 99702
         },
         {
             "page": "Giambattista Bodoni",
-            "pageView": 36508
+            "pageView": 24,
+            "total": 36549
         },
         {
-            "page": "Magda Olivero",
-            "pageView": 24334
+            "page": "Federico Lombardi",
+            "pageView": 22,
+            "total": 46588
+        },
+        {
+            "page": "Paolo De Chiesa",
+            "pageView": 15,
+            "total": 67863
         },
         {
             "page": "Mauro Marino",
-            "pageView": 23764
+            "pageView": 15,
+            "total": 23774
+        },
+        {
+            "page": "Magda Olivero",
+            "pageView": 15,
+            "total": 24349
         },
         {
             "page": "Marchesi di Saluzzo",
-            "pageView": 20709
-        },
-        {
-            "page": "Romolo dalla Chiesa",
-            "pageView": 19687
-        },
-        {
-            "page": "Nino Bergese",
-            "pageView": 16193
+            "pageView": 13,
+            "total": 20715
         },
         {
             "page": "Goffredo Casalis",
-            "pageView": 15557
+            "pageView": 10,
+            "total": 15568
         },
         {
-            "page": "Corrado Segre",
-            "pageView": 14717
-        },
-        {
-            "page": "Luciano Nizzola",
-            "pageView": 14421
-        },
-        {
-            "page": "Adriano Adami",
-            "pageView": 13513
-        },
-        {
-            "page": "Ludovico II di Saluzzo",
-            "pageView": 13196
-        },
-        {
-            "page": "Guido Rimonda",
-            "pageView": 13127
-        },
-        {
-            "page": "Michele Antonio di Saluzzo",
-            "pageView": 10730
-        },
-        {
-            "page": "Gabriele di Saluzzo",
-            "pageView": 9963
-        },
-        {
-            "page": "Tommaso III di Saluzzo",
-            "pageView": 9740
+            "page": "Romolo dalla Chiesa",
+            "pageView": 9,
+            "total": 19694
         },
         {
             "page": "Cristiano Bodo",
-            "pageView": 8632
+            "pageView": 9,
+            "total": 8636
         },
         {
-            "page": "Beatrice di Savoia (1223-1259)",
-            "pageView": 8466
+            "page": "Luciano Nizzola",
+            "pageView": 8,
+            "total": 14435
         },
         {
-            "page": "Beatrice di Sicilia",
-            "pageView": 8179
+            "page": "Nino Bergese",
+            "pageView": 8,
+            "total": 16200
         },
         {
-            "page": "Margherita di Foix-Candale",
-            "pageView": 8071
+            "page": "Ludovico II di Saluzzo",
+            "pageView": 8,
+            "total": 13203
         },
         {
-            "page": "Silvio Federico Baridon",
-            "pageView": 8011
+            "page": "Adriano Adami",
+            "pageView": 8,
+            "total": 13521
         },
         {
-            "page": "Vincenzo Malacarne",
-            "pageView": 6530
+            "page": "Tommaso III di Saluzzo",
+            "pageView": 6,
+            "total": 9749
         },
         {
-            "page": "Diego Natale Bona",
-            "pageView": 6492
+            "page": "Michele Antonio di Saluzzo",
+            "pageView": 6,
+            "total": 10736
         },
         {
-            "page": "Lorenzo Gastaldi",
-            "pageView": 6403
-        },
-        {
-            "page": "Umberto Klinger",
-            "pageView": 6322
-        },
-        {
-            "page": "Pier Paolo Maggiora",
-            "pageView": 6167
-        },
-        {
-            "page": "Antonio de' Saluzzi",
-            "pageView": 6062
+            "page": "Guido Rimonda",
+            "pageView": 6,
+            "total": 13133
         },
         {
             "page": "Camilla Rosatello",
-            "pageView": 5891
-        },
-        {
-            "page": "Ludovico I di Saluzzo",
-            "pageView": 5890
-        },
-        {
-            "page": "Manfredo I di Saluzzo",
-            "pageView": 5560
-        },
-        {
-            "page": "Tommaso I di Saluzzo",
-            "pageView": 5533
-        },
-        {
-            "page": "Giovanni Ludovico di Saluzzo",
-            "pageView": 5531
-        },
-        {
-            "page": "Francesco di Saluzzo",
-            "pageView": 5476
-        },
-        {
-            "page": "Giovanni Giovenale Ancina",
-            "pageView": 5309
-        },
-        {
-            "page": "Filippo Archinto",
-            "pageView": 5306
-        },
-        {
-            "page": "Sebastiano Dho",
-            "pageView": 5275
-        },
-        {
-            "page": "Giuseppe Guerrini",
-            "pageView": 5201
-        },
-        {
-            "page": "Valerano di Saluzzo",
-            "pageView": 5132
-        },
-        {
-            "page": "Manfredo II di Saluzzo",
-            "pageView": 4963
-        },
-        {
-            "page": "Maria Consolata Betrone",
-            "pageView": 4852
-        },
-        {
-            "page": "Federico II di Saluzzo",
-            "pageView": 4667
-        },
-        {
-            "page": "Tommaso II di Saluzzo",
-            "pageView": 4552
-        },
-        {
-            "page": "Federico I di Saluzzo",
-            "pageView": 4468
-        },
-        {
-            "page": "Manfredo IV di Saluzzo",
-            "pageView": 4451
-        },
-        {
-            "page": "Edoardo Calleri",
-            "pageView": 4369
-        },
-        {
-            "page": "Camillo Peano",
-            "pageView": 4258
-        },
-        {
-            "page": "Giorgio Biandrata",
-            "pageView": 4025
-        },
-        {
-            "page": "Manfredo III di Saluzzo",
-            "pageView": 3816
-        },
-        {
-            "page": "Alasia del Monferrato",
-            "pageView": 3795
-        },
-        {
-            "page": "Vincenzo Balbiano",
-            "pageView": 3721
-        },
-        {
-            "page": "Amedeo Varese",
-            "pageView": 3642
-        },
-        {
-            "page": "Giovanni Governato",
-            "pageView": 3632
+            "pageView": 5,
+            "total": 5893
         },
         {
             "page": "Matteo Olivero",
-            "pageView": 3479
+            "pageView": 5,
+            "total": 3485
         },
         {
-            "page": "Giuseppe Gagliardone",
-            "pageView": 3455
+            "page": "Corrado Segre",
+            "pageView": 5,
+            "total": 14724
         },
         {
-            "page": "Manfredo V di Saluzzo",
-            "pageView": 3173
+            "page": "Silvio Federico Baridon",
+            "pageView": 5,
+            "total": 8019
         },
         {
-            "page": "Giacomo Gandi",
-            "pageView": 2958
+            "page": "Beatrice di Savoia (1223-1259)",
+            "pageView": 5,
+            "total": 8472
         },
         {
-            "page": "Giacinto della Torre",
-            "pageView": 2889
+            "page": "Gabriele di Saluzzo",
+            "pageView": 5,
+            "total": 9967
         },
         {
-            "page": "Teresio Ferrero della Marmora",
-            "pageView": 2848
+            "page": "Beatrice di Sicilia",
+            "pageView": 5,
+            "total": 8181
         },
         {
-            "page": "Isabella Paleologa",
-            "pageView": 2614
+            "page": "Antonio de' Saluzzi",
+            "pageView": 4,
+            "total": 6063
         },
         {
-            "page": "Cesare Della Chiesa di Benevello",
-            "pageView": 2601
+            "page": "Ludovico I di Saluzzo",
+            "pageView": 4,
+            "total": 5893
         },
         {
-            "page": "Giuseppe Angelo Saluzzo di Monesiglio",
-            "pageView": 2483
+            "page": "Umberto Klinger",
+            "pageView": 4,
+            "total": 6326
         },
         {
-            "page": "Amedeo di Saluzzo",
-            "pageView": 2475
+            "page": "Lorenzo Gastaldi",
+            "pageView": 4,
+            "total": 6407
         },
         {
-            "page": "Cesare Arbasia",
-            "pageView": 2464
+            "page": "Pier Paolo Maggiora",
+            "pageView": 4,
+            "total": 6173
         },
         {
-            "page": "Violante di Saluzzo",
-            "pageView": 2363
+            "page": "Vincenzo Malacarne",
+            "pageView": 4,
+            "total": 6535
         },
         {
-            "page": "Zaccaria Boverio",
-            "pageView": 2354
+            "page": "Margherita di Foix-Candale",
+            "pageView": 4,
+            "total": 8074
         },
         {
-            "page": "Carlo Muletti",
-            "pageView": 2277
+            "page": "Tommaso I di Saluzzo",
+            "pageView": 3,
+            "total": 5535
         },
         {
-            "page": "Delfino Muletti",
-            "pageView": 2265
+            "page": "Giuseppe Guerrini",
+            "pageView": 3,
+            "total": 5206
         },
         {
-            "page": "Casimiro Buttini",
-            "pageView": 2255
+            "page": "Federico I di Saluzzo",
+            "pageView": 3,
+            "total": 4470
         },
         {
-            "page": "Alfonso Tornabuoni",
-            "pageView": 2244
+            "page": "Valerano di Saluzzo",
+            "pageView": 3,
+            "total": 5137
         },
         {
-            "page": "Luigi Buglione di Monale",
-            "pageView": 2103
+            "page": "Filippo Archinto",
+            "pageView": 3,
+            "total": 5310
         },
         {
-            "page": "Emanuela Savio",
-            "pageView": 2101
+            "page": "Giovanni Giovenale Ancina",
+            "pageView": 3,
+            "total": 5312
         },
         {
-            "page": "Alice di Saluzzo",
-            "pageView": 2014
+            "page": "Federico II di Saluzzo",
+            "pageView": 3,
+            "total": 4671
         },
         {
-            "page": "Mario Andreis (politico)",
-            "pageView": 1892
+            "page": "Manfredo IV di Saluzzo",
+            "pageView": 3,
+            "total": 4453
+        },
+        {
+            "page": "Manfredo II di Saluzzo",
+            "pageView": 3,
+            "total": 4967
+        },
+        {
+            "page": "Manfredo I di Saluzzo",
+            "pageView": 3,
+            "total": 5566
+        },
+        {
+            "page": "Sebastiano Dho",
+            "pageView": 3,
+            "total": 5276
+        },
+        {
+            "page": "Giovanni Ludovico di Saluzzo",
+            "pageView": 3,
+            "total": 5532
+        },
+        {
+            "page": "Camillo Peano",
+            "pageView": 3,
+            "total": 4258
         },
         {
             "page": "Franca Barbier",
-            "pageView": 1884
+            "pageView": 3,
+            "total": 1887
         },
         {
-            "page": "Carlo Montani",
-            "pageView": 1870
+            "page": "Diego Natale Bona",
+            "pageView": 3,
+            "total": 6496
         },
         {
-            "page": "Annibale Di Saluzzo",
-            "pageView": 1843
+            "page": "Tommaso II di Saluzzo",
+            "pageView": 3,
+            "total": 4552
         },
         {
-            "page": "Gabriele Cesano",
-            "pageView": 1821
+            "page": "Maria Consolata Betrone",
+            "pageView": 3,
+            "total": 4855
         },
         {
-            "page": "Umberto Visetti",
-            "pageView": 1810
+            "page": "Francesco di Saluzzo",
+            "pageView": 3,
+            "total": 5480
         },
         {
-            "page": "Vittorio Ellena",
-            "pageView": 1771
+            "page": "Giorgio Biandrata",
+            "pageView": 3,
+            "total": 4029
+        },
+        {
+            "page": "Edoardo Calleri",
+            "pageView": 3,
+            "total": 4380
+        },
+        {
+            "page": "Alfonso Tornabuoni",
+            "pageView": 2,
+            "total": 2247
+        },
+        {
+            "page": "Manfredo V di Saluzzo",
+            "pageView": 2,
+            "total": 3174
+        },
+        {
+            "page": "Vincenzo Balbiano",
+            "pageView": 2,
+            "total": 3722
+        },
+        {
+            "page": "Emanuela Savio",
+            "pageView": 2,
+            "total": 2103
+        },
+        {
+            "page": "Giuseppe Angelo Saluzzo di Monesiglio",
+            "pageView": 2,
+            "total": 2484
+        },
+        {
+            "page": "Amedeo di Saluzzo",
+            "pageView": 2,
+            "total": 2476
+        },
+        {
+            "page": "Amedeo Varese",
+            "pageView": 2,
+            "total": 3643
+        },
+        {
+            "page": "Mario Andreis (politico)",
+            "pageView": 2,
+            "total": 1893
         },
         {
             "page": "Ludovico Della Chiesa",
-            "pageView": 1682
+            "pageView": 2,
+            "total": 1683
         },
         {
-            "page": "Juan Canaveris",
-            "pageView": 1677
+            "page": "Cesare Della Chiesa di Benevello",
+            "pageView": 2,
+            "total": 2601
+        },
+        {
+            "page": "Giacinto della Torre",
+            "pageView": 2,
+            "total": 2890
+        },
+        {
+            "page": "Alice di Saluzzo",
+            "pageView": 2,
+            "total": 2016
+        },
+        {
+            "page": "Annibale Di Saluzzo",
+            "pageView": 2,
+            "total": 1843
+        },
+        {
+            "page": "Violante di Saluzzo",
+            "pageView": 2,
+            "total": 2366
+        },
+        {
+            "page": "Cesare Arbasia",
+            "pageView": 2,
+            "total": 2464
+        },
+        {
+            "page": "Teresio Ferrero della Marmora",
+            "pageView": 2,
+            "total": 2850
+        },
+        {
+            "page": "Giuseppe Gagliardone",
+            "pageView": 2,
+            "total": 3461
+        },
+        {
+            "page": "Giacomo Gandi",
+            "pageView": 2,
+            "total": 2958
+        },
+        {
+            "page": "Manfredo III di Saluzzo",
+            "pageView": 2,
+            "total": 3820
+        },
+        {
+            "page": "Giovanni Governato",
+            "pageView": 2,
+            "total": 3632
+        },
+        {
+            "page": "Casimiro Buttini",
+            "pageView": 2,
+            "total": 2256
+        },
+        {
+            "page": "Alasia del Monferrato",
+            "pageView": 2,
+            "total": 3797
         },
         {
             "page": "Margherita di Roucy",
-            "pageView": 1650
+            "pageView": 2,
+            "total": 1650
         },
         {
-            "page": "Giacomo Soleri",
-            "pageView": 1646
+            "page": "Isabella Paleologa",
+            "pageView": 2,
+            "total": 2614
         },
         {
-            "page": "Bartolomeo Pascali",
-            "pageView": 1543
+            "page": "Zaccaria Boverio",
+            "pageView": 2,
+            "total": 2358
         },
         {
-            "page": "Marco Di Saluzzo di Paesana",
-            "pageView": 1464
+            "page": "Luigi Buglione di Monale",
+            "pageView": 2,
+            "total": 2103
         },
         {
-            "page": "Lelio Peirano",
-            "pageView": 1463
+            "page": "Carlo Montani",
+            "pageView": 2,
+            "total": 1872
         },
         {
-            "page": "Silvio Giovaninetti",
-            "pageView": 1456
+            "page": "Carlo Muletti",
+            "pageView": 2,
+            "total": 2277
         },
         {
-            "page": "Mario Costa Cardol",
-            "pageView": 1332
-        },
-        {
-            "page": "Egidio Luigi Lanzo",
-            "pageView": 1257
-        },
-        {
-            "page": "Ignazio Marsengo-Bastia",
-            "pageView": 1227
-        },
-        {
-            "page": "Enrico Rostagno",
-            "pageView": 1215
+            "page": "Delfino Muletti",
+            "pageView": 2,
+            "total": 2265
         },
         {
             "page": "Mario Musso",
-            "pageView": 1207
+            "pageView": 2,
+            "total": 1207
+        },
+        {
+            "page": "Umberto Visetti",
+            "pageView": 2,
+            "total": 1810
+        },
+        {
+            "page": "Lelio Peirano",
+            "pageView": 1,
+            "total": 1464
+        },
+        {
+            "page": "Ignazio Marsengo-Bastia",
+            "pageView": 1,
+            "total": 1227
         },
         {
             "page": "Carlo Buttini",
-            "pageView": 1148
+            "pageView": 1,
+            "total": 1148
+        },
+        {
+            "page": "Vittorio Ellena",
+            "pageView": 1,
+            "total": 1771
+        },
+        {
+            "page": "Mario Costa Cardol",
+            "pageView": 1,
+            "total": 1332
+        },
+        {
+            "page": "Gabriele Cesano",
+            "pageView": 1,
+            "total": 1822
+        },
+        {
+            "page": "Enrico Rostagno",
+            "pageView": 1,
+            "total": 1218
         },
         {
             "page": "Alessandro Di Monale",
-            "pageView": 1130
-        },
-        {
-            "page": "Manlio Vineis",
-            "pageView": 1066
-        },
-        {
-            "page": "Cesare Saluzzo di Monterosso",
-            "pageView": 919
-        },
-        {
-            "page": "Andrea Rubiolo",
-            "pageView": 837
+            "pageView": 1,
+            "total": 1132
         },
         {
             "page": "Facino Tiberga",
-            "pageView": 739
+            "pageView": 1,
+            "total": 739
         },
         {
-            "page": "Giovanna del Monferrato",
-            "pageView": 631
+            "page": "Giacomo Soleri",
+            "pageView": 1,
+            "total": 1648
+        },
+        {
+            "page": "Cesare Saluzzo di Monterosso",
+            "pageView": 1,
+            "total": 919
+        },
+        {
+            "page": "Silvio Giovaninetti",
+            "pageView": 1,
+            "total": 1459
+        },
+        {
+            "page": "Bartolomeo Pascali",
+            "pageView": 1,
+            "total": 1543
+        },
+        {
+            "page": "Manlio Vineis",
+            "pageView": 1,
+            "total": 1067
+        },
+        {
+            "page": "Egidio Luigi Lanzo",
+            "pageView": 1,
+            "total": 1258
+        },
+        {
+            "page": "Marco Di Saluzzo di Paesana",
+            "pageView": 1,
+            "total": 1464
+        },
+        {
+            "page": "Juan Canaveris",
+            "pageView": 1,
+            "total": 1677
+        },
+        {
+            "page": "Andrea Rubiolo",
+            "pageView": 0,
+            "total": 837
         },
         {
             "page": "Lorenzo Civallero",
-            "pageView": 537
+            "pageView": 0,
+            "total": 538
         },
         {
             "page": "Federico di Saluzzo (vescovo)",
-            "pageView": 490
-        },
-        {
-            "page": "Beatrice di Ginevra",
-            "pageView": 360
+            "pageView": 0,
+            "total": 491
         },
         {
             "page": "Lodovico Birago",
-            "pageView": 277
+            "pageView": 0,
+            "total": 278
+        },
+        {
+            "page": "Beatrice di Ginevra",
+            "pageView": 0,
+            "total": 361
+        },
+        {
+            "page": "Giovanna del Monferrato",
+            "pageView": 0,
+            "total": 631
         }
     ]
 }

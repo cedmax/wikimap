@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Gero Zambuto",
-            "pageView": 14832
+            "pageView": 9,
+            "total": 14836
         },
         {
             "page": "Francesco Ingrao",
-            "pageView": 10756
+            "pageView": 5,
+            "total": 10756
         },
         {
             "page": "Giuseppe Castiglione (calciatore)",
-            "pageView": 5398
+            "pageView": 3,
+            "total": 5405
         },
         {
             "page": "Andrea Vizzini",
-            "pageView": 5358
-        },
-        {
-            "page": "Giovanni D'Aquila",
-            "pageView": 3189
-        },
-        {
-            "page": "Raimondo Sferlazza",
-            "pageView": 2262
+            "pageView": 3,
+            "total": 5359
         },
         {
             "page": "Luigi Carmona",
-            "pageView": 2000
+            "pageView": 2,
+            "total": 2000
+        },
+        {
+            "page": "Giovanni D'Aquila",
+            "pageView": 2,
+            "total": 3190
+        },
+        {
+            "page": "Raimondo Sferlazza",
+            "pageView": 2,
+            "total": 2263
         }
     ]
 }

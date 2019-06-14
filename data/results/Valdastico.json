@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Amalia Sartori",
-            "pageView": 7957
+            "pageView": 5,
+            "total": 7958
         },
         {
             "page": "Giovanni Dolfin (politico)",
-            "pageView": 3213
+            "pageView": 2,
+            "total": 3213
         },
         {
             "page": "Antonio Dalla Via",
-            "pageView": 1221
+            "pageView": 1,
+            "total": 1221
         },
         {
             "page": "Alessandro Dalla Via",
-            "pageView": 75
+            "pageView": 0,
+            "total": 77
         }
     ]
 }

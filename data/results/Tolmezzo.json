@@ -3,151 +3,188 @@
     "people": [
         {
             "page": "Maurizio Ganz",
-            "pageView": 240409
+            "pageView": 120,
+            "total": 240523
         },
         {
             "page": "Renzo Tondo",
-            "pageView": 40800
+            "pageView": 19,
+            "total": 40832
         },
         {
             "page": "Cleto Polonia",
-            "pageView": 36462
+            "pageView": 13,
+            "total": 36472
         },
         {
             "page": "Giorgio Di Centa",
-            "pageView": 27457
+            "pageView": 12,
+            "total": 27462
         },
         {
             "page": "Juri Cisotti",
-            "pageView": 18970
+            "pageView": 10,
+            "total": 18974
         },
         {
             "page": "Carlo Pelanda",
-            "pageView": 14236
-        },
-        {
-            "page": "Alessandro Pittin",
-            "pageView": 13710
-        },
-        {
-            "page": "Pietro Brollo",
-            "pageView": 10145
+            "pageView": 8,
+            "total": 14251
         },
         {
             "page": "Renato Del Din",
-            "pageView": 8935
+            "pageView": 6,
+            "total": 8937
+        },
+        {
+            "page": "Pietro Brollo",
+            "pageView": 6,
+            "total": 10153
         },
         {
             "page": "Jacopo Linussio",
-            "pageView": 8597
+            "pageView": 5,
+            "total": 8610
+        },
+        {
+            "page": "Alessandro Pittin",
+            "pageView": 5,
+            "total": 13713
         },
         {
             "page": "Remo Cacitti",
-            "pageView": 7658
+            "pageView": 5,
+            "total": 7664
         },
         {
             "page": "Michele Gortani",
-            "pageView": 6862
+            "pageView": 4,
+            "total": 6864
         },
         {
             "page": "Pio Paschini",
-            "pageView": 6480
+            "pageView": 4,
+            "total": 6485
         },
         {
             "page": "Giorgio Ferigo",
-            "pageView": 5840
-        },
-        {
-            "page": "Siro Angeli",
-            "pageView": 5795
+            "pageView": 4,
+            "total": 5843
         },
         {
             "page": "Gianni Cosetti",
-            "pageView": 5296
+            "pageView": 3,
+            "total": 5298
         },
         {
-            "page": "René Cattarinussi",
-            "pageView": 3958
+            "page": "Siro Angeli",
+            "pageView": 3,
+            "total": 5796
         },
         {
             "page": "Giovanni Battista Cossetti",
-            "pageView": 3905
-        },
-        {
-            "page": "Adriano Gransinigh",
-            "pageView": 3015
-        },
-        {
-            "page": "Bruno Lepre",
-            "pageView": 3012
-        },
-        {
-            "page": "Giuseppe Marchi (archeologo)",
-            "pageView": 2820
-        },
-        {
-            "page": "Aurelia Bubisutti",
-            "pageView": 2743
+            "pageView": 3,
+            "total": 3910
         },
         {
             "page": "Andrea Morassi",
-            "pageView": 2695
-        },
-        {
-            "page": "Aldo Ermano",
-            "pageView": 2675
-        },
-        {
-            "page": "Jacopo Di Ronco",
-            "pageView": 2461
-        },
-        {
-            "page": "Domenico Schiavi",
-            "pageView": 2435
-        },
-        {
-            "page": "Sara Veritti",
-            "pageView": 2115
-        },
-        {
-            "page": "Erika Lauriola",
-            "pageView": 1854
-        },
-        {
-            "page": "Giuseppe Montello",
-            "pageView": 1839
+            "pageView": 2,
+            "total": 2695
         },
         {
             "page": "Roberta D'Agostina",
-            "pageView": 1730
+            "pageView": 2,
+            "total": 1731
         },
         {
-            "page": "Raffaele Buzzi",
-            "pageView": 961
+            "page": "Jacopo Di Ronco",
+            "pageView": 2,
+            "total": 2462
+        },
+        {
+            "page": "Aldo Ermano",
+            "pageView": 2,
+            "total": 2679
+        },
+        {
+            "page": "Adriano Gransinigh",
+            "pageView": 2,
+            "total": 3021
+        },
+        {
+            "page": "René Cattarinussi",
+            "pageView": 2,
+            "total": 3959
+        },
+        {
+            "page": "Domenico Schiavi",
+            "pageView": 2,
+            "total": 2436
+        },
+        {
+            "page": "Giuseppe Marchi (archeologo)",
+            "pageView": 2,
+            "total": 2823
+        },
+        {
+            "page": "Giuseppe Montello",
+            "pageView": 2,
+            "total": 1840
+        },
+        {
+            "page": "Bruno Lepre",
+            "pageView": 2,
+            "total": 3012
+        },
+        {
+            "page": "Sara Veritti",
+            "pageView": 2,
+            "total": 2118
         },
         {
             "page": "Gustavo Monti",
-            "pageView": 866
+            "pageView": 1,
+            "total": 867
         },
         {
-            "page": "Carlo Camuzi",
-            "pageView": 665
-        },
-        {
-            "page": "Marina Piller",
-            "pageView": 454
-        },
-        {
-            "page": "Pietro Fuluto",
-            "pageView": 372
-        },
-        {
-            "page": "Barbara Stizzoli",
-            "pageView": 363
+            "page": "Erika Lauriola",
+            "pageView": 1,
+            "total": 1854
         },
         {
             "page": "Gianmarco Ceconi",
-            "pageView": 154
+            "pageView": 0,
+            "total": 157
+        },
+        {
+            "page": "Carlo Camuzi",
+            "pageView": 0,
+            "total": 665
+        },
+        {
+            "page": "Raffaele Buzzi",
+            "pageView": 0,
+            "total": 962
+        },
+        {
+            "page": "Marina Piller",
+            "pageView": 0,
+            "total": 454
+        },
+        {
+            "page": "Aurelia Bubisutti",
+            "pageView": 0,
+            "total": 2758
+        },
+        {
+            "page": "Barbara Stizzoli",
+            "pageView": 0,
+            "total": 364
+        },
+        {
+            "page": "Pietro Fuluto",
+            "pageView": 0,
+            "total": 374
         }
     ]
 }

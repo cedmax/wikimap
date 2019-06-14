@@ -1,0 +1,27 @@
+{
+    "id": "place.15252831497342600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nove",
+    "place_name": "Nove, Vicenza, Italy",
+    "bbox": [
+        11.655329,
+        45.694486,
+        11.697198,
+        45.737012
+    ],
+    "center": [
+        11.68333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68333,
+            45.73333
+        ]
+    }
+}

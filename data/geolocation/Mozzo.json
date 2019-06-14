@@ -1,0 +1,27 @@
+{
+    "id": "place.11960956099647870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mozzo",
+    "place_name": "Mozzo, Bergamo, Italy",
+    "bbox": [
+        9.593644,
+        45.693,
+        9.625965,
+        45.710407
+    ],
+    "center": [
+        9.60806,
+        45.70139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.60806,
+            45.70139
+        ]
+    }
+}

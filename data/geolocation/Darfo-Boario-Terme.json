@@ -1,0 +1,27 @@
+{
+    "id": "place.9887376232076800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Darfo Boario Terme",
+    "place_name": "Darfo Boario Terme, Brescia, Italy",
+    "bbox": [
+        10.144198,
+        45.849068,
+        10.254675,
+        45.927165
+    ],
+    "center": [
+        10.18667,
+        45.89444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18667,
+            45.89444
+        ]
+    }
+}

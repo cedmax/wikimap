@@ -1,0 +1,27 @@
+{
+    "id": "place.14611897072450310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lanusei",
+    "place_name": "Lanusei, Ogliastra, Italy",
+    "bbox": [
+        9.490559,
+        39.602754,
+        9.655559,
+        39.894318
+    ],
+    "center": [
+        9.55,
+        39.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.55,
+            39.88333
+        ]
+    }
+}

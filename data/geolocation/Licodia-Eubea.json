@@ -1,0 +1,27 @@
+{
+    "id": "place.18020099526909310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Licodia Eubea",
+    "place_name": "Licodia Eubea, Catania, Italy",
+    "bbox": [
+        14.583676,
+        37.079273,
+        14.796524,
+        37.220253
+    ],
+    "center": [
+        14.7,
+        37.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.7,
+            37.15
+        ]
+    }
+}

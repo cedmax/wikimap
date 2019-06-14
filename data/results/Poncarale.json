@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Bruno Giacomelli",
-            "pageView": 43164
-        },
-        {
-            "page": "Diego Gualtiero Rosa",
-            "pageView": 8308
+            "pageView": 26,
+            "total": 43198
         },
         {
             "page": "Agostino Gallo",
-            "pageView": 7870
+            "pageView": 5,
+            "total": 7875
+        },
+        {
+            "page": "Diego Gualtiero Rosa",
+            "pageView": 5,
+            "total": 8310
         },
         {
             "page": "Lorenzo Voltolini Esti",
-            "pageView": 3497
+            "pageView": 2,
+            "total": 3498
         }
     ]
 }

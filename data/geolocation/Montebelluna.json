@@ -1,0 +1,27 @@
+{
+    "id": "place.19019636224539760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montebelluna",
+    "place_name": "Montebelluna, Treviso, Italy",
+    "bbox": [
+        11.992417,
+        45.723089,
+        12.097779,
+        45.813136
+    ],
+    "center": [
+        12.03889,
+        45.77528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03889,
+            45.77528
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7079724938353340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Savigliano",
+    "place_name": "Savigliano, Cuneo, Italy",
+    "bbox": [
+        7.557174,
+        44.536344,
+        7.713622,
+        44.688594
+    ],
+    "center": [
+        7.63333,
+        44.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63333,
+            44.65
+        ]
+    }
+}

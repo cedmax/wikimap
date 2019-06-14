@@ -1,0 +1,27 @@
+{
+    "id": "place.13953570285843150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalcino",
+    "place_name": "Montalcino, Siena, Italy",
+    "bbox": [
+        11.349816,
+        42.957439,
+        11.589719,
+        43.112848
+    ],
+    "center": [
+        11.48917,
+        43.05917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48917,
+            43.05917
+        ]
+    }
+}

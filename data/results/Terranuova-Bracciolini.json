@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Beppe Bigazzi",
-            "pageView": 211499
+            "pageView": 100,
+            "total": 211570
         },
         {
             "page": "Poggio Bracciolini",
-            "pageView": 94117
+            "pageView": 54,
+            "total": 94147
         },
         {
             "page": "Federico Fazzuoli",
-            "pageView": 49667
+            "pageView": 27,
+            "total": 49697
         },
         {
             "page": "Spartaco Landini",
-            "pageView": 34828
+            "pageView": 16,
+            "total": 34840
         },
         {
             "page": "Concino Concini",
-            "pageView": 23398
+            "pageView": 15,
+            "total": 23410
         },
         {
             "page": "Brunetto Bucciarelli-Ducci",
-            "pageView": 19260
+            "pageView": 11.5,
+            "total": 19275
         },
         {
             "page": "Venturino Venturi",
-            "pageView": 13248
+            "pageView": 8,
+            "total": 13258
         },
         {
             "page": "Giovanni Guerrini",
-            "pageView": 11408
+            "pageView": 7,
+            "total": 11410
         },
         {
             "page": "Aldobrando Medici Tornaquinci",
-            "pageView": 8734
-        },
-        {
-            "page": "Ezio Gallori",
-            "pageView": 5535
+            "pageView": 5,
+            "total": 8738
         },
         {
             "page": "Consalvo Sanesi",
-            "pageView": 5329
+            "pageView": 3,
+            "total": 5333
+        },
+        {
+            "page": "Ezio Gallori",
+            "pageView": 3,
+            "total": 5540
         },
         {
             "page": "Fra Diamante",
-            "pageView": 4936
+            "pageView": 3,
+            "total": 4939
         },
         {
             "page": "Ottorino Dugini",
-            "pageView": 4473
-        },
-        {
-            "page": "Terzilio Cardinali",
-            "pageView": 3577
+            "pageView": 3,
+            "total": 4474
         },
         {
             "page": "Bartolomeo Concini",
-            "pageView": 1935
+            "pageView": 2,
+            "total": 1936
+        },
+        {
+            "page": "Terzilio Cardinali",
+            "pageView": 2,
+            "total": 3577
         },
         {
             "page": "Lorenzo Mannozzi Torini",
-            "pageView": 1423
+            "pageView": 1,
+            "total": 1423
         },
         {
             "page": "Anselmo Evangelista Sansoni",
-            "pageView": 1105
+            "pageView": 1,
+            "total": 1105
         }
     ]
 }

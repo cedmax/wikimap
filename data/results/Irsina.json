@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Johnny Torrio",
-            "pageView": 108306
+            "pageView": 66,
+            "total": 108391
         },
         {
             "page": "Michele Giordano",
-            "pageView": 32138
-        },
-        {
-            "page": "Salvatore Ligorio",
-            "pageView": 24446
-        },
-        {
-            "page": "Tommaso Morlino",
-            "pageView": 19263
+            "pageView": 20,
+            "total": 32156
         },
         {
             "page": "Antonio Giuseppe Caiazzo",
-            "pageView": 17186
+            "pageView": 12,
+            "total": 17198
         },
         {
-            "page": "Antonio Ciliberti",
-            "pageView": 8893
+            "page": "Tommaso Morlino",
+            "pageView": 12,
+            "total": 19284
         },
         {
-            "page": "Giuseppe Rocco Favale",
-            "pageView": 7702
+            "page": "Salvatore Ligorio",
+            "pageView": 11,
+            "total": 24454
         },
         {
             "page": "Ennio Appignanesi",
-            "pageView": 6616
+            "pageView": 4,
+            "total": 6619
         },
         {
-            "page": "Angelo Raffaele Dinardo",
-            "pageView": 5759
+            "page": "Antonio Ciliberti",
+            "pageView": 4,
+            "total": 8897
         },
         {
             "page": "Giovanni Maria Trabaci",
-            "pageView": 5150
+            "pageView": 3,
+            "total": 5150
+        },
+        {
+            "page": "Angelo Raffaele Dinardo",
+            "pageView": 3,
+            "total": 5762
+        },
+        {
+            "page": "Giuseppe Rocco Favale",
+            "pageView": 3,
+            "total": 7703
         },
         {
             "page": "Angelo Ziccardi",
-            "pageView": 4728
-        },
-        {
-            "page": "Andrea Miglionico",
-            "pageView": 3571
+            "pageView": 2,
+            "total": 4735
         },
         {
             "page": "Vito Caravelli",
-            "pageView": 3125
+            "pageView": 2,
+            "total": 3125
+        },
+        {
+            "page": "Andrea Miglionico",
+            "pageView": 2,
+            "total": 3573
         },
         {
             "page": "Giuseppe Decollanz",
-            "pageView": 2655
-        },
-        {
-            "page": "Michele Casino",
-            "pageView": 1674
+            "pageView": 2,
+            "total": 2656
         },
         {
             "page": "Severino Cannelonga",
-            "pageView": 1527
+            "pageView": 1,
+            "total": 1528
+        },
+        {
+            "page": "Michele Casino",
+            "pageView": 0,
+            "total": 1676
         },
         {
             "page": "Saverio De Bonis",
-            "pageView": 508
+            "pageView": 0,
+            "total": 515
         }
     ]
 }

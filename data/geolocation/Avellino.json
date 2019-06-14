@@ -1,0 +1,27 @@
+{
+    "id": "place.7921626854707790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avellino",
+    "place_name": "Avellino, Avellino, Italy",
+    "bbox": [
+        14.747656,
+        40.879958,
+        14.831558,
+        40.946897
+    ],
+    "center": [
+        14.78972,
+        40.91528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78972,
+            40.91528
+        ]
+    }
+}

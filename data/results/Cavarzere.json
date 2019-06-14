@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Sandro Munari",
-            "pageView": 61606
+            "pageView": 39,
+            "total": 61635
         },
         {
             "page": "Tullio Serafin",
-            "pageView": 22188
+            "pageView": 14,
+            "total": 22201
         },
         {
             "page": "Antonio Mattiazzo",
-            "pageView": 19497
+            "pageView": 11,
+            "total": 19511
         },
         {
             "page": "Guido Toffoletti",
-            "pageView": 11969
+            "pageView": 7,
+            "total": 11985
         },
         {
             "page": "Stefano Trevisanello",
-            "pageView": 9611
+            "pageView": 6,
+            "total": 9616
         },
         {
             "page": "Lia Scutari",
-            "pageView": 7815
-        },
-        {
-            "page": "Sara Penzo",
-            "pageView": 7671
+            "pageView": 5,
+            "total": 7819
         },
         {
             "page": "Elisa Camporese",
-            "pageView": 7083
+            "pageView": 4,
+            "total": 7091
         },
         {
-            "page": "Francesco Permunian",
-            "pageView": 6620
+            "page": "Sara Penzo",
+            "pageView": 4,
+            "total": 7684
         },
         {
             "page": "Michela Rodella",
-            "pageView": 5932
+            "pageView": 4,
+            "total": 5938
         },
         {
-            "page": "Ugo Trivellato",
-            "pageView": 2950
-        },
-        {
-            "page": "Gabriele Sella",
-            "pageView": 2947
-        },
-        {
-            "page": "Alessia Longato",
-            "pageView": 2581
+            "page": "Francesco Permunian",
+            "pageView": 4,
+            "total": 6624
         },
         {
             "page": "Aldo Corazza",
-            "pageView": 2497
+            "pageView": 2,
+            "total": 2498
         },
         {
-            "page": "Mario Dalla Pietra",
-            "pageView": 2102
+            "page": "Gabriele Sella",
+            "pageView": 2,
+            "total": 2948
         },
         {
             "page": "Giuseppe Salvadego Molin",
-            "pageView": 1733
+            "pageView": 2,
+            "total": 1735
+        },
+        {
+            "page": "Ugo Trivellato",
+            "pageView": 2,
+            "total": 2951
         },
         {
             "page": "Alessandro Stoppato",
-            "pageView": 1709
+            "pageView": 2,
+            "total": 1711
+        },
+        {
+            "page": "Alessia Longato",
+            "pageView": 2,
+            "total": 2582
+        },
+        {
+            "page": "Mario Dalla Pietra",
+            "pageView": 2,
+            "total": 2103
         },
         {
             "page": "Giovanni Manfrinato",
-            "pageView": 1370
-        },
-        {
-            "page": "Laura Barbierato",
-            "pageView": 1181
+            "pageView": 1,
+            "total": 1370
         },
         {
             "page": "Giovanni Bettinelli",
-            "pageView": 813
+            "pageView": 1,
+            "total": 816
         },
         {
-            "page": "Alessandro Tonini",
-            "pageView": 316
+            "page": "Laura Barbierato",
+            "pageView": 0,
+            "total": 1197
         },
         {
             "page": "Adele Albieri",
-            "pageView": 234
+            "pageView": 0,
+            "total": 234
+        },
+        {
+            "page": "Alessandro Tonini",
+            "pageView": 0,
+            "total": 318
         }
     ]
 }

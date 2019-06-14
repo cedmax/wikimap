@@ -1,0 +1,27 @@
+{
+    "id": "place.6083239426336180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terrasini",
+    "place_name": "Terrasini, Palermo, Italy",
+    "bbox": [
+        13.052355,
+        38.079812,
+        13.108476,
+        38.159618
+    ],
+    "center": [
+        13.08333,
+        38.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08333,
+            38.15
+        ]
+    }
+}

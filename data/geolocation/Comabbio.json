@@ -1,0 +1,27 @@
+{
+    "id": "place.16104350994754880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comabbio",
+    "place_name": "Comabbio, Varese, Italy",
+    "bbox": [
+        8.66027,
+        45.760048,
+        8.695015,
+        45.790946
+    ],
+    "center": [
+        8.68333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.68333,
+            45.76667
+        ]
+    }
+}

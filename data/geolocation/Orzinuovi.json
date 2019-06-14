@@ -1,0 +1,27 @@
+{
+    "id": "place.11415096015330700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orzinuovi",
+    "place_name": "Orzinuovi, Brescia, Italy",
+    "bbox": [
+        9.883768,
+        45.354278,
+        10.030382,
+        45.441737
+    ],
+    "center": [
+        9.93333,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45.4
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Gastone Limarilli",
-            "pageView": 8490
+            "pageView": 5,
+            "total": 8492
         },
         {
             "page": "Dino Spadetto",
-            "pageView": 6561
+            "pageView": 4,
+            "total": 6562
         },
         {
             "page": "Franco Bonora",
-            "pageView": 5470
+            "pageView": 3,
+            "total": 5473
         },
         {
             "page": "Oddo Stocco",
-            "pageView": 4274
+            "pageView": 3,
+            "total": 4275
         },
         {
             "page": "Antonio Polin",
-            "pageView": 500
+            "pageView": 0,
+            "total": 501
         }
     ]
 }

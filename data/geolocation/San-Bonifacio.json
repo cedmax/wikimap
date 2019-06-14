@@ -1,0 +1,27 @@
+{
+    "id": "place.5674390384332400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Bonifacio",
+    "place_name": "San Bonifacio, Verona, Italy",
+    "bbox": [
+        11.222095,
+        45.356886,
+        11.34648,
+        45.433499
+    ],
+    "center": [
+        11.28333,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            45.4
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15371374801598380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bene Vagienna",
+    "place_name": "Bene Vagienna, Cuneo, Italy",
+    "bbox": [
+        7.772586,
+        44.490863,
+        7.881124,
+        44.583939
+    ],
+    "center": [
+        7.83306,
+        44.54528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.83306,
+            44.54528
+        ]
+    }
+}

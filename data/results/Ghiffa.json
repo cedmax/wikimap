@@ -2,28 +2,34 @@
     "name": "Ghiffa",
     "people": [
         {
-            "page": "Cesare Butti",
-            "pageView": 10482
+            "page": "Leonardo Dudreville",
+            "pageView": 7,
+            "total": 10439
         },
         {
-            "page": "Leonardo Dudreville",
-            "pageView": 10437
+            "page": "Cesare Butti",
+            "pageView": 7,
+            "total": 10485
         },
         {
             "page": "Gilla Vincenzo Gremigni",
-            "pageView": 5564
-        },
-        {
-            "page": "Alfredo Ravasco",
-            "pageView": 3556
-        },
-        {
-            "page": "Alfredo Falcioni",
-            "pageView": 2423
+            "pageView": 3,
+            "total": 5566
         },
         {
             "page": "Lorenzo Ellero",
-            "pageView": 1844
+            "pageView": 2,
+            "total": 1845
+        },
+        {
+            "page": "Alfredo Falcioni",
+            "pageView": 2,
+            "total": 2426
+        },
+        {
+            "page": "Alfredo Ravasco",
+            "pageView": 2,
+            "total": 3559
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.9139617695229750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filottrano",
+    "place_name": "Filottrano, Ancona, Italy",
+    "bbox": [
+        13.271309,
+        43.39173,
+        13.420086,
+        43.47852
+    ],
+    "center": [
+        13.35025,
+        43.43442
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.35025,
+            43.43442
+        ]
+    }
+}

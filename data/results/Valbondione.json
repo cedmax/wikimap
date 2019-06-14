@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Mario Merelli",
-            "pageView": 20446
-        },
-        {
-            "page": "Sergio Michele Piffari",
-            "pageView": 5055
+            "pageView": 11,
+            "total": 20471
         },
         {
             "page": "Roberto Marchini",
-            "pageView": 2613
+            "pageView": 2,
+            "total": 2613
+        },
+        {
+            "page": "Sergio Michele Piffari",
+            "pageView": 2,
+            "total": 5056
         }
     ]
 }

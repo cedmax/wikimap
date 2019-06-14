@@ -1,0 +1,27 @@
+{
+    "id": "place.10929701896569180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sacile",
+    "place_name": "Sacile, Pordenone, Italy",
+    "bbox": [
+        12.456012,
+        45.904243,
+        12.553284,
+        45.97655
+    ],
+    "center": [
+        12.50274,
+        45.95412
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.50274,
+            45.95412
+        ]
+    }
+}

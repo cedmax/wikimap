@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Giuseppina Tuissi",
-            "pageView": 18604
-        },
-        {
-            "page": "Tolomeo Gallio",
-            "pageView": 8737
+            "pageView": 10,
+            "total": 18618
         },
         {
             "page": "Carlo Blasis",
-            "pageView": 7543
+            "pageView": 5,
+            "total": 7544
+        },
+        {
+            "page": "Tolomeo Gallio",
+            "pageView": 5,
+            "total": 8738
         },
         {
             "page": "Giberto Arrivabene Valenti Gonzaga",
-            "pageView": 6122
-        },
-        {
-            "page": "Giorgio Aebi",
-            "pageView": 4518
+            "pageView": 4,
+            "total": 6126
         },
         {
             "page": "Giuseppe Solenghi",
-            "pageView": 3962
+            "pageView": 3,
+            "total": 3962
+        },
+        {
+            "page": "Giorgio Aebi",
+            "pageView": 3,
+            "total": 4521
         },
         {
             "page": "Enrico Mantero",
-            "pageView": 2897
-        },
-        {
-            "page": "Giuseppe Furlanis",
-            "pageView": 2731
+            "pageView": 2,
+            "total": 2897
         },
         {
             "page": "Giulio Bellinzaghi",
-            "pageView": 2665
+            "pageView": 2,
+            "total": 2667
         },
         {
-            "page": "Eli Riva",
-            "pageView": 2491
+            "page": "Giuseppe Furlanis",
+            "pageView": 2,
+            "total": 2731
         },
         {
             "page": "Pietro Configliachi",
-            "pageView": 956
+            "pageView": 2,
+            "total": 956
+        },
+        {
+            "page": "Eli Riva",
+            "pageView": 2,
+            "total": 2491
         },
         {
             "page": "Giovanni Battista Baccarini",
-            "pageView": 652
+            "pageView": 0,
+            "total": 652
         }
     ]
 }

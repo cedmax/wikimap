@@ -1,0 +1,27 @@
+{
+    "id": "place.14504217547268150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cernobbio",
+    "place_name": "Cernobbio, Como, Italy",
+    "bbox": [
+        9.048246,
+        45.832474,
+        9.096795,
+        45.885074
+    ],
+    "center": [
+        9.07583,
+        45.83806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.07583,
+            45.83806
+        ]
+    }
+}

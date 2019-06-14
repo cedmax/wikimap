@@ -1,0 +1,27 @@
+{
+    "id": "place.5694966991406520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parma",
+    "place_name": "Parma, Parma, Italy",
+    "bbox": [
+        10.214142,
+        44.66267,
+        10.442807,
+        44.900725
+    ],
+    "center": [
+        10.328,
+        44.80147
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.328,
+            44.80147
+        ]
+    }
+}

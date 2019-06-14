@@ -1,0 +1,27 @@
+{
+    "id": "place.10382027339305700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Annone Veneto",
+    "place_name": "Annone Veneto, Venezia, Italy",
+    "bbox": [
+        12.655647,
+        45.721017,
+        12.748173,
+        45.806322
+    ],
+    "center": [
+        12.68333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68333,
+            45.8
+        ]
+    }
+}

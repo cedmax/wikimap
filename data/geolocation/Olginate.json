@@ -1,0 +1,27 @@
+{
+    "id": "place.7367769320861570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olginate",
+    "place_name": "Olginate, Lecco, Italy",
+    "bbox": [
+        9.38559,
+        45.762979,
+        9.435118,
+        45.806342
+    ],
+    "center": [
+        9.41667,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41667,
+            45.8
+        ]
+    }
+}

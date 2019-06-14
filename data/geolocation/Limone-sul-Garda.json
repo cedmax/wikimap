@@ -1,0 +1,27 @@
+{
+    "id": "place.9194636673253800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limone sul Garda",
+    "place_name": "Limone sul Garda, Brescia, Italy",
+    "bbox": [
+        10.754069,
+        45.793486,
+        10.837876,
+        45.843188
+    ],
+    "center": [
+        10.78333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.78333,
+            45.81667
+        ]
+    }
+}

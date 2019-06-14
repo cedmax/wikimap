@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Guido Monzino",
-            "pageView": 41689
+            "pageView": 22,
+            "total": 41724
         },
         {
             "page": "Alberto Coramini",
-            "pageView": 8349
+            "pageView": 5,
+            "total": 8355
         },
         {
             "page": "Salvatore Morale",
-            "pageView": 6313
-        },
-        {
-            "page": "Martino Gomiero",
-            "pageView": 4727
+            "pageView": 4,
+            "total": 6313
         },
         {
             "page": "Edoardo Perna",
-            "pageView": 4200
+            "pageView": 3,
+            "total": 4202
+        },
+        {
+            "page": "Martino Gomiero",
+            "pageView": 3,
+            "total": 4727
         },
         {
             "page": "Lorenzo Cantarello",
-            "pageView": 1018
+            "pageView": 1,
+            "total": 1019
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8615572286951370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre del Greco",
+    "place_name": "Torre del Greco, Napoli, Italy",
+    "bbox": [
+        14.352231,
+        40.751178,
+        14.433924,
+        40.821108
+    ],
+    "center": [
+        14.39528,
+        40.78528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.39528,
+            40.78528
+        ]
+    }
+}

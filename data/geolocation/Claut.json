@@ -1,0 +1,27 @@
+{
+    "id": "place.3962775716617390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Claut",
+    "place_name": "Claut, Pordenone, Italy",
+    "bbox": [
+        12.401136,
+        46.206869,
+        12.638491,
+        46.368847
+    ],
+    "center": [
+        12.51667,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.51667,
+            46.26667
+        ]
+    }
+}

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Bruno Barbieri (chef)",
-            "pageView": 2366659
+            "pageView": 1105.5,
+            "total": 2367696
         },
         {
             "page": "Giacomo Bulgarelli",
-            "pageView": 111507
+            "pageView": 64,
+            "total": 111549
         },
         {
             "page": "Giovanni Caprara",
-            "pageView": 19896
-        },
-        {
-            "page": "Aldo Borgonzoni",
-            "pageView": 14703
+            "pageView": 11,
+            "total": 19916
         },
         {
             "page": "Pillio da Medicina",
-            "pageView": 11422
+            "pageView": 7,
+            "total": 11427
+        },
+        {
+            "page": "Aldo Borgonzoni",
+            "pageView": 6,
+            "total": 14726
         },
         {
             "page": "Pier da Medicina",
-            "pageView": 7530
+            "pageView": 5,
+            "total": 7534
         },
         {
             "page": "Giuseppe Biagi (esploratore)",
-            "pageView": 7134
+            "pageView": 4,
+            "total": 7136
         },
         {
             "page": "Claudio Stagni",
-            "pageView": 7134
-        },
-        {
-            "page": "Ansaldo Poggi",
-            "pageView": 5013
+            "pageView": 4,
+            "total": 7139
         },
         {
             "page": "Francesco Lamberti",
-            "pageView": 4822
+            "pageView": 3,
+            "total": 4826
         },
         {
             "page": "Bernardo Bernardi",
-            "pageView": 4748
+            "pageView": 3,
+            "total": 4752
+        },
+        {
+            "page": "Ansaldo Poggi",
+            "pageView": 3,
+            "total": 5014
         },
         {
             "page": "Angelo Venturoli",
-            "pageView": 3000
-        },
-        {
-            "page": "Giuseppe Negroni",
-            "pageView": 2977
-        },
-        {
-            "page": "Mauro Sarti",
-            "pageView": 2791
-        },
-        {
-            "page": "Luigi Dardani",
-            "pageView": 2585
-        },
-        {
-            "page": "Davide Ricci Bitti",
-            "pageView": 2217
+            "pageView": 2,
+            "total": 3000
         },
         {
             "page": "Francesco Saverio Fabri",
-            "pageView": 1377
+            "pageView": 2,
+            "total": 1381
+        },
+        {
+            "page": "Luigi Dardani",
+            "pageView": 2,
+            "total": 2585
+        },
+        {
+            "page": "Davide Ricci Bitti",
+            "pageView": 2,
+            "total": 2217
+        },
+        {
+            "page": "Mauro Sarti",
+            "pageView": 2,
+            "total": 2791
+        },
+        {
+            "page": "Giuseppe Negroni",
+            "pageView": 2,
+            "total": 2978
         },
         {
             "page": "Licurgo Angelo Fava",
-            "pageView": 559
+            "pageView": 0,
+            "total": 560
         }
     ]
 }

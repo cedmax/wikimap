@@ -1,0 +1,21 @@
+{
+    "id": "address.999879546",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Santa Maria Di Leuca",
+    "place_name": "via Santa Maria Di Leuca, 72023 Mesagne Brindisi, Italy",
+    "center": [
+        17.797695,
+        40.575846
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.797695,
+            40.575846
+        ]
+    }
+}

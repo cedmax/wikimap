@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Alessandra Pierelli",
-            "pageView": 211136
+            "pageView": 92,
+            "total": 211192
         },
         {
             "page": "Martufello",
-            "pageView": 189816
+            "pageView": 91.5,
+            "total": 189930
         },
         {
             "page": "Daniele Nardi",
-            "pageView": 112434
-        },
-        {
-            "page": "Giuseppe Petrocchi",
-            "pageView": 31762
-        },
-        {
-            "page": "Manuela Leggeri",
-            "pageView": 28055
+            "pageView": 26,
+            "total": 112754
         },
         {
             "page": "Mariano Crociata",
-            "pageView": 21816
+            "pageView": 14,
+            "total": 21829
+        },
+        {
+            "page": "Manuela Leggeri",
+            "pageView": 14,
+            "total": 28082
+        },
+        {
+            "page": "Giuseppe Petrocchi",
+            "pageView": 10,
+            "total": 31787
         },
         {
             "page": "Lilli Greco",
-            "pageView": 15383
-        },
-        {
-            "page": "Sesa Amici",
-            "pageView": 12732
+            "pageView": 9,
+            "total": 15387
         },
         {
             "page": "Domenico Musti",
-            "pageView": 12304
+            "pageView": 8,
+            "total": 12315
+        },
+        {
+            "page": "Sesa Amici",
+            "pageView": 7,
+            "total": 12735
         },
         {
             "page": "Carlo da Sezze",
-            "pageView": 11203
+            "pageView": 6,
+            "total": 11207
         },
         {
             "page": "Omar Vitelli",
-            "pageView": 10124
+            "pageView": 6,
+            "total": 10130
         },
         {
             "page": "Antipapa Innocenzo III",
-            "pageView": 8622
+            "pageView": 6,
+            "total": 8623
         },
         {
             "page": "Ubaldo Calabresi",
-            "pageView": 5575
+            "pageView": 4,
+            "total": 5581
         },
         {
             "page": "Lidano d'Antena",
-            "pageView": 4881
+            "pageView": 3,
+            "total": 4884
         },
         {
             "page": "Pier Marcellino Corradini",
-            "pageView": 4660
-        },
-        {
-            "page": "Cosimo Ventucci",
-            "pageView": 3497
-        },
-        {
-            "page": "Guido Bernardi (politico 1923)",
-            "pageView": 2852
+            "pageView": 3,
+            "total": 4661
         },
         {
             "page": "Cesare Augusto Fanelli",
-            "pageView": 2741
+            "pageView": 2,
+            "total": 2745
+        },
+        {
+            "page": "Cosimo Ventucci",
+            "pageView": 2,
+            "total": 3505
+        },
+        {
+            "page": "Guido Bernardi (politico 1923)",
+            "pageView": 2,
+            "total": 2854
         },
         {
             "page": "Pompeo Angelotti",
-            "pageView": 2142
+            "pageView": 2,
+            "total": 2144
         },
         {
             "page": "Benedetto Pucilli",
-            "pageView": 1573
+            "pageView": 1,
+            "total": 1575
         }
     ]
 }

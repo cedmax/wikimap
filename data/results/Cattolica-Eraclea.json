@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Vito Rizzuto",
-            "pageView": 64512
+            "pageView": 19,
+            "total": 64858
         },
         {
             "page": "Nicolo Rizzuto",
-            "pageView": 13189
+            "pageView": 8,
+            "total": 13268
         },
         {
             "page": "Francesco Renda",
-            "pageView": 10650
+            "pageView": 7,
+            "total": 10661
         },
         {
             "page": "Duride di Samo",
-            "pageView": 8816
+            "pageView": 6,
+            "total": 8822
         },
         {
             "page": "Dorieo",
-            "pageView": 6443
-        },
-        {
-            "page": "Raimondo Borsellino",
-            "pageView": 3993
+            "pageView": 4,
+            "total": 6447
         },
         {
             "page": "Enrico La Loggia (1872-1960)",
-            "pageView": 3958
+            "pageView": 3,
+            "total": 3960
         },
         {
             "page": "Paolo Bongiorno",
-            "pageView": 3799
+            "pageView": 2,
+            "total": 3800
         },
         {
             "page": "Sebastiano Bongiorno",
-            "pageView": 2093
+            "pageView": 2,
+            "total": 2094
+        },
+        {
+            "page": "Raimondo Borsellino",
+            "pageView": 2,
+            "total": 3994
         }
     ]
 }

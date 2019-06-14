@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Salvo D'Acquisto",
-            "pageView": 399382
-        },
-        {
-            "page": "Franco Citti",
-            "pageView": 244688
+            "pageView": 165,
+            "total": 399577
         },
         {
             "page": "Nanni Loy",
-            "pageView": 191460
+            "pageView": 107,
+            "total": 191546
+        },
+        {
+            "page": "Franco Citti",
+            "pageView": 102,
+            "total": 244789
         },
         {
             "page": "Alberto Lionello",
-            "pageView": 164790
+            "pageView": 80,
+            "total": 164872
         },
         {
             "page": "Antonio Zara",
-            "pageView": 25874
+            "pageView": 12,
+            "total": 25892
         },
         {
             "page": "Andrea Rubei",
-            "pageView": 14686
+            "pageView": 7,
+            "total": 14691
         },
         {
             "page": "Gianfranco Angelini",
-            "pageView": 7787
+            "pageView": 5,
+            "total": 7795
         },
         {
             "page": "Luca Marchetti",
-            "pageView": 6938
-        },
-        {
-            "page": "Stelio Nardini",
-            "pageView": 6729
+            "pageView": 4,
+            "total": 6944
         },
         {
             "page": "Ines Viviani Donarelli",
-            "pageView": 5820
+            "pageView": 4,
+            "total": 5828
         },
         {
-            "page": "Laion De Freitas",
-            "pageView": 4251
+            "page": "Stelio Nardini",
+            "pageView": 4,
+            "total": 6736
         },
         {
             "page": "Marcelo Padilha Gonçalves",
-            "pageView": 3467
+            "pageView": 3,
+            "total": 3474
         },
         {
-            "page": "Andrea Basile",
-            "pageView": 3236
-        },
-        {
-            "page": "Giuseppe Mentasti",
-            "pageView": 2825
-        },
-        {
-            "page": "Matías Lara",
-            "pageView": 2786
-        },
-        {
-            "page": "Marcelo Moreira",
-            "pageView": 2661
-        },
-        {
-            "page": "Papú",
-            "pageView": 2628
-        },
-        {
-            "page": "Marco Galati",
-            "pageView": 2591
-        },
-        {
-            "page": "Alexandre Ghiotti",
-            "pageView": 2382
+            "page": "Laion De Freitas",
+            "pageView": 3,
+            "total": 4263
         },
         {
             "page": "Luca Leofreddi",
-            "pageView": 2310
+            "pageView": 2,
+            "total": 2310
         },
         {
             "page": "David Patrizi",
-            "pageView": 2082
+            "pageView": 2,
+            "total": 2084
+        },
+        {
+            "page": "Matías Lara",
+            "pageView": 2,
+            "total": 2786
+        },
+        {
+            "page": "Papú",
+            "pageView": 2,
+            "total": 2628
+        },
+        {
+            "page": "Alexandre Ghiotti",
+            "pageView": 2,
+            "total": 2383
+        },
+        {
+            "page": "Marco Galati",
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Giuseppe Mentasti",
+            "pageView": 2,
+            "total": 2826
+        },
+        {
+            "page": "Andrea Basile",
+            "pageView": 2,
+            "total": 3240
+        },
+        {
+            "page": "Marcelo Moreira",
+            "pageView": 2,
+            "total": 2663
         },
         {
             "page": "Felipe Arteiro",
-            "pageView": 1905
+            "pageView": 2,
+            "total": 1905
         },
         {
             "page": "Angelo Brigada",
-            "pageView": 1448
+            "pageView": 2,
+            "total": 1448
         },
         {
             "page": "Antonio Muolo",
-            "pageView": 1028
+            "pageView": 1,
+            "total": 1028
         }
     ]
 }

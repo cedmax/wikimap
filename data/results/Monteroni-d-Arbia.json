@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Enrico VII di Lussemburgo",
-            "pageView": 104045
+            "pageView": 68,
+            "total": 104102
         },
         {
             "page": "Silvano Vigni",
-            "pageView": 10322
+            "pageView": 5,
+            "total": 10334
         },
         {
             "page": "Susanna Cenni",
-            "pageView": 7246
+            "pageView": 4,
+            "total": 7255
         },
         {
             "page": "Arturo Bocci",
-            "pageView": 1829
-        },
-        {
-            "page": "Genesio Sampieri",
-            "pageView": 1746
-        },
-        {
-            "page": "Angelo Volpi",
-            "pageView": 1510
-        },
-        {
-            "page": "Guido Sampieri",
-            "pageView": 1296
-        },
-        {
-            "page": "Girolamo Vigni",
-            "pageView": 1281
-        },
-        {
-            "page": "Antonio Vigni",
-            "pageView": 1190
+            "pageView": 2,
+            "total": 1830
         },
         {
             "page": "Agostino Lippi",
-            "pageView": 1133
+            "pageView": 2,
+            "total": 1135
+        },
+        {
+            "page": "Antonio Vigni",
+            "pageView": 2,
+            "total": 1191
+        },
+        {
+            "page": "Genesio Sampieri",
+            "pageView": 1,
+            "total": 1746
+        },
+        {
+            "page": "Guido Sampieri",
+            "pageView": 1,
+            "total": 1296
+        },
+        {
+            "page": "Girolamo Vigni",
+            "pageView": 1,
+            "total": 1282
+        },
+        {
+            "page": "Angelo Volpi",
+            "pageView": 1,
+            "total": 1510
         }
     ]
 }

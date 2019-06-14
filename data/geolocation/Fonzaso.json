@@ -1,0 +1,27 @@
+{
+    "id": "place.10298494795860560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fonzaso",
+    "place_name": "Fonzaso, Belluno, Italy",
+    "bbox": [
+        11.759049,
+        45.954833,
+        11.843935,
+        46.039963
+    ],
+    "center": [
+        11.8,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            46.01667
+        ]
+    }
+}

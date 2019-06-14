@@ -1,0 +1,27 @@
+{
+    "id": "place.13030733136970560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marcheno",
+    "place_name": "Marcheno, Brescia, Italy",
+    "bbox": [
+        10.161861,
+        45.680101,
+        10.268445,
+        45.753035
+    ],
+    "center": [
+        10.21667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21667,
+            45.7
+        ]
+    }
+}

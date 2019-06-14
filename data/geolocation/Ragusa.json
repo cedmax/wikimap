@@ -1,0 +1,27 @@
+{
+    "id": "place.11499415459148780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ragusa",
+    "place_name": "Ragusa, Ragusa, Italy",
+    "bbox": [
+        14.438925,
+        36.772111,
+        14.876068,
+        37.043348
+    ],
+    "center": [
+        14.73056,
+        36.925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.73056,
+            36.925
+        ]
+    }
+}

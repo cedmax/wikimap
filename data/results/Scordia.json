@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Domenico Centamore",
-            "pageView": 85293
+            "pageView": 33.5,
+            "total": 85315
         },
         {
             "page": "Paolo Buonvino",
-            "pageView": 53777
+            "pageView": 28,
+            "total": 53791
         },
         {
             "page": "Leonardo Ferrulli",
-            "pageView": 9507
+            "pageView": 6,
+            "total": 9510
         },
         {
             "page": "Salvo Basso",
-            "pageView": 4966
+            "pageView": 2,
+            "total": 4968
         },
         {
             "page": "Rocco Incardona",
-            "pageView": 4098
+            "pageView": 2,
+            "total": 4099
         },
         {
             "page": "Ippolito De Cristofaro",
-            "pageView": 1278
+            "pageView": 1,
+            "total": 1278
         }
     ]
 }

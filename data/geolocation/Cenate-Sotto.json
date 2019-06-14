@@ -1,0 +1,27 @@
+{
+    "id": "place.12851500026729220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cenate Sotto",
+    "place_name": "Cenate Sotto, Bergamo, Italy",
+    "bbox": [
+        9.794598,
+        45.684701,
+        9.833916,
+        45.715326
+    ],
+    "center": [
+        9.81667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.81667,
+            45.7
+        ]
+    }
+}

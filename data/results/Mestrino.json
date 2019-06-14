@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Davide Cantarello",
-            "pageView": 7703
+            "pageView": 5,
+            "total": 7708
         },
         {
             "page": "Paolo Barbaro",
-            "pageView": 7372
+            "pageView": 4,
+            "total": 7378
         },
         {
             "page": "Carlo Bonacina",
-            "pageView": 5172
+            "pageView": 3,
+            "total": 5176
         },
         {
             "page": "Vincenzo De Vit",
-            "pageView": 2068
+            "pageView": 2,
+            "total": 2068
         }
     ]
 }

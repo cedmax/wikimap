@@ -1,0 +1,27 @@
+{
+    "id": "place.11317617423236110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Empedocle",
+    "place_name": "Porto Empedocle, Agrigento, Italy",
+    "bbox": [
+        13.461512,
+        37.274635,
+        13.551663,
+        37.342788
+    ],
+    "center": [
+        13.52722,
+        37.29444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.52722,
+            37.29444
+        ]
+    }
+}

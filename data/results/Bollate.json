@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "DJ Jad",
-            "pageView": 299440
+            "pageView": 174,
+            "total": 299679
         },
         {
             "page": "Giancarlo Kalabrugovic",
-            "pageView": 82343
-        },
-        {
-            "page": "Fabio Gallo",
-            "pageView": 69632
-        },
-        {
-            "page": "Sabrina Gandolfi",
-            "pageView": 50010
-        },
-        {
-            "page": "Fabrizio Ferron",
-            "pageView": 49198
-        },
-        {
-            "page": "Giuseppe De Feudis",
-            "pageView": 38660
-        },
-        {
-            "page": "Giorgio Venturin",
-            "pageView": 32308
-        },
-        {
-            "page": "Massimiliano Cappellini",
-            "pageView": 28055
+            "pageView": 47,
+            "total": 82402
         },
         {
             "page": "Marco Bergamo",
-            "pageView": 26784
+            "pageView": 37,
+            "total": 26839
         },
         {
-            "page": "Eleonora Cimbro",
-            "pageView": 20215
+            "page": "Fabio Gallo",
+            "pageView": 34,
+            "total": 69666
+        },
+        {
+            "page": "Fabrizio Ferron",
+            "pageView": 30,
+            "total": 49237
+        },
+        {
+            "page": "Sabrina Gandolfi",
+            "pageView": 22,
+            "total": 50032
+        },
+        {
+            "page": "Giuseppe De Feudis",
+            "pageView": 21,
+            "total": 38669
+        },
+        {
+            "page": "Giorgio Venturin",
+            "pageView": 20,
+            "total": 32326
+        },
+        {
+            "page": "Massimiliano Cappellini",
+            "pageView": 18,
+            "total": 28066
         },
         {
             "page": "Davide Belotti",
-            "pageView": 15544
+            "pageView": 10,
+            "total": 15557
+        },
+        {
+            "page": "Eleonora Cimbro",
+            "pageView": 9,
+            "total": 20224
         },
         {
             "page": "Marco Sinigaglia",
-            "pageView": 7613
-        },
-        {
-            "page": "Mario Pezzotta",
-            "pageView": 6368
+            "pageView": 5,
+            "total": 7616
         },
         {
             "page": "Valentino Degani",
-            "pageView": 6238
+            "pageView": 4,
+            "total": 6239
         },
         {
-            "page": "Paolo Brera (musicista)",
-            "pageView": 5121
-        },
-        {
-            "page": "Cristian Brenna",
-            "pageView": 4952
+            "page": "Mario Pezzotta",
+            "pageView": 4,
+            "total": 6368
         },
         {
             "page": "Andrea Colombo (atleta)",
-            "pageView": 3808
+            "pageView": 3,
+            "total": 3808
+        },
+        {
+            "page": "Paolo Brera (musicista)",
+            "pageView": 3,
+            "total": 5121
+        },
+        {
+            "page": "Cristian Brenna",
+            "pageView": 3,
+            "total": 4955
         },
         {
             "page": "Antonio Seveso",
-            "pageView": 3471
+            "pageView": 2,
+            "total": 3472
         },
         {
             "page": "Ugo Gregorin",
-            "pageView": 1687
+            "pageView": 1,
+            "total": 1687
         }
     ]
 }

@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Papa Pio II",
-            "pageView": 165641
-        },
-        {
-            "page": "Rodolfo Cetoloni",
-            "pageView": 11074
+            "pageView": 103,
+            "total": 165727
         },
         {
             "page": "Stefano Manetti",
-            "pageView": 9759
+            "pageView": 6,
+            "total": 9760
+        },
+        {
+            "page": "Rodolfo Cetoloni",
+            "pageView": 6,
+            "total": 11082
         },
         {
             "page": "Benvenuto Franci",
-            "pageView": 5055
-        },
-        {
-            "page": "Giorgio Santi",
-            "pageView": 3668
-        },
-        {
-            "page": "Scipione Pannocchieschi",
-            "pageView": 2891
+            "pageView": 3,
+            "total": 5058
         },
         {
             "page": "Agostino Patrizi Piccolomini",
-            "pageView": 2581
+            "pageView": 2,
+            "total": 2604
+        },
+        {
+            "page": "Scipione Pannocchieschi",
+            "pageView": 2,
+            "total": 2891
+        },
+        {
+            "page": "Giorgio Santi",
+            "pageView": 2,
+            "total": 3668
         },
         {
             "page": "Emo Bonifazi",
-            "pageView": 2083
+            "pageView": 2,
+            "total": 2086
         },
         {
             "page": "Stefano Tuscano",
-            "pageView": 1763
+            "pageView": 1,
+            "total": 1767
         },
         {
             "page": "Giuseppe Pannilini",
-            "pageView": 1484
+            "pageView": 1,
+            "total": 1484
         },
         {
             "page": "Francesco Pio Santi",
-            "pageView": 834
+            "pageView": 0,
+            "total": 835
         },
         {
             "page": "Aleardo Paolucci",
-            "pageView": 233
+            "pageView": 0,
+            "total": 235
         }
     ]
 }

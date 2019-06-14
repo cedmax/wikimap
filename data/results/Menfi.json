@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Joe Masseria",
-            "pageView": 136923
+            "pageView": 82,
+            "total": 137130
         },
         {
             "page": "Salvatore Puccio",
-            "pageView": 22602
+            "pageView": 8,
+            "total": 22628
         },
         {
             "page": "Antonino Palminteri",
-            "pageView": 6379
+            "pageView": 3,
+            "total": 6380
         },
         {
             "page": "Santi Bivona",
-            "pageView": 588
+            "pageView": 0,
+            "total": 589
         },
         {
             "page": "Giuseppina Di Blasi",
-            "pageView": 524
+            "pageView": 0,
+            "total": 525
         }
     ]
 }

@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Massimo Ganci",
-            "pageView": 37833
+            "pageView": 21,
+            "total": 37841
         },
         {
             "page": "Beniamino Di Giacomo",
-            "pageView": 20478
+            "pageView": 13,
+            "total": 20498
         },
         {
             "page": "Roberto Cappellacci",
-            "pageView": 18233
+            "pageView": 11,
+            "total": 18251
         },
         {
             "page": "Alex Gibbs (calciatore)",
-            "pageView": 14449
+            "pageView": 9,
+            "total": 14454
         },
         {
             "page": "Alberto Casadei (pallavolista)",
-            "pageView": 13026
+            "pageView": 6,
+            "total": 13029
         },
         {
             "page": "Pierluigi Prete",
-            "pageView": 8703
+            "pageView": 5,
+            "total": 8711
         },
         {
             "page": "Davide Tedoldi",
-            "pageView": 4562
-        },
-        {
-            "page": "Federico Moretti (pallavolista)",
-            "pageView": 3247
-        },
-        {
-            "page": "Roberto Romiti",
-            "pageView": 2994
-        },
-        {
-            "page": "Umberto Zanolla",
-            "pageView": 2682
+            "pageView": 3,
+            "total": 4563
         },
         {
             "page": "Mirko Costa",
-            "pageView": 2499
+            "pageView": 2,
+            "total": 2501
+        },
+        {
+            "page": "Umberto Zanolla",
+            "pageView": 2,
+            "total": 2683
+        },
+        {
+            "page": "Federico Moretti (pallavolista)",
+            "pageView": 2,
+            "total": 3249
+        },
+        {
+            "page": "Roberto Romiti",
+            "pageView": 2,
+            "total": 2995
         }
     ]
 }

@@ -2,52 +2,64 @@
     "name": "Laces",
     "people": [
         {
-            "page": "Christian Borgatello",
-            "pageView": 3377
-        },
-        {
             "page": "Luca Ansoldi",
-            "pageView": 2936
+            "pageView": 2,
+            "total": 2936
         },
         {
-            "page": "Ruggero Rossi De Mio",
-            "pageView": 1611
-        },
-        {
-            "page": "Daniele Giacomin",
-            "pageView": 1505
-        },
-        {
-            "page": "Martin Rizzi",
-            "pageView": 1455
-        },
-        {
-            "page": "Peter Wunderer",
-            "pageView": 1418
-        },
-        {
-            "page": "Michael Stocker",
-            "pageView": 1408
+            "page": "Christian Borgatello",
+            "pageView": 2,
+            "total": 3378
         },
         {
             "page": "Daniel Peruzzo",
-            "pageView": 1312
+            "pageView": 2,
+            "total": 1313
+        },
+        {
+            "page": "Daniele Giacomin",
+            "pageView": 1,
+            "total": 1505
+        },
+        {
+            "page": "Michael Stocker",
+            "pageView": 1,
+            "total": 1408
         },
         {
             "page": "Patric Lochi",
-            "pageView": 1235
+            "pageView": 1,
+            "total": 1235
         },
         {
-            "page": "Hannes Oberdörfer",
-            "pageView": 1153
+            "page": "Peter Wunderer",
+            "pageView": 1,
+            "total": 1418
         },
         {
             "page": "Federico Demetz",
-            "pageView": 940
+            "pageView": 1,
+            "total": 942
+        },
+        {
+            "page": "Martin Rizzi",
+            "pageView": 1,
+            "total": 1455
+        },
+        {
+            "page": "Ruggero Rossi De Mio",
+            "pageView": 1,
+            "total": 1612
+        },
+        {
+            "page": "Hannes Oberdörfer",
+            "pageView": 1,
+            "total": 1153
         },
         {
             "page": "Andreas Huber (hockeista su ghiaccio)",
-            "pageView": 517
+            "pageView": 0,
+            "total": 518
         }
     ]
 }

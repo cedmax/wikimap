@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Roberto Piumini",
-            "pageView": 81337
+            "pageView": 54,
+            "total": 81376
         },
         {
             "page": "Fratelli Calvi",
-            "pageView": 17051
+            "pageView": 11,
+            "total": 17085
         },
         {
             "page": "Gianmarco Busca",
-            "pageView": 12380
-        },
-        {
-            "page": "Vittorio Marniga",
-            "pageView": 2627
+            "pageView": 10,
+            "total": 12385
         },
         {
             "page": "Giovanni Venturini",
-            "pageView": 2201
-        },
-        {
-            "page": "Zeffirino Ballardini",
-            "pageView": 1764
-        },
-        {
-            "page": "Alessandro Morino",
-            "pageView": 1419
-        },
-        {
-            "page": "Elena Tagliabue",
-            "pageView": 1058
+            "pageView": 2,
+            "total": 2201
         },
         {
             "page": "Leonida Magnolini",
-            "pageView": 846
+            "pageView": 2,
+            "total": 848
+        },
+        {
+            "page": "Vittorio Marniga",
+            "pageView": 2,
+            "total": 2628
+        },
+        {
+            "page": "Zeffirino Ballardini",
+            "pageView": 1,
+            "total": 1764
+        },
+        {
+            "page": "Alessandro Morino",
+            "pageView": 1,
+            "total": 1420
         },
         {
             "page": "Rosalia Gwis Adami",
-            "pageView": 159
+            "pageView": 0,
+            "total": 159
+        },
+        {
+            "page": "Elena Tagliabue",
+            "pageView": 0,
+            "total": 1061
         }
     ]
 }

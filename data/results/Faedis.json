@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Francesco De Gregori (partigiano)",
-            "pageView": 33768
+            "pageView": 18.5,
+            "total": 33792
         },
         {
             "page": "Elda Turchetti",
-            "pageView": 9059
+            "pageView": 5,
+            "total": 9063
         },
         {
             "page": "Marquardo di Randeck",
-            "pageView": 6504
+            "pageView": 4,
+            "total": 6508
         },
         {
             "page": "Luigi Pellizzo",
-            "pageView": 4686
-        },
-        {
-            "page": "Guglielmo Pelizzo",
-            "pageView": 3217
+            "pageView": 3,
+            "total": 4688
         },
         {
             "page": "Ludovico della Torre",
-            "pageView": 2955
-        },
-        {
-            "page": "Gherardo Freschi",
-            "pageView": 2104
+            "pageView": 2,
+            "total": 2956
         },
         {
             "page": "Gian Pietro Borgnolo",
-            "pageView": 1514
+            "pageView": 2,
+            "total": 1516
+        },
+        {
+            "page": "Gherardo Freschi",
+            "pageView": 2,
+            "total": 2105
+        },
+        {
+            "page": "Guglielmo Pelizzo",
+            "pageView": 2,
+            "total": 3220
         }
     ]
 }

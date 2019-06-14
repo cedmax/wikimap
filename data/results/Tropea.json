@@ -3,127 +3,158 @@
     "people": [
         {
             "page": "Raf Vallone",
-            "pageView": 190909
+            "pageView": 100,
+            "total": 190982
         },
         {
             "page": "Dalila Nesci",
-            "pageView": 20403
-        },
-        {
-            "page": "Domenica di Tropea",
-            "pageView": 16576
+            "pageView": 10,
+            "total": 20416
         },
         {
             "page": "Pasquale Galluppi",
-            "pageView": 13920
+            "pageView": 9,
+            "total": 13927
         },
         {
-            "page": "Gianni Salvioni",
-            "pageView": 7131
-        },
-        {
-            "page": "Roberto Giordano",
-            "pageView": 6327
+            "page": "Domenica di Tropea",
+            "pageView": 8,
+            "total": 16586
         },
         {
             "page": "Antonio Jerocades",
-            "pageView": 5731
+            "pageView": 4,
+            "total": 5734
+        },
+        {
+            "page": "Roberto Giordano",
+            "pageView": 4,
+            "total": 6330
+        },
+        {
+            "page": "Gianni Salvioni",
+            "pageView": 4,
+            "total": 7132
         },
         {
             "page": "Albino Lorenzo",
-            "pageView": 5354
+            "pageView": 3,
+            "total": 5357
         },
         {
             "page": "Domenico De Lorenzo",
-            "pageView": 5174
-        },
-        {
-            "page": "Francesco Mottola",
-            "pageView": 3853
-        },
-        {
-            "page": "Francesco Massara",
-            "pageView": 3362
+            "pageView": 3,
+            "total": 5178
         },
         {
             "page": "Vincenzo De Chiara",
-            "pageView": 3270
-        },
-        {
-            "page": "Vincenzo Laureo",
-            "pageView": 3077
-        },
-        {
-            "page": "Giovanni Poggio (cardinale)",
-            "pageView": 2897
-        },
-        {
-            "page": "Vittorio Barone Adesi",
-            "pageView": 2481
-        },
-        {
-            "page": "Orazio Toraldo di Francia",
-            "pageView": 2374
-        },
-        {
-            "page": "Alessandro Bagnato",
-            "pageView": 2316
-        },
-        {
-            "page": "Giovanni Vincenzo Monforte",
-            "pageView": 2020
+            "pageView": 2,
+            "total": 3273
         },
         {
             "page": "Giuseppe Gaetano Grimaldi",
-            "pageView": 1952
+            "pageView": 2,
+            "total": 1953
+        },
+        {
+            "page": "Francesco Mottola",
+            "pageView": 2,
+            "total": 3854
+        },
+        {
+            "page": "Vincenzo Laureo",
+            "pageView": 2,
+            "total": 3079
+        },
+        {
+            "page": "Alessandro Bagnato",
+            "pageView": 2,
+            "total": 2317
+        },
+        {
+            "page": "Vittorio Barone Adesi",
+            "pageView": 2,
+            "total": 2481
+        },
+        {
+            "page": "Orazio Toraldo di Francia",
+            "pageView": 2,
+            "total": 2375
+        },
+        {
+            "page": "Giovanni Poggio (cardinale)",
+            "pageView": 2,
+            "total": 2898
+        },
+        {
+            "page": "Giovanni Vincenzo Monforte",
+            "pageView": 2,
+            "total": 2020
         },
         {
             "page": "Gaetano Fazzari",
-            "pageView": 1830
-        },
-        {
-            "page": "Marco Lauro",
-            "pageView": 1769
-        },
-        {
-            "page": "Antonino da Randazzo",
-            "pageView": 1562
-        },
-        {
-            "page": "Niccolò d'Acciapaccio",
-            "pageView": 1534
-        },
-        {
-            "page": "Napoleone Scrugli",
-            "pageView": 1499
-        },
-        {
-            "page": "Sigismondo Pappacoda",
-            "pageView": 1452
+            "pageView": 1,
+            "total": 1833
         },
         {
             "page": "Benedetto Mandina (1580-1646)",
-            "pageView": 1363
+            "pageView": 1,
+            "total": 1364
         },
         {
-            "page": "Carmine Florio",
-            "pageView": 1275
+            "page": "Marco Lauro",
+            "pageView": 1,
+            "total": 1769
         },
         {
-            "page": "Carlo Tranfo",
-            "pageView": 1209
+            "page": "Sigismondo Pappacoda",
+            "pageView": 1,
+            "total": 1453
+        },
+        {
+            "page": "Antonino da Randazzo",
+            "pageView": 1,
+            "total": 1563
+        },
+        {
+            "page": "Napoleone Scrugli",
+            "pageView": 1,
+            "total": 1499
         },
         {
             "page": "Girolamo Borgia il giovane",
-            "pageView": 1053
+            "pageView": 1,
+            "total": 1053
+        },
+        {
+            "page": "Carmine Florio",
+            "pageView": 1,
+            "total": 1276
+        },
+        {
+            "page": "Niccolò d'Acciapaccio",
+            "pageView": 1,
+            "total": 1537
+        },
+        {
+            "page": "Carlo Tranfo",
+            "pageView": 1,
+            "total": 1209
         },
         {
             "page": "Juan Lozano (arcivescovo)",
-            "pageView": 183
+            "pageView": 0,
+            "total": 183
+        },
+        {
+            "page": "Francesco Massara",
+            "pageView": 0,
+            "total": 3375
         },
         {
             "page": "Francisco Aguirre (vescovo)",
-            "pageView": 133
+            "pageView": 0,
+            "total": 134
         }
     ]
 }

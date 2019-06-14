@@ -1,0 +1,27 @@
+{
+    "id": "place.16894203304303430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "La Morra",
+    "place_name": "La Morra, Cuneo, Italy",
+    "bbox": [
+        7.895678,
+        44.618188,
+        7.973263,
+        44.685116
+    ],
+    "center": [
+        7.93333,
+        44.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93333,
+            44.63333
+        ]
+    }
+}

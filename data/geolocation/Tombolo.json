@@ -1,0 +1,27 @@
+{
+    "id": "place.4628165364191420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tombolo",
+    "place_name": "Tombolo, Padova, Italy",
+    "bbox": [
+        11.803179,
+        45.608382,
+        11.843102,
+        45.656982
+    ],
+    "center": [
+        11.82806,
+        45.64694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.82806,
+            45.64694
+        ]
+    }
+}

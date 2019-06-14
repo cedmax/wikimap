@@ -1,0 +1,27 @@
+{
+    "id": "place.6977616086172020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ispica",
+    "place_name": "Ispica, Ragusa, Italy",
+    "bbox": [
+        14.861981,
+        36.691477,
+        15.007794,
+        36.824609
+    ],
+    "center": [
+        14.90694,
+        36.78528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.90694,
+            36.78528
+        ]
+    }
+}

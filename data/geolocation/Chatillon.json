@@ -1,0 +1,27 @@
+{
+    "id": "place.15173117908813190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Châtillon",
+    "place_name": "Châtillon, Valle D'Aosta, Italy",
+    "bbox": [
+        7.586623,
+        45.700573,
+        7.665108,
+        45.817335
+    ],
+    "center": [
+        7.61667,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61667,
+            45.75
+        ]
+    }
+}

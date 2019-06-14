@@ -1,0 +1,21 @@
+{
+    "id": "poi.2826088547497",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Apice",
+    "place_name": "Apice, Via San Gennariello,76, Pollena Trocchia, Napoli 80040, Italy",
+    "center": [
+        14.379752,
+        40.853043
+    ],
+    "geometry": {
+        "coordinates": [
+            14.379752,
+            40.853043
+        ],
+        "type": "Point"
+    }
+}

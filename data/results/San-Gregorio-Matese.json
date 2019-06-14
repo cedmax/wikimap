@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Maria Maddalena De Lellis",
-            "pageView": 10426
+            "pageView": 7,
+            "total": 10430
         },
         {
             "page": "Gaetano Del Giudice",
-            "pageView": 5504
-        },
-        {
-            "page": "Beniamino Caso",
-            "pageView": 3180
+            "pageView": 3,
+            "total": 5508
         },
         {
             "page": "Achille Del Giudice",
-            "pageView": 2509
+            "pageView": 2,
+            "total": 2509
+        },
+        {
+            "page": "Beniamino Caso",
+            "pageView": 2,
+            "total": 3181
         }
     ]
 }

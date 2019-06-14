@@ -1,0 +1,27 @@
+{
+    "id": "place.4381325238258560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forte dei Marmi",
+    "place_name": "Forte dei Marmi, Lucca, Italy",
+    "bbox": [
+        10.142698,
+        43.942789,
+        10.201114,
+        43.982449
+    ],
+    "center": [
+        10.18333,
+        43.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            43.95
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13062504288757890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Legnaro",
+    "place_name": "Legnaro, Padova, Italy",
+    "bbox": [
+        11.943463,
+        45.31263,
+        11.987161,
+        45.373025
+    ],
+    "center": [
+        11.96667,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.96667,
+            45.35
+        ]
+    }
+}

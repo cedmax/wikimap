@@ -1,0 +1,21 @@
+{
+    "id": "poi.2826088555760",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Giuliana",
+    "place_name": "Giuliana, Via Padre Roberto 2, Nove, Vicenza 36055, Italy",
+    "center": [
+        11.676223,
+        45.725957
+    ],
+    "geometry": {
+        "coordinates": [
+            11.676223,
+            45.725957
+        ],
+        "type": "Point"
+    }
+}

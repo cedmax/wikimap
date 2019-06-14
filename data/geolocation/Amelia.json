@@ -1,0 +1,27 @@
+{
+    "id": "place.8554015669448870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Amelia",
+    "place_name": "Amelia, Terni, Italy",
+    "bbox": [
+        12.306795,
+        42.486016,
+        12.478744,
+        42.629654
+    ],
+    "center": [
+        12.41667,
+        42.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            42.55
+        ]
+    }
+}

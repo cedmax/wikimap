@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giovanni Maria Farina",
-            "pageView": 24813
-        },
-        {
-            "page": "Jean-Marie Farina",
-            "pageView": 9600
-        },
-        {
-            "page": "Giovanni Paolo Feminis",
-            "pageView": 8911
+            "pageView": 8,
+            "total": 24819
         },
         {
             "page": "Carlo Calcaterra",
-            "pageView": 8906
+            "pageView": 5,
+            "total": 8908
+        },
+        {
+            "page": "Jean-Marie Farina",
+            "pageView": 5,
+            "total": 9602
+        },
+        {
+            "page": "Giovanni Paolo Feminis",
+            "pageView": 5,
+            "total": 8915
         },
         {
             "page": "Giovanni Maria Farina (1657-1732)",
-            "pageView": 8680
-        },
-        {
-            "page": "Umberto Volpati",
-            "pageView": 4727
+            "pageView": 4,
+            "total": 8680
         },
         {
             "page": "Giovanni Antonio Farina (1718-1787)",
-            "pageView": 4562
+            "pageView": 3,
+            "total": 4566
         },
         {
             "page": "Enrico Cavalli",
-            "pageView": 1302
+            "pageView": 2,
+            "total": 1302
+        },
+        {
+            "page": "Umberto Volpati",
+            "pageView": 2,
+            "total": 4727
         }
     ]
 }

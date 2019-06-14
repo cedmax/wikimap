@@ -1,0 +1,27 @@
+{
+    "id": "place.7404560686739610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canischio",
+    "place_name": "Canischio, Torino, Italy",
+    "bbox": [
+        7.54022,
+        45.365248,
+        7.620022,
+        45.395438
+    ],
+    "center": [
+        7.6,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6,
+            45.36667
+        ]
+    }
+}

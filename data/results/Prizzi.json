@@ -2,56 +2,69 @@
     "name": "Prizzi",
     "people": [
         {
-            "page": "Ennio Pintacuda",
-            "pageView": 12173
+            "page": "Calogero Lo Bue",
+            "pageView": 8,
+            "total": 4862
         },
         {
-            "page": "Giuseppe Alongi",
-            "pageView": 5782
+            "page": "Ennio Pintacuda",
+            "pageView": 7,
+            "total": 12186
         },
         {
             "page": "Salvatore Messina",
-            "pageView": 5536
+            "pageView": 4,
+            "total": 5543
+        },
+        {
+            "page": "Giuseppe Alongi",
+            "pageView": 4,
+            "total": 5785
         },
         {
             "page": "Nicola Alongi",
-            "pageView": 5480
-        },
-        {
-            "page": "Calogero Lo Bue",
-            "pageView": 4854
+            "pageView": 3,
+            "total": 5482
         },
         {
             "page": "Luciano Nicoletti",
-            "pageView": 4399
+            "pageView": 3,
+            "total": 4403
         },
         {
             "page": "Giuseppe Vaiana",
-            "pageView": 3963
-        },
-        {
-            "page": "Vito Mercadante",
-            "pageView": 3910
-        },
-        {
-            "page": "Giuseppe Rumore",
-            "pageView": 3209
-        },
-        {
-            "page": "Luigi Sarullo",
-            "pageView": 2887
+            "pageView": 3,
+            "total": 3964
         },
         {
             "page": "Giuseppe De Marco (aviatore)",
-            "pageView": 2233
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Vito Mercadante",
+            "pageView": 2,
+            "total": 3914
         },
         {
             "page": "Girolamo Cannariato",
-            "pageView": 1840
+            "pageView": 2,
+            "total": 1843
+        },
+        {
+            "page": "Giuseppe Rumore",
+            "pageView": 2,
+            "total": 3210
+        },
+        {
+            "page": "Luigi Sarullo",
+            "pageView": 2,
+            "total": 2889
         },
         {
             "page": "Domenico Orlando",
-            "pageView": 367
+            "pageView": 0,
+            "total": 367
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.5513853096441130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campolongo sul Brenta",
+    "place_name": "Campolongo sul Brenta, Vicenza, Italy",
+    "bbox": [
+        11.642117,
+        45.811482,
+        11.713021,
+        45.841615
+    ],
+    "center": [
+        11.7008,
+        45.8271
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7008,
+            45.8271
+        ]
+    }
+}

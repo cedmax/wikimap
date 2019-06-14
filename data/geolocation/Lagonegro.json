@@ -1,0 +1,27 @@
+{
+    "id": "place.6960520662830250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lagonegro",
+    "place_name": "Lagonegro, Potenza, Italy",
+    "bbox": [
+        15.700168,
+        40.102098,
+        15.869437,
+        40.218565
+    ],
+    "center": [
+        15.76667,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.76667,
+            40.13333
+        ]
+    }
+}

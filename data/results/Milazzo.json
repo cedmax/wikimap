@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Luigi Rizzo",
-            "pageView": 105021
-        },
-        {
-            "page": "Daniele Sottile",
-            "pageView": 60291
-        },
-        {
-            "page": "Riccardo Orioles",
-            "pageView": 28151
+            "pageView": 51,
+            "total": 105120
         },
         {
             "page": "Jacopo Dall'Oglio",
-            "pageView": 25033
+            "pageView": 14,
+            "total": 25057
+        },
+        {
+            "page": "Daniele Sottile",
+            "pageView": 13,
+            "total": 60296
         },
         {
             "page": "Giovanni Battista Vaccarini",
-            "pageView": 19721
+            "pageView": 12,
+            "total": 19725
+        },
+        {
+            "page": "Riccardo Orioles",
+            "pageView": 7,
+            "total": 28158
         },
         {
             "page": "Tommaso Currò",
-            "pageView": 9877
-        },
-        {
-            "page": "Nicola Costa",
-            "pageView": 7784
+            "pageView": 5,
+            "total": 9880
         },
         {
             "page": "Massimo Raffaello Scala",
-            "pageView": 7524
+            "pageView": 4,
+            "total": 7527
+        },
+        {
+            "page": "Nicola Costa",
+            "pageView": 4,
+            "total": 7789
         },
         {
             "page": "Angelo Amendolia",
-            "pageView": 7305
-        },
-        {
-            "page": "Sergio Marullo Di Condojanni",
-            "pageView": 4333
+            "pageView": 4,
+            "total": 7310
         },
         {
             "page": "Giovanni Battista Canepa",
-            "pageView": 4127
+            "pageView": 3,
+            "total": 4148
         },
         {
-            "page": "Antonio Ullo",
-            "pageView": 3348
-        },
-        {
-            "page": "Domenico Piraino",
-            "pageView": 2592
-        },
-        {
-            "page": "Mara Buzzanca",
-            "pageView": 2304
-        },
-        {
-            "page": "Salvatore Mancuso (ciclista)",
-            "pageView": 1703
-        },
-        {
-            "page": "Giuseppe Calcagno",
-            "pageView": 1654
-        },
-        {
-            "page": "Stefano Zirilli",
-            "pageView": 1577
-        },
-        {
-            "page": "Francesco Calcagno",
-            "pageView": 1541
-        },
-        {
-            "page": "Francesco Marzullo",
-            "pageView": 1502
-        },
-        {
-            "page": "Daniela Altamore",
-            "pageView": 1400
+            "page": "Sergio Marullo Di Condojanni",
+            "pageView": 3,
+            "total": 4340
         },
         {
             "page": "Vittorio Marullo di Condojanni",
-            "pageView": 1390
+            "pageView": 2,
+            "total": 1394
         },
         {
-            "page": "Giovanni Pietro Flaccomio",
-            "pageView": 1258
+            "page": "Domenico Piraino",
+            "pageView": 2,
+            "total": 2594
         },
         {
-            "page": "Francesco Del Buono",
-            "pageView": 1170
+            "page": "Mara Buzzanca",
+            "pageView": 2,
+            "total": 2306
+        },
+        {
+            "page": "Antonio Ullo",
+            "pageView": 2,
+            "total": 3350
         },
         {
             "page": "Domenico Merlo",
-            "pageView": 1032
+            "pageView": 1,
+            "total": 1033
+        },
+        {
+            "page": "Giuseppe Calcagno",
+            "pageView": 1,
+            "total": 1655
+        },
+        {
+            "page": "Francesco Marzullo",
+            "pageView": 1,
+            "total": 1503
         },
         {
             "page": "Vincenzo Mondo",
-            "pageView": 921
+            "pageView": 1,
+            "total": 921
         },
         {
             "page": "Giovanni Maria Visconte Proto",
-            "pageView": 825
+            "pageView": 1,
+            "total": 825
+        },
+        {
+            "page": "Stefano Zirilli",
+            "pageView": 1,
+            "total": 1577
         },
         {
             "page": "Francesco Recupero",
-            "pageView": 632
+            "pageView": 1,
+            "total": 632
+        },
+        {
+            "page": "Daniela Altamore",
+            "pageView": 1,
+            "total": 1401
+        },
+        {
+            "page": "Francesco Del Buono",
+            "pageView": 1,
+            "total": 1171
+        },
+        {
+            "page": "Giovanni Pietro Flaccomio",
+            "pageView": 1,
+            "total": 1259
+        },
+        {
+            "page": "Francesco Calcagno",
+            "pageView": 1,
+            "total": 1541
+        },
+        {
+            "page": "Salvatore Mancuso (ciclista)",
+            "pageView": 1,
+            "total": 1704
         },
         {
             "page": "Antonio Scilipoti",
-            "pageView": 191
+            "pageView": 0,
+            "total": 191
         },
         {
             "page": "Ottaviano Preconio (vescovo)",
-            "pageView": 165
+            "pageView": 0,
+            "total": 166
         }
     ]
 }

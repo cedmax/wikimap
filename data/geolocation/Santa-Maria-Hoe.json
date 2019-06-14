@@ -1,0 +1,27 @@
+{
+    "id": "place.15070584901426180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria Hoè",
+    "place_name": "Santa Maria Hoè, Lecco, Italy",
+    "bbox": [
+        9.356749,
+        45.730256,
+        9.3956,
+        45.754646
+    ],
+    "center": [
+        9.36667,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            45.75
+        ]
+    }
+}

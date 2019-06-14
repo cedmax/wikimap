@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Enrico Fabris",
-            "pageView": 30517
-        },
-        {
-            "page": "Nicola Tumolero",
-            "pageView": 6033
+            "pageView": 11,
+            "total": 30528
         },
         {
             "page": "Tiziano Panozzo",
-            "pageView": 4497
+            "pageView": 3,
+            "total": 4497
+        },
+        {
+            "page": "Nicola Tumolero",
+            "pageView": 3,
+            "total": 6033
         },
         {
             "page": "Benito Gramola",
-            "pageView": 3379
+            "pageView": 2,
+            "total": 3381
         },
         {
             "page": "Floriano Martello",
-            "pageView": 60
+            "pageView": 0,
+            "total": 60
         },
         {
             "page": "Loris Vellar",
-            "pageView": 50
+            "pageView": 0,
+            "total": 50
         }
     ]
 }

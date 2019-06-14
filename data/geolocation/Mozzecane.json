@@ -1,0 +1,27 @@
+{
+    "id": "place.17513809617642090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mozzecane",
+    "place_name": "Mozzecane, Verona, Italy",
+    "bbox": [
+        10.783176,
+        45.272664,
+        10.891961,
+        45.336954
+    ],
+    "center": [
+        10.81667,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            45.3
+        ]
+    }
+}

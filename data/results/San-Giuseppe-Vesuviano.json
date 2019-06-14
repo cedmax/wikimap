@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Enzo Miccio",
-            "pageView": 469829
+            "pageView": 182,
+            "total": 469990
         },
         {
             "page": "Vincenzo Casillo",
-            "pageView": 130017
+            "pageView": 75.5,
+            "total": 130108
         },
         {
             "page": "Saro Urzì",
-            "pageView": 121524
+            "pageView": 55,
+            "total": 121605
         },
         {
             "page": "Pasquale Casillo",
-            "pageView": 58033
+            "pageView": 36,
+            "total": 58075
         },
         {
             "page": "Gaetano Musella",
-            "pageView": 46702
+            "pageView": 18,
+            "total": 46708
         },
         {
             "page": "Aniello Aliberti",
-            "pageView": 20340
+            "pageView": 12,
+            "total": 20354
         },
         {
             "page": "Giovanni Simonelli (allenatore)",
-            "pageView": 19203
-        },
-        {
-            "page": "Maria Pia Ammirati",
-            "pageView": 13881
+            "pageView": 10,
+            "total": 19211
         },
         {
             "page": "Aniello Parisi",
-            "pageView": 12426
+            "pageView": 8,
+            "total": 12433
+        },
+        {
+            "page": "Maria Pia Ammirati",
+            "pageView": 7,
+            "total": 13891
         },
         {
             "page": "Enzo Bonagura",
-            "pageView": 10529
-        },
-        {
-            "page": "Michele Miranda",
-            "pageView": 8879
-        },
-        {
-            "page": "Luisa Casillo",
-            "pageView": 6958
-        },
-        {
-            "page": "Annibale Giordano",
-            "pageView": 5338
-        },
-        {
-            "page": "Sergio Cola",
-            "pageView": 4952
-        },
-        {
-            "page": "Luigi Ambrosio (ingegnere)",
-            "pageView": 4489
-        },
-        {
-            "page": "Giuseppe Casillo",
-            "pageView": 3738
+            "pageView": 7,
+            "total": 10550
         },
         {
             "page": "Francesco Urraro",
-            "pageView": 3314
+            "pageView": 6,
+            "total": 3319
         },
         {
-            "page": "Marco Galdi",
-            "pageView": 3087
+            "page": "Michele Miranda",
+            "pageView": 6,
+            "total": 8883
+        },
+        {
+            "page": "Luisa Casillo",
+            "pageView": 4,
+            "total": 6963
+        },
+        {
+            "page": "Luigi Ambrosio (ingegnere)",
+            "pageView": 3,
+            "total": 4490
+        },
+        {
+            "page": "Sergio Cola",
+            "pageView": 3,
+            "total": 4956
+        },
+        {
+            "page": "Annibale Giordano",
+            "pageView": 3,
+            "total": 5340
         },
         {
             "page": "Antonio Vittorino Gaddi",
-            "pageView": 3020
+            "pageView": 2,
+            "total": 3023
+        },
+        {
+            "page": "Marco Galdi",
+            "pageView": 2,
+            "total": 3089
         },
         {
             "page": "Gino Ceschelli",
-            "pageView": 2440
+            "pageView": 2,
+            "total": 2440
+        },
+        {
+            "page": "Giuseppe Casillo",
+            "pageView": 2,
+            "total": 3741
         }
     ]
 }

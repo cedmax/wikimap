@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Cesare Terranova",
-            "pageView": 123289
+            "pageView": 55,
+            "total": 123385
         },
         {
             "page": "Marcello Carapezza",
-            "pageView": 8777
-        },
-        {
-            "page": "Innocenzo da Petralia",
-            "pageView": 7760
+            "pageView": 5,
+            "total": 8783
         },
         {
             "page": "Eugenio Di Maria",
-            "pageView": 7096
+            "pageView": 4,
+            "total": 7099
+        },
+        {
+            "page": "Innocenzo da Petralia",
+            "pageView": 4,
+            "total": 7767
         },
         {
             "page": "Settimo Termini",
-            "pageView": 2978
-        },
-        {
-            "page": "Arturo Aly Belfàdel",
-            "pageView": 2460
-        },
-        {
-            "page": "Luciano Geraci",
-            "pageView": 1632
+            "pageView": 2,
+            "total": 2983
         },
         {
             "page": "Salvatore Zappalà",
-            "pageView": 1628
+            "pageView": 2,
+            "total": 1629
         },
         {
-            "page": "Antonio Pucci (pilota automobilistico)",
-            "pageView": 1591
+            "page": "Arturo Aly Belfàdel",
+            "pageView": 2,
+            "total": 2462
         },
         {
             "page": "Giuseppe Colosi",
-            "pageView": 1476
+            "pageView": 1,
+            "total": 1476
+        },
+        {
+            "page": "Antonio Pucci (pilota automobilistico)",
+            "pageView": 1,
+            "total": 1593
         },
         {
             "page": "Luciano Chiara",
-            "pageView": 1453
+            "pageView": 1,
+            "total": 1456
         },
         {
             "page": "Giusy Augetto",
-            "pageView": 1401
+            "pageView": 1,
+            "total": 1401
+        },
+        {
+            "page": "Luciano Geraci",
+            "pageView": 1,
+            "total": 1634
         }
     ]
 }

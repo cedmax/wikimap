@@ -1,0 +1,27 @@
+{
+    "id": "place.2536782924686790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bojano",
+    "place_name": "Bojano, Campobasso, Italy",
+    "bbox": [
+        14.410615,
+        41.436869,
+        14.514752,
+        41.546055
+    ],
+    "center": [
+        14.46667,
+        41.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.46667,
+            41.48333
+        ]
+    }
+}

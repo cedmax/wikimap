@@ -1,0 +1,27 @@
+{
+    "id": "place.8398502056743950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ascoli Piceno",
+    "place_name": "Ascoli Piceno, Ascoli Piceno, Italy",
+    "bbox": [
+        13.41996,
+        42.771898,
+        13.741988,
+        42.930159
+    ],
+    "center": [
+        13.57528,
+        42.85472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.57528,
+            42.85472
+        ]
+    }
+}

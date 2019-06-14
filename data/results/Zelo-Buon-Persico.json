@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Federica Felini",
-            "pageView": 42611
+            "pageView": 17.5,
+            "total": 42618
         },
         {
             "page": "Giuseppe Gilera",
-            "pageView": 9270
+            "pageView": 6,
+            "total": 9279
         },
         {
             "page": "Gianni Piatti",
-            "pageView": 2109
+            "pageView": 2,
+            "total": 2110
         }
     ]
 }

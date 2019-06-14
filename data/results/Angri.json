@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Frank Nitti",
-            "pageView": 80188
+            "pageView": 39,
+            "total": 80228
         },
         {
             "page": "James Vincenzo Capone",
-            "pageView": 23934
-        },
-        {
-            "page": "Alfonso Maria Fusco",
-            "pageView": 19748
+            "pageView": 21,
+            "total": 23952
         },
         {
             "page": "Francesco Adinolfi",
-            "pageView": 11140
+            "pageView": 7,
+            "total": 11143
+        },
+        {
+            "page": "Alfonso Maria Fusco",
+            "pageView": 6,
+            "total": 19753
         },
         {
             "page": "Enzo Del Forno (cantante)",
-            "pageView": 4744
+            "pageView": 3,
+            "total": 4746
         },
         {
             "page": "Domenico De Vito",
-            "pageView": 4508
-        },
-        {
-            "page": "Alfio Lombardi",
-            "pageView": 3817
+            "pageView": 3,
+            "total": 4509
         },
         {
             "page": "Gianni De Martino",
-            "pageView": 3371
+            "pageView": 2,
+            "total": 3372
         },
         {
-            "page": "Carlo Perris",
-            "pageView": 2570
+            "page": "Alfio Lombardi",
+            "pageView": 2,
+            "total": 3820
         },
         {
             "page": "Gioacchino D'Anna",
-            "pageView": 1530
+            "pageView": 2,
+            "total": 1531
+        },
+        {
+            "page": "Carlo Perris",
+            "pageView": 2,
+            "total": 2570
         },
         {
             "page": "Virginia Villani",
-            "pageView": 1158
+            "pageView": 0,
+            "total": 1158
         }
     ]
 }

@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Marco Bellocchio",
-            "pageView": 352090
+            "pageView": 163,
+            "total": 352607
         },
         {
             "page": "Giuseppe Siri",
-            "pageView": 119337
+            "pageView": 69,
+            "total": 119379
         },
         {
             "page": "Colombano di Bobbio",
-            "pageView": 89239
+            "pageView": 56,
+            "total": 89289
         },
         {
             "page": "Vittorio Malacalza",
-            "pageView": 73850
+            "pageView": 26,
+            "total": 73874
         },
         {
             "page": "Luciano Monari",
-            "pageView": 29499
+            "pageView": 17,
+            "total": 29502
         },
         {
             "page": "Giancarlo Cella",
-            "pageView": 17910
+            "pageView": 11,
+            "total": 17918
         },
         {
             "page": "Giovanni Canestri",
-            "pageView": 17123
-        },
-        {
-            "page": "Antonio Maria Gianelli",
-            "pageView": 14724
+            "pageView": 10,
+            "total": 17135
         },
         {
             "page": "Gigi Rizzi",
-            "pageView": 14430
+            "pageView": 9,
+            "total": 14471
         },
         {
             "page": "Gianni Ambrosio",
-            "pageView": 14223
+            "pageView": 9,
+            "total": 14226
+        },
+        {
+            "page": "Antonio Maria Gianelli",
+            "pageView": 8,
+            "total": 14737
         },
         {
             "page": "Alberto di Gerusalemme",
-            "pageView": 10147
+            "pageView": 5,
+            "total": 10149
         },
         {
             "page": "Antonio Mazza",
-            "pageView": 6616
+            "pageView": 4,
+            "total": 6618
         },
         {
             "page": "Albino Cella",
-            "pageView": 5753
-        },
-        {
-            "page": "Ettore Losini",
-            "pageView": 4388
+            "pageView": 4,
+            "total": 5757
         },
         {
             "page": "Wala",
-            "pageView": 4026
+            "pageView": 3,
+            "total": 4028
         },
         {
-            "page": "Gino Cesaretti",
-            "pageView": 3593
-        },
-        {
-            "page": "Giovanni Annoni",
-            "pageView": 3524
-        },
-        {
-            "page": "Attala abate",
-            "pageView": 3522
-        },
-        {
-            "page": "Elena Valla",
-            "pageView": 3042
-        },
-        {
-            "page": "Pietro Zuccarino",
-            "pageView": 2983
+            "page": "Ettore Losini",
+            "pageView": 3,
+            "total": 4391
         },
         {
             "page": "Pietro Calchi Novati",
-            "pageView": 2591
+            "pageView": 2,
+            "total": 2593
         },
         {
-            "page": "Francesco Abbondio Castiglioni",
-            "pageView": 2384
+            "page": "Pietro Zuccarino",
+            "pageView": 2,
+            "total": 2985
         },
         {
-            "page": "Marliano Baccarini",
-            "pageView": 2336
-        },
-        {
-            "page": "Bertulfo di Bobbio",
-            "pageView": 2275
+            "page": "Attala abate",
+            "pageView": 2,
+            "total": 3522
         },
         {
             "page": "Allo di Bobbio",
-            "pageView": 2257
+            "pageView": 2,
+            "total": 2260
         },
         {
-            "page": "Luigi Malaspina",
-            "pageView": 2095
+            "page": "Bertulfo di Bobbio",
+            "pageView": 2,
+            "total": 2275
         },
         {
-            "page": "Cumiano di Bobbio",
-            "pageView": 1825
+            "page": "Gino Cesaretti",
+            "pageView": 2,
+            "total": 3594
         },
         {
             "page": "Camillo Aulari",
-            "pageView": 1788
+            "pageView": 2,
+            "total": 1790
+        },
+        {
+            "page": "Luigi Malaspina",
+            "pageView": 2,
+            "total": 2097
+        },
+        {
+            "page": "Marliano Baccarini",
+            "pageView": 2,
+            "total": 2336
+        },
+        {
+            "page": "Giovanni Annoni",
+            "pageView": 2,
+            "total": 3527
+        },
+        {
+            "page": "Francesco Abbondio Castiglioni",
+            "pageView": 2,
+            "total": 2385
+        },
+        {
+            "page": "Elena Valla",
+            "pageView": 2,
+            "total": 3044
         },
         {
             "page": "Bobuleno di Bobbio",
-            "pageView": 1783
+            "pageView": 1,
+            "total": 1784
         },
         {
             "page": "Ottone Ghilini",
-            "pageView": 1763
-        },
-        {
-            "page": "Pasquale Morganti",
-            "pageView": 1691
+            "pageView": 1,
+            "total": 1763
         },
         {
             "page": "Facino Stefano Ghilini",
-            "pageView": 1142
+            "pageView": 1,
+            "total": 1142
         },
         {
-            "page": "Roberto Olmi",
-            "pageView": 355
+            "page": "Cumiano di Bobbio",
+            "pageView": 1,
+            "total": 1825
         },
         {
-            "page": "Giuseppe Bellocchio",
-            "pageView": 308
+            "page": "Pasquale Morganti",
+            "pageView": 1,
+            "total": 1691
         },
         {
             "page": "Luigi Maria Marelli",
-            "pageView": 240
+            "pageView": 0,
+            "total": 241
         },
         {
             "page": "Carlo Castelli",
-            "pageView": 74
+            "pageView": 0,
+            "total": 75
+        },
+        {
+            "page": "Roberto Olmi",
+            "pageView": 0,
+            "total": 357
+        },
+        {
+            "page": "Giuseppe Bellocchio",
+            "pageView": 0,
+            "total": 308
         }
     ]
 }

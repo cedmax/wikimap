@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Federico Zuccari",
-            "pageView": 52148
+            "pageView": 34,
+            "total": 52177
         },
         {
             "page": "Mario Spezi",
-            "pageView": 46517
+            "pageView": 27,
+            "total": 46605
         },
         {
             "page": "Taddeo Zuccari",
-            "pageView": 31665
+            "pageView": 19,
+            "total": 31675
         },
         {
             "page": "Antonio Ceccarini",
-            "pageView": 17049
+            "pageView": 8,
+            "total": 17051
         },
         {
             "page": "Luca Dini",
-            "pageView": 14714
-        },
-        {
-            "page": "Francesco Mancini (pittore 1679-1758)",
-            "pageView": 8265
+            "pageView": 8,
+            "total": 14733
         },
         {
             "page": "Niccolò Fortebraccio",
-            "pageView": 7835
+            "pageView": 5,
+            "total": 7837
+        },
+        {
+            "page": "Francesco Mancini (pittore 1679-1758)",
+            "pageView": 5,
+            "total": 8265
         },
         {
             "page": "Giovanni Tani",
-            "pageView": 6572
+            "pageView": 4,
+            "total": 6576
         },
         {
             "page": "Francesco Marinelli",
-            "pageView": 4395
-        },
-        {
-            "page": "Giuseppe Sardi (1680-1753)",
-            "pageView": 3745
-        },
-        {
-            "page": "Elia Lazzari",
-            "pageView": 2896
-        },
-        {
-            "page": "Ugo Donato Bianchi",
-            "pageView": 2681
+            "pageView": 3,
+            "total": 4398
         },
         {
             "page": "Cristoforo Guidalotti Ciocchi del Monte",
-            "pageView": 2457
+            "pageView": 2,
+            "total": 2458
+        },
+        {
+            "page": "Elia Lazzari",
+            "pageView": 2,
+            "total": 2897
+        },
+        {
+            "page": "Ugo Donato Bianchi",
+            "pageView": 2,
+            "total": 2685
+        },
+        {
+            "page": "Giuseppe Sardi (1680-1753)",
+            "pageView": 2,
+            "total": 3747
         },
         {
             "page": "Antonio Podrini",
-            "pageView": 1929
-        },
-        {
-            "page": "Matteo Grifoni",
-            "pageView": 1567
-        },
-        {
-            "page": "Ottaviano Volpelli",
-            "pageView": 1397
-        },
-        {
-            "page": "Bartolomeo Breccioli",
-            "pageView": 1191
-        },
-        {
-            "page": "Prospero Fagnani Boni",
-            "pageView": 1157
+            "pageView": 2,
+            "total": 1931
         },
         {
             "page": "Mattia Agostino Mengacci",
-            "pageView": 810
+            "pageView": 1,
+            "total": 810
+        },
+        {
+            "page": "Prospero Fagnani Boni",
+            "pageView": 1,
+            "total": 1157
+        },
+        {
+            "page": "Ottaviano Volpelli",
+            "pageView": 1,
+            "total": 1399
+        },
+        {
+            "page": "Bartolomeo Breccioli",
+            "pageView": 1,
+            "total": 1192
+        },
+        {
+            "page": "Matteo Grifoni",
+            "pageView": 1,
+            "total": 1568
         }
     ]
 }

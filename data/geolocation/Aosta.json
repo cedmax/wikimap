@@ -1,0 +1,27 @@
+{
+    "id": "place.8742599234698030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aosta",
+    "place_name": "Aosta, Valle D'Aosta, Italy",
+    "bbox": [
+        7.239178,
+        45.726695,
+        7.348247,
+        45.772539
+    ],
+    "center": [
+        7.32056,
+        45.73722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.32056,
+            45.73722
+        ]
+    }
+}

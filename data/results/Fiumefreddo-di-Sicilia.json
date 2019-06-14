@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Ignazio Cannavò",
-            "pageView": 8505
-        },
-        {
-            "page": "Giulio Sacchi",
-            "pageView": 1784
+            "pageView": 4,
+            "total": 8509
         },
         {
             "page": "Salvatore Calandruccio",
-            "pageView": 1360
+            "pageView": 1,
+            "total": 1360
+        },
+        {
+            "page": "Giulio Sacchi",
+            "pageView": 1,
+            "total": 1784
         }
     ]
 }

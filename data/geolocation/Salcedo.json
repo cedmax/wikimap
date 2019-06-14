@@ -1,0 +1,27 @@
+{
+    "id": "place.14099215831335020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salcedo",
+    "place_name": "Salcedo, Vicenza, Italy",
+    "bbox": [
+        11.546396,
+        45.746955,
+        11.594595,
+        45.768876
+    ],
+    "center": [
+        11.56667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            45.76667
+        ]
+    }
+}

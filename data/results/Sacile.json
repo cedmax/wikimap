@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Fausto Rossi",
-            "pageView": 49665
+            "pageView": 31,
+            "total": 49696
         },
         {
             "page": "Enrico Gasparotto",
-            "pageView": 47586
-        },
-        {
-            "page": "Massimo Borgobello",
-            "pageView": 19959
-        },
-        {
-            "page": "Ferruccio Furlanetto",
-            "pageView": 19756
+            "pageView": 14,
+            "total": 47610
         },
         {
             "page": "Loris Pradella",
-            "pageView": 19061
+            "pageView": 12,
+            "total": 19075
         },
         {
-            "page": "Denis Zanette",
-            "pageView": 14149
+            "page": "Ferruccio Furlanetto",
+            "pageView": 12,
+            "total": 19762
+        },
+        {
+            "page": "Massimo Borgobello",
+            "pageView": 12,
+            "total": 19966
         },
         {
             "page": "Luigi Gasparotto",
-            "pageView": 12832
+            "pageView": 8,
+            "total": 12840
         },
         {
-            "page": "Vannia Gava",
-            "pageView": 11151
-        },
-        {
-            "page": "Beniamino Cancian",
-            "pageView": 9223
+            "page": "Denis Zanette",
+            "pageView": 7,
+            "total": 14156
         },
         {
             "page": "Giovanni De Sandre",
-            "pageView": 7854
+            "pageView": 6,
+            "total": 7861
         },
         {
-            "page": "Rossano Palù",
-            "pageView": 6349
+            "page": "Beniamino Cancian",
+            "pageView": 6,
+            "total": 9229
         },
         {
             "page": "Isidoro Gottardo",
-            "pageView": 5624
+            "pageView": 4,
+            "total": 5624
         },
         {
-            "page": "Vincenzo Ruffo (compositore)",
-            "pageView": 4288
-        },
-        {
-            "page": "Giovanni Micheletto",
-            "pageView": 4287
+            "page": "Rossano Palù",
+            "pageView": 4,
+            "total": 6351
         },
         {
             "page": "Carlo Sonego",
-            "pageView": 4261
+            "pageView": 3,
+            "total": 4268
         },
         {
-            "page": "L. R. Johannis",
-            "pageView": 3385
+            "page": "Vincenzo Ruffo (compositore)",
+            "pageView": 3,
+            "total": 4289
         },
         {
-            "page": "Piero Poletto",
-            "pageView": 3175
-        },
-        {
-            "page": "Saverio Ragno",
-            "pageView": 2663
-        },
-        {
-            "page": "Giuseppe Antonio Pujati",
-            "pageView": 2465
+            "page": "Giovanni Micheletto",
+            "pageView": 3,
+            "total": 4289
         },
         {
             "page": "Bruno Fael",
-            "pageView": 2011
+            "pageView": 3,
+            "total": 2014
         },
         {
             "page": "Pamela Pezzutto",
-            "pageView": 1999
+            "pageView": 2,
+            "total": 1999
         },
         {
-            "page": "Christian Menardi",
-            "pageView": 1733
+            "page": "Piero Poletto",
+            "pageView": 2,
+            "total": 3179
+        },
+        {
+            "page": "L. R. Johannis",
+            "pageView": 2,
+            "total": 3387
+        },
+        {
+            "page": "Giuseppe Antonio Pujati",
+            "pageView": 2,
+            "total": 2469
+        },
+        {
+            "page": "Saverio Ragno",
+            "pageView": 2,
+            "total": 2665
         },
         {
             "page": "Pia Fontana",
-            "pageView": 916
+            "pageView": 2,
+            "total": 918
+        },
+        {
+            "page": "Christian Menardi",
+            "pageView": 1,
+            "total": 1733
+        },
+        {
+            "page": "Vannia Gava",
+            "pageView": 0,
+            "total": 11213
         }
     ]
 }

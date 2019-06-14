@@ -2,1368 +2,1709 @@
     "name": "Siracusa",
     "people": [
         {
-            "page": "Santa Lucia",
-            "pageView": 962783
-        },
-        {
             "page": "Archimede",
-            "pageView": 743610
+            "pageView": 510,
+            "total": 743968
         },
         {
             "page": "Tonino Accolla",
-            "pageView": 521426
+            "pageView": 313.5,
+            "total": 521686
         },
         {
-            "page": "Mario Francese",
-            "pageView": 341395
+            "page": "Santa Lucia",
+            "pageView": 266,
+            "total": 963004
         },
         {
             "page": "Pirro",
-            "pageView": 275370
-        },
-        {
-            "page": "Dario Bandiera",
-            "pageView": 271863
-        },
-        {
-            "page": "Enzo Maiorca",
-            "pageView": 244864
+            "pageView": 173,
+            "total": 275509
         },
         {
             "page": "Elio Vittorini",
-            "pageView": 233347
+            "pageView": 143,
+            "total": 233551
         },
         {
-            "page": "Mario Venuti",
-            "pageView": 164434
+            "page": "Enzo Maiorca",
+            "pageView": 80,
+            "total": 244991
         },
         {
-            "page": "Stefania Prestigiacomo",
-            "pageView": 137561
-        },
-        {
-            "page": "Carmelo Zappulla",
-            "pageView": 135122
-        },
-        {
-            "page": "Nadia Bengala",
-            "pageView": 132798
+            "page": "Dario Bandiera",
+            "pageView": 79,
+            "total": 271961
         },
         {
             "page": "Dionisio I di Siracusa",
-            "pageView": 116251
+            "pageView": 73,
+            "total": 116303
+        },
+        {
+            "page": "Mario Venuti",
+            "pageView": 73,
+            "total": 164522
+        },
+        {
+            "page": "Carmelo Zappulla",
+            "pageView": 70,
+            "total": 135181
+        },
+        {
+            "page": "Nadia Bengala",
+            "pageView": 61,
+            "total": 132858
+        },
+        {
+            "page": "Stefania Prestigiacomo",
+            "pageView": 61,
+            "total": 137611
         },
         {
             "page": "Teocrito",
-            "pageView": 86044
+            "pageView": 56,
+            "total": 86138
+        },
+        {
+            "page": "Mario Francese",
+            "pageView": 53,
+            "total": 341462
         },
         {
             "page": "Salvo Randone",
-            "pageView": 85308
-        },
-        {
-            "page": "Concetto Lo Bello",
-            "pageView": 70649
+            "pageView": 51,
+            "total": 85363
         },
         {
             "page": "Elio Zamuto",
-            "pageView": 70063
+            "pageView": 40,
+            "total": 70103
         },
         {
-            "page": "Agatocle",
-            "pageView": 59160
-        },
-        {
-            "page": "Alessandro Campagna",
-            "pageView": 53664
-        },
-        {
-            "page": "Lucia Azzolina",
-            "pageView": 50147
+            "page": "Concetto Lo Bello",
+            "pageView": 39,
+            "total": 70674
         },
         {
             "page": "Simonide",
-            "pageView": 47594
+            "pageView": 32,
+            "total": 47618
         },
         {
-            "page": "Rosario Lo Bello",
-            "pageView": 45809
+            "page": "Agatocle",
+            "pageView": 28,
+            "total": 59202
         },
         {
             "page": "Gelone",
-            "pageView": 43479
+            "pageView": 25,
+            "total": 43502
         },
         {
             "page": "Alex Partexano",
-            "pageView": 39253
-        },
-        {
-            "page": "Timoleonte",
-            "pageView": 37132
-        },
-        {
-            "page": "Nicia",
-            "pageView": 36208
+            "pageView": 23,
+            "total": 39284
         },
         {
             "page": "Costante II",
-            "pageView": 36023
+            "pageView": 22,
+            "total": 36039
         },
         {
-            "page": "Giuseppe Gibilisco",
-            "pageView": 35560
+            "page": "Rosario Lo Bello",
+            "pageView": 22,
+            "total": 45825
         },
         {
             "page": "Aristippo",
-            "pageView": 33861
+            "pageView": 22,
+            "total": 33878
         },
         {
             "page": "Gerone II",
-            "pageView": 33640
+            "pageView": 21,
+            "total": 33660
         },
         {
             "page": "Giovanni Pisano (calciatore)",
-            "pageView": 32342
-        },
-        {
-            "page": "Maurizio Pellegrino",
-            "pageView": 30959
+            "pageView": 20,
+            "total": 32363
         },
         {
             "page": "Lucia Migliaccio",
-            "pageView": 30736
+            "pageView": 20,
+            "total": 30752
         },
         {
             "page": "Gerone I",
-            "pageView": 30578
+            "pageView": 19,
+            "total": 30594
+        },
+        {
+            "page": "Nicia",
+            "pageView": 19,
+            "total": 36234
+        },
+        {
+            "page": "Timoleonte",
+            "pageView": 19,
+            "total": 37160
         },
         {
             "page": "Mario Minniti",
-            "pageView": 30146
-        },
-        {
-            "page": "Bassiano di Lodi",
-            "pageView": 29919
-        },
-        {
-            "page": "Dione di Siracusa",
-            "pageView": 27137
-        },
-        {
-            "page": "Carmela Gentile",
-            "pageView": 26166
+            "pageView": 19,
+            "total": 30168
         },
         {
             "page": "Papa Stefano III",
-            "pageView": 25045
+            "pageView": 16,
+            "total": 25055
         },
         {
-            "page": "Dionisio II di Siracusa",
-            "pageView": 23897
+            "page": "Giuseppe Gibilisco",
+            "pageView": 15,
+            "total": 35587
         },
         {
-            "page": "Giancarlo Parretti",
-            "pageView": 22864
+            "page": "Maurizio Pellegrino",
+            "pageView": 15,
+            "total": 30974
+        },
+        {
+            "page": "Dione di Siracusa",
+            "pageView": 15,
+            "total": 27154
         },
         {
             "page": "Bacchilide",
-            "pageView": 21843
+            "pageView": 14,
+            "total": 21854
+        },
+        {
+            "page": "Dionisio II di Siracusa",
+            "pageView": 13,
+            "total": 23912
         },
         {
             "page": "Vincenzo Failla",
-            "pageView": 20835
+            "pageView": 13,
+            "total": 20846
         },
         {
             "page": "Timeo di Tauromenio",
-            "pageView": 19634
+            "pageView": 13,
+            "total": 19647
         },
         {
-            "page": "Valentino Gallo",
-            "pageView": 19611
-        },
-        {
-            "page": "Michiel de Ruyter",
-            "pageView": 19593
-        },
-        {
-            "page": "Ermocrate",
-            "pageView": 19372
-        },
-        {
-            "page": "Antioco di Siracusa",
-            "pageView": 18607
-        },
-        {
-            "page": "Ibn Hamdis",
-            "pageView": 18037
-        },
-        {
-            "page": "Epicarmo",
-            "pageView": 17396
-        },
-        {
-            "page": "Michele Gambino",
-            "pageView": 16651
-        },
-        {
-            "page": "Salvatore Pappalardo (1945)",
-            "pageView": 16582
-        },
-        {
-            "page": "Dante Angelo Masocco",
-            "pageView": 16533
-        },
-        {
-            "page": "Santi Nicita",
-            "pageView": 15717
-        },
-        {
-            "page": "August von Platen-Hallermünde",
-            "pageView": 15570
-        },
-        {
-            "page": "Francesco Adorno",
-            "pageView": 15432
-        },
-        {
-            "page": "Giancarlo Garozzo",
-            "pageView": 15307
-        },
-        {
-            "page": "Francesco Trombadori",
-            "pageView": 15116
-        },
-        {
-            "page": "Alessio Di Mauro (tennista)",
-            "pageView": 14789
-        },
-        {
-            "page": "Giampaolo Ciarcià",
-            "pageView": 14659
-        },
-        {
-            "page": "Arianna Garibotti",
-            "pageView": 14191
+            "page": "Alessandro Campagna",
+            "pageView": 13,
+            "total": 53675
         },
         {
             "page": "Giovanni Accolla",
-            "pageView": 13881
+            "pageView": 12,
+            "total": 13894
         },
         {
-            "page": "Carlo Trigilia",
-            "pageView": 13644
+            "page": "Giancarlo Parretti",
+            "pageView": 12,
+            "total": 22887
         },
         {
-            "page": "Graziano Verzotto",
-            "pageView": 13136
+            "page": "Ermocrate",
+            "pageView": 11,
+            "total": 19378
         },
         {
-            "page": "Mosco (poeta)",
-            "pageView": 13125
+            "page": "Ibn Hamdis",
+            "pageView": 11,
+            "total": 18047
         },
         {
-            "page": "Claudio Nicastro",
-            "pageView": 13067
+            "page": "Bassiano di Lodi",
+            "pageView": 11,
+            "total": 29926
         },
         {
-            "page": "Gaetano Zumbo",
-            "pageView": 11814
+            "page": "Salvatore Pappalardo (1945)",
+            "pageView": 10,
+            "total": 16593
         },
         {
-            "page": "Marciano di Siracusa",
-            "pageView": 11761
+            "page": "Epicarmo",
+            "pageView": 10,
+            "total": 17409
         },
         {
-            "page": "Archia (ecista)",
-            "pageView": 11212
+            "page": "Francesco Adorno",
+            "pageView": 10,
+            "total": 15437
         },
         {
-            "page": "Eliana Liotta",
-            "pageView": 11007
-        },
-        {
-            "page": "Giuseppe Costanzo",
-            "pageView": 10540
+            "page": "August von Platen-Hallermünde",
+            "pageView": 10,
+            "total": 15581
         },
         {
             "page": "Gaetano Cutrufo",
-            "pageView": 10343
+            "pageView": 9.5,
+            "total": 10345
         },
         {
-            "page": "Rosaria Aiello",
-            "pageView": 10008
+            "page": "Carmela Gentile",
+            "pageView": 9,
+            "total": 26167
         },
         {
-            "page": "Demetrio Paparoni",
-            "pageView": 9886
+            "page": "Eliana Liotta",
+            "pageView": 9,
+            "total": 11029
         },
         {
-            "page": "Egizio Rubino",
-            "pageView": 9832
+            "page": "Dante Angelo Masocco",
+            "pageView": 9,
+            "total": 16540
         },
         {
-            "page": "Polemarco (filosofo)",
-            "pageView": 9470
+            "page": "Giancarlo Garozzo",
+            "pageView": 8,
+            "total": 15312
         },
         {
-            "page": "Antonino Lo Surdo",
-            "pageView": 9437
+            "page": "Valentino Gallo",
+            "pageView": 8,
+            "total": 19615
+        },
+        {
+            "page": "Santi Nicita",
+            "pageView": 8,
+            "total": 15725
+        },
+        {
+            "page": "Mosco (poeta)",
+            "pageView": 8,
+            "total": 13133
+        },
+        {
+            "page": "Michiel de Ruyter",
+            "pageView": 8,
+            "total": 19601
+        },
+        {
+            "page": "Carlo Trigilia",
+            "pageView": 8,
+            "total": 13654
+        },
+        {
+            "page": "Graziano Verzotto",
+            "pageView": 8,
+            "total": 13154
+        },
+        {
+            "page": "Alessio Di Mauro (tennista)",
+            "pageView": 8,
+            "total": 14796
+        },
+        {
+            "page": "Francesco Trombadori",
+            "pageView": 7,
+            "total": 15129
+        },
+        {
+            "page": "Archia (ecista)",
+            "pageView": 7,
+            "total": 11220
+        },
+        {
+            "page": "Gaetano Zumbo",
+            "pageView": 7,
+            "total": 11820
+        },
+        {
+            "page": "Marciano di Siracusa",
+            "pageView": 7,
+            "total": 11782
+        },
+        {
+            "page": "Giampaolo Ciarcià",
+            "pageView": 7,
+            "total": 14663
+        },
+        {
+            "page": "Antioco di Siracusa",
+            "pageView": 7,
+            "total": 18615
         },
         {
             "page": "Elio Marchegiani",
-            "pageView": 9430
+            "pageView": 6,
+            "total": 9443
+        },
+        {
+            "page": "Demetrio Paparoni",
+            "pageView": 6,
+            "total": 9897
+        },
+        {
+            "page": "Polemarco (filosofo)",
+            "pageView": 6,
+            "total": 9473
         },
         {
             "page": "Demostene (militare)",
-            "pageView": 9396
+            "pageView": 6,
+            "total": 9404
         },
         {
-            "page": "Giuseppe Cassia",
-            "pageView": 9263
+            "page": "Giuseppe Costanzo",
+            "pageView": 6,
+            "total": 10552
         },
         {
-            "page": "Christiane Reimann",
-            "pageView": 9221
-        },
-        {
-            "page": "Lino Puglisi",
-            "pageView": 9113
-        },
-        {
-            "page": "Paolo Caldarella",
-            "pageView": 8877
-        },
-        {
-            "page": "Carmelo Lavorino",
-            "pageView": 8510
-        },
-        {
-            "page": "Corace (retore)",
-            "pageView": 8410
-        },
-        {
-            "page": "Geronimo di Siracusa",
-            "pageView": 8308
+            "page": "Claudio Nicastro",
+            "pageView": 6,
+            "total": 13075
         },
         {
             "page": "Salvatore Raiti (carabiniere)",
-            "pageView": 8191
+            "pageView": 6,
+            "total": 8204
         },
         {
-            "page": "Iceta di Siracusa (filosofo)",
-            "pageView": 8167
+            "page": "Carmelo Lavorino",
+            "pageView": 6,
+            "total": 8514
         },
         {
-            "page": "Lanassa",
-            "pageView": 8058
+            "page": "Antonino Lo Surdo",
+            "pageView": 6,
+            "total": 9442
         },
         {
-            "page": "Carlo Muratori",
-            "pageView": 8036
+            "page": "Egizio Rubino",
+            "pageView": 6,
+            "total": 9836
         },
         {
-            "page": "Giulio Firmico Materno",
-            "pageView": 8013
-        },
-        {
-            "page": "Filisto di Siracusa",
-            "pageView": 7753
-        },
-        {
-            "page": "Tommaso Gargallo",
-            "pageView": 7748
-        },
-        {
-            "page": "Alberi genealogici dei tiranni di Siracusa",
-            "pageView": 7652
-        },
-        {
-            "page": "Tisia",
-            "pageView": 7511
-        },
-        {
-            "page": "Massimo Giacoppo",
-            "pageView": 7472
-        },
-        {
-            "page": "Gianluca Rizzo",
-            "pageView": 7454
-        },
-        {
-            "page": "Sofrone di Siracusa",
-            "pageView": 7360
-        },
-        {
-            "page": "Salvatore Corallo",
-            "pageView": 7359
-        },
-        {
-            "page": "Gaetano Emanuel Calì",
-            "pageView": 7005
-        },
-        {
-            "page": "Vincenzo Patania",
-            "pageView": 6920
-        },
-        {
-            "page": "Luigi Foti",
-            "pageView": 6837
-        },
-        {
-            "page": "Gaetano Rapisardi",
-            "pageView": 6832
-        },
-        {
-            "page": "Ecfanto di Siracusa",
-            "pageView": 6657
+            "page": "Giuseppe Cassia",
+            "pageView": 5,
+            "total": 9269
         },
         {
             "page": "Salvo Vinci",
-            "pageView": 6527
+            "pageView": 5,
+            "total": 6529
         },
         {
-            "page": "Asad ibn al-Furat",
-            "pageView": 6375
+            "page": "Tisia",
+            "pageView": 5,
+            "total": 7515
         },
         {
-            "page": "Isabella Cocuzza",
-            "pageView": 6334
+            "page": "Iceta di Siracusa (filosofo)",
+            "pageView": 5,
+            "total": 8169
         },
         {
-            "page": "Roberto Centaro",
-            "pageView": 6308
+            "page": "Geronimo di Siracusa",
+            "pageView": 5,
+            "total": 8311
         },
         {
-            "page": "Filemone di Siracusa",
-            "pageView": 6224
+            "page": "Tommaso Gargallo",
+            "pageView": 5,
+            "total": 7754
         },
         {
-            "page": "Enrico Cardile",
-            "pageView": 6144
+            "page": "Michele Gambino",
+            "pageView": 5,
+            "total": 16656
         },
         {
-            "page": "Achille Majeroni (attore 1881-1964)",
-            "pageView": 6096
+            "page": "Paolo Caldarella",
+            "pageView": 5,
+            "total": 8881
         },
         {
-            "page": "Michele Pesenti",
-            "pageView": 5945
+            "page": "Filisto di Siracusa",
+            "pageView": 5,
+            "total": 7756
         },
         {
-            "page": "Francesco Maria Greco (diplomatico)",
-            "pageView": 5645
+            "page": "Giulio Firmico Materno",
+            "pageView": 5,
+            "total": 8017
         },
         {
-            "page": "Francesco Greco (politico)",
-            "pageView": 5477
+            "page": "Corace (retore)",
+            "pageView": 5,
+            "total": 8415
         },
         {
-            "page": "Rintone",
-            "pageView": 5366
+            "page": "Carlo Muratori",
+            "pageView": 4,
+            "total": 8041
         },
         {
-            "page": "Andrea Scotti Galletta",
-            "pageView": 5361
-        },
-        {
-            "page": "Callippo (generale)",
-            "pageView": 5330
-        },
-        {
-            "page": "Domenico De Bonis",
-            "pageView": 5293
-        },
-        {
-            "page": "Giuseppe Palumbo (ciclista)",
-            "pageView": 5251
-        },
-        {
-            "page": "Sofia Vinci",
-            "pageView": 5115
-        },
-        {
-            "page": "Giorgio Bandiera",
-            "pageView": 5092
-        },
-        {
-            "page": "Metodio I",
-            "pageView": 5043
-        },
-        {
-            "page": "Vincenzo Rossitto",
-            "pageView": 5012
-        },
-        {
-            "page": "Ippocrate di Siracusa",
-            "pageView": 4982
-        },
-        {
-            "page": "Epicide",
-            "pageView": 4974
-        },
-        {
-            "page": "Paolo Boi",
-            "pageView": 4959
-        },
-        {
-            "page": "Orazio Sciortino",
-            "pageView": 4937
-        },
-        {
-            "page": "Vincenzo Mirabella",
-            "pageView": 4926
-        },
-        {
-            "page": "Giuseppe l'Innografo",
-            "pageView": 4896
-        },
-        {
-            "page": "Giuseppe Agnello",
-            "pageView": 4889
-        },
-        {
-            "page": "Giordano d'Altavilla",
-            "pageView": 4861
-        },
-        {
-            "page": "Stefano Barrera",
-            "pageView": 4714
-        },
-        {
-            "page": "Eumelo di Corinto",
-            "pageView": 4628
-        },
-        {
-            "page": "Saverio Landolina",
-            "pageView": 4611
-        },
-        {
-            "page": "Giuseppe Guarino (cardinale)",
-            "pageView": 4588
-        },
-        {
-            "page": "Francesco Testa",
-            "pageView": 4578
-        },
-        {
-            "page": "Giuseppe Bonfiglioli",
-            "pageView": 4493
-        },
-        {
-            "page": "Filosseno di Citera",
-            "pageView": 4492
-        },
-        {
-            "page": "Steven Camilleri",
-            "pageView": 4472
-        },
-        {
-            "page": "Christian Napolitano",
-            "pageView": 4451
-        },
-        {
-            "page": "Giovanni Vermexio",
-            "pageView": 4441
-        },
-        {
-            "page": "Iceta di Leontini",
-            "pageView": 4416
-        },
-        {
-            "page": "Raffaello Politi",
-            "pageView": 4408
-        },
-        {
-            "page": "Valeria Palmieri",
-            "pageView": 4399
-        },
-        {
-            "page": "Arete di Siracusa",
-            "pageView": 4383
-        },
-        {
-            "page": "Predrag Zimonjić",
-            "pageView": 4382
-        },
-        {
-            "page": "Gregorio Zappalà",
-            "pageView": 4370
-        },
-        {
-            "page": "Gelone II",
-            "pageView": 4358
+            "page": "Gaetano Rapisardi",
+            "pageView": 4,
+            "total": 6836
         },
         {
             "page": "Agatocle II",
-            "pageView": 4326
+            "pageView": 4,
+            "total": 4332
         },
         {
-            "page": "Alfonso Failla",
-            "pageView": 4288
+            "page": "Gianluca Rizzo",
+            "pageView": 4,
+            "total": 7466
         },
         {
-            "page": "Eduardo Di Giovanni",
-            "pageView": 4276
+            "page": "Alberi genealogici dei tiranni di Siracusa",
+            "pageView": 4,
+            "total": 7658
         },
         {
-            "page": "Pippo Cantarella",
-            "pageView": 4230
+            "page": "Gaetano Emanuel Calì",
+            "pageView": 4,
+            "total": 7006
         },
         {
-            "page": "Leptine",
-            "pageView": 4198
+            "page": "Luigi Foti",
+            "pageView": 4,
+            "total": 6838
         },
         {
-            "page": "Formide",
-            "pageView": 4176
+            "page": "Asad ibn al-Furat",
+            "pageView": 4,
+            "total": 6377
         },
         {
-            "page": "Diocle di Siracusa (legislatore)",
-            "pageView": 4156
+            "page": "Vincenzo Patania",
+            "pageView": 4,
+            "total": 6923
         },
         {
-            "page": "Ettore Baranzini",
-            "pageView": 4114
+            "page": "Orazio Sciortino",
+            "pageView": 4,
+            "total": 4945
         },
         {
-            "page": "Monimo",
-            "pageView": 4001
+            "page": "Lanassa",
+            "pageView": 4,
+            "total": 8060
         },
         {
-            "page": "Gaetano Abela",
-            "pageView": 3980
-        },
-        {
-            "page": "Giuseppe Zappulla",
-            "pageView": 3925
-        },
-        {
-            "page": "Ipparino",
-            "pageView": 3899
-        },
-        {
-            "page": "Menone",
-            "pageView": 3883
-        },
-        {
-            "page": "Calogero Lauricella",
-            "pageView": 3872
-        },
-        {
-            "page": "Niseo",
-            "pageView": 3777
-        },
-        {
-            "page": "Mario Adorno",
-            "pageView": 3768
-        },
-        {
-            "page": "Iceta di Siracusa (tiranno)",
-            "pageView": 3760
-        },
-        {
-            "page": "Flavio Vopisco",
-            "pageView": 3748
-        },
-        {
-            "page": "Sosistrato di Agrigento",
-            "pageView": 3713
-        },
-        {
-            "page": "Gaetano Trombatore",
-            "pageView": 3700
-        },
-        {
-            "page": "Richard Palmer",
-            "pageView": 3683
-        },
-        {
-            "page": "Ottavio Gaetani",
-            "pageView": 3651
-        },
-        {
-            "page": "Simeone di Siracusa",
-            "pageView": 3641
-        },
-        {
-            "page": "Bruno Alicata",
-            "pageView": 3638
-        },
-        {
-            "page": "Miteco Siculo",
-            "pageView": 3605
-        },
-        {
-            "page": "Giuseppe Vicuna",
-            "pageView": 3511
-        },
-        {
-            "page": "Paolo Rotondo (cestista)",
-            "pageView": 3477
-        },
-        {
-            "page": "Aristomache",
-            "pageView": 3413
-        },
-        {
-            "page": "Cristian Rizzo",
-            "pageView": 3398
-        },
-        {
-            "page": "Roberta Aprile",
-            "pageView": 3373
-        },
-        {
-            "page": "Salvo Bitonti",
-            "pageView": 3363
-        },
-        {
-            "page": "Alcimo (storico)",
-            "pageView": 3286
-        },
-        {
-            "page": "Marko Jelača",
-            "pageView": 3235
-        },
-        {
-            "page": "Raffaello Delogu",
-            "pageView": 3214
-        },
-        {
-            "page": "Marcello Sgarlata",
-            "pageView": 3201
-        },
-        {
-            "page": "Riccardo Crosa",
-            "pageView": 3200
-        },
-        {
-            "page": "Giusto Monaco",
-            "pageView": 3149
-        },
-        {
-            "page": "Enrico Mauceri",
-            "pageView": 3135
-        },
-        {
-            "page": "Gaetano Dentamaro",
-            "pageView": 3133
-        },
-        {
-            "page": "Costantino Gaetani",
-            "pageView": 3127
-        },
-        {
-            "page": "Živko Gocić",
-            "pageView": 3018
-        },
-        {
-            "page": "Costanza Bruno",
-            "pageView": 3001
-        },
-        {
-            "page": "Corrado Avolio",
-            "pageView": 2990
-        },
-        {
-            "page": "Sebastiano Aglianò",
-            "pageView": 2985
-        },
-        {
-            "page": "Diocle di Siracusa (demagogo)",
-            "pageView": 2981
+            "page": "Ecfanto di Siracusa",
+            "pageView": 4,
+            "total": 6660
         },
         {
             "page": "Giuseppe Antonino Laneri",
-            "pageView": 2928
+            "pageView": 4,
+            "total": 2935
         },
         {
-            "page": "Tinione",
-            "pageView": 2916
+            "page": "Isabella Cocuzza",
+            "pageView": 4,
+            "total": 6335
         },
         {
-            "page": "Alfredo Travia",
-            "pageView": 2900
+            "page": "Filemone di Siracusa",
+            "pageView": 4,
+            "total": 6228
         },
         {
-            "page": "Eleonora Gay",
-            "pageView": 2871
+            "page": "Roberto Centaro",
+            "pageView": 4,
+            "total": 6314
         },
         {
-            "page": "Stelio Darin",
-            "pageView": 2828
+            "page": "Massimo Giacoppo",
+            "pageView": 4,
+            "total": 7474
         },
         {
-            "page": "Luciano Campisi",
-            "pageView": 2827
+            "page": "Salvatore Corallo",
+            "pageView": 4,
+            "total": 7365
         },
         {
-            "page": "Labdaco di Siracusa",
-            "pageView": 2818
+            "page": "Lino Puglisi",
+            "pageView": 4,
+            "total": 9114
         },
         {
-            "page": "Leonardo Giuliano",
-            "pageView": 2771
+            "page": "Roberta Aprile",
+            "pageView": 4,
+            "total": 3387
         },
         {
-            "page": "Blagoje Ivović",
-            "pageView": 2762
+            "page": "Achille Majeroni (attore 1881-1964)",
+            "pageView": 4,
+            "total": 6105
         },
         {
-            "page": "Mamerco",
-            "pageView": 2751
+            "page": "Sofrone di Siracusa",
+            "pageView": 4,
+            "total": 7361
         },
         {
-            "page": "Adranodoro",
-            "pageView": 2664
+            "page": "Christiane Reimann",
+            "pageView": 4,
+            "total": 9224
         },
         {
-            "page": "Andrea Pigonati",
-            "pageView": 2656
+            "page": "Ettore Baranzini",
+            "pageView": 3,
+            "total": 4114
         },
         {
-            "page": "Atenagora di Siracusa",
-            "pageView": 2652
-        },
-        {
-            "page": "Agesia",
-            "pageView": 2634
-        },
-        {
-            "page": "Alessandro Rizza",
-            "pageView": 2634
-        },
-        {
-            "page": "Antonio Jacopo Venier",
-            "pageView": 2623
-        },
-        {
-            "page": "Giuseppe Lo Curzio",
-            "pageView": 2611
-        },
-        {
-            "page": "Arcagato (figlio di Agatocle di Siracusa)",
-            "pageView": 2593
-        },
-        {
-            "page": "Moschione (scrittore tecnico)",
-            "pageView": 2570
-        },
-        {
-            "page": "Antonio Rotondo",
-            "pageView": 2561
-        },
-        {
-            "page": "Giovanni Romano (calciatore 1929)",
-            "pageView": 2548
-        },
-        {
-            "page": "Apollocrate",
-            "pageView": 2528
-        },
-        {
-            "page": "Giorgio Orefice",
-            "pageView": 2523
+            "page": "Giuseppe Guarino (cardinale)",
+            "pageView": 3,
+            "total": 4591
         },
         {
             "page": "Pasquale Bandiera",
-            "pageView": 2438
+            "pageView": 3,
+            "total": 2441
         },
         {
-            "page": "Sosistrato di Siracusa",
-            "pageView": 2431
+            "page": "Giuseppe Bonfiglioli",
+            "pageView": 3,
+            "total": 4501
         },
         {
-            "page": "Luigi Leone (politico)",
-            "pageView": 2421
+            "page": "Christian Napolitano",
+            "pageView": 3,
+            "total": 4452
         },
         {
-            "page": "Bogdan Rath",
-            "pageView": 2415
+            "page": "Giorgio Bandiera",
+            "pageView": 3,
+            "total": 5097
         },
         {
-            "page": "Alessandro Fusina",
-            "pageView": 2382
+            "page": "Predrag Zimonjić",
+            "pageView": 3,
+            "total": 4382
         },
         {
-            "page": "Fabio Menta",
-            "pageView": 2381
+            "page": "Niseo",
+            "pageView": 3,
+            "total": 3781
         },
         {
-            "page": "Albert Español",
-            "pageView": 2343
+            "page": "Andrea Scotti Galletta",
+            "pageView": 3,
+            "total": 5369
         },
         {
-            "page": "Salvo Monica",
-            "pageView": 2337
+            "page": "Pippo Cantarella",
+            "pageView": 3,
+            "total": 4232
         },
         {
-            "page": "Damjan Danilović",
-            "pageView": 2324
+            "page": "Giuseppe Palumbo (ciclista)",
+            "pageView": 3,
+            "total": 5253
+        },
+        {
+            "page": "Arianna Garibotti",
+            "pageView": 3,
+            "total": 14194
+        },
+        {
+            "page": "Steven Camilleri",
+            "pageView": 3,
+            "total": 4473
+        },
+        {
+            "page": "Saverio Landolina",
+            "pageView": 3,
+            "total": 4613
+        },
+        {
+            "page": "Eduardo Di Giovanni",
+            "pageView": 3,
+            "total": 4279
+        },
+        {
+            "page": "Ipparino",
+            "pageView": 3,
+            "total": 3904
+        },
+        {
+            "page": "Mario Adorno",
+            "pageView": 3,
+            "total": 3769
+        },
+        {
+            "page": "Arete di Siracusa",
+            "pageView": 3,
+            "total": 4385
+        },
+        {
+            "page": "Gelone II",
+            "pageView": 3,
+            "total": 4359
+        },
+        {
+            "page": "Domenico De Bonis",
+            "pageView": 3,
+            "total": 5296
+        },
+        {
+            "page": "Giuseppe Agnello",
+            "pageView": 3,
+            "total": 4891
+        },
+        {
+            "page": "Diocle di Siracusa (legislatore)",
+            "pageView": 3,
+            "total": 4157
+        },
+        {
+            "page": "Paolo Boi",
+            "pageView": 3,
+            "total": 4959
+        },
+        {
+            "page": "Enrico Cardile",
+            "pageView": 3,
+            "total": 6145
+        },
+        {
+            "page": "Raffaello Politi",
+            "pageView": 3,
+            "total": 4409
+        },
+        {
+            "page": "Alfonso Failla",
+            "pageView": 3,
+            "total": 4294
+        },
+        {
+            "page": "Sofia Vinci",
+            "pageView": 3,
+            "total": 5118
+        },
+        {
+            "page": "Stefano Barrera",
+            "pageView": 3,
+            "total": 4716
+        },
+        {
+            "page": "Francesco Greco (politico)",
+            "pageView": 3,
+            "total": 5479
+        },
+        {
+            "page": "Gaetano Abela",
+            "pageView": 3,
+            "total": 3981
+        },
+        {
+            "page": "Gregorio Zappalà",
+            "pageView": 3,
+            "total": 4372
+        },
+        {
+            "page": "Giovanni Vermexio",
+            "pageView": 3,
+            "total": 4443
+        },
+        {
+            "page": "Giuseppe Zappulla",
+            "pageView": 3,
+            "total": 3928
+        },
+        {
+            "page": "Metodio I",
+            "pageView": 3,
+            "total": 5070
+        },
+        {
+            "page": "Rosaria Aiello",
+            "pageView": 3,
+            "total": 10010
+        },
+        {
+            "page": "Francesco Maria Greco (diplomatico)",
+            "pageView": 3,
+            "total": 5647
+        },
+        {
+            "page": "Formide",
+            "pageView": 3,
+            "total": 4176
+        },
+        {
+            "page": "Menone",
+            "pageView": 3,
+            "total": 3884
+        },
+        {
+            "page": "Vincenzo Rossitto",
+            "pageView": 3,
+            "total": 5020
+        },
+        {
+            "page": "Vincenzo Mirabella",
+            "pageView": 3,
+            "total": 4929
+        },
+        {
+            "page": "Ippocrate di Siracusa",
+            "pageView": 3,
+            "total": 4987
+        },
+        {
+            "page": "Paolo Rotondo (cestista)",
+            "pageView": 3,
+            "total": 3483
+        },
+        {
+            "page": "Epicide",
+            "pageView": 3,
+            "total": 4980
+        },
+        {
+            "page": "Rintone",
+            "pageView": 3,
+            "total": 5367
+        },
+        {
+            "page": "Monimo",
+            "pageView": 3,
+            "total": 4004
+        },
+        {
+            "page": "Iceta di Leontini",
+            "pageView": 3,
+            "total": 4418
+        },
+        {
+            "page": "Callippo (generale)",
+            "pageView": 3,
+            "total": 5334
+        },
+        {
+            "page": "Leptine",
+            "pageView": 3,
+            "total": 4199
+        },
+        {
+            "page": "Iceta di Siracusa (tiranno)",
+            "pageView": 3,
+            "total": 3763
+        },
+        {
+            "page": "Giordano d'Altavilla",
+            "pageView": 3,
+            "total": 4863
+        },
+        {
+            "page": "Francesco Testa",
+            "pageView": 3,
+            "total": 4578
+        },
+        {
+            "page": "Eumelo di Corinto",
+            "pageView": 3,
+            "total": 4630
+        },
+        {
+            "page": "Filosseno di Citera",
+            "pageView": 3,
+            "total": 4494
         },
         {
             "page": "Armando Di Natale",
-            "pageView": 2322
+            "pageView": 3,
+            "total": 2324
         },
         {
-            "page": "Eraclide di Siracusa (politico)",
-            "pageView": 2315
+            "page": "Alessandro Fusina",
+            "pageView": 3,
+            "total": 2390
+        },
+        {
+            "page": "Atenagora di Siracusa",
+            "pageView": 2,
+            "total": 2653
+        },
+        {
+            "page": "Moschione (scrittore tecnico)",
+            "pageView": 2,
+            "total": 2573
         },
         {
             "page": "Sebastiano Agati",
-            "pageView": 2258
-        },
-        {
-            "page": "Simmia di Siracusa",
-            "pageView": 2255
-        },
-        {
-            "page": "Marta Colaiocco",
-            "pageView": 2246
-        },
-        {
-            "page": "Anikó Pelle",
-            "pageView": 2241
-        },
-        {
-            "page": "Giuseppe Ferrari (calciatore 1913)",
-            "pageView": 2237
-        },
-        {
-            "page": "Laura Gibilisco",
-            "pageView": 2236
-        },
-        {
-            "page": "Bruno Piazzese",
-            "pageView": 2231
-        },
-        {
-            "page": "Gaetano Arezzo della Targia",
-            "pageView": 2215
-        },
-        {
-            "page": "Luigi Bignami (arcivescovo)",
-            "pageView": 2202
-        },
-        {
-            "page": "Domenico Mattiello",
-            "pageView": 2199
-        },
-        {
-            "page": "Giuseppe Maria Capodieci",
-            "pageView": 2195
-        },
-        {
-            "page": "Emanuele Francica Pancali",
-            "pageView": 2153
-        },
-        {
-            "page": "Atenione (ribelle)",
-            "pageView": 2141
-        },
-        {
-            "page": "Francesco Angelino",
-            "pageView": 2116
-        },
-        {
-            "page": "Menecrate (medico)",
-            "pageView": 2091
-        },
-        {
-            "page": "Salvo Coppa",
-            "pageView": 2048
-        },
-        {
-            "page": "Giuseppe Fiorenza",
-            "pageView": 2017
-        },
-        {
-            "page": "Maria Puglisi",
-            "pageView": 1950
-        },
-        {
-            "page": "Francesco Maria Rini",
-            "pageView": 1948
-        },
-        {
-            "page": "Claudio Mario Arezzo",
-            "pageView": 1876
-        },
-        {
-            "page": "Daniele Galea",
-            "pageView": 1862
-        },
-        {
-            "page": "Camillo Tommasi di Scillato",
-            "pageView": 1860
-        },
-        {
-            "page": "Sosifane",
-            "pageView": 1817
-        },
-        {
-            "page": "Carmelo Ganci",
-            "pageView": 1794
-        },
-        {
-            "page": "Antonio Madiona",
-            "pageView": 1769
-        },
-        {
-            "page": "Paolo Giuliano",
-            "pageView": 1765
-        },
-        {
-            "page": "Senarco",
-            "pageView": 1759
-        },
-        {
-            "page": "Teodosio di Siracusa",
-            "pageView": 1744
-        },
-        {
-            "page": "Giorgio Tamajo",
-            "pageView": 1705
-        },
-        {
-            "page": "Marco Fatuzzo",
-            "pageView": 1690
-        },
-        {
-            "page": "Carcino di Agrigento",
-            "pageView": 1687
-        },
-        {
-            "page": "Emilio Bufardeci",
-            "pageView": 1665
-        },
-        {
-            "page": "Eraclide di Siracusa (scrittore)",
-            "pageView": 1587
-        },
-        {
-            "page": "Sicano (militare)",
-            "pageView": 1577
-        },
-        {
-            "page": "Atanide di Siracusa",
-            "pageView": 1541
-        },
-        {
-            "page": "Luigi Greco Cassia",
-            "pageView": 1529
-        },
-        {
-            "page": "Salvio (ribelle)",
-            "pageView": 1519
-        },
-        {
-            "page": "Michele Manzo",
-            "pageView": 1491
-        },
-        {
-            "page": "Benedetta Morabito",
-            "pageView": 1479
-        },
-        {
-            "page": "Antifonte (poeta)",
-            "pageView": 1474
-        },
-        {
-            "page": "Carlo Grande (canottiere)",
-            "pageView": 1435
-        },
-        {
-            "page": "Agatarco di Siracusa",
-            "pageView": 1417
-        },
-        {
-            "page": "Patrizia Schiavone",
-            "pageView": 1396
-        },
-        {
-            "page": "Alice Giancristofaro",
-            "pageView": 1380
-        },
-        {
-            "page": "Postumio (pirata)",
-            "pageView": 1365
-        },
-        {
-            "page": "Gilberto Isfar y Corillas",
-            "pageView": 1363
-        },
-        {
-            "page": "Giuseppe Bufardeci",
-            "pageView": 1361
-        },
-        {
-            "page": "Gaetano Moscuzza",
-            "pageView": 1355
-        },
-        {
-            "page": "Teo Đogaš",
-            "pageView": 1335
-        },
-        {
-            "page": "Eleonora Comito",
-            "pageView": 1320
-        },
-        {
-            "page": "Acheo di Siracusa",
-            "pageView": 1315
-        },
-        {
-            "page": "Vincenzo Moscuzza",
-            "pageView": 1277
-        },
-        {
-            "page": "Chiara Gambuzza",
-            "pageView": 1254
-        },
-        {
-            "page": "Loredana Trigilia",
-            "pageView": 1251
-        },
-        {
-            "page": "Gregorio Asbesta",
-            "pageView": 1238
-        },
-        {
-            "page": "Angelo Scariolo",
-            "pageView": 1234
-        },
-        {
-            "page": "Filemone il Giovane",
-            "pageView": 1226
-        },
-        {
-            "page": "Teresa De Caprio",
-            "pageView": 1223
-        },
-        {
-            "page": "Filippo D'Antoni",
-            "pageView": 1207
-        },
-        {
-            "page": "Eraclide (condottiero)",
-            "pageView": 1187
-        },
-        {
-            "page": "Branko Peković",
-            "pageView": 1160
-        },
-        {
-            "page": "Giuseppe Antonio Bottaro",
-            "pageView": 1150
-        },
-        {
-            "page": "Teodorida di Siracusa",
-            "pageView": 1142
-        },
-        {
-            "page": "Giancarlo Costanzo",
-            "pageView": 1126
-        },
-        {
-            "page": "Gerhard Kapitän",
-            "pageView": 1124
-        },
-        {
-            "page": "Alcadino di Siracusa",
-            "pageView": 1123
-        },
-        {
-            "page": "Dinoloco",
-            "pageView": 1119
-        },
-        {
-            "page": "Diomilo",
-            "pageView": 1117
-        },
-        {
-            "page": "Corrado Bronzo",
-            "pageView": 1106
-        },
-        {
-            "page": "Vedova di Damas",
-            "pageView": 1081
-        },
-        {
-            "page": "Alessandro Spagna",
-            "pageView": 1039
-        },
-        {
-            "page": "Dinomene di Siracusa",
-            "pageView": 1033
+            "pageView": 2,
+            "total": 2258
         },
         {
             "page": "Amilcare (figlio di Gisgone)",
-            "pageView": 1026
+            "pageView": 2,
+            "total": 1027
         },
         {
-            "page": "Antonella Terranella",
-            "pageView": 1004
+            "page": "Adranodoro",
+            "pageView": 2,
+            "total": 2665
         },
         {
-            "page": "Flaminia Avola",
-            "pageView": 1002
+            "page": "Francesco Angelino",
+            "pageView": 2,
+            "total": 2116
         },
         {
-            "page": "Corrado Miglietta",
-            "pageView": 1001
+            "page": "Aristomache",
+            "pageView": 2,
+            "total": 3414
         },
         {
-            "page": "Callia di Siracusa",
-            "pageView": 982
+            "page": "Marco Fatuzzo",
+            "pageView": 2,
+            "total": 1690
         },
         {
-            "page": "Alchia",
-            "pageView": 980
+            "page": "Luigi Bignami (arcivescovo)",
+            "pageView": 2,
+            "total": 2203
         },
         {
-            "page": "Deinoloco",
-            "pageView": 968
+            "page": "Labdaco di Siracusa",
+            "pageView": 2,
+            "total": 2818
         },
         {
-            "page": "Giovanni Malfitano",
-            "pageView": 950
+            "page": "Luciano Campisi",
+            "pageView": 2,
+            "total": 2829
         },
         {
-            "page": "Salvatore Melluzzo",
-            "pageView": 932
+            "page": "Sosistrato di Agrigento",
+            "pageView": 2,
+            "total": 3716
+        },
+        {
+            "page": "Alcimo (storico)",
+            "pageView": 2,
+            "total": 3289
+        },
+        {
+            "page": "Agesia",
+            "pageView": 2,
+            "total": 2636
+        },
+        {
+            "page": "Flavio Vopisco",
+            "pageView": 2,
+            "total": 3754
+        },
+        {
+            "page": "Eraclide di Siracusa (scrittore)",
+            "pageView": 2,
+            "total": 1589
+        },
+        {
+            "page": "Giuseppe Vicuna",
+            "pageView": 2,
+            "total": 3513
+        },
+        {
+            "page": "Eraclide di Siracusa (politico)",
+            "pageView": 2,
+            "total": 2317
+        },
+        {
+            "page": "Giuseppe Ferrari (calciatore 1913)",
+            "pageView": 2,
+            "total": 2239
+        },
+        {
+            "page": "Vedova di Damas",
+            "pageView": 2,
+            "total": 1081
+        },
+        {
+            "page": "Gaetano Trombatore",
+            "pageView": 2,
+            "total": 3700
         },
         {
             "page": "Eraclide (figlio di Agatocle di Siracusa)",
-            "pageView": 913
+            "pageView": 2,
+            "total": 913
         },
         {
-            "page": "Michele Cortese (politico)",
-            "pageView": 911
+            "page": "Alfredo Travia",
+            "pageView": 2,
+            "total": 2902
         },
         {
-            "page": "Licisco",
-            "pageView": 906
+            "page": "Giuseppe Maria Capodieci",
+            "pageView": 2,
+            "total": 2195
         },
         {
             "page": "Dinocrate di Siracusa",
-            "pageView": 895
+            "pageView": 2,
+            "total": 897
         },
         {
             "page": "Damas di Siracusa",
-            "pageView": 847
+            "pageView": 2,
+            "total": 848
         },
         {
-            "page": "Giuseppe Majelli",
-            "pageView": 803
+            "page": "Stelio Darin",
+            "pageView": 2,
+            "total": 2828
         },
         {
-            "page": "Salvatore Tavano",
-            "pageView": 802
+            "page": "Calogero Lauricella",
+            "pageView": 2,
+            "total": 3872
         },
         {
-            "page": "Girolamo Beccadelli di Bologna",
-            "pageView": 769
+            "page": "Teresa De Caprio",
+            "pageView": 2,
+            "total": 1224
         },
         {
-            "page": "Giacomo Carabelli",
-            "pageView": 732
+            "page": "Gaetano Dentamaro",
+            "pageView": 2,
+            "total": 3136
         },
         {
-            "page": "Escrione di Siracusa",
-            "pageView": 725
+            "page": "Teodosio di Siracusa",
+            "pageView": 2,
+            "total": 1746
         },
         {
-            "page": "Benedetto Lavecchia Guarnieri",
-            "pageView": 705
+            "page": "Marta Colaiocco",
+            "pageView": 2,
+            "total": 2246
         },
         {
-            "page": "Simona Lo Iacono",
-            "pageView": 671
+            "page": "Damjan Danilović",
+            "pageView": 2,
+            "total": 2324
         },
         {
-            "page": "Cleone di Sicilia",
-            "pageView": 664
+            "page": "Raffaello Delogu",
+            "pageView": 2,
+            "total": 3214
         },
         {
-            "page": "Temistogene di Siracusa",
-            "pageView": 652
+            "page": "Albert Español",
+            "pageView": 2,
+            "total": 2345
         },
         {
-            "page": "Sebastiano Nicastro",
-            "pageView": 649
+            "page": "Atenione (ribelle)",
+            "pageView": 2,
+            "total": 2145
         },
         {
-            "page": "Angelo Robino",
-            "pageView": 632
+            "page": "Eleonora Gay",
+            "pageView": 2,
+            "total": 2871
+        },
+        {
+            "page": "Diocle di Siracusa (demagogo)",
+            "pageView": 2,
+            "total": 2985
+        },
+        {
+            "page": "Riccardo Crosa",
+            "pageView": 2,
+            "total": 3202
+        },
+        {
+            "page": "Živko Gocić",
+            "pageView": 2,
+            "total": 3018
+        },
+        {
+            "page": "Blagoje Ivović",
+            "pageView": 2,
+            "total": 2762
+        },
+        {
+            "page": "Marko Jelača",
+            "pageView": 2,
+            "total": 3235
+        },
+        {
+            "page": "Domenico Mattiello",
+            "pageView": 2,
+            "total": 2199
+        },
+        {
+            "page": "Valeria Palmieri",
+            "pageView": 2,
+            "total": 4400
+        },
+        {
+            "page": "Giancarlo Costanzo",
+            "pageView": 2,
+            "total": 1126
+        },
+        {
+            "page": "Anikó Pelle",
+            "pageView": 2,
+            "total": 2241
+        },
+        {
+            "page": "Michele Pesenti",
+            "pageView": 2,
+            "total": 5947
+        },
+        {
+            "page": "Bogdan Rath",
+            "pageView": 2,
+            "total": 2417
+        },
+        {
+            "page": "Salvo Coppa",
+            "pageView": 2,
+            "total": 2049
+        },
+        {
+            "page": "Costantino Gaetani",
+            "pageView": 2,
+            "total": 3128
+        },
+        {
+            "page": "Sosistrato di Siracusa",
+            "pageView": 2,
+            "total": 2432
+        },
+        {
+            "page": "Ottavio Gaetani",
+            "pageView": 2,
+            "total": 3654
+        },
+        {
+            "page": "Carmelo Ganci",
+            "pageView": 2,
+            "total": 1794
+        },
+        {
+            "page": "Gregorio Asbesta",
+            "pageView": 2,
+            "total": 1239
+        },
+        {
+            "page": "Simmia di Siracusa",
+            "pageView": 2,
+            "total": 2259
+        },
+        {
+            "page": "Laura Gibilisco",
+            "pageView": 2,
+            "total": 2239
+        },
+        {
+            "page": "Simeone di Siracusa",
+            "pageView": 2,
+            "total": 3642
+        },
+        {
+            "page": "Costanza Bruno",
+            "pageView": 2,
+            "total": 3001
+        },
+        {
+            "page": "Giuseppe Fiorenza",
+            "pageView": 2,
+            "total": 2018
+        },
+        {
+            "page": "Marcello Sgarlata",
+            "pageView": 2,
+            "total": 3201
+        },
+        {
+            "page": "Corrado Bronzo",
+            "pageView": 2,
+            "total": 1108
+        },
+        {
+            "page": "Michele Manzo",
+            "pageView": 2,
+            "total": 1493
+        },
+        {
+            "page": "Leonardo Giuliano",
+            "pageView": 2,
+            "total": 2773
+        },
+        {
+            "page": "Richard Palmer",
+            "pageView": 2,
+            "total": 3685
+        },
+        {
+            "page": "Salvo Bitonti",
+            "pageView": 2,
+            "total": 3367
+        },
+        {
+            "page": "Paolo Giuliano",
+            "pageView": 2,
+            "total": 1767
+        },
+        {
+            "page": "Giuseppe l'Innografo",
+            "pageView": 2,
+            "total": 4901
+        },
+        {
+            "page": "Giuseppe Lo Curzio",
+            "pageView": 2,
+            "total": 2611
+        },
+        {
+            "page": "Antonio Jacopo Venier",
+            "pageView": 2,
+            "total": 2623
+        },
+        {
+            "page": "Corrado Avolio",
+            "pageView": 2,
+            "total": 2993
+        },
+        {
+            "page": "Luigi Leone (politico)",
+            "pageView": 2,
+            "total": 2421
+        },
+        {
+            "page": "Gaetano Arezzo della Targia",
+            "pageView": 2,
+            "total": 2215
+        },
+        {
+            "page": "Arcagato (figlio di Agatocle di Siracusa)",
+            "pageView": 2,
+            "total": 2595
+        },
+        {
+            "page": "Apollocrate",
+            "pageView": 2,
+            "total": 2529
+        },
+        {
+            "page": "Bruno Alicata",
+            "pageView": 2,
+            "total": 3649
+        },
+        {
+            "page": "Mamerco",
+            "pageView": 2,
+            "total": 2754
+        },
+        {
+            "page": "Alchia",
+            "pageView": 2,
+            "total": 981
+        },
+        {
+            "page": "Antonio Rotondo",
+            "pageView": 2,
+            "total": 2562
+        },
+        {
+            "page": "Giovanni Romano (calciatore 1929)",
+            "pageView": 2,
+            "total": 2549
+        },
+        {
+            "page": "Cristian Rizzo",
+            "pageView": 2,
+            "total": 3399
+        },
+        {
+            "page": "Alcadino di Siracusa",
+            "pageView": 2,
+            "total": 1124
+        },
+        {
+            "page": "Salvo Monica",
+            "pageView": 2,
+            "total": 2337
+        },
+        {
+            "page": "Sebastiano Aglianò",
+            "pageView": 2,
+            "total": 2985
+        },
+        {
+            "page": "Enrico Mauceri",
+            "pageView": 2,
+            "total": 3137
+        },
+        {
+            "page": "Andrea Pigonati",
+            "pageView": 2,
+            "total": 2658
+        },
+        {
+            "page": "Bruno Piazzese",
+            "pageView": 2,
+            "total": 2232
+        },
+        {
+            "page": "Emanuele Francica Pancali",
+            "pageView": 2,
+            "total": 2156
+        },
+        {
+            "page": "Salvatore Melluzzo",
+            "pageView": 2,
+            "total": 932
+        },
+        {
+            "page": "Menecrate (medico)",
+            "pageView": 2,
+            "total": 2091
+        },
+        {
+            "page": "Fabio Menta",
+            "pageView": 2,
+            "total": 2384
+        },
+        {
+            "page": "Alessandro Rizza",
+            "pageView": 2,
+            "total": 2635
+        },
+        {
+            "page": "Tinione",
+            "pageView": 2,
+            "total": 2918
+        },
+        {
+            "page": "Miteco Siculo",
+            "pageView": 2,
+            "total": 3606
+        },
+        {
+            "page": "Giusto Monaco",
+            "pageView": 2,
+            "total": 3153
+        },
+        {
+            "page": "Giorgio Orefice",
+            "pageView": 2,
+            "total": 2525
+        },
+        {
+            "page": "Maria Puglisi",
+            "pageView": 1.5,
+            "total": 1951
+        },
+        {
+            "page": "Benedetta Morabito",
+            "pageView": 1,
+            "total": 1479
+        },
+        {
+            "page": "Corrado Miglietta",
+            "pageView": 1,
+            "total": 1001
+        },
+        {
+            "page": "Vincenzo Moscuzza",
+            "pageView": 1,
+            "total": 1279
+        },
+        {
+            "page": "Sicano (militare)",
+            "pageView": 1,
+            "total": 1578
+        },
+        {
+            "page": "Postumio (pirata)",
+            "pageView": 1,
+            "total": 1369
+        },
+        {
+            "page": "Senarco",
+            "pageView": 1,
+            "total": 1759
         },
         {
             "page": "Tonino Agodi",
-            "pageView": 629
+            "pageView": 1,
+            "total": 629
         },
         {
-            "page": "Giuseppe Vinci",
-            "pageView": 592
+            "page": "Salvio (ribelle)",
+            "pageView": 1,
+            "total": 1522
         },
         {
-            "page": "Salvatore Sanfilippo (politico 1945)",
-            "pageView": 582
+            "page": "Agatarco di Siracusa",
+            "pageView": 1,
+            "total": 1419
         },
         {
-            "page": "Scopas di Siracusa",
-            "pageView": 452
+            "page": "Callia di Siracusa",
+            "pageView": 1,
+            "total": 984
         },
         {
-            "page": "Aldo Baio",
-            "pageView": 415
+            "page": "Gaetano Moscuzza",
+            "pageView": 1,
+            "total": 1355
         },
         {
-            "page": "Pietro di Moncada",
-            "pageView": 408
+            "page": "Diomilo",
+            "pageView": 1,
+            "total": 1118
         },
         {
-            "page": "Carmelo Mollica",
-            "pageView": 388
+            "page": "Dinomene di Siracusa",
+            "pageView": 1,
+            "total": 1034
         },
         {
-            "page": "Gaetano Bonanno",
-            "pageView": 382
+            "page": "Filemone il Giovane",
+            "pageView": 1,
+            "total": 1227
         },
         {
-            "page": "Lucio Staio Murco",
-            "pageView": 371
+            "page": "Antonio Madiona",
+            "pageView": 1,
+            "total": 1769
         },
         {
-            "page": "Giuseppe Amorelli",
-            "pageView": 329
+            "page": "Giuseppe Majelli",
+            "pageView": 1,
+            "total": 803
+        },
+        {
+            "page": "Girolamo Beccadelli di Bologna",
+            "pageView": 1,
+            "total": 769
+        },
+        {
+            "page": "Antifonte (poeta)",
+            "pageView": 1,
+            "total": 1475
+        },
+        {
+            "page": "Claudio Mario Arezzo",
+            "pageView": 1,
+            "total": 1877
+        },
+        {
+            "page": "Angelo Scariolo",
+            "pageView": 1,
+            "total": 1235
+        },
+        {
+            "page": "Atanide di Siracusa",
+            "pageView": 1,
+            "total": 1541
+        },
+        {
+            "page": "Acheo di Siracusa",
+            "pageView": 1,
+            "total": 1317
+        },
+        {
+            "page": "Emilio Bufardeci",
+            "pageView": 1,
+            "total": 1667
+        },
+        {
+            "page": "Escrione di Siracusa",
+            "pageView": 1,
+            "total": 726
+        },
+        {
+            "page": "Cleone di Sicilia",
+            "pageView": 1,
+            "total": 665
+        },
+        {
+            "page": "Licisco",
+            "pageView": 1,
+            "total": 906
+        },
+        {
+            "page": "Eraclide (condottiero)",
+            "pageView": 1,
+            "total": 1187
+        },
+        {
+            "page": "Carlo Grande (canottiere)",
+            "pageView": 1,
+            "total": 1435
+        },
+        {
+            "page": "Patrizia Schiavone",
+            "pageView": 1,
+            "total": 1397
+        },
+        {
+            "page": "Luigi Greco Cassia",
+            "pageView": 1,
+            "total": 1536
+        },
+        {
+            "page": "Carcino di Agrigento",
+            "pageView": 1,
+            "total": 1687
+        },
+        {
+            "page": "Dinoloco",
+            "pageView": 1,
+            "total": 1121
+        },
+        {
+            "page": "Francesco Maria Rini",
+            "pageView": 1,
+            "total": 1948
+        },
+        {
+            "page": "Camillo Tommasi di Scillato",
+            "pageView": 1,
+            "total": 1864
+        },
+        {
+            "page": "Giuseppe Antonio Bottaro",
+            "pageView": 1,
+            "total": 1151
+        },
+        {
+            "page": "Gilberto Isfar y Corillas",
+            "pageView": 1,
+            "total": 1363
+        },
+        {
+            "page": "Gerhard Kapitän",
+            "pageView": 1,
+            "total": 1127
+        },
+        {
+            "page": "Giuseppe Bufardeci",
+            "pageView": 1,
+            "total": 1361
+        },
+        {
+            "page": "Giorgio Tamajo",
+            "pageView": 1,
+            "total": 1705
+        },
+        {
+            "page": "Antonella Terranella",
+            "pageView": 1,
+            "total": 1004
+        },
+        {
+            "page": "Chiara Gambuzza",
+            "pageView": 1,
+            "total": 1254
+        },
+        {
+            "page": "Daniele Galea",
+            "pageView": 1,
+            "total": 1862
+        },
+        {
+            "page": "Sosifane",
+            "pageView": 1,
+            "total": 1818
+        },
+        {
+            "page": "Alessandro Spagna",
+            "pageView": 1,
+            "total": 1040
+        },
+        {
+            "page": "Eleonora Comito",
+            "pageView": 1,
+            "total": 1321
+        },
+        {
+            "page": "Flaminia Avola",
+            "pageView": 1,
+            "total": 1003
+        },
+        {
+            "page": "Michele Cortese (politico)",
+            "pageView": 1,
+            "total": 913
+        },
+        {
+            "page": "Branko Peković",
+            "pageView": 1,
+            "total": 1162
+        },
+        {
+            "page": "Alice Giancristofaro",
+            "pageView": 1,
+            "total": 1381
+        },
+        {
+            "page": "Teo Đogaš",
+            "pageView": 1,
+            "total": 1335
+        },
+        {
+            "page": "Filippo D'Antoni",
+            "pageView": 1,
+            "total": 1207
+        },
+        {
+            "page": "Teodorida di Siracusa",
+            "pageView": 1,
+            "total": 1142
+        },
+        {
+            "page": "Deinoloco",
+            "pageView": 1,
+            "total": 968
         },
         {
             "page": "Filippo Trigona",
-            "pageView": 317
+            "pageView": 0,
+            "total": 317
         },
         {
-            "page": "Luigi Rudilosso",
-            "pageView": 236
-        },
-        {
-            "page": "Luigi Leone (allenatore)",
-            "pageView": 235
+            "page": "Temistogene di Siracusa",
+            "pageView": 0,
+            "total": 652
         },
         {
             "page": "Sebastiano Di Caro",
-            "pageView": 205
+            "pageView": 0,
+            "total": 206
+        },
+        {
+            "page": "Benedetto Lavecchia Guarnieri",
+            "pageView": 0,
+            "total": 705
+        },
+        {
+            "page": "Giuseppe Amorelli",
+            "pageView": 0,
+            "total": 331
+        },
+        {
+            "page": "Pietro di Moncada",
+            "pageView": 0,
+            "total": 408
+        },
+        {
+            "page": "Gaetano Bonanno",
+            "pageView": 0,
+            "total": 383
         },
         {
             "page": "Francesco Boccadifuoco",
-            "pageView": 176
+            "pageView": 0,
+            "total": 176
+        },
+        {
+            "page": "Scopas di Siracusa",
+            "pageView": 0,
+            "total": 452
+        },
+        {
+            "page": "Angelo Robino",
+            "pageView": 0,
+            "total": 633
+        },
+        {
+            "page": "Luigi Leone (allenatore)",
+            "pageView": 0,
+            "total": 236
+        },
+        {
+            "page": "Loredana Trigilia",
+            "pageView": 0,
+            "total": 1253
+        },
+        {
+            "page": "Giuseppe Vinci",
+            "pageView": 0,
+            "total": 593
+        },
+        {
+            "page": "Salvatore Tavano",
+            "pageView": 0,
+            "total": 806
+        },
+        {
+            "page": "Aldo Baio",
+            "pageView": 0,
+            "total": 416
+        },
+        {
+            "page": "Lucia Azzolina",
+            "pageView": 0,
+            "total": 50208
         },
         {
             "page": "Template:Vescovi di Siracusa",
-            "pageView": 160
+            "pageView": 0,
+            "total": 160
+        },
+        {
+            "page": "Simona Lo Iacono",
+            "pageView": 0,
+            "total": 675
+        },
+        {
+            "page": "Lucio Staio Murco",
+            "pageView": 0,
+            "total": 374
+        },
+        {
+            "page": "Salvatore Sanfilippo (politico 1945)",
+            "pageView": 0,
+            "total": 582
+        },
+        {
+            "page": "Luigi Rudilosso",
+            "pageView": 0,
+            "total": 237
+        },
+        {
+            "page": "Carmelo Mollica",
+            "pageView": 0,
+            "total": 389
+        },
+        {
+            "page": "Giovanni Malfitano",
+            "pageView": 0,
+            "total": 951
         },
         {
             "page": "Massimo Mauceri",
-            "pageView": 152
+            "pageView": 0,
+            "total": 152
+        },
+        {
+            "page": "Sebastiano Nicastro",
+            "pageView": 0,
+            "total": 649
+        },
+        {
+            "page": "Giacomo Carabelli",
+            "pageView": 0,
+            "total": 732
         }
     ]
 }

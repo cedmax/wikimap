@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Christian Terlizzi",
-            "pageView": 60306
+            "pageView": 36,
+            "total": 60331
         },
         {
             "page": "Luigi Piras",
-            "pageView": 27688
+            "pageView": 17,
+            "total": 27703
         },
         {
             "page": "Giovanni Roccotelli",
-            "pageView": 24301
+            "pageView": 15,
+            "total": 24314
         },
         {
             "page": "Elena Ledda",
-            "pageView": 18531
+            "pageView": 12,
+            "total": 18540
         },
         {
             "page": "Mario Tiddia",
-            "pageView": 14501
-        },
-        {
-            "page": "Antonio Gallus",
-            "pageView": 14192
+            "pageView": 9,
+            "total": 14505
         },
         {
             "page": "Antonino D'Agostino",
-            "pageView": 13102
+            "pageView": 8,
+            "total": 13112
         },
         {
             "page": "Elvio Salvori",
-            "pageView": 12348
+            "pageView": 8,
+            "total": 12356
+        },
+        {
+            "page": "Antonio Gallus",
+            "pageView": 8,
+            "total": 14194
         },
         {
             "page": "Emiliano Melis",
-            "pageView": 11356
+            "pageView": 7,
+            "total": 11361
         },
         {
             "page": "Massimo Perra",
-            "pageView": 5031
-        },
-        {
-            "page": "Valentina Fabbri",
-            "pageView": 4215
+            "pageView": 3,
+            "total": 5031
         },
         {
             "page": "Roberto Puddu",
-            "pageView": 3851
+            "pageView": 3,
+            "total": 3854
         },
         {
-            "page": "Filippo Fedeli",
-            "pageView": 3502
-        },
-        {
-            "page": "Alessandra Visconti",
-            "pageView": 3373
+            "page": "Valentina Fabbri",
+            "pageView": 3,
+            "total": 4218
         },
         {
             "page": "Federica Brunetti",
-            "pageView": 2157
+            "pageView": 2,
+            "total": 2158
         },
         {
             "page": "Veronica Dell'Olio",
-            "pageView": 2101
+            "pageView": 2,
+            "total": 2102
         },
         {
             "page": "Cinzia Arioli",
-            "pageView": 1996
+            "pageView": 2,
+            "total": 1998
         },
         {
-            "page": "Roksana Jordanova",
-            "pageView": 1495
+            "page": "Filippo Fedeli",
+            "pageView": 2,
+            "total": 3502
         },
         {
-            "page": "Dita Rozenberga",
-            "pageView": 1470
+            "page": "Alessandra Visconti",
+            "pageView": 2,
+            "total": 3376
         },
         {
             "page": "Mauro De Vecchis",
-            "pageView": 974
+            "pageView": 2,
+            "total": 974
+        },
+        {
+            "page": "Dita Rozenberga",
+            "pageView": 1,
+            "total": 1471
+        },
+        {
+            "page": "Roksana Jordanova",
+            "pageView": 1,
+            "total": 1497
         }
     ]
 }

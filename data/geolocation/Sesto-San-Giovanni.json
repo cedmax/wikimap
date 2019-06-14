@@ -1,0 +1,27 @@
+{
+    "id": "place.7747707974028440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sesto San Giovanni",
+    "place_name": "Sesto San Giovanni, Milano, Italy",
+    "bbox": [
+        9.205769,
+        45.51752,
+        9.271707,
+        45.556223
+    ],
+    "center": [
+        9.23333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            45.53333
+        ]
+    }
+}

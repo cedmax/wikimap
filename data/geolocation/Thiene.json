@@ -1,0 +1,27 @@
+{
+    "id": "place.6105075429628110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Thiene",
+    "place_name": "Thiene, Vicenza, Italy",
+    "bbox": [
+        11.446347,
+        45.657808,
+        11.514703,
+        45.717622
+    ],
+    "center": [
+        11.47861,
+        45.70722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47861,
+            45.70722
+        ]
+    }
+}

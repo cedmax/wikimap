@@ -1,0 +1,27 @@
+{
+    "id": "place.17402278437951430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colle di Val d'Elsa",
+    "place_name": "Colle di Val d'Elsa, Siena, Italy",
+    "bbox": [
+        10.999241,
+        43.325167,
+        11.174781,
+        43.453271
+    ],
+    "center": [
+        11.12667,
+        43.4225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.12667,
+            43.4225
+        ]
+    }
+}

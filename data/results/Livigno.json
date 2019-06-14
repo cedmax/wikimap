@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Gianluigi Galli",
-            "pageView": 24098
+            "pageView": 14,
+            "total": 24104
         },
         {
             "page": "Daniela Zini",
-            "pageView": 13554
-        },
-        {
-            "page": "Ivan Bormolini",
-            "pageView": 4938
+            "pageView": 6,
+            "total": 13556
         },
         {
             "page": "Thomas Bormolini",
-            "pageView": 2236
+            "pageView": 3,
+            "total": 2238
+        },
+        {
+            "page": "Ivan Bormolini",
+            "pageView": 3,
+            "total": 4940
         },
         {
             "page": "Simone Mottini",
-            "pageView": 962
-        },
-        {
-            "page": "Giorgio Zini",
-            "pageView": 557
+            "pageView": 0,
+            "total": 962
         },
         {
             "page": "Paolo Silvestri (sciatore)",
-            "pageView": 331
+            "pageView": 0,
+            "total": 331
+        },
+        {
+            "page": "Giorgio Zini",
+            "pageView": 0,
+            "total": 557
         }
     ]
 }

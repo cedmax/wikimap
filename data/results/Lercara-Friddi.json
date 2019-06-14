@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Lucky Luciano",
-            "pageView": 749095
+            "pageView": 442,
+            "total": 750090
         },
         {
             "page": "Andrea Finocchiaro Aprile",
-            "pageView": 28597
+            "pageView": 18,
+            "total": 28612
         },
         {
             "page": "Salvatore Vicari",
-            "pageView": 16395
-        },
-        {
-            "page": "Mario Ferrara",
-            "pageView": 11448
+            "pageView": 10,
+            "total": 16399
         },
         {
             "page": "Nicolò Nicolosi (calciatore)",
-            "pageView": 10821
+            "pageView": 7,
+            "total": 10824
+        },
+        {
+            "page": "Mario Ferrara",
+            "pageView": 6,
+            "total": 11456
         },
         {
             "page": "Frédéric François",
-            "pageView": 9328
+            "pageView": 6,
+            "total": 9334
         },
         {
             "page": "Rosario Pecoraro",
-            "pageView": 8577
+            "pageView": 4,
+            "total": 8594
         },
         {
             "page": "Alfonso Giordano",
-            "pageView": 6824
+            "pageView": 4,
+            "total": 6833
         },
         {
             "page": "Dino Ticli",
-            "pageView": 5287
+            "pageView": 3,
+            "total": 5289
         },
         {
             "page": "Totò Bonanno",
-            "pageView": 3208
-        },
-        {
-            "page": "Pietro Lo Forte",
-            "pageView": 2671
-        },
-        {
-            "page": "Anna Nicolosi Grasso",
-            "pageView": 2511
-        },
-        {
-            "page": "Francesco Calì (militare)",
-            "pageView": 2353
+            "pageView": 2,
+            "total": 3211
         },
         {
             "page": "Gioacchino Germanà",
-            "pageView": 2258
+            "pageView": 2,
+            "total": 2259
         },
         {
-            "page": "Discussioni utente:Fanuzza123",
-            "pageView": 315
+            "page": "Anna Nicolosi Grasso",
+            "pageView": 2,
+            "total": 2514
+        },
+        {
+            "page": "Francesco Calì (militare)",
+            "pageView": 2,
+            "total": 2354
+        },
+        {
+            "page": "Pietro Lo Forte",
+            "pageView": 2,
+            "total": 2671
         },
         {
             "page": "Ermanno Maciocio",
-            "pageView": 190
+            "pageView": 0,
+            "total": 190
+        },
+        {
+            "page": "Discussioni utente:Fanuzza123",
+            "pageView": 0,
+            "total": 315
         }
     ]
 }

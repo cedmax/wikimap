@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Davide Astori",
-            "pageView": 1991478
+            "pageView": 178,
+            "total": 1991708
         },
         {
             "page": "Cristian Raimondi",
-            "pageView": 85020
+            "pageView": 37,
+            "total": 85047
         },
         {
             "page": "Pierluigi Orlandini",
-            "pageView": 61189
+            "pageView": 35,
+            "total": 61297
         },
         {
             "page": "Marco Zanchi",
-            "pageView": 30642
+            "pageView": 19,
+            "total": 30654
         },
         {
             "page": "Carlo Ceresa",
-            "pageView": 9522
+            "pageView": 6,
+            "total": 9531
         },
         {
             "page": "Mauro Minelli",
-            "pageView": 9291
+            "pageView": 6,
+            "total": 9295
         },
         {
             "page": "Imerio Testori",
-            "pageView": 4481
-        },
-        {
-            "page": "Antonio Boselli",
-            "pageView": 4474
-        },
-        {
-            "page": "Marco Gozzi",
-            "pageView": 3592
-        },
-        {
-            "page": "Vistallo Zignoni",
-            "pageView": 3124
-        },
-        {
-            "page": "Giuseppe Milesi",
-            "pageView": 3001
-        },
-        {
-            "page": "Sergio Bonaldi",
-            "pageView": 2366
+            "pageView": 3,
+            "total": 4482
         },
         {
             "page": "Simone Gariboldi",
-            "pageView": 2117
+            "pageView": 2,
+            "total": 2117
+        },
+        {
+            "page": "Antonio Boselli",
+            "pageView": 2,
+            "total": 4474
+        },
+        {
+            "page": "Marco Gozzi",
+            "pageView": 2,
+            "total": 3592
+        },
+        {
+            "page": "Giuseppe Milesi",
+            "pageView": 2,
+            "total": 3002
+        },
+        {
+            "page": "Vistallo Zignoni",
+            "pageView": 2,
+            "total": 3124
+        },
+        {
+            "page": "Sergio Bonaldi",
+            "pageView": 2,
+            "total": 2366
         },
         {
             "page": "Bruno Carrara",
-            "pageView": 1889
+            "pageView": 1,
+            "total": 1889
         },
         {
             "page": "Sergio Ghisalberti",
-            "pageView": 1411
+            "pageView": 1,
+            "total": 1412
         },
         {
             "page": "Enrico Rampinelli",
-            "pageView": 206
+            "pageView": 0,
+            "total": 206
         },
         {
             "page": "Alex Baldaccini",
-            "pageView": 147
+            "pageView": 0,
+            "total": 149
         }
     ]
 }

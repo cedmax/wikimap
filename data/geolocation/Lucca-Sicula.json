@@ -1,0 +1,27 @@
+{
+    "id": "place.14431715758313430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lucca Sicula",
+    "place_name": "Lucca Sicula, Agrigento, Italy",
+    "bbox": [
+        13.287894,
+        37.521627,
+        13.356422,
+        37.594131
+    ],
+    "center": [
+        13.30778,
+        37.58056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.30778,
+            37.58056
+        ]
+    }
+}

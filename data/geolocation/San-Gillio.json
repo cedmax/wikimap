@@ -1,0 +1,21 @@
+{
+    "id": "poi.1992864827875",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "San Gillio",
+    "place_name": "San Gillio, San Gillio, Torino 10040, Italy",
+    "center": [
+        7.545941,
+        45.14312
+    ],
+    "geometry": {
+        "coordinates": [
+            7.545941,
+            45.14312
+        ],
+        "type": "Point"
+    }
+}

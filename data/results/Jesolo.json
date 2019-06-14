@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Alessio Scarpi",
-            "pageView": 44385
+            "pageView": 24,
+            "total": 44399
         },
         {
             "page": "Andrea Bafile",
-            "pageView": 25050
+            "pageView": 15,
+            "total": 25056
         },
         {
             "page": "Massimo Priviero",
-            "pageView": 22367
+            "pageView": 13,
+            "total": 22397
         },
         {
             "page": "Anna Arena",
-            "pageView": 21006
+            "pageView": 11,
+            "total": 21019
         },
         {
             "page": "Mauro Bacchin",
-            "pageView": 10944
-        },
-        {
-            "page": "Dragan Cigan",
-            "pageView": 10067
+            "pageView": 7,
+            "total": 10950
         },
         {
             "page": "Mauro Mayer",
-            "pageView": 9812
+            "pageView": 6,
+            "total": 9814
         },
         {
-            "page": "Davide Benetello",
-            "pageView": 8687
+            "page": "Dragan Cigan",
+            "pageView": 5,
+            "total": 10068
         },
         {
             "page": "Renato Pasquali",
-            "pageView": 8452
+            "pageView": 5,
+            "total": 8462
         },
         {
-            "page": "Massimo Guerra",
-            "pageView": 7181
-        },
-        {
-            "page": "Giorgio Vignando",
-            "pageView": 6763
+            "page": "Davide Benetello",
+            "pageView": 5,
+            "total": 8694
         },
         {
             "page": "Sandra Franzo",
-            "pageView": 6446
+            "pageView": 4,
+            "total": 6448
         },
         {
-            "page": "Alberto De Marchi",
-            "pageView": 5921
+            "page": "Massimo Guerra",
+            "pageView": 4,
+            "total": 7186
+        },
+        {
+            "page": "Giorgio Vignando",
+            "pageView": 4,
+            "total": 6764
         },
         {
             "page": "Alberto Gianquinto",
-            "pageView": 5744
-        },
-        {
-            "page": "Matteo Maestrello",
-            "pageView": 4139
+            "pageView": 4,
+            "total": 5746
         },
         {
             "page": "Cristian Mayer",
-            "pageView": 3915
+            "pageView": 3,
+            "total": 3915
         },
         {
-            "page": "Stefano Teso",
-            "pageView": 3757
+            "page": "Matteo Maestrello",
+            "pageView": 3,
+            "total": 4144
         },
         {
-            "page": "Visconti Follador",
-            "pageView": 2858
+            "page": "Alberto De Marchi",
+            "pageView": 3,
+            "total": 5924
         },
         {
             "page": "Umberto Pilla",
-            "pageView": 2653
+            "pageView": 2,
+            "total": 2653
         },
         {
-            "page": "Pietro de' Natali",
-            "pageView": 2175
+            "page": "Visconti Follador",
+            "pageView": 2,
+            "total": 2859
         },
         {
             "page": "Augusto Pettenò",
-            "pageView": 1767
+            "pageView": 2,
+            "total": 1767
         },
         {
-            "page": "Andrea Bon (vescovo di Equilio)",
-            "pageView": 1130
+            "page": "Stefano Teso",
+            "pageView": 2,
+            "total": 3758
+        },
+        {
+            "page": "Pietro de' Natali",
+            "pageView": 2,
+            "total": 2175
         },
         {
             "page": "Egidio Grego",
-            "pageView": 1073
+            "pageView": 1,
+            "total": 1073
+        },
+        {
+            "page": "Andrea Bon (vescovo di Equilio)",
+            "pageView": 1,
+            "total": 1131
         },
         {
             "page": "Dino Nardin",
-            "pageView": 384
+            "pageView": 0,
+            "total": 385
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.5566816702966690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavalese",
+    "place_name": "Cavalese, Trento, Italy",
+    "bbox": [
+        11.432952,
+        46.19896,
+        11.522715,
+        46.296806
+    ],
+    "center": [
+        11.46667,
+        46.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46667,
+            46.28333
+        ]
+    }
+}

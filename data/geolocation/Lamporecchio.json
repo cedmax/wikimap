@@ -1,0 +1,27 @@
+{
+    "id": "place.12014440704033050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lamporecchio",
+    "place_name": "Lamporecchio, Pistoia, Italy",
+    "bbox": [
+        10.825887,
+        43.793738,
+        10.94256,
+        43.846967
+    ],
+    "center": [
+        10.9,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.9,
+            43.81667
+        ]
+    }
+}

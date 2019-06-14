@@ -3,107 +3,133 @@
     "people": [
         {
             "page": "Daniela Ferolla",
-            "pageView": 369127
+            "pageView": 101,
+            "total": 369249
         },
         {
             "page": "Cristian Molinaro",
-            "pageView": 182147
+            "pageView": 67,
+            "total": 182186
         },
         {
             "page": "Angelo D'Angelo",
-            "pageView": 45242
+            "pageView": 20,
+            "total": 45257
         },
         {
             "page": "Maria Agresta",
-            "pageView": 35434
+            "pageView": 14,
+            "total": 35441
         },
         {
             "page": "Adriana Ruocco",
-            "pageView": 14928
-        },
-        {
-            "page": "Ciro Miniero",
-            "pageView": 8065
-        },
-        {
-            "page": "Giuseppe Rocco Favale",
-            "pageView": 7702
-        },
-        {
-            "page": "Giuseppe Casale",
-            "pageView": 7213
-        },
-        {
-            "page": "Federico Rossi (ingegnere)",
-            "pageView": 5314
-        },
-        {
-            "page": "Romeo Oliva",
-            "pageView": 4291
+            "pageView": 9,
+            "total": 14935
         },
         {
             "page": "Francesco Castiello",
-            "pageView": 3835
+            "pageView": 8,
+            "total": 3838
         },
         {
-            "page": "Girolamo Verallo",
-            "pageView": 3613
+            "page": "Ciro Miniero",
+            "pageView": 5,
+            "total": 8074
         },
         {
-            "page": "Raffaele De Giuli",
-            "pageView": 3493
+            "page": "Giuseppe Casale",
+            "pageView": 4,
+            "total": 7216
+        },
+        {
+            "page": "Federico Rossi (ingegnere)",
+            "pageView": 4,
+            "total": 5316
+        },
+        {
+            "page": "Giuseppe Rocco Favale",
+            "pageView": 3,
+            "total": 7703
+        },
+        {
+            "page": "Romeo Oliva",
+            "pageView": 3,
+            "total": 4293
         },
         {
             "page": "Francesco Sfondrati",
-            "pageView": 3175
+            "pageView": 2,
+            "total": 3179
         },
         {
             "page": "Giovanni Lanzalone",
-            "pageView": 2900
+            "pageView": 2,
+            "total": 2900
+        },
+        {
+            "page": "Raffaele De Giuli",
+            "pageView": 2,
+            "total": 3493
         },
         {
             "page": "Enrico Cenni",
-            "pageView": 2406
+            "pageView": 2,
+            "total": 2407
         },
         {
-            "page": "Domenico Savarese",
-            "pageView": 1912
-        },
-        {
-            "page": "Alberto Pironti",
-            "pageView": 1641
-        },
-        {
-            "page": "Giuseppe Ripa",
-            "pageView": 1571
+            "page": "Girolamo Verallo",
+            "pageView": 2,
+            "total": 3615
         },
         {
             "page": "Elisa Oricchio",
-            "pageView": 1305
-        },
-        {
-            "page": "Nicola Imbriaco",
-            "pageView": 1226
-        },
-        {
-            "page": "Antonio La Gloria",
-            "pageView": 1017
+            "pageView": 1,
+            "total": 1305
         },
         {
             "page": "Biagio D'Agostino",
-            "pageView": 865
+            "pageView": 1,
+            "total": 867
         },
         {
-            "page": "Enrico Loffredo",
-            "pageView": 693
+            "page": "Giuseppe Ripa",
+            "pageView": 1,
+            "total": 1571
         },
         {
-            "page": "Antonio Valiante",
-            "pageView": 441
+            "page": "Nicola Imbriaco",
+            "pageView": 1,
+            "total": 1227
+        },
+        {
+            "page": "Domenico Savarese",
+            "pageView": 1,
+            "total": 1912
+        },
+        {
+            "page": "Antonio La Gloria",
+            "pageView": 1,
+            "total": 1017
+        },
+        {
+            "page": "Alberto Pironti",
+            "pageView": 1,
+            "total": 1642
         },
         {
             "page": "Pietro Antonio Raimondi",
-            "pageView": 116
+            "pageView": 0,
+            "total": 116
+        },
+        {
+            "page": "Enrico Loffredo",
+            "pageView": 0,
+            "total": 693
+        },
+        {
+            "page": "Antonio Valiante",
+            "pageView": 0,
+            "total": 449
         }
     ]
 }

@@ -3,223 +3,278 @@
     "people": [
         {
             "page": "Umberto Bindi",
-            "pageView": 232150
+            "pageView": 89,
+            "total": 232216
         },
         {
             "page": "Steve Coy",
-            "pageView": 29090
+            "pageView": 13,
+            "total": 29106
         },
         {
             "page": "Eraldo Pizzo",
-            "pageView": 18366
+            "pageView": 10,
+            "total": 18381
         },
         {
             "page": "Giuseppe Porzio",
-            "pageView": 13807
-        },
-        {
-            "page": "Roberta Bianconi",
-            "pageView": 12382
-        },
-        {
-            "page": "Teresa Frassinetti",
-            "pageView": 8231
+            "pageView": 7.5,
+            "total": 13812
         },
         {
             "page": "Carina Massone Negrone",
-            "pageView": 8060
+            "pageView": 5,
+            "total": 8069
         },
         {
-            "page": "Edoardo Di Somma",
-            "pageView": 6425
-        },
-        {
-            "page": "Tommaso Negri",
-            "pageView": 6058
-        },
-        {
-            "page": "Lorenzo Bruni",
-            "pageView": 5691
+            "page": "Roberta Bianconi",
+            "pageView": 4,
+            "total": 12387
         },
         {
             "page": "Adalberto Garelli",
-            "pageView": 5517
+            "pageView": 4,
+            "total": 5521
         },
         {
-            "page": "Arnaldo Deserti",
-            "pageView": 4898
+            "page": "Tommaso Negri",
+            "pageView": 4,
+            "total": 6062
+        },
+        {
+            "page": "Edoardo Di Somma",
+            "pageView": 4,
+            "total": 6439
         },
         {
             "page": "Olexandr Sadovyy",
-            "pageView": 4688
+            "pageView": 3,
+            "total": 4690
         },
         {
-            "page": "Giovanni Bianco",
-            "pageView": 4563
+            "page": "Lorenzo Bruni",
+            "pageView": 3,
+            "total": 5697
         },
         {
             "page": "Steven Camilleri",
-            "pageView": 4472
+            "pageView": 3,
+            "total": 4473
+        },
+        {
+            "page": "Giovanni Bianco",
+            "pageView": 3,
+            "total": 4569
+        },
+        {
+            "page": "Arnaldo Deserti",
+            "pageView": 3,
+            "total": 4900
+        },
+        {
+            "page": "Teresa Frassinetti",
+            "pageView": 3,
+            "total": 8236
         },
         {
             "page": "Daniele Bettini",
-            "pageView": 3740
-        },
-        {
-            "page": "Marco Mugnaini",
-            "pageView": 3692
-        },
-        {
-            "page": "Alessandro Di Somma",
-            "pageView": 3672
-        },
-        {
-            "page": "Luca Marziali",
-            "pageView": 3614
-        },
-        {
-            "page": "Paolo Ragosa",
-            "pageView": 3566
-        },
-        {
-            "page": "Giulia Rambaldi",
-            "pageView": 3214
-        },
-        {
-            "page": "Matteo Sacco",
-            "pageView": 2908
-        },
-        {
-            "page": "Tommaso Vergano",
-            "pageView": 2750
-        },
-        {
-            "page": "Gian Marco Guidaldi",
-            "pageView": 2736
-        },
-        {
-            "page": "Fabio Gambacorta",
-            "pageView": 2644
-        },
-        {
-            "page": "Robert Dinu",
-            "pageView": 2590
-        },
-        {
-            "page": "Roman Di Somma",
-            "pageView": 2540
-        },
-        {
-            "page": "Giacomo Lanzoni",
-            "pageView": 2521
-        },
-        {
-            "page": "Daniele Magalotti",
-            "pageView": 2316
-        },
-        {
-            "page": "Edoardo Caliogna",
-            "pageView": 2228
-        },
-        {
-            "page": "Dubravko Šimenc",
-            "pageView": 2015
-        },
-        {
-            "page": "Simone Mina",
-            "pageView": 1970
-        },
-        {
-            "page": "Alessandro Caliogna",
-            "pageView": 1957
-        },
-        {
-            "page": "Jonathan Del Galdo",
-            "pageView": 1951
-        },
-        {
-            "page": "Luca Minetti",
-            "pageView": 1921
-        },
-        {
-            "page": "Alfredo Agostoni",
-            "pageView": 1855
-        },
-        {
-            "page": "Giacomo Boero",
-            "pageView": 1790
+            "pageView": 2,
+            "total": 3742
         },
         {
             "page": "Lorenzo Vespa",
-            "pageView": 1746
+            "pageView": 2,
+            "total": 1747
         },
         {
-            "page": "Lorenzo Barillari",
-            "pageView": 1738
+            "page": "Tommaso Vergano",
+            "pageView": 2,
+            "total": 2750
+        },
+        {
+            "page": "Dubravko Šimenc",
+            "pageView": 2,
+            "total": 2015
+        },
+        {
+            "page": "Alessandro Caliogna",
+            "pageView": 2,
+            "total": 1962
+        },
+        {
+            "page": "Edoardo Caliogna",
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Daniele Magalotti",
+            "pageView": 2,
+            "total": 2317
+        },
+        {
+            "page": "Roman Di Somma",
+            "pageView": 2,
+            "total": 2540
+        },
+        {
+            "page": "Matteo Sacco",
+            "pageView": 2,
+            "total": 2908
+        },
+        {
+            "page": "Marco Mugnaini",
+            "pageView": 2,
+            "total": 3692
+        },
+        {
+            "page": "Alessandro Di Somma",
+            "pageView": 2,
+            "total": 3677
+        },
+        {
+            "page": "Giulia Rambaldi",
+            "pageView": 2,
+            "total": 3214
+        },
+        {
+            "page": "Jonathan Del Galdo",
+            "pageView": 2,
+            "total": 1951
+        },
+        {
+            "page": "Robert Dinu",
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Luca Minetti",
+            "pageView": 2,
+            "total": 1922
+        },
+        {
+            "page": "Paolo Ragosa",
+            "pageView": 2,
+            "total": 3566
+        },
+        {
+            "page": "Luca Marziali",
+            "pageView": 2,
+            "total": 3615
+        },
+        {
+            "page": "Fabio Gambacorta",
+            "pageView": 2,
+            "total": 2644
+        },
+        {
+            "page": "Giacomo Lanzoni",
+            "pageView": 2,
+            "total": 2522
+        },
+        {
+            "page": "Gian Marco Guidaldi",
+            "pageView": 2,
+            "total": 2737
         },
         {
             "page": "Viktor Jelenić",
-            "pageView": 1707
-        },
-        {
-            "page": "Luka Sekulić",
-            "pageView": 1517
-        },
-        {
-            "page": "Samuele Avallone",
-            "pageView": 1470
-        },
-        {
-            "page": "Rajmund Fodor",
-            "pageView": 1357
-        },
-        {
-            "page": "Zsolt Petőváry",
-            "pageView": 1356
-        },
-        {
-            "page": "Giulio Rezasco",
-            "pageView": 1343
-        },
-        {
-            "page": "Heiko Nossek",
-            "pageView": 1274
-        },
-        {
-            "page": "Jeff Powers",
-            "pageView": 1227
-        },
-        {
-            "page": "Giovanni Graffigna",
-            "pageView": 1199
-        },
-        {
-            "page": "Boris Popović (1979)",
-            "pageView": 1194
-        },
-        {
-            "page": "Slavko Gak",
-            "pageView": 1100
-        },
-        {
-            "page": "Michele Capanna",
-            "pageView": 1002
+            "pageView": 1,
+            "total": 1707
         },
         {
             "page": "Christopher Washburn",
-            "pageView": 987
+            "pageView": 1,
+            "total": 987
         },
         {
-            "page": "Raimondo Sirotti",
-            "pageView": 976
+            "page": "Slavko Gak",
+            "pageView": 1,
+            "total": 1101
+        },
+        {
+            "page": "Simone Mina",
+            "pageView": 1,
+            "total": 1975
+        },
+        {
+            "page": "Rajmund Fodor",
+            "pageView": 1,
+            "total": 1358
+        },
+        {
+            "page": "Giulio Rezasco",
+            "pageView": 1,
+            "total": 1343
+        },
+        {
+            "page": "Michele Capanna",
+            "pageView": 1,
+            "total": 1003
+        },
+        {
+            "page": "Heiko Nossek",
+            "pageView": 1,
+            "total": 1274
+        },
+        {
+            "page": "Zsolt Petőváry",
+            "pageView": 1,
+            "total": 1356
+        },
+        {
+            "page": "Giacomo Boero",
+            "pageView": 1,
+            "total": 1790
+        },
+        {
+            "page": "Giovanni Graffigna",
+            "pageView": 1,
+            "total": 1199
+        },
+        {
+            "page": "Jeff Powers",
+            "pageView": 1,
+            "total": 1228
+        },
+        {
+            "page": "Alfredo Agostoni",
+            "pageView": 1,
+            "total": 1856
+        },
+        {
+            "page": "Lorenzo Barillari",
+            "pageView": 1,
+            "total": 1739
+        },
+        {
+            "page": "Samuele Avallone",
+            "pageView": 1,
+            "total": 1470
+        },
+        {
+            "page": "Luka Sekulić",
+            "pageView": 1,
+            "total": 1517
+        },
+        {
+            "page": "Boris Popović (1979)",
+            "pageView": 1,
+            "total": 1195
         },
         {
             "page": "Andrej Belofastov",
-            "pageView": 221
+            "pageView": 0,
+            "total": 221
+        },
+        {
+            "page": "Raimondo Sirotti",
+            "pageView": 0,
+            "total": 977
         },
         {
             "page": "Francesco Di Donna",
-            "pageView": 168
+            "pageView": 0,
+            "total": 168
         }
     ]
 }

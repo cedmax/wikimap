@@ -1,0 +1,27 @@
+{
+    "id": "place.9021398149878910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gambellara",
+    "place_name": "Gambellara, Vicenza, Italy",
+    "bbox": [
+        11.31796,
+        45.415945,
+        11.358417,
+        45.482204
+    ],
+    "center": [
+        11.33333,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.33333,
+            45.46667
+        ]
+    }
+}

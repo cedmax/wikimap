@@ -1,0 +1,27 @@
+{
+    "id": "place.14540993735177090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Marina",
+    "place_name": "Santa Marina, Salerno, Italy",
+    "bbox": [
+        15.486572,
+        40.060325,
+        15.558837,
+        40.133411
+    ],
+    "center": [
+        15.5405,
+        40.1043
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.5405,
+            40.1043
+        ]
+    }
+}

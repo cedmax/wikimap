@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Matteo Martino",
-            "pageView": 40814
+            "pageView": 14,
+            "total": 40823
         },
         {
             "page": "Gianfranco Bianco",
-            "pageView": 15637
+            "pageView": 8,
+            "total": 15644
         },
         {
             "page": "Mattia Rosso",
-            "pageView": 5789
+            "pageView": 3,
+            "total": 5792
         },
         {
             "page": "Teresio Delfino",
-            "pageView": 5110
+            "pageView": 3,
+            "total": 5113
         },
         {
             "page": "Giuseppe Fassino",
-            "pageView": 3173
+            "pageView": 2,
+            "total": 3173
         },
         {
             "page": "Riccardo Gallia",
-            "pageView": 2498
-        },
-        {
-            "page": "Cesare Ponza di San Martino",
-            "pageView": 2015
+            "pageView": 2,
+            "total": 2499
         },
         {
             "page": "Luca Mantoan",
-            "pageView": 1982
+            "pageView": 2,
+            "total": 1984
+        },
+        {
+            "page": "Cesare Ponza di San Martino",
+            "pageView": 2,
+            "total": 2015
         },
         {
             "page": "Giovanni Parola",
-            "pageView": 1742
-        },
-        {
-            "page": "Costanzo Rinaudo",
-            "pageView": 1572
+            "pageView": 1,
+            "total": 1742
         },
         {
             "page": "Mirko Gerbi",
-            "pageView": 1227
+            "pageView": 1,
+            "total": 1227
+        },
+        {
+            "page": "Costanzo Rinaudo",
+            "pageView": 1,
+            "total": 1572
         }
     ]
 }

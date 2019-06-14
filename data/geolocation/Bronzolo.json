@@ -1,0 +1,29 @@
+{
+    "id": "place.13900251854039230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bronzolo - Branzoll",
+    "place_name": "Bronzolo - Branzoll, Bolzano, Italy",
+    "matching_text": "Bronzolo",
+    "matching_place_name": "Bronzolo, Bolzano, Italy",
+    "bbox": [
+        11.296423,
+        46.37616,
+        11.342579,
+        46.414239
+    ],
+    "center": [
+        11.31667,
+        46.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            46.4
+        ]
+    }
+}

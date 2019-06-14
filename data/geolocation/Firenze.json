@@ -1,0 +1,27 @@
+{
+    "id": "place.8996056115957560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Firenze",
+    "place_name": "Firenze, Firenze, Italy",
+    "bbox": [
+        11.149911,
+        43.72593,
+        11.340048,
+        43.83523
+    ],
+    "center": [
+        11.25417,
+        43.77139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.25417,
+            43.77139
+        ]
+    }
+}

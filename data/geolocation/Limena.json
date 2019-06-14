@@ -1,0 +1,27 @@
+{
+    "id": "place.9378952149338580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limena",
+    "place_name": "Limena, Padova, Italy",
+    "bbox": [
+        11.807444,
+        45.44854,
+        11.86345,
+        45.507296
+    ],
+    "center": [
+        11.85,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.85,
+            45.46667
+        ]
+    }
+}

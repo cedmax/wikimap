@@ -1,0 +1,27 @@
+{
+    "id": "place.9901028445553610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palestrina",
+    "place_name": "Palestrina, Roma, Italy",
+    "bbox": [
+        12.79558,
+        41.760151,
+        12.919451,
+        41.868294
+    ],
+    "center": [
+        12.9,
+        41.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9,
+            41.83333
+        ]
+    }
+}

@@ -2,48 +2,59 @@
     "name": "San Fratello",
     "people": [
         {
-            "page": "Benedetto da San Fratello",
-            "pageView": 22644
+            "page": "Antonino Di Giorgio",
+            "pageView": 13,
+            "total": 21370
         },
         {
-            "page": "Antonino Di Giorgio",
-            "pageView": 21358
+            "page": "Benedetto da San Fratello",
+            "pageView": 12,
+            "total": 22654
         },
         {
             "page": "Joe Stracci",
-            "pageView": 5134
+            "pageView": 3,
+            "total": 5143
         },
         {
             "page": "Giuseppe Ricca Salerno",
-            "pageView": 2655
+            "pageView": 2,
+            "total": 2655
         },
         {
             "page": "Paolo Ricca Salerno",
-            "pageView": 1871
+            "pageView": 2,
+            "total": 1872
         },
         {
             "page": "Luigi Vasi",
-            "pageView": 1853
-        },
-        {
-            "page": "Benedetto Rubino",
-            "pageView": 1749
-        },
-        {
-            "page": "Domenico Giovanni Candela",
-            "pageView": 1629
-        },
-        {
-            "page": "Filadelfio Caroniti",
-            "pageView": 1620
-        },
-        {
-            "page": "Giuseppe Caiola",
-            "pageView": 1536
+            "pageView": 1,
+            "total": 1853
         },
         {
             "page": "Ferdinando Tetamo",
-            "pageView": 1345
+            "pageView": 1,
+            "total": 1345
+        },
+        {
+            "page": "Giuseppe Caiola",
+            "pageView": 1,
+            "total": 1538
+        },
+        {
+            "page": "Benedetto Rubino",
+            "pageView": 1,
+            "total": 1749
+        },
+        {
+            "page": "Domenico Giovanni Candela",
+            "pageView": 1,
+            "total": 1630
+        },
+        {
+            "page": "Filadelfio Caroniti",
+            "pageView": 1,
+            "total": 1628
         }
     ]
 }

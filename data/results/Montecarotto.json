@@ -2,44 +2,54 @@
     "name": "Montecarotto",
     "people": [
         {
+            "page": "Antonio Galli (orologiaio)",
+            "pageView": 2,
+            "total": 2037
+        },
+        {
             "page": "Lorenzo Bucci",
-            "pageView": 2942
+            "pageView": 2,
+            "total": 2942
         },
         {
             "page": "Gallo Galli",
-            "pageView": 2250
-        },
-        {
-            "page": "Antonio Galli (orologiaio)",
-            "pageView": 2036
+            "pageView": 2,
+            "total": 2251
         },
         {
             "page": "Dario Rossetti",
-            "pageView": 1766
-        },
-        {
-            "page": "Pietro Mei",
-            "pageView": 1758
-        },
-        {
-            "page": "Pompeo Baldoni",
-            "pageView": 1229
-        },
-        {
-            "page": "Giuseppe Magagnini",
-            "pageView": 1174
+            "pageView": 2,
+            "total": 1767
         },
         {
             "page": "Guerrino Cucchi",
-            "pageView": 1132
+            "pageView": 1,
+            "total": 1132
         },
         {
-            "page": "Pietro Solazzi",
-            "pageView": 942
+            "page": "Giuseppe Magagnini",
+            "pageView": 1,
+            "total": 1175
+        },
+        {
+            "page": "Pietro Mei",
+            "pageView": 1,
+            "total": 1758
+        },
+        {
+            "page": "Pompeo Baldoni",
+            "pageView": 1,
+            "total": 1229
         },
         {
             "page": "Padre Girolamo Davado",
-            "pageView": 882
+            "pageView": 1,
+            "total": 883
+        },
+        {
+            "page": "Pietro Solazzi",
+            "pageView": 1,
+            "total": 943
         }
     ]
 }

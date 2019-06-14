@@ -1,0 +1,27 @@
+{
+    "id": "place.12365138264631160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pompiano",
+    "place_name": "Pompiano, Brescia, Italy",
+    "bbox": [
+        9.96542,
+        45.387596,
+        10.027108,
+        45.450669
+    ],
+    "center": [
+        9.98333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            45.43333
+        ]
+    }
+}

@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Lorenzo Ornaghi",
-            "pageView": 30420
+            "pageView": 19,
+            "total": 30431
         },
         {
             "page": "Andrea Oggioni",
-            "pageView": 25341
-        },
-        {
-            "page": "Silvano Villa",
-            "pageView": 11730
-        },
-        {
-            "page": "Giulio Oggioni",
-            "pageView": 5964
+            "pageView": 14,
+            "total": 25371
         },
         {
             "page": "Martina Maggio",
-            "pageView": 4440
+            "pageView": 9,
+            "total": 4450
         },
         {
-            "page": "Lino Villa",
-            "pageView": 4403
+            "page": "Silvano Villa",
+            "pageView": 8,
+            "total": 11735
+        },
+        {
+            "page": "Giulio Oggioni",
+            "pageView": 4,
+            "total": 5965
         },
         {
             "page": "Donato Piazza",
-            "pageView": 2977
+            "pageView": 2,
+            "total": 2977
+        },
+        {
+            "page": "Lino Villa",
+            "pageView": 2,
+            "total": 4406
         }
     ]
 }

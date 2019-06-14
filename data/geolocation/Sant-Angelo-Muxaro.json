@@ -1,0 +1,27 @@
+{
+    "id": "place.4941383742533720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo Muxaro",
+    "place_name": "Sant'Angelo Muxaro, Agrigento, Italy",
+    "bbox": [
+        13.434131,
+        37.434186,
+        13.615282,
+        37.49557
+    ],
+    "center": [
+        13.54639,
+        37.48083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.54639,
+            37.48083
+        ]
+    }
+}

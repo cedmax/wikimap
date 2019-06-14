@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Ferdinando II di Napoli",
-            "pageView": 53951
-        },
-        {
-            "page": "Biagio Meccariello",
-            "pageView": 39680
+            "pageView": 35,
+            "total": 53980
         },
         {
             "page": "Raffaele Di Fusco",
-            "pageView": 37211
+            "pageView": 23,
+            "total": 37228
         },
         {
             "page": "Ciro Muro",
-            "pageView": 32577
+            "pageView": 20,
+            "total": 32596
         },
         {
-            "page": "Michele Di Piedi",
-            "pageView": 29158
+            "page": "Biagio Meccariello",
+            "pageView": 18,
+            "total": 39711
         },
         {
             "page": "Nello Di Costanzo",
-            "pageView": 25266
+            "pageView": 15,
+            "total": 25290
+        },
+        {
+            "page": "Michele Di Piedi",
+            "pageView": 9,
+            "total": 29160
         },
         {
             "page": "Egidio Pirozzi",
-            "pageView": 11853
-        },
-        {
-            "page": "Gaetano Arfé",
-            "pageView": 6815
-        },
-        {
-            "page": "Giuseppe Fornaciari (calciatore)",
-            "pageView": 6137
-        },
-        {
-            "page": "Paolo Ramora",
-            "pageView": 5538
-        },
-        {
-            "page": "Guido De Martino",
-            "pageView": 5474
-        },
-        {
-            "page": "Youssouf Kamara",
-            "pageView": 5105
-        },
-        {
-            "page": "Pina Tufano",
-            "pageView": 5034
-        },
-        {
-            "page": "Giuseppe Demitry",
-            "pageView": 4370
-        },
-        {
-            "page": "Salvatore Abbruzzese",
-            "pageView": 4049
+            "pageView": 6,
+            "total": 11861
         },
         {
             "page": "Domenico Giugliano",
-            "pageView": 3397
+            "pageView": 4,
+            "total": 3401
         },
         {
-            "page": "Francesco Barra",
-            "pageView": 3178
+            "page": "Giuseppe Fornaciari (calciatore)",
+            "pageView": 4,
+            "total": 6140
         },
         {
-            "page": "Tancredi Cimmino",
-            "pageView": 2880
+            "page": "Gaetano Arfé",
+            "pageView": 4,
+            "total": 6817
+        },
+        {
+            "page": "Guido De Martino",
+            "pageView": 4,
+            "total": 5474
+        },
+        {
+            "page": "Salvatore Abbruzzese",
+            "pageView": 3,
+            "total": 4053
+        },
+        {
+            "page": "Pina Tufano",
+            "pageView": 3,
+            "total": 5037
         },
         {
             "page": "Giacomantonio Tufano",
-            "pageView": 2385
+            "pageView": 3,
+            "total": 2388
+        },
+        {
+            "page": "Giuseppe Demitry",
+            "pageView": 3,
+            "total": 4372
+        },
+        {
+            "page": "Youssouf Kamara",
+            "pageView": 3,
+            "total": 5111
+        },
+        {
+            "page": "Paolo Ramora",
+            "pageView": 3,
+            "total": 5540
+        },
+        {
+            "page": "Tancredi Cimmino",
+            "pageView": 2,
+            "total": 2880
+        },
+        {
+            "page": "Francesco Barra",
+            "pageView": 2,
+            "total": 3178
         }
     ]
 }

@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Giacomo Zanella",
-            "pageView": 29756
+            "pageView": 16,
+            "total": 29772
         },
         {
             "page": "Andrea Rabito",
-            "pageView": 14751
+            "pageView": 9,
+            "total": 14755
         },
         {
             "page": "Antonio Girardo",
-            "pageView": 6832
-        },
-        {
-            "page": "Leandro Fusaro",
-            "pageView": 2456
-        },
-        {
-            "page": "Sereno Gianesello",
-            "pageView": 2251
+            "pageView": 4,
+            "total": 6841
         },
         {
             "page": "Giorgio Golin",
-            "pageView": 1969
+            "pageView": 2,
+            "total": 1970
+        },
+        {
+            "page": "Leandro Fusaro",
+            "pageView": 2,
+            "total": 2456
+        },
+        {
+            "page": "Sereno Gianesello",
+            "pageView": 2,
+            "total": 2253
         }
     ]
 }

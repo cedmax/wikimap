@@ -2,148 +2,184 @@
     "name": "Putignano",
     "people": [
         {
-            "page": "Piero Colaprico",
-            "pageView": 26684
+            "page": "Renato Olive",
+            "pageView": 16,
+            "total": 25156
         },
         {
-            "page": "Renato Olive",
-            "pageView": 25144
+            "page": "Piero Colaprico",
+            "pageView": 16,
+            "total": 26702
         },
         {
             "page": "Antonio Leone",
-            "pageView": 22962
+            "pageView": 13,
+            "total": 22977
         },
         {
             "page": "Gilberto D'Ignazio Pulpito",
-            "pageView": 13376
+            "pageView": 8,
+            "total": 13385
         },
         {
             "page": "Giuseppe Pugliese (calciatore)",
-            "pageView": 12284
-        },
-        {
-            "page": "Luca Leggiero",
-            "pageView": 8328
+            "pageView": 7,
+            "total": 12290
         },
         {
             "page": "Giovanni Laterza",
-            "pageView": 7515
+            "pageView": 5,
+            "total": 7521
         },
         {
             "page": "Stefano da Putignano",
-            "pageView": 7255
-        },
-        {
-            "page": "Vincenzo Silvano Casulli",
-            "pageView": 6574
+            "pageView": 4,
+            "total": 7255
         },
         {
             "page": "Angelo D'Alessandro",
-            "pageView": 6169
+            "pageView": 4,
+            "total": 6171
         },
         {
-            "page": "Pierfelice Zazzera",
-            "pageView": 3600
+            "page": "Luca Leggiero",
+            "pageView": 4,
+            "total": 8332
         },
         {
-            "page": "Leonardo Miccolis",
-            "pageView": 3175
-        },
-        {
-            "page": "Denilson Manzali",
-            "pageView": 2516
-        },
-        {
-            "page": "Giovanni Cesare Netti",
-            "pageView": 2442
-        },
-        {
-            "page": "Pietro Mezzapesa",
-            "pageView": 2306
-        },
-        {
-            "page": "Esteban Arellano",
-            "pageView": 2106
-        },
-        {
-            "page": "Bruno Alexandre da Silva",
-            "pageView": 2106
-        },
-        {
-            "page": "Eduardo Dias",
-            "pageView": 2084
-        },
-        {
-            "page": "Fernando Silveira",
-            "pageView": 2025
-        },
-        {
-            "page": "Gustavo Menini",
-            "pageView": 1960
-        },
-        {
-            "page": "Adelmo Pereira",
-            "pageView": 1872
-        },
-        {
-            "page": "Paolo Rotondo (giocatore di calcio a 5)",
-            "pageView": 1768
-        },
-        {
-            "page": "Fabio Bachega",
-            "pageView": 1759
-        },
-        {
-            "page": "Nilson Araújo da Silva",
-            "pageView": 1733
-        },
-        {
-            "page": "Tadeu Sartori",
-            "pageView": 1720
-        },
-        {
-            "page": "Giorgio Vinella",
-            "pageView": 1667
-        },
-        {
-            "page": "Francesco Palvisino",
-            "pageView": 1633
-        },
-        {
-            "page": "Piero Basile",
-            "pageView": 1587
+            "page": "Vincenzo Silvano Casulli",
+            "pageView": 3,
+            "total": 6579
         },
         {
             "page": "Giorgia Lepore (scrittrice)",
-            "pageView": 1492
+            "pageView": 3,
+            "total": 1497
         },
         {
-            "page": "Marcos Bernardi",
-            "pageView": 1411
+            "page": "Piero Basile",
+            "pageView": 2,
+            "total": 1588
         },
         {
-            "page": "Gil Marques",
-            "pageView": 1386
+            "page": "Gustavo Menini",
+            "pageView": 2,
+            "total": 1960
         },
         {
-            "page": "Thyago Piffer",
-            "pageView": 1240
+            "page": "Pietro Mezzapesa",
+            "pageView": 2,
+            "total": 2309
         },
         {
-            "page": "Jair Dalle Molle",
-            "pageView": 1183
+            "page": "Adelmo Pereira",
+            "pageView": 2,
+            "total": 1874
+        },
+        {
+            "page": "Esteban Arellano",
+            "pageView": 2,
+            "total": 2106
+        },
+        {
+            "page": "Paolo Rotondo (giocatore di calcio a 5)",
+            "pageView": 2,
+            "total": 1770
+        },
+        {
+            "page": "Fernando Silveira",
+            "pageView": 2,
+            "total": 2025
+        },
+        {
+            "page": "Giovanni Cesare Netti",
+            "pageView": 2,
+            "total": 2442
+        },
+        {
+            "page": "Leonardo Miccolis",
+            "pageView": 2,
+            "total": 3177
+        },
+        {
+            "page": "Bruno Alexandre da Silva",
+            "pageView": 2,
+            "total": 2110
+        },
+        {
+            "page": "Eduardo Dias",
+            "pageView": 2,
+            "total": 2085
+        },
+        {
+            "page": "Pierfelice Zazzera",
+            "pageView": 2,
+            "total": 3602
+        },
+        {
+            "page": "Denilson Manzali",
+            "pageView": 2,
+            "total": 2518
+        },
+        {
+            "page": "Tadeu Sartori",
+            "pageView": 1,
+            "total": 1722
         },
         {
             "page": "Rafael Teixeira",
-            "pageView": 1104
+            "pageView": 1,
+            "total": 1104
         },
         {
-            "page": "Sebastiano Giannandrea",
-            "pageView": 645
+            "page": "Giorgio Vinella",
+            "pageView": 1,
+            "total": 1668
+        },
+        {
+            "page": "Nilson Araújo da Silva",
+            "pageView": 1,
+            "total": 1734
+        },
+        {
+            "page": "Marcos Bernardi",
+            "pageView": 1,
+            "total": 1412
+        },
+        {
+            "page": "Fabio Bachega",
+            "pageView": 1,
+            "total": 1759
+        },
+        {
+            "page": "Thyago Piffer",
+            "pageView": 1,
+            "total": 1240
+        },
+        {
+            "page": "Francesco Palvisino",
+            "pageView": 1,
+            "total": 1634
+        },
+        {
+            "page": "Jair Dalle Molle",
+            "pageView": 1,
+            "total": 1183
+        },
+        {
+            "page": "Gil Marques",
+            "pageView": 1,
+            "total": 1387
         },
         {
             "page": "Orazio Lerario",
-            "pageView": 638
+            "pageView": 0,
+            "total": 640
+        },
+        {
+            "page": "Sebastiano Giannandrea",
+            "pageView": 0,
+            "total": 645
         }
     ]
 }

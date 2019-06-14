@@ -2,20 +2,24 @@
     "name": "Gavello",
     "people": [
         {
-            "page": "Ugo Zagato",
-            "pageView": 11049
-        },
-        {
             "page": "Massimo Bergamin",
-            "pageView": 5463
+            "pageView": 10,
+            "total": 5487
         },
         {
-            "page": "Vincenzo Toffano",
-            "pageView": 370
+            "page": "Ugo Zagato",
+            "pageView": 7,
+            "total": 11070
         },
         {
             "page": "Lucia Cominato",
-            "pageView": 224
+            "pageView": 0,
+            "total": 225
+        },
+        {
+            "page": "Vincenzo Toffano",
+            "pageView": 0,
+            "total": 371
         }
     ]
 }

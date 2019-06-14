@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Franchino",
-            "pageView": 456508
+            "pageView": 247,
+            "total": 456696
         },
         {
             "page": "Ducezio",
-            "pageView": 22575
+            "pageView": 14,
+            "total": 22584
         },
         {
             "page": "Stefano Orlando",
-            "pageView": 8900
+            "pageView": 6,
+            "total": 8906
         },
         {
             "page": "Cecilio di Calacte",
-            "pageView": 4772
-        },
-        {
-            "page": "Silvestro Prestifilippo",
-            "pageView": 1912
+            "pageView": 3,
+            "total": 4775
         },
         {
             "page": "Angelo Azzolina",
-            "pageView": 1849
+            "pageView": 2,
+            "total": 1849
+        },
+        {
+            "page": "Silvestro Prestifilippo",
+            "pageView": 2,
+            "total": 1913
         }
     ]
 }

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Felice Gajo",
-            "pageView": 5592
+            "pageView": 3,
+            "total": 5598
         },
         {
             "page": "Benito Bollati",
-            "pageView": 2304
+            "pageView": 2,
+            "total": 2306
         },
         {
             "page": "Edmondo Colombi",
-            "pageView": 1301
+            "pageView": 1,
+            "total": 1301
         }
     ]
 }

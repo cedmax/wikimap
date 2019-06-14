@@ -1,0 +1,27 @@
+{
+    "id": "place.2713478881498700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mottola",
+    "place_name": "Mottola, Taranto, Italy",
+    "bbox": [
+        16.923231,
+        40.602728,
+        17.203903,
+        40.76154
+    ],
+    "center": [
+        17.03333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.03333,
+            40.63333
+        ]
+    }
+}

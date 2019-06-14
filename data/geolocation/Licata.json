@@ -1,0 +1,27 @@
+{
+    "id": "place.5221007869180820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Licata",
+    "place_name": "Licata, Agrigento, Italy",
+    "bbox": [
+        13.813449,
+        37.084428,
+        14.038762,
+        37.23441
+    ],
+    "center": [
+        13.94694,
+        37.10833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.94694,
+            37.10833
+        ]
+    }
+}

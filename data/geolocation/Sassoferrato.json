@@ -1,0 +1,27 @@
+{
+    "id": "place.5748701621028850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sassoferrato",
+    "place_name": "Sassoferrato, Ancona, Italy",
+    "bbox": [
+        12.747864,
+        43.365614,
+        12.909622,
+        43.536007
+    ],
+    "center": [
+        12.85652,
+        43.42747
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.85652,
+            43.42747
+        ]
+    }
+}

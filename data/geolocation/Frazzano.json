@@ -1,0 +1,27 @@
+{
+    "id": "place.9437029585668970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frazzanò",
+    "place_name": "Frazzanò, Messina, Italy",
+    "bbox": [
+        14.728382,
+        38.047637,
+        14.765987,
+        38.081948
+    ],
+    "center": [
+        14.75,
+        38.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.75,
+            38.06667
+        ]
+    }
+}

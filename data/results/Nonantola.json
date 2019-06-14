@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Maria Cecilia Guerra",
-            "pageView": 43293
+            "pageView": 16,
+            "total": 43305
         },
         {
             "page": "Erio Castellucci",
-            "pageView": 22156
-        },
-        {
-            "page": "Fausto Guerzoni",
-            "pageView": 17103
-        },
-        {
-            "page": "Benito Cocchi",
-            "pageView": 16126
+            "pageView": 14,
+            "total": 22166
         },
         {
             "page": "Bruno Foresti",
-            "pageView": 14659
+            "pageView": 9,
+            "total": 14668
         },
         {
             "page": "Giovanni Gerolamo Morone",
-            "pageView": 13743
+            "pageView": 9,
+            "total": 13758
         },
         {
-            "page": "Arrigo Beccari",
-            "pageView": 13548
+            "page": "Fausto Guerzoni",
+            "pageView": 9,
+            "total": 17112
+        },
+        {
+            "page": "Benito Cocchi",
+            "pageView": 9,
+            "total": 16141
         },
         {
             "page": "Antonio Lanfranchi",
-            "pageView": 10975
+            "pageView": 7,
+            "total": 10990
         },
         {
             "page": "Mauro Reggiani",
-            "pageView": 10886
+            "pageView": 7,
+            "total": 10893
         },
         {
-            "page": "Anselmo di Nonantola",
-            "pageView": 8567
+            "page": "Arrigo Beccari",
+            "pageView": 6,
+            "total": 13550
         },
         {
             "page": "Giuseppe Moreali",
-            "pageView": 8151
-        },
-        {
-            "page": "Bartolomeo Santo Quadri",
-            "pageView": 5289
+            "pageView": 4,
+            "total": 8154
         },
         {
             "page": "Erio Tosatti",
-            "pageView": 4235
+            "pageView": 3,
+            "total": 4238
         },
         {
-            "page": "Nicholas Sighinolfi",
-            "pageView": 4024
+            "page": "Anselmo di Nonantola",
+            "pageView": 3,
+            "total": 8572
         },
         {
-            "page": "Pietro Bertani",
-            "pageView": 3636
+            "page": "Bartolomeo Santo Quadri",
+            "pageView": 3,
+            "total": 5291
         },
         {
             "page": "Italo Breviglieri",
-            "pageView": 2679
-        },
-        {
-            "page": "Giambattista Lolli",
-            "pageView": 2445
-        },
-        {
-            "page": "Agostino Melotti",
-            "pageView": 1312
-        },
-        {
-            "page": "Francesco Gonzaga (1593-1643)",
-            "pageView": 1152
+            "pageView": 2,
+            "total": 2681
         },
         {
             "page": "Francesco Gavioli",
-            "pageView": 875
+            "pageView": 2,
+            "total": 876
+        },
+        {
+            "page": "Giambattista Lolli",
+            "pageView": 2,
+            "total": 2446
+        },
+        {
+            "page": "Pietro Bertani",
+            "pageView": 2,
+            "total": 3637
+        },
+        {
+            "page": "Nicholas Sighinolfi",
+            "pageView": 2,
+            "total": 4026
+        },
+        {
+            "page": "Francesco Gonzaga (1593-1643)",
+            "pageView": 2,
+            "total": 1152
+        },
+        {
+            "page": "Agostino Melotti",
+            "pageView": 1,
+            "total": 1316
         },
         {
             "page": "Giorgio Baldini",
-            "pageView": 346
+            "pageView": 0,
+            "total": 347
         }
     ]
 }

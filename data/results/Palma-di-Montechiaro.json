@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Giuseppe Tomasi di Lampedusa",
-            "pageView": 256508
+            "pageView": 157,
+            "total": 256688
         },
         {
             "page": "Gaetano Monachello",
-            "pageView": 209512
+            "pageView": 84,
+            "total": 209623
         },
         {
             "page": "Tomasi di Lampedusa (famiglia)",
-            "pageView": 36503
-        },
-        {
-            "page": "Isabella Tomasi",
-            "pageView": 25357
-        },
-        {
-            "page": "Salvatore Racalbuto",
-            "pageView": 15096
+            "pageView": 23,
+            "total": 36528
         },
         {
             "page": "Giulio Fabrizio Tomasi",
-            "pageView": 14787
+            "pageView": 10,
+            "total": 14803
         },
         {
-            "page": "Giovanni Battista Hodierna",
-            "pageView": 10991
+            "page": "Isabella Tomasi",
+            "pageView": 9,
+            "total": 25375
         },
         {
-            "page": "Giuseppe Maria Tomasi",
-            "pageView": 10589
+            "page": "Salvatore Racalbuto",
+            "pageView": 9,
+            "total": 15103
         },
         {
             "page": "Pietro Tomasi della Torretta",
-            "pageView": 9116
+            "pageView": 6,
+            "total": 9122
+        },
+        {
+            "page": "Giuseppe Maria Tomasi",
+            "pageView": 6,
+            "total": 10601
         },
         {
             "page": "Pietro Ribisi",
-            "pageView": 8401
+            "pageView": 5,
+            "total": 8413
         },
         {
-            "page": "Domenico Provenzani",
-            "pageView": 3386
-        },
-        {
-            "page": "Eugenio D'Orsi",
-            "pageView": 3235
+            "page": "Giovanni Battista Hodierna",
+            "pageView": 5,
+            "total": 10992
         },
         {
             "page": "Giuseppe Petrucci",
-            "pageView": 2969
+            "pageView": 3,
+            "total": 2969
+        },
+        {
+            "page": "Eugenio D'Orsi",
+            "pageView": 2,
+            "total": 3236
         },
         {
             "page": "Domenico D'Orsi",
-            "pageView": 2160
+            "pageView": 2,
+            "total": 2162
         },
         {
             "page": "Mario Alessi (1854-1928)",
-            "pageView": 2049
+            "pageView": 2,
+            "total": 2049
+        },
+        {
+            "page": "Domenico Provenzani",
+            "pageView": 2,
+            "total": 3387
         },
         {
             "page": "Giosuè Fiorentino",
-            "pageView": 1929
+            "pageView": 1,
+            "total": 1930
         },
         {
             "page": "Salvatore Vecchio",
-            "pageView": 757
+            "pageView": 0,
+            "total": 759
         }
     ]
 }

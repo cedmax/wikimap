@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Andrea Zorzi",
-            "pageView": 148365
+            "pageView": 57,
+            "total": 148404
         },
         {
             "page": "Marco Fortin",
-            "pageView": 31618
+            "pageView": 17,
+            "total": 31633
         },
         {
             "page": "Pietro Fortunato Calvi",
-            "pageView": 20902
-        },
-        {
-            "page": "Mario Rigo",
-            "pageView": 7855
+            "pageView": 13,
+            "total": 20921
         },
         {
             "page": "Enrico Bertaggia",
-            "pageView": 7382
+            "pageView": 5,
+            "total": 7382
+        },
+        {
+            "page": "Mario Rigo",
+            "pageView": 5,
+            "total": 7866
         },
         {
             "page": "Egisto Lancerotto",
-            "pageView": 5456
-        },
-        {
-            "page": "Marco Stradiotto",
-            "pageView": 5084
+            "pageView": 3,
+            "total": 5456
         },
         {
             "page": "Alfredo Sabbadin",
-            "pageView": 4289
+            "pageView": 3,
+            "total": 4292
         },
         {
-            "page": "Ileana Salvador",
-            "pageView": 3987
-        },
-        {
-            "page": "Luigi Celeghin",
-            "pageView": 3212
+            "page": "Marco Stradiotto",
+            "pageView": 3,
+            "total": 5087
         },
         {
             "page": "Francesco Di Castri",
-            "pageView": 3115
-        },
-        {
-            "page": "Giovan Battista Rossi",
-            "pageView": 2489
-        },
-        {
-            "page": "Felice Polanzani",
-            "pageView": 2443
+            "pageView": 2,
+            "total": 3116
         },
         {
             "page": "Rhoda de Bellegarde de Saint Lary",
-            "pageView": 2099
+            "pageView": 2,
+            "total": 2101
         },
         {
-            "page": "Mirko Tiepolo",
-            "pageView": 1512
+            "page": "Ileana Salvador",
+            "pageView": 2,
+            "total": 3991
         },
         {
-            "page": "Attilio Cavallini",
-            "pageView": 1498
+            "page": "Giovan Battista Rossi",
+            "pageView": 2,
+            "total": 2489
+        },
+        {
+            "page": "Felice Polanzani",
+            "pageView": 2,
+            "total": 2444
+        },
+        {
+            "page": "Luigi Celeghin",
+            "pageView": 2,
+            "total": 3214
         },
         {
             "page": "Giuseppe Candeo",
-            "pageView": 1252
+            "pageView": 1,
+            "total": 1252
         },
         {
-            "page": "Elisabetta Pierazzo",
-            "pageView": 835
+            "page": "Mirko Tiepolo",
+            "pageView": 1,
+            "total": 1512
+        },
+        {
+            "page": "Attilio Cavallini",
+            "pageView": 1,
+            "total": 1501
         },
         {
             "page": "Francesco Pigozzo",
-            "pageView": 415
+            "pageView": 0,
+            "total": 415
+        },
+        {
+            "page": "Elisabetta Pierazzo",
+            "pageView": 0,
+            "total": 836
         }
     ]
 }

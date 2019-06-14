@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Michele Crisafulli Mondìo",
-            "pageView": 5315
+            "pageView": 3,
+            "total": 5317
         },
         {
             "page": "Filippo Giannetto",
-            "pageView": 3943
-        },
-        {
-            "page": "Rosario Cacopardo",
-            "pageView": 2483
-        },
-        {
-            "page": "Vincenzo Cardile",
-            "pageView": 2405
-        },
-        {
-            "page": "Carmelo Pugliatti",
-            "pageView": 2104
+            "pageView": 3,
+            "total": 3947
         },
         {
             "page": "Michele Crisafulli Trimarchi",
-            "pageView": 1882
+            "pageView": 2,
+            "total": 1883
+        },
+        {
+            "page": "Rosario Cacopardo",
+            "pageView": 2,
+            "total": 2484
+        },
+        {
+            "page": "Vincenzo Cardile",
+            "pageView": 2,
+            "total": 2409
+        },
+        {
+            "page": "Carmelo Pugliatti",
+            "pageView": 2,
+            "total": 2105
         },
         {
             "page": "Domenico Casablanca",
-            "pageView": 1472
+            "pageView": 1,
+            "total": 1472
         }
     ]
 }

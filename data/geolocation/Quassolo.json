@@ -1,0 +1,27 @@
+{
+    "id": "place.5098152678506630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quassolo",
+    "place_name": "Quassolo, Torino, Italy",
+    "bbox": [
+        7.806672,
+        45.515064,
+        7.844309,
+        45.537614
+    ],
+    "center": [
+        7.83333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.83333,
+            45.53333
+        ]
+    }
+}

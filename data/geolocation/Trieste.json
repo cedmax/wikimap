@@ -1,0 +1,27 @@
+{
+    "id": "place.16705007063605080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trieste",
+    "place_name": "Trieste, Trieste, Italy",
+    "bbox": [
+        13.668462,
+        45.60658,
+        13.898587,
+        45.746405
+    ],
+    "center": [
+        13.80417,
+        45.63611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.80417,
+            45.63611
+        ]
+    }
+}

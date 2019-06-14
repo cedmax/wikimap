@@ -1,0 +1,27 @@
+{
+    "id": "place.6834061521281330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozza di Fassa",
+    "place_name": "Pozza di Fassa, Trento, Italy",
+    "bbox": [
+        11.617668,
+        46.385906,
+        11.850671,
+        46.475616
+    ],
+    "center": [
+        11.68774,
+        46.43052
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68774,
+            46.43052
+        ]
+    }
+}

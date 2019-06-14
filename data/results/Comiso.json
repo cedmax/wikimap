@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Salvatore Adamo",
-            "pageView": 190811
+            "pageView": 106,
+            "total": 190946
         },
         {
             "page": "Gesualdo Bufalino",
-            "pageView": 159160
+            "pageView": 89,
+            "total": 159265
         },
         {
             "page": "Biagio Pelligra",
-            "pageView": 64274
-        },
-        {
-            "page": "Angelo d'Arrigo",
-            "pageView": 52392
+            "pageView": 34,
+            "total": 64294
         },
         {
             "page": "Salvatore Fiume",
-            "pageView": 47568
+            "pageView": 30,
+            "total": 47591
         },
         {
-            "page": "Emilio Docente",
-            "pageView": 14533
+            "page": "Angelo d'Arrigo",
+            "pageView": 26,
+            "total": 52415
         },
         {
             "page": "Biagio Pace",
-            "pageView": 12292
+            "pageView": 8,
+            "total": 12312
         },
         {
-            "page": "Salvatore Pelligra",
-            "pageView": 3055
-        },
-        {
-            "page": "Antonio Greco (attore)",
-            "pageView": 2679
-        },
-        {
-            "page": "Nunzio Gulino",
-            "pageView": 2486
-        },
-        {
-            "page": "Pietro Palazzo",
-            "pageView": 2296
-        },
-        {
-            "page": "Biagio Brancato",
-            "pageView": 2241
-        },
-        {
-            "page": "Andrea Giovanni Lo Bianco",
-            "pageView": 1752
+            "page": "Emilio Docente",
+            "pageView": 8,
+            "total": 14539
         },
         {
             "page": "Raffaele Caruso",
-            "pageView": 1698
+            "pageView": 2,
+            "total": 1699
+        },
+        {
+            "page": "Biagio Brancato",
+            "pageView": 2,
+            "total": 2242
+        },
+        {
+            "page": "Pietro Palazzo",
+            "pageView": 2,
+            "total": 2297
+        },
+        {
+            "page": "Nunzio Gulino",
+            "pageView": 2,
+            "total": 2487
+        },
+        {
+            "page": "Antonio Greco (attore)",
+            "pageView": 2,
+            "total": 2681
+        },
+        {
+            "page": "Salvatore Pelligra",
+            "pageView": 2,
+            "total": 3057
+        },
+        {
+            "page": "Andrea Giovanni Lo Bianco",
+            "pageView": 1,
+            "total": 1753
         },
         {
             "page": "Raffaele Pelligra",
-            "pageView": 214
+            "pageView": 0,
+            "total": 214
         }
     ]
 }

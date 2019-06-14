@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Gianmaria Testa",
-            "pageView": 166390
+            "pageView": 58,
+            "total": 166459
         },
         {
             "page": "Marco Arnolfo",
-            "pageView": 17142
+            "pageView": 11,
+            "total": 17153
         },
         {
             "page": "Piero Gallo",
-            "pageView": 4167
+            "pageView": 3,
+            "total": 4169
         },
         {
             "page": "Giuseppe Garneri (vescovo)",
-            "pageView": 3889
-        },
-        {
-            "page": "Giuseppe Sobrero",
-            "pageView": 2393
+            "pageView": 3,
+            "total": 3891
         },
         {
             "page": "Vincenzo Botta (accademico)",
-            "pageView": 2300
+            "pageView": 2,
+            "total": 2300
         },
         {
             "page": "Domenico Chiaramello",
-            "pageView": 1952
+            "pageView": 2,
+            "total": 1953
+        },
+        {
+            "page": "Giuseppe Sobrero",
+            "pageView": 2,
+            "total": 2394
         },
         {
             "page": "Giuseppe Garneri",
-            "pageView": 1198
+            "pageView": 1,
+            "total": 1198
         }
     ]
 }

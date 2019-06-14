@@ -1,0 +1,27 @@
+{
+    "id": "place.13616583292416740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.9642857142857143,
+    "text": "Striano",
+    "place_name": "Striano, Napoli, Italy",
+    "bbox": [
+        14.545799,
+        40.799803,
+        14.590365,
+        40.83489
+    ],
+    "center": [
+        14.56667,
+        40.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.56667,
+            40.81667
+        ]
+    }
+}

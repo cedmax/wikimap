@@ -1,0 +1,27 @@
+{
+    "id": "place.8429500498473160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capri",
+    "place_name": "Capri, Napoli, Italy",
+    "bbox": [
+        14.217581,
+        40.539225,
+        14.266713,
+        40.561273
+    ],
+    "center": [
+        14.24028,
+        40.55556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.24028,
+            40.55556
+        ]
+    }
+}

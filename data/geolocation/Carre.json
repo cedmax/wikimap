@@ -1,0 +1,21 @@
+{
+    "id": "poi.2259152856702",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Carrè",
+    "place_name": "Carrè, Milano, Milano 20123, Italy",
+    "center": [
+        9.169431,
+        45.458228
+    ],
+    "geometry": {
+        "coordinates": [
+            9.169431,
+            45.458228
+        ],
+        "type": "Point"
+    }
+}

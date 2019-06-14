@@ -1,0 +1,27 @@
+{
+    "id": "place.4125691294486240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quarto d'Altino",
+    "place_name": "Quarto d'Altino, Venezia, Italy",
+    "bbox": [
+        12.335699,
+        45.532233,
+        12.505557,
+        45.59061
+    ],
+    "center": [
+        12.3727,
+        45.5786
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3727,
+            45.5786
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3590763517505590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo dei Lombardi",
+    "place_name": "Sant'Angelo dei Lombardi, Avellino, Italy",
+    "bbox": [
+        15.112075,
+        40.889471,
+        15.23831,
+        40.974048
+    ],
+    "center": [
+        15.18333,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.18333,
+            40.93333
+        ]
+    }
+}

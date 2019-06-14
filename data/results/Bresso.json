@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Den Harrow",
-            "pageView": 225746
+            "pageView": 122,
+            "total": 225878
         },
         {
             "page": "Febo Conti",
-            "pageView": 54944
+            "pageView": 32,
+            "total": 54966
         },
         {
             "page": "Roberto Crippa",
-            "pageView": 24025
+            "pageView": 16,
+            "total": 24037
         },
         {
             "page": "Francesco Agello",
-            "pageView": 17149
+            "pageView": 11,
+            "total": 17162
         },
         {
             "page": "Gabriele Fersini",
-            "pageView": 14454
+            "pageView": 9,
+            "total": 14457
         },
         {
             "page": "Nello Pagani",
-            "pageView": 12367
+            "pageView": 7,
+            "total": 12378
         },
         {
             "page": "Ezio Savino",
-            "pageView": 7387
+            "pageView": 5,
+            "total": 7387
         },
         {
             "page": "Diego Confalonieri",
-            "pageView": 5369
-        },
-        {
-            "page": "Paolo Foglia",
-            "pageView": 3424
-        },
-        {
-            "page": "Antonio Recalcati",
-            "pageView": 3396
-        },
-        {
-            "page": "Carlo Costantino Tagliabue",
-            "pageView": 2876
+            "pageView": 3,
+            "total": 5370
         },
         {
             "page": "Maria Ghezzi",
-            "pageView": 1574
+            "pageView": 3,
+            "total": 1575
+        },
+        {
+            "page": "Paolo Foglia",
+            "pageView": 2,
+            "total": 3426
+        },
+        {
+            "page": "Antonio Recalcati",
+            "pageView": 2,
+            "total": 3399
+        },
+        {
+            "page": "Carlo Costantino Tagliabue",
+            "pageView": 2,
+            "total": 2876
         }
     ]
 }

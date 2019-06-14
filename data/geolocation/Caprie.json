@@ -1,0 +1,27 @@
+{
+    "id": "place.8445479569554190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caprie",
+    "place_name": "Caprie, Torino, Italy",
+    "bbox": [
+        7.312748,
+        45.106405,
+        7.371706,
+        45.173165
+    ],
+    "center": [
+        7.3319,
+        45.1188
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.3319,
+            45.1188
+        ]
+    }
+}

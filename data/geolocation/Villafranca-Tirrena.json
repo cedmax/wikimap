@@ -1,0 +1,27 @@
+{
+    "id": "place.10847612545942640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafranca Tirrena",
+    "place_name": "Villafranca Tirrena, Messina, Italy",
+    "bbox": [
+        15.426223,
+        38.187663,
+        15.482252,
+        38.24882
+    ],
+    "center": [
+        15.43333,
+        38.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.43333,
+            38.23333
+        ]
+    }
+}

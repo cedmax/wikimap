@@ -1,0 +1,27 @@
+{
+    "id": "place.8848630743892310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio a Caiano",
+    "place_name": "Poggio a Caiano, Firenze, Italy",
+    "bbox": [
+        11.024979,
+        43.800091,
+        11.063507,
+        43.830652
+    ],
+    "center": [
+        11.06667,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.06667,
+            43.81667
+        ]
+    }
+}

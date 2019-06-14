@@ -1,0 +1,27 @@
+{
+    "id": "place.11541723081975520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafranca di Verona",
+    "place_name": "Villafranca di Verona, Verona, Italy",
+    "bbox": [
+        10.766755,
+        45.317399,
+        10.948662,
+        45.405683
+    ],
+    "center": [
+        10.85,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            45.35
+        ]
+    }
+}

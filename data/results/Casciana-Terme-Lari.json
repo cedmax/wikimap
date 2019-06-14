@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Teresa Mattei",
-            "pageView": 66843
+            "pageView": 31,
+            "total": 66862
         },
         {
             "page": "Paolo Brogi",
-            "pageView": 8363
+            "pageView": 5,
+            "total": 8376
         },
         {
             "page": "Romano Bagatti",
-            "pageView": 5252
+            "pageView": 3,
+            "total": 5262
         },
         {
             "page": "Eusebio Valli",
-            "pageView": 3894
-        },
-        {
-            "page": "Giotto Ciardi",
-            "pageView": 3587
+            "pageView": 3,
+            "total": 3896
         },
         {
             "page": "Camillo Bellarmino Bagatti",
-            "pageView": 2651
-        },
-        {
-            "page": "Angelo Bendinelli",
-            "pageView": 2239
+            "pageView": 3,
+            "total": 2654
         },
         {
             "page": "Antonio Domenico Bamberini",
-            "pageView": 2068
+            "pageView": 2,
+            "total": 2069
         },
         {
-            "page": "Giuseppe Panattoni",
-            "pageView": 1758
+            "page": "Giotto Ciardi",
+            "pageView": 2,
+            "total": 3589
         },
         {
-            "page": "Pagolo da Lari",
-            "pageView": 1406
+            "page": "Angelo Bendinelli",
+            "pageView": 2,
+            "total": 2239
         },
         {
             "page": "Carlo Italo Panattoni",
-            "pageView": 1274
+            "pageView": 1,
+            "total": 1276
+        },
+        {
+            "page": "Pagolo da Lari",
+            "pageView": 1,
+            "total": 1407
+        },
+        {
+            "page": "Giuseppe Panattoni",
+            "pageView": 1,
+            "total": 1759
         },
         {
             "page": "Lorenzo Panattoni",
-            "pageView": 835
+            "pageView": 1,
+            "total": 836
         },
         {
             "page": "Rinaldo Spinelli",
-            "pageView": 305
+            "pageView": 0,
+            "total": 305
         }
     ]
 }

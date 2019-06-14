@@ -1,0 +1,21 @@
+{
+    "id": "poi.876173329636",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sorano",
+    "place_name": "Sorano, Sorano, Grosseto 58010, Italy",
+    "center": [
+        11.7139885,
+        42.681962
+    ],
+    "geometry": {
+        "coordinates": [
+            11.7139885,
+            42.681962
+        ],
+        "type": "Point"
+    }
+}

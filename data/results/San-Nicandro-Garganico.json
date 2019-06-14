@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Rocco Pagano",
-            "pageView": 24700
+            "pageView": 14,
+            "total": 24736
         },
         {
             "page": "Donato Manduzio",
-            "pageView": 6403
-        },
-        {
-            "page": "Nicandro Marinacci",
-            "pageView": 4769
+            "pageView": 4,
+            "total": 6406
         },
         {
             "page": "Roberto Caruso",
-            "pageView": 4212
+            "pageView": 3,
+            "total": 4214
         },
         {
             "page": "Domenico Fioritto",
-            "pageView": 3891
+            "pageView": 3,
+            "total": 3891
         },
         {
-            "page": "Alfredo Petrucci",
-            "pageView": 3315
-        },
-        {
-            "page": "Gianni Grana",
-            "pageView": 2501
+            "page": "Nicandro Marinacci",
+            "pageView": 3,
+            "total": 4769
         },
         {
             "page": "Severino Fallucchi",
-            "pageView": 2386
+            "pageView": 2,
+            "total": 2386
+        },
+        {
+            "page": "Gianni Grana",
+            "pageView": 2,
+            "total": 2501
+        },
+        {
+            "page": "Alfredo Petrucci",
+            "pageView": 2,
+            "total": 3316
         },
         {
             "page": "Silvio Petrucci",
-            "pageView": 1219
+            "pageView": 1,
+            "total": 1219
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.12612085778366520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bosaro",
+    "place_name": "Bosaro, Rovigo, Italy",
+    "bbox": [
+        11.744672,
+        44.982539,
+        11.81448,
+        45.03239
+    ],
+    "center": [
+        11.76667,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76667,
+            45
+        ]
+    }
+}

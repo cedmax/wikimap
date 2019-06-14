@@ -1,0 +1,27 @@
+{
+    "id": "place.13354381914034720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerignola",
+    "place_name": "Cerignola, Foggia, Italy",
+    "bbox": [
+        15.693399,
+        41.105629,
+        16.040144,
+        41.476285
+    ],
+    "center": [
+        15.9,
+        41.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.9,
+            41.26667
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Nicola Acocella",
-            "pageView": 15351
+            "pageView": 9,
+            "total": 15376
         },
         {
             "page": "Salvatore Scoca",
-            "pageView": 13999
-        },
-        {
-            "page": "Alfonso Gesualdo",
-            "pageView": 5474
+            "pageView": 7,
+            "total": 14004
         },
         {
             "page": "Cristina di Lagopesole",
-            "pageView": 4017
+            "pageView": 3,
+            "total": 4025
         },
         {
-            "page": "Angelo Maffucci",
-            "pageView": 3712
+            "page": "Alfonso Gesualdo",
+            "pageView": 3,
+            "total": 5476
         },
         {
             "page": "Alfonso Del Re",
-            "pageView": 3407
+            "pageView": 2,
+            "total": 3412
+        },
+        {
+            "page": "Angelo Maffucci",
+            "pageView": 2,
+            "total": 3714
         },
         {
             "page": "Giuseppe Tozzoli",
-            "pageView": 1100
+            "pageView": 1,
+            "total": 1100
         },
         {
             "page": "Francesco Tozzoli",
-            "pageView": 977
+            "pageView": 1,
+            "total": 977
         }
     ]
 }

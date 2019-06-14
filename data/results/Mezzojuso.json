@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Francesco Bentivegna",
-            "pageView": 6215
+            "pageView": 4,
+            "total": 6217
         },
         {
             "page": "Gabriele Buccola",
-            "pageView": 4258
-        },
-        {
-            "page": "Antonino Cuttitta",
-            "pageView": 2800
+            "pageView": 3,
+            "total": 4265
         },
         {
             "page": "Nicolò Figlia",
-            "pageView": 2148
+            "pageView": 2,
+            "total": 2148
+        },
+        {
+            "page": "Antonino Cuttitta",
+            "pageView": 2,
+            "total": 2809
         },
         {
             "page": "Federico M. Butera",
-            "pageView": 1330
+            "pageView": 2,
+            "total": 1330
         },
         {
             "page": "Giuseppe Perniciaro",
-            "pageView": 1082
+            "pageView": 2,
+            "total": 1082
         }
     ]
 }

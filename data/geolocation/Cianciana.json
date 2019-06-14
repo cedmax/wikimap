@@ -1,0 +1,27 @@
+{
+    "id": "place.13239507543259990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cianciana",
+    "place_name": "Cianciana, Agrigento, Italy",
+    "bbox": [
+        13.376856,
+        37.455302,
+        13.455538,
+        37.552242
+    ],
+    "center": [
+        13.43444,
+        37.52139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43444,
+            37.52139
+        ]
+    }
+}

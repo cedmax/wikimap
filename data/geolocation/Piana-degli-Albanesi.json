@@ -1,0 +1,27 @@
+{
+    "id": "place.9422218562978930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piana degli Albanesi",
+    "place_name": "Piana degli Albanesi, Palermo, Italy",
+    "bbox": [
+        13.255575,
+        37.90974,
+        13.38646,
+        38.027589
+    ],
+    "center": [
+        13.28333,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.28333,
+            38
+        ]
+    }
+}

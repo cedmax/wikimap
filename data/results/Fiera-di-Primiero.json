@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Luigi Negrelli",
-            "pageView": 42979
+            "pageView": 24,
+            "total": 42997
         },
         {
             "page": "Giuseppina Negrelli",
-            "pageView": 6066
+            "pageView": 4,
+            "total": 6068
         },
         {
             "page": "Gunther Langes",
-            "pageView": 2439
+            "pageView": 2,
+            "total": 2440
         },
         {
             "page": "Giovanni Battista Trener",
-            "pageView": 2266
+            "pageView": 2,
+            "total": 2266
         },
         {
             "page": "Angelo Giacomo Mott",
-            "pageView": 1804
+            "pageView": 1,
+            "total": 1804
         },
         {
             "page": "Cristina Tisot",
-            "pageView": 1702
+            "pageView": 1,
+            "total": 1703
         }
     ]
 }

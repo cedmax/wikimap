@@ -1,0 +1,27 @@
+{
+    "id": "place.11123241508100390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ugento",
+    "place_name": "Ugento, Lecce, Italy",
+    "bbox": [
+        18.086398,
+        39.846665,
+        18.224833,
+        39.994844
+    ],
+    "center": [
+        18.16667,
+        39.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.16667,
+            39.93333
+        ]
+    }
+}

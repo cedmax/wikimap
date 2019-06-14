@@ -1,0 +1,27 @@
+{
+    "id": "place.5692360833564640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giuliano Milanese",
+    "place_name": "San Giuliano Milanese, Milano, Italy",
+    "bbox": [
+        9.222954,
+        45.352518,
+        9.333968,
+        45.408315
+    ],
+    "center": [
+        9.28333,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28333,
+            45.4
+        ]
+    }
+}

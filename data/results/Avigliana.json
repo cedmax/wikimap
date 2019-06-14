@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Piero Fassino",
-            "pageView": 253864
+            "pageView": 121,
+            "total": 253957
         },
         {
             "page": "Marco Ponti",
-            "pageView": 94193
+            "pageView": 41,
+            "total": 94227
         },
         {
             "page": "Bona di Savoia",
-            "pageView": 43471
+            "pageView": 22,
+            "total": 43485
         },
         {
             "page": "Umberto III di Savoia",
-            "pageView": 33769
+            "pageView": 21,
+            "total": 33781
         },
         {
             "page": "Celeste Negarville",
-            "pageView": 16264
-        },
-        {
-            "page": "Giovanni Valetti",
-            "pageView": 12242
+            "pageView": 10,
+            "total": 16278
         },
         {
             "page": "Emilio Ostorero",
-            "pageView": 9300
+            "pageView": 6,
+            "total": 9305
         },
         {
-            "page": "Eugenio Fassino",
-            "pageView": 7833
-        },
-        {
-            "page": "Marco Matta",
-            "pageView": 6929
+            "page": "Giovanni Valetti",
+            "pageView": 6,
+            "total": 12252
         },
         {
             "page": "Agostino Coletto",
-            "pageView": 5971
+            "pageView": 4,
+            "total": 5977
+        },
+        {
+            "page": "Eugenio Fassino",
+            "pageView": 4,
+            "total": 7834
+        },
+        {
+            "page": "Marco Matta",
+            "pageView": 3,
+            "total": 6936
         },
         {
             "page": "Filippo II di Savoia-Acaia",
-            "pageView": 5262
+            "pageView": 3,
+            "total": 5264
         },
         {
             "page": "Norberto Rosa",
-            "pageView": 3974
+            "pageView": 3,
+            "total": 3975
         },
         {
             "page": "Ezio Borgo",
-            "pageView": 2828
+            "pageView": 2,
+            "total": 2830
         },
         {
             "page": "Vinigi Lorenzo Grottanelli",
-            "pageView": 2523
-        },
-        {
-            "page": "Giuseppe Gobetti",
-            "pageView": 2291
+            "pageView": 2,
+            "total": 2523
         },
         {
             "page": "Carlo Allais",
-            "pageView": 2056
+            "pageView": 2,
+            "total": 2057
         },
         {
-            "page": "Daniele Bertotto",
-            "pageView": 1876
-        },
-        {
-            "page": "Marco Cugno",
-            "pageView": 1042
+            "page": "Giuseppe Gobetti",
+            "pageView": 2,
+            "total": 2293
         },
         {
             "page": "Giuseppe Bruno (deportato)",
-            "pageView": 929
-        },
-        {
-            "page": "Maurilio Borello",
-            "pageView": 849
+            "pageView": 1,
+            "total": 929
         },
         {
             "page": "Renzo Suriani",
-            "pageView": 796
+            "pageView": 1,
+            "total": 798
         },
         {
-            "page": "Guerrino Nicoli",
-            "pageView": 488
+            "page": "Daniele Bertotto",
+            "pageView": 1,
+            "total": 1877
+        },
+        {
+            "page": "Maurilio Borello",
+            "pageView": 1,
+            "total": 850
+        },
+        {
+            "page": "Marco Cugno",
+            "pageView": 1,
+            "total": 1042
         },
         {
             "page": "Vittorio Blandino",
-            "pageView": 308
+            "pageView": 0,
+            "total": 309
+        },
+        {
+            "page": "Guerrino Nicoli",
+            "pageView": 0,
+            "total": 489
         }
     ]
 }

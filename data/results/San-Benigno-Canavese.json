@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Arduino d'Ivrea",
-            "pageView": 115868
+            "pageView": 54,
+            "total": 115922
         },
         {
             "page": "Giovanni Viola",
-            "pageView": 15352
+            "pageView": 10,
+            "total": 15355
         },
         {
             "page": "Teresa Belloc-Giorgi",
-            "pageView": 4776
+            "pageView": 3,
+            "total": 4777
         },
         {
             "page": "Carlo Vittorio Amedeo Ignazio delle Lanze",
-            "pageView": 3181
-        },
-        {
-            "page": "Orano Rolfo",
-            "pageView": 2599
-        },
-        {
-            "page": "Sergio Vedovato",
-            "pageView": 1985
+            "pageView": 2,
+            "total": 3183
         },
         {
             "page": "Augusto Nomis di Cossilla",
-            "pageView": 1748
+            "pageView": 2,
+            "total": 1748
+        },
+        {
+            "page": "Orano Rolfo",
+            "pageView": 2,
+            "total": 2600
+        },
+        {
+            "page": "Sergio Vedovato",
+            "pageView": 2,
+            "total": 1986
         }
     ]
 }

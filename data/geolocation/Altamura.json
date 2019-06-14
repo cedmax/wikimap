@@ -1,0 +1,27 @@
+{
+    "id": "place.14323803712570410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altamura",
+    "place_name": "Altamura, Bari, Italy",
+    "bbox": [
+        16.344298,
+        40.724684,
+        16.698939,
+        40.979028
+    ],
+    "center": [
+        16.55,
+        40.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.55,
+            40.81667
+        ]
+    }
+}

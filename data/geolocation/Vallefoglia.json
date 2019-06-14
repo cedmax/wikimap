@@ -1,0 +1,27 @@
+{
+    "id": "place.7289566385298290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallefoglia",
+    "place_name": "Vallefoglia, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.666153,
+        43.791055,
+        12.806741,
+        43.875331
+    ],
+    "center": [
+        12.8017,
+        43.8278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8017,
+            43.8278
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Sinibaldo Scorza",
-            "pageView": 6711
+            "pageView": 4,
+            "total": 6713
         },
         {
             "page": "Giovanni Battista de' Rossi",
-            "pageView": 5686
+            "pageView": 3,
+            "total": 5690
         },
         {
             "page": "Emilio Casalini (partigiano)",
-            "pageView": 3027
-        },
-        {
-            "page": "Maria Repetto",
-            "pageView": 2986
+            "pageView": 2,
+            "total": 3029
         },
         {
             "page": "Sandra Verda",
-            "pageView": 1355
+            "pageView": 2,
+            "total": 1355
+        },
+        {
+            "page": "Maria Repetto",
+            "pageView": 2,
+            "total": 2989
         },
         {
             "page": "Giuseppe Ameglio",
-            "pageView": 959
-        },
-        {
-            "page": "Napoleone di Voltaggio",
-            "pageView": 679
+            "pageView": 1,
+            "total": 961
         },
         {
             "page": "Guglielmo di Voltaggio",
-            "pageView": 539
+            "pageView": 0,
+            "total": 539
+        },
+        {
+            "page": "Napoleone di Voltaggio",
+            "pageView": 0,
+            "total": 680
         }
     ]
 }

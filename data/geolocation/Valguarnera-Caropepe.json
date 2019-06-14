@@ -1,0 +1,27 @@
+{
+    "id": "place.8245527217445710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valguarnera Caropepe",
+    "place_name": "Valguarnera Caropepe, Enna, Italy",
+    "bbox": [
+        14.374838,
+        37.488298,
+        14.407618,
+        37.538915
+    ],
+    "center": [
+        14.38333,
+        37.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.38333,
+            37.5
+        ]
+    }
+}

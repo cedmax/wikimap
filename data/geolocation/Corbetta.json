@@ -1,0 +1,27 @@
+{
+    "id": "place.19537018003593690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corbetta",
+    "place_name": "Corbetta, Milano, Italy",
+    "bbox": [
+        8.898916,
+        45.431251,
+        8.96453,
+        45.486752
+    ],
+    "center": [
+        8.91667,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91667,
+            45.46667
+        ]
+    }
+}

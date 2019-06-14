@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Antonio Salandra",
-            "pageView": 139888
+            "pageView": 87.5,
+            "total": 140027
         },
         {
             "page": "Scipione Rebiba",
-            "pageView": 84176
+            "pageView": 56,
+            "total": 84211
         },
         {
             "page": "Salvatore De Giorgi",
-            "pageView": 40451
+            "pageView": 24,
+            "total": 40470
         },
         {
             "page": "Domenico Cornacchia",
-            "pageView": 19347
+            "pageView": 9,
+            "total": 19350
         },
         {
             "page": "Mario Beccia",
-            "pageView": 13670
-        },
-        {
-            "page": "Antonio Mistrorigo",
-            "pageView": 9450
+            "pageView": 8,
+            "total": 13675
         },
         {
             "page": "Giuseppe Giuliano",
-            "pageView": 8383
+            "pageView": 7,
+            "total": 8385
         },
         {
-            "page": "Rainulfo di Alife",
-            "pageView": 8117
+            "page": "Antonio Mistrorigo",
+            "pageView": 6,
+            "total": 9458
         },
         {
             "page": "Gualtiero di Palearia",
-            "pageView": 7735
+            "pageView": 5,
+            "total": 7741
+        },
+        {
+            "page": "Rainulfo di Alife",
+            "pageView": 5,
+            "total": 8120
         },
         {
             "page": "Girolamo Seripando",
-            "pageView": 7184
+            "pageView": 4,
+            "total": 7185
         },
         {
             "page": "Francesco Zerrillo",
-            "pageView": 6117
+            "pageView": 4,
+            "total": 6118
         },
         {
             "page": "Marco di Eca",
-            "pageView": 5021
+            "pageView": 3,
+            "total": 5024
         },
         {
             "page": "Raffaele Castielli",
-            "pageView": 4668
-        },
-        {
-            "page": "Paolo Emilio Bergamaschi",
-            "pageView": 3758
-        },
-        {
-            "page": "Fortunato Maria Farina",
-            "pageView": 3652
-        },
-        {
-            "page": "Nicola Fiore",
-            "pageView": 3122
+            "pageView": 3,
+            "total": 4671
         },
         {
             "page": "Michele Renzulli",
-            "pageView": 1569
+            "pageView": 2,
+            "total": 1569
+        },
+        {
+            "page": "Fortunato Maria Farina",
+            "pageView": 2,
+            "total": 3655
+        },
+        {
+            "page": "Nicola Fiore",
+            "pageView": 2,
+            "total": 3122
+        },
+        {
+            "page": "Paolo Emilio Bergamaschi",
+            "pageView": 2,
+            "total": 3759
         },
         {
             "page": "Pasqualino Pasqualicchio",
-            "pageView": 1507
+            "pageView": 1,
+            "total": 1509
         },
         {
             "page": "Donato De Leonardis",
-            "pageView": 794
+            "pageView": 0,
+            "total": 795
         },
         {
             "page": "Michele Palmieri",
-            "pageView": 485
+            "pageView": 0,
+            "total": 486
         }
     ]
 }

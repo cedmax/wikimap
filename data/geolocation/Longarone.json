@@ -1,0 +1,27 @@
+{
+    "id": "place.12481536920017800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Longarone",
+    "place_name": "Longarone, Belluno, Italy",
+    "bbox": [
+        12.152089,
+        46.214457,
+        12.372726,
+        46.322464
+    ],
+    "center": [
+        12.3,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3,
+            46.26667
+        ]
+    }
+}

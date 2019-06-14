@@ -1,0 +1,27 @@
+{
+    "id": "place.5946051010330530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maccagno con Pino e Veddasca",
+    "place_name": "Maccagno con Pino e Veddasca, Varese, Italy",
+    "bbox": [
+        8.711894,
+        46.028762,
+        8.847566,
+        46.122248
+    ],
+    "center": [
+        8.73333,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            46.05
+        ]
+    }
+}

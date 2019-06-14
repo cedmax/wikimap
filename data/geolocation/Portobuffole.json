@@ -1,0 +1,21 @@
+{
+    "id": "poi.3204045649149",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Portobuffolè",
+    "place_name": "Portobuffolè, Portobuffolè, Treviso 31040, Italy",
+    "center": [
+        12.537586,
+        45.856129
+    ],
+    "geometry": {
+        "coordinates": [
+            12.537586,
+            45.856129
+        ],
+        "type": "Point"
+    }
+}

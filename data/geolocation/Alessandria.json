@@ -1,0 +1,27 @@
+{
+    "id": "place.14038532411906350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alessandria",
+    "place_name": "Alessandria, Alessandria, Italy",
+    "bbox": [
+        8.50296,
+        44.842767,
+        8.790088,
+        44.989644
+    ],
+    "center": [
+        8.62,
+        44.91333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.62,
+            44.91333
+        ]
+    }
+}

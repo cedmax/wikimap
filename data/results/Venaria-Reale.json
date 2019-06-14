@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Diego Fuser",
-            "pageView": 116922
+            "pageView": 68,
+            "total": 117031
         },
         {
             "page": "Andrea Sottil",
-            "pageView": 109697
-        },
-        {
-            "page": "Roberto Cravero",
-            "pageView": 95475
-        },
-        {
-            "page": "Giovanni Pasquale",
-            "pageView": 85213
+            "pageView": 52,
+            "total": 109734
         },
         {
             "page": "Romano Malaspina",
-            "pageView": 67239
+            "pageView": 43,
+            "total": 67280
+        },
+        {
+            "page": "Giovanni Pasquale",
+            "pageView": 42,
+            "total": 85236
+        },
+        {
+            "page": "Roberto Cravero",
+            "pageView": 35,
+            "total": 95501
         },
         {
             "page": "Omar Milanetto",
-            "pageView": 51520
+            "pageView": 29,
+            "total": 51530
         },
         {
             "page": "Tommaso Vailatti",
-            "pageView": 29209
+            "pageView": 18,
+            "total": 29224
         },
         {
             "page": "Fabio Artico",
-            "pageView": 25765
+            "pageView": 15,
+            "total": 25795
         },
         {
             "page": "Bruno Garzena",
-            "pageView": 15028
-        },
-        {
-            "page": "Mathias Gallo Cassarino",
-            "pageView": 13467
+            "pageView": 9,
+            "total": 15034
         },
         {
             "page": "Michele Lessona",
-            "pageView": 12633
+            "pageView": 8,
+            "total": 12641
         },
         {
             "page": "Francesco Zagatti",
-            "pageView": 10848
+            "pageView": 7,
+            "total": 10856
+        },
+        {
+            "page": "Mathias Gallo Cassarino",
+            "pageView": 7,
+            "total": 13477
         },
         {
             "page": "Umberto Granaglia",
-            "pageView": 8452
+            "pageView": 6,
+            "total": 8455
         },
         {
             "page": "Carlo Barbuto",
-            "pageView": 7111
+            "pageView": 5,
+            "total": 7114
         },
         {
             "page": "Piero Urati",
-            "pageView": 6107
-        },
-        {
-            "page": "Bruno Piaser",
-            "pageView": 3662
+            "pageView": 4,
+            "total": 6111
         },
         {
             "page": "Tatiana Andreoli",
-            "pageView": 3408
-        },
-        {
-            "page": "Tancredi Milone",
-            "pageView": 2976
-        },
-        {
-            "page": "Giovanni Battista Ughetti",
-            "pageView": 2891
-        },
-        {
-            "page": "Alessia Orla",
-            "pageView": 2749
-        },
-        {
-            "page": "Claudia Porchietto",
-            "pageView": 2408
-        },
-        {
-            "page": "Pasquale Buonarota",
-            "pageView": 2252
-        },
-        {
-            "page": "Pierpaolo Vettori",
-            "pageView": 2216
-        },
-        {
-            "page": "Alberto Tridente",
-            "pageView": 2042
-        },
-        {
-            "page": "Giuseppe Basso della Rovere",
-            "pageView": 1775
+            "pageView": 3,
+            "total": 3408
         },
         {
             "page": "Filippo Castoldi",
-            "pageView": 1658
-        },
-        {
-            "page": "Morena Spanu",
-            "pageView": 1619
-        },
-        {
-            "page": "Alessandro Manuel Benvenuto",
-            "pageView": 1414
+            "pageView": 2,
+            "total": 1660
         },
         {
             "page": "Giancarlo Versolato",
-            "pageView": 1331
+            "pageView": 2,
+            "total": 1333
+        },
+        {
+            "page": "Pasquale Buonarota",
+            "pageView": 2,
+            "total": 2254
+        },
+        {
+            "page": "Tancredi Milone",
+            "pageView": 2,
+            "total": 2976
+        },
+        {
+            "page": "Giovanni Battista Ughetti",
+            "pageView": 2,
+            "total": 2894
+        },
+        {
+            "page": "Alessia Orla",
+            "pageView": 2,
+            "total": 2750
+        },
+        {
+            "page": "Pierpaolo Vettori",
+            "pageView": 2,
+            "total": 2218
+        },
+        {
+            "page": "Bruno Piaser",
+            "pageView": 2,
+            "total": 3665
+        },
+        {
+            "page": "Alberto Tridente",
+            "pageView": 2,
+            "total": 2047
+        },
+        {
+            "page": "Giuseppe Basso della Rovere",
+            "pageView": 2,
+            "total": 1775
+        },
+        {
+            "page": "Morena Spanu",
+            "pageView": 1,
+            "total": 1619
         },
         {
             "page": "Sonia Bianco",
-            "pageView": 1008
+            "pageView": 1,
+            "total": 1008
+        },
+        {
+            "page": "Claudia Porchietto",
+            "pageView": 0,
+            "total": 2412
         },
         {
             "page": "Valentina Moscatt",
-            "pageView": 672
-        },
-        {
-            "page": "Enrica Lupo",
-            "pageView": 491
+            "pageView": 0,
+            "total": 673
         },
         {
             "page": "Gianluigi Mattia",
-            "pageView": 474
+            "pageView": 0,
+            "total": 476
+        },
+        {
+            "page": "Enrica Lupo",
+            "pageView": 0,
+            "total": 496
+        },
+        {
+            "page": "Alessandro Manuel Benvenuto",
+            "pageView": 0,
+            "total": 1425
         }
     ]
 }

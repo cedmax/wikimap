@@ -1,0 +1,27 @@
+{
+    "id": "place.10204500676819820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Conversano",
+    "place_name": "Conversano, Bari, Italy",
+    "bbox": [
+        17.030189,
+        40.875925,
+        17.171855,
+        41.024752
+    ],
+    "center": [
+        17.11667,
+        40.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.11667,
+            40.96667
+        ]
+    }
+}

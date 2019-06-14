@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Frank Sivero",
-            "pageView": 34857
+            "pageView": 18,
+            "total": 34873
         },
         {
             "page": "Nick Gentile",
-            "pageView": 14896
+            "pageView": 10,
+            "total": 14912
         },
         {
             "page": "Pasquale Lolordo",
-            "pageView": 8958
+            "pageView": 6,
+            "total": 8961
         },
         {
             "page": "Al Polizzi",
-            "pageView": 8597
+            "pageView": 6,
+            "total": 8604
         },
         {
             "page": "Pasquale Hamel",
-            "pageView": 8536
+            "pageView": 5,
+            "total": 8541
         },
         {
             "page": "Domenico Maria Lo Jacono",
-            "pageView": 2281
+            "pageView": 2,
+            "total": 2281
         },
         {
             "page": "Paolo Palmisano",
-            "pageView": 463
+            "pageView": 0,
+            "total": 463
         }
     ]
 }

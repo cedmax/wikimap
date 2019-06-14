@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Papa Marcello II",
-            "pageView": 90242
+            "pageView": 58,
+            "total": 90288
         },
         {
             "page": "Papa Innocenzo IX",
-            "pageView": 58497
+            "pageView": 38,
+            "total": 58526
         },
         {
             "page": "Giovanni Nicotera",
-            "pageView": 31160
+            "pageView": 20,
+            "total": 31172
         },
         {
             "page": "Franco Costabile",
-            "pageView": 11179
-        },
-        {
-            "page": "Luigi Antonio Cantafora",
-            "pageView": 10521
+            "pageView": 6,
+            "total": 11187
         },
         {
             "page": "Francesco Fiorentino",
-            "pageView": 9026
+            "pageView": 6,
+            "total": 9029
         },
         {
-            "page": "Giuseppe Lelio Petronio",
-            "pageView": 4400
-        },
-        {
-            "page": "Carlo Pellegrini",
-            "pageView": 2885
+            "page": "Luigi Antonio Cantafora",
+            "pageView": 6,
+            "total": 10525
         },
         {
             "page": "Nicola Berlingeri",
-            "pageView": 2188
+            "pageView": 2,
+            "total": 2188
         },
         {
-            "page": "Giovan Tommaso Perrone",
-            "pageView": 1756
-        },
-        {
-            "page": "Francesco Maria Loyero",
-            "pageView": 1618
-        },
-        {
-            "page": "Domenico Maria Valensise",
-            "pageView": 921
+            "page": "Giuseppe Lelio Petronio",
+            "pageView": 2,
+            "total": 4400
         },
         {
             "page": "Francesco Ruberto",
-            "pageView": 774
+            "pageView": 2,
+            "total": 778
         },
         {
-            "page": "Salvatore Borelli",
-            "pageView": 119
+            "page": "Carlo Pellegrini",
+            "pageView": 2,
+            "total": 2886
+        },
+        {
+            "page": "Francesco Maria Loyero",
+            "pageView": 1,
+            "total": 1619
+        },
+        {
+            "page": "Domenico Maria Valensise",
+            "pageView": 1,
+            "total": 922
+        },
+        {
+            "page": "Giovan Tommaso Perrone",
+            "pageView": 1,
+            "total": 1757
         },
         {
             "page": "Enrico Borrello",
-            "pageView": 91
+            "pageView": 0,
+            "total": 92
+        },
+        {
+            "page": "Salvatore Borelli",
+            "pageView": 0,
+            "total": 121
         }
     ]
 }

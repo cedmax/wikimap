@@ -1,0 +1,27 @@
+{
+    "id": "place.13790635930168360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massafra",
+    "place_name": "Massafra, Taranto, Italy",
+    "bbox": [
+        17.051282,
+        40.51558,
+        17.186623,
+        40.684373
+    ],
+    "center": [
+        17.11667,
+        40.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.11667,
+            40.58333
+        ]
+    }
+}

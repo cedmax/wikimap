@@ -1,0 +1,27 @@
+{
+    "id": "place.11808148522629310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romano di Lombardia",
+    "place_name": "Romano di Lombardia, Bergamo, Italy",
+    "bbox": [
+        9.721114,
+        45.497894,
+        9.796966,
+        45.550628
+    ],
+    "center": [
+        9.75,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.75,
+            45.51667
+        ]
+    }
+}

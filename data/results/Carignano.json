@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Amedeo III di Savoia",
-            "pageView": 29146
+            "pageView": 19,
+            "total": 29157
         },
         {
             "page": "Pier Giorgio Micchiardi",
-            "pageView": 14959
+            "pageView": 8,
+            "total": 14964
         },
         {
             "page": "Umberto II di Savoia (conte)",
-            "pageView": 11112
+            "pageView": 6,
+            "total": 11117
         },
         {
             "page": "Leonardo Cocito",
-            "pageView": 9314
+            "pageView": 6,
+            "total": 9341
         },
         {
             "page": "Gian Piero Bona",
-            "pageView": 9093
+            "pageView": 6,
+            "total": 9097
         },
         {
             "page": "Bartolomeo Aymo",
-            "pageView": 6249
-        },
-        {
-            "page": "Lorenzo Valerio Bona",
-            "pageView": 5398
+            "pageView": 4,
+            "total": 6254
         },
         {
             "page": "Gaspare Bona",
-            "pageView": 4175
+            "pageView": 3,
+            "total": 4177
+        },
+        {
+            "page": "Lorenzo Valerio Bona",
+            "pageView": 3,
+            "total": 5400
         },
         {
             "page": "Paolo Negri",
-            "pageView": 4011
-        },
-        {
-            "page": "Giacinto Viola",
-            "pageView": 2876
-        },
-        {
-            "page": "Valerio Massimo Bona",
-            "pageView": 2230
-        },
-        {
-            "page": "Federico Peliti",
-            "pageView": 2204
-        },
-        {
-            "page": "Vincenzo Gamna",
-            "pageView": 2053
+            "pageView": 3,
+            "total": 4017
         },
         {
             "page": "Ludovico da Romagnano",
-            "pageView": 1928
+            "pageView": 2,
+            "total": 1928
+        },
+        {
+            "page": "Vincenzo Gamna",
+            "pageView": 2,
+            "total": 2053
+        },
+        {
+            "page": "Valerio Massimo Bona",
+            "pageView": 2,
+            "total": 2232
+        },
+        {
+            "page": "Federico Peliti",
+            "pageView": 2,
+            "total": 2204
+        },
+        {
+            "page": "Giacinto Viola",
+            "pageView": 2,
+            "total": 2877
         },
         {
             "page": "Aimone da Romagnano",
-            "pageView": 1359
+            "pageView": 1,
+            "total": 1359
         },
         {
             "page": "Italo Meschi",
-            "pageView": 1086
+            "pageView": 1,
+            "total": 1086
         },
         {
             "page": "Filippo Vivalda",
-            "pageView": 987
+            "pageView": 0,
+            "total": 987
         }
     ]
 }

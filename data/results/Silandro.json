@@ -2,84 +2,104 @@
     "name": "Silandro",
     "people": [
         {
-            "page": "Nicole Gius",
-            "pageView": 5473
-        },
-        {
             "page": "Maria Rosa Candido",
-            "pageView": 4333
+            "pageView": 3,
+            "total": 4335
         },
         {
-            "page": "Stefan Thanei",
-            "pageView": 4130
+            "page": "Nicole Gius",
+            "pageView": 3,
+            "total": 5473
         },
         {
             "page": "René Gusperti",
-            "pageView": 3926
-        },
-        {
-            "page": "Karl Tinzl",
-            "pageView": 3841
+            "pageView": 3,
+            "total": 3926
         },
         {
             "page": "Edwin Coratti",
-            "pageView": 3296
-        },
-        {
-            "page": "Greta Pinggera",
-            "pageView": 2818
-        },
-        {
-            "page": "Karl Spitaler",
-            "pageView": 2796
-        },
-        {
-            "page": "Manfred Pinzger",
-            "pageView": 2588
+            "pageView": 2,
+            "total": 3297
         },
         {
             "page": "Hagen Patscheider",
-            "pageView": 2558
-        },
-        {
-            "page": "Thomas Tragust",
-            "pageView": 2414
+            "pageView": 2,
+            "total": 2559
         },
         {
             "page": "Marian Tumler",
-            "pageView": 2371
+            "pageView": 2,
+            "total": 2372
         },
         {
-            "page": "Gianluca Petronio",
-            "pageView": 2064
+            "page": "Thomas Tragust",
+            "pageView": 2,
+            "total": 2414
+        },
+        {
+            "page": "Karl Tinzl",
+            "pageView": 2,
+            "total": 3842
         },
         {
             "page": "Thomas Moriggl",
-            "pageView": 1888
+            "pageView": 2,
+            "total": 1890
+        },
+        {
+            "page": "Stefan Thanei",
+            "pageView": 2,
+            "total": 4130
+        },
+        {
+            "page": "Karl Spitaler",
+            "pageView": 2,
+            "total": 2796
+        },
+        {
+            "page": "Gianluca Petronio",
+            "pageView": 2,
+            "total": 2065
+        },
+        {
+            "page": "Greta Pinggera",
+            "pageView": 2,
+            "total": 2819
+        },
+        {
+            "page": "Manfred Pinzger",
+            "pageView": 2,
+            "total": 2589
         },
         {
             "page": "Melanie Schwarz",
-            "pageView": 1438
-        },
-        {
-            "page": "Peter Wunderer",
-            "pageView": 1418
-        },
-        {
-            "page": "Patric Lochi",
-            "pageView": 1235
+            "pageView": 1,
+            "total": 1438
         },
         {
             "page": "Hannes Oberdörfer",
-            "pageView": 1153
+            "pageView": 1,
+            "total": 1153
+        },
+        {
+            "page": "Patric Lochi",
+            "pageView": 1,
+            "total": 1235
         },
         {
             "page": "Barbara Abart",
-            "pageView": 1051
+            "pageView": 1,
+            "total": 1051
+        },
+        {
+            "page": "Peter Wunderer",
+            "pageView": 1,
+            "total": 1418
         },
         {
             "page": "Barbara Moriggl",
-            "pageView": 178
+            "pageView": 0,
+            "total": 179
         }
     ]
 }

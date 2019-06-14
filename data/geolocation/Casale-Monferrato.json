@@ -1,0 +1,27 @@
+{
+    "id": "place.11683316378662620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casale Monferrato",
+    "place_name": "Casale Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.359571,
+        45.040856,
+        8.557261,
+        45.175522
+    ],
+    "center": [
+        8.45833,
+        45.13417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.45833,
+            45.13417
+        ]
+    }
+}

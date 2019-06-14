@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Eraldo Pecci",
-            "pageView": 115375
+            "pageView": 44,
+            "total": 115408
         },
         {
             "page": "Elisa Zanette",
-            "pageView": 11268
+            "pageView": 6,
+            "total": 11298
         },
         {
             "page": "Luisa Casillo",
-            "pageView": 6958
-        },
-        {
-            "page": "Costanza Manfredini",
-            "pageView": 6231
-        },
-        {
-            "page": "Mario Marzi",
-            "pageView": 5609
+            "pageView": 4,
+            "total": 6963
         },
         {
             "page": "Giuditta Lualdi",
-            "pageView": 5139
+            "pageView": 4,
+            "total": 5144
+        },
+        {
+            "page": "Costanza Manfredini",
+            "pageView": 4,
+            "total": 6237
+        },
+        {
+            "page": "Mario Marzi",
+            "pageView": 3,
+            "total": 5611
         },
         {
             "page": "Giulia Gibertini",
-            "pageView": 4751
-        },
-        {
-            "page": "Riccardo Marchesi",
-            "pageView": 4093
-        },
-        {
-            "page": "Egidio Renzi",
-            "pageView": 3867
+            "pageView": 3,
+            "total": 4753
         },
         {
             "page": "Alessandro Serpieri (1823-1885)",
-            "pageView": 3797
-        },
-        {
-            "page": "Marta Agostinetto",
-            "pageView": 3296
+            "pageView": 2,
+            "total": 3798
         },
         {
             "page": "Stefano Dradi",
-            "pageView": 3256
+            "pageView": 2,
+            "total": 3258
         },
         {
-            "page": "Sara Giuliodori",
-            "pageView": 2444
-        },
-        {
-            "page": "Augusto Massari",
-            "pageView": 2313
+            "page": "Riccardo Marchesi",
+            "pageView": 2,
+            "total": 4095
         },
         {
             "page": "Erin Fairs",
-            "pageView": 1319
+            "pageView": 2,
+            "total": 1322
+        },
+        {
+            "page": "Augusto Massari",
+            "pageView": 2,
+            "total": 2314
+        },
+        {
+            "page": "Sara Giuliodori",
+            "pageView": 2,
+            "total": 2447
         },
         {
             "page": "Aurelio Genghini",
-            "pageView": 921
+            "pageView": 2,
+            "total": 923
+        },
+        {
+            "page": "Egidio Renzi",
+            "pageView": 2,
+            "total": 3874
+        },
+        {
+            "page": "Marta Agostinetto",
+            "pageView": 2,
+            "total": 3298
         }
     ]
 }

@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Tina Merlin",
-            "pageView": 80667
+            "pageView": 39,
+            "total": 80698
         },
         {
             "page": "Aldo Brancher",
-            "pageView": 21081
+            "pageView": 12,
+            "total": 21100
         },
         {
             "page": "Angelo Pellegrino Sbardellotto",
-            "pageView": 11179
-        },
-        {
-            "page": "Agnese Possamai",
-            "pageView": 5204
+            "pageView": 7,
+            "total": 11188
         },
         {
             "page": "Luigi Cima",
-            "pageView": 4932
+            "pageView": 3,
+            "total": 4935
         },
         {
             "page": "Alberto Alpago Novello",
-            "pageView": 4814
+            "pageView": 3,
+            "total": 4818
         },
         {
-            "page": "Wanda Sandon",
-            "pageView": 3755
-        },
-        {
-            "page": "Alvaro Bari",
-            "pageView": 3558
-        },
-        {
-            "page": "Giorgio Gherlenda",
-            "pageView": 2951
-        },
-        {
-            "page": "Francesco Zucchetti",
-            "pageView": 2871
-        },
-        {
-            "page": "Toni Piccolotto",
-            "pageView": 2309
-        },
-        {
-            "page": "Beppino Lorenzet",
-            "pageView": 2022
-        },
-        {
-            "page": "Gianfranco Orsini",
-            "pageView": 2005
-        },
-        {
-            "page": "Claudio Cima",
-            "pageView": 1871
+            "page": "Agnese Possamai",
+            "pageView": 3,
+            "total": 5205
         },
         {
             "page": "Ignazio Chiarelli",
-            "pageView": 1856
+            "pageView": 2,
+            "total": 1856
+        },
+        {
+            "page": "Alvaro Bari",
+            "pageView": 2,
+            "total": 3563
+        },
+        {
+            "page": "Beppino Lorenzet",
+            "pageView": 2,
+            "total": 2023
+        },
+        {
+            "page": "Giorgio Gherlenda",
+            "pageView": 2,
+            "total": 2955
+        },
+        {
+            "page": "Francesco Zucchetti",
+            "pageView": 2,
+            "total": 2874
+        },
+        {
+            "page": "Gianfranco Orsini",
+            "pageView": 2,
+            "total": 2007
+        },
+        {
+            "page": "Toni Piccolotto",
+            "pageView": 2,
+            "total": 2313
+        },
+        {
+            "page": "Wanda Sandon",
+            "pageView": 2,
+            "total": 3755
+        },
+        {
+            "page": "Claudio Cima",
+            "pageView": 2,
+            "total": 1872
         },
         {
             "page": "Domenico Meldolesi",
-            "pageView": 1748
+            "pageView": 1,
+            "total": 1749
         },
         {
             "page": "Oscar De Bona",
-            "pageView": 631
+            "pageView": 0,
+            "total": 633
         }
     ]
 }

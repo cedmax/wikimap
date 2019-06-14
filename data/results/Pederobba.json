@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Angelo Gabrielli (imprenditore)",
-            "pageView": 13651
+            "pageView": 7,
+            "total": 13654
         },
         {
             "page": "Anna Maria Palma",
-            "pageView": 8039
+            "pageView": 5,
+            "total": 8101
         },
         {
             "page": "Alberto Nardi",
-            "pageView": 5664
-        },
-        {
-            "page": "Giacomo Piazzetta",
-            "pageView": 2787
+            "pageView": 4,
+            "total": 5669
         },
         {
             "page": "Fratelli Romani",
-            "pageView": 2579
+            "pageView": 2,
+            "total": 2579
         },
         {
             "page": "Giuseppe Bianchetti",
-            "pageView": 2216
+            "pageView": 2,
+            "total": 2217
+        },
+        {
+            "page": "Giacomo Piazzetta",
+            "pageView": 2,
+            "total": 2790
         },
         {
             "page": "Luigi Chinazzo",
-            "pageView": 215
+            "pageView": 0,
+            "total": 215
         }
     ]
 }

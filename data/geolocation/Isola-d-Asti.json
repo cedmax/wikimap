@@ -1,0 +1,27 @@
+{
+    "id": "place.2012258486296670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola d'Asti",
+    "place_name": "Isola d'Asti, Asti, Italy",
+    "bbox": [
+        8.14359,
+        44.804575,
+        8.205763,
+        44.853912
+    ],
+    "center": [
+        8.18139,
+        44.83417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.18139,
+            44.83417
+        ]
+    }
+}

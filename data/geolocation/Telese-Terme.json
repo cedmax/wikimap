@@ -1,0 +1,27 @@
+{
+    "id": "place.11770050371962290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Telese Terme",
+    "place_name": "Telese Terme, Benevento, Italy",
+    "bbox": [
+        14.479081,
+        41.19046,
+        14.538618,
+        41.231325
+    ],
+    "center": [
+        14.5277,
+        41.2173
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5277,
+            41.2173
+        ]
+    }
+}

@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Cesare Martin",
-            "pageView": 5056
+            "pageView": 3,
+            "total": 5058
         },
         {
             "page": "Piero Martin",
-            "pageView": 2372
+            "pageView": 2,
+            "total": 2372
         }
     ]
 }

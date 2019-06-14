@@ -1,0 +1,27 @@
+{
+    "id": "place.9451938038815060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola Vicentina",
+    "place_name": "Isola Vicentina, Vicenza, Italy",
+    "bbox": [
+        11.404522,
+        45.588736,
+        11.489996,
+        45.649302
+    ],
+    "center": [
+        11.45,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.63333
+        ]
+    }
+}

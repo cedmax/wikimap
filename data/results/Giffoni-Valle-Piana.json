@@ -2,48 +2,59 @@
     "name": "Giffoni Valle Piana",
     "people": [
         {
-            "page": "Luca Gaurico",
-            "pageView": 8615
+            "page": "Eliseu Visconti",
+            "pageView": 5,
+            "total": 8032
         },
         {
-            "page": "Eliseu Visconti",
-            "pageView": 8029
+            "page": "Luca Gaurico",
+            "pageView": 5,
+            "total": 8621
         },
         {
             "page": "Pasquale Giannattasio",
-            "pageView": 6349
+            "pageView": 4,
+            "total": 6357
         },
         {
             "page": "Giuliano Piccininno",
-            "pageView": 5948
+            "pageView": 4,
+            "total": 5948
         },
         {
             "page": "Pomponio Gaurico",
-            "pageView": 5247
-        },
-        {
-            "page": "Leonardo Rossi",
-            "pageView": 3015
-        },
-        {
-            "page": "Giovanni Camillo Glorioso",
-            "pageView": 2710
+            "pageView": 3,
+            "total": 5252
         },
         {
             "page": "Agostino Falivene",
-            "pageView": 2204
+            "pageView": 2,
+            "total": 2209
         },
         {
-            "page": "Feliciano Granati",
-            "pageView": 1385
+            "page": "Leonardo Rossi",
+            "pageView": 2,
+            "total": 3015
         },
         {
             "page": "Generoso Andria",
-            "pageView": 1103
+            "pageView": 2,
+            "total": 1105
+        },
+        {
+            "page": "Giovanni Camillo Glorioso",
+            "pageView": 2,
+            "total": 2710
         },
         {
             "page": "Alfonso Linguiti",
-            "pageView": 1099
+            "pageView": 1,
+            "total": 1100
+        },
+        {
+            "page": "Feliciano Granati",
+            "pageView": 1,
+            "total": 1386
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8110734451265690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portici",
+    "place_name": "Portici, Napoli, Italy",
+    "bbox": [
+        14.320409,
+        40.804443,
+        14.360698,
+        40.830008
+    ],
+    "center": [
+        14.34111,
+        40.81972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.34111,
+            40.81972
+        ]
+    }
+}

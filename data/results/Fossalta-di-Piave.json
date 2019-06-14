@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Arturo Silvestri",
-            "pageView": 15588
+            "pageView": 10,
+            "total": 15595
         },
         {
             "page": "Attilio Deffenu",
-            "pageView": 8195
+            "pageView": 5,
+            "total": 8202
         },
         {
             "page": "Antonio Pin",
-            "pageView": 7665
-        },
-        {
-            "page": "Giovanni Perissinotto (calciatore)",
-            "pageView": 6334
+            "pageView": 5,
+            "total": 7670
         },
         {
             "page": "Francesco Mignone",
-            "pageView": 6011
+            "pageView": 3,
+            "total": 6011
+        },
+        {
+            "page": "Giovanni Perissinotto (calciatore)",
+            "pageView": 3,
+            "total": 6337
         },
         {
             "page": "Luciano Falcier",
-            "pageView": 848
+            "pageView": 0,
+            "total": 849
         }
     ]
 }

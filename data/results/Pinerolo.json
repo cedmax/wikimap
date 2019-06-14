@@ -2,396 +2,494 @@
     "name": "Pinerolo",
     "people": [
         {
-            "page": "Marco Fassone",
-            "pageView": 512877
-        },
-        {
-            "page": "Barbara Bonansea",
-            "pageView": 209388
-        },
-        {
             "page": "Ferruccio Parri",
-            "pageView": 164552
+            "pageView": 103,
+            "total": 164665
+        },
+        {
+            "page": "Marco Fassone",
+            "pageView": 85,
+            "total": 512931
         },
         {
             "page": "Luigi Facta",
-            "pageView": 113914
+            "pageView": 72,
+            "total": 114013
         },
         {
             "page": "Simone Bentivoglio",
-            "pageView": 87784
+            "pageView": 47,
+            "total": 87825
         },
         {
             "page": "Mario Deaglio",
-            "pageView": 64547
+            "pageView": 31,
+            "total": 64596
         },
         {
-            "page": "Cecilia Salvai",
-            "pageView": 55573
+            "page": "Barbara Bonansea",
+            "pageView": 28,
+            "total": 213379
         },
         {
             "page": "Nicolas Fouquet",
-            "pageView": 39017
+            "pageView": 24,
+            "total": 39035
         },
         {
             "page": "Bunna",
-            "pageView": 37761
-        },
-        {
-            "page": "Gianluca Manganiello",
-            "pageView": 35536
+            "pageView": 23,
+            "total": 37774
         },
         {
             "page": "Madaski",
-            "pageView": 29263
+            "pageView": 18,
+            "total": 29274
         },
         {
             "page": "Carlo I di Savoia",
-            "pageView": 25643
+            "pageView": 17,
+            "total": 25650
+        },
+        {
+            "page": "Cecilia Salvai",
+            "pageView": 15,
+            "total": 55865
         },
         {
             "page": "Antonio Criniti",
-            "pageView": 24828
+            "pageView": 14,
+            "total": 24853
         },
         {
             "page": "Marco Roccati",
-            "pageView": 20677
+            "pageView": 12,
+            "total": 20699
+        },
+        {
+            "page": "Gianluca Manganiello",
+            "pageView": 12,
+            "total": 35545
         },
         {
             "page": "Roberto Goveani",
-            "pageView": 15182
-        },
-        {
-            "page": "Anna Canalis di Cumiana",
-            "pageView": 12168
-        },
-        {
-            "page": "Gabriele di Saluzzo",
-            "pageView": 9963
-        },
-        {
-            "page": "Filippo I di Savoia-Acaia",
-            "pageView": 9729
-        },
-        {
-            "page": "Giovanni Canavesio",
-            "pageView": 9649
-        },
-        {
-            "page": "Enrico Comba",
-            "pageView": 9564
-        },
-        {
-            "page": "Ignazio Porro",
-            "pageView": 9161
-        },
-        {
-            "page": "Ludovico di Savoia-Acaia",
-            "pageView": 8891
-        },
-        {
-            "page": "Albino Mensa",
-            "pageView": 8850
+            "pageView": 10,
+            "total": 15189
         },
         {
             "page": "Derio Olivero",
-            "pageView": 8527
+            "pageView": 10,
+            "total": 8532
         },
         {
-            "page": "Jantoman",
-            "pageView": 7995
+            "page": "Anna Canalis di Cumiana",
+            "pageView": 7,
+            "total": 12170
         },
         {
-            "page": "Paolo Mottura",
-            "pageView": 7470
+            "page": "Giovanni Canavesio",
+            "pageView": 6,
+            "total": 9655
         },
         {
-            "page": "Margherita di Savoia (1390-1464)",
-            "pageView": 7202
+            "page": "Filippo I di Savoia-Acaia",
+            "pageView": 6,
+            "total": 9735
+        },
+        {
+            "page": "Albino Mensa",
+            "pageView": 5,
+            "total": 8853
+        },
+        {
+            "page": "Ludovico di Savoia-Acaia",
+            "pageView": 5,
+            "total": 8894
+        },
+        {
+            "page": "Gabriele di Saluzzo",
+            "pageView": 5,
+            "total": 9967
+        },
+        {
+            "page": "Ignazio Porro",
+            "pageView": 5,
+            "total": 9164
         },
         {
             "page": "Aldo Bricco",
-            "pageView": 6317
-        },
-        {
-            "page": "Angelo Bartolomasi",
-            "pageView": 6296
-        },
-        {
-            "page": "Pio Brunone Lanteri",
-            "pageView": 6250
-        },
-        {
-            "page": "Pier Giorgio Debernardi",
-            "pageView": 6244
-        },
-        {
-            "page": "Giacomo di Savoia-Acaia",
-            "pageView": 6149
-        },
-        {
-            "page": "Paolo Bert",
-            "pageView": 5846
-        },
-        {
-            "page": "Francesco Cognasso",
-            "pageView": 5801
-        },
-        {
-            "page": "Italo Tajo",
-            "pageView": 5653
+            "pageView": 4,
+            "total": 6322
         },
         {
             "page": "Michele Buniva",
-            "pageView": 5508
+            "pageView": 4,
+            "total": 5509
         },
         {
-            "page": "Amedeo di Savoia-Acaia",
-            "pageView": 5147
+            "page": "Angelo Bartolomasi",
+            "pageView": 4,
+            "total": 6302
         },
         {
-            "page": "Ernesto Melano",
-            "pageView": 4838
+            "page": "Margherita di Savoia (1390-1464)",
+            "pageView": 4,
+            "total": 7203
+        },
+        {
+            "page": "Francesco Cognasso",
+            "pageView": 4,
+            "total": 5806
+        },
+        {
+            "page": "Enrico Comba",
+            "pageView": 4,
+            "total": 9564
+        },
+        {
+            "page": "Jantoman",
+            "pageView": 4,
+            "total": 8006
+        },
+        {
+            "page": "Pier Giorgio Debernardi",
+            "pageView": 4,
+            "total": 6245
+        },
+        {
+            "page": "Paolo Mottura",
+            "pageView": 4,
+            "total": 7478
+        },
+        {
+            "page": "Italo Tajo",
+            "pageView": 4,
+            "total": 5655
+        },
+        {
+            "page": "Pio Brunone Lanteri",
+            "pageView": 3,
+            "total": 6252
         },
         {
             "page": "Maurizia Borri",
-            "pageView": 4688
-        },
-        {
-            "page": "Luigi Sapelli",
-            "pageView": 4495
-        },
-        {
-            "page": "Lorenzo Sforza Cesarini",
-            "pageView": 4493
+            "pageView": 3,
+            "total": 4692
         },
         {
             "page": "Enrico Migliavacca",
-            "pageView": 4364
+            "pageView": 3,
+            "total": 4364
+        },
+        {
+            "page": "Ernesto Melano",
+            "pageView": 3,
+            "total": 4841
+        },
+        {
+            "page": "Amedeo di Savoia-Acaia",
+            "pageView": 3,
+            "total": 5148
+        },
+        {
+            "page": "Giacomo di Savoia-Acaia",
+            "pageView": 3,
+            "total": 6151
+        },
+        {
+            "page": "Luigi Sapelli",
+            "pageView": 3,
+            "total": 4497
+        },
+        {
+            "page": "Lorenzo Sforza Cesarini",
+            "pageView": 3,
+            "total": 4494
+        },
+        {
+            "page": "Paolo Bert",
+            "pageView": 3,
+            "total": 5848
         },
         {
             "page": "Ettore Bignone",
-            "pageView": 4292
-        },
-        {
-            "page": "Giorgio di Challant",
-            "pageView": 3730
-        },
-        {
-            "page": "Italo Tibaldi",
-            "pageView": 3663
-        },
-        {
-            "page": "Veronica Rocca",
-            "pageView": 3564
-        },
-        {
-            "page": "Enrico Cravero",
-            "pageView": 3510
-        },
-        {
-            "page": "Ivano Comba",
-            "pageView": 3471
-        },
-        {
-            "page": "Andrea Charvaz",
-            "pageView": 3439
-        },
-        {
-            "page": "Umberto Massola",
-            "pageView": 3380
-        },
-        {
-            "page": "Arturo Vacca Maggiolini",
-            "pageView": 3273
-        },
-        {
-            "page": "Dario Martin",
-            "pageView": 3177
-        },
-        {
-            "page": "Mauro Chiabrando",
-            "pageView": 3125
-        },
-        {
-            "page": "Edoardo de Launay",
-            "pageView": 3097
-        },
-        {
-            "page": "Giorgio Santiano",
-            "pageView": 2919
-        },
-        {
-            "page": "Lara Peyrot",
-            "pageView": 2391
-        },
-        {
-            "page": "Mario Scrivano",
-            "pageView": 2296
-        },
-        {
-            "page": "Annalisa Favole",
-            "pageView": 2293
-        },
-        {
-            "page": "Ettore Bocchini Padiglione",
-            "pageView": 2243
-        },
-        {
-            "page": "Michele Forneris",
-            "pageView": 2228
+            "pageView": 3,
+            "total": 4296
         },
         {
             "page": "Giuseppe Mario Asinari Rossillon",
-            "pageView": 2222
+            "pageView": 2,
+            "total": 2223
         },
         {
-            "page": "Cosimo Bertacchi",
-            "pageView": 2077
+            "page": "Veronica Rocca",
+            "pageView": 2,
+            "total": 3566
         },
         {
-            "page": "Fabio Sola",
-            "pageView": 2006
-        },
-        {
-            "page": "Giorgio Gardiol",
-            "pageView": 1995
-        },
-        {
-            "page": "Edmondo Martin",
-            "pageView": 1926
-        },
-        {
-            "page": "Rinaldo Bontempi",
-            "pageView": 1881
-        },
-        {
-            "page": "Luigi Poet",
-            "pageView": 1865
+            "page": "Italo Tibaldi",
+            "pageView": 2,
+            "total": 3663
         },
         {
             "page": "Chiara Bellei",
-            "pageView": 1856
+            "pageView": 2,
+            "total": 1856
         },
         {
-            "page": "Maurizio Pellegrini",
-            "pageView": 1814
+            "page": "Andrea Charvaz",
+            "pageView": 2,
+            "total": 3440
         },
         {
-            "page": "Giovanni Battista Ferrero",
-            "pageView": 1770
-        },
-        {
-            "page": "Mario Faraoni",
-            "pageView": 1765
-        },
-        {
-            "page": "Pietro Brunetta d'Usseaux",
-            "pageView": 1761
-        },
-        {
-            "page": "Gaspare Domenico Regis",
-            "pageView": 1734
-        },
-        {
-            "page": "Stefania Favole",
-            "pageView": 1729
-        },
-        {
-            "page": "Debora Montanari",
-            "pageView": 1705
-        },
-        {
-            "page": "Isidoro Azzario",
-            "pageView": 1599
-        },
-        {
-            "page": "Carlo Augusto Brunetta d'Usseaux",
-            "pageView": 1581
-        },
-        {
-            "page": "Enrico Lantelme",
-            "pageView": 1579
-        },
-        {
-            "page": "Cesare Bertea",
-            "pageView": 1559
-        },
-        {
-            "page": "Carlo Borra",
-            "pageView": 1517
-        },
-        {
-            "page": "Edoardo Brunetta d'Usseaux",
-            "pageView": 1395
-        },
-        {
-            "page": "Antonio Folco",
-            "pageView": 1356
+            "page": "Ivano Comba",
+            "pageView": 2,
+            "total": 3473
         },
         {
             "page": "Gaudenzio Binaschi",
-            "pageView": 1349
+            "pageView": 2,
+            "total": 1349
         },
         {
-            "page": "Andrea Cesare Paris",
-            "pageView": 1218
-        },
-        {
-            "page": "Giuseppe Cesare Molineri",
-            "pageView": 1212
-        },
-        {
-            "page": "Gianbattista Gilli",
-            "pageView": 1192
-        },
-        {
-            "page": "Felice Brunetta d'Usseaux",
-            "pageView": 1138
-        },
-        {
-            "page": "Alfredo Bouvier",
-            "pageView": 1117
+            "page": "Dario Martin",
+            "pageView": 2,
+            "total": 3180
         },
         {
             "page": "Carlo Daviso di Charvensod",
-            "pageView": 1024
+            "pageView": 2,
+            "total": 1025
         },
         {
-            "page": "Francesco Brunetta d'Usseaux",
-            "pageView": 974
+            "page": "Edoardo de Launay",
+            "pageView": 2,
+            "total": 3102
+        },
+        {
+            "page": "Edmondo Martin",
+            "pageView": 2,
+            "total": 1927
+        },
+        {
+            "page": "Enrico Cravero",
+            "pageView": 2,
+            "total": 3510
+        },
+        {
+            "page": "Annalisa Favole",
+            "pageView": 2,
+            "total": 2295
+        },
+        {
+            "page": "Mario Scrivano",
+            "pageView": 2,
+            "total": 2298
+        },
+        {
+            "page": "Luigi Poet",
+            "pageView": 2,
+            "total": 1866
+        },
+        {
+            "page": "Lara Peyrot",
+            "pageView": 2,
+            "total": 2395
+        },
+        {
+            "page": "Ettore Bocchini Padiglione",
+            "pageView": 2,
+            "total": 2246
+        },
+        {
+            "page": "Arturo Vacca Maggiolini",
+            "pageView": 2,
+            "total": 3275
+        },
+        {
+            "page": "Rinaldo Bontempi",
+            "pageView": 2,
+            "total": 1884
+        },
+        {
+            "page": "Giorgio Santiano",
+            "pageView": 2,
+            "total": 2922
+        },
+        {
+            "page": "Carlo Augusto Brunetta d'Usseaux",
+            "pageView": 2,
+            "total": 1581
+        },
+        {
+            "page": "Michele Forneris",
+            "pageView": 2,
+            "total": 2228
+        },
+        {
+            "page": "Umberto Massola",
+            "pageView": 2,
+            "total": 3381
+        },
+        {
+            "page": "Giorgio di Challant",
+            "pageView": 2,
+            "total": 3732
+        },
+        {
+            "page": "Mauro Chiabrando",
+            "pageView": 2,
+            "total": 3126
+        },
+        {
+            "page": "Pietro Brunetta d'Usseaux",
+            "pageView": 2,
+            "total": 1762
+        },
+        {
+            "page": "Giorgio Gardiol",
+            "pageView": 2,
+            "total": 1996
+        },
+        {
+            "page": "Mario Faraoni",
+            "pageView": 1.5,
+            "total": 1765
+        },
+        {
+            "page": "Enrico Lantelme",
+            "pageView": 1,
+            "total": 1580
         },
         {
             "page": "Giuseppe Maria Pietro Grimaldi",
-            "pageView": 895
+            "pageView": 1,
+            "total": 895
         },
         {
-            "page": "Noemi Gabrielli",
-            "pageView": 857
+            "page": "Giuseppe Cesare Molineri",
+            "pageView": 1,
+            "total": 1213
         },
         {
-            "page": "Gualtiero Caffaratto",
-            "pageView": 683
+            "page": "Debora Montanari",
+            "pageView": 1,
+            "total": 1706
+        },
+        {
+            "page": "Carlo Borra",
+            "pageView": 1,
+            "total": 1517
+        },
+        {
+            "page": "Andrea Cesare Paris",
+            "pageView": 1,
+            "total": 1220
+        },
+        {
+            "page": "Alfredo Bouvier",
+            "pageView": 1,
+            "total": 1120
+        },
+        {
+            "page": "Maurizio Pellegrini",
+            "pageView": 1,
+            "total": 1814
+        },
+        {
+            "page": "Antonio Folco",
+            "pageView": 1,
+            "total": 1357
+        },
+        {
+            "page": "Giovanni Battista Ferrero",
+            "pageView": 1,
+            "total": 1770
+        },
+        {
+            "page": "Stefania Favole",
+            "pageView": 1,
+            "total": 1729
+        },
+        {
+            "page": "Cesare Bertea",
+            "pageView": 1,
+            "total": 1559
+        },
+        {
+            "page": "Gaspare Domenico Regis",
+            "pageView": 1,
+            "total": 1736
+        },
+        {
+            "page": "Gianbattista Gilli",
+            "pageView": 1,
+            "total": 1192
+        },
+        {
+            "page": "Francesco Brunetta d'Usseaux",
+            "pageView": 1,
+            "total": 974
+        },
+        {
+            "page": "Edoardo Brunetta d'Usseaux",
+            "pageView": 1,
+            "total": 1395
+        },
+        {
+            "page": "Isidoro Azzario",
+            "pageView": 1,
+            "total": 1600
+        },
+        {
+            "page": "Fabio Sola",
+            "pageView": 1,
+            "total": 2008
+        },
+        {
+            "page": "Cosimo Bertacchi",
+            "pageView": 1,
+            "total": 2077
+        },
+        {
+            "page": "Felice Brunetta d'Usseaux",
+            "pageView": 1,
+            "total": 1140
         },
         {
             "page": "Massimiliano Bocchiardo di San Vitale",
-            "pageView": 578
+            "pageView": 0,
+            "total": 578
+        },
+        {
+            "page": "Gualtiero Caffaratto",
+            "pageView": 0,
+            "total": 686
         },
         {
             "page": "Guido Rampini",
-            "pageView": 289
+            "pageView": 0,
+            "total": 291
         },
         {
             "page": "François-Marie Bigex",
-            "pageView": 285
+            "pageView": 0,
+            "total": 286
         },
         {
             "page": "Sisto Frajria",
-            "pageView": 280
+            "pageView": 0,
+            "total": 280
+        },
+        {
+            "page": "Noemi Gabrielli",
+            "pageView": 0,
+            "total": 857
         },
         {
             "page": "Daniele Galliano",
-            "pageView": 171
+            "pageView": 0,
+            "total": 173
         }
     ]
 }

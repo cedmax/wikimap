@@ -1,0 +1,27 @@
+{
+    "id": "place.7150448825678830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arsiè",
+    "place_name": "Arsiè, Belluno, Italy",
+    "bbox": [
+        11.667391,
+        45.922012,
+        11.804113,
+        46.026814
+    ],
+    "center": [
+        11.75,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75,
+            45.98333
+        ]
+    }
+}

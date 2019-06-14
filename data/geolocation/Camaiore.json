@@ -1,0 +1,27 @@
+{
+    "id": "place.2532255292257940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camaiore",
+    "place_name": "Camaiore, Lucca, Italy",
+    "bbox": [
+        10.210129,
+        43.880025,
+        10.415192,
+        43.975268
+    ],
+    "center": [
+        10.3,
+        43.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.3,
+            43.93333
+        ]
+    }
+}

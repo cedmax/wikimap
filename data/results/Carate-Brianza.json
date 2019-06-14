@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Roberto Vecchioni",
-            "pageView": 700915
+            "pageView": 328.5,
+            "total": 701226
         },
         {
             "page": "Federica Moro",
-            "pageView": 281103
-        },
-        {
-            "page": "Anna Billò",
-            "pageView": 173162
+            "pageView": 120,
+            "total": 281188
         },
         {
             "page": "Vito Mancuso",
-            "pageView": 149743
+            "pageView": 77,
+            "total": 149816
+        },
+        {
+            "page": "Anna Billò",
+            "pageView": 49,
+            "total": 173284
         },
         {
             "page": "Antonio Rigamonti",
-            "pageView": 19725
+            "pageView": 12,
+            "total": 19741
         },
         {
             "page": "Alberto Patrucco",
-            "pageView": 19156
-        },
-        {
-            "page": "Paolo Annoni",
-            "pageView": 16281
+            "pageView": 9,
+            "total": 19163
         },
         {
             "page": "Nando Sanvito",
-            "pageView": 14069
+            "pageView": 8,
+            "total": 14071
+        },
+        {
+            "page": "Paolo Annoni",
+            "pageView": 8,
+            "total": 16288
         },
         {
             "page": "Sergio Sironi",
-            "pageView": 11743
-        },
-        {
-            "page": "Emilio Ravasio",
-            "pageView": 8975
-        },
-        {
-            "page": "Davide Viganò",
-            "pageView": 8402
-        },
-        {
-            "page": "Mario Camicia",
-            "pageView": 7652
-        },
-        {
-            "page": "Natale Nobili",
-            "pageView": 6987
-        },
-        {
-            "page": "Stefano Miglietti",
-            "pageView": 6347
-        },
-        {
-            "page": "Pietro Salvatore Colombo",
-            "pageView": 6287
-        },
-        {
-            "page": "Alberto Brembilla",
-            "pageView": 6015
-        },
-        {
-            "page": "Quinto Cenni",
-            "pageView": 5617
+            "pageView": 7,
+            "total": 11748
         },
         {
             "page": "Giuseppe Giovenzana",
-            "pageView": 4718
+            "pageView": 6,
+            "total": 4724
         },
         {
-            "page": "Marta Vergani",
-            "pageView": 4173
+            "page": "Davide Viganò",
+            "pageView": 5,
+            "total": 8407
         },
         {
-            "page": "Francesco Sacchi",
-            "pageView": 3056
+            "page": "Natale Nobili",
+            "pageView": 5,
+            "total": 6994
+        },
+        {
+            "page": "Mario Camicia",
+            "pageView": 4,
+            "total": 7657
+        },
+        {
+            "page": "Quinto Cenni",
+            "pageView": 4,
+            "total": 5619
+        },
+        {
+            "page": "Pietro Salvatore Colombo",
+            "pageView": 4,
+            "total": 6293
+        },
+        {
+            "page": "Emilio Ravasio",
+            "pageView": 4,
+            "total": 8982
+        },
+        {
+            "page": "Stefano Miglietti",
+            "pageView": 3,
+            "total": 6355
+        },
+        {
+            "page": "Alberto Brembilla",
+            "pageView": 3,
+            "total": 6021
         },
         {
             "page": "Gaetano Cesana",
-            "pageView": 2832
+            "pageView": 2,
+            "total": 2834
         },
         {
             "page": "Domenico Flavio Ronzoni",
-            "pageView": 2588
+            "pageView": 2,
+            "total": 2589
         },
         {
-            "page": "Aldo Bonaccini",
-            "pageView": 1717
+            "page": "Francesco Sacchi",
+            "pageView": 2,
+            "total": 3060
         },
         {
             "page": "Francesco Cusani",
-            "pageView": 1274
+            "pageView": 2,
+            "total": 1274
+        },
+        {
+            "page": "Marta Vergani",
+            "pageView": 2,
+            "total": 4199
+        },
+        {
+            "page": "Aldo Bonaccini",
+            "pageView": 1,
+            "total": 1721
         },
         {
             "page": "Loris Giuseppe Maconi",
-            "pageView": 643
+            "pageView": 0,
+            "total": 644
         }
     ]
 }

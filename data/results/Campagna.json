@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Luigi Moretti (arcivescovo)",
-            "pageView": 19649
+            "pageView": 10,
+            "total": 19664
         },
         {
             "page": "Gerardo Pierro",
-            "pageView": 8071
-        },
-        {
-            "page": "Gaetano Pollio",
-            "pageView": 5007
-        },
-        {
-            "page": "Jolando Nuzzi",
-            "pageView": 4918
+            "pageView": 5,
+            "total": 8075
         },
         {
             "page": "Guerino Grimaldi",
-            "pageView": 4535
+            "pageView": 3,
+            "total": 4538
         },
         {
-            "page": "Carmine Cesarano",
-            "pageView": 2782
+            "page": "Jolando Nuzzi",
+            "pageView": 3,
+            "total": 4925
+        },
+        {
+            "page": "Gaetano Pollio",
+            "pageView": 3,
+            "total": 5010
         },
         {
             "page": "Francesco Carducci",
-            "pageView": 2449
+            "pageView": 2,
+            "total": 2453
+        },
+        {
+            "page": "Carmine Cesarano",
+            "pageView": 2,
+            "total": 2783
         },
         {
             "page": "Francesco Saverio Fontana",
-            "pageView": 2104
-        },
-        {
-            "page": "Giovanni Angelo Anzani",
-            "pageView": 1826
-        },
-        {
-            "page": "Alessandro Scappi",
-            "pageView": 1438
-        },
-        {
-            "page": "Alessandro Leparulo",
-            "pageView": 1287
-        },
-        {
-            "page": "Costantino Testi",
-            "pageView": 1218
+            "pageView": 2,
+            "total": 2108
         },
         {
             "page": "Camillo Mantuano",
-            "pageView": 1035
+            "pageView": 1,
+            "total": 1035
+        },
+        {
+            "page": "Costantino Testi",
+            "pageView": 1,
+            "total": 1218
+        },
+        {
+            "page": "Giovanni Angelo Anzani",
+            "pageView": 1,
+            "total": 1826
+        },
+        {
+            "page": "Alessandro Scappi",
+            "pageView": 1,
+            "total": 1439
         },
         {
             "page": "Girolamo Scarampi",
-            "pageView": 1004
+            "pageView": 1,
+            "total": 1004
+        },
+        {
+            "page": "Alessandro Leparulo",
+            "pageView": 1,
+            "total": 1288
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.15734088587428600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Musile di Piave",
+    "place_name": "Musile di Piave, Venezia, Italy",
+    "bbox": [
+        12.457704,
+        45.544773,
+        12.599636,
+        45.643814
+    ],
+    "center": [
+        12.565,
+        45.6178
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.565,
+            45.6178
+        ]
+    }
+}

@@ -2,24 +2,29 @@
     "name": "Chiusa",
     "people": [
         {
-            "page": "Hans Piffrader",
-            "pageView": 3681
+            "page": "Georg Blaurock",
+            "pageView": 2,
+            "total": 2599
         },
         {
-            "page": "Georg Blaurock",
-            "pageView": 2598
+            "page": "Hans Piffrader",
+            "pageView": 2,
+            "total": 3685
         },
         {
             "page": "Valentin Gallmetzer",
-            "pageView": 999
+            "pageView": 1,
+            "total": 1000
         },
         {
             "page": "Franz Junger",
-            "pageView": 820
+            "pageView": 1,
+            "total": 820
         },
         {
             "page": "Paul von Sternbach",
-            "pageView": 87
+            "pageView": 0,
+            "total": 87
         }
     ]
 }

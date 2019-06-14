@@ -1,0 +1,21 @@
+{
+    "id": "poi.1821066191630",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Stella",
+    "place_name": "Stella, via Partenope 2A-2B, Napoli, Napoli 80121, Italy",
+    "center": [
+        14.242018,
+        40.831522
+    ],
+    "geometry": {
+        "coordinates": [
+            14.242018,
+            40.831522
+        ],
+        "type": "Point"
+    }
+}

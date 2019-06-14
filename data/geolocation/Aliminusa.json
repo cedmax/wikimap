@@ -1,0 +1,27 @@
+{
+    "id": "place.8986628256973890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aliminusa",
+    "place_name": "Aliminusa, Palermo, Italy",
+    "bbox": [
+        13.74868,
+        37.835112,
+        13.814997,
+        37.893144
+    ],
+    "center": [
+        13.78139,
+        37.86444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.78139,
+            37.86444
+        ]
+    }
+}

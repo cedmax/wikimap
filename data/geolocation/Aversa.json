@@ -1,0 +1,27 @@
+{
+    "id": "place.10991241091638400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aversa",
+    "place_name": "Aversa, Caserta, Italy",
+    "bbox": [
+        14.182954,
+        40.948988,
+        14.226957,
+        40.992103
+    ],
+    "center": [
+        14.2049555,
+        40.9705455
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.2049555,
+            40.9705455
+        ]
+    }
+}

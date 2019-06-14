@@ -1,0 +1,27 @@
+{
+    "id": "place.15517671650696060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Challand-Saint-Victor",
+    "place_name": "Challand-Saint-Victor, Valle D'Aosta, Italy",
+    "bbox": [
+        7.68204,
+        45.66289,
+        7.786972,
+        45.705361
+    ],
+    "center": [
+        7.7,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7,
+            45.68333
+        ]
+    }
+}

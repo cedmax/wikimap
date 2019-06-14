@@ -1,0 +1,27 @@
+{
+    "id": "place.10567370328344510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vendemiano",
+    "place_name": "San Vendemiano, Treviso, Italy",
+    "bbox": [
+        12.312498,
+        45.858844,
+        12.393175,
+        45.911491
+    ],
+    "center": [
+        12.33889,
+        45.89139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33889,
+            45.89139
+        ]
+    }
+}

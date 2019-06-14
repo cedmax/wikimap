@@ -1,0 +1,27 @@
+{
+    "id": "place.9860866965978070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Osimo",
+    "place_name": "Osimo, Ancona, Italy",
+    "bbox": [
+        13.342471,
+        43.432761,
+        13.556137,
+        43.534205
+    ],
+    "center": [
+        13.4821,
+        43.48608
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4821,
+            43.48608
+        ]
+    }
+}

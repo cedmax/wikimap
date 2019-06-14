@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Franz Di Cioccio",
-            "pageView": 205126
+            "pageView": 103,
+            "total": 205211
         },
         {
             "page": "Antonio De Crescentiis",
-            "pageView": 9686
+            "pageView": 5,
+            "total": 9699
         },
         {
             "page": "Silvio Formichetti",
-            "pageView": 6424
-        },
-        {
-            "page": "Antonio De Nino",
-            "pageView": 5180
+            "pageView": 4,
+            "total": 6425
         },
         {
             "page": "Pietro Carapellucci",
-            "pageView": 4869
+            "pageView": 3,
+            "total": 4872
         },
         {
-            "page": "Panfilo Di Cioccio",
-            "pageView": 3086
-        },
-        {
-            "page": "Luigi Meta",
-            "pageView": 2290
+            "page": "Antonio De Nino",
+            "pageView": 3,
+            "total": 5180
         },
         {
             "page": "Rocco Santacroce",
-            "pageView": 2177
+            "pageView": 2,
+            "total": 2178
         },
         {
-            "page": "Ego Spartaco Meta",
-            "pageView": 1988
+            "page": "Luigi Meta",
+            "pageView": 2,
+            "total": 2290
+        },
+        {
+            "page": "Panfilo Di Cioccio",
+            "pageView": 2,
+            "total": 3086
         },
         {
             "page": "Gaspare De Marinis",
-            "pageView": 1890
+            "pageView": 2,
+            "total": 1890
         },
         {
-            "page": "Ulisse Ortensi",
-            "pageView": 1789
+            "page": "Ego Spartaco Meta",
+            "pageView": 1,
+            "total": 1988
         },
         {
             "page": "Manlio Italo Ciaglia",
-            "pageView": 1542
+            "pageView": 1,
+            "total": 1543
+        },
+        {
+            "page": "Ulisse Ortensi",
+            "pageView": 1,
+            "total": 1789
         },
         {
             "page": "Ruggero Accrocciamuro",
-            "pageView": 296
+            "pageView": 0,
+            "total": 299
         }
     ]
 }

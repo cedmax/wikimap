@@ -2,20 +2,24 @@
     "name": "Roccaraso",
     "people": [
         {
-            "page": "Salvatore Tommasi",
-            "pageView": 4543
-        },
-        {
             "page": "Enrico Sabatini",
-            "pageView": 4496
+            "pageView": 3,
+            "total": 4500
         },
         {
-            "page": "Nunzio Tamburrini",
-            "pageView": 3316
+            "page": "Salvatore Tommasi",
+            "pageView": 3,
+            "total": 4544
         },
         {
             "page": "Giuseppe Andrea Angeloni",
-            "pageView": 2230
+            "pageView": 2,
+            "total": 2230
+        },
+        {
+            "page": "Nunzio Tamburrini",
+            "pageView": 2,
+            "total": 3318
         }
     ]
 }

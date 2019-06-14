@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Andrea Vitali",
-            "pageView": 165447
-        },
-        {
-            "page": "Gianluca Brambilla",
-            "pageView": 60237
+            "pageView": 108,
+            "total": 165544
         },
         {
             "page": "Tommaso Grossi",
-            "pageView": 30147
+            "pageView": 20,
+            "total": 30165
         },
         {
-            "page": "Giancarlo Vitali",
-            "pageView": 16719
+            "page": "Gianluca Brambilla",
+            "pageView": 14,
+            "total": 60247
         },
         {
             "page": "Velasco Vitali",
-            "pageView": 16404
+            "pageView": 9,
+            "total": 16411
+        },
+        {
+            "page": "Giancarlo Vitali",
+            "pageView": 8,
+            "total": 16724
         },
         {
             "page": "Cesare Monti (pittore)",
-            "pageView": 12791
+            "pageView": 7,
+            "total": 12795
         },
         {
             "page": "Pietro Pensa",
-            "pageView": 12153
-        },
-        {
-            "page": "Simone Petilli",
-            "pageView": 9412
+            "pageView": 6,
+            "total": 12158
         },
         {
             "page": "Bernardino Nogara",
-            "pageView": 9066
+            "pageView": 6,
+            "total": 9074
         },
         {
-            "page": "Matteo Grattarola",
-            "pageView": 6331
-        },
-        {
-            "page": "Carlo Adamoli",
-            "pageView": 5170
+            "page": "Simone Petilli",
+            "pageView": 5,
+            "total": 9413
         },
         {
             "page": "Arturo Osio (politico)",
-            "pageView": 4642
+            "pageView": 3,
+            "total": 4645
+        },
+        {
+            "page": "Carlo Adamoli",
+            "pageView": 3,
+            "total": 5174
         },
         {
             "page": "Giuseppe Nogara",
-            "pageView": 4355
+            "pageView": 3,
+            "total": 4357
         },
         {
-            "page": "Antonio Viscardi",
-            "pageView": 2980
-        },
-        {
-            "page": "Gianfranco Polvara",
-            "pageView": 2033
-        },
-        {
-            "page": "Roberto Osio",
-            "pageView": 1788
-        },
-        {
-            "page": "Paola Bazzi",
-            "pageView": 1644
-        },
-        {
-            "page": "Antonella Manzoni",
-            "pageView": 1521
+            "page": "Matteo Grattarola",
+            "pageView": 3,
+            "total": 6334
         },
         {
             "page": "Sigismondo Boldoni",
-            "pageView": 1380
+            "pageView": 2,
+            "total": 1380
         },
         {
-            "page": "Domenico Bassi (filologo)",
-            "pageView": 390
+            "page": "Gianfranco Polvara",
+            "pageView": 2,
+            "total": 2033
+        },
+        {
+            "page": "Antonio Viscardi",
+            "pageView": 2,
+            "total": 2984
+        },
+        {
+            "page": "Roberto Osio",
+            "pageView": 1,
+            "total": 1790
+        },
+        {
+            "page": "Antonella Manzoni",
+            "pageView": 1,
+            "total": 1521
+        },
+        {
+            "page": "Paola Bazzi",
+            "pageView": 1,
+            "total": 1644
         },
         {
             "page": "Ugo Parolo",
-            "pageView": 225
+            "pageView": 0,
+            "total": 232
+        },
+        {
+            "page": "Domenico Bassi (filologo)",
+            "pageView": 0,
+            "total": 390
         }
     ]
 }

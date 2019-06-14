@@ -1,0 +1,27 @@
+{
+    "id": "place.8239799251862320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volterra",
+    "place_name": "Volterra, Pisa, Italy",
+    "bbox": [
+        10.769217,
+        43.301885,
+        11.013182,
+        43.497366
+    ],
+    "center": [
+        10.86667,
+        43.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.86667,
+            43.4
+        ]
+    }
+}

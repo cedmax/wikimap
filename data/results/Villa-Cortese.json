@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Giacomo Poretti",
-            "pageView": 887872
-        },
-        {
-            "page": "Miriam Sylla",
-            "pageView": 255559
-        },
-        {
-            "page": "Sara Anzanello",
-            "pageView": 153313
+            "pageView": 393,
+            "total": 888404
         },
         {
             "page": "Lucia Bosetti",
-            "pageView": 150555
-        },
-        {
-            "page": "Anna Danesi",
-            "pageView": 111857
+            "pageView": 36,
+            "total": 152238
         },
         {
             "page": "Caterina Bosetti",
-            "pageView": 101321
+            "pageView": 33,
+            "total": 101892
         },
         {
             "page": "Paola Cardullo",
-            "pageView": 61524
+            "pageView": 27,
+            "total": 61601
+        },
+        {
+            "page": "Miriam Sylla",
+            "pageView": 26,
+            "total": 256430
         },
         {
             "page": "Martina Guiggi",
-            "pageView": 59695
+            "pageView": 26,
+            "total": 59721
         },
         {
-            "page": "Stefana Veljković",
-            "pageView": 59254
-        },
-        {
-            "page": "Raphaela Folie",
-            "pageView": 52278
-        },
-        {
-            "page": "Beatrice Parrocchiale",
-            "pageView": 49572
+            "page": "Anna Danesi",
+            "pageView": 22,
+            "total": 112813
         },
         {
             "page": "Taismary Agüero",
-            "pageView": 45645
+            "pageView": 21,
+            "total": 45692
         },
         {
-            "page": "Katarina Barun",
-            "pageView": 24111
+            "page": "Raphaela Folie",
+            "pageView": 17,
+            "total": 52320
         },
         {
-            "page": "Federica Stufi",
-            "pageView": 20979
-        },
-        {
-            "page": "Giovanni Caprara",
-            "pageView": 19896
+            "page": "Sara Anzanello",
+            "pageView": 14,
+            "total": 153397
         },
         {
             "page": "Franco Tosi",
-            "pageView": 18826
+            "pageView": 12,
+            "total": 18834
+        },
+        {
+            "page": "Giovanni Caprara",
+            "pageView": 11,
+            "total": 19916
+        },
+        {
+            "page": "Katarina Barun",
+            "pageView": 11,
+            "total": 24129
+        },
+        {
+            "page": "Beatrice Parrocchiale",
+            "pageView": 10,
+            "total": 50345
+        },
+        {
+            "page": "Federica Stufi",
+            "pageView": 9,
+            "total": 20989
         },
         {
             "page": "Megan Hodge",
-            "pageView": 18566
-        },
-        {
-            "page": "Marika Bianchini",
-            "pageView": 16814
-        },
-        {
-            "page": "Marcello Abbondanza",
-            "pageView": 13239
+            "pageView": 8,
+            "total": 18579
         },
         {
             "page": "Anna Vania Mello",
-            "pageView": 12570
+            "pageView": 7,
+            "total": 12590
+        },
+        {
+            "page": "Marika Bianchini",
+            "pageView": 7,
+            "total": 16859
         },
         {
             "page": "Raffaella Calloni",
-            "pageView": 11446
+            "pageView": 6,
+            "total": 11449
         },
         {
             "page": "Ilaria Garzaro",
-            "pageView": 11262
+            "pageView": 6,
+            "total": 11270
         },
         {
-            "page": "Áurea Cruz",
-            "pageView": 10666
+            "page": "Marcello Abbondanza",
+            "pageView": 6,
+            "total": 13242
         },
         {
-            "page": "Natalia Viganò",
-            "pageView": 9627
-        },
-        {
-            "page": "Sarah Pavan",
-            "pageView": 9568
-        },
-        {
-            "page": "Giulia Pincerato",
-            "pageView": 8815
+            "page": "Stefana Veljković",
+            "pageView": 6,
+            "total": 59287
         },
         {
             "page": "Elena Perinelli",
-            "pageView": 8466
+            "pageView": 5,
+            "total": 8472
         },
         {
-            "page": "Sanja Malagurski",
-            "pageView": 8435
-        },
-        {
-            "page": "Manuela Secolo",
-            "pageView": 7280
-        },
-        {
-            "page": "Luna Carocci",
-            "pageView": 7253
-        },
-        {
-            "page": "Alexandra Klineman",
-            "pageView": 6761
+            "page": "Áurea Cruz",
+            "pageView": 5,
+            "total": 10670
         },
         {
             "page": "Sara Paris",
-            "pageView": 6557
+            "pageView": 4,
+            "total": 6558
+        },
+        {
+            "page": "Giulia Pincerato",
+            "pageView": 4,
+            "total": 8824
+        },
+        {
+            "page": "Luna Carocci",
+            "pageView": 4,
+            "total": 7259
+        },
+        {
+            "page": "Alexandra Klineman",
+            "pageView": 4,
+            "total": 6764
+        },
+        {
+            "page": "Sanja Malagurski",
+            "pageView": 4,
+            "total": 8436
+        },
+        {
+            "page": "Natalia Viganò",
+            "pageView": 4,
+            "total": 9631
+        },
+        {
+            "page": "Sarah Pavan",
+            "pageView": 4,
+            "total": 9569
+        },
+        {
+            "page": "Manuela Secolo",
+            "pageView": 4,
+            "total": 7292
         },
         {
             "page": "Chiara Negrini",
-            "pageView": 6180
+            "pageView": 3,
+            "total": 6185
         },
         {
             "page": "Lindsey Berg",
-            "pageView": 5255
-        },
-        {
-            "page": "Vesna Čitaković",
-            "pageView": 4413
-        },
-        {
-            "page": "Maria Nomikou",
-            "pageView": 4075
-        },
-        {
-            "page": "Piero Giunni",
-            "pageView": 3427
-        },
-        {
-            "page": "Daniela Biamonte",
-            "pageView": 2763
-        },
-        {
-            "page": "Alice Blom",
-            "pageView": 2534
-        },
-        {
-            "page": "Vilmarie Mojica",
-            "pageView": 2371
+            "pageView": 3,
+            "total": 5257
         },
         {
             "page": "Ramona Puerari",
-            "pageView": 2281
+            "pageView": 2,
+            "total": 2284
         },
         {
-            "page": "Makare Desilets",
-            "pageView": 1922
+            "page": "Vilmarie Mojica",
+            "pageView": 2,
+            "total": 2373
+        },
+        {
+            "page": "Alice Blom",
+            "pageView": 2,
+            "total": 2539
+        },
+        {
+            "page": "Piero Giunni",
+            "pageView": 2,
+            "total": 3431
+        },
+        {
+            "page": "Maria Nomikou",
+            "pageView": 2,
+            "total": 4079
+        },
+        {
+            "page": "Vesna Čitaković",
+            "pageView": 2,
+            "total": 4413
+        },
+        {
+            "page": "Daniela Biamonte",
+            "pageView": 2,
+            "total": 2765
         },
         {
             "page": "Šárka Barborková",
-            "pageView": 1603
+            "pageView": 1,
+            "total": 1604
         },
         {
             "page": "Michaela Hasalíková",
-            "pageView": 1370
+            "pageView": 1,
+            "total": 1370
+        },
+        {
+            "page": "Makare Desilets",
+            "pageView": 1,
+            "total": 1923
         }
     ]
 }

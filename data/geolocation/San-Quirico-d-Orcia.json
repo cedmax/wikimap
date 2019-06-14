@@ -1,0 +1,27 @@
+{
+    "id": "place.11237623950120540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Quirico d'Orcia",
+    "place_name": "San Quirico d'Orcia, Siena, Italy",
+    "bbox": [
+        11.552441,
+        43.019755,
+        11.657132,
+        43.104196
+    ],
+    "center": [
+        11.6,
+        43.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            43.06667
+        ]
+    }
+}

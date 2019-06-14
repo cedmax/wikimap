@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Michele Placido",
-            "pageView": 932036
+            "pageView": 459,
+            "total": 932378
         },
         {
             "page": "Gerardo Amato",
-            "pageView": 75536
+            "pageView": 42,
+            "total": 75601
         },
         {
             "page": "Donato Placido",
-            "pageView": 47218
+            "pageView": 25,
+            "total": 47240
         },
         {
             "page": "Luigi Renna",
-            "pageView": 23109
+            "pageView": 16,
+            "total": 23116
         },
         {
             "page": "Antonio Marano",
-            "pageView": 18026
+            "pageView": 10,
+            "total": 18034
         },
         {
             "page": "Giovan Battista Pichierri",
-            "pageView": 14095
+            "pageView": 6,
+            "total": 14097
         },
         {
             "page": "Felice di Molfetta",
-            "pageView": 10037
+            "pageView": 5,
+            "total": 10038
         },
         {
             "page": "Paolo Agostinacchio",
-            "pageView": 6577
+            "pageView": 4,
+            "total": 6587
         },
         {
             "page": "Vincenzo D'Addario",
-            "pageView": 6487
+            "pageView": 4,
+            "total": 6492
         },
         {
             "page": "Romolo Caggese",
-            "pageView": 3125
-        },
-        {
-            "page": "Francesco Iavarone",
-            "pageView": 2835
+            "pageView": 2,
+            "total": 3132
         },
         {
             "page": "Potito Pedarra",
-            "pageView": 2666
+            "pageView": 2,
+            "total": 2667
+        },
+        {
+            "page": "Francesco Iavarone",
+            "pageView": 2,
+            "total": 2837
         },
         {
             "page": "Severino Boccia",
-            "pageView": 2221
-        },
-        {
-            "page": "Vincenzo Angiulli",
-            "pageView": 1629
-        },
-        {
-            "page": "Francesco Paolo di Muzio",
-            "pageView": 1527
+            "pageView": 2,
+            "total": 2223
         },
         {
             "page": "Niceforo Doceano",
-            "pageView": 1364
+            "pageView": 1,
+            "total": 1364
+        },
+        {
+            "page": "Vincenzo Angiulli",
+            "pageView": 1,
+            "total": 1629
+        },
+        {
+            "page": "Francesco Paolo di Muzio",
+            "pageView": 1,
+            "total": 1528
         }
     ]
 }

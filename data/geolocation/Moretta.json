@@ -1,0 +1,27 @@
+{
+    "id": "place.15765432063761890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moretta",
+    "place_name": "Moretta, Cuneo, Italy",
+    "bbox": [
+        7.499812,
+        44.734106,
+        7.57841,
+        44.797958
+    ],
+    "center": [
+        7.53806,
+        44.76444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.53806,
+            44.76444
+        ]
+    }
+}

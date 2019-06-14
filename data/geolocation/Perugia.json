@@ -1,0 +1,27 @@
+{
+    "id": "place.13829115313759240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perugia",
+    "place_name": "Perugia, Perugia, Italy",
+    "bbox": [
+        12.172927,
+        42.9935,
+        12.565363,
+        43.285379
+    ],
+    "center": [
+        12.3888,
+        43.1121
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3888,
+            43.1121
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11859461405862540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro di Feletto",
+    "place_name": "San Pietro di Feletto, Treviso, Italy",
+    "bbox": [
+        12.22178,
+        45.867301,
+        12.296411,
+        45.94104
+    ],
+    "center": [
+        12.25,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.25,
+            45.93333
+        ]
+    }
+}

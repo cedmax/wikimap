@@ -1,0 +1,27 @@
+{
+    "id": "place.15067403151448570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venzone",
+    "place_name": "Venzone, Udine, Italy",
+    "bbox": [
+        13.095584,
+        46.313585,
+        13.255089,
+        46.389567
+    ],
+    "center": [
+        13.13333,
+        46.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            46.33333
+        ]
+    }
+}

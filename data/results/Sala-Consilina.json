@@ -3,107 +3,133 @@
     "people": [
         {
             "page": "Nello Mascia",
-            "pageView": 46248
+            "pageView": 24,
+            "total": 46273
         },
         {
             "page": "Giovanni Martini (militare)",
-            "pageView": 41088
+            "pageView": 23,
+            "total": 41102
         },
         {
             "page": "Alfredo De Marsico",
-            "pageView": 27890
-        },
-        {
-            "page": "Angelo Mastrandrea",
-            "pageView": 8360
+            "pageView": 18,
+            "total": 27902
         },
         {
             "page": "Gaetano Esposito",
-            "pageView": 8259
+            "pageView": 5,
+            "total": 8262
         },
         {
             "page": "Giuseppe Giudice",
-            "pageView": 7545
+            "pageView": 5,
+            "total": 7549
+        },
+        {
+            "page": "Angelo Mastrandrea",
+            "pageView": 5,
+            "total": 8366
         },
         {
             "page": "Antonio Di Bisceglie",
-            "pageView": 7362
-        },
-        {
-            "page": "Angela Gabbiadini",
-            "pageView": 5888
+            "pageView": 4,
+            "total": 7367
         },
         {
             "page": "Monica Lestini",
-            "pageView": 5836
+            "pageView": 3,
+            "total": 5840
         },
         {
             "page": "Gabriella Vico",
-            "pageView": 5472
+            "pageView": 3,
+            "total": 5476
         },
         {
-            "page": "Martina Boscoscuro",
-            "pageView": 4057
-        },
-        {
-            "page": "Marilyn Strobbe",
-            "pageView": 3534
-        },
-        {
-            "page": "Bernadett Dékány",
-            "pageView": 3393
-        },
-        {
-            "page": "Sofia Devetag",
-            "pageView": 3096
+            "page": "Angela Gabbiadini",
+            "pageView": 3,
+            "total": 5888
         },
         {
             "page": "Domenico Alfeno Vario",
-            "pageView": 2748
-        },
-        {
-            "page": "Isabella Di Iulio",
-            "pageView": 2536
+            "pageView": 2,
+            "total": 2749
         },
         {
             "page": "Lorena Zuleta",
-            "pageView": 2274
+            "pageView": 2,
+            "total": 2274
+        },
+        {
+            "page": "Marilyn Strobbe",
+            "pageView": 2,
+            "total": 3538
         },
         {
             "page": "Camilla Neriotti",
-            "pageView": 2052
+            "pageView": 2,
+            "total": 2054
         },
         {
-            "page": "Giuseppe De Marinis",
-            "pageView": 1348
+            "page": "Martina Boscoscuro",
+            "pageView": 2,
+            "total": 4058
         },
         {
-            "page": "Natal'ja Kulikova",
-            "pageView": 1091
+            "page": "Bernadett Dékány",
+            "pageView": 2,
+            "total": 3394
+        },
+        {
+            "page": "Sofia Devetag",
+            "pageView": 2,
+            "total": 3096
         },
         {
             "page": "Diego Gatta",
-            "pageView": 1071
+            "pageView": 1,
+            "total": 1073
+        },
+        {
+            "page": "Natal'ja Kulikova",
+            "pageView": 1,
+            "total": 1091
+        },
+        {
+            "page": "Giuseppe De Marinis",
+            "pageView": 1,
+            "total": 1348
         },
         {
             "page": "Kristýna Pastulová",
-            "pageView": 1024
+            "pageView": 1,
+            "total": 1024
         },
         {
-            "page": "Lamberti Sorrentino",
-            "pageView": 613
-        },
-        {
-            "page": "Vittorio Amicarelli",
-            "pageView": 500
-        },
-        {
-            "page": "Costantino Gatta",
-            "pageView": 336
+            "page": "Isabella Di Iulio",
+            "pageView": 0,
+            "total": 2545
         },
         {
             "page": "Francesco Auleta",
-            "pageView": 54
+            "pageView": 0,
+            "total": 55
+        },
+        {
+            "page": "Vittorio Amicarelli",
+            "pageView": 0,
+            "total": 501
+        },
+        {
+            "page": "Costantino Gatta",
+            "pageView": 0,
+            "total": 337
+        },
+        {
+            "page": "Lamberti Sorrentino",
+            "pageView": 0,
+            "total": 617
         }
     ]
 }

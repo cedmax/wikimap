@@ -2,60 +2,74 @@
     "name": "Polla",
     "people": [
         {
-            "page": "Andrea Di Maria",
-            "pageView": 14264
-        },
-        {
             "page": "Michela Rostan",
-            "pageView": 14079
-        },
-        {
-            "page": "Tommaso Pellegrino",
-            "pageView": 6607
-        },
-        {
-            "page": "Costantino Catena",
-            "pageView": 6523
-        },
-        {
-            "page": "Antonio Guarasci",
-            "pageView": 6022
-        },
-        {
-            "page": "Antonio Forte",
-            "pageView": 5125
-        },
-        {
-            "page": "Gerardo Curcio",
-            "pageView": 4144
+            "pageView": 6,
+            "total": 14087
         },
         {
             "page": "Carmen Pellegrino",
-            "pageView": 3863
+            "pageView": 5,
+            "total": 3872
         },
         {
-            "page": "Antonio Mario Innamorato",
-            "pageView": 3347
+            "page": "Tommaso Pellegrino",
+            "pageView": 4,
+            "total": 6612
         },
         {
-            "page": "Vittorio Bracco",
-            "pageView": 2823
+            "page": "Costantino Catena",
+            "pageView": 4,
+            "total": 6526
         },
         {
-            "page": "Nicola Peccheneda",
-            "pageView": 2171
+            "page": "Antonio Guarasci",
+            "pageView": 4,
+            "total": 6024
         },
         {
-            "page": "Mariangela Cirone",
-            "pageView": 2033
+            "page": "Gerardo Curcio",
+            "pageView": 3,
+            "total": 4146
         },
         {
-            "page": "Giosi Roccamonte",
-            "pageView": 1847
+            "page": "Antonio Forte",
+            "pageView": 3,
+            "total": 5129
         },
         {
             "page": "Angelica Parascandolo",
-            "pageView": 1234
+            "pageView": 3,
+            "total": 1236
+        },
+        {
+            "page": "Mariangela Cirone",
+            "pageView": 2,
+            "total": 2035
+        },
+        {
+            "page": "Giosi Roccamonte",
+            "pageView": 2,
+            "total": 1848
+        },
+        {
+            "page": "Nicola Peccheneda",
+            "pageView": 2,
+            "total": 2171
+        },
+        {
+            "page": "Antonio Mario Innamorato",
+            "pageView": 2,
+            "total": 3348
+        },
+        {
+            "page": "Vittorio Bracco",
+            "pageView": 2,
+            "total": 2825
+        },
+        {
+            "page": "Andrea Di Maria",
+            "pageView": 0,
+            "total": 14313
         }
     ]
 }

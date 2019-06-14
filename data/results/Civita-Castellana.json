@@ -3,143 +3,178 @@
     "people": [
         {
             "page": "Paolo Bonacelli",
-            "pageView": 222114
+            "pageView": 112,
+            "total": 222207
         },
         {
             "page": "Papa Alessandro III",
-            "pageView": 79890
-        },
-        {
-            "page": "Antipapa Clemente III",
-            "pageView": 23168
+            "pageView": 52,
+            "total": 79928
         },
         {
             "page": "Leonardo Sernicola",
-            "pageView": 19240
+            "pageView": 18,
+            "total": 19260
         },
         {
             "page": "Alessandro Tuia",
-            "pageView": 14874
+            "pageView": 17,
+            "total": 14891
+        },
+        {
+            "page": "Antipapa Clemente III",
+            "pageView": 15,
+            "total": 23180
         },
         {
             "page": "Romano Rossi",
-            "pageView": 9061
+            "pageView": 6,
+            "total": 9067
         },
         {
             "page": "Giancarlo Primo",
-            "pageView": 7638
+            "pageView": 5,
+            "total": 7643
         },
         {
             "page": "Alessandro Preti",
-            "pageView": 7117
+            "pageView": 4,
+            "total": 7118
         },
         {
             "page": "Antonella Colonna Vilasi",
-            "pageView": 6930
-        },
-        {
-            "page": "Andrea Cesarini",
-            "pageView": 6806
-        },
-        {
-            "page": "Alessandro Franceschini",
-            "pageView": 6715
+            "pageView": 4,
+            "total": 6931
         },
         {
             "page": "Adriano Paolucci",
-            "pageView": 5392
+            "pageView": 3,
+            "total": 5393
         },
         {
-            "page": "Enrico Minio",
-            "pageView": 4757
+            "page": "Andrea Cesarini",
+            "pageView": 3,
+            "total": 6807
         },
         {
             "page": "Mauro Matteucci",
-            "pageView": 4736
-        },
-        {
-            "page": "Alessio Paternesi",
-            "pageView": 4644
-        },
-        {
-            "page": "Damiano Valsecchi",
-            "pageView": 4609
+            "pageView": 3,
+            "total": 4737
         },
         {
             "page": "Domenico Mazzocchi",
-            "pageView": 4368
+            "pageView": 3,
+            "total": 4369
         },
         {
-            "page": "Virgilio Mazzocchi",
-            "pageView": 4336
+            "page": "Enrico Minio",
+            "pageView": 3,
+            "total": 4758
+        },
+        {
+            "page": "Alessio Paternesi",
+            "pageView": 3,
+            "total": 4646
+        },
+        {
+            "page": "Alessandro Franceschini",
+            "pageView": 3,
+            "total": 6717
         },
         {
             "page": "Fosco Cicola",
-            "pageView": 4166
+            "pageView": 3,
+            "total": 4171
         },
         {
-            "page": "Sergio Caprari",
-            "pageView": 3871
+            "page": "Damiano Valsecchi",
+            "pageView": 3,
+            "total": 4612
+        },
+        {
+            "page": "Virgilio Mazzocchi",
+            "pageView": 3,
+            "total": 4337
         },
         {
             "page": "Paolo Alborghetti",
-            "pageView": 3526
-        },
-        {
-            "page": "Jan Willem Snippe",
-            "pageView": 3476
-        },
-        {
-            "page": "Roberto Romiti",
-            "pageView": 2994
-        },
-        {
-            "page": "Giacomo Rigoni",
-            "pageView": 2730
+            "pageView": 2,
+            "total": 3527
         },
         {
             "page": "Dillo Lombardi",
-            "pageView": 2654
-        },
-        {
-            "page": "Francesco De Luca (pallavolista)",
-            "pageView": 2537
-        },
-        {
-            "page": "Davide Pellegrino",
-            "pageView": 2490
-        },
-        {
-            "page": "Manuele Marchiani",
-            "pageView": 2489
+            "pageView": 2,
+            "total": 2658
         },
         {
             "page": "Paulo da Silva (pallavolista)",
-            "pageView": 2148
+            "pageView": 2,
+            "total": 2148
         },
         {
-            "page": "Vito Fedeli",
-            "pageView": 1982
+            "page": "Francesco De Luca (pallavolista)",
+            "pageView": 2,
+            "total": 2538
         },
         {
             "page": "Nicola Tiozzo",
-            "pageView": 1788
+            "pageView": 2,
+            "total": 1789
         },
         {
-            "page": "Matthew Pollock",
-            "pageView": 1458
+            "page": "Manuele Marchiani",
+            "pageView": 2,
+            "total": 2491
+        },
+        {
+            "page": "Sergio Caprari",
+            "pageView": 2,
+            "total": 3873
+        },
+        {
+            "page": "Davide Pellegrino",
+            "pageView": 2,
+            "total": 2492
+        },
+        {
+            "page": "Vito Fedeli",
+            "pageView": 2,
+            "total": 1982
+        },
+        {
+            "page": "Jan Willem Snippe",
+            "pageView": 2,
+            "total": 3478
+        },
+        {
+            "page": "Giacomo Rigoni",
+            "pageView": 2,
+            "total": 2731
+        },
+        {
+            "page": "Roberto Romiti",
+            "pageView": 2,
+            "total": 2995
         },
         {
             "page": "Mattia Agostino Mengacci",
-            "pageView": 810
+            "pageView": 1,
+            "total": 810
+        },
+        {
+            "page": "Matthew Pollock",
+            "pageView": 1,
+            "total": 1458
         },
         {
             "page": "Gianni La Commare",
-            "pageView": 559
+            "pageView": 0,
+            "total": 565
         },
         {
             "page": "Domenico Petrucci",
-            "pageView": 487
+            "pageView": 0,
+            "total": 488
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.9149075617969950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mazzè",
+    "place_name": "Mazzè, Torino, Italy",
+    "bbox": [
+        7.908977,
+        45.247446,
+        7.982513,
+        45.328171
+    ],
+    "center": [
+        7.93333,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93333,
+            45.3
+        ]
+    }
+}

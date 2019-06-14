@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Michele Pennisi",
-            "pageView": 18767
+            "pageView": 11,
+            "total": 18773
         },
         {
             "page": "Vincenzo Trantino",
-            "pageView": 14014
+            "pageView": 8,
+            "total": 14029
         },
         {
             "page": "Mariano Agosta",
-            "pageView": 1968
+            "pageView": 2,
+            "total": 1968
         },
         {
             "page": "Mariano Cusmano",
-            "pageView": 1483
+            "pageView": 1,
+            "total": 1483
         },
         {
             "page": "Francesco Cascio (missionario)",
-            "pageView": 461
+            "pageView": 0,
+            "total": 462
         }
     ]
 }

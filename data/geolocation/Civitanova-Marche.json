@@ -1,0 +1,27 @@
+{
+    "id": "place.7248823785370690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civitanova Marche",
+    "place_name": "Civitanova Marche, Macerata, Italy",
+    "bbox": [
+        13.630026,
+        43.274689,
+        13.742461,
+        43.349097
+    ],
+    "center": [
+        13.7286,
+        43.30675
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7286,
+            43.30675
+        ]
+    }
+}

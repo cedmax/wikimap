@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Dario Hübner",
-            "pageView": 483254
-        },
-        {
-            "page": "Mohamed Abdourammane Coly",
-            "pageView": 42789
+            "pageView": 231.5,
+            "total": 483630
         },
         {
             "page": "Valter Bonacina",
-            "pageView": 36027
+            "pageView": 20,
+            "total": 36054
+        },
+        {
+            "page": "Mohamed Abdourammane Coly",
+            "pageView": 16,
+            "total": 42795
         },
         {
             "page": "Maurizio Braghin",
-            "pageView": 20657
-        },
-        {
-            "page": "Lodovico Pavoni",
-            "pageView": 17687
+            "pageView": 13,
+            "total": 20665
         },
         {
             "page": "Marco Piovanelli",
-            "pageView": 16451
+            "pageView": 10.5,
+            "total": 16463
+        },
+        {
+            "page": "Lodovico Pavoni",
+            "pageView": 8,
+            "total": 17695
         },
         {
             "page": "Juriy Cannarsa",
-            "pageView": 10686
+            "pageView": 7,
+            "total": 10691
         },
         {
             "page": "Giovanni Lorini",
-            "pageView": 9212
-        },
-        {
-            "page": "Giordano Caini",
-            "pageView": 8195
+            "pageView": 6,
+            "total": 9218
         },
         {
             "page": "Christian Araboni",
-            "pageView": 7959
+            "pageView": 5,
+            "total": 7970
         },
         {
-            "page": "Roberto Galletti",
-            "pageView": 6464
-        },
-        {
-            "page": "Adolfo Daniele Speranza",
-            "pageView": 6318
+            "page": "Giordano Caini",
+            "pageView": 5,
+            "total": 8201
         },
         {
             "page": "Cristian Trapella",
-            "pageView": 6052
+            "pageView": 4,
+            "total": 6058
         },
         {
-            "page": "Gianpiero Piovani",
-            "pageView": 5060
+            "page": "Adolfo Daniele Speranza",
+            "pageView": 4,
+            "total": 6326
         },
         {
-            "page": "Giovanni Trainini",
-            "pageView": 4850
+            "page": "Roberto Galletti",
+            "pageView": 4,
+            "total": 6469
         },
         {
             "page": "Edgars Gauračs",
-            "pageView": 4454
+            "pageView": 3,
+            "total": 4458
         },
         {
             "page": "Maurizio Laureri",
-            "pageView": 4157
+            "pageView": 3,
+            "total": 4158
         },
         {
-            "page": "Orazio Borgondio",
-            "pageView": 2542
+            "page": "Giovanni Trainini",
+            "pageView": 3,
+            "total": 4854
         },
         {
             "page": "Andrés Garrone",
-            "pageView": 2298
+            "pageView": 2,
+            "total": 2300
+        },
+        {
+            "page": "Orazio Borgondio",
+            "pageView": 2,
+            "total": 2542
         },
         {
             "page": "Arturo Reggio (politico)",
-            "pageView": 808
+            "pageView": 1,
+            "total": 808
+        },
+        {
+            "page": "Gianpiero Piovani",
+            "pageView": 0,
+            "total": 5075
         }
     ]
 }

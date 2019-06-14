@@ -1,0 +1,27 @@
+{
+    "id": "place.18516885280117570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sordevolo",
+    "place_name": "Sordevolo, Biella, Italy",
+    "bbox": [
+        7.895289,
+        45.564912,
+        7.989879,
+        45.620368
+    ],
+    "center": [
+        7.98333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98333,
+            45.56667
+        ]
+    }
+}

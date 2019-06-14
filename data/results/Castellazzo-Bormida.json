@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Paolo della Croce",
-            "pageView": 31540
+            "pageView": 16,
+            "total": 31559
         },
         {
             "page": "Stefano Angeleri",
-            "pageView": 14217
+            "pageView": 7,
+            "total": 14224
         },
         {
             "page": "Giovanni Gasti",
-            "pageView": 9077
-        },
-        {
-            "page": "Ugo Canefri",
-            "pageView": 6069
+            "pageView": 6,
+            "total": 9084
         },
         {
             "page": "Girolamo Prigione",
-            "pageView": 5970
+            "pageView": 3,
+            "total": 5972
+        },
+        {
+            "page": "Ugo Canefri",
+            "pageView": 3,
+            "total": 6071
         },
         {
             "page": "Giacomo Panizza",
-            "pageView": 5476
+            "pageView": 3,
+            "total": 5480
         },
         {
             "page": "Gregorio Maria Grassi",
-            "pageView": 3459
+            "pageView": 2,
+            "total": 3461
         }
     ]
 }

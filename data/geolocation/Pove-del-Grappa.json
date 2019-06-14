@@ -1,0 +1,27 @@
+{
+    "id": "place.8177059984247260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pove del Grappa",
+    "place_name": "Pove del Grappa, Vicenza, Italy",
+    "bbox": [
+        11.714263,
+        45.785141,
+        11.767506,
+        45.874843
+    ],
+    "center": [
+        11.73333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.73333,
+            45.8
+        ]
+    }
+}

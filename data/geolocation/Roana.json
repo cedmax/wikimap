@@ -1,0 +1,27 @@
+{
+    "id": "place.17367865258877230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roana",
+    "place_name": "Roana, Vicenza, Italy",
+    "bbox": [
+        11.383357,
+        45.810814,
+        11.490321,
+        45.954445
+    ],
+    "center": [
+        11.46278,
+        45.87639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46278,
+            45.87639
+        ]
+    }
+}

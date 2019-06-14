@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Francesco Boito",
-            "pageView": 7420
+            "pageView": 5,
+            "total": 7423
         },
         {
             "page": "Silvestro Boito",
-            "pageView": 6044
+            "pageView": 4,
+            "total": 6049
         },
         {
             "page": "Paolo Saviane",
-            "pageView": 1198
+            "pageView": 0,
+            "total": 1199
         }
     ]
 }

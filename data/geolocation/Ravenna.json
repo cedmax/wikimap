@@ -1,0 +1,27 @@
+{
+    "id": "place.6303649975023970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ravenna",
+    "place_name": "Ravenna, Ravenna, Italy",
+    "bbox": [
+        12.028262,
+        44.21314,
+        12.34774,
+        44.628661
+    ],
+    "center": [
+        12.19944,
+        44.41778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.19944,
+            44.41778
+        ]
+    }
+}

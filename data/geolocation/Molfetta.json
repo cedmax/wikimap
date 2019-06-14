@@ -1,0 +1,27 @@
+{
+    "id": "place.4970966244347950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Molfetta",
+    "place_name": "Molfetta, Bari, Italy",
+    "bbox": [
+        16.508745,
+        41.137078,
+        16.640964,
+        41.229166
+    ],
+    "center": [
+        16.6,
+        41.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.6,
+            41.2
+        ]
+    }
+}

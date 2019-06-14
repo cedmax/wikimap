@@ -1,0 +1,27 @@
+{
+    "id": "place.3654855041745010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Lucia di Piave",
+    "place_name": "Santa Lucia di Piave, Treviso, Italy",
+    "bbox": [
+        12.2642,
+        45.787979,
+        12.313905,
+        45.867063
+    ],
+    "center": [
+        12.28333,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.28333,
+            45.85
+        ]
+    }
+}

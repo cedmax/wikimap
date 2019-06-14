@@ -1,0 +1,21 @@
+{
+    "id": "poi.2491081080086",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Viganò",
+    "place_name": "Viganò, via Paolo da Cannobio 39, Milano, Milano 20123, Italy",
+    "center": [
+        9.189368,
+        45.462875
+    ],
+    "geometry": {
+        "coordinates": [
+            9.189368,
+            45.462875
+        ],
+        "type": "Point"
+    }
+}

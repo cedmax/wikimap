@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Sara Gama",
-            "pageView": 224876
+            "pageView": 37,
+            "total": 227997
         },
         {
             "page": "Ezio Pascutti",
-            "pageView": 91980
+            "pageView": 35,
+            "total": 92009
         },
         {
             "page": "Marta Mason",
-            "pageView": 19189
+            "pageView": 6,
+            "total": 19196
         },
         {
             "page": "Mario Lizzero",
-            "pageView": 6119
-        },
-        {
-            "page": "Alessia Tuttino",
-            "pageView": 5945
+            "pageView": 4,
+            "total": 6123
         },
         {
             "page": "Giulia Domenichetti",
-            "pageView": 5884
+            "pageView": 3,
+            "total": 5893
         },
         {
             "page": "Evelyn Vicchiarello",
-            "pageView": 4757
+            "pageView": 3,
+            "total": 4764
         },
         {
-            "page": "Lara Barbieri",
-            "pageView": 3716
-        },
-        {
-            "page": "Francesca Soro",
-            "pageView": 2933
-        },
-        {
-            "page": "Valeria Magrini",
-            "pageView": 2883
-        },
-        {
-            "page": "Rossella Sardu",
-            "pageView": 2761
-        },
-        {
-            "page": "Priscilla Del Prete",
-            "pageView": 2583
-        },
-        {
-            "page": "Margherita Zanon",
-            "pageView": 2249
-        },
-        {
-            "page": "Michela Greco",
-            "pageView": 2188
+            "page": "Alessia Tuttino",
+            "pageView": 3,
+            "total": 5954
         },
         {
             "page": "Gloria Frizza",
-            "pageView": 2095
+            "pageView": 2,
+            "total": 2096
+        },
+        {
+            "page": "Priscilla Del Prete",
+            "pageView": 2,
+            "total": 2585
+        },
+        {
+            "page": "Michela Greco",
+            "pageView": 2,
+            "total": 2193
+        },
+        {
+            "page": "Lara Barbieri",
+            "pageView": 2,
+            "total": 3718
+        },
+        {
+            "page": "Margherita Zanon",
+            "pageView": 2,
+            "total": 2251
+        },
+        {
+            "page": "Francesca Soro",
+            "pageView": 2,
+            "total": 2935
+        },
+        {
+            "page": "Valeria Magrini",
+            "pageView": 2,
+            "total": 2884
+        },
+        {
+            "page": "Rossella Sardu",
+            "pageView": 2,
+            "total": 2763
         },
         {
             "page": "Chiara Paroni",
-            "pageView": 1966
-        },
-        {
-            "page": "Silvia Sedonati",
-            "pageView": 1797
-        },
-        {
-            "page": "Stefania Blancuzzi",
-            "pageView": 1791
-        },
-        {
-            "page": "Michela Zanetti",
-            "pageView": 1679
-        },
-        {
-            "page": "Karin Mantoani",
-            "pageView": 1625
-        },
-        {
-            "page": "Antonella Paoletti",
-            "pageView": 1621
-        },
-        {
-            "page": "Laura Donghi",
-            "pageView": 1521
-        },
-        {
-            "page": "Faustino Barbina",
-            "pageView": 1435
+            "pageView": 2,
+            "total": 1966
         },
         {
             "page": "Silvia Berardo",
-            "pageView": 1387
+            "pageView": 1,
+            "total": 1388
+        },
+        {
+            "page": "Stefania Blancuzzi",
+            "pageView": 1,
+            "total": 1791
+        },
+        {
+            "page": "Karin Mantoani",
+            "pageView": 1,
+            "total": 1625
+        },
+        {
+            "page": "Silvia Sedonati",
+            "pageView": 1,
+            "total": 1800
         },
         {
             "page": "Anja Milenkovič",
-            "pageView": 1362
+            "pageView": 1,
+            "total": 1362
         },
         {
-            "page": "Elena Virgili",
-            "pageView": 1169
+            "page": "Antonella Paoletti",
+            "pageView": 1,
+            "total": 1621
+        },
+        {
+            "page": "Michela Zanetti",
+            "pageView": 1,
+            "total": 1679
+        },
+        {
+            "page": "Laura Donghi",
+            "pageView": 1,
+            "total": 1522
         },
         {
             "page": "Urška Žganec",
-            "pageView": 979
+            "pageView": 1,
+            "total": 979
         },
         {
-            "page": "Piera Cassandra Maglio",
-            "pageView": 730
+            "page": "Faustino Barbina",
+            "pageView": 1,
+            "total": 1435
         },
         {
-            "page": "Virginio Pizzali",
-            "pageView": 430
+            "page": "Elena Virgili",
+            "pageView": 1,
+            "total": 1172
         },
         {
             "page": "Elisa Lavia",
-            "pageView": 356
-        },
-        {
-            "page": "Marianna Hofer",
-            "pageView": 320
+            "pageView": 0,
+            "total": 357
         },
         {
             "page": "Snežana Maleševič",
-            "pageView": 247
+            "pageView": 0,
+            "total": 247
+        },
+        {
+            "page": "Virginio Pizzali",
+            "pageView": 0,
+            "total": 431
         },
         {
             "page": "Arianna Cencig",
-            "pageView": 161
+            "pageView": 0,
+            "total": 161
+        },
+        {
+            "page": "Piera Cassandra Maglio",
+            "pageView": 0,
+            "total": 733
+        },
+        {
+            "page": "Marianna Hofer",
+            "pageView": 0,
+            "total": 320
         }
     ]
 }

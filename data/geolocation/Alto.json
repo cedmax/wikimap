@@ -1,0 +1,27 @@
+{
+    "id": "place.8326736425826140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alto",
+    "place_name": "Alto, Cuneo, Italy",
+    "bbox": [
+        7.967335,
+        44.102969,
+        8.015932,
+        44.133458
+    ],
+    "center": [
+        8,
+        44.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8,
+            44.11667
+        ]
+    }
+}

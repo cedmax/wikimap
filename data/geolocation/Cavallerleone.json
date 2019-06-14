@@ -1,0 +1,27 @@
+{
+    "id": "place.10315270168760470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavallerleone",
+    "place_name": "Cavallerleone, Cuneo, Italy",
+    "bbox": [
+        7.617747,
+        44.712203,
+        7.685405,
+        44.757966
+    ],
+    "center": [
+        7.66667,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.66667,
+            44.73333
+        ]
+    }
+}

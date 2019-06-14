@@ -2,72 +2,89 @@
     "name": "Sandrigo",
     "people": [
         {
-            "page": "Alessandra Viero",
-            "pageView": 107784
+            "page": "Filippo Pozzato",
+            "pageView": 40,
+            "total": 95464
         },
         {
-            "page": "Filippo Pozzato",
-            "pageView": 95418
+            "page": "Alessandra Viero",
+            "pageView": 36,
+            "total": 107810
         },
         {
             "page": "Vitaliano Trevisan",
-            "pageView": 45090
+            "pageView": 27,
+            "total": 45102
         },
         {
             "page": "Tiziano Manfrin",
-            "pageView": 12915
-        },
-        {
-            "page": "Andrea Stella (velista)",
-            "pageView": 10978
+            "pageView": 8,
+            "total": 12921
         },
         {
             "page": "Gastone Garziera",
-            "pageView": 8542
+            "pageView": 6,
+            "total": 8549
         },
         {
-            "page": "Giacomo Chilesotti",
-            "pageView": 5608
-        },
-        {
-            "page": "Gianfranco Volpato",
-            "pageView": 5305
+            "page": "Andrea Stella (velista)",
+            "pageView": 5,
+            "total": 10984
         },
         {
             "page": "Fausto Fornaci",
-            "pageView": 4326
+            "pageView": 3,
+            "total": 4332
         },
         {
-            "page": "Giovanni Carli",
-            "pageView": 3632
+            "page": "Giacomo Chilesotti",
+            "pageView": 3,
+            "total": 5613
+        },
+        {
+            "page": "Gianfranco Volpato",
+            "pageView": 3,
+            "total": 5312
         },
         {
             "page": "Gabriele De Toni",
-            "pageView": 3236
+            "pageView": 2,
+            "total": 3238
         },
         {
-            "page": "Roberto Dalla Vecchia (cestista)",
-            "pageView": 1634
-        },
-        {
-            "page": "Aldo Nichele",
-            "pageView": 1526
-        },
-        {
-            "page": "Michela Voltan",
-            "pageView": 1503
+            "page": "Giovanni Carli",
+            "pageView": 2,
+            "total": 3634
         },
         {
             "page": "Domenico Pittarini",
-            "pageView": 1189
+            "pageView": 1,
+            "total": 1189
         },
         {
-            "page": "Giulio Fona",
-            "pageView": 519
+            "page": "Michela Voltan",
+            "pageView": 1,
+            "total": 1503
+        },
+        {
+            "page": "Aldo Nichele",
+            "pageView": 1,
+            "total": 1527
         },
         {
             "page": "Fabio Rizzitelli",
-            "pageView": 455
+            "pageView": 0,
+            "total": 455
+        },
+        {
+            "page": "Giulio Fona",
+            "pageView": 0,
+            "total": 519
+        },
+        {
+            "page": "Roberto Dalla Vecchia (cestista)",
+            "pageView": 0,
+            "total": 1639
         }
     ]
 }

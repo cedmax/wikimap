@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Emanuele Ferraro (calciatore)",
-            "pageView": 9556
+            "pageView": 6,
+            "total": 9562
         },
         {
             "page": "Piero Carnabuci",
-            "pageView": 6375
+            "pageView": 4,
+            "total": 6376
         },
         {
             "page": "Vincenzo Trimarchi",
-            "pageView": 4858
-        },
-        {
-            "page": "Michelangelo Trimarchi",
-            "pageView": 3654
-        },
-        {
-            "page": "Luigi Ragno",
-            "pageView": 3147
-        },
-        {
-            "page": "Paolo Restuccia",
-            "pageView": 3000
+            "pageView": 3,
+            "total": 4860
         },
         {
             "page": "Giovanni Krymi",
-            "pageView": 2798
+            "pageView": 2,
+            "total": 2801
         },
         {
-            "page": "Salvatore Ragno",
-            "pageView": 2786
+            "page": "Luigi Ragno",
+            "pageView": 2,
+            "total": 3149
+        },
+        {
+            "page": "Paolo Restuccia",
+            "pageView": 2,
+            "total": 3002
         },
         {
             "page": "Antonino Maccarrone",
-            "pageView": 2029
+            "pageView": 2,
+            "total": 2032
+        },
+        {
+            "page": "Salvatore Ragno",
+            "pageView": 2,
+            "total": 2787
+        },
+        {
+            "page": "Michelangelo Trimarchi",
+            "pageView": 2,
+            "total": 3654
         }
     ]
 }

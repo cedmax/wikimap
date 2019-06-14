@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Raffaele Menici",
-            "pageView": 2299
+            "pageView": 2,
+            "total": 2299
         },
         {
             "page": "Zeffirino Ballardini",
-            "pageView": 1764
+            "pageView": 1,
+            "total": 1764
         },
         {
             "page": "Marcello Bazzana",
-            "pageView": 247
+            "pageView": 0,
+            "total": 249
         },
         {
             "page": "Luigi Pennacchio",
-            "pageView": 232
+            "pageView": 0,
+            "total": 232
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.17442906730909300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Predosa",
+    "place_name": "Predosa, Alessandria, Italy",
+    "bbox": [
+        8.599289,
+        44.711019,
+        8.675139,
+        44.795711
+    ],
+    "center": [
+        8.65639,
+        44.75222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.65639,
+            44.75222
+        ]
+    }
+}

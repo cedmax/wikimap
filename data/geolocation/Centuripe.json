@@ -1,0 +1,27 @@
+{
+    "id": "place.9172911352132340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Centuripe",
+    "place_name": "Centuripe, Enna, Italy",
+    "bbox": [
+        14.662414,
+        37.499362,
+        14.829314,
+        37.711991
+    ],
+    "center": [
+        14.73333,
+        37.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.73333,
+            37.61667
+        ]
+    }
+}

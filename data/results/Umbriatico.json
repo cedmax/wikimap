@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Andrea della Valle (cardinale)",
-            "pageView": 5966
+            "pageView": 4,
+            "total": 5971
         },
         {
             "page": "Giovanni Piccolomini",
-            "pageView": 4349
+            "pageView": 3,
+            "total": 4350
         },
         {
             "page": "Giovanni Matteo Lucifero",
-            "pageView": 2013
+            "pageView": 2,
+            "total": 2013
         },
         {
             "page": "Francesco Maria Loyero",
-            "pageView": 1618
-        },
-        {
-            "page": "Nicola Coco",
-            "pageView": 842
+            "pageView": 1,
+            "total": 1619
         },
         {
             "page": "Giacomo Antonio Lucifero",
-            "pageView": 213
+            "pageView": 0,
+            "total": 213
         },
         {
             "page": "Bartolomeo Olivieri",
-            "pageView": 80
+            "pageView": 0,
+            "total": 80
+        },
+        {
+            "page": "Nicola Coco",
+            "pageView": 0,
+            "total": 849
         }
     ]
 }

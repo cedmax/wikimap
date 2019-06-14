@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Giacomo Zanella",
-            "pageView": 29756
+            "pageView": 16,
+            "total": 29772
         },
         {
             "page": "Alessandro Faedo",
-            "pageView": 10358
+            "pageView": 7,
+            "total": 10367
         },
         {
             "page": "Antonio Mistrorigo",
-            "pageView": 9450
+            "pageView": 6,
+            "total": 9458
         },
         {
             "page": "Silvio Negro",
-            "pageView": 7221
+            "pageView": 5,
+            "total": 7223
         },
         {
             "page": "Vittorio Fontanella",
-            "pageView": 3426
+            "pageView": 2,
+            "total": 3428
         },
         {
             "page": "Gaetano Marzagaglia",
-            "pageView": 2142
+            "pageView": 2,
+            "total": 2145
         },
         {
             "page": "Annarosa Dal Maso",
-            "pageView": 1747
+            "pageView": 1,
+            "total": 1747
         },
         {
             "page": "Albano Negro",
-            "pageView": 1575
+            "pageView": 1,
+            "total": 1578
         },
         {
             "page": "Raffaele Righetto",
-            "pageView": 1283
+            "pageView": 1,
+            "total": 1287
         },
         {
             "page": "Isnardo da Chiampo",
-            "pageView": 24
+            "pageView": 0,
+            "total": 25
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.9220136396898960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giovinazzo",
+    "place_name": "Giovinazzo, Bari, Italy",
+    "bbox": [
+        16.59546,
+        41.116991,
+        16.732655,
+        41.19406
+    ],
+    "center": [
+        16.66667,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.66667,
+            41.18333
+        ]
+    }
+}

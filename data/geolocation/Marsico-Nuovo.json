@@ -1,0 +1,27 @@
+{
+    "id": "place.4873043200959530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marsico Nuovo",
+    "place_name": "Marsico Nuovo, Potenza, Italy",
+    "bbox": [
+        15.648234,
+        40.357419,
+        15.800495,
+        40.485781
+    ],
+    "center": [
+        15.73333,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.73333,
+            40.41667
+        ]
+    }
+}

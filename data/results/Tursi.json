@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Francescantonio Nolè",
-            "pageView": 20021
+            "pageView": 12,
+            "total": 20027
         },
         {
             "page": "Albino Pierro",
-            "pageView": 17120
+            "pageView": 11,
+            "total": 17129
         },
         {
             "page": "Vincenzo Carmine Orofino",
-            "pageView": 11806
-        },
-        {
-            "page": "Rocco Talucci",
-            "pageView": 9553
+            "pageView": 7,
+            "total": 11811
         },
         {
             "page": "Andrea Ferrara",
-            "pageView": 9529
-        },
-        {
-            "page": "Gerardo Pierro",
-            "pageView": 8071
+            "pageView": 6,
+            "total": 9533
         },
         {
             "page": "Francesco Cuccarese",
-            "pageView": 7583
+            "pageView": 5,
+            "total": 7588
+        },
+        {
+            "page": "Rocco Talucci",
+            "pageView": 5,
+            "total": 9559
+        },
+        {
+            "page": "Gerardo Pierro",
+            "pageView": 5,
+            "total": 8075
         },
         {
             "page": "Corrado Veneziano",
-            "pageView": 6827
-        },
-        {
-            "page": "Carmelo Pujia (arcivescovo)",
-            "pageView": 3322
+            "pageView": 4,
+            "total": 6831
         },
         {
             "page": "Domenico Simeone Oliva",
-            "pageView": 3056
-        },
-        {
-            "page": "Luigi Nobile",
-            "pageView": 2843
-        },
-        {
-            "page": "Pasquale Quaremba",
-            "pageView": 2831
-        },
-        {
-            "page": "Berardino Elvino",
-            "pageView": 2033
+            "pageView": 2,
+            "total": 3060
         },
         {
             "page": "Manlio Capitolo",
-            "pageView": 1849
+            "pageView": 2,
+            "total": 1851
         },
         {
-            "page": "Vincenzo Cristiano",
-            "pageView": 1695
+            "page": "Berardino Elvino",
+            "pageView": 2,
+            "total": 2033
         },
         {
             "page": "Vincenzo Franco",
-            "pageView": 1627
+            "pageView": 2,
+            "total": 1627
+        },
+        {
+            "page": "Carmelo Pujia (arcivescovo)",
+            "pageView": 2,
+            "total": 3324
         },
         {
             "page": "Giovanni Pulvirenti",
-            "pageView": 1554
+            "pageView": 2,
+            "total": 1554
         },
         {
-            "page": "Serafino Angelini",
-            "pageView": 1418
+            "page": "Pasquale Quaremba",
+            "pageView": 2,
+            "total": 2834
+        },
+        {
+            "page": "Luigi Nobile",
+            "pageView": 2,
+            "total": 2844
         },
         {
             "page": "Carmela Ayr Chiari",
-            "pageView": 1338
+            "pageView": 1,
+            "total": 1338
+        },
+        {
+            "page": "Vincenzo Cristiano",
+            "pageView": 1,
+            "total": 1695
+        },
+        {
+            "page": "Serafino Angelini",
+            "pageView": 1,
+            "total": 1418
         },
         {
             "page": "Domenico Sabbatino",
-            "pageView": 91
+            "pageView": 0,
+            "total": 91
         }
     ]
 }

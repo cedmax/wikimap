@@ -1,0 +1,27 @@
+{
+    "id": "place.4817521010579440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collesalvetti",
+    "place_name": "Collesalvetti, Livorno, Italy",
+    "bbox": [
+        10.338486,
+        43.486213,
+        10.509688,
+        43.634797
+    ],
+    "center": [
+        10.48333,
+        43.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.48333,
+            43.6
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Niko Romito",
-            "pageView": 32652
+            "pageView": 59,
+            "total": 32716
         },
         {
             "page": "Teofilo Patini",
-            "pageView": 25711
+            "pageView": 16,
+            "total": 25722
         },
         {
             "page": "Enza Blundo",
-            "pageView": 11906
-        },
-        {
-            "page": "Ermanno Marchionna",
-            "pageView": 2784
-        },
-        {
-            "page": "Cosimo Savastano",
-            "pageView": 2699
+            "pageView": 4,
+            "total": 11909
         },
         {
             "page": "Vincenzo Balzano",
-            "pageView": 2564
-        },
-        {
-            "page": "Clemente Marchionna",
-            "pageView": 2211
+            "pageView": 2,
+            "total": 2565
         },
         {
             "page": "Carmine Marcantonio",
-            "pageView": 1202
+            "pageView": 2,
+            "total": 1202
+        },
+        {
+            "page": "Clemente Marchionna",
+            "pageView": 2,
+            "total": 2214
+        },
+        {
+            "page": "Ermanno Marchionna",
+            "pageView": 2,
+            "total": 2785
+        },
+        {
+            "page": "Cosimo Savastano",
+            "pageView": 0,
+            "total": 2700
         }
     ]
 }

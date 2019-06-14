@@ -1,0 +1,27 @@
+{
+    "id": "place.10933476100636810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelfranco Piandiscò",
+    "place_name": "Castelfranco Piandiscò, Arezzo, Italy",
+    "bbox": [
+        11.484578,
+        43.589553,
+        11.624755,
+        43.686548
+    ],
+    "center": [
+        11.55833,
+        43.62361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55833,
+            43.62361
+        ]
+    }
+}

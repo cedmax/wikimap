@@ -1,0 +1,27 @@
+{
+    "id": "place.8915539266292310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spigno Monferrato",
+    "place_name": "Spigno Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.278718,
+        44.464851,
+        8.410436,
+        44.574415
+    ],
+    "center": [
+        8.335,
+        44.54417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.335,
+            44.54417
+        ]
+    }
+}

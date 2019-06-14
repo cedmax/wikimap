@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Francesca Dotto",
-            "pageView": 20175
+            "pageView": 7,
+            "total": 20177
         },
         {
             "page": "Giovanni Giacomazzi",
-            "pageView": 9438
+            "pageView": 6,
+            "total": 9442
         },
         {
             "page": "Carlo Agostini",
-            "pageView": 9189
+            "pageView": 6,
+            "total": 9192
         },
         {
             "page": "Giovanni Sgarbossa",
-            "pageView": 8610
+            "pageView": 5,
+            "total": 8618
         },
         {
             "page": "Giulia Ferrandi",
-            "pageView": 7035
-        },
-        {
-            "page": "Marcella Filippi",
-            "pageView": 6240
+            "pageView": 4,
+            "total": 7042
         },
         {
             "page": "Caterina Dotto",
-            "pageView": 5634
-        },
-        {
-            "page": "Chiara Pastore",
-            "pageView": 5320
+            "pageView": 3,
+            "total": 5636
         },
         {
             "page": "Valentina Fabbri",
-            "pageView": 4215
-        },
-        {
-            "page": "Megan Mahoney",
-            "pageView": 3729
-        },
-        {
-            "page": "Angela Gianolla",
-            "pageView": 3494
-        },
-        {
-            "page": "Federica Tognalini",
-            "pageView": 3172
-        },
-        {
-            "page": "Giulia Pegoraro",
-            "pageView": 2704
-        },
-        {
-            "page": "Silvia Favento",
-            "pageView": 2678
-        },
-        {
-            "page": "Elena Bestagno",
-            "pageView": 2479
-        },
-        {
-            "page": "Emily Correal",
-            "pageView": 2449
-        },
-        {
-            "page": "Eleonora Zanetti",
-            "pageView": 2398
-        },
-        {
-            "page": "Martina Sandri",
-            "pageView": 2238
-        },
-        {
-            "page": "Jelena Ivezić",
-            "pageView": 2039
-        },
-        {
-            "page": "Lea Jagodič",
-            "pageView": 2008
-        },
-        {
-            "page": "Jessica Troiano",
-            "pageView": 2006
-        },
-        {
-            "page": "Erika Aleotti",
-            "pageView": 1931
-        },
-        {
-            "page": "Florina Pașcalău",
-            "pageView": 1856
-        },
-        {
-            "page": "Elena Fietta",
-            "pageView": 1705
-        },
-        {
-            "page": "Francesca Biral",
-            "pageView": 1704
+            "pageView": 3,
+            "total": 4218
         },
         {
             "page": "Martina Fassina (1999)",
-            "pageView": 1701
+            "pageView": 3,
+            "total": 1703
         },
         {
-            "page": "Eglė Šulčiūtė",
-            "pageView": 1630
+            "page": "Marcella Filippi",
+            "pageView": 3,
+            "total": 6243
         },
         {
-            "page": "Aija Putniņa",
-            "pageView": 1600
-        },
-        {
-            "page": "Zenta Meļņika",
-            "pageView": 1552
-        },
-        {
-            "page": "Marcella Gozzi",
-            "pageView": 1396
+            "page": "Chiara Pastore",
+            "pageView": 3,
+            "total": 5322
         },
         {
             "page": "Gianluca Abignente",
-            "pageView": 1178
+            "pageView": 2,
+            "total": 1182
+        },
+        {
+            "page": "Emily Correal",
+            "pageView": 2,
+            "total": 2449
+        },
+        {
+            "page": "Angela Gianolla",
+            "pageView": 2,
+            "total": 3497
+        },
+        {
+            "page": "Jelena Ivezić",
+            "pageView": 2,
+            "total": 2040
+        },
+        {
+            "page": "Lea Jagodič",
+            "pageView": 2,
+            "total": 2008
+        },
+        {
+            "page": "Megan Mahoney",
+            "pageView": 2,
+            "total": 3730
+        },
+        {
+            "page": "Erika Aleotti",
+            "pageView": 2,
+            "total": 1931
+        },
+        {
+            "page": "Jessica Troiano",
+            "pageView": 2,
+            "total": 2006
+        },
+        {
+            "page": "Elena Bestagno",
+            "pageView": 2,
+            "total": 2481
+        },
+        {
+            "page": "Silvia Favento",
+            "pageView": 2,
+            "total": 2681
+        },
+        {
+            "page": "Giulia Pegoraro",
+            "pageView": 2,
+            "total": 2706
+        },
+        {
+            "page": "Eleonora Zanetti",
+            "pageView": 2,
+            "total": 2401
+        },
+        {
+            "page": "Martina Sandri",
+            "pageView": 2,
+            "total": 2241
+        },
+        {
+            "page": "Federica Tognalini",
+            "pageView": 2,
+            "total": 3172
+        },
+        {
+            "page": "Eglė Šulčiūtė",
+            "pageView": 1,
+            "total": 1631
+        },
+        {
+            "page": "Aija Putniņa",
+            "pageView": 1,
+            "total": 1600
+        },
+        {
+            "page": "Florina Pașcalău",
+            "pageView": 1,
+            "total": 1856
+        },
+        {
+            "page": "Marcella Gozzi",
+            "pageView": 1,
+            "total": 1398
+        },
+        {
+            "page": "Elena Fietta",
+            "pageView": 1,
+            "total": 1705
+        },
+        {
+            "page": "Francesca Biral",
+            "pageView": 1,
+            "total": 1706
+        },
+        {
+            "page": "Zenta Meļņika",
+            "pageView": 1,
+            "total": 1553
         },
         {
             "page": "Sabína Oroszová",
-            "pageView": 102
+            "pageView": 0,
+            "total": 102
         },
         {
             "page": "Ivano Bamberghi",
-            "pageView": 56
+            "pageView": 0,
+            "total": 57
         }
     ]
 }

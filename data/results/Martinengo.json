@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Pier Emilio Bassi",
-            "pageView": 12972
+            "pageView": 7,
+            "total": 12981
         },
         {
             "page": "Giuseppe Casari",
-            "pageView": 10836
+            "pageView": 7,
+            "total": 10841
         },
         {
             "page": "Gabriele Tadino",
-            "pageView": 6347
-        },
-        {
-            "page": "Giuseppe Murnigotti",
-            "pageView": 3871
-        },
-        {
-            "page": "Giuseppe Poloni",
-            "pageView": 3223
-        },
-        {
-            "page": "Celestino Colleoni",
-            "pageView": 2712
+            "pageView": 4,
+            "total": 6348
         },
         {
             "page": "Luigi Galliani",
-            "pageView": 2126
+            "pageView": 2,
+            "total": 2127
+        },
+        {
+            "page": "Giuseppe Murnigotti",
+            "pageView": 2,
+            "total": 3874
+        },
+        {
+            "page": "Giuseppe Poloni",
+            "pageView": 2,
+            "total": 3224
         },
         {
             "page": "Maria Elisabetta Mazza",
-            "pageView": 2074
+            "pageView": 2,
+            "total": 2075
+        },
+        {
+            "page": "Celestino Colleoni",
+            "pageView": 2,
+            "total": 2712
         },
         {
             "page": "Egidio Marangoni",
-            "pageView": 1590
+            "pageView": 1,
+            "total": 1590
         },
         {
             "page": "Bernardino da Martinengo",
-            "pageView": 1442
+            "pageView": 1,
+            "total": 1442
         },
         {
             "page": "Fabio Allegreni",
-            "pageView": 649
+            "pageView": 1,
+            "total": 649
         }
     ]
 }

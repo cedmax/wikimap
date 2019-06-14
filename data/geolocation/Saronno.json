@@ -1,0 +1,27 @@
+{
+    "id": "place.7603854709443070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Saronno",
+    "place_name": "Saronno, Varese, Italy",
+    "bbox": [
+        9.013442,
+        45.608412,
+        9.062596,
+        45.646297
+    ],
+    "center": [
+        9.037,
+        45.6255
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.037,
+            45.6255
+        ]
+    }
+}

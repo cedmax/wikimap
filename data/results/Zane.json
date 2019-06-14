@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Fabrizio Amoroso",
-            "pageView": 8984
-        },
-        {
-            "page": "Arlan Pablo Vieira",
-            "pageView": 3627
+            "pageView": 4,
+            "total": 8988
         },
         {
             "page": "Pablo Ranieri",
-            "pageView": 3513
+            "pageView": 2,
+            "total": 3517
         },
         {
-            "page": "Conrado Sampaio",
-            "pageView": 3222
+            "page": "Arlan Pablo Vieira",
+            "pageView": 2,
+            "total": 3629
         },
         {
             "page": "Rafael Paulo Glaeser",
-            "pageView": 3020
+            "pageView": 2,
+            "total": 3020
         },
         {
             "page": "Luca Morassi",
-            "pageView": 2858
+            "pageView": 2,
+            "total": 2864
         },
         {
             "page": "Jonatas José Alves",
-            "pageView": 1881
+            "pageView": 2,
+            "total": 1884
         },
         {
-            "page": "Stefano Frizziero",
-            "pageView": 1680
-        },
-        {
-            "page": "Daniele Turiaco",
-            "pageView": 1626
-        },
-        {
-            "page": "Gaetano Costalonga",
-            "pageView": 1545
+            "page": "Conrado Sampaio",
+            "pageView": 2,
+            "total": 3223
         },
         {
             "page": "Heverton Reinaldi",
-            "pageView": 1024
+            "pageView": 1,
+            "total": 1025
+        },
+        {
+            "page": "Daniele Turiaco",
+            "pageView": 1,
+            "total": 1627
+        },
+        {
+            "page": "Stefano Frizziero",
+            "pageView": 1,
+            "total": 1682
+        },
+        {
+            "page": "Gaetano Costalonga",
+            "pageView": 1,
+            "total": 1545
         }
     ]
 }

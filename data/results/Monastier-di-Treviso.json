@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Silvio Trentin",
-            "pageView": 16227
+            "pageView": 10,
+            "total": 16239
         },
         {
             "page": "Stefano Daniel",
-            "pageView": 7405
+            "pageView": 5,
+            "total": 7409
         },
         {
             "page": "Giorgio Bolognesi",
-            "pageView": 4310
+            "pageView": 3,
+            "total": 4313
         },
         {
             "page": "Guido Bona",
-            "pageView": 2596
+            "pageView": 2,
+            "total": 2596
         },
         {
             "page": "Sergio Vazzoler",
-            "pageView": 2403
+            "pageView": 2,
+            "total": 2403
         },
         {
             "page": "Awdry Vaucour",
-            "pageView": 264
+            "pageView": 0,
+            "total": 264
         }
     ]
 }

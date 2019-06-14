@@ -2,68 +2,84 @@
     "name": "Montelupo Fiorentino",
     "people": [
         {
+            "page": "Giuseppina Projetto",
+            "pageView": 58,
+            "total": 55484
+        },
+        {
             "page": "Giovanni Passannante",
-            "pageView": 95067
+            "pageView": 57,
+            "total": 95128
         },
         {
             "page": "Carlo Buti",
-            "pageView": 55483
-        },
-        {
-            "page": "Giuseppina Projetto",
-            "pageView": 55460
+            "pageView": 35,
+            "total": 55521
         },
         {
             "page": "Enrico Corradini",
-            "pageView": 34485
+            "pageView": 23,
+            "total": 34512
         },
         {
             "page": "Pietro Acciarito",
-            "pageView": 23950
+            "pageView": 15,
+            "total": 23964
         },
         {
             "page": "Raffaello da Montelupo",
-            "pageView": 10637
+            "pageView": 7,
+            "total": 10640
         },
         {
             "page": "Baccio da Montelupo",
-            "pageView": 10275
-        },
-        {
-            "page": "Giovanni Bassanesi",
-            "pageView": 6940
+            "pageView": 6,
+            "total": 10284
         },
         {
             "page": "Beppe Serafini",
-            "pageView": 5690
+            "pageView": 4,
+            "total": 5693
         },
         {
-            "page": "Maura Tombelli",
-            "pageView": 5520
+            "page": "Giovanni Bassanesi",
+            "pageView": 4,
+            "total": 6942
         },
         {
             "page": "Turiddo Campaini",
-            "pageView": 5348
+            "pageView": 3,
+            "total": 5349
         },
         {
-            "page": "Gabriele Vettori",
-            "pageView": 3647
-        },
-        {
-            "page": "Sigfrido Fontanelli",
-            "pageView": 2951
+            "page": "Maura Tombelli",
+            "pageView": 3,
+            "total": 5521
         },
         {
             "page": "Bruno Bagnoli (ceramista)",
-            "pageView": 2451
+            "pageView": 2,
+            "total": 2451
         },
         {
             "page": "Raffaello Caverni",
-            "pageView": 2165
+            "pageView": 2,
+            "total": 2166
+        },
+        {
+            "page": "Sigfrido Fontanelli",
+            "pageView": 2,
+            "total": 2953
+        },
+        {
+            "page": "Gabriele Vettori",
+            "pageView": 2,
+            "total": 3648
         },
         {
             "page": "Carlo Castellani (calciatore)",
-            "pageView": 74
+            "pageView": 0,
+            "total": 80
         }
     ]
 }

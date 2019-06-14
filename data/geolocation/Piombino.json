@@ -1,0 +1,27 @@
+{
+    "id": "place.15847745274643020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piombino",
+    "place_name": "Piombino, Livorno, Italy",
+    "bbox": [
+        10.483296,
+        42.919376,
+        10.75181,
+        43.025898
+    ],
+    "center": [
+        10.53333,
+        42.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.53333,
+            42.91667
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Enzo Bianco",
-            "pageView": 90099
+            "pageView": 48,
+            "total": 90142
         },
         {
             "page": "Augusto Barbera",
-            "pageView": 37512
+            "pageView": 16,
+            "total": 37527
         },
         {
             "page": "Filippo Cordova",
-            "pageView": 8346
-        },
-        {
-            "page": "Gaetano Scovazzo",
-            "pageView": 1872
-        },
-        {
-            "page": "Ottavio Profeta",
-            "pageView": 1850
-        },
-        {
-            "page": "Vincenzo Cordova Savini",
-            "pageView": 1542
+            "pageView": 5,
+            "total": 8349
         },
         {
             "page": "Angelina Milazzo",
-            "pageView": 1479
+            "pageView": 2,
+            "total": 1483
+        },
+        {
+            "page": "Gaetano Scovazzo",
+            "pageView": 2,
+            "total": 1872
+        },
+        {
+            "page": "Vincenzo Cordova Savini",
+            "pageView": 1,
+            "total": 1542
+        },
+        {
+            "page": "Ottavio Profeta",
+            "pageView": 1,
+            "total": 1852
         },
         {
             "page": "Vincenzo Cordova (poeta)",
-            "pageView": 145
+            "pageView": 0,
+            "total": 145
         }
     ]
 }

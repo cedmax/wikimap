@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Silvio Appiani",
-            "pageView": 12124
+            "pageView": 7,
+            "total": 12133
         },
         {
             "page": "Antonio Pelizon",
-            "pageView": 2476
-        },
-        {
-            "page": "Ivan Nanut",
-            "pageView": 1762
+            "pageView": 2,
+            "total": 2477
         },
         {
             "page": "Peter Butkovič",
-            "pageView": 1458
+            "pageView": 1,
+            "total": 1458
+        },
+        {
+            "page": "Ivan Nanut",
+            "pageView": 1,
+            "total": 1762
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8826533777020730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agrigento",
+    "place_name": "Agrigento, Agrigento, Italy",
+    "bbox": [
+        13.39686,
+        37.192886,
+        13.748578,
+        37.440891
+    ],
+    "center": [
+        13.57655,
+        37.31108
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.57655,
+            37.31108
+        ]
+    }
+}

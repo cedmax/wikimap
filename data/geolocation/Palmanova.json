@@ -1,0 +1,27 @@
+{
+    "id": "place.15266315298451520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palmanova",
+    "place_name": "Palmanova, Udine, Italy",
+    "bbox": [
+        13.288159,
+        45.890733,
+        13.364503,
+        45.924566
+    ],
+    "center": [
+        13.31667,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31667,
+            45.9
+        ]
+    }
+}

@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Valentina Zago",
-            "pageView": 11675
+            "pageView": 6,
+            "total": 11685
         },
         {
             "page": "Elio Steiner",
-            "pageView": 6647
+            "pageView": 4,
+            "total": 6649
         },
         {
             "page": "Ernesto Calzavara",
-            "pageView": 5026
+            "pageView": 3,
+            "total": 5026
         },
         {
             "page": "Carlo Briani",
-            "pageView": 4100
-        },
-        {
-            "page": "Ottorino Tombolan Fava",
-            "pageView": 2131
+            "pageView": 3,
+            "total": 4104
         },
         {
             "page": "Vittorio Moschini",
-            "pageView": 1198
+            "pageView": 2,
+            "total": 1198
+        },
+        {
+            "page": "Ottorino Tombolan Fava",
+            "pageView": 2,
+            "total": 2133
         }
     ]
 }

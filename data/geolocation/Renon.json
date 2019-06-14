@@ -1,0 +1,29 @@
+{
+    "id": "place.7785725599865690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Renon - Ritten",
+    "place_name": "Renon - Ritten, Bolzano, Italy",
+    "matching_text": "Renon",
+    "matching_place_name": "Renon, Bolzano, Italy",
+    "bbox": [
+        11.354254,
+        46.492117,
+        11.523602,
+        46.633483
+    ],
+    "center": [
+        11.45,
+        46.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            46.53333
+        ]
+    }
+}

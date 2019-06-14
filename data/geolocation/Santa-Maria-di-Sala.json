@@ -1,0 +1,27 @@
+{
+    "id": "place.9811102168955570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria di Sala",
+    "place_name": "Santa Maria di Sala, Venezia, Italy",
+    "bbox": [
+        11.990398,
+        45.467019,
+        12.07712,
+        45.535149
+    ],
+    "center": [
+        12.0363,
+        45.5089
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0363,
+            45.5089
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9327854985245410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lavello",
+    "place_name": "Lavello, Potenza, Italy",
+    "bbox": [
+        15.734237,
+        41.015507,
+        15.959041,
+        41.139478
+    ],
+    "center": [
+        15.8,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.8,
+            41.05
+        ]
+    }
+}

@@ -3,175 +3,218 @@
     "people": [
         {
             "page": "Alessio Bernabei",
-            "pageView": 325043
+            "pageView": 141,
+            "total": 325100
         },
         {
             "page": "Vincenzo Cardarelli",
-            "pageView": 179400
-        },
-        {
-            "page": "Tino Scotti",
-            "pageView": 57556
+            "pageView": 109,
+            "total": 179779
         },
         {
             "page": "Roberto Certomà",
-            "pageView": 49687
+            "pageView": 33,
+            "total": 49724
+        },
+        {
+            "page": "Tino Scotti",
+            "pageView": 33,
+            "total": 57578
         },
         {
             "page": "Angelo Jacopucci",
-            "pageView": 38627
+            "pageView": 23,
+            "total": 38652
         },
         {
             "page": "Alfredo Bini",
-            "pageView": 30953
-        },
-        {
-            "page": "Giovanni Maria Vitelleschi",
-            "pageView": 20027
-        },
-        {
-            "page": "Marco Del Lungo",
-            "pageView": 15249
+            "pageView": 12,
+            "total": 30967
         },
         {
             "page": "Lucia Filippini",
-            "pageView": 11221
+            "pageView": 7,
+            "total": 11229
+        },
+        {
+            "page": "Giovanni Maria Vitelleschi",
+            "pageView": 7,
+            "total": 20034
         },
         {
             "page": "Donatella Ferranti",
-            "pageView": 11109
-        },
-        {
-            "page": "Girolamo Grillo",
-            "pageView": 11056
+            "pageView": 6,
+            "total": 11119
         },
         {
             "page": "Fabiano Fabiani",
-            "pageView": 9729
+            "pageView": 6,
+            "total": 9733
         },
         {
-            "page": "Daniele Federici",
-            "pageView": 8043
+            "page": "Marco Del Lungo",
+            "pageView": 5,
+            "total": 15257
         },
         {
             "page": "Gaspare Murtola",
-            "pageView": 7715
+            "pageView": 5,
+            "total": 7716
         },
         {
-            "page": "Alberto Elia",
-            "pageView": 7664
+            "page": "Girolamo Grillo",
+            "pageView": 5,
+            "total": 11074
         },
         {
-            "page": "Luigi Dordei",
-            "pageView": 6612
-        },
-        {
-            "page": "Domenico Della Rovere",
-            "pageView": 6499
+            "page": "Daniele Federici",
+            "pageView": 5,
+            "total": 8048
         },
         {
             "page": "Luigi Marrucci",
-            "pageView": 6126
+            "pageView": 4,
+            "total": 6128
+        },
+        {
+            "page": "Luigi Dordei",
+            "pageView": 4,
+            "total": 6624
+        },
+        {
+            "page": "Alberto Elia",
+            "pageView": 4,
+            "total": 7666
         },
         {
             "page": "Carlo Chenis",
-            "pageView": 6002
+            "pageView": 4,
+            "total": 6014
+        },
+        {
+            "page": "Domenico Della Rovere",
+            "pageView": 4,
+            "total": 6503
         },
         {
             "page": "Maria Alfonsa Bruno",
-            "pageView": 5286
+            "pageView": 3,
+            "total": 5288
         },
         {
             "page": "Alfonso di Poitiers",
-            "pageView": 5085
+            "pageView": 3,
+            "total": 5088
         },
         {
             "page": "Adriano Castellesi",
-            "pageView": 5011
+            "pageView": 3,
+            "total": 5013
         },
         {
             "page": "Giuseppe Petrosellini",
-            "pageView": 4800
+            "pageView": 3,
+            "total": 4803
         },
         {
             "page": "Giovanni Battista Marini",
-            "pageView": 4692
+            "pageView": 3,
+            "total": 4694
         },
         {
             "page": "Giovanna di Tolosa",
-            "pageView": 4651
-        },
-        {
-            "page": "Giovanni Battista Marzi",
-            "pageView": 4178
+            "pageView": 3,
+            "total": 4651
         },
         {
             "page": "Rinieri da Corneto",
-            "pageView": 4069
-        },
-        {
-            "page": "Sergio Guerri",
-            "pageView": 3858
-        },
-        {
-            "page": "Giovanni Francesco Falzacappa",
-            "pageView": 3568
-        },
-        {
-            "page": "Roberto Meraviglia",
-            "pageView": 2765
-        },
-        {
-            "page": "Ludovico Magrini",
-            "pageView": 2564
-        },
-        {
-            "page": "Giacomo Setaccioli",
-            "pageView": 2518
-        },
-        {
-            "page": "Fabio Nannarelli",
-            "pageView": 2460
+            "pageView": 3,
+            "total": 4072
         },
         {
             "page": "Camillo Cerrini",
-            "pageView": 2396
+            "pageView": 2,
+            "total": 2397
+        },
+        {
+            "page": "Giovanni Francesco Falzacappa",
+            "pageView": 2,
+            "total": 3571
+        },
+        {
+            "page": "Sergio Guerri",
+            "pageView": 2,
+            "total": 3860
+        },
+        {
+            "page": "Fabio Nannarelli",
+            "pageView": 2,
+            "total": 2467
+        },
+        {
+            "page": "Ludovico Magrini",
+            "pageView": 2,
+            "total": 2565
         },
         {
             "page": "Roberto Marini",
-            "pageView": 2300
+            "pageView": 2,
+            "total": 2301
+        },
+        {
+            "page": "Giovanni Battista Marzi",
+            "pageView": 2,
+            "total": 4180
+        },
+        {
+            "page": "Roberto Meraviglia",
+            "pageView": 2,
+            "total": 2765
+        },
+        {
+            "page": "Giacomo Setaccioli",
+            "pageView": 2,
+            "total": 2518
         },
         {
             "page": "Angelo Quaglia",
-            "pageView": 2253
+            "pageView": 2,
+            "total": 2253
         },
         {
             "page": "Carlo Bocchio",
-            "pageView": 2212
+            "pageView": 2,
+            "total": 2215
         },
         {
             "page": "Bruno Elisei",
-            "pageView": 2204
-        },
-        {
-            "page": "Charles d'Angennes de Rambouillet",
-            "pageView": 1958
+            "pageView": 2,
+            "total": 2206
         },
         {
             "page": "Vincenzo Forcella",
-            "pageView": 1737
+            "pageView": 1,
+            "total": 1737
         },
         {
             "page": "Tommaso Maria Mamachi",
-            "pageView": 919
+            "pageView": 1,
+            "total": 919
+        },
+        {
+            "page": "Charles d'Angennes de Rambouillet",
+            "pageView": 1,
+            "total": 1959
         },
         {
             "page": "Elisabetta Cesarini",
-            "pageView": 317
+            "pageView": 0,
+            "total": 317
         },
         {
             "page": "Alberto Emiliozzi",
-            "pageView": 97
+            "pageView": 0,
+            "total": 106
         }
     ]
 }

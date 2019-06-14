@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Bettino Ricasoli",
-            "pageView": 94894
-        },
-        {
-            "page": "Severino Saccardi",
-            "pageView": 2982
+            "pageView": 63,
+            "total": 94951
         },
         {
             "page": "Fosco Corti",
-            "pageView": 2560
+            "pageView": 2,
+            "total": 2560
         },
         {
             "page": "Lorenzo Provvedi",
-            "pageView": 2229
-        },
-        {
-            "page": "Igino Sderci",
-            "pageView": 2177
+            "pageView": 2,
+            "total": 2233
         },
         {
             "page": "Benedetto Ricasoli",
-            "pageView": 1904
+            "pageView": 2,
+            "total": 1905
+        },
+        {
+            "page": "Severino Saccardi",
+            "pageView": 2,
+            "total": 2984
+        },
+        {
+            "page": "Igino Sderci",
+            "pageView": 2,
+            "total": 2178
         }
     ]
 }

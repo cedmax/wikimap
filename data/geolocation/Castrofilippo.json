@@ -1,0 +1,27 @@
+{
+    "id": "place.10819115616287000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrofilippo",
+    "place_name": "Castrofilippo, Agrigento, Italy",
+    "bbox": [
+        13.721026,
+        37.325418,
+        13.787164,
+        37.390198
+    ],
+    "center": [
+        13.75111,
+        37.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75111,
+            37.35
+        ]
+    }
+}

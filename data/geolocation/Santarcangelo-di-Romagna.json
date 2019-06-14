@@ -1,0 +1,27 @@
+{
+    "id": "place.6067599581023550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santarcangelo di Romagna",
+    "place_name": "Santarcangelo di Romagna, Rimini, Italy",
+    "bbox": [
+        12.359539,
+        44.010905,
+        12.501136,
+        44.088677
+    ],
+    "center": [
+        12.44657,
+        44.06326
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.44657,
+            44.06326
+        ]
+    }
+}

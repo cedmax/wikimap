@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Paolo Sollier",
-            "pageView": 65470
+            "pageView": 34,
+            "total": 65500
         },
         {
             "page": "Giorgio Des Geneys",
-            "pageView": 11838
-        },
-        {
-            "page": "Claudio Fino",
-            "pageView": 4866
+            "pageView": 7,
+            "total": 11841
         },
         {
             "page": "Louis Charles Armand Fouquet de Belle-Isle",
-            "pageView": 4416
+            "pageView": 3,
+            "total": 4422
+        },
+        {
+            "page": "Claudio Fino",
+            "pageView": 3,
+            "total": 4871
         },
         {
             "page": "Giovanni Varda",
-            "pageView": 2560
+            "pageView": 2,
+            "total": 2560
         },
         {
             "page": "Pio Carlo Falletti",
-            "pageView": 219
+            "pageView": 0,
+            "total": 219
         }
     ]
 }

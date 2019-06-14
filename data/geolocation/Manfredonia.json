@@ -1,0 +1,27 @@
+{
+    "id": "place.12155489901154820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manfredonia",
+    "place_name": "Manfredonia, Foggia, Italy",
+    "bbox": [
+        15.68935,
+        41.388459,
+        15.952619,
+        41.701449
+    ],
+    "center": [
+        15.91667,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.91667,
+            41.63333
+        ]
+    }
+}

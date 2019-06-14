@@ -1,0 +1,27 @@
+{
+    "id": "place.9968229992862320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bard",
+    "place_name": "Bard, Valle D'Aosta, Italy",
+    "bbox": [
+        7.736521,
+        45.602545,
+        7.763161,
+        45.627447
+    ],
+    "center": [
+        7.75,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.75,
+            45.61667
+        ]
+    }
+}

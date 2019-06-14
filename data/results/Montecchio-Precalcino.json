@@ -2,20 +2,24 @@
     "name": "Montecchio Precalcino",
     "people": [
         {
-            "page": "Sante Carollo",
-            "pageView": 7474
+            "page": "Luciano Buzzacchera",
+            "pageView": 4,
+            "total": 6226
         },
         {
-            "page": "Luciano Buzzacchera",
-            "pageView": 6222
+            "page": "Sante Carollo",
+            "pageView": 4,
+            "total": 7480
         },
         {
             "page": "Lelio Bonin Longare",
-            "pageView": 2790
+            "pageView": 2,
+            "total": 2796
         },
         {
             "page": "Girolamo Forni",
-            "pageView": 129
+            "pageView": 0,
+            "total": 129
         }
     ]
 }

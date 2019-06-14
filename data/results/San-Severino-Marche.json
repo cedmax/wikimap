@@ -3,195 +3,243 @@
     "people": [
         {
             "page": "Giacomo Bonaventura",
-            "pageView": 596183
+            "pageView": 257,
+            "total": 596439
         },
         {
             "page": "Fabrizio Castori",
-            "pageView": 166312
-        },
-        {
-            "page": "Lorenzo Baldassarri",
-            "pageView": 108097
+            "pageView": 61,
+            "total": 166344
         },
         {
             "page": "Edoardo Menichelli",
-            "pageView": 45370
+            "pageView": 26,
+            "total": 45385
         },
         {
-            "page": "Alberto Giuliani",
-            "pageView": 15282
-        },
-        {
-            "page": "Ines Donati",
-            "pageView": 15081
-        },
-        {
-            "page": "Francesco Antolisei",
-            "pageView": 14848
-        },
-        {
-            "page": "Francesco Giovanni Brugnaro",
-            "pageView": 14116
-        },
-        {
-            "page": "Francesco Gioia",
-            "pageView": 13732
-        },
-        {
-            "page": "Bartolomeo Eustachi",
-            "pageView": 12720
+            "page": "Lorenzo Baldassarri",
+            "pageView": 24,
+            "total": 108146
         },
         {
             "page": "Gian Filippo Felicioli",
-            "pageView": 11862
+            "pageView": 20,
+            "total": 11890
         },
         {
             "page": "Valerio Scarponi",
-            "pageView": 11007
+            "pageView": 10,
+            "total": 11018
         },
         {
-            "page": "Lorenzo Salimbeni",
-            "pageView": 9494
-        },
-        {
-            "page": "Luca Gentili",
-            "pageView": 7770
-        },
-        {
-            "page": "Marco Santiangeli",
-            "pageView": 7622
-        },
-        {
-            "page": "Alessandro Paparoni",
-            "pageView": 7324
-        },
-        {
-            "page": "Alessandro Luzio",
-            "pageView": 6856
-        },
-        {
-            "page": "Vittorio Spreti",
-            "pageView": 6548
-        },
-        {
-            "page": "Giacomo Vrioni",
-            "pageView": 5787
+            "page": "Francesco Antolisei",
+            "pageView": 10,
+            "total": 14870
         },
         {
             "page": "Pietro Tacchi Venturi",
-            "pageView": 5762
+            "pageView": 9,
+            "total": 5767
         },
         {
-            "page": "Pacifico da San Severino",
-            "pageView": 5715
+            "page": "Ines Donati",
+            "pageView": 9,
+            "total": 15092
         },
         {
-            "page": "Ireneo Aleandri",
-            "pageView": 5522
+            "page": "Francesco Gioia",
+            "pageView": 9,
+            "total": 13745
         },
         {
-            "page": "Lorenzo d'Alessandro",
-            "pageView": 4798
+            "page": "Bartolomeo Eustachi",
+            "pageView": 8,
+            "total": 12724
+        },
+        {
+            "page": "Francesco Giovanni Brugnaro",
+            "pageView": 8,
+            "total": 14122
+        },
+        {
+            "page": "Alberto Giuliani",
+            "pageView": 7,
+            "total": 15297
+        },
+        {
+            "page": "Lorenzo Salimbeni",
+            "pageView": 6,
+            "total": 9497
+        },
+        {
+            "page": "Luca Gentili",
+            "pageView": 5,
+            "total": 7807
+        },
+        {
+            "page": "Vittorio Spreti",
+            "pageView": 4,
+            "total": 6550
         },
         {
             "page": "Giorgio Zampa",
-            "pageView": 4726
+            "pageView": 4,
+            "total": 4733
+        },
+        {
+            "page": "Marco Santiangeli",
+            "pageView": 4,
+            "total": 7627
+        },
+        {
+            "page": "Alessandro Paparoni",
+            "pageView": 4,
+            "total": 7327
+        },
+        {
+            "page": "Alessandro Luzio",
+            "pageView": 4,
+            "total": 6866
         },
         {
             "page": "Eustachio Divini",
-            "pageView": 4642
+            "pageView": 3,
+            "total": 4643
         },
         {
-            "page": "Nicola Rinaldi",
-            "pageView": 4398
+            "page": "Ireneo Aleandri",
+            "pageView": 3,
+            "total": 5524
         },
         {
-            "page": "Ludovico Lazzarelli",
-            "pageView": 3679
+            "page": "Pacifico da San Severino",
+            "pageView": 3,
+            "total": 5716
+        },
+        {
+            "page": "Lorenzo d'Alessandro",
+            "pageView": 3,
+            "total": 4800
         },
         {
             "page": "Angelo Fagiani",
-            "pageView": 3556
+            "pageView": 2,
+            "total": 3556
         },
         {
             "page": "Pellegrino da Falerone",
-            "pageView": 3512
+            "pageView": 2,
+            "total": 3514
         },
         {
-            "page": "Angelo Massarelli",
-            "pageView": 3404
-        },
-        {
-            "page": "Francesco Coletti",
-            "pageView": 3404
-        },
-        {
-            "page": "Piergiorgio Silvano Nesti",
-            "pageView": 3366
-        },
-        {
-            "page": "Francesco Massara",
-            "pageView": 3362
-        },
-        {
-            "page": "Domenico Loricato",
-            "pageView": 2742
-        },
-        {
-            "page": "Manlio Cremonini",
-            "pageView": 2730
-        },
-        {
-            "page": "Lorenzo Smerilli",
-            "pageView": 2643
-        },
-        {
-            "page": "Carlo Luzi",
-            "pageView": 2600
-        },
-        {
-            "page": "Lorenzo Gemmi",
-            "pageView": 2506
+            "page": "Nicola Rinaldi",
+            "pageView": 2,
+            "total": 4398
         },
         {
             "page": "Ludovico Censi",
-            "pageView": 2301
+            "pageView": 2,
+            "total": 2302
+        },
+        {
+            "page": "Lorenzo Smerilli",
+            "pageView": 2,
+            "total": 2646
+        },
+        {
+            "page": "Lorenzo Gemmi",
+            "pageView": 2,
+            "total": 2506
+        },
+        {
+            "page": "Francesco Coletti",
+            "pageView": 2,
+            "total": 3408
+        },
+        {
+            "page": "Manlio Cremonini",
+            "pageView": 2,
+            "total": 2730
+        },
+        {
+            "page": "Domenico Loricato",
+            "pageView": 2,
+            "total": 2742
+        },
+        {
+            "page": "Ludovico Lazzarelli",
+            "pageView": 2,
+            "total": 3680
+        },
+        {
+            "page": "Angelo Massarelli",
+            "pageView": 2,
+            "total": 3405
         },
         {
             "page": "Ludovico Urbani",
-            "pageView": 2247
+            "pageView": 2,
+            "total": 2249
         },
         {
-            "page": "Giovanni Battista Caccialupi",
-            "pageView": 1690
+            "page": "Carlo Luzi",
+            "pageView": 2,
+            "total": 2601
         },
         {
-            "page": "Salvatore Valerio",
-            "pageView": 1667
+            "page": "Piergiorgio Silvano Nesti",
+            "pageView": 2,
+            "total": 3366
         },
         {
             "page": "Ferruccio Corradetti",
-            "pageView": 1660
+            "pageView": 2,
+            "total": 1661
         },
         {
             "page": "Bartolomeo di San Severino della Marca",
-            "pageView": 1512
-        },
-        {
-            "page": "Antonio Talpa",
-            "pageView": 1452
+            "pageView": 1,
+            "total": 1513
         },
         {
             "page": "Gabrielangelo Gabrielli",
-            "pageView": 1073
+            "pageView": 1,
+            "total": 1073
         },
         {
-            "page": "Smeduccio I Smeducci",
-            "pageView": 659
+            "page": "Giovanni Battista Caccialupi",
+            "pageView": 1,
+            "total": 1690
+        },
+        {
+            "page": "Salvatore Valerio",
+            "pageView": 1,
+            "total": 1667
+        },
+        {
+            "page": "Antonio Talpa",
+            "pageView": 1,
+            "total": 1453
         },
         {
             "page": "Ludovico Giuliani",
-            "pageView": 375
+            "pageView": 0,
+            "total": 377
+        },
+        {
+            "page": "Smeduccio I Smeducci",
+            "pageView": 0,
+            "total": 661
+        },
+        {
+            "page": "Francesco Massara",
+            "pageView": 0,
+            "total": 3375
+        },
+        {
+            "page": "Giacomo Vrioni",
+            "pageView": 0,
+            "total": 5806
         }
     ]
 }

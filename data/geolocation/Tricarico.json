@@ -1,0 +1,27 @@
+{
+    "id": "place.6103407913423480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tricarico",
+    "place_name": "Tricarico, Matera, Italy",
+    "bbox": [
+        15.941831,
+        40.582351,
+        16.319202,
+        40.725563
+    ],
+    "center": [
+        16.15,
+        40.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            40.61667
+        ]
+    }
+}

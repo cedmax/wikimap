@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Carlo III di Napoli",
-            "pageView": 44699
+            "pageView": 30,
+            "total": 44725
         },
         {
             "page": "Giuseppe Piemontese",
-            "pageView": 12274
+            "pageView": 7,
+            "total": 12281
         },
         {
             "page": "Giuseppe Calderisi",
-            "pageView": 9348
+            "pageView": 5,
+            "total": 9352
         },
         {
             "page": "Matteo Rinaldi",
-            "pageView": 8027
+            "pageView": 5,
+            "total": 8030
         },
         {
             "page": "Michele Ortuso",
-            "pageView": 5831
+            "pageView": 4,
+            "total": 5832
         },
         {
             "page": "Rosa Rinaldi",
-            "pageView": 4533
-        },
-        {
-            "page": "Cristanziano Serricchio",
-            "pageView": 3259
-        },
-        {
-            "page": "Felice Piemontese",
-            "pageView": 2858
-        },
-        {
-            "page": "Giuseppe Palladino",
-            "pageView": 2731
+            "pageView": 3,
+            "total": 4533
         },
         {
             "page": "Ciro Angelillis",
-            "pageView": 2564
+            "pageView": 2,
+            "total": 2565
+        },
+        {
+            "page": "Cristanziano Serricchio",
+            "pageView": 2,
+            "total": 3259
+        },
+        {
+            "page": "Felice Piemontese",
+            "pageView": 2,
+            "total": 2861
+        },
+        {
+            "page": "Giuseppe Palladino",
+            "pageView": 2,
+            "total": 2732
         },
         {
             "page": "Gregorio de Galgano",
-            "pageView": 778
+            "pageView": 0,
+            "total": 779
         }
     ]
 }

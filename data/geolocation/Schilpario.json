@@ -1,0 +1,21 @@
+{
+    "id": "poi.2456721305105",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Schilpario",
+    "place_name": "Schilpario, Schilpario, Bergamo 24020, Italy",
+    "center": [
+        10.1546305,
+        46.009061
+    ],
+    "geometry": {
+        "coordinates": [
+            10.1546305,
+            46.009061
+        ],
+        "type": "Point"
+    }
+}

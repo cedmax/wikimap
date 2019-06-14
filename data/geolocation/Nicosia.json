@@ -1,0 +1,27 @@
+{
+    "id": "place.4566195548329380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nicosia",
+    "place_name": "Nicosia, Enna, Italy",
+    "bbox": [
+        14.239228,
+        37.635574,
+        14.506432,
+        37.859975
+    ],
+    "center": [
+        14.4,
+        37.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4,
+            37.75
+        ]
+    }
+}

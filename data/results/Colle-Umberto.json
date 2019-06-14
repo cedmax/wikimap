@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Ottavio Bottecchia",
-            "pageView": 72022
+            "pageView": 37,
+            "total": 72121
         },
         {
             "page": "Celeste Pin",
-            "pageView": 23713
+            "pageView": 15,
+            "total": 23735
         },
         {
             "page": "Adriano Buffoni",
-            "pageView": 12617
+            "pageView": 8,
+            "total": 12628
         },
         {
             "page": "Alfonso Piccin",
-            "pageView": 3874
-        },
-        {
-            "page": "Dionisio Weisz",
-            "pageView": 1884
+            "pageView": 2,
+            "total": 3885
         },
         {
             "page": "Irene Pigatti",
-            "pageView": 1438
+            "pageView": 1,
+            "total": 1439
+        },
+        {
+            "page": "Dionisio Weisz",
+            "pageView": 1,
+            "total": 1886
         },
         {
             "page": "Edgardo Feletti",
-            "pageView": 1349
+            "pageView": 1,
+            "total": 1349
         }
     ]
 }

@@ -2,48 +2,59 @@
     "name": "Cordignano",
     "people": [
         {
-            "page": "Brandolino Brandolini d'Adda",
-            "pageView": 8315
-        },
-        {
             "page": "Gabriele Nasci",
-            "pageView": 5355
+            "pageView": 7,
+            "total": 5363
         },
         {
-            "page": "Ennio Salvador",
-            "pageView": 3066
-        },
-        {
-            "page": "Alberto Giacomin",
-            "pageView": 3026
-        },
-        {
-            "page": "Eddo Carlet",
-            "pageView": 2878
+            "page": "Brandolino Brandolini d'Adda",
+            "pageView": 5,
+            "total": 8320
         },
         {
             "page": "Annibale Brandolini",
-            "pageView": 2717
+            "pageView": 2,
+            "total": 2717
+        },
+        {
+            "page": "Ennio Salvador",
+            "pageView": 2,
+            "total": 3068
         },
         {
             "page": "Sigismondo Brandolini Rota",
-            "pageView": 2547
-        },
-        {
-            "page": "Francesco Saverio da Camino",
-            "pageView": 2253
-        },
-        {
-            "page": "Ermenegildo Francesconi",
-            "pageView": 1930
+            "pageView": 2,
+            "total": 2549
         },
         {
             "page": "Mario Casanuova Jerserinch",
-            "pageView": 1784
+            "pageView": 2,
+            "total": 1785
+        },
+        {
+            "page": "Francesco Saverio da Camino",
+            "pageView": 2,
+            "total": 2253
         },
         {
             "page": "Daniele Francesconi",
-            "pageView": 1636
+            "pageView": 2,
+            "total": 1638
+        },
+        {
+            "page": "Alberto Giacomin",
+            "pageView": 2,
+            "total": 3030
+        },
+        {
+            "page": "Ermenegildo Francesconi",
+            "pageView": 2,
+            "total": 1930
+        },
+        {
+            "page": "Eddo Carlet",
+            "pageView": 2,
+            "total": 2879
         }
     ]
 }

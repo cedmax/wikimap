@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Antonio Albanese",
-            "pageView": 924643
+            "pageView": 439.5,
+            "total": 924922
         },
         {
             "page": "Claudio Corti (alpinista)",
-            "pageView": 15461
+            "pageView": 8,
+            "total": 15470
         },
         {
             "page": "Carlo Colombo (vescovo)",
-            "pageView": 4901
+            "pageView": 3,
+            "total": 4902
         },
         {
             "page": "Angelo Gilardi",
-            "pageView": 3851
+            "pageView": 3,
+            "total": 3855
         },
         {
             "page": "Adalberto (vescovo di Bergamo)",
-            "pageView": 3353
-        },
-        {
-            "page": "Giulio Achille De Capitani",
-            "pageView": 2505
+            "pageView": 2,
+            "total": 3356
         },
         {
             "page": "Bernardo Colombo",
-            "pageView": 2477
+            "pageView": 2,
+            "total": 2480
+        },
+        {
+            "page": "Giulio Achille De Capitani",
+            "pageView": 2,
+            "total": 2507
         },
         {
             "page": "Pietro Amigoni",
-            "pageView": 1193
+            "pageView": 1,
+            "total": 1193
         }
     ]
 }

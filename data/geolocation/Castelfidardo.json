@@ -1,0 +1,27 @@
+{
+    "id": "place.3633839038957930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelfidardo",
+    "place_name": "Castelfidardo, Ancona, Italy",
+    "bbox": [
+        13.511256,
+        43.438901,
+        13.625082,
+        43.500137
+    ],
+    "center": [
+        13.54611,
+        43.46417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.54611,
+            43.46417
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8801461402572810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colleferro",
+    "place_name": "Colleferro, Roma, Italy",
+    "bbox": [
+        12.952605,
+        41.690948,
+        13.035408,
+        41.770455
+    ],
+    "center": [
+        13.01667,
+        41.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            41.73333
+        ]
+    }
+}

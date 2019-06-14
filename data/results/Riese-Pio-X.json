@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Papa Pio X",
-            "pageView": 370926
+            "pageView": 224,
+            "total": 371152
         },
         {
             "page": "Claudio Foscarini",
-            "pageView": 77978
+            "pageView": 33,
+            "total": 77997
         },
         {
             "page": "Primo Visentin",
-            "pageView": 7335
-        },
-        {
-            "page": "Jacopo Monico",
-            "pageView": 4972
+            "pageView": 4,
+            "total": 7340
         },
         {
             "page": "Simone Fraccaro",
-            "pageView": 4163
+            "pageView": 3,
+            "total": 4165
+        },
+        {
+            "page": "Jacopo Monico",
+            "pageView": 3,
+            "total": 4977
         },
         {
             "page": "Lino Zanini",
-            "pageView": 3772
+            "pageView": 2,
+            "total": 3773
         },
         {
             "page": "Giuseppe Monico",
-            "pageView": 1698
+            "pageView": 1,
+            "total": 1698
         },
         {
             "page": "Gian Pietro Favaro",
-            "pageView": 665
+            "pageView": 0,
+            "total": 666
         }
     ]
 }

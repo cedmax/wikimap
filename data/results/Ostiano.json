@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Bartolomeo Manfredi",
-            "pageView": 23705
+            "pageView": 15,
+            "total": 23717
         },
         {
             "page": "Celso Posio",
-            "pageView": 6033
-        },
-        {
-            "page": "Natalia Serena",
-            "pageView": 4500
-        },
-        {
-            "page": "Leon Battista Gaburri",
-            "pageView": 2603
+            "pageView": 3,
+            "total": 6039
         },
         {
             "page": "Ciro Chistoni",
-            "pageView": 2251
+            "pageView": 2,
+            "total": 2254
+        },
+        {
+            "page": "Leon Battista Gaburri",
+            "pageView": 2,
+            "total": 2607
+        },
+        {
+            "page": "Natalia Serena",
+            "pageView": 2,
+            "total": 4502
         },
         {
             "page": "Cesario Gussago",
-            "pageView": 1341
+            "pageView": 1,
+            "total": 1343
         },
         {
             "page": "Cornelia Dumler",
-            "pageView": 1337
+            "pageView": 1,
+            "total": 1337
         }
     ]
 }

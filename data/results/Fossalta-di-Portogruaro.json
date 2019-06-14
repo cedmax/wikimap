@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Mauro Gibellini",
-            "pageView": 16879
+            "pageView": 10,
+            "total": 16888
         },
         {
             "page": "Pietro Giacomo Nonis",
-            "pageView": 8834
-        },
-        {
-            "page": "Denis Innocentin",
-            "pageView": 6934
+            "pageView": 5,
+            "total": 8838
         },
         {
             "page": "Celestino Celio",
-            "pageView": 5955
+            "pageView": 4,
+            "total": 5958
         },
         {
-            "page": "Efrem Milanese",
-            "pageView": 3208
-        },
-        {
-            "page": "Emilio Ferrari",
-            "pageView": 3001
-        },
-        {
-            "page": "Alvise Francesco Mocenigo",
-            "pageView": 2521
+            "page": "Denis Innocentin",
+            "pageView": 4,
+            "total": 6937
         },
         {
             "page": "Luigi Diamante",
-            "pageView": 2062
+            "pageView": 2,
+            "total": 2064
+        },
+        {
+            "page": "Alvise Francesco Mocenigo",
+            "pageView": 2,
+            "total": 2524
+        },
+        {
+            "page": "Emilio Ferrari",
+            "pageView": 2,
+            "total": 3002
+        },
+        {
+            "page": "Efrem Milanese",
+            "pageView": 2,
+            "total": 3209
         }
     ]
 }

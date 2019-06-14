@@ -1,0 +1,27 @@
+{
+    "id": "place.9169305470220560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cinisi",
+    "place_name": "Cinisi, Palermo, Italy",
+    "bbox": [
+        13.076665,
+        38.113643,
+        13.15027,
+        38.191827
+    ],
+    "center": [
+        13.1,
+        38.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1,
+            38.16667
+        ]
+    }
+}

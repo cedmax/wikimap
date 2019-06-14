@@ -1,0 +1,27 @@
+{
+    "id": "place.15900955252676910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mansuè",
+    "place_name": "Mansuè, Treviso, Italy",
+    "bbox": [
+        12.485639,
+        45.796724,
+        12.573369,
+        45.858528
+    ],
+    "center": [
+        12.5356,
+        45.8232
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5356,
+            45.8232
+        ]
+    }
+}

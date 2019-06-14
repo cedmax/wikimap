@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Gustavo Giagnoni",
-            "pageView": 80632
-        },
-        {
-            "page": "Bruno Viola",
-            "pageView": 4425
+            "pageView": 29,
+            "total": 80650
         },
         {
             "page": "Antonio Piscel",
-            "pageView": 3617
+            "pageView": 3,
+            "total": 3619
+        },
+        {
+            "page": "Bruno Viola",
+            "pageView": 3,
+            "total": 4431
         },
         {
             "page": "Friedrich Hasenöhrl",
-            "pageView": 1040
+            "pageView": 1,
+            "total": 1040
         },
         {
             "page": "Luigi Carbonari (politico)",
-            "pageView": 634
-        },
-        {
-            "page": "Jerta Schir",
-            "pageView": 154
-        },
-        {
-            "page": "Jolanda Schir",
-            "pageView": 114
+            "pageView": 0,
+            "total": 635
         },
         {
             "page": "Antenore Cuel",
-            "pageView": 37
+            "pageView": 0,
+            "total": 37
+        },
+        {
+            "page": "Jerta Schir",
+            "pageView": 0,
+            "total": 154
+        },
+        {
+            "page": "Jolanda Schir",
+            "pageView": 0,
+            "total": 115
         }
     ]
 }

@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Giuseppe Brindisi",
-            "pageView": 31619
+            "pageView": 16,
+            "total": 31629
         },
         {
             "page": "Michele Piccirillo (pugile)",
-            "pageView": 14542
-        },
-        {
-            "page": "Corrado di Baviera",
-            "pageView": 10136
+            "pageView": 9,
+            "total": 14545
         },
         {
             "page": "Nicola Magrone",
-            "pageView": 8155
+            "pageView": 5,
+            "total": 8161
         },
         {
-            "page": "Nicola De Feo",
-            "pageView": 7839
-        },
-        {
-            "page": "Nicola Longo",
-            "pageView": 5920
-        },
-        {
-            "page": "Franco Casavola",
-            "pageView": 5188
-        },
-        {
-            "page": "Sandro De Feo",
-            "pageView": 4586
-        },
-        {
-            "page": "Alberto Crispo Cappai",
-            "pageView": 4586
-        },
-        {
-            "page": "Rocco Stella",
-            "pageView": 4263
+            "page": "Corrado di Baviera",
+            "pageView": 5,
+            "total": 10139
         },
         {
             "page": "Lorenzo Illuzzi",
-            "pageView": 3315
+            "pageView": 5,
+            "total": 3318
         },
         {
-            "page": "Giovanni Battista Stella",
-            "pageView": 2448
+            "page": "Nicola Longo",
+            "pageView": 4,
+            "total": 5921
+        },
+        {
+            "page": "Alberto Crispo Cappai",
+            "pageView": 3,
+            "total": 4587
+        },
+        {
+            "page": "Franco Casavola",
+            "pageView": 3,
+            "total": 5189
+        },
+        {
+            "page": "Rocco Stella",
+            "pageView": 3,
+            "total": 4263
+        },
+        {
+            "page": "Sandro De Feo",
+            "pageView": 3,
+            "total": 4588
         },
         {
             "page": "Nino Lepore",
-            "pageView": 2184
+            "pageView": 2,
+            "total": 2186
         },
         {
-            "page": "Angelo Saponara",
-            "pageView": 1701
+            "page": "Nicola De Feo",
+            "pageView": 2,
+            "total": 7842
+        },
+        {
+            "page": "Giovanni Battista Stella",
+            "pageView": 2,
+            "total": 2450
         },
         {
             "page": "Franco Di Ciaula",
-            "pageView": 1134
+            "pageView": 1,
+            "total": 1134
+        },
+        {
+            "page": "Angelo Saponara",
+            "pageView": 1,
+            "total": 1701
         }
     ]
 }

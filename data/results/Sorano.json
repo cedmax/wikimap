@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Papa Gregorio VII",
-            "pageView": 238777
+            "pageView": 163,
+            "total": 238899
         },
         {
             "page": "Angelo Comastri",
-            "pageView": 77665
+            "pageView": 41,
+            "total": 77702
         },
         {
             "page": "Guglielmo Borghetti",
-            "pageView": 18404
+            "pageView": 10,
+            "total": 18410
         },
         {
             "page": "Zeffiro Ciuffoletti",
-            "pageView": 11433
+            "pageView": 7,
+            "total": 11435
         },
         {
             "page": "Mario Meini",
-            "pageView": 10327
-        },
-        {
-            "page": "Giacomo Babini",
-            "pageView": 8222
-        },
-        {
-            "page": "Margherita Aldobrandeschi",
-            "pageView": 7834
-        },
-        {
-            "page": "Alfonso Petrucci",
-            "pageView": 6324
+            "pageView": 6,
+            "total": 10329
         },
         {
             "page": "Giovanni Roncari",
-            "pageView": 4615
+            "pageView": 5,
+            "total": 4617
         },
         {
-            "page": "Giovanni D'Ascenzi",
-            "pageView": 3438
+            "page": "Margherita Aldobrandeschi",
+            "pageView": 5,
+            "total": 7834
         },
         {
-            "page": "Raffaello Petrucci",
-            "pageView": 3205
+            "page": "Giacomo Babini",
+            "pageView": 5,
+            "total": 8228
+        },
+        {
+            "page": "Alfonso Petrucci",
+            "pageView": 4,
+            "total": 6327
         },
         {
             "page": "Eugenio Binini",
-            "pageView": 2760
+            "pageView": 3,
+            "total": 2761
         },
         {
             "page": "Gustavo Matteoni",
-            "pageView": 2366
+            "pageView": 2,
+            "total": 2370
+        },
+        {
+            "page": "Raffaello Petrucci",
+            "pageView": 2,
+            "total": 3211
+        },
+        {
+            "page": "Giovanni D'Ascenzi",
+            "pageView": 2,
+            "total": 3441
         },
         {
             "page": "Metello Bichi",
-            "pageView": 1757
-        },
-        {
-            "page": "Alberto Cerreti",
-            "pageView": 1533
+            "pageView": 1,
+            "total": 1758
         },
         {
             "page": "Giulio Matteoli",
-            "pageView": 1324
+            "pageView": 1,
+            "total": 1325
         },
         {
-            "page": "Francesco Pio Santi",
-            "pageView": 834
-        },
-        {
-            "page": "Fabrizio Selvi",
-            "pageView": 763
-        },
-        {
-            "page": "Fulvio Salvi",
-            "pageView": 671
+            "page": "Alberto Cerreti",
+            "pageView": 1,
+            "total": 1535
         },
         {
             "page": "Andreoccio Ghinucci",
-            "pageView": 643
+            "pageView": 0,
+            "total": 644
+        },
+        {
+            "page": "Fulvio Salvi",
+            "pageView": 0,
+            "total": 674
+        },
+        {
+            "page": "Francesco Pio Santi",
+            "pageView": 0,
+            "total": 835
+        },
+        {
+            "page": "Fabrizio Selvi",
+            "pageView": 0,
+            "total": 764
         }
     ]
 }

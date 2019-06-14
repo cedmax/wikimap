@@ -1,0 +1,27 @@
+{
+    "id": "place.13765730798843730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Menfi",
+    "place_name": "Menfi, Agrigento, Italy",
+    "bbox": [
+        12.887763,
+        37.53772,
+        13.049893,
+        37.677026
+    ],
+    "center": [
+        12.96861,
+        37.60778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96861,
+            37.60778
+        ]
+    }
+}

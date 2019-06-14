@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Guido Aristarco",
-            "pageView": 13969
+            "pageView": 9,
+            "total": 13974
         },
         {
             "page": "Alessandro Fantini (ciclista)",
-            "pageView": 11083
+            "pageView": 6,
+            "total": 11089
         },
         {
             "page": "Enrico Di Giuseppantonio",
-            "pageView": 8461
+            "pageView": 4,
+            "total": 8466
         },
         {
             "page": "Domenico Romanelli",
-            "pageView": 4177
+            "pageView": 3,
+            "total": 4178
         },
         {
             "page": "Pietro Pollidori",
-            "pageView": 1672
+            "pageView": 1,
+            "total": 1672
         },
         {
             "page": "Giulio Mencuccini",
-            "pageView": 638
+            "pageView": 0,
+            "total": 641
         }
     ]
 }

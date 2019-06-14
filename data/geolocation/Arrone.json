@@ -1,0 +1,27 @@
+{
+    "id": "place.10044258188897640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arrone",
+    "place_name": "Arrone, Terni, Italy",
+    "bbox": [
+        12.736513,
+        42.53305,
+        12.863929,
+        42.604883
+    ],
+    "center": [
+        12.768,
+        42.58368
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.768,
+            42.58368
+        ]
+    }
+}

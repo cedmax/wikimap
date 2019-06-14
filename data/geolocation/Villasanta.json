@@ -1,0 +1,27 @@
+{
+    "id": "place.12782014450078520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villasanta",
+    "place_name": "Villasanta, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.295261,
+        45.592732,
+        9.32558,
+        45.621719
+    ],
+    "center": [
+        9.30331,
+        45.60528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.30331,
+            45.60528
+        ]
+    }
+}

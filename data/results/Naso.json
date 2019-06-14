@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Cono di Naso",
-            "pageView": 21243
+            "pageView": 11,
+            "total": 21254
         },
         {
             "page": "Ubaldo Lo Presti",
-            "pageView": 20049
-        },
-        {
-            "page": "Antonino Giuffrè (editore)",
-            "pageView": 11532
+            "pageView": 10,
+            "total": 20056
         },
         {
             "page": "Franco Ipsaro Passione",
-            "pageView": 11167
+            "pageView": 7,
+            "total": 11177
+        },
+        {
+            "page": "Antonino Giuffrè (editore)",
+            "pageView": 6,
+            "total": 11535
         },
         {
             "page": "Francesco Lo Sardo",
-            "pageView": 6157
-        },
-        {
-            "page": "Calogero Giallanza",
-            "pageView": 6144
-        },
-        {
-            "page": "Ignazio Drago",
-            "pageView": 5744
+            "pageView": 4,
+            "total": 6161
         },
         {
             "page": "Giuseppe Buttà",
-            "pageView": 4256
+            "pageView": 3,
+            "total": 4259
+        },
+        {
+            "page": "Ignazio Drago",
+            "pageView": 3,
+            "total": 5744
+        },
+        {
+            "page": "Calogero Giallanza",
+            "pageView": 3,
+            "total": 6146
         },
         {
             "page": "Giovanni Raffaele",
-            "pageView": 2382
+            "pageView": 2,
+            "total": 2383
         },
         {
             "page": "Aurelio Drago",
-            "pageView": 2157
+            "pageView": 1,
+            "total": 2157
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.10250392280050860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavour",
+    "place_name": "Cavour, Torino, Italy",
+    "bbox": [
+        7.343219,
+        44.751597,
+        7.459284,
+        44.840684
+    ],
+    "center": [
+        7.38333,
+        44.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.38333,
+            44.78333
+        ]
+    }
+}

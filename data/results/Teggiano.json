@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Pomponio Leto",
-            "pageView": 20112
+            "pageView": 13,
+            "total": 20125
         },
         {
             "page": "Angelo Spinillo",
-            "pageView": 14554
+            "pageView": 9,
+            "total": 14559
         },
         {
             "page": "Cono da Teggiano",
-            "pageView": 14124
+            "pageView": 8,
+            "total": 14161
         },
         {
             "page": "Michele Pinto",
-            "pageView": 10476
-        },
-        {
-            "page": "Antonio De Luca",
-            "pageView": 10434
+            "pageView": 7,
+            "total": 10480
         },
         {
             "page": "Francesco Pio Tamburrino",
-            "pageView": 8714
+            "pageView": 6,
+            "total": 8716
+        },
+        {
+            "page": "Antonio De Luca",
+            "pageView": 6,
+            "total": 10437
         },
         {
             "page": "Bruno Schettino",
-            "pageView": 7212
-        },
-        {
-            "page": "Felicissimo Stefano Tinivella",
-            "pageView": 3489
+            "pageView": 4,
+            "total": 7222
         },
         {
             "page": "Antonio Mario Innamorato",
-            "pageView": 3347
+            "pageView": 2,
+            "total": 3348
         },
         {
             "page": "Aldo Forzoni",
-            "pageView": 2915
+            "pageView": 2,
+            "total": 2917
+        },
+        {
+            "page": "Felicissimo Stefano Tinivella",
+            "pageView": 2,
+            "total": 3492
         },
         {
             "page": "Gaetano Macchiaroli",
-            "pageView": 2426
-        },
-        {
-            "page": "Laverio (martire)",
-            "pageView": 800
+            "pageView": 2,
+            "total": 2432
         },
         {
             "page": "Umberto Luciano Altomare",
-            "pageView": 607
+            "pageView": 0,
+            "total": 607
         },
         {
             "page": "Oronzo Caldarola",
-            "pageView": 276
-        },
-        {
-            "page": "Camillo Tiberio",
-            "pageView": 231
+            "pageView": 0,
+            "total": 276
         },
         {
             "page": "Valentino Vignone",
-            "pageView": 119
+            "pageView": 0,
+            "total": 119
+        },
+        {
+            "page": "Laverio (martire)",
+            "pageView": 0,
+            "total": 807
+        },
+        {
+            "page": "Camillo Tiberio",
+            "pageView": 0,
+            "total": 232
         }
     ]
 }

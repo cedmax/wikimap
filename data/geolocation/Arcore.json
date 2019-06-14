@@ -1,0 +1,27 @@
+{
+    "id": "place.14479654392156670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcore",
+    "place_name": "Arcore, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.298142,
+        45.605168,
+        9.346657,
+        45.649224
+    ],
+    "center": [
+        9.31667,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.63333
+        ]
+    }
+}

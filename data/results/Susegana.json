@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Giovanni Battista Agucchi",
-            "pageView": 9648
+            "pageView": 6,
+            "total": 9649
         },
         {
             "page": "Luigi Gori",
-            "pageView": 6888
+            "pageView": 4,
+            "total": 6898
         },
         {
             "page": "Maurizio Pagliano",
-            "pageView": 6565
+            "pageView": 4,
+            "total": 6570
         },
         {
             "page": "Collaltino di Collalto",
-            "pageView": 5419
+            "pageView": 3,
+            "total": 5422
         },
         {
             "page": "Marco Forcellini",
-            "pageView": 2193
+            "pageView": 2,
+            "total": 2194
         },
         {
             "page": "Antonio Maria Antoniazzi",
-            "pageView": 1627
+            "pageView": 1,
+            "total": 1631
         },
         {
             "page": "Bruno Zambon",
-            "pageView": 1288
+            "pageView": 1,
+            "total": 1288
         }
     ]
 }

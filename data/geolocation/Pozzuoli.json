@@ -1,0 +1,27 @@
+{
+    "id": "place.10196396162369960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzuoli",
+    "place_name": "Pozzuoli, Napoli, Italy",
+    "bbox": [
+        14.040979,
+        40.816757,
+        14.160984,
+        40.879406
+    ],
+    "center": [
+        14.12222,
+        40.82306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.12222,
+            40.82306
+        ]
+    }
+}

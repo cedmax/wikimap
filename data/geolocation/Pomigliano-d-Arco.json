@@ -1,0 +1,27 @@
+{
+    "id": "place.7237318761007200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pomigliano d'Arco",
+    "place_name": "Pomigliano d'Arco, Napoli, Italy",
+    "bbox": [
+        14.357337,
+        40.886754,
+        14.415035,
+        40.932008
+    ],
+    "center": [
+        14.4,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4,
+            40.91667
+        ]
+    }
+}

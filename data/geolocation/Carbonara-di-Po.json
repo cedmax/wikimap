@@ -1,0 +1,27 @@
+{
+    "id": "place.8411544731714760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carbonara di Po",
+    "place_name": "Carbonara di Po, Mantova, Italy",
+    "bbox": [
+        11.213069,
+        44.989137,
+        11.271045,
+        45.055594
+    ],
+    "center": [
+        11.22663,
+        45.03745
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.22663,
+            45.03745
+        ]
+    }
+}

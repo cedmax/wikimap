@@ -1,0 +1,27 @@
+{
+    "id": "place.7585073702250030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Latisana",
+    "place_name": "Latisana, Udine, Italy",
+    "bbox": [
+        12.972558,
+        45.671044,
+        13.103292,
+        45.802659
+    ],
+    "center": [
+        13,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13,
+            45.78333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.3083786571562",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Torgnon",
+    "place_name": "Torgnon, Torgnon, Valle D'Aosta 11020, Italy",
+    "center": [
+        7.568979,
+        45.803854
+    ],
+    "geometry": {
+        "coordinates": [
+            7.568979,
+            45.803854
+        ],
+        "type": "Point"
+    }
+}

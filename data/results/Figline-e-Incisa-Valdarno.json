@@ -3,151 +3,188 @@
     "people": [
         {
             "page": "Marsilio Ficino",
-            "pageView": 165952
+            "pageView": 105,
+            "total": 166030
         },
         {
             "page": "Leonardo Capezzi",
-            "pageView": 113534
-        },
-        {
-            "page": "David Ermini",
-            "pageView": 59877
-        },
-        {
-            "page": "Elisa Simoni",
-            "pageView": 56566
+            "pageView": 65,
+            "total": 113573
         },
         {
             "page": "Lorenzo Venuti",
-            "pageView": 50208
+            "pageView": 35,
+            "total": 50253
         },
         {
             "page": "Stefano Sottili",
-            "pageView": 45284
+            "pageView": 26,
+            "total": 45300
+        },
+        {
+            "page": "David Ermini",
+            "pageView": 16,
+            "total": 60330
         },
         {
             "page": "Giorgio Mondadori",
-            "pageView": 22804
+            "pageView": 15,
+            "total": 22825
         },
         {
-            "page": "Massimo Artini",
-            "pageView": 19772
+            "page": "Elisa Simoni",
+            "pageView": 14,
+            "total": 56580
         },
         {
             "page": "Miro Sassolini",
-            "pageView": 19586
+            "pageView": 12,
+            "total": 19593
+        },
+        {
+            "page": "Massimo Artini",
+            "pageView": 10,
+            "total": 19778
         },
         {
             "page": "Alessia Russo",
-            "pageView": 14714
-        },
-        {
-            "page": "Simone Bagnoli",
-            "pageView": 9207
+            "pageView": 7,
+            "total": 14726
         },
         {
             "page": "Franco Ermini",
-            "pageView": 8920
+            "pageView": 5,
+            "total": 8926
+        },
+        {
+            "page": "Simone Bagnoli",
+            "pageView": 5,
+            "total": 9214
         },
         {
             "page": "Sante Ceccherini",
-            "pageView": 7307
-        },
-        {
-            "page": "Vittorio Locchi",
-            "pageView": 7041
-        },
-        {
-            "page": "Lorenzo Pignotti",
-            "pageView": 6079
+            "pageView": 5,
+            "total": 7313
         },
         {
             "page": "Lorenzo Bonechi",
-            "pageView": 5982
+            "pageView": 4,
+            "total": 5984
+        },
+        {
+            "page": "Lorenzo Pignotti",
+            "pageView": 4,
+            "total": 6083
+        },
+        {
+            "page": "Vittorio Locchi",
+            "pageView": 4,
+            "total": 7043
         },
         {
             "page": "Gianluca Nocentini",
-            "pageView": 5928
-        },
-        {
-            "page": "Leonardo Sottani",
-            "pageView": 3479
-        },
-        {
-            "page": "Lorenza Arnetoli",
-            "pageView": 2935
-        },
-        {
-            "page": "Egisto Sarri",
-            "pageView": 2927
-        },
-        {
-            "page": "Mario Baroni",
-            "pageView": 2847
+            "pageView": 3,
+            "total": 5931
         },
         {
             "page": "Giovanni Fabrini",
-            "pageView": 2808
-        },
-        {
-            "page": "Carmen Bulgarelli Campori",
-            "pageView": 2736
-        },
-        {
-            "page": "Paolo Monzecchi",
-            "pageView": 2505
-        },
-        {
-            "page": "Sauro Ciantini",
-            "pageView": 2419
-        },
-        {
-            "page": "Umberto Gabbi",
-            "pageView": 2416
-        },
-        {
-            "page": "Bino Binazzi",
-            "pageView": 2219
+            "pageView": 2,
+            "total": 2809
         },
         {
             "page": "Luigi Bolis (patriota)",
-            "pageView": 2206
+            "pageView": 2,
+            "total": 2209
         },
         {
-            "page": "Angelo Nannoni",
-            "pageView": 1650
+            "page": "Leonardo Sottani",
+            "pageView": 2,
+            "total": 3480
+        },
+        {
+            "page": "Umberto Gabbi",
+            "pageView": 2,
+            "total": 2417
+        },
+        {
+            "page": "Bino Binazzi",
+            "pageView": 2,
+            "total": 2219
+        },
+        {
+            "page": "Paolo Monzecchi",
+            "pageView": 2,
+            "total": 2506
+        },
+        {
+            "page": "Lorenza Arnetoli",
+            "pageView": 2,
+            "total": 2936
+        },
+        {
+            "page": "Sauro Ciantini",
+            "pageView": 2,
+            "total": 2419
+        },
+        {
+            "page": "Egisto Sarri",
+            "pageView": 2,
+            "total": 2929
+        },
+        {
+            "page": "Carmen Bulgarelli Campori",
+            "pageView": 2,
+            "total": 2736
+        },
+        {
+            "page": "Mario Baroni",
+            "pageView": 2,
+            "total": 2849
         },
         {
             "page": "Guido Mazzoni (politico)",
-            "pageView": 1476
-        },
-        {
-            "page": "Diana Cenni",
-            "pageView": 1411
-        },
-        {
-            "page": "Attilio Veroni",
-            "pageView": 1300
-        },
-        {
-            "page": "Giovanni Nerbini",
-            "pageView": 1134
+            "pageView": 1,
+            "total": 1478
         },
         {
             "page": "Giovanni Fondelli",
-            "pageView": 1104
+            "pageView": 1,
+            "total": 1104
+        },
+        {
+            "page": "Diana Cenni",
+            "pageView": 1,
+            "total": 1413
+        },
+        {
+            "page": "Attilio Veroni",
+            "pageView": 1,
+            "total": 1302
         },
         {
             "page": "Angelo Pierallini",
-            "pageView": 1009
+            "pageView": 1,
+            "total": 1009
         },
         {
-            "page": "Antonio Di Noto",
-            "pageView": 387
+            "page": "Angelo Nannoni",
+            "pageView": 1,
+            "total": 1650
         },
         {
             "page": "Orio Odori",
-            "pageView": 377
+            "pageView": 0,
+            "total": 378
+        },
+        {
+            "page": "Giovanni Nerbini",
+            "pageView": 0,
+            "total": 1163
+        },
+        {
+            "page": "Antonio Di Noto",
+            "pageView": 0,
+            "total": 387
         }
     ]
 }

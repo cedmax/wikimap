@@ -1,0 +1,27 @@
+{
+    "id": "place.17781578623108180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gragnano",
+    "place_name": "Gragnano, Napoli, Italy",
+    "bbox": [
+        14.496946,
+        40.668016,
+        14.580869,
+        40.710608
+    ],
+    "center": [
+        14.51667,
+        40.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.51667,
+            40.68333
+        ]
+    }
+}

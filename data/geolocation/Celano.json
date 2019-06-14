@@ -1,0 +1,27 @@
+{
+    "id": "place.9632864796756230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Celano",
+    "place_name": "Celano, L'Aquila, Italy",
+    "bbox": [
+        13.490421,
+        41.994288,
+        13.705906,
+        42.170508
+    ],
+    "center": [
+        13.54775,
+        42.08431
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.54775,
+            42.08431
+        ]
+    }
+}

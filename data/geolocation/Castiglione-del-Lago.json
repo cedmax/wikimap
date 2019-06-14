@@ -1,0 +1,27 @@
+{
+    "id": "place.3296133207642090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione del Lago",
+    "place_name": "Castiglione del Lago, Perugia, Italy",
+    "bbox": [
+        11.912708,
+        43.014684,
+        12.120253,
+        43.18523
+    ],
+    "center": [
+        12.05,
+        43.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05,
+            43.13333
+        ]
+    }
+}

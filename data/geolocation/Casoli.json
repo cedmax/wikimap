@@ -1,0 +1,27 @@
+{
+    "id": "place.11351548091078790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casoli",
+    "place_name": "Casoli, Chieti, Italy",
+    "bbox": [
+        14.234183,
+        42.074679,
+        14.379331,
+        42.173412
+    ],
+    "center": [
+        14.29061,
+        42.11511
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.29061,
+            42.11511
+        ]
+    }
+}

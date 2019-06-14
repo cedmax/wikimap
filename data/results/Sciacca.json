@@ -2,176 +2,219 @@
     "name": "Sciacca",
     "people": [
         {
-            "page": "Clarissa Marchese",
-            "pageView": 371752
-        },
-        {
             "page": "Valeria Bilello",
-            "pageView": 362721
+            "pageView": 174,
+            "total": 362913
         },
         {
-            "page": "Calogero di Sicilia",
-            "pageView": 67684
+            "page": "Clarissa Marchese",
+            "pageView": 118,
+            "total": 371879
         },
         {
             "page": "Accursio Bentivegna",
-            "pageView": 64817
+            "pageView": 35,
+            "total": 64861
         },
         {
-            "page": "Davide Lo Verde",
-            "pageView": 30460
+            "page": "Calogero di Sicilia",
+            "pageView": 33,
+            "total": 67731
         },
         {
             "page": "Accursio Miraglia",
-            "pageView": 25276
+            "pageView": 15,
+            "total": 25284
         },
         {
-            "page": "Filippo Bentivegna",
-            "pageView": 17179
+            "page": "Davide Lo Verde",
+            "pageView": 11,
+            "total": 30462
         },
         {
             "page": "Tommaso Fazello",
-            "pageView": 17018
+            "pageView": 11,
+            "total": 17024
         },
         {
             "page": "Ivan Segreto",
-            "pageView": 16335
+            "pageView": 10,
+            "total": 16351
+        },
+        {
+            "page": "Filippo Bentivegna",
+            "pageView": 10,
+            "total": 17191
         },
         {
             "page": "Michele Abruzzo",
-            "pageView": 10504
+            "pageView": 6,
+            "total": 10532
         },
         {
             "page": "Mariano Rossi",
-            "pageView": 9605
-        },
-        {
-            "page": "Nuccio Cusumano",
-            "pageView": 8716
-        },
-        {
-            "page": "Vincenzo Licata",
-            "pageView": 8247
-        },
-        {
-            "page": "Giuseppe Marinello",
-            "pageView": 7747
-        },
-        {
-            "page": "Giuseppe Cammarano",
-            "pageView": 7685
+            "pageView": 6,
+            "total": 9606
         },
         {
             "page": "Giovanni Antonio Medrano",
-            "pageView": 7648
+            "pageView": 5,
+            "total": 7656
         },
         {
             "page": "Johnny Dundee",
-            "pageView": 7527
+            "pageView": 5,
+            "total": 7534
+        },
+        {
+            "page": "Giuseppe Cammarano",
+            "pageView": 5,
+            "total": 7689
+        },
+        {
+            "page": "Giuseppe Marinello",
+            "pageView": 5,
+            "total": 7755
+        },
+        {
+            "page": "Nuccio Cusumano",
+            "pageView": 5,
+            "total": 8722
         },
         {
             "page": "Giuseppe Mario Bellanca",
-            "pageView": 6352
+            "pageView": 4,
+            "total": 6357
         },
         {
             "page": "Corrado Barbagallo",
-            "pageView": 5519
+            "pageView": 4,
+            "total": 5523
         },
         {
-            "page": "Accursio Montalbano",
-            "pageView": 5115
-        },
-        {
-            "page": "Agostino Inveges",
-            "pageView": 4994
-        },
-        {
-            "page": "Michelangelo Russo",
-            "pageView": 4512
-        },
-        {
-            "page": "Angelo Scandaliato",
-            "pageView": 4462
-        },
-        {
-            "page": "Riccardo Quartararo",
-            "pageView": 4398
-        },
-        {
-            "page": "Giuseppe Montalbano",
-            "pageView": 4128
-        },
-        {
-            "page": "Guglielmo Peralta",
-            "pageView": 3713
-        },
-        {
-            "page": "Sabrina Marchese",
-            "pageView": 3444
-        },
-        {
-            "page": "Cataldo Amodei",
-            "pageView": 3105
-        },
-        {
-            "page": "Matteo Desiderato",
-            "pageView": 3080
-        },
-        {
-            "page": "Giuseppe Tresca",
-            "pageView": 2959
-        },
-        {
-            "page": "Angelo Abisso",
-            "pageView": 2924
-        },
-        {
-            "page": "Giuseppe Di Maria",
-            "pageView": 2876
-        },
-        {
-            "page": "Calogero Ciancimino",
-            "pageView": 2784
-        },
-        {
-            "page": "Giuseppe Gagliano",
-            "pageView": 2629
-        },
-        {
-            "page": "Ciro Drago",
-            "pageView": 2599
-        },
-        {
-            "page": "Pietro Maria d'Agostino",
-            "pageView": 2572
+            "page": "Vincenzo Licata",
+            "pageView": 4,
+            "total": 8249
         },
         {
             "page": "Aldo Ballo",
-            "pageView": 2285
+            "pageView": 3,
+            "total": 2290
+        },
+        {
+            "page": "Agostino Inveges",
+            "pageView": 3,
+            "total": 4996
+        },
+        {
+            "page": "Accursio Montalbano",
+            "pageView": 3,
+            "total": 5130
+        },
+        {
+            "page": "Giuseppe Montalbano",
+            "pageView": 3,
+            "total": 4130
+        },
+        {
+            "page": "Riccardo Quartararo",
+            "pageView": 3,
+            "total": 4398
+        },
+        {
+            "page": "Angelo Scandaliato",
+            "pageView": 3,
+            "total": 4467
+        },
+        {
+            "page": "Michelangelo Russo",
+            "pageView": 3,
+            "total": 4515
+        },
+        {
+            "page": "Giuseppe Gagliano",
+            "pageView": 2,
+            "total": 2631
         },
         {
             "page": "Giuseppe Bonachia",
-            "pageView": 2144
+            "pageView": 2,
+            "total": 2145
         },
         {
-            "page": "Domenico Segreto",
-            "pageView": 1979
+            "page": "Giuseppe Di Maria",
+            "pageView": 2,
+            "total": 2877
+        },
+        {
+            "page": "Giuseppe Tresca",
+            "pageView": 2,
+            "total": 2963
+        },
+        {
+            "page": "Sabrina Marchese",
+            "pageView": 2,
+            "total": 3449
+        },
+        {
+            "page": "Pietro Maria d'Agostino",
+            "pageView": 2,
+            "total": 2572
+        },
+        {
+            "page": "Guglielmo Peralta",
+            "pageView": 2,
+            "total": 3718
+        },
+        {
+            "page": "Calogero Ciancimino",
+            "pageView": 2,
+            "total": 2786
         },
         {
             "page": "Giuseppe Molinari (politico 1912-1990)",
-            "pageView": 1952
+            "pageView": 2,
+            "total": 1954
         },
         {
-            "page": "Giacomo Perollo",
-            "pageView": 1524
+            "page": "Cataldo Amodei",
+            "pageView": 2,
+            "total": 3108
+        },
+        {
+            "page": "Angelo Abisso",
+            "pageView": 2,
+            "total": 2924
+        },
+        {
+            "page": "Matteo Desiderato",
+            "pageView": 2,
+            "total": 3080
+        },
+        {
+            "page": "Ciro Drago",
+            "pageView": 2,
+            "total": 2599
+        },
+        {
+            "page": "Domenico Segreto",
+            "pageView": 2,
+            "total": 1981
         },
         {
             "page": "Jean du Plessis de Grenédan",
-            "pageView": 1381
+            "pageView": 1,
+            "total": 1381
+        },
+        {
+            "page": "Giacomo Perollo",
+            "pageView": 1,
+            "total": 1528
         },
         {
             "page": "Saverio Friscia",
-            "pageView": 1001
+            "pageView": 0,
+            "total": 1002
         }
     ]
 }

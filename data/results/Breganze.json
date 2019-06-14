@@ -2,88 +2,109 @@
     "name": "Breganze",
     "people": [
         {
-            "page": "Bianka Buša",
-            "pageView": 14245
-        },
-        {
             "page": "Cesare Poli",
-            "pageView": 11610
+            "pageView": 7,
+            "total": 11612
         },
         {
             "page": "Giannantonio Sperotto",
-            "pageView": 10901
+            "pageView": 6,
+            "total": 10907
         },
         {
             "page": "Sergio Boschiero",
-            "pageView": 8677
-        },
-        {
-            "page": "Laura Baggi",
-            "pageView": 6950
+            "pageView": 5,
+            "total": 8681
         },
         {
             "page": "Silvia Fiori",
-            "pageView": 5225
+            "pageView": 4,
+            "total": 5265
+        },
+        {
+            "page": "Laura Baggi",
+            "pageView": 4,
+            "total": 6960
+        },
+        {
+            "page": "Bianka Buša",
+            "pageView": 4,
+            "total": 14252
         },
         {
             "page": "Silvia Fondriest",
-            "pageView": 4351
-        },
-        {
-            "page": "Lucillo Lievore",
-            "pageView": 4349
-        },
-        {
-            "page": "Beniamino Battistella",
-            "pageView": 3800
-        },
-        {
-            "page": "Giovanni Sperotto",
-            "pageView": 3472
-        },
-        {
-            "page": "Alberto Simioni",
-            "pageView": 3432
-        },
-        {
-            "page": "Giorgia Baldelli",
-            "pageView": 3016
-        },
-        {
-            "page": "Giovanna Meneghini",
-            "pageView": 2982
-        },
-        {
-            "page": "Simona Ghisellini",
-            "pageView": 2585
+            "pageView": 3,
+            "total": 4354
         },
         {
             "page": "Guerrino Carraro",
-            "pageView": 2337
+            "pageView": 2,
+            "total": 2338
+        },
+        {
+            "page": "Simona Ghisellini",
+            "pageView": 2,
+            "total": 2585
         },
         {
             "page": "Gino Costenaro",
-            "pageView": 2234
-        },
-        {
-            "page": "Paolo Bozzetto",
-            "pageView": 1992
+            "pageView": 2,
+            "total": 2235
         },
         {
             "page": "Caterina Cialfi",
-            "pageView": 1785
+            "pageView": 2,
+            "total": 1788
+        },
+        {
+            "page": "Alberto Simioni",
+            "pageView": 2,
+            "total": 3433
+        },
+        {
+            "page": "Beniamino Battistella",
+            "pageView": 2,
+            "total": 3803
+        },
+        {
+            "page": "Giovanni Sperotto",
+            "pageView": 2,
+            "total": 3475
+        },
+        {
+            "page": "Giovanna Meneghini",
+            "pageView": 2,
+            "total": 2984
+        },
+        {
+            "page": "Giorgia Baldelli",
+            "pageView": 2,
+            "total": 3018
+        },
+        {
+            "page": "Paolo Bozzetto",
+            "pageView": 2,
+            "total": 1993
+        },
+        {
+            "page": "Lucillo Lievore",
+            "pageView": 2,
+            "total": 4351
         },
         {
             "page": "Giovanni Luigi De Boni",
-            "pageView": 1696
+            "pageView": 1,
+            "total": 1696
         },
         {
             "page": "Giorgio Scifo",
-            "pageView": 1041
+            "pageView": 1,
+            "total": 1041
         },
         {
             "page": "Augusto Bucchia",
-            "pageView": 823
+            "pageView": 0,
+            "total": 823
         }
     ]
 }

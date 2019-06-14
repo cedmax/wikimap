@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Walter Speggiorin",
-            "pageView": 30363
+            "pageView": 20,
+            "total": 30383
         },
         {
             "page": "Giulio Mozzi",
-            "pageView": 21377
+            "pageView": 13,
+            "total": 21402
         },
         {
             "page": "Mauro Fabris",
-            "pageView": 20509
+            "pageView": 8,
+            "total": 20523
         },
         {
             "page": "Sereno Freato",
-            "pageView": 8599
+            "pageView": 5,
+            "total": 8603
         },
         {
             "page": "Fabiano Speggiorin",
-            "pageView": 8491
-        },
-        {
-            "page": "Egidio Negrin",
-            "pageView": 6175
-        },
-        {
-            "page": "Aldo Capitanio",
-            "pageView": 4708
+            "pageView": 5,
+            "total": 8497
         },
         {
             "page": "Galliano Mazzon",
-            "pageView": 4505
+            "pageView": 3,
+            "total": 4506
         },
         {
             "page": "Luciano Speggiorin",
-            "pageView": 3901
+            "pageView": 3,
+            "total": 3902
         },
         {
-            "page": "Paolo Ferrari (calciatore)",
-            "pageView": 3330
+            "page": "Egidio Negrin",
+            "pageView": 3,
+            "total": 6190
+        },
+        {
+            "page": "Aldo Capitanio",
+            "pageView": 3,
+            "total": 4714
         },
         {
             "page": "Marco Antonio Pellegrini",
-            "pageView": 1910
+            "pageView": 2,
+            "total": 1910
         },
         {
-            "page": "Valeriano Cobbe",
-            "pageView": 1615
+            "page": "Paolo Ferrari (calciatore)",
+            "pageView": 2,
+            "total": 3331
         },
         {
             "page": "Giovanni Battista Todescato",
-            "pageView": 1526
+            "pageView": 2,
+            "total": 1527
+        },
+        {
+            "page": "Valeriano Cobbe",
+            "pageView": 1,
+            "total": 1616
         }
     ]
 }

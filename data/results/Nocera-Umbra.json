@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Domenico Sorrentino",
-            "pageView": 17515
+            "pageView": 11,
+            "total": 17519
         },
         {
             "page": "Rinaldo di Nocera Umbra",
-            "pageView": 8303
+            "pageView": 4,
+            "total": 8309
         },
         {
             "page": "Milly Buonanno",
-            "pageView": 6502
-        },
-        {
-            "page": "Alvaro Passeri",
-            "pageView": 5548
+            "pageView": 4,
+            "total": 6512
         },
         {
             "page": "Alessandro Borgia (arcivescovo)",
-            "pageView": 5516
+            "pageView": 4,
+            "total": 5518
         },
         {
             "page": "Domenico Costanzi",
-            "pageView": 4555
+            "pageView": 3,
+            "total": 4555
         },
         {
-            "page": "Orazio Giustiniani",
-            "pageView": 3329
-        },
-        {
-            "page": "Sergio Goretti",
-            "pageView": 3250
+            "page": "Alvaro Passeri",
+            "pageView": 3,
+            "total": 5549
         },
         {
             "page": "Fulvio Sbarretti",
-            "pageView": 2811
+            "pageView": 2,
+            "total": 2813
         },
         {
-            "page": "Marco Battista Battaglini",
-            "pageView": 2282
+            "page": "Orazio Giustiniani",
+            "pageView": 2,
+            "total": 3332
         },
         {
             "page": "Luca Ridolfucci Gentili",
-            "pageView": 2166
+            "pageView": 2,
+            "total": 2168
+        },
+        {
+            "page": "Marco Battista Battaglini",
+            "pageView": 2,
+            "total": 2282
         },
         {
             "page": "Augusto Renzini",
-            "pageView": 1952
+            "pageView": 2,
+            "total": 1953
+        },
+        {
+            "page": "Sergio Goretti",
+            "pageView": 2,
+            "total": 3253
         },
         {
             "page": "Pelagio Pallavicino",
-            "pageView": 888
+            "pageView": 1,
+            "total": 888
         },
         {
             "page": "Niccolò Trincia Trinci",
-            "pageView": 655
+            "pageView": 0,
+            "total": 656
         }
     ]
 }

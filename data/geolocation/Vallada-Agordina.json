@@ -1,0 +1,27 @@
+{
+    "id": "place.7204134577656590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallada Agordina",
+    "place_name": "Vallada Agordina, Belluno, Italy",
+    "bbox": [
+        11.908053,
+        46.34713,
+        11.963987,
+        46.399864
+    ],
+    "center": [
+        11.93333,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            46.36667
+        ]
+    }
+}

@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Franco Arminio",
-            "pageView": 102331
+            "pageView": 63,
+            "total": 102397
         },
         {
             "page": "Liana Trouché",
-            "pageView": 49170
+            "pageView": 25,
+            "total": 49207
         },
         {
             "page": "Antonio La Penna",
-            "pageView": 20530
+            "pageView": 14,
+            "total": 20541
         },
         {
             "page": "Aldo Loris Rossi",
-            "pageView": 17297
-        },
-        {
-            "page": "Salvatore Nunnari",
-            "pageView": 15496
+            "pageView": 9,
+            "total": 17307
         },
         {
             "page": "Francesco Alfano",
-            "pageView": 13152
+            "pageView": 8,
+            "total": 13185
+        },
+        {
+            "page": "Salvatore Nunnari",
+            "pageView": 8,
+            "total": 15502
         },
         {
             "page": "Pasquale Cascio",
-            "pageView": 8227
+            "pageView": 5,
+            "total": 8233
         },
         {
             "page": "Mario Milano",
-            "pageView": 8162
+            "pageView": 5,
+            "total": 8164
         },
         {
             "page": "Salverino De Vito",
-            "pageView": 6237
+            "pageView": 4,
+            "total": 6240
         },
         {
             "page": "Antonio Lattarulo",
-            "pageView": 5064
+            "pageView": 3,
+            "total": 5067
         },
         {
             "page": "Francesco Caruso (poeta)",
-            "pageView": 2265
-        },
-        {
-            "page": "Grammazio Metallo",
-            "pageView": 1832
-        },
-        {
-            "page": "Pietro Capaldo",
-            "pageView": 1810
-        },
-        {
-            "page": "Mario Procaccino",
-            "pageView": 1530
+            "pageView": 2,
+            "total": 2268
         },
         {
             "page": "Luigi Capaldo",
-            "pageView": 1213
+            "pageView": 1,
+            "total": 1213
+        },
+        {
+            "page": "Grammazio Metallo",
+            "pageView": 1,
+            "total": 1832
+        },
+        {
+            "page": "Mario Procaccino",
+            "pageView": 1,
+            "total": 1530
+        },
+        {
+            "page": "Pietro Capaldo",
+            "pageView": 1,
+            "total": 1811
         }
     ]
 }

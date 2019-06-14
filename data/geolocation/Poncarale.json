@@ -1,0 +1,27 @@
+{
+    "id": "place.3386616823343840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poncarale",
+    "place_name": "Poncarale, Brescia, Italy",
+    "bbox": [
+        10.14652,
+        45.440781,
+        10.219213,
+        45.476042
+    ],
+    "center": [
+        10.1778,
+        45.4619
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1778,
+            45.4619
+        ]
+    }
+}

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Mauro Bettin",
-            "pageView": 4172
-        },
-        {
-            "page": "Marco Casagrande",
-            "pageView": 2842
+            "pageView": 3,
+            "total": 4173
         },
         {
             "page": "Giovanni Antiga",
-            "pageView": 2432
+            "pageView": 2,
+            "total": 2434
+        },
+        {
+            "page": "Marco Casagrande",
+            "pageView": 2,
+            "total": 2842
         }
     ]
 }

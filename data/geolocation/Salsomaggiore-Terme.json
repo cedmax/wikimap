@@ -1,0 +1,27 @@
+{
+    "id": "place.100404305927990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salsomaggiore Terme",
+    "place_name": "Salsomaggiore Terme, Parma, Italy",
+    "bbox": [
+        9.900477,
+        44.750174,
+        10.0526,
+        44.854134
+    ],
+    "center": [
+        9.98333,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            44.81667
+        ]
+    }
+}

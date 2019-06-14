@@ -1,0 +1,27 @@
+{
+    "id": "place.12631375351082450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caorle",
+    "place_name": "Caorle, Venezia, Italy",
+    "bbox": [
+        12.742897,
+        45.556654,
+        12.983416,
+        45.718697
+    ],
+    "center": [
+        12.88758,
+        45.60026
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88758,
+            45.60026
+        ]
+    }
+}

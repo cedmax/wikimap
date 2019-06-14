@@ -1,0 +1,27 @@
+{
+    "id": "place.4971620415020030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pinerolo",
+    "place_name": "Pinerolo, Torino, Italy",
+    "bbox": [
+        7.27962,
+        44.844619,
+        7.421753,
+        44.975799
+    ],
+    "center": [
+        7.33333,
+        44.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.33333,
+            44.88333
+        ]
+    }
+}

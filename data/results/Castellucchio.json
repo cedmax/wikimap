@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Danilo Martelli",
-            "pageView": 27514
-        },
-        {
-            "page": "Roberto Montorsi",
-            "pageView": 4519
+            "pageView": 13,
+            "total": 27525
         },
         {
             "page": "Guido Leoni (motociclista)",
-            "pageView": 3836
+            "pageView": 3,
+            "total": 3839
         },
         {
-            "page": "Pietro Sissa",
-            "pageView": 2526
-        },
-        {
-            "page": "Sergio Morselli",
-            "pageView": 2423
+            "page": "Roberto Montorsi",
+            "pageView": 3,
+            "total": 4521
         },
         {
             "page": "Agostino Mantovani",
-            "pageView": 2101
+            "pageView": 2,
+            "total": 2102
+        },
+        {
+            "page": "Sergio Morselli",
+            "pageView": 2,
+            "total": 2425
+        },
+        {
+            "page": "Pietro Sissa",
+            "pageView": 2,
+            "total": 2526
         },
         {
             "page": "Edo Rossi",
-            "pageView": 1596
+            "pageView": 1,
+            "total": 1596
         }
     ]
 }

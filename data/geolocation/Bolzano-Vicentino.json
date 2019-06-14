@@ -1,0 +1,27 @@
+{
+    "id": "place.14032590546824180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bolzano Vicentino",
+    "place_name": "Bolzano Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.591069,
+        45.565459,
+        11.649256,
+        45.625087
+    ],
+    "center": [
+        11.61667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            45.6
+        ]
+    }
+}

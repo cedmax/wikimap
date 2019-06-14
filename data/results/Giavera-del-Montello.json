@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Eligio Porcu",
-            "pageView": 5860
-        },
-        {
-            "page": "Carlo Agnoletti",
-            "pageView": 2514
-        },
-        {
-            "page": "Umberto Sacco",
-            "pageView": 2096
+            "pageView": 4,
+            "total": 5864
         },
         {
             "page": "Luigi Lama",
-            "pageView": 2070
+            "pageView": 2,
+            "total": 2071
+        },
+        {
+            "page": "Umberto Sacco",
+            "pageView": 2,
+            "total": 2098
+        },
+        {
+            "page": "Carlo Agnoletti",
+            "pageView": 2,
+            "total": 2516
         }
     ]
 }

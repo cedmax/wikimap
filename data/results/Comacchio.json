@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Marcello Simoni",
-            "pageView": 247469
+            "pageView": 149,
+            "total": 247585
         },
         {
             "page": "Carlo Caffarra",
-            "pageView": 70974
+            "pageView": 33,
+            "total": 71001
         },
         {
             "page": "Luigi Negri",
-            "pageView": 44580
-        },
-        {
-            "page": "Paolo Simoni",
-            "pageView": 33698
+            "pageView": 22,
+            "total": 44610
         },
         {
             "page": "Remo Brindisi",
-            "pageView": 26045
-        },
-        {
-            "page": "Antonio Cavalieri Ducati",
-            "pageView": 20742
+            "pageView": 17,
+            "total": 26063
         },
         {
             "page": "Gian Carlo Perego",
-            "pageView": 13687
+            "pageView": 14,
+            "total": 13693
         },
         {
-            "page": "Severo Pozzati",
-            "pageView": 10867
+            "page": "Antonio Cavalieri Ducati",
+            "pageView": 13,
+            "total": 20756
         },
         {
-            "page": "Paolo Rabitti",
-            "pageView": 10131
-        },
-        {
-            "page": "Laura Fogli",
-            "pageView": 9120
-        },
-        {
-            "page": "Filippo Franceschi",
-            "pageView": 7254
+            "page": "Paolo Simoni",
+            "pageView": 10,
+            "total": 33706
         },
         {
             "page": "Michele Ebeling",
-            "pageView": 6859
+            "pageView": 8,
+            "total": 6865
         },
         {
-            "page": "Enrico Cavalieri",
-            "pageView": 6652
+            "page": "Severo Pozzati",
+            "pageView": 7,
+            "total": 10871
         },
         {
-            "page": "Appiano Buonafede",
-            "pageView": 5533
+            "page": "Paolo Rabitti",
+            "pageView": 6,
+            "total": 10134
         },
         {
-            "page": "Luigi Maverna",
-            "pageView": 5315
-        },
-        {
-            "page": "Filippo Carli",
-            "pageView": 5260
-        },
-        {
-            "page": "Piero Antonio Bonnet",
-            "pageView": 3530
+            "page": "Laura Fogli",
+            "pageView": 5,
+            "total": 9121
         },
         {
             "page": "Emanuele Nordi",
-            "pageView": 3314
+            "pageView": 5,
+            "total": 3470
         },
         {
-            "page": "Marisa Tomasi",
-            "pageView": 3204
+            "page": "Enrico Cavalieri",
+            "pageView": 4,
+            "total": 6655
         },
         {
-            "page": "Vincenzo Moretti",
-            "pageView": 3175
+            "page": "Filippo Franceschi",
+            "pageView": 4,
+            "total": 7256
         },
         {
-            "page": "Alessandro Zappata",
-            "pageView": 2483
+            "page": "Luigi Maverna",
+            "pageView": 3,
+            "total": 5317
+        },
+        {
+            "page": "Appiano Buonafede",
+            "pageView": 3,
+            "total": 5538
+        },
+        {
+            "page": "Filippo Carli",
+            "pageView": 3,
+            "total": 5262
+        },
+        {
+            "page": "Piero Antonio Bonnet",
+            "pageView": 2,
+            "total": 3530
         },
         {
             "page": "Guglielmo Cenni",
-            "pageView": 2079
+            "pageView": 2,
+            "total": 2080
         },
         {
-            "page": "Onofrio Visdomini",
-            "pageView": 1749
+            "page": "Marisa Tomasi",
+            "pageView": 2,
+            "total": 3206
         },
         {
-            "page": "Maura Tomasi",
-            "pageView": 1529
+            "page": "Vincenzo Moretti",
+            "pageView": 2,
+            "total": 3176
         },
         {
-            "page": "Meliaduse II d'Este",
-            "pageView": 1504
-        },
-        {
-            "page": "Giovanni Strada",
-            "pageView": 1285
-        },
-        {
-            "page": "Alberto Buoncristiani",
-            "pageView": 1102
+            "page": "Alessandro Zappata",
+            "pageView": 2,
+            "total": 2488
         },
         {
             "page": "Edgardo Fogli",
-            "pageView": 979
+            "pageView": 2,
+            "total": 979
         },
         {
-            "page": "Carlo Carli (politico 1832-1911)",
-            "pageView": 919
-        },
-        {
-            "page": "Giacinto Tamburini",
-            "pageView": 917
-        },
-        {
-            "page": "Ghilino Ghilini",
-            "pageView": 804
+            "page": "Onofrio Visdomini",
+            "pageView": 1,
+            "total": 1749
         },
         {
             "page": "Pagaziano (vescovo di Novara)",
-            "pageView": 732
+            "pageView": 1,
+            "total": 732
+        },
+        {
+            "page": "Giovanni Strada",
+            "pageView": 1,
+            "total": 1285
+        },
+        {
+            "page": "Alberto Buoncristiani",
+            "pageView": 1,
+            "total": 1104
+        },
+        {
+            "page": "Meliaduse II d'Este",
+            "pageView": 1,
+            "total": 1504
+        },
+        {
+            "page": "Carlo Carli (politico 1832-1911)",
+            "pageView": 1,
+            "total": 919
+        },
+        {
+            "page": "Ghilino Ghilini",
+            "pageView": 1,
+            "total": 806
+        },
+        {
+            "page": "Giacinto Tamburini",
+            "pageView": 1,
+            "total": 917
+        },
+        {
+            "page": "Maura Tomasi",
+            "pageView": 0,
+            "total": 1533
         },
         {
             "page": "Luigi Romano Menini",
-            "pageView": 135
+            "pageView": 0,
+            "total": 135
         }
     ]
 }

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Davide Rossi (attore)",
-            "pageView": 160357
-        },
-        {
-            "page": "Bruno Venturini (cantante)",
-            "pageView": 36013
-        },
-        {
-            "page": "Marcello Torre",
-            "pageView": 30876
-        },
-        {
-            "page": "Isaia Sales",
-            "pageView": 22975
+            "pageView": 60,
+            "total": 160539
         },
         {
             "page": "Gianni Vrenna",
-            "pageView": 21770
+            "pageView": 19,
+            "total": 21777
+        },
+        {
+            "page": "Bruno Venturini (cantante)",
+            "pageView": 16,
+            "total": 36049
+        },
+        {
+            "page": "Marcello Torre",
+            "pageView": 15,
+            "total": 30892
+        },
+        {
+            "page": "Isaia Sales",
+            "pageView": 13,
+            "total": 22990
         },
         {
             "page": "Angelo Mammì",
-            "pageView": 15348
+            "pageView": 10,
+            "total": 15351
         },
         {
             "page": "Giuseppe Esposito",
-            "pageView": 12654
+            "pageView": 8,
+            "total": 12658
         },
         {
             "page": "Antonio Esposito Ferraioli",
-            "pageView": 11120
-        },
-        {
-            "page": "Simone Valiante",
-            "pageView": 8197
-        },
-        {
-            "page": "Marcello Falzerano",
-            "pageView": 7226
+            "pageView": 6,
+            "total": 11124
         },
         {
             "page": "Bernardo D'Arezzo",
-            "pageView": 7205
+            "pageView": 4,
+            "total": 7211
         },
         {
-            "page": "Tommaso Maria Fusco",
-            "pageView": 6696
+            "page": "Simone Valiante",
+            "pageView": 4,
+            "total": 8206
         },
         {
             "page": "Andrea Cesarano",
-            "pageView": 6487
+            "pageView": 4,
+            "total": 6489
+        },
+        {
+            "page": "Tommaso Maria Fusco",
+            "pageView": 4,
+            "total": 6697
         },
         {
             "page": "Massimiliano Randino",
-            "pageView": 5057
+            "pageView": 3,
+            "total": 5064
         },
         {
             "page": "Aniello Criscuolo",
-            "pageView": 3258
+            "pageView": 2,
+            "total": 3258
         },
         {
             "page": "Carmine Cesarano",
-            "pageView": 2782
+            "pageView": 2,
+            "total": 2783
         },
         {
             "page": "Matilde Tortora",
-            "pageView": 2232
+            "pageView": 2,
+            "total": 2234
+        },
+        {
+            "page": "Marcello Falzerano",
+            "pageView": 0,
+            "total": 7237
         },
         {
             "page": "Marzia Ferraioli",
-            "pageView": 1675
+            "pageView": 0,
+            "total": 1678
         }
     ]
 }

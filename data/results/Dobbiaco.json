@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Eugenio Monti",
-            "pageView": 32215
-        },
-        {
-            "page": "Riccardo Pradella",
-            "pageView": 2314
-        },
-        {
-            "page": "Albert Walder",
-            "pageView": 1912
-        },
-        {
-            "page": "Monika Schwingshackl",
-            "pageView": 1536
-        },
-        {
-            "page": "Sebastian Baur",
-            "pageView": 1447
-        },
-        {
-            "page": "Sigisfredo Mair",
-            "pageView": 1420
-        },
-        {
-            "page": "Fabio Sguazzero",
-            "pageView": 1389
-        },
-        {
-            "page": "Hanna Elliscasis",
-            "pageView": 1297
-        },
-        {
-            "page": "Rudolf Schraffl",
-            "pageView": 1263
-        },
-        {
-            "page": "Felix Oberrauch",
-            "pageView": 1179
+            "pageView": 15,
+            "total": 32222
         },
         {
             "page": "Viktor Schweitzer",
-            "pageView": 1107
+            "pageView": 2,
+            "total": 1107
         },
         {
-            "page": "Guglielmo Scheibmeier",
-            "pageView": 1038
+            "page": "Riccardo Pradella",
+            "pageView": 2,
+            "total": 2314
+        },
+        {
+            "page": "Albert Walder",
+            "pageView": 1,
+            "total": 1913
         },
         {
             "page": "Patrick Rizzo",
-            "pageView": 964
+            "pageView": 1,
+            "total": 964
+        },
+        {
+            "page": "Sebastian Baur",
+            "pageView": 1,
+            "total": 1450
+        },
+        {
+            "page": "Fabio Sguazzero",
+            "pageView": 1,
+            "total": 1389
+        },
+        {
+            "page": "Hanna Elliscasis",
+            "pageView": 1,
+            "total": 1297
+        },
+        {
+            "page": "Sigisfredo Mair",
+            "pageView": 1,
+            "total": 1421
+        },
+        {
+            "page": "Rudolf Schraffl",
+            "pageView": 1,
+            "total": 1263
         },
         {
             "page": "Philipp Kosta",
-            "pageView": 703
+            "pageView": 1,
+            "total": 703
+        },
+        {
+            "page": "Felix Oberrauch",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Guglielmo Scheibmeier",
+            "pageView": 1,
+            "total": 1039
+        },
+        {
+            "page": "Monika Schwingshackl",
+            "pageView": 1,
+            "total": 1537
         },
         {
             "page": "Lukas Crepaz",
-            "pageView": 154
+            "pageView": 0,
+            "total": 154
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.13811061319912900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cortiglione",
+    "place_name": "Cortiglione, Asti, Italy",
+    "bbox": [
+        8.341121,
+        44.812615,
+        8.396989,
+        44.848704
+    ],
+    "center": [
+        8.35944,
+        44.82417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.35944,
+            44.82417
+        ]
+    }
+}

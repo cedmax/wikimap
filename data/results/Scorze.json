@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Pietro Ghedin",
-            "pageView": 49720
+            "pageView": 21,
+            "total": 49764
         },
         {
             "page": "Ivano Beggio",
-            "pageView": 36295
+            "pageView": 12.5,
+            "total": 36322
         },
         {
             "page": "Nevio Favaro",
-            "pageView": 7928
+            "pageView": 5,
+            "total": 7931
         },
         {
             "page": "Aldo Graziati",
-            "pageView": 4289
+            "pageView": 3,
+            "total": 4293
         },
         {
             "page": "Giovanni Mazzonetto",
-            "pageView": 4011
-        },
-        {
-            "page": "Marcello Girotto",
-            "pageView": 3858
+            "pageView": 3,
+            "total": 4013
         },
         {
             "page": "Vincenzo Gagliardi",
-            "pageView": 3056
+            "pageView": 2,
+            "total": 3060
+        },
+        {
+            "page": "Marcello Girotto",
+            "pageView": 2,
+            "total": 3860
         },
         {
             "page": "Giovan Giacomo Corniani",
-            "pageView": 1130
+            "pageView": 1,
+            "total": 1131
         }
     ]
 }

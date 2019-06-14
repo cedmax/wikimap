@@ -3,167 +3,208 @@
     "people": [
         {
             "page": "Maria Goretti",
-            "pageView": 409412
-        },
-        {
-            "page": "Daniele Conti",
-            "pageView": 339965
+            "pageView": 203,
+            "total": 409592
         },
         {
             "page": "Bruno Conti",
-            "pageView": 296641
+            "pageView": 150,
+            "total": 296804
+        },
+        {
+            "page": "Daniele Conti",
+            "pageView": 134,
+            "total": 340037
         },
         {
             "page": "Guido Gonella",
-            "pageView": 33998
-        },
-        {
-            "page": "Ludovico Tersigni",
-            "pageView": 26428
+            "pageView": 22,
+            "total": 34024
         },
         {
             "page": "Gustavo Cacini",
-            "pageView": 24455
+            "pageView": 15,
+            "total": 24500
         },
         {
             "page": "Luigi Morville",
-            "pageView": 23589
-        },
-        {
-            "page": "Lilia Silvi",
-            "pageView": 17902
+            "pageView": 14,
+            "total": 23597
         },
         {
             "page": "Alberto Magliozzi",
-            "pageView": 13178
+            "pageView": 11,
+            "total": 13190
+        },
+        {
+            "page": "Lilia Silvi",
+            "pageView": 10,
+            "total": 17911
         },
         {
             "page": "Paolo Segneri",
-            "pageView": 11166
+            "pageView": 7,
+            "total": 11193
         },
         {
             "page": "Ruggero Bagialemani",
-            "pageView": 6897
+            "pageView": 4,
+            "total": 6898
         },
         {
             "page": "Luigi Scarabello",
-            "pageView": 6702
-        },
-        {
-            "page": "Laura Di Mariano",
-            "pageView": 5237
-        },
-        {
-            "page": "Giorgio Pasetto",
-            "pageView": 5234
+            "pageView": 4,
+            "total": 6703
         },
         {
             "page": "Francesco Maidalchini",
-            "pageView": 4809
-        },
-        {
-            "page": "Francesco D'Aniello",
-            "pageView": 4808
+            "pageView": 3,
+            "total": 4812
         },
         {
             "page": "Marina Pennafina",
-            "pageView": 4421
+            "pageView": 3,
+            "total": 4424
         },
         {
             "page": "Maria Angela Cassol",
-            "pageView": 4284
+            "pageView": 3,
+            "total": 4287
         },
         {
             "page": "Giulio Glorioso",
-            "pageView": 3958
+            "pageView": 3,
+            "total": 3960
         },
         {
-            "page": "Daniela Malusardi",
-            "pageView": 3950
+            "page": "Francesco D'Aniello",
+            "pageView": 3,
+            "total": 4808
         },
         {
-            "page": "Cesare Falessi",
-            "pageView": 3527
+            "page": "Laura Di Mariano",
+            "pageView": 3,
+            "total": 5240
+        },
+        {
+            "page": "Giorgio Pasetto",
+            "pageView": 3,
+            "total": 5237
         },
         {
             "page": "Giuseppe Mazzanti",
-            "pageView": 3499
-        },
-        {
-            "page": "Giberto III Borromeo",
-            "pageView": 3208
-        },
-        {
-            "page": "Paolo Miccichè",
-            "pageView": 3191
-        },
-        {
-            "page": "Paolino Ambrosino",
-            "pageView": 2909
-        },
-        {
-            "page": "Carlos Richetti",
-            "pageView": 2821
-        },
-        {
-            "page": "Giovanni Aquilecchia",
-            "pageView": 2741
-        },
-        {
-            "page": "Riccardo De Santis",
-            "pageView": 2590
-        },
-        {
-            "page": "Antonio Schiavoni",
-            "pageView": 2027
+            "pageView": 2,
+            "total": 3499
         },
         {
             "page": "Carlos Pezzullo",
-            "pageView": 2017
+            "pageView": 2,
+            "total": 2017
+        },
+        {
+            "page": "Paolino Ambrosino",
+            "pageView": 2,
+            "total": 2909
+        },
+        {
+            "page": "Carlos Richetti",
+            "pageView": 2,
+            "total": 2823
+        },
+        {
+            "page": "Giberto III Borromeo",
+            "pageView": 2,
+            "total": 3208
+        },
+        {
+            "page": "Riccardo De Santis",
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Giovanni Aquilecchia",
+            "pageView": 2,
+            "total": 2741
         },
         {
             "page": "Antonio Sabellico",
-            "pageView": 2007
-        },
-        {
-            "page": "Umberto Moricca",
-            "pageView": 1978
-        },
-        {
-            "page": "Enzo Masci",
-            "pageView": 1935
-        },
-        {
-            "page": "Piero Ravagli",
-            "pageView": 1739
-        },
-        {
-            "page": "Alessandro Marracino",
-            "pageView": 1699
-        },
-        {
-            "page": "Baldassarre Cenci (1710-1763)",
-            "pageView": 1651
-        },
-        {
-            "page": "Marino Lazzari",
-            "pageView": 1645
-        },
-        {
-            "page": "Roberto De Franceschi",
-            "pageView": 1609
-        },
-        {
-            "page": "Francesco Imperiali",
-            "pageView": 1447
-        },
-        {
-            "page": "Jim Buccheri",
-            "pageView": 1419
+            "pageView": 2,
+            "total": 2007
         },
         {
             "page": "Emilio Ghione Jr",
-            "pageView": 1313
+            "pageView": 2,
+            "total": 1314
+        },
+        {
+            "page": "Umberto Moricca",
+            "pageView": 2,
+            "total": 1979
+        },
+        {
+            "page": "Roberto De Franceschi",
+            "pageView": 2,
+            "total": 1611
+        },
+        {
+            "page": "Antonio Schiavoni",
+            "pageView": 2,
+            "total": 2027
+        },
+        {
+            "page": "Cesare Falessi",
+            "pageView": 2,
+            "total": 3529
+        },
+        {
+            "page": "Enzo Masci",
+            "pageView": 2,
+            "total": 1936
+        },
+        {
+            "page": "Daniela Malusardi",
+            "pageView": 2,
+            "total": 3953
+        },
+        {
+            "page": "Paolo Miccichè",
+            "pageView": 2,
+            "total": 3194
+        },
+        {
+            "page": "Piero Ravagli",
+            "pageView": 1,
+            "total": 1739
+        },
+        {
+            "page": "Alessandro Marracino",
+            "pageView": 1,
+            "total": 1700
+        },
+        {
+            "page": "Marino Lazzari",
+            "pageView": 1,
+            "total": 1645
+        },
+        {
+            "page": "Baldassarre Cenci (1710-1763)",
+            "pageView": 1,
+            "total": 1651
+        },
+        {
+            "page": "Francesco Imperiali",
+            "pageView": 1,
+            "total": 1449
+        },
+        {
+            "page": "Jim Buccheri",
+            "pageView": 1,
+            "total": 1419
+        },
+        {
+            "page": "Ludovico Tersigni",
+            "pageView": 0,
+            "total": 26555
         }
     ]
 }

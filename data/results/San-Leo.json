@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Cagliostro",
-            "pageView": 426269
-        },
-        {
-            "page": "Luigi Negri",
-            "pageView": 44580
+            "pageView": 231,
+            "total": 426517
         },
         {
             "page": "Guido da Montefeltro",
-            "pageView": 36399
+            "pageView": 24,
+            "total": 36414
         },
         {
-            "page": "Paolo Rabitti",
-            "pageView": 10131
+            "page": "Luigi Negri",
+            "pageView": 22,
+            "total": 44610
         },
         {
             "page": "Andrea Turazzi",
-            "pageView": 9854
+            "pageView": 6,
+            "total": 9858
         },
         {
-            "page": "Mariano De Nicolò",
-            "pageView": 8292
+            "page": "Paolo Rabitti",
+            "pageView": 6,
+            "total": 10134
         },
         {
             "page": "Angelo Calisti",
-            "pageView": 8024
+            "pageView": 5,
+            "total": 8025
+        },
+        {
+            "page": "Mariano De Nicolò",
+            "pageView": 5,
+            "total": 8301
         },
         {
             "page": "Giovanni Locatelli",
-            "pageView": 5986
+            "pageView": 4,
+            "total": 5989
         },
         {
             "page": "Renata Seripa",
-            "pageView": 5274
+            "pageView": 3,
+            "total": 5274
         },
         {
             "page": "Leo di Montefeltro",
-            "pageView": 4955
-        },
-        {
-            "page": "Montefeltrano I da Montefeltro",
-            "pageView": 3557
-        },
-        {
-            "page": "Angelo Bairati",
-            "pageView": 3371
+            "pageView": 3,
+            "total": 4957
         },
         {
             "page": "Anna Maria Muccioli",
-            "pageView": 2379
+            "pageView": 2,
+            "total": 2379
+        },
+        {
+            "page": "Montefeltrano I da Montefeltro",
+            "pageView": 2,
+            "total": 3557
+        },
+        {
+            "page": "Angelo Bairati",
+            "pageView": 2,
+            "total": 3372
         },
         {
             "page": "Sante Ciacci",
-            "pageView": 149
+            "pageView": 0,
+            "total": 150
         }
     ]
 }

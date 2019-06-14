@@ -1,0 +1,27 @@
+{
+    "id": "place.18544726017824530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albano Laziale",
+    "place_name": "Albano Laziale, Roma, Italy",
+    "bbox": [
+        12.591239,
+        41.673871,
+        12.694207,
+        41.752147
+    ],
+    "center": [
+        12.66667,
+        41.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            41.73333
+        ]
+    }
+}

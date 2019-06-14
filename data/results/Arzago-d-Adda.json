@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Antonio Guadagnini",
-            "pageView": 3596
+            "pageView": 2,
+            "total": 3596
         },
         {
             "page": "Giacomo Sessa",
-            "pageView": 3238
+            "pageView": 2,
+            "total": 3239
         },
         {
             "page": "Giuseppe Bussi",
-            "pageView": 2460
+            "pageView": 2,
+            "total": 2461
         },
         {
             "page": "Luigi Sessa (agronomo)",
-            "pageView": 2115
+            "pageView": 1.5,
+            "total": 2115
         },
         {
             "page": "Camillo Erba",
-            "pageView": 1296
+            "pageView": 1,
+            "total": 1296
         }
     ]
 }

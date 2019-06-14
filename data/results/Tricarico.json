@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Rocco Scotellaro",
-            "pageView": 84839
-        },
-        {
-            "page": "Salvatore Ligorio",
-            "pageView": 24446
+            "pageView": 49,
+            "total": 84885
         },
         {
             "page": "San Potito",
-            "pageView": 18740
+            "pageView": 11,
+            "total": 18744
         },
         {
-            "page": "Mirella Liuzzi",
-            "pageView": 14035
-        },
-        {
-            "page": "Pietro Laureano",
-            "pageView": 12710
+            "page": "Salvatore Ligorio",
+            "pageView": 11,
+            "total": 24454
         },
         {
             "page": "Vincenzo Carmine Orofino",
-            "pageView": 11806
+            "pageView": 7,
+            "total": 11811
         },
         {
-            "page": "Pasquale Gagliardi",
-            "pageView": 7470
-        },
-        {
-            "page": "Carmelo Cassati",
-            "pageView": 7226
-        },
-        {
-            "page": "Giovanni Santoro",
-            "pageView": 6955
+            "page": "Pietro Laureano",
+            "pageView": 7,
+            "total": 12714
         },
         {
             "page": "Giovanni Intini",
-            "pageView": 6778
+            "pageView": 6,
+            "total": 6783
         },
         {
-            "page": "Mario Trufelli",
-            "pageView": 6295
+            "page": "Mirella Liuzzi",
+            "pageView": 6,
+            "total": 14044
         },
         {
             "page": "Francesco Zerrillo",
-            "pageView": 6117
+            "pageView": 4,
+            "total": 6118
         },
         {
-            "page": "Laura Battista",
-            "pageView": 5246
+            "page": "Pasquale Gagliardi",
+            "pageView": 4,
+            "total": 7474
         },
         {
-            "page": "Ludovico di Canossa",
-            "pageView": 4840
+            "page": "Mario Trufelli",
+            "pageView": 4,
+            "total": 6300
         },
         {
-            "page": "Rocco Mazzarone",
-            "pageView": 4813
+            "page": "Carmelo Cassati",
+            "pageView": 3,
+            "total": 7228
         },
         {
             "page": "Raffaello Delle Nocche",
-            "pageView": 4586
+            "pageView": 3,
+            "total": 4591
         },
         {
-            "page": "Mario Jannelli",
-            "pageView": 3901
+            "page": "Ludovico di Canossa",
+            "pageView": 3,
+            "total": 4846
         },
         {
-            "page": "Pier Luigi Carafa (1581-1655)",
-            "pageView": 3092
+            "page": "Rocco Mazzarone",
+            "pageView": 3,
+            "total": 4817
+        },
+        {
+            "page": "Giovanni Santoro",
+            "pageView": 3,
+            "total": 6955
+        },
+        {
+            "page": "Laura Battista",
+            "pageView": 3,
+            "total": 5246
         },
         {
             "page": "Stefano da Carrara",
-            "pageView": 2138
+            "pageView": 2,
+            "total": 2138
         },
         {
-            "page": "Ottavio Mirto Frangipani",
-            "pageView": 1903
+            "page": "Mario Jannelli",
+            "pageView": 2,
+            "total": 3907
+        },
+        {
+            "page": "Pier Luigi Carafa (1581-1655)",
+            "pageView": 2,
+            "total": 3092
         },
         {
             "page": "Giovanni Daraio",
-            "pageView": 1639
+            "pageView": 1,
+            "total": 1639
+        },
+        {
+            "page": "Ottavio Mirto Frangipani",
+            "pageView": 1,
+            "total": 1903
         }
     ]
 }

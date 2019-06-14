@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Paolo Flores d'Arcais",
-            "pageView": 61132
+            "pageView": 31,
+            "total": 61159
         },
         {
             "page": "Costantino II",
-            "pageView": 47650
+            "pageView": 31,
+            "total": 47683
         },
         {
             "page": "Giusto Gervasutti",
-            "pageView": 17384
+            "pageView": 11,
+            "total": 17397
         },
         {
             "page": "Giuseppe Zigaina",
-            "pageView": 14730
+            "pageView": 9,
+            "total": 14738
         },
         {
             "page": "Ferdinando Miniussi",
-            "pageView": 12902
+            "pageView": 8,
+            "total": 12909
         },
         {
             "page": "Giuseppe Bettiol",
-            "pageView": 10179
-        },
-        {
-            "page": "Costantino Dardi",
-            "pageView": 8579
-        },
-        {
-            "page": "Walter Franzot",
-            "pageView": 7974
+            "pageView": 7,
+            "total": 10192
         },
         {
             "page": "Stelio Nardin",
-            "pageView": 7556
+            "pageView": 5,
+            "total": 7561
+        },
+        {
+            "page": "Costantino Dardi",
+            "pageView": 5,
+            "total": 8585
+        },
+        {
+            "page": "Walter Franzot",
+            "pageView": 5,
+            "total": 7980
         },
         {
             "page": "Franz Kuhn von Kuhnenfeld",
-            "pageView": 6724
-        },
-        {
-            "page": "Luigi Chiozza",
-            "pageView": 5654
-        },
-        {
-            "page": "Claudio Trevisan",
-            "pageView": 5348
+            "pageView": 4,
+            "total": 6727
         },
         {
             "page": "Vittorio Santini",
-            "pageView": 4512
+            "pageView": 3,
+            "total": 4512
         },
         {
-            "page": "Edy Gratton",
-            "pageView": 4425
-        },
-        {
-            "page": "Paolo Micolini",
-            "pageView": 4117
+            "page": "Luigi Chiozza",
+            "pageView": 3,
+            "total": 5661
         },
         {
             "page": "Letizia De Torre",
-            "pageView": 4091
+            "pageView": 3,
+            "total": 4094
         },
         {
-            "page": "Giuseppe D'Agostinis",
-            "pageView": 3123
+            "page": "Edy Gratton",
+            "pageView": 3,
+            "total": 4426
+        },
+        {
+            "page": "Claudio Trevisan",
+            "pageView": 3,
+            "total": 5350
         },
         {
             "page": "Mario Pitocco",
-            "pageView": 2387
+            "pageView": 2,
+            "total": 2387
         },
         {
-            "page": "Luciano Pacco",
-            "pageView": 2330
+            "page": "Paolo Micolini",
+            "pageView": 2,
+            "total": 4121
         },
         {
             "page": "Igino Balestra",
-            "pageView": 2078
+            "pageView": 2,
+            "total": 2079
         },
         {
-            "page": "Dante Fornasir",
-            "pageView": 1879
+            "page": "Giuseppe D'Agostinis",
+            "pageView": 2,
+            "total": 3124
         },
         {
-            "page": "Giovanni Biavi",
-            "pageView": 1830
+            "page": "Luciano Pacco",
+            "pageView": 2,
+            "total": 2342
         },
         {
             "page": "Aulo Fogar",
-            "pageView": 1819
+            "pageView": 2,
+            "total": 1821
         },
         {
-            "page": "Lucio Comar",
-            "pageView": 1666
-        },
-        {
-            "page": "Carlo Turcato",
-            "pageView": 1662
-        },
-        {
-            "page": "Alice Dreossi",
-            "pageView": 1523
+            "page": "Dante Fornasir",
+            "pageView": 2,
+            "total": 1880
         },
         {
             "page": "Giulio Dreossi",
-            "pageView": 1467
+            "pageView": 1,
+            "total": 1468
+        },
+        {
+            "page": "Alice Dreossi",
+            "pageView": 1,
+            "total": 1525
+        },
+        {
+            "page": "Lucio Comar",
+            "pageView": 1,
+            "total": 1666
         },
         {
             "page": "Armando Tolloi",
-            "pageView": 1195
+            "pageView": 1,
+            "total": 1198
         },
         {
             "page": "Cesare Michieli",
-            "pageView": 1190
+            "pageView": 1,
+            "total": 1190
+        },
+        {
+            "page": "Carlo Turcato",
+            "pageView": 1,
+            "total": 1663
+        },
+        {
+            "page": "Giovanni Biavi",
+            "pageView": 1,
+            "total": 1831
         }
     ]
 }

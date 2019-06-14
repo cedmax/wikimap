@@ -1,0 +1,27 @@
+{
+    "id": "place.13782826278336430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acerenza",
+    "place_name": "Acerenza, Potenza, Italy",
+    "bbox": [
+        15.85215,
+        40.75564,
+        16.052612,
+        40.850715
+    ],
+    "center": [
+        15.95,
+        40.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.95,
+            40.8
+        ]
+    }
+}

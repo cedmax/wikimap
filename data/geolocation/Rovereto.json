@@ -1,0 +1,27 @@
+{
+    "id": "place.12062618225403960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rovereto",
+    "place_name": "Rovereto, Trento, Italy",
+    "bbox": [
+        10.996198,
+        45.799317,
+        11.124428,
+        45.918909
+    ],
+    "center": [
+        11.03417,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03417,
+            45.88333
+        ]
+    }
+}

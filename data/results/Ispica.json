@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Corrado Lorefice",
-            "pageView": 64572
+            "pageView": 35,
+            "total": 64586
         },
         {
             "page": "Olivio Sozzi",
-            "pageView": 11197
-        },
-        {
-            "page": "Innocenzo Leontini",
-            "pageView": 7680
-        },
-        {
-            "page": "Maria Crocifissa Curcio",
-            "pageView": 5952
+            "pageView": 7,
+            "total": 11203
         },
         {
             "page": "Giuseppe Bellisario",
-            "pageView": 5678
+            "pageView": 4,
+            "total": 5679
+        },
+        {
+            "page": "Innocenzo Leontini",
+            "pageView": 4,
+            "total": 7687
+        },
+        {
+            "page": "Maria Crocifissa Curcio",
+            "pageView": 3,
+            "total": 5953
         },
         {
             "page": "Antonio Statella di Cassaro",
-            "pageView": 4903
+            "pageView": 3,
+            "total": 4906
         },
         {
             "page": "Dionisio Moltisanti",
-            "pageView": 3506
+            "pageView": 2,
+            "total": 3509
         },
         {
             "page": "Marisa Moltisanti",
-            "pageView": 2885
+            "pageView": 2,
+            "total": 2886
         },
         {
             "page": "Salvo Monica",
-            "pageView": 2337
-        },
-        {
-            "page": "Salvatore Stornello",
-            "pageView": 1631
+            "pageView": 2,
+            "total": 2337
         },
         {
             "page": "Carmelo Floriddia",
-            "pageView": 1331
+            "pageView": 1,
+            "total": 1333
+        },
+        {
+            "page": "Salvatore Stornello",
+            "pageView": 1,
+            "total": 1631
         },
         {
             "page": "Giovanni Giuga",
-            "pageView": 390
+            "pageView": 0,
+            "total": 391
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.17760062365516820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zoppola",
+    "place_name": "Zoppola, Pordenone, Italy",
+    "bbox": [
+        12.694197,
+        45.934779,
+        12.83403,
+        46.027587
+    ],
+    "center": [
+        12.76667,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76667,
+            45.96667
+        ]
+    }
+}

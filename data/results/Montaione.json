@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Patrizia Rossetti",
-            "pageView": 255422
+            "pageView": 123,
+            "total": 255499
         },
         {
             "page": "Vivaldo da San Gimignano",
-            "pageView": 4855
+            "pageView": 2.5,
+            "total": 4857
         },
         {
             "page": "Francesco Chiarenti",
-            "pageView": 1603
+            "pageView": 1,
+            "total": 1603
         }
     ]
 }

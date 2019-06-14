@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Marisa Sannia",
-            "pageView": 212100
+            "pageView": 99,
+            "total": 212174
         },
         {
             "page": "Vittorio Congia",
-            "pageView": 65260
+            "pageView": 31,
+            "total": 65297
         },
         {
             "page": "Mauro Pili",
-            "pageView": 50495
+            "pageView": 24,
+            "total": 50516
         },
         {
             "page": "Arrigo Miglio",
-            "pageView": 23118
+            "pageView": 14,
+            "total": 23123
         },
         {
             "page": "Giacomo Portas",
-            "pageView": 16396
-        },
-        {
-            "page": "Giorgio Oppi",
-            "pageView": 13061
+            "pageView": 8,
+            "total": 16404
         },
         {
             "page": "Francesco Sanna",
-            "pageView": 11411
+            "pageView": 7,
+            "total": 11416
         },
         {
-            "page": "Luciano Uras",
-            "pageView": 8822
-        },
-        {
-            "page": "Foiso Fois",
-            "pageView": 6950
+            "page": "Giorgio Oppi",
+            "pageView": 5,
+            "total": 13074
         },
         {
             "page": "Peo Alfonsi",
-            "pageView": 6208
+            "pageView": 4,
+            "total": 6209
+        },
+        {
+            "page": "Luciano Uras",
+            "pageView": 4,
+            "total": 8828
+        },
+        {
+            "page": "Foiso Fois",
+            "pageView": 4,
+            "total": 6952
         },
         {
             "page": "Giorgio Carta (dirigente)",
-            "pageView": 5071
-        },
-        {
-            "page": "Giovanni Paolo Zedda",
-            "pageView": 4985
+            "pageView": 3,
+            "total": 5076
         },
         {
             "page": "Pietro Allori",
-            "pageView": 4971
-        },
-        {
-            "page": "Armando Melis de Villa",
-            "pageView": 4901
+            "pageView": 3,
+            "total": 4988
         },
         {
             "page": "Mariano Deidda",
-            "pageView": 4067
-        },
-        {
-            "page": "Vittorio Tredici",
-            "pageView": 3855
-        },
-        {
-            "page": "Mariano Garau",
-            "pageView": 3780
-        },
-        {
-            "page": "Tarcisio Pillolla",
-            "pageView": 3730
-        },
-        {
-            "page": "Pietro Leo",
-            "pageView": 3631
-        },
-        {
-            "page": "Angelo Corsi",
-            "pageView": 3576
-        },
-        {
-            "page": "Paolo Fogu",
-            "pageView": 3391
-        },
-        {
-            "page": "Nicolò Canelles",
-            "pageView": 3368
-        },
-        {
-            "page": "Salvatore Poddighe",
-            "pageView": 3348
-        },
-        {
-            "page": "Adolfo Manis",
-            "pageView": 2915
-        },
-        {
-            "page": "Pietro Masserano Taricco",
-            "pageView": 2873
-        },
-        {
-            "page": "Jacques-Marie-Antoine-Célestin du Pont",
-            "pageView": 2741
-        },
-        {
-            "page": "Nicola Trentin",
-            "pageView": 2720
-        },
-        {
-            "page": "Francesco Macis",
-            "pageView": 2661
-        },
-        {
-            "page": "Giuseppe Tocco",
-            "pageView": 2621
-        },
-        {
-            "page": "Giovanni Sensi",
-            "pageView": 2402
-        },
-        {
-            "page": "Antonio Maccioni",
-            "pageView": 2200
+            "pageView": 3,
+            "total": 4072
         },
         {
             "page": "Giorgio Asproni (imprenditore)",
-            "pageView": 2131
+            "pageView": 3,
+            "total": 2136
         },
         {
-            "page": "Daverio Clementino Giovannetti",
-            "pageView": 2127
+            "page": "Armando Melis de Villa",
+            "pageView": 3,
+            "total": 4902
         },
         {
-            "page": "Raimondo Piredda",
-            "pageView": 1936
+            "page": "Giovanni Paolo Zedda",
+            "pageView": 3,
+            "total": 4987
+        },
+        {
+            "page": "Adolfo Manis",
+            "pageView": 2,
+            "total": 2920
+        },
+        {
+            "page": "Antonio Maccioni",
+            "pageView": 2,
+            "total": 2201
+        },
+        {
+            "page": "Pietro Leo",
+            "pageView": 2,
+            "total": 3631
         },
         {
             "page": "Cristoforo Pezzini",
-            "pageView": 1909
+            "pageView": 2,
+            "total": 1912
+        },
+        {
+            "page": "Raimondo Piredda",
+            "pageView": 2,
+            "total": 1936
+        },
+        {
+            "page": "Jacques-Marie-Antoine-Célestin du Pont",
+            "pageView": 2,
+            "total": 2746
+        },
+        {
+            "page": "Mariano Garau",
+            "pageView": 2,
+            "total": 3810
+        },
+        {
+            "page": "Paolo Fogu",
+            "pageView": 2,
+            "total": 3393
+        },
+        {
+            "page": "Tarcisio Pillolla",
+            "pageView": 2,
+            "total": 3733
+        },
+        {
+            "page": "Pietro Masserano Taricco",
+            "pageView": 2,
+            "total": 2877
+        },
+        {
+            "page": "Giuseppe Tocco",
+            "pageView": 2,
+            "total": 2624
+        },
+        {
+            "page": "Vittorio Tredici",
+            "pageView": 2,
+            "total": 3859
+        },
+        {
+            "page": "Nicola Trentin",
+            "pageView": 2,
+            "total": 2722
+        },
+        {
+            "page": "Nicolò Canelles",
+            "pageView": 2,
+            "total": 3369
+        },
+        {
+            "page": "Angelo Corsi",
+            "pageView": 2,
+            "total": 3576
+        },
+        {
+            "page": "Francesco Macis",
+            "pageView": 2,
+            "total": 2662
+        },
+        {
+            "page": "Salvatore Poddighe",
+            "pageView": 2,
+            "total": 3349
+        },
+        {
+            "page": "Daverio Clementino Giovannetti",
+            "pageView": 2,
+            "total": 2127
+        },
+        {
+            "page": "Giovanni Sensi",
+            "pageView": 2,
+            "total": 2402
         },
         {
             "page": "Faustino Cannas",
-            "pageView": 85
+            "pageView": 0,
+            "total": 85
         }
     ]
 }

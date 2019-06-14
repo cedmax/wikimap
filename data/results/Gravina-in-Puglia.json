@@ -3,127 +3,158 @@
     "people": [
         {
             "page": "Papa Benedetto XIII",
-            "pageView": 112600
-        },
-        {
-            "page": "Francesco Tritto",
-            "pageView": 22762
-        },
-        {
-            "page": "Giovanni Castellaneta",
-            "pageView": 18262
+            "pageView": 75,
+            "total": 112663
         },
         {
             "page": "Francesco Schittulli",
-            "pageView": 16740
+            "pageView": 11,
+            "total": 16757
+        },
+        {
+            "page": "Giovanni Castellaneta",
+            "pageView": 11,
+            "total": 18275
         },
         {
             "page": "Giovanni Ricchiuti",
-            "pageView": 15883
-        },
-        {
-            "page": "Agostino Superbo",
-            "pageView": 15507
-        },
-        {
-            "page": "Pino Rinaldi",
-            "pageView": 13753
+            "pageView": 9,
+            "total": 15887
         },
         {
             "page": "Francesco Guarini",
-            "pageView": 12241
+            "pageView": 8,
+            "total": 12251
+        },
+        {
+            "page": "Francesco Tritto",
+            "pageView": 7,
+            "total": 22765
+        },
+        {
+            "page": "Agostino Superbo",
+            "pageView": 6,
+            "total": 15509
         },
         {
             "page": "Nico Cirasola",
-            "pageView": 9697
+            "pageView": 6,
+            "total": 9701
         },
         {
             "page": "Mario Paciello",
-            "pageView": 9336
+            "pageView": 6,
+            "total": 9339
         },
         {
-            "page": "Giuseppe Rocco Favale",
-            "pageView": 7702
-        },
-        {
-            "page": "Giulio Cesare Sacchetti",
-            "pageView": 6935
-        },
-        {
-            "page": "Giuseppe Tarantino",
-            "pageView": 6156
+            "page": "Pino Rinaldi",
+            "pageView": 6,
+            "total": 13758
         },
         {
             "page": "Arcangelo Scacchi",
-            "pageView": 5865
+            "pageView": 4,
+            "total": 5867
         },
         {
-            "page": "Domenico da Gravina",
-            "pageView": 5264
+            "page": "Giuseppe Tarantino",
+            "pageView": 4,
+            "total": 6157
         },
         {
-            "page": "Roberto De Robertis",
-            "pageView": 4045
-        },
-        {
-            "page": "Canio Musacchio",
-            "pageView": 3282
-        },
-        {
-            "page": "Nunzio Incannamorte",
-            "pageView": 3025
-        },
-        {
-            "page": "Tarcisio Pisani",
-            "pageView": 2610
-        },
-        {
-            "page": "Francesco Bossi (vescovo)",
-            "pageView": 2451
-        },
-        {
-            "page": "Federigo Meninni",
-            "pageView": 2429
-        },
-        {
-            "page": "Giuseppe Giovanniello",
-            "pageView": 2228
+            "page": "Giulio Cesare Sacchetti",
+            "pageView": 4,
+            "total": 6943
         },
         {
             "page": "Giovanni Divella",
-            "pageView": 2148
+            "pageView": 3,
+            "total": 2149
+        },
+        {
+            "page": "Domenico da Gravina",
+            "pageView": 3,
+            "total": 5264
+        },
+        {
+            "page": "Giuseppe Rocco Favale",
+            "pageView": 3,
+            "total": 7703
+        },
+        {
+            "page": "Roberto De Robertis",
+            "pageView": 3,
+            "total": 4046
+        },
+        {
+            "page": "Nunzio Incannamorte",
+            "pageView": 2,
+            "total": 3030
+        },
+        {
+            "page": "Federigo Meninni",
+            "pageView": 2,
+            "total": 2429
         },
         {
             "page": "Salvatore Fighera",
-            "pageView": 2077
+            "pageView": 2,
+            "total": 2077
         },
         {
-            "page": "Ferrante Maddalena",
-            "pageView": 1596
+            "page": "Tarcisio Pisani",
+            "pageView": 2,
+            "total": 2614
+        },
+        {
+            "page": "Canio Musacchio",
+            "pageView": 2,
+            "total": 3285
+        },
+        {
+            "page": "Giuseppe Giovanniello",
+            "pageView": 2,
+            "total": 2228
+        },
+        {
+            "page": "Francesco Bossi (vescovo)",
+            "pageView": 2,
+            "total": 2453
         },
         {
             "page": "Giuseppe Lopriore",
-            "pageView": 1516
+            "pageView": 1,
+            "total": 1516
         },
         {
-            "page": "Michele Carulli",
-            "pageView": 950
-        },
-        {
-            "page": "Giovanni Consolazione",
-            "pageView": 913
-        },
-        {
-            "page": "Onofrio Petrara",
-            "pageView": 524
-        },
-        {
-            "page": "Filippo D'Agostino",
-            "pageView": 472
+            "page": "Ferrante Maddalena",
+            "pageView": 1,
+            "total": 1596
         },
         {
             "page": "Camillo Olivieri",
-            "pageView": 170
+            "pageView": 0,
+            "total": 172
+        },
+        {
+            "page": "Filippo D'Agostino",
+            "pageView": 0,
+            "total": 472
+        },
+        {
+            "page": "Giovanni Consolazione",
+            "pageView": 0,
+            "total": 916
+        },
+        {
+            "page": "Onofrio Petrara",
+            "pageView": 0,
+            "total": 524
+        },
+        {
+            "page": "Michele Carulli",
+            "pageView": 0,
+            "total": 952
         }
     ]
 }

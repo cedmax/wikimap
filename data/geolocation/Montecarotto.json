@@ -1,0 +1,27 @@
+{
+    "id": "place.5222083030808450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecarotto",
+    "place_name": "Montecarotto, Ancona, Italy",
+    "bbox": [
+        13.025677,
+        43.500979,
+        13.126543,
+        43.582052
+    ],
+    "center": [
+        13.06434,
+        43.52643
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.06434,
+            43.52643
+        ]
+    }
+}

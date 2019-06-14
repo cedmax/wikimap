@@ -1,0 +1,21 @@
+{
+    "id": "poi.2929167739128",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Gressoney-Saint-Jean",
+    "place_name": "Gressoney-Saint-Jean, Gressoney-Saint-Jean, Valle D'Aosta 11025, Italy",
+    "center": [
+        7.825412,
+        45.778581
+    ],
+    "geometry": {
+        "coordinates": [
+            7.825412,
+            45.778581
+        ],
+        "type": "Point"
+    }
+}

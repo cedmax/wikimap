@@ -1,0 +1,27 @@
+{
+    "id": "place.9569215936916820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mondovì",
+    "place_name": "Mondovì, Cuneo, Italy",
+    "bbox": [
+        7.689782,
+        44.350377,
+        7.905909,
+        44.465556
+    ],
+    "center": [
+        7.81667,
+        44.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.81667,
+            44.38333
+        ]
+    }
+}

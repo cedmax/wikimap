@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Mario Meini",
-            "pageView": 10327
+            "pageView": 6,
+            "total": 10329
         },
         {
             "page": "Ettore Donati",
-            "pageView": 8025
+            "pageView": 5,
+            "total": 8030
         },
         {
             "page": "Ferdinando Donati",
-            "pageView": 5679
+            "pageView": 4,
+            "total": 5680
         },
         {
             "page": "Ovidio Lari",
-            "pageView": 3905
-        },
-        {
-            "page": "Giuseppe Sabatini",
-            "pageView": 2980
+            "pageView": 3,
+            "total": 3908
         },
         {
             "page": "Cosimo Amidei",
-            "pageView": 2511
+            "pageView": 2,
+            "total": 2513
+        },
+        {
+            "page": "Giuseppe Sabatini",
+            "pageView": 2,
+            "total": 2982
         },
         {
             "page": "Mazzino Merlini",
-            "pageView": 1558
+            "pageView": 1,
+            "total": 1558
         }
     ]
 }

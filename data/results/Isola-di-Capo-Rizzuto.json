@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Uluç Alì Pascià",
-            "pageView": 40987
+            "pageView": 26,
+            "total": 41012
         },
         {
             "page": "Antonio Staglianò",
-            "pageView": 35784
+            "pageView": 19,
+            "total": 35792
         },
         {
             "page": "Antonio Giuseppe Caiazzo",
-            "pageView": 17186
-        },
-        {
-            "page": "Giovanni Barracco",
-            "pageView": 14310
+            "pageView": 12,
+            "total": 17198
         },
         {
             "page": "Nicola Arena",
-            "pageView": 9813
+            "pageView": 12,
+            "total": 9823
         },
         {
-            "page": "Antonio Mamone",
-            "pageView": 5940
-        },
-        {
-            "page": "Luca di Melicuccà",
-            "pageView": 3621
+            "page": "Giovanni Barracco",
+            "pageView": 9,
+            "total": 14318
         },
         {
             "page": "Pasquale Nicoscia",
-            "pageView": 3483
-        },
-        {
-            "page": "Onorato Fascitelli",
-            "pageView": 2808
+            "pageView": 5,
+            "total": 3489
         },
         {
             "page": "Pasquale Manfredi",
-            "pageView": 2735
+            "pageView": 3,
+            "total": 2745
+        },
+        {
+            "page": "Antonio Mamone",
+            "pageView": 3,
+            "total": 5941
+        },
+        {
+            "page": "Onorato Fascitelli",
+            "pageView": 2,
+            "total": 2811
+        },
+        {
+            "page": "Luca di Melicuccà",
+            "pageView": 2,
+            "total": 3622
         },
         {
             "page": "Alessandro Bichi",
-            "pageView": 2423
+            "pageView": 2,
+            "total": 2426
         },
         {
             "page": "Alberto Barracco",
-            "pageView": 1440
+            "pageView": 1,
+            "total": 1441
         },
         {
             "page": "Francesco Megale",
-            "pageView": 186
+            "pageView": 0,
+            "total": 186
         }
     ]
 }

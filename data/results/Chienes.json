@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Paul Hildgartner",
-            "pageView": 7363
+            "pageView": 4,
+            "total": 7363
         },
         {
             "page": "Walter Plaikner",
-            "pageView": 2308
-        },
-        {
-            "page": "Luigi Perenni",
-            "pageView": 1616
+            "pageView": 2,
+            "total": 2309
         },
         {
             "page": "Hans Rubner",
-            "pageView": 1556
+            "pageView": 2,
+            "total": 1558
+        },
+        {
+            "page": "Luigi Perenni",
+            "pageView": 1,
+            "total": 1617
         }
     ]
 }

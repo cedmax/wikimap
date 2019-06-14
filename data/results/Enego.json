@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Diego Dalla Palma",
-            "pageView": 103453
+            "pageView": 45,
+            "total": 103540
         },
         {
             "page": "Giovanni Fincato",
-            "pageView": 5239
+            "pageView": 3,
+            "total": 5241
         },
         {
             "page": "Luigi Cappello",
-            "pageView": 3038
+            "pageView": 2,
+            "total": 3039
         },
         {
             "page": "Stefano Agostini (professore)",
-            "pageView": 361
+            "pageView": 0,
+            "total": 361
         }
     ]
 }

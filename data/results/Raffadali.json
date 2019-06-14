@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Salvatore Cuffaro",
-            "pageView": 257547
+            "pageView": 118,
+            "total": 257668
         },
         {
             "page": "Albe Steiner",
-            "pageView": 38766
+            "pageView": 24,
+            "total": 38790
         },
         {
             "page": "Davide Rampello",
-            "pageView": 38300
-        },
-        {
-            "page": "Dario Lo Bosco",
-            "pageView": 6697
+            "pageView": 18,
+            "total": 38309
         },
         {
             "page": "Salvatore Di Benedetto",
-            "pageView": 6038
+            "pageView": 4,
+            "total": 6040
         },
         {
             "page": "Vittoria Giunti",
-            "pageView": 4523
+            "pageView": 3,
+            "total": 4523
         },
         {
-            "page": "Francesco Spoto",
-            "pageView": 4114
+            "page": "Dario Lo Bosco",
+            "pageView": 3,
+            "total": 6702
         },
         {
             "page": "Cesare Sessa",
-            "pageView": 3958
+            "pageView": 3,
+            "total": 3958
+        },
+        {
+            "page": "Francesco Spoto",
+            "pageView": 3,
+            "total": 4115
         },
         {
             "page": "Melchiorre Cirami",
-            "pageView": 3705
+            "pageView": 2,
+            "total": 3705
         },
         {
             "page": "Giuseppe Serroy",
-            "pageView": 2189
+            "pageView": 2,
+            "total": 2191
         }
     ]
 }

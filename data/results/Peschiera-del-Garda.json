@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Fabio Testi",
-            "pageView": 301366
+            "pageView": 140,
+            "total": 301575
         },
         {
             "page": "Livio Furini",
-            "pageView": 15983
-        },
-        {
-            "page": "Valentina Boni",
-            "pageView": 8306
+            "pageView": 9,
+            "total": 16003
         },
         {
             "page": "Edoardo Zardini (ciclista)",
-            "pageView": 7795
-        },
-        {
-            "page": "Claudio Bonati",
-            "pageView": 6893
-        },
-        {
-            "page": "Chiara Consolini",
-            "pageView": 6845
-        },
-        {
-            "page": "Oscar Righetti",
-            "pageView": 6841
-        },
-        {
-            "page": "Francesco Augusto Bon",
-            "pageView": 5650
+            "pageView": 4,
+            "total": 7796
         },
         {
             "page": "Pietro Torri",
-            "pageView": 5505
+            "pageView": 4,
+            "total": 5514
         },
         {
-            "page": "Giovan Francesco Loredan",
-            "pageView": 5012
+            "page": "Francesco Augusto Bon",
+            "pageView": 4,
+            "total": 5654
         },
         {
-            "page": "Eugenio Dugoni",
-            "pageView": 4916
+            "page": "Valentina Boni",
+            "pageView": 4,
+            "total": 8325
+        },
+        {
+            "page": "Chiara Consolini",
+            "pageView": 4,
+            "total": 6848
+        },
+        {
+            "page": "Oscar Righetti",
+            "pageView": 4,
+            "total": 6844
         },
         {
             "page": "Maria Zamboni",
-            "pageView": 4313
+            "pageView": 3,
+            "total": 4314
         },
         {
-            "page": "Felice Chiarle",
-            "pageView": 3632
+            "page": "Giovan Francesco Loredan",
+            "pageView": 3,
+            "total": 5014
+        },
+        {
+            "page": "Claudio Bonati",
+            "pageView": 3,
+            "total": 6896
+        },
+        {
+            "page": "Eugenio Dugoni",
+            "pageView": 3,
+            "total": 4919
         },
         {
             "page": "Andrea Grego da Peschiera",
-            "pageView": 3496
+            "pageView": 2,
+            "total": 3500
         },
         {
-            "page": "Marco Migliorini",
-            "pageView": 3173
+            "page": "Felice Chiarle",
+            "pageView": 2,
+            "total": 3632
         },
         {
             "page": "Eugenio De Renzi",
-            "pageView": 1592
+            "pageView": 1,
+            "total": 1593
         },
         {
             "page": "Berardino Cillenio",
-            "pageView": 1252
-        },
-        {
-            "page": "Masé",
-            "pageView": 573
+            "pageView": 1,
+            "total": 1252
         },
         {
             "page": "Marash Kumbulla",
-            "pageView": 189
+            "pageView": 0,
+            "total": 201
+        },
+        {
+            "page": "Marco Migliorini",
+            "pageView": 0,
+            "total": 3181
+        },
+        {
+            "page": "Masé",
+            "pageView": 0,
+            "total": 574
         }
     ]
 }

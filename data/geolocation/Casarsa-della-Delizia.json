@@ -1,0 +1,27 @@
+{
+    "id": "place.15858621698258410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casarsa della Delizia",
+    "place_name": "Casarsa della Delizia, Pordenone, Italy",
+    "bbox": [
+        12.789419,
+        45.923611,
+        12.869166,
+        45.98088
+    ],
+    "center": [
+        12.85,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.85,
+            45.95
+        ]
+    }
+}

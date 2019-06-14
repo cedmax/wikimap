@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Arduino d'Ivrea",
-            "pageView": 115868
+            "pageView": 54,
+            "total": 115922
         },
         {
             "page": "Liudolfo di Svevia",
-            "pageView": 5615
-        },
-        {
-            "page": "Riprando",
-            "pageView": 1346
+            "pageView": 3,
+            "total": 5618
         },
         {
             "page": "Gualberto (vescovo di Novara)",
-            "pageView": 1112
+            "pageView": 1,
+            "total": 1114
+        },
+        {
+            "page": "Riprando",
+            "pageView": 1,
+            "total": 1348
         }
     ]
 }

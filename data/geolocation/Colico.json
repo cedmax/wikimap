@@ -1,0 +1,27 @@
+{
+    "id": "place.4421544570949420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colico",
+    "place_name": "Colico, Lecco, Italy",
+    "bbox": [
+        9.29621,
+        46.092505,
+        9.414593,
+        46.152064
+    ],
+    "center": [
+        9.36667,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            46.13333
+        ]
+    }
+}

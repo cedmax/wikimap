@@ -2,436 +2,544 @@
     "name": "Montebelluna",
     "people": [
         {
+            "page": "Francesco Toldo",
+            "pageView": 193,
+            "total": 343582
+        },
+        {
             "page": "Luigi Datome",
-            "pageView": 351572
+            "pageView": 146,
+            "total": 351867
         },
         {
             "page": "Sergio Floccari",
-            "pageView": 344492
-        },
-        {
-            "page": "Francesco Toldo",
-            "pageView": 343400
+            "pageView": 134,
+            "total": 344572
         },
         {
             "page": "Aldo Serena",
-            "pageView": 276517
-        },
-        {
-            "page": "Riccardo Fraccaro",
-            "pageView": 197262
+            "pageView": 133,
+            "total": 276597
         },
         {
             "page": "Cristian Pasquato",
-            "pageView": 158822
+            "pageView": 80,
+            "total": 158898
         },
         {
             "page": "Daniele Gastaldello",
-            "pageView": 139264
+            "pageView": 70,
+            "total": 139342
         },
         {
             "page": "Attilio Tesser",
-            "pageView": 114926
-        },
-        {
-            "page": "Alessandro Gazzi",
-            "pageView": 95624
+            "pageView": 58,
+            "total": 114989
         },
         {
             "page": "Renato Buso",
-            "pageView": 87847
+            "pageView": 51,
+            "total": 87935
         },
         {
-            "page": "Claudio Foscarini",
-            "pageView": 77978
-        },
-        {
-            "page": "Andrea Soncin",
-            "pageView": 67061
+            "page": "Alessandro Gazzi",
+            "pageView": 44,
+            "total": 95666
         },
         {
             "page": "Luca Badoer",
-            "pageView": 66241
+            "pageView": 39,
+            "total": 66286
         },
         {
-            "page": "Roberto Venturato",
-            "pageView": 62471
+            "page": "Andrea Soncin",
+            "pageView": 36,
+            "total": 67084
         },
         {
-            "page": "Marino Magrin",
-            "pageView": 49133
-        },
-        {
-            "page": "Mauro Bressan",
-            "pageView": 48068
-        },
-        {
-            "page": "Daniele Gasparetto",
-            "pageView": 43955
-        },
-        {
-            "page": "Simone Pasa",
-            "pageView": 39866
-        },
-        {
-            "page": "Giulia Candiago",
-            "pageView": 38802
-        },
-        {
-            "page": "Ivano Beggio",
-            "pageView": 36295
-        },
-        {
-            "page": "Paolo Bessegato",
-            "pageView": 34750
-        },
-        {
-            "page": "Alessandra Graziottin",
-            "pageView": 33600
-        },
-        {
-            "page": "Jonatan Binotto",
-            "pageView": 30367
-        },
-        {
-            "page": "Massimo Beghetto",
-            "pageView": 29459
-        },
-        {
-            "page": "Mirco Gasparetto",
-            "pageView": 29409
-        },
-        {
-            "page": "Federico Furlan",
-            "pageView": 28175
-        },
-        {
-            "page": "Margherita Panziera",
-            "pageView": 26479
-        },
-        {
-            "page": "Daniele Pasa",
-            "pageView": 25719
+            "page": "Claudio Foscarini",
+            "pageView": 33,
+            "total": 77997
         },
         {
             "page": "Andrea Beghetto",
-            "pageView": 24606
+            "pageView": 30,
+            "total": 24623
+        },
+        {
+            "page": "Roberto Venturato",
+            "pageView": 29,
+            "total": 62512
+        },
+        {
+            "page": "Marino Magrin",
+            "pageView": 27,
+            "total": 49150
+        },
+        {
+            "page": "Alessandra Graziottin",
+            "pageView": 25,
+            "total": 33633
+        },
+        {
+            "page": "Mauro Bressan",
+            "pageView": 22,
+            "total": 48087
+        },
+        {
+            "page": "Simone Pasa",
+            "pageView": 20,
+            "total": 39884
+        },
+        {
+            "page": "Daniele Gasparetto",
+            "pageView": 19.5,
+            "total": 43974
+        },
+        {
+            "page": "Riccardo Fraccaro",
+            "pageView": 19,
+            "total": 197352
+        },
+        {
+            "page": "Jonatan Binotto",
+            "pageView": 17,
+            "total": 30380
+        },
+        {
+            "page": "Mirco Gasparetto",
+            "pageView": 16,
+            "total": 29439
+        },
+        {
+            "page": "Giulia Candiago",
+            "pageView": 16,
+            "total": 38807
+        },
+        {
+            "page": "Massimo Beghetto",
+            "pageView": 14,
+            "total": 29479
+        },
+        {
+            "page": "Daniele Pasa",
+            "pageView": 14,
+            "total": 25738
+        },
+        {
+            "page": "Federico Furlan",
+            "pageView": 14,
+            "total": 28181
+        },
+        {
+            "page": "Paolo Bessegato",
+            "pageView": 13,
+            "total": 34755
+        },
+        {
+            "page": "Ivano Beggio",
+            "pageView": 12.5,
+            "total": 36322
         },
         {
             "page": "Giandomenico Basso",
-            "pageView": 19174
+            "pageView": 10,
+            "total": 19185
         },
         {
             "page": "Oscar Gatto",
-            "pageView": 18986
-        },
-        {
-            "page": "Renzo Gobbo",
-            "pageView": 17129
+            "pageView": 10,
+            "total": 18994
         },
         {
             "page": "Ernestino Ramella",
-            "pageView": 17092
-        },
-        {
-            "page": "Remo Sernagiotto",
-            "pageView": 15441
+            "pageView": 10,
+            "total": 17094
         },
         {
             "page": "Nicola Padoin",
-            "pageView": 14398
-        },
-        {
-            "page": "Maurizio Bedin",
-            "pageView": 14052
-        },
-        {
-            "page": "Carlo Osellame",
-            "pageView": 12931
+            "pageView": 9,
+            "total": 14400
         },
         {
             "page": "Andrea Caverzan",
-            "pageView": 12284
+            "pageView": 8,
+            "total": 12291
         },
         {
-            "page": "Maurizio Restelli",
-            "pageView": 11815
+            "page": "Carlo Osellame",
+            "pageView": 8,
+            "total": 12938
         },
         {
-            "page": "Andrea Boscolo",
-            "pageView": 11564
+            "page": "Maurizio Bedin",
+            "pageView": 8,
+            "total": 14069
+        },
+        {
+            "page": "Renzo Gobbo",
+            "pageView": 7,
+            "total": 17137
+        },
+        {
+            "page": "Remo Sernagiotto",
+            "pageView": 7,
+            "total": 15456
         },
         {
             "page": "Andrea Bruniera",
-            "pageView": 10888
+            "pageView": 7,
+            "total": 10899
         },
         {
-            "page": "Marco Marcolin",
-            "pageView": 9551
+            "page": "Andrea Boscolo",
+            "pageView": 7,
+            "total": 11569
         },
         {
-            "page": "Renato Palumbo",
-            "pageView": 9181
-        },
-        {
-            "page": "Domenico Moro",
-            "pageView": 9093
-        },
-        {
-            "page": "Gastone Limarilli",
-            "pageView": 8490
-        },
-        {
-            "page": "Giovanni Caberlotto",
-            "pageView": 8093
-        },
-        {
-            "page": "Andrea De Marchi",
-            "pageView": 7590
-        },
-        {
-            "page": "Marcello Agnoletto",
-            "pageView": 7528
-        },
-        {
-            "page": "Diego Caverzan",
-            "pageView": 7412
+            "page": "Maurizio Restelli",
+            "pageView": 7,
+            "total": 11817
         },
         {
             "page": "Vincenzo Garioni",
-            "pageView": 7292
+            "pageView": 5,
+            "total": 7294
         },
         {
-            "page": "Alberto Sgarbi",
-            "pageView": 6697
+            "page": "Marcello Agnoletto",
+            "pageView": 5,
+            "total": 7536
+        },
+        {
+            "page": "Gastone Limarilli",
+            "pageView": 5,
+            "total": 8492
+        },
+        {
+            "page": "Renato Palumbo",
+            "pageView": 5,
+            "total": 9184
+        },
+        {
+            "page": "Domenico Moro",
+            "pageView": 5,
+            "total": 9098
+        },
+        {
+            "page": "Giovanni Caberlotto",
+            "pageView": 5,
+            "total": 8097
+        },
+        {
+            "page": "Marco Marcolin",
+            "pageView": 5,
+            "total": 9554
         },
         {
             "page": "Dino Spadetto",
-            "pageView": 6561
+            "pageView": 4,
+            "total": 6562
         },
         {
             "page": "Manuel Dallan",
-            "pageView": 6519
+            "pageView": 4,
+            "total": 6521
         },
         {
-            "page": "Andrea Chiurato",
-            "pageView": 5902
+            "page": "Alberto Sgarbi",
+            "pageView": 4,
+            "total": 6700
+        },
+        {
+            "page": "Andrea De Marchi",
+            "pageView": 4,
+            "total": 7591
         },
         {
             "page": "Giuseppe Fagni",
-            "pageView": 5700
+            "pageView": 4,
+            "total": 5704
         },
         {
-            "page": "Giada Gallina",
-            "pageView": 5510
-        },
-        {
-            "page": "Cesare Togni",
-            "pageView": 5478
-        },
-        {
-            "page": "Alex Visentin",
-            "pageView": 5294
-        },
-        {
-            "page": "Angela Veronese",
-            "pageView": 5143
-        },
-        {
-            "page": "Angelo Daniel",
-            "pageView": 5050
-        },
-        {
-            "page": "Ivanoe Lanzara",
-            "pageView": 4940
-        },
-        {
-            "page": "Guido Bergamo",
-            "pageView": 4895
-        },
-        {
-            "page": "Giorgio Valentinuzzi",
-            "pageView": 4685
-        },
-        {
-            "page": "Tiziano Ramon",
-            "pageView": 4646
-        },
-        {
-            "page": "Luca Genovese",
-            "pageView": 4561
-        },
-        {
-            "page": "Rinaldo Carnielo",
-            "pageView": 4535
-        },
-        {
-            "page": "Cristiano Cervato",
-            "pageView": 4401
-        },
-        {
-            "page": "Franco Binotto",
-            "pageView": 4343
-        },
-        {
-            "page": "Pietro Bertolini",
-            "pageView": 4297
-        },
-        {
-            "page": "Ivan Moretto",
-            "pageView": 4145
-        },
-        {
-            "page": "Giulia Viola",
-            "pageView": 4109
-        },
-        {
-            "page": "Rodolfo Cimenti",
-            "pageView": 3913
-        },
-        {
-            "page": "Marco Caverzan",
-            "pageView": 3426
-        },
-        {
-            "page": "Giuliano Cazzolato",
-            "pageView": 3203
+            "page": "Diego Caverzan",
+            "pageView": 4,
+            "total": 7417
         },
         {
             "page": "Luigi Serena",
-            "pageView": 3192
+            "pageView": 3,
+            "total": 3196
         },
         {
-            "page": "Enrico Pavanello",
-            "pageView": 3068
+            "page": "Franco Binotto",
+            "pageView": 3,
+            "total": 4348
         },
         {
-            "page": "Bruna Genovese",
-            "pageView": 3012
+            "page": "Ivan Moretto",
+            "pageView": 3,
+            "total": 4147
         },
         {
-            "page": "Nicola Bolzonello",
-            "pageView": 2982
+            "page": "Ivanoe Lanzara",
+            "pageView": 3,
+            "total": 4944
         },
         {
-            "page": "Augusto Serena",
-            "pageView": 2893
+            "page": "Rinaldo Carnielo",
+            "pageView": 3,
+            "total": 4539
         },
         {
-            "page": "Valeriano Nchama",
-            "pageView": 2811
+            "page": "Giorgio Valentinuzzi",
+            "pageView": 3,
+            "total": 4687
         },
         {
-            "page": "Antonio Tessariol",
-            "pageView": 2767
+            "page": "Alex Visentin",
+            "pageView": 3,
+            "total": 5298
         },
         {
-            "page": "Andrea Campana",
-            "pageView": 2744
+            "page": "Angelo Daniel",
+            "pageView": 3,
+            "total": 5053
         },
         {
-            "page": "Giorgio Mognon",
-            "pageView": 2549
+            "page": "Tiziano Ramon",
+            "pageView": 3,
+            "total": 4650
         },
         {
-            "page": "Piero Bortoletto",
-            "pageView": 2512
-        },
-        {
-            "page": "Edoardo Orlando",
-            "pageView": 2243
-        },
-        {
-            "page": "Beniamino Vergani",
-            "pageView": 2186
-        },
-        {
-            "page": "Loris Mora",
-            "pageView": 2066
-        },
-        {
-            "page": "Nicolò Franco (vescovo)",
-            "pageView": 1923
-        },
-        {
-            "page": "Nicola Pavin",
-            "pageView": 1902
-        },
-        {
-            "page": "Mariano Faraone",
-            "pageView": 1782
-        },
-        {
-            "page": "Enselmino da Montebelluna",
-            "pageView": 1738
-        },
-        {
-            "page": "Riccardo Della Puppa",
-            "pageView": 1667
-        },
-        {
-            "page": "Gino Pasin",
-            "pageView": 1661
-        },
-        {
-            "page": "Bruno Artuso",
-            "pageView": 1632
-        },
-        {
-            "page": "Walter De Boni",
-            "pageView": 1597
-        },
-        {
-            "page": "Umberto Favero",
-            "pageView": 1517
-        },
-        {
-            "page": "Pier Luigi Basso",
-            "pageView": 1485
-        },
-        {
-            "page": "Romano Zaniol",
-            "pageView": 1477
-        },
-        {
-            "page": "Nello Mason",
-            "pageView": 1443
-        },
-        {
-            "page": "Elfino Mortati",
-            "pageView": 1425
-        },
-        {
-            "page": "Gianluca Zavarise",
-            "pageView": 1422
-        },
-        {
-            "page": "Antonio Colognese",
-            "pageView": 1375
-        },
-        {
-            "page": "Stefania Positello",
-            "pageView": 1351
-        },
-        {
-            "page": "Elisabetta Maschio",
-            "pageView": 1217
+            "page": "Guido Bergamo",
+            "pageView": 3,
+            "total": 4896
         },
         {
             "page": "Mario Bergamo",
-            "pageView": 1216
+            "pageView": 3,
+            "total": 1216
+        },
+        {
+            "page": "Giada Gallina",
+            "pageView": 3,
+            "total": 5512
+        },
+        {
+            "page": "Cesare Togni",
+            "pageView": 3,
+            "total": 5480
+        },
+        {
+            "page": "Angela Veronese",
+            "pageView": 3,
+            "total": 5149
+        },
+        {
+            "page": "Luca Genovese",
+            "pageView": 3,
+            "total": 4564
+        },
+        {
+            "page": "Rodolfo Cimenti",
+            "pageView": 3,
+            "total": 3914
+        },
+        {
+            "page": "Pietro Bertolini",
+            "pageView": 3,
+            "total": 4301
+        },
+        {
+            "page": "Andrea Chiurato",
+            "pageView": 3,
+            "total": 5903
+        },
+        {
+            "page": "Enrico Pavanello",
+            "pageView": 2,
+            "total": 3068
+        },
+        {
+            "page": "Marco Caverzan",
+            "pageView": 2,
+            "total": 3427
+        },
+        {
+            "page": "Giuliano Cazzolato",
+            "pageView": 2,
+            "total": 3203
+        },
+        {
+            "page": "Cristiano Cervato",
+            "pageView": 2,
+            "total": 4406
+        },
+        {
+            "page": "Romano Zaniol",
+            "pageView": 2,
+            "total": 1478
+        },
+        {
+            "page": "Andrea Campana",
+            "pageView": 2,
+            "total": 2745
+        },
+        {
+            "page": "Antonio Tessariol",
+            "pageView": 2,
+            "total": 2768
+        },
+        {
+            "page": "Giulia Viola",
+            "pageView": 2,
+            "total": 4110
+        },
+        {
+            "page": "Elfino Mortati",
+            "pageView": 2,
+            "total": 1427
+        },
+        {
+            "page": "Giorgio Mognon",
+            "pageView": 2,
+            "total": 2550
+        },
+        {
+            "page": "Loris Mora",
+            "pageView": 2,
+            "total": 2067
+        },
+        {
+            "page": "Beniamino Vergani",
+            "pageView": 2,
+            "total": 2187
+        },
+        {
+            "page": "Piero Bortoletto",
+            "pageView": 2,
+            "total": 2512
+        },
+        {
+            "page": "Bruna Genovese",
+            "pageView": 2,
+            "total": 3012
+        },
+        {
+            "page": "Augusto Serena",
+            "pageView": 2,
+            "total": 2894
+        },
+        {
+            "page": "Valeriano Nchama",
+            "pageView": 2,
+            "total": 2811
+        },
+        {
+            "page": "Nicola Bolzonello",
+            "pageView": 2,
+            "total": 2983
+        },
+        {
+            "page": "Edoardo Orlando",
+            "pageView": 2,
+            "total": 2243
+        },
+        {
+            "page": "Elisabetta Maschio",
+            "pageView": 2,
+            "total": 1219
         },
         {
             "page": "Bruno Maurizi",
-            "pageView": 1053
+            "pageView": 1,
+            "total": 1055
+        },
+        {
+            "page": "Gianluca Zavarise",
+            "pageView": 1,
+            "total": 1423
+        },
+        {
+            "page": "Antonio Colognese",
+            "pageView": 1,
+            "total": 1375
+        },
+        {
+            "page": "Nicolò Franco (vescovo)",
+            "pageView": 1,
+            "total": 1923
+        },
+        {
+            "page": "Walter De Boni",
+            "pageView": 1,
+            "total": 1599
+        },
+        {
+            "page": "Umberto Favero",
+            "pageView": 1,
+            "total": 1518
+        },
+        {
+            "page": "Nicola Pavin",
+            "pageView": 1,
+            "total": 1903
+        },
+        {
+            "page": "Stefania Positello",
+            "pageView": 1,
+            "total": 1353
+        },
+        {
+            "page": "Riccardo Della Puppa",
+            "pageView": 1,
+            "total": 1667
+        },
+        {
+            "page": "Enselmino da Montebelluna",
+            "pageView": 1,
+            "total": 1738
+        },
+        {
+            "page": "Bruno Artuso",
+            "pageView": 1,
+            "total": 1632
+        },
+        {
+            "page": "Gino Pasin",
+            "pageView": 1,
+            "total": 1662
+        },
+        {
+            "page": "Nello Mason",
+            "pageView": 1,
+            "total": 1443
+        },
+        {
+            "page": "Mariano Faraone",
+            "pageView": 1,
+            "total": 1783
         },
         {
             "page": "Ampelio Sartor",
-            "pageView": 107
+            "pageView": 0,
+            "total": 108
+        },
+        {
+            "page": "Margherita Panziera",
+            "pageView": 0,
+            "total": 26495
+        },
+        {
+            "page": "Pier Luigi Basso",
+            "pageView": 0,
+            "total": 1488
         },
         {
             "page": "Aristide Sartor",
-            "pageView": 91
+            "pageView": 0,
+            "total": 92
         }
     ]
 }

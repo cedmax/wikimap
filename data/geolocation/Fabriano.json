@@ -1,0 +1,27 @@
+{
+    "id": "place.12394951727651770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fabriano",
+    "place_name": "Fabriano, Ancona, Italy",
+    "bbox": [
+        12.759184,
+        43.20976,
+        13.064765,
+        43.430745
+    ],
+    "center": [
+        12.90852,
+        43.33856
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.90852,
+            43.33856
+        ]
+    }
+}

@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Tonina Torrielli",
-            "pageView": 36763
+            "pageView": 19,
+            "total": 36786
         },
         {
             "page": "Cesare Pozzo",
-            "pageView": 13084
+            "pageView": 8,
+            "total": 13097
         },
         {
             "page": "Maurizio De Negri",
-            "pageView": 5431
+            "pageView": 4,
+            "total": 5433
         },
         {
             "page": "Biagio Assereto",
-            "pageView": 3842
+            "pageView": 3,
+            "total": 3843
         },
         {
             "page": "Mario Giani",
-            "pageView": 3237
+            "pageView": 2,
+            "total": 3237
         },
         {
             "page": "Opizzino Spinola",
-            "pageView": 2864
-        },
-        {
-            "page": "Carlo Giovanni Battista Grillo",
-            "pageView": 2401
-        },
-        {
-            "page": "Giacomo Gualco",
-            "pageView": 2359
+            "pageView": 2,
+            "total": 2864
         },
         {
             "page": "Osvaldo Bailo",
-            "pageView": 2295
+            "pageView": 2,
+            "total": 2295
+        },
+        {
+            "page": "Carlo Giovanni Battista Grillo",
+            "pageView": 2,
+            "total": 2402
+        },
+        {
+            "page": "Giacomo Gualco",
+            "pageView": 2,
+            "total": 2359
         },
         {
             "page": "Roberto Berthoud",
-            "pageView": 2194
+            "pageView": 2,
+            "total": 2203
         },
         {
             "page": "Giovanni Firpo",
-            "pageView": 1227
+            "pageView": 1,
+            "total": 1228
         },
         {
             "page": "Primo Zuccotti",
-            "pageView": 576
+            "pageView": 0,
+            "total": 577
         }
     ]
 }

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Fausto Radici",
-            "pageView": 31638
-        },
-        {
-            "page": "Luigi Zambaiti",
-            "pageView": 2402
+            "pageView": 15,
+            "total": 31648
         },
         {
             "page": "Ignazio Nicoli",
-            "pageView": 2048
+            "pageView": 2,
+            "total": 2049
+        },
+        {
+            "page": "Luigi Zambaiti",
+            "pageView": 2,
+            "total": 2403
         }
     ]
 }

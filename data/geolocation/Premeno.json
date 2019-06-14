@@ -1,0 +1,27 @@
+{
+    "id": "place.9552765623564370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Premeno",
+    "place_name": "Premeno, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.574879,
+        45.965458,
+        8.620648,
+        46.000166
+    ],
+    "center": [
+        8.5977635,
+        45.982811999999996
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.5977635,
+            45.982811999999996
+        ]
+    }
+}

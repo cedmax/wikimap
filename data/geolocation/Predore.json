@@ -1,0 +1,27 @@
+{
+    "id": "place.14342841030748260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Predore",
+    "place_name": "Predore, Bergamo, Italy",
+    "bbox": [
+        9.988992,
+        45.670914,
+        10.054435,
+        45.70117
+    ],
+    "center": [
+        10.01667,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01667,
+            45.68333
+        ]
+    }
+}

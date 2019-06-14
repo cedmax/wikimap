@@ -1,0 +1,27 @@
+{
+    "id": "place.9389058827735690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sclafani Bagni",
+    "place_name": "Sclafani Bagni, Palermo, Italy",
+    "bbox": [
+        13.707788,
+        37.686189,
+        13.886101,
+        37.872638
+    ],
+    "center": [
+        13.85,
+        37.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85,
+            37.81667
+        ]
+    }
+}

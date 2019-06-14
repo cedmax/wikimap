@@ -1,0 +1,27 @@
+{
+    "id": "place.12705664188451680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescate",
+    "place_name": "Pescate, Lecco, Italy",
+    "bbox": [
+        9.386687,
+        45.820288,
+        9.40369,
+        45.843901
+    ],
+    "center": [
+        9.4,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.83333
+        ]
+    }
+}

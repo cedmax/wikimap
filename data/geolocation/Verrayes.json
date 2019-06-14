@@ -1,0 +1,27 @@
+{
+    "id": "place.16130439238361770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verrayes",
+    "place_name": "Verrayes, Valle D'Aosta, Italy",
+    "bbox": [
+        7.491819,
+        45.738057,
+        7.569485,
+        45.801184
+    ],
+    "center": [
+        7.53333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.53333,
+            45.76667
+        ]
+    }
+}

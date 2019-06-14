@@ -1,0 +1,27 @@
+{
+    "id": "place.3355131743354400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trequanda",
+    "place_name": "Trequanda, Siena, Italy",
+    "bbox": [
+        11.601846,
+        43.105248,
+        11.731706,
+        43.226495
+    ],
+    "center": [
+        11.66667,
+        43.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            43.18333
+        ]
+    }
+}

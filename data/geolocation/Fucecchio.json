@@ -1,0 +1,27 @@
+{
+    "id": "place.5008717026213260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fucecchio",
+    "place_name": "Fucecchio, Firenze, Italy",
+    "bbox": [
+        10.711599,
+        43.703353,
+        10.838488,
+        43.813673
+    ],
+    "center": [
+        10.8,
+        43.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.8,
+            43.73333
+        ]
+    }
+}

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Aldo Patriciello",
-            "pageView": 50479
-        },
-        {
-            "page": "Enzo Guarini",
-            "pageView": 19619
-        },
-        {
-            "page": "Maurizio Santilli",
-            "pageView": 15925
+            "pageView": 24,
+            "total": 50543
         },
         {
             "page": "Vincenzo Manes",
-            "pageView": 12024
+            "pageView": 15,
+            "total": 12034
         },
         {
-            "page": "Salvatore Visco",
-            "pageView": 10099
+            "page": "Enzo Guarini",
+            "pageView": 10,
+            "total": 19672
         },
         {
-            "page": "Camillo Cibotti",
-            "pageView": 9258
-        },
-        {
-            "page": "Leopoldo Pilla",
-            "pageView": 7248
+            "page": "Maurizio Santilli",
+            "pageView": 8,
+            "total": 15933
         },
         {
             "page": "Andrea Gemma",
-            "pageView": 6572
+            "pageView": 6,
+            "total": 6575
         },
         {
-            "page": "Jacovella da Celano",
-            "pageView": 6057
+            "page": "Salvatore Visco",
+            "pageView": 6,
+            "total": 10104
         },
         {
-            "page": "Antonio Giordano",
-            "pageView": 5918
-        },
-        {
-            "page": "Amerigo Iannacone",
-            "pageView": 5572
+            "page": "Camillo Cibotti",
+            "pageView": 6,
+            "total": 9261
         },
         {
             "page": "Claudio Palumbo",
-            "pageView": 3873
+            "pageView": 5,
+            "total": 3876
         },
         {
-            "page": "Ettore Di Filippo",
-            "pageView": 3077
+            "page": "Leopoldo Pilla",
+            "pageView": 4,
+            "total": 7250
         },
         {
-            "page": "Daria di Venafro",
-            "pageView": 2599
+            "page": "Amerigo Iannacone",
+            "pageView": 3,
+            "total": 5578
+        },
+        {
+            "page": "Jacovella da Celano",
+            "pageView": 3,
+            "total": 6064
+        },
+        {
+            "page": "Antonio Giordano",
+            "pageView": 3,
+            "total": 5921
         },
         {
             "page": "Pietro Tesauri",
-            "pageView": 2416
+            "pageView": 2,
+            "total": 2416
         },
         {
-            "page": "Ladislao d'Aquino",
-            "pageView": 1892
+            "page": "Daria di Venafro",
+            "pageView": 2,
+            "total": 2604
         },
         {
-            "page": "Andrea Matteo Acquaviva d'Aragona",
-            "pageView": 1785
+            "page": "Ettore Di Filippo",
+            "pageView": 2,
+            "total": 3079
         },
         {
             "page": "Teodoro Salzillo",
-            "pageView": 1638
+            "pageView": 1,
+            "total": 1640
+        },
+        {
+            "page": "Andrea Matteo Acquaviva d'Aragona",
+            "pageView": 1,
+            "total": 1786
+        },
+        {
+            "page": "Ladislao d'Aquino",
+            "pageView": 1,
+            "total": 1895
         }
     ]
 }

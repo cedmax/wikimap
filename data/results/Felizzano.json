@@ -2,36 +2,44 @@
     "name": "Felizzano",
     "people": [
         {
-            "page": "Paolo Spingardi",
-            "pageView": 5200
-        },
-        {
             "page": "Gino Penno",
-            "pageView": 4639
+            "pageView": 3,
+            "total": 4639
         },
         {
-            "page": "Franco Stradella",
-            "pageView": 2910
-        },
-        {
-            "page": "Giuseppe Vairo",
-            "pageView": 2117
-        },
-        {
-            "page": "Francesco Berruti",
-            "pageView": 1735
-        },
-        {
-            "page": "Giuseppe Lecchi",
-            "pageView": 1426
-        },
-        {
-            "page": "Giovanni Nizzi",
-            "pageView": 1068
+            "page": "Paolo Spingardi",
+            "pageView": 3,
+            "total": 5201
         },
         {
             "page": "Paolo Ercole",
-            "pageView": 1037
+            "pageView": 2,
+            "total": 1042
+        },
+        {
+            "page": "Giuseppe Vairo",
+            "pageView": 2,
+            "total": 2119
+        },
+        {
+            "page": "Franco Stradella",
+            "pageView": 2,
+            "total": 2912
+        },
+        {
+            "page": "Francesco Berruti",
+            "pageView": 1,
+            "total": 1735
+        },
+        {
+            "page": "Giuseppe Lecchi",
+            "pageView": 1,
+            "total": 1426
+        },
+        {
+            "page": "Giovanni Nizzi",
+            "pageView": 1,
+            "total": 1068
         }
     ]
 }

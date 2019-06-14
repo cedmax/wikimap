@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Luisa Della Noce",
-            "pageView": 15728
-        },
-        {
-            "page": "Paolo Pestrin",
-            "pageView": 9125
+            "pageView": 7,
+            "total": 15735
         },
         {
             "page": "Ermanno Cristin",
-            "pageView": 8636
+            "pageView": 6,
+            "total": 8639
+        },
+        {
+            "page": "Paolo Pestrin",
+            "pageView": 6,
+            "total": 9130
         },
         {
             "page": "Silvano Moro",
-            "pageView": 5764
-        },
-        {
-            "page": "Mario Facchin",
-            "pageView": 2913
-        },
-        {
-            "page": "Mario D'Agostini",
-            "pageView": 2668
-        },
-        {
-            "page": "Bruno Maran",
-            "pageView": 2543
+            "pageView": 4,
+            "total": 5764
         },
         {
             "page": "Gino Archesso",
-            "pageView": 1768
+            "pageView": 2,
+            "total": 1771
         },
         {
-            "page": "Attilio Mestroni",
-            "pageView": 1342
+            "page": "Mario D'Agostini",
+            "pageView": 2,
+            "total": 2670
         },
         {
-            "page": "Fermo Ferrara",
-            "pageView": 1260
+            "page": "Mario Facchin",
+            "pageView": 2,
+            "total": 2913
+        },
+        {
+            "page": "Bruno Maran",
+            "pageView": 2,
+            "total": 2544
         },
         {
             "page": "Archimede Taverna",
-            "pageView": 638
+            "pageView": 1,
+            "total": 638
+        },
+        {
+            "page": "Attilio Mestroni",
+            "pageView": 1,
+            "total": 1342
+        },
+        {
+            "page": "Fermo Ferrara",
+            "pageView": 1,
+            "total": 1260
         }
     ]
 }

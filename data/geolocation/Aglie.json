@@ -1,0 +1,27 @@
+{
+    "id": "place.4963030727096510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agliè",
+    "place_name": "Agliè, Torino, Italy",
+    "bbox": [
+        7.745838,
+        45.341638,
+        7.803791,
+        45.389089
+    ],
+    "center": [
+        7.76667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.76667,
+            45.36667
+        ]
+    }
+}

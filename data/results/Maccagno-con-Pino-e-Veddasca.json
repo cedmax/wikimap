@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Dandolo Flumini",
-            "pageView": 3821
+            "pageView": 3,
+            "total": 3824
         },
         {
             "page": "Ferdinando Caronesi",
-            "pageView": 2380
+            "pageView": 2,
+            "total": 2381
         }
     ]
 }

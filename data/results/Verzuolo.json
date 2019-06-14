@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Flavio Briatore",
-            "pageView": 1446122
+            "pageView": 651.5,
+            "total": 1446737
         },
         {
             "page": "Cesare Segre",
-            "pageView": 37532
+            "pageView": 24,
+            "total": 37561
         },
         {
             "page": "Giovanni Vincenzo Cima",
-            "pageView": 8870
+            "pageView": 6,
+            "total": 8875
         },
         {
             "page": "Giuseppe Siccardi",
-            "pageView": 7852
-        },
-        {
-            "page": "Davide Perona",
-            "pageView": 2731
-        },
-        {
-            "page": "Alessandra Boarelli",
-            "pageView": 2622
-        },
-        {
-            "page": "Carlo Muletti",
-            "pageView": 2277
+            "pageView": 5,
+            "total": 7854
         },
         {
             "page": "Paolo Ballada di Saint Robert",
-            "pageView": 2237
+            "pageView": 2,
+            "total": 2239
+        },
+        {
+            "page": "Davide Perona",
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Carlo Muletti",
+            "pageView": 2,
+            "total": 2277
+        },
+        {
+            "page": "Alessandra Boarelli",
+            "pageView": 2,
+            "total": 2625
         },
         {
             "page": "Cesare Billia",
-            "pageView": 1539
-        },
-        {
-            "page": "Lelio Peirano",
-            "pageView": 1463
+            "pageView": 1,
+            "total": 1541
         },
         {
             "page": "Flavio Caselli",
-            "pageView": 963
+            "pageView": 1,
+            "total": 964
+        },
+        {
+            "page": "Lelio Peirano",
+            "pageView": 1,
+            "total": 1464
         }
     ]
 }

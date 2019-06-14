@@ -1,0 +1,27 @@
+{
+    "id": "place.17229734934477420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiaverano",
+    "place_name": "Chiaverano, Torino, Italy",
+    "bbox": [
+        7.879271,
+        45.482258,
+        7.93025,
+        45.52676
+    ],
+    "center": [
+        7.9,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9,
+            45.5
+        ]
+    }
+}

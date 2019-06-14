@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Umberto Lenzi",
-            "pageView": 132587
+            "pageView": 72,
+            "total": 132665
         },
         {
             "page": "Bernardino da Siena",
-            "pageView": 95182
-        },
-        {
-            "page": "Gualtiero Bassetti",
-            "pageView": 86421
+            "pageView": 57,
+            "total": 95229
         },
         {
             "page": "Angelo Comastri",
-            "pageView": 77665
+            "pageView": 41,
+            "total": 77702
+        },
+        {
+            "page": "Gualtiero Bassetti",
+            "pageView": 38,
+            "total": 86465
         },
         {
             "page": "Costanzo Gallo",
-            "pageView": 21419
+            "pageView": 12,
+            "total": 21432
         },
         {
             "page": "Luciano Tovoli",
-            "pageView": 19847
-        },
-        {
-            "page": "Norma Pratelli Parenti",
-            "pageView": 10945
-        },
-        {
-            "page": "Giovanni Santucci",
-            "pageView": 10287
+            "pageView": 11,
+            "total": 19861
         },
         {
             "page": "Alessandro Monticciolo",
-            "pageView": 9379
+            "pageView": 6,
+            "total": 9395
         },
         {
-            "page": "Luca Sani",
-            "pageView": 7102
+            "page": "Norma Pratelli Parenti",
+            "pageView": 5,
+            "total": 10949
+        },
+        {
+            "page": "Giovanni Santucci",
+            "pageView": 5,
+            "total": 10297
         },
         {
             "page": "Carlo Ciattini",
-            "pageView": 6946
+            "pageView": 4,
+            "total": 6950
+        },
+        {
+            "page": "Luca Sani",
+            "pageView": 4,
+            "total": 7103
         },
         {
             "page": "Flavio Fusi",
-            "pageView": 6360
+            "pageView": 3,
+            "total": 6363
         },
         {
             "page": "Gregorio Rossi",
-            "pageView": 3920
-        },
-        {
-            "page": "Massimo Sozzi",
-            "pageView": 3808
+            "pageView": 3,
+            "total": 3923
         },
         {
             "page": "Francesco Lavorato",
-            "pageView": 3426
-        },
-        {
-            "page": "Umberto Tombari",
-            "pageView": 3201
-        },
-        {
-            "page": "Giuseppe Turini",
-            "pageView": 2770
-        },
-        {
-            "page": "Elena Vannoni",
-            "pageView": 2547
-        },
-        {
-            "page": "Bernardino Lotti",
-            "pageView": 2466
-        },
-        {
-            "page": "Laura Venturini",
-            "pageView": 2426
+            "pageView": 2,
+            "total": 3429
         },
         {
             "page": "Guido Radi",
-            "pageView": 2035
-        },
-        {
-            "page": "Emilio Zannerini",
-            "pageView": 1797
-        },
-        {
-            "page": "Ugo da Massa",
-            "pageView": 1311
-        },
-        {
-            "page": "Ilio Baroni",
-            "pageView": 1094
-        },
-        {
-            "page": "Arianna Acuti",
-            "pageView": 1040
+            "pageView": 2,
+            "total": 2036
         },
         {
             "page": "Corrado Banchi",
-            "pageView": 1032
+            "pageView": 2,
+            "total": 1035
+        },
+        {
+            "page": "Giuseppe Turini",
+            "pageView": 2,
+            "total": 2771
+        },
+        {
+            "page": "Arianna Acuti",
+            "pageView": 2,
+            "total": 1043
+        },
+        {
+            "page": "Bernardino Lotti",
+            "pageView": 2,
+            "total": 2466
+        },
+        {
+            "page": "Massimo Sozzi",
+            "pageView": 2,
+            "total": 3809
+        },
+        {
+            "page": "Umberto Tombari",
+            "pageView": 2,
+            "total": 3201
+        },
+        {
+            "page": "Laura Venturini",
+            "pageView": 2,
+            "total": 2428
+        },
+        {
+            "page": "Elena Vannoni",
+            "pageView": 2,
+            "total": 2554
+        },
+        {
+            "page": "Ugo da Massa",
+            "pageView": 1,
+            "total": 1312
         },
         {
             "page": "Torquato Fusi",
-            "pageView": 1011
+            "pageView": 1,
+            "total": 1014
+        },
+        {
+            "page": "Emilio Zannerini",
+            "pageView": 1,
+            "total": 1798
         },
         {
             "page": "Lando Civilini",
-            "pageView": 857
+            "pageView": 1,
+            "total": 857
         },
         {
-            "page": "Gaetano Badii",
-            "pageView": 738
+            "page": "Ilio Baroni",
+            "pageView": 0,
+            "total": 1095
         },
         {
             "page": "Giovanni Pizzetti",
-            "pageView": 523
+            "pageView": 0,
+            "total": 524
+        },
+        {
+            "page": "Gaetano Badii",
+            "pageView": 0,
+            "total": 739
         }
     ]
 }

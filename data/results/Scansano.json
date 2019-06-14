@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Dina Luce",
-            "pageView": 9460
+            "pageView": 6,
+            "total": 9478
         },
         {
             "page": "Franco Franchi (politico)",
-            "pageView": 3832
+            "pageView": 3,
+            "total": 3834
         },
         {
             "page": "Luigi Canzanelli",
-            "pageView": 2555
+            "pageView": 2,
+            "total": 2558
         },
         {
             "page": "Enrico Parri",
-            "pageView": 1744
+            "pageView": 2,
+            "total": 1744
         },
         {
             "page": "Virgilio Ducceschi",
-            "pageView": 1738
-        },
-        {
-            "page": "Alessandro Romani (pittore)",
-            "pageView": 601
-        },
-        {
-            "page": "Giovanni Pizzetti",
-            "pageView": 523
+            "pageView": 1,
+            "total": 1739
         },
         {
             "page": "Angelo Valle",
-            "pageView": 308
+            "pageView": 0,
+            "total": 308
+        },
+        {
+            "page": "Giovanni Pizzetti",
+            "pageView": 0,
+            "total": 524
+        },
+        {
+            "page": "Alessandro Romani (pittore)",
+            "pageView": 0,
+            "total": 602
         },
         {
             "page": "Domenico Tonarelli",
-            "pageView": 307
+            "pageView": 0,
+            "total": 307
         }
     ]
 }

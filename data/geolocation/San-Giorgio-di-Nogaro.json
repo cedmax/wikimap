@@ -1,0 +1,27 @@
+{
+    "id": "place.11961300801256000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio di Nogaro",
+    "place_name": "San Giorgio di Nogaro, Udine, Italy",
+    "bbox": [
+        13.172561,
+        45.753438,
+        13.247051,
+        45.847363
+    ],
+    "center": [
+        13.2,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.2,
+            45.83333
+        ]
+    }
+}

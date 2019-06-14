@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Vincenzo Manzella",
-            "pageView": 11986
-        },
-        {
-            "page": "Pina Calì",
-            "pageView": 3982
+            "pageView": 7,
+            "total": 11990
         },
         {
             "page": "Giovanni Allegra",
-            "pageView": 3471
-        },
-        {
-            "page": "Vince Colletta",
-            "pageView": 2015
+            "pageView": 2,
+            "total": 3472
         },
         {
             "page": "Orazio Costantino",
-            "pageView": 1929
+            "pageView": 2,
+            "total": 1929
+        },
+        {
+            "page": "Pina Calì",
+            "pageView": 2,
+            "total": 3983
+        },
+        {
+            "page": "Vince Colletta",
+            "pageView": 2,
+            "total": 2016
         }
     ]
 }

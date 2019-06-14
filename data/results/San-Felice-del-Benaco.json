@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Serafino Mazzolini",
-            "pageView": 10768
+            "pageView": 6,
+            "total": 10771
         },
         {
             "page": "Angelo Zanelli",
-            "pageView": 5920
+            "pageView": 4,
+            "total": 5922
         },
         {
             "page": "Bartolomeo Zani",
-            "pageView": 1341
+            "pageView": 1,
+            "total": 1342
         },
         {
             "page": "Anna Cattaneo",
-            "pageView": 787
+            "pageView": 0,
+            "total": 787
         }
     ]
 }

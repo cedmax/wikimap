@@ -1,0 +1,27 @@
+{
+    "id": "place.6268220582347970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Catania",
+    "place_name": "Catania, Catania, Italy",
+    "bbox": [
+        14.936239,
+        37.358364,
+        15.126442,
+        37.562218
+    ],
+    "center": [
+        15.08727,
+        37.50267
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08727,
+            37.50267
+        ]
+    }
+}

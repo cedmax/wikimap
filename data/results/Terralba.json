@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "DJ Gruff",
-            "pageView": 127621
+            "pageView": 84,
+            "total": 127734
         },
         {
             "page": "Francesco Coco (magistrato)",
-            "pageView": 56923
-        },
-        {
-            "page": "Giovanni Paolo Gibertini",
-            "pageView": 9165
-        },
-        {
-            "page": "Giovanni Dettori",
-            "pageView": 7580
-        },
-        {
-            "page": "Luigino Vallongo",
-            "pageView": 6849
+            "pageView": 26,
+            "total": 56945
         },
         {
             "page": "Roberto Carboni",
-            "pageView": 6666
+            "pageView": 5,
+            "total": 6677
+        },
+        {
+            "page": "Luigino Vallongo",
+            "pageView": 4,
+            "total": 6851
+        },
+        {
+            "page": "Giovanni Paolo Gibertini",
+            "pageView": 4,
+            "total": 9168
+        },
+        {
+            "page": "Giovanni Dettori",
+            "pageView": 4,
+            "total": 7583
         },
         {
             "page": "Roberto Puddu",
-            "pageView": 3851
+            "pageView": 3,
+            "total": 3854
         },
         {
             "page": "Emilio Cuccu",
-            "pageView": 2360
+            "pageView": 2,
+            "total": 2360
         },
         {
             "page": "Cesare Sermenghi",
-            "pageView": 1922
+            "pageView": 2,
+            "total": 1922
         }
     ]
 }

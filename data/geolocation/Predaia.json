@@ -1,0 +1,27 @@
+{
+    "id": "place.6051254439271420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Predaia",
+    "place_name": "Predaia, Trento, Italy",
+    "bbox": [
+        11.056566,
+        46.270152,
+        11.203948,
+        46.384288
+    ],
+    "center": [
+        11.08048,
+        46.30194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08048,
+            46.30194
+        ]
+    }
+}

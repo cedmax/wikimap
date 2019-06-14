@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Pierre Cardin",
-            "pageView": 102652
+            "pageView": 60,
+            "total": 102702
         },
         {
             "page": "Gino Donè Paro",
-            "pageView": 67044
+            "pageView": 33,
+            "total": 67074
         },
         {
             "page": "Alvise De Vidi",
-            "pageView": 16442
+            "pageView": 5,
+            "total": 16445
         },
         {
             "page": "Alvaro Zian",
-            "pageView": 5950
-        },
-        {
-            "page": "Raffaele Dolfato",
-            "pageView": 3150
-        },
-        {
-            "page": "Siro Zanella",
-            "pageView": 2581
-        },
-        {
-            "page": "Cleanto Marcon",
-            "pageView": 2005
+            "pageView": 4,
+            "total": 5955
         },
         {
             "page": "Massimo Rastrelli",
-            "pageView": 1424
+            "pageView": 3,
+            "total": 1425
+        },
+        {
+            "page": "Raffaele Dolfato",
+            "pageView": 2,
+            "total": 3152
+        },
+        {
+            "page": "Cleanto Marcon",
+            "pageView": 2,
+            "total": 2007
+        },
+        {
+            "page": "Siro Zanella",
+            "pageView": 2,
+            "total": 2581
         }
     ]
 }

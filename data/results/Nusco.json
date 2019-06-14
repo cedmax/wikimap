@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Ciriaco De Mita",
-            "pageView": 551638
-        },
-        {
-            "page": "Salvatore Nunnari",
-            "pageView": 15496
+            "pageView": 208,
+            "total": 551917
         },
         {
             "page": "Francesco Alfano",
-            "pageView": 13152
+            "pageView": 8,
+            "total": 13185
         },
         {
-            "page": "Valeria Vaiano",
-            "pageView": 11009
+            "page": "Salvatore Nunnari",
+            "pageView": 8,
+            "total": 15502
         },
         {
             "page": "Pasquale Cascio",
-            "pageView": 8227
+            "pageView": 5,
+            "total": 8233
         },
         {
             "page": "Mario Milano",
-            "pageView": 8162
+            "pageView": 5,
+            "total": 8164
         },
         {
             "page": "Amato di Nusco",
-            "pageView": 6289
+            "pageView": 3,
+            "total": 6292
         },
         {
-            "page": "Francesco Arcudi",
-            "pageView": 1799
+            "page": "Valeria Vaiano",
+            "pageView": 3,
+            "total": 11011
         },
         {
             "page": "Giuseppe Teta",
-            "pageView": 1445
+            "pageView": 2,
+            "total": 1450
+        },
+        {
+            "page": "Francesco Arcudi",
+            "pageView": 1,
+            "total": 1799
         }
     ]
 }

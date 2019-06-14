@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Samuele Longo",
-            "pageView": 240344
+            "pageView": 117,
+            "total": 240572
         },
         {
             "page": "Mauro Bressan",
-            "pageView": 48068
+            "pageView": 22,
+            "total": 48087
         },
         {
             "page": "Venanzio Fortunato",
-            "pageView": 22295
+            "pageView": 14,
+            "total": 22307
         },
         {
             "page": "Antonio Fassina",
-            "pageView": 20418
-        },
-        {
-            "page": "Federico Colbertaldo",
-            "pageView": 18406
-        },
-        {
-            "page": "Mirka Sartori",
-            "pageView": 11737
-        },
-        {
-            "page": "Antonio Vitale Bommarco",
-            "pageView": 11589
+            "pageView": 13,
+            "total": 20429
         },
         {
             "page": "Davide Marsura",
-            "pageView": 10953
+            "pageView": 13,
+            "total": 10971
+        },
+        {
+            "page": "Federico Colbertaldo",
+            "pageView": 7,
+            "total": 18412
         },
         {
             "page": "Michele Godena",
-            "pageView": 10318
+            "pageView": 6,
+            "total": 10321
         },
         {
-            "page": "Tarcisio Stramare",
-            "pageView": 4716
+            "page": "Mirka Sartori",
+            "pageView": 6,
+            "total": 11741
         },
         {
-            "page": "Giancarlo Zizola",
-            "pageView": 4399
-        },
-        {
-            "page": "Piero Leonardi",
-            "pageView": 4127
-        },
-        {
-            "page": "Simone Villanova",
-            "pageView": 4084
+            "page": "Antonio Vitale Bommarco",
+            "pageView": 4,
+            "total": 11612
         },
         {
             "page": "Frank Linke-Crawford",
-            "pageView": 3659
+            "pageView": 3,
+            "total": 3662
+        },
+        {
+            "page": "Giancarlo Zizola",
+            "pageView": 3,
+            "total": 4400
+        },
+        {
+            "page": "Tarcisio Stramare",
+            "pageView": 3,
+            "total": 4724
+        },
+        {
+            "page": "Simone Villanova",
+            "pageView": 3,
+            "total": 4086
+        },
+        {
+            "page": "Piero Leonardi",
+            "pageView": 3,
+            "total": 4134
         },
         {
             "page": "Renato Pampanini",
-            "pageView": 2179
+            "pageView": 2,
+            "total": 2179
         },
         {
             "page": "Ugo Angelo Canello",
-            "pageView": 991
+            "pageView": 1,
+            "total": 993
         },
         {
             "page": "Attilio Vergerio",
-            "pageView": 988
+            "pageView": 1,
+            "total": 988
         },
         {
             "page": "Tiziana Piccolo",
-            "pageView": 761
+            "pageView": 0,
+            "total": 762
         },
         {
             "page": "Francesco Tonolini",
-            "pageView": 193
+            "pageView": 0,
+            "total": 193
         }
     ]
 }

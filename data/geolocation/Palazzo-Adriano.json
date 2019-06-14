@@ -1,0 +1,27 @@
+{
+    "id": "place.8352721758041330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzo Adriano",
+    "place_name": "Palazzo Adriano, Palermo, Italy",
+    "bbox": [
+        13.318984,
+        37.539101,
+        13.464542,
+        37.782657
+    ],
+    "center": [
+        13.38333,
+        37.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38333,
+            37.68333
+        ]
+    }
+}

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Memè Perlini",
-            "pageView": 47952
-        },
-        {
-            "page": "Silvio Grassetti",
-            "pageView": 7812
+            "pageView": 13,
+            "total": 47960
         },
         {
             "page": "Giovanni Branca",
-            "pageView": 6781
+            "pageView": 4,
+            "total": 6783
+        },
+        {
+            "page": "Silvio Grassetti",
+            "pageView": 4,
+            "total": 7817
         }
     ]
 }

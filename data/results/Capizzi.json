@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Giuseppe Bruno (fotografo)",
-            "pageView": 5008
+            "pageView": 3,
+            "total": 5010
         },
         {
             "page": "Salvatore Novembre",
-            "pageView": 2635
-        },
-        {
-            "page": "Salvatore Pagliaro Bordone",
-            "pageView": 1409
+            "pageView": 2,
+            "total": 2640
         },
         {
             "page": "Nunzio La Farina",
-            "pageView": 1135
+            "pageView": 1,
+            "total": 1135
+        },
+        {
+            "page": "Salvatore Pagliaro Bordone",
+            "pageView": 1,
+            "total": 1412
         }
     ]
 }

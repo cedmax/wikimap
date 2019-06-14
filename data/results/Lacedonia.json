@@ -2,24 +2,29 @@
     "name": "Lacedonia",
     "people": [
         {
-            "page": "Gennaro Pascarella",
-            "pageView": 8154
-        },
-        {
             "page": "Giovanni D'Alise",
-            "pageView": 7583
+            "pageView": 5,
+            "total": 7583
         },
         {
             "page": "Sergio Melillo",
-            "pageView": 7506
+            "pageView": 5,
+            "total": 7508
+        },
+        {
+            "page": "Gennaro Pascarella",
+            "pageView": 5,
+            "total": 8157
         },
         {
             "page": "Antonio Forte",
-            "pageView": 5125
+            "pageView": 3,
+            "total": 5129
         },
         {
             "page": "Eduardo Davino",
-            "pageView": 2339
+            "pageView": 2,
+            "total": 2341
         }
     ]
 }

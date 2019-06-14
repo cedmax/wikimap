@@ -1,0 +1,27 @@
+{
+    "id": "place.8751339241705320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassolnovo",
+    "place_name": "Cassolnovo, Pavia, Italy",
+    "bbox": [
+        8.718337,
+        45.344259,
+        8.869175,
+        45.394983
+    ],
+    "center": [
+        8.8,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8,
+            45.36667
+        ]
+    }
+}

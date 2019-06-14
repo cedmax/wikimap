@@ -1,0 +1,27 @@
+{
+    "id": "place.7760311845466030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ruvo di Puglia",
+    "place_name": "Ruvo di Puglia, Bari, Italy",
+    "bbox": [
+        16.254238,
+        40.956415,
+        16.523364,
+        41.155431
+    ],
+    "center": [
+        16.48372,
+        41.11729
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.48372,
+            41.11729
+        ]
+    }
+}

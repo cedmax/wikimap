@@ -3,235 +3,293 @@
     "people": [
         {
             "page": "Fabio Depaoli",
-            "pageView": 56933
-        },
-        {
-            "page": "Anna Cinzia Bonfrisco",
-            "pageView": 33518
-        },
-        {
-            "page": "Guido Rosselli",
-            "pageView": 30484
+            "pageView": 45,
+            "total": 56956
         },
         {
             "page": "Kurt Alois von Schuschnigg",
-            "pageView": 28301
+            "pageView": 18,
+            "total": 28325
         },
         {
             "page": "Federico Loschi",
-            "pageView": 27628
+            "pageView": 18,
+            "total": 27653
+        },
+        {
+            "page": "Anna Cinzia Bonfrisco",
+            "pageView": 14,
+            "total": 33549
+        },
+        {
+            "page": "Guido Rosselli",
+            "pageView": 12,
+            "total": 30498
         },
         {
             "page": "Goffredo Canino",
-            "pageView": 15246
+            "pageView": 10,
+            "total": 15254
         },
         {
             "page": "Giulio Cesare Scaligero",
-            "pageView": 13828
+            "pageView": 9,
+            "total": 13840
         },
         {
             "page": "Giancarlo Maroni",
-            "pageView": 13037
-        },
-        {
-            "page": "Nicola Mei",
-            "pageView": 11921
+            "pageView": 9,
+            "total": 13043
         },
         {
             "page": "Orlando Orfei",
-            "pageView": 11827
+            "pageView": 8,
+            "total": 11829
+        },
+        {
+            "page": "Nicola Mei",
+            "pageView": 7,
+            "total": 12001
         },
         {
             "page": "Edoardo Rusconi",
-            "pageView": 9764
+            "pageView": 6,
+            "total": 9775
         },
         {
             "page": "Fiorello Toppo",
-            "pageView": 9401
+            "pageView": 5,
+            "total": 9407
         },
         {
             "page": "Michele Abbondanza",
-            "pageView": 8848
-        },
-        {
-            "page": "Mario Malossini",
-            "pageView": 8176
-        },
-        {
-            "page": "Stefano Borsato",
-            "pageView": 7905
+            "pageView": 5,
+            "total": 8853
         },
         {
             "page": "Gregorio Vivaldelli",
-            "pageView": 7245
+            "pageView": 4,
+            "total": 7247
+        },
+        {
+            "page": "Mario Malossini",
+            "pageView": 4,
+            "total": 8177
+        },
+        {
+            "page": "Stefano Borsato",
+            "pageView": 4,
+            "total": 7905
         },
         {
             "page": "Vincenzo Errante (germanista)",
-            "pageView": 6770
-        },
-        {
-            "page": "Gianni Lambruschi",
-            "pageView": 5867
-        },
-        {
-            "page": "Alessandro Cane",
-            "pageView": 5398
-        },
-        {
-            "page": "Vittorio Colò",
-            "pageView": 4689
-        },
-        {
-            "page": "Silvano Natale",
-            "pageView": 4650
-        },
-        {
-            "page": "Marcantonio della Torre",
-            "pageView": 4584
-        },
-        {
-            "page": "Claudio Molinari",
-            "pageView": 4470
-        },
-        {
-            "page": "Sebastiano Grasso",
-            "pageView": 4380
-        },
-        {
-            "page": "Antonio Abondio",
-            "pageView": 4181
-        },
-        {
-            "page": "Giacomo Gurini",
-            "pageView": 3485
-        },
-        {
-            "page": "Ivos Margoni",
-            "pageView": 3408
-        },
-        {
-            "page": "Giuseppe Leonardi",
-            "pageView": 3335
-        },
-        {
-            "page": "Katja Luraschi",
-            "pageView": 3281
-        },
-        {
-            "page": "Valentina Rania",
-            "pageView": 3179
-        },
-        {
-            "page": "Francesca Lutti",
-            "pageView": 3129
-        },
-        {
-            "page": "Giulio Mastrototaro",
-            "pageView": 3002
-        },
-        {
-            "page": "Renato Ballardini",
-            "pageView": 2938
-        },
-        {
-            "page": "Gustavo Carrer",
-            "pageView": 2932
-        },
-        {
-            "page": "Giacomo Sereni",
-            "pageView": 2843
-        },
-        {
-            "page": "Pietro Porta",
-            "pageView": 2726
-        },
-        {
-            "page": "Alberto Robol",
-            "pageView": 2664
-        },
-        {
-            "page": "Alessandro Santoni",
-            "pageView": 2625
-        },
-        {
-            "page": "Angelo Confalonieri",
-            "pageView": 2573
-        },
-        {
-            "page": "Ivan Beltrami",
-            "pageView": 2267
+            "pageView": 4,
+            "total": 6775
         },
         {
             "page": "EVO-K",
-            "pageView": 2245
+            "pageView": 3,
+            "total": 2245
         },
         {
-            "page": "Vincenzo Cavazzana",
-            "pageView": 2225
+            "page": "Silvano Natale",
+            "pageView": 3,
+            "total": 4657
         },
         {
-            "page": "Andrea Valentini (allenatore di pallacanestro)",
-            "pageView": 2210
+            "page": "Claudio Molinari",
+            "pageView": 3,
+            "total": 4483
         },
         {
-            "page": "Lucillo Merci",
-            "pageView": 2140
+            "page": "Marcantonio della Torre",
+            "pageView": 3,
+            "total": 4584
+        },
+        {
+            "page": "Antonio Abondio",
+            "pageView": 3,
+            "total": 4182
+        },
+        {
+            "page": "Vittorio Colò",
+            "pageView": 3,
+            "total": 4689
+        },
+        {
+            "page": "Sebastiano Grasso",
+            "pageView": 3,
+            "total": 4381
+        },
+        {
+            "page": "Alessandro Cane",
+            "pageView": 3,
+            "total": 5403
+        },
+        {
+            "page": "Gianni Lambruschi",
+            "pageView": 3,
+            "total": 5869
         },
         {
             "page": "Giovanni Lipella",
-            "pageView": 2134
+            "pageView": 2,
+            "total": 2135
+        },
+        {
+            "page": "Giulio Mastrototaro",
+            "pageView": 2,
+            "total": 3003
+        },
+        {
+            "page": "Renato Ballardini",
+            "pageView": 2,
+            "total": 2938
+        },
+        {
+            "page": "Gustavo Carrer",
+            "pageView": 2,
+            "total": 2935
+        },
+        {
+            "page": "Francesca Lutti",
+            "pageView": 2,
+            "total": 3129
+        },
+        {
+            "page": "Angelo Confalonieri",
+            "pageView": 2,
+            "total": 2573
         },
         {
             "page": "Ugo Zaniboni Ferino",
-            "pageView": 2068
-        },
-        {
-            "page": "Luigi Antonio Baruffaldi",
-            "pageView": 1940
+            "pageView": 2,
+            "total": 2069
         },
         {
             "page": "Eugenio Zaniboni",
-            "pageView": 1857
+            "pageView": 2,
+            "total": 1858
+        },
+        {
+            "page": "Pietro Porta",
+            "pageView": 2,
+            "total": 2728
+        },
+        {
+            "page": "Ivos Margoni",
+            "pageView": 2,
+            "total": 3412
+        },
+        {
+            "page": "Giuseppe Leonardi",
+            "pageView": 2,
+            "total": 3335
+        },
+        {
+            "page": "Ivan Beltrami",
+            "pageView": 2,
+            "total": 2270
+        },
+        {
+            "page": "Vincenzo Cavazzana",
+            "pageView": 2,
+            "total": 2269
+        },
+        {
+            "page": "Katja Luraschi",
+            "pageView": 2,
+            "total": 3286
+        },
+        {
+            "page": "Giacomo Gurini",
+            "pageView": 2,
+            "total": 3487
         },
         {
             "page": "Valerio Rolando Boesso",
-            "pageView": 1846
+            "pageView": 2,
+            "total": 1847
+        },
+        {
+            "page": "Lucillo Merci",
+            "pageView": 2,
+            "total": 2140
         },
         {
             "page": "Giovan Francesco Beatrice",
-            "pageView": 1691
+            "pageView": 2,
+            "total": 1691
         },
         {
-            "page": "Alessandra Zucchelli",
-            "pageView": 1240
+            "page": "Andrea Valentini (allenatore di pallacanestro)",
+            "pageView": 2,
+            "total": 2210
+        },
+        {
+            "page": "Giacomo Sereni",
+            "pageView": 2,
+            "total": 2844
+        },
+        {
+            "page": "Valentina Rania",
+            "pageView": 2,
+            "total": 3181
+        },
+        {
+            "page": "Alberto Robol",
+            "pageView": 2,
+            "total": 2666
+        },
+        {
+            "page": "Alessandro Santoni",
+            "pageView": 2,
+            "total": 2630
+        },
+        {
+            "page": "Luigi Antonio Baruffaldi",
+            "pageView": 1,
+            "total": 1940
         },
         {
             "page": "Alfonso Bonacquisto",
-            "pageView": 987
+            "pageView": 1,
+            "total": 988
+        },
+        {
+            "page": "Alessandra Zucchelli",
+            "pageView": 1,
+            "total": 1241
         },
         {
             "page": "Giulio Pozzi",
-            "pageView": 810
-        },
-        {
-            "page": "Giuseppe Craffonara",
-            "pageView": 763
-        },
-        {
-            "page": "Giacomo da Riva",
-            "pageView": 736
+            "pageView": 0,
+            "total": 813
         },
         {
             "page": "Lajos Domokos",
-            "pageView": 539
+            "pageView": 0,
+            "total": 540
         },
         {
             "page": "Camilla Lucerna",
-            "pageView": 292
+            "pageView": 0,
+            "total": 292
         },
         {
             "page": "Amedeo Zaniboni",
-            "pageView": 209
+            "pageView": 0,
+            "total": 210
+        },
+        {
+            "page": "Giacomo da Riva",
+            "pageView": 0,
+            "total": 736
+        },
+        {
+            "page": "Giuseppe Craffonara",
+            "pageView": 0,
+            "total": 763
         }
     ]
 }

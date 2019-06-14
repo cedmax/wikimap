@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giuseppe Sottile",
-            "pageView": 37253
+            "pageView": 17,
+            "total": 38309
         },
         {
             "page": "Santi Consolo",
-            "pageView": 11446
+            "pageView": 10,
+            "total": 11453
         },
         {
             "page": "Giuseppe Salerno (pittore)",
-            "pageView": 6822
-        },
-        {
-            "page": "Filippo Quattrocchi",
-            "pageView": 5563
-        },
-        {
-            "page": "Giuseppa Salvo",
-            "pageView": 5254
+            "pageView": 4,
+            "total": 6825
         },
         {
             "page": "Giuseppe Andaloro (brigante)",
-            "pageView": 2363
+            "pageView": 3,
+            "total": 2369
         },
         {
-            "page": "Gaspare Vazzano",
-            "pageView": 1918
+            "page": "Filippo Quattrocchi",
+            "pageView": 3,
+            "total": 5569
+        },
+        {
+            "page": "Giuseppa Salvo",
+            "pageView": 3,
+            "total": 5259
         },
         {
             "page": "Francesco Giunta (storico)",
-            "pageView": 1834
+            "pageView": 2,
+            "total": 1834
+        },
+        {
+            "page": "Gaspare Vazzano",
+            "pageView": 2,
+            "total": 1918
         }
     ]
 }

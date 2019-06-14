@@ -1,0 +1,27 @@
+{
+    "id": "country.4747984886519910",
+    "type": "Feature",
+    "place_type": [
+        "country"
+    ],
+    "relevance": 0.25,
+    "text": "Italy",
+    "place_name": "Italy",
+    "bbox": [
+        6.627119,
+        35.392565,
+        18.620359,
+        47.092321
+    ],
+    "center": [
+        12,
+        43
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12,
+            43
+        ]
+    }
+}

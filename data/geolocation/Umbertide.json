@@ -1,0 +1,27 @@
+{
+    "id": "place.8309482293791890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Umbertide",
+    "place_name": "Umbertide, Perugia, Italy",
+    "bbox": [
+        12.168459,
+        43.19964,
+        12.414635,
+        43.362329
+    ],
+    "center": [
+        12.33333,
+        43.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33333,
+            43.3
+        ]
+    }
+}

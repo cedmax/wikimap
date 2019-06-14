@@ -1,0 +1,27 @@
+{
+    "id": "place.10897254784068480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pagani",
+    "place_name": "Pagani, Salerno, Italy",
+    "bbox": [
+        14.579434,
+        40.72199,
+        14.629537,
+        40.782585
+    ],
+    "center": [
+        14.61667,
+        40.74167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61667,
+            40.74167
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Claudio Cecchetto",
-            "pageView": 420076
+            "pageView": 222.5,
+            "total": 420260
         },
         {
             "page": "Rino Carlini",
-            "pageView": 4289
-        },
-        {
-            "page": "Rodolfo Giuliano Viola",
-            "pageView": 3511
-        },
-        {
-            "page": "Pietro Sforzin",
-            "pageView": 3227
+            "pageView": 2,
+            "total": 4290
         },
         {
             "page": "Paolo Dall'Oro",
-            "pageView": 2981
+            "pageView": 2,
+            "total": 2981
+        },
+        {
+            "page": "Pietro Sforzin",
+            "pageView": 2,
+            "total": 3227
+        },
+        {
+            "page": "Rodolfo Giuliano Viola",
+            "pageView": 2,
+            "total": 3514
         }
     ]
 }

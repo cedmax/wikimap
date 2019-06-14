@@ -2,40 +2,49 @@
     "name": "Caprarola",
     "people": [
         {
-            "page": "Cola da Caprarola",
-            "pageView": 3702
+            "page": "Giovanni Maria Gabrielli",
+            "pageView": 2,
+            "total": 2660
         },
         {
             "page": "Ercole Bernabei",
-            "pageView": 3361
-        },
-        {
-            "page": "Giovanni Maria Gabrielli",
-            "pageView": 2660
-        },
-        {
-            "page": "Filippo Nicolai",
-            "pageView": 2660
-        },
-        {
-            "page": "Giuseppe Maria Sebastiani",
-            "pageView": 2578
+            "pageView": 2,
+            "total": 3362
         },
         {
             "page": "Giovanni Biamonti",
-            "pageView": 2320
+            "pageView": 2,
+            "total": 2321
         },
         {
             "page": "Pietro Cuzzoli",
-            "pageView": 1995
+            "pageView": 2,
+            "total": 1995
         },
         {
-            "page": "Pietro Lasagni",
-            "pageView": 1525
+            "page": "Cola da Caprarola",
+            "pageView": 2,
+            "total": 3704
+        },
+        {
+            "page": "Filippo Nicolai",
+            "pageView": 2,
+            "total": 2661
+        },
+        {
+            "page": "Giuseppe Maria Sebastiani",
+            "pageView": 2,
+            "total": 2578
         },
         {
             "page": "Federico Sforza di Santa Fiora, I principe di Genzano",
-            "pageView": 1457
+            "pageView": 2,
+            "total": 1460
+        },
+        {
+            "page": "Pietro Lasagni",
+            "pageView": 1,
+            "total": 1526
         }
     ]
 }

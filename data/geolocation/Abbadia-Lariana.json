@@ -1,0 +1,27 @@
+{
+    "id": "place.11137692360414860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Abbadia Lariana",
+    "place_name": "Abbadia Lariana, Lecco, Italy",
+    "bbox": [
+        9.313449,
+        45.874245,
+        9.397927,
+        45.918115
+    ],
+    "center": [
+        9.33333,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.9
+        ]
+    }
+}

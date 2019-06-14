@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Fabio Besta",
-            "pageView": 21854
-        },
-        {
-            "page": "Eugenio Morelli",
-            "pageView": 3355
-        },
-        {
-            "page": "Lucia Codurelli",
-            "pageView": 2406
+            "pageView": 14,
+            "total": 21863
         },
         {
             "page": "Raffaele Menici",
-            "pageView": 2299
+            "pageView": 2,
+            "total": 2299
         },
         {
             "page": "Michele Rajna",
-            "pageView": 2044
+            "pageView": 2,
+            "total": 2045
         },
         {
             "page": "Gianpaolo Bissi",
-            "pageView": 1963
+            "pageView": 2,
+            "total": 1964
+        },
+        {
+            "page": "Lucia Codurelli",
+            "pageView": 2,
+            "total": 2406
+        },
+        {
+            "page": "Eugenio Morelli",
+            "pageView": 2,
+            "total": 3357
         },
         {
             "page": "Elio Moretti",
-            "pageView": 1694
+            "pageView": 0,
+            "total": 1700
         }
     ]
 }

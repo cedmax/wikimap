@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Ivan Gotti",
-            "pageView": 58256
+            "pageView": 27,
+            "total": 58313
         },
         {
             "page": "Ottavio Bugatti",
-            "pageView": 30426
-        },
-        {
-            "page": "Giovanni Ardemagni",
-            "pageView": 8960
+            "pageView": 18,
+            "total": 30441
         },
         {
             "page": "Felice Bisleri",
-            "pageView": 8663
+            "pageView": 5,
+            "total": 8669
         },
         {
             "page": "Aldo Garzanti",
-            "pageView": 7212
+            "pageView": 5,
+            "total": 7216
+        },
+        {
+            "page": "Giovanni Ardemagni",
+            "pageView": 5,
+            "total": 8962
         },
         {
             "page": "Giovanni Battista Scaglia",
-            "pageView": 5129
+            "pageView": 3,
+            "total": 5133
         },
         {
             "page": "Girolamo da Santacroce",
-            "pageView": 4836
-        },
-        {
-            "page": "Gianni Mancuso",
-            "pageView": 4310
+            "pageView": 3,
+            "total": 4839
         },
         {
             "page": "Damiano Sonzogni",
-            "pageView": 3826
+            "pageView": 3,
+            "total": 3827
+        },
+        {
+            "page": "Gianni Mancuso",
+            "pageView": 3,
+            "total": 4311
         },
         {
             "page": "Antonio Solera",
-            "pageView": 3156
+            "pageView": 2,
+            "total": 3159
         },
         {
             "page": "Antonio Baroni",
-            "pageView": 2886
+            "pageView": 2,
+            "total": 2889
         }
     ]
 }

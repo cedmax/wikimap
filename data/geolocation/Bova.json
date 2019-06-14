@@ -1,0 +1,27 @@
+{
+    "id": "place.363312473563480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bova",
+    "place_name": "Bova, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.903368,
+        37.961733,
+        16.000264,
+        38.050741
+    ],
+    "center": [
+        15.93333,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.93333,
+            38
+        ]
+    }
+}

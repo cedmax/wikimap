@@ -1,0 +1,27 @@
+{
+    "id": "place.13935774434198940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riva del Garda",
+    "place_name": "Riva del Garda, Trento, Italy",
+    "bbox": [
+        10.763568,
+        45.833647,
+        10.875789,
+        45.940787
+    ],
+    "center": [
+        10.85,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            45.88333
+        ]
+    }
+}

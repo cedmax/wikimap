@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Papa Paolo IV",
-            "pageView": 168780
-        },
-        {
-            "page": "Michele Castoro",
-            "pageView": 42129
+            "pageView": 110,
+            "total": 168897
         },
         {
             "page": "Salvatore De Giorgi",
-            "pageView": 40451
+            "pageView": 24,
+            "total": 40470
         },
         {
             "page": "Marcello Semeraro",
-            "pageView": 28087
+            "pageView": 18,
+            "total": 28100
+        },
+        {
+            "page": "Michele Castoro",
+            "pageView": 14,
+            "total": 42139
         },
         {
             "page": "Vincenzo Corrado",
-            "pageView": 19851
+            "pageView": 12,
+            "total": 19861
         },
         {
             "page": "Francesco Milizia (scrittore d'arte)",
-            "pageView": 18089
+            "pageView": 11,
+            "total": 18100
         },
         {
             "page": "Girolamo Aleandro",
-            "pageView": 10577
+            "pageView": 7,
+            "total": 10583
         },
         {
             "page": "Vincenzo Pisanello",
-            "pageView": 10523
+            "pageView": 6,
+            "total": 10523
         },
         {
             "page": "Shabbetai Donnolo",
-            "pageView": 6805
+            "pageView": 4,
+            "total": 6807
         },
         {
             "page": "Antimo Palano",
-            "pageView": 6615
-        },
-        {
-            "page": "Orlando De Tommaso",
-            "pageView": 4696
+            "pageView": 4,
+            "total": 6618
         },
         {
             "page": "Armando Franco",
-            "pageView": 4628
+            "pageView": 3,
+            "total": 4629
         },
         {
-            "page": "Giovanni Carlo Bovio",
-            "pageView": 3825
-        },
-        {
-            "page": "Marino del Giudice",
-            "pageView": 3443
+            "page": "Orlando De Tommaso",
+            "pageView": 3,
+            "total": 4696
         },
         {
             "page": "Alessandro Maria Calefati",
-            "pageView": 3251
+            "pageView": 2,
+            "total": 3254
         },
         {
-            "page": "Attilio Monaco",
-            "pageView": 2460
+            "page": "Giovanni Carlo Bovio",
+            "pageView": 2,
+            "total": 3830
         },
         {
             "page": "Aragonio Malaspina",
-            "pageView": 2319
+            "pageView": 2,
+            "total": 2323
         },
         {
             "page": "Amittai ben Shefatiah",
-            "pageView": 2251
+            "pageView": 2,
+            "total": 2252
+        },
+        {
+            "page": "Marino del Giudice",
+            "pageView": 2,
+            "total": 3449
         },
         {
             "page": "Quinto Mario Corrado",
-            "pageView": 1849
+            "pageView": 2,
+            "total": 1849
         },
         {
-            "page": "Vittoria Valmaggia",
-            "pageView": 1830
-        },
-        {
-            "page": "Luigi Corrado",
-            "pageView": 1798
-        },
-        {
-            "page": "Giovanni Battista Labanchi",
-            "pageView": 1591
-        },
-        {
-            "page": "Zevadyah",
-            "pageView": 1519
-        },
-        {
-            "page": "Barsanofio Pasquale Marsella",
-            "pageView": 1181
+            "page": "Attilio Monaco",
+            "pageView": 2,
+            "total": 2461
         },
         {
             "page": "Tommaso Martini (senatore)",
-            "pageView": 918
+            "pageView": 1,
+            "total": 919
         },
         {
             "page": "Alfonso Panzetta",
-            "pageView": 837
+            "pageView": 1,
+            "total": 838
+        },
+        {
+            "page": "Vittoria Valmaggia",
+            "pageView": 1,
+            "total": 1831
+        },
+        {
+            "page": "Zevadyah",
+            "pageView": 1,
+            "total": 1521
+        },
+        {
+            "page": "Barsanofio Pasquale Marsella",
+            "pageView": 1,
+            "total": 1182
+        },
+        {
+            "page": "Giovanni Battista Labanchi",
+            "pageView": 1,
+            "total": 1591
+        },
+        {
+            "page": "Luigi Corrado",
+            "pageView": 1,
+            "total": 1798
         },
         {
             "page": "Bertrando (arcivescovo)",
-            "pageView": 313
+            "pageView": 0,
+            "total": 314
         }
     ]
 }

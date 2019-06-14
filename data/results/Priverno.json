@@ -2,80 +2,99 @@
     "name": "Priverno",
     "people": [
         {
-            "page": "Giuseppe Petrocchi",
-            "pageView": 31762
-        },
-        {
             "page": "Andrea Santoro",
-            "pageView": 22605
+            "pageView": 14,
+            "total": 22607
         },
         {
             "page": "Mariano Crociata",
-            "pageView": 21816
+            "pageView": 14,
+            "total": 21829
+        },
+        {
+            "page": "Giuseppe Petrocchi",
+            "pageView": 10,
+            "total": 31787
         },
         {
             "page": "Enrico Giusti",
-            "pageView": 13864
-        },
-        {
-            "page": "Angelo Carosi",
-            "pageView": 7146
-        },
-        {
-            "page": "Antonio Baboccio da Piperno",
-            "pageView": 7005
+            "pageView": 9,
+            "total": 13873
         },
         {
             "page": "Dario Bernazza",
-            "pageView": 6363
+            "pageView": 4,
+            "total": 6365
         },
         {
-            "page": "Federico Fauttilli",
-            "pageView": 5235
+            "page": "Angelo Carosi",
+            "pageView": 4,
+            "total": 7146
+        },
+        {
+            "page": "Antonio Baboccio da Piperno",
+            "pageView": 4,
+            "total": 7011
         },
         {
             "page": "Romano Battisti",
-            "pageView": 5183
+            "pageView": 3,
+            "total": 5187
         },
         {
             "page": "Paris Dell'Unto",
-            "pageView": 4620
-        },
-        {
-            "page": "Reginaldo da Piperno",
-            "pageView": 4531
+            "pageView": 3,
+            "total": 4621
         },
         {
             "page": "Vincenzo Tomassi",
-            "pageView": 4505
+            "pageView": 3,
+            "total": 4507
+        },
+        {
+            "page": "Federico Fauttilli",
+            "pageView": 3,
+            "total": 5236
         },
         {
             "page": "Carlo Picozza",
-            "pageView": 3654
+            "pageView": 3,
+            "total": 3655
         },
         {
-            "page": "Pietro Valeriano Duraguerra",
-            "pageView": 3292
-        },
-        {
-            "page": "Domenico Marzi",
-            "pageView": 2873
+            "page": "Reginaldo da Piperno",
+            "pageView": 3,
+            "total": 4532
         },
         {
             "page": "Antonio da Pontedera",
-            "pageView": 1873
+            "pageView": 2,
+            "total": 1874
         },
         {
-            "page": "Pietro Coleberti",
-            "pageView": 1432
+            "page": "Domenico Marzi",
+            "pageView": 2,
+            "total": 2873
+        },
+        {
+            "page": "Pietro Valeriano Duraguerra",
+            "pageView": 2,
+            "total": 3295
         },
         {
             "page": "Vincenzo Salamon",
-            "pageView": 1196
+            "pageView": 1,
+            "total": 1196
+        },
+        {
+            "page": "Pietro Coleberti",
+            "pageView": 1,
+            "total": 1432
         },
         {
             "page": "Pomponio Palombo",
-            "pageView": 872
+            "pageView": 0,
+            "total": 872
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8696303337358240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parabiago",
+    "place_name": "Parabiago, Milano, Italy",
+    "bbox": [
+        8.913928,
+        45.524273,
+        8.973034,
+        45.579065
+    ],
+    "center": [
+        8.94769,
+        45.55832
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.94769,
+            45.55832
+        ]
+    }
+}

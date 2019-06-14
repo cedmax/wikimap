@@ -1,0 +1,27 @@
+{
+    "id": "place.6265384288288690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelfranco Emilia",
+    "place_name": "Castelfranco Emilia, Modena, Italy",
+    "bbox": [
+        10.9819,
+        44.521981,
+        11.152834,
+        44.662308
+    ],
+    "center": [
+        11.05278,
+        44.59667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.05278,
+            44.59667
+        ]
+    }
+}

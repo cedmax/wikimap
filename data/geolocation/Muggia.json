@@ -1,0 +1,27 @@
+{
+    "id": "place.4073968769340540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Muggia",
+    "place_name": "Muggia, Trieste, Italy",
+    "bbox": [
+        13.719118,
+        45.58064,
+        13.821621,
+        45.610706
+    ],
+    "center": [
+        13.76667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76667,
+            45.6
+        ]
+    }
+}

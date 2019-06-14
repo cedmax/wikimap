@@ -1,0 +1,21 @@
+{
+    "id": "address.1918508110",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Fiera Di Primiero",
+    "place_name": "via Fiera Di Primiero, 00135 Roma Roma, Italy",
+    "center": [
+        12.44435,
+        41.951209
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.44435,
+            41.951209
+        ]
+    }
+}

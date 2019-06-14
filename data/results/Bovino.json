@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Salvatore De Giorgi",
-            "pageView": 40451
-        },
-        {
-            "page": "Michele Gesualdi",
-            "pageView": 31536
+            "pageView": 24,
+            "total": 40470
         },
         {
             "page": "Domenico Umberto D'Ambrosio",
-            "pageView": 25278
+            "pageView": 14,
+            "total": 25287
         },
         {
             "page": "Vincenzo Pelvi",
-            "pageView": 15741
+            "pageView": 10,
+            "total": 15746
+        },
+        {
+            "page": "Michele Gesualdi",
+            "pageView": 9,
+            "total": 31540
         },
         {
             "page": "Francesco Pio Tamburrino",
-            "pageView": 8714
-        },
-        {
-            "page": "Giuseppe Casale",
-            "pageView": 7213
+            "pageView": 6,
+            "total": 8716
         },
         {
             "page": "Ghibli (cantautore)",
-            "pageView": 7051
+            "pageView": 4,
+            "total": 7053
+        },
+        {
+            "page": "Giuseppe Casale",
+            "pageView": 4,
+            "total": 7216
         },
         {
             "page": "Antonio Lucci",
-            "pageView": 4405
-        },
-        {
-            "page": "Angelo Rossi (1933)",
-            "pageView": 3123
+            "pageView": 3,
+            "total": 4405
         },
         {
             "page": "Cornelio Sebastiano Cuccarollo",
-            "pageView": 2136
+            "pageView": 3,
+            "total": 2139
+        },
+        {
+            "page": "Angelo Rossi (1933)",
+            "pageView": 2,
+            "total": 3126
         },
         {
             "page": "Paolo Tolosa",
-            "pageView": 888
+            "pageView": 1,
+            "total": 888
         },
         {
             "page": "Italo Alessandro Rocco",
-            "pageView": 503
+            "pageView": 0,
+            "total": 504
         },
         {
             "page": "Carlo Rocco",
-            "pageView": 336
+            "pageView": 0,
+            "total": 338
         },
         {
             "page": "Florestano Rossomandi",
-            "pageView": 239
+            "pageView": 0,
+            "total": 241
         }
     ]
 }

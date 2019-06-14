@@ -1,0 +1,27 @@
+{
+    "id": "place.12820637835805330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bosco Marengo",
+    "place_name": "Bosco Marengo, Alessandria, Italy",
+    "bbox": [
+        8.639621,
+        44.773719,
+        8.788586,
+        44.864116
+    ],
+    "center": [
+        8.67833,
+        44.82639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.67833,
+            44.82639
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12883555661602820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cornuda",
+    "place_name": "Cornuda, Treviso, Italy",
+    "bbox": [
+        11.95924,
+        45.805848,
+        12.032911,
+        45.849813
+    ],
+    "center": [
+        12.00806,
+        45.83222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.00806,
+            45.83222
+        ]
+    }
+}

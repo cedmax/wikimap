@@ -1,0 +1,27 @@
+{
+    "id": "place.10202309036377580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albiate",
+    "place_name": "Albiate, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.235275,
+        45.641462,
+        9.266747,
+        45.667574
+    ],
+    "center": [
+        9.25,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.25,
+            45.66667
+        ]
+    }
+}

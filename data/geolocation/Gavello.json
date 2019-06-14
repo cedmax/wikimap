@@ -1,0 +1,27 @@
+{
+    "id": "place.11312653827233690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gavello",
+    "place_name": "Gavello, Rovigo, Italy",
+    "bbox": [
+        11.899017,
+        44.99606,
+        12.014108,
+        45.054221
+    ],
+    "center": [
+        11.91667,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91667,
+            45.01667
+        ]
+    }
+}

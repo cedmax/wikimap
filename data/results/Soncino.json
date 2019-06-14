@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Piero Manzoni",
-            "pageView": 222601
+            "pageView": 144,
+            "total": 222729
         },
         {
             "page": "Ezzelino III da Romano",
-            "pageView": 107119
+            "pageView": 69,
+            "total": 107242
         },
         {
             "page": "Giacomo Losi",
-            "pageView": 58600
+            "pageView": 32,
+            "total": 58640
         },
         {
             "page": "Lisa Morpurgo",
-            "pageView": 26341
+            "pageView": 17,
+            "total": 26355
         },
         {
             "page": "Renato Cappellini",
-            "pageView": 20857
+            "pageView": 14,
+            "total": 20883
         },
         {
             "page": "Sergio Borgo",
-            "pageView": 17448
+            "pageView": 10,
+            "total": 17482
         },
         {
             "page": "Marilena Ferrari",
-            "pageView": 8728
+            "pageView": 6,
+            "total": 8729
         },
         {
             "page": "Paola Elisabetta Cerioli",
-            "pageView": 8128
+            "pageView": 4,
+            "total": 8132
         },
         {
             "page": "Cabrino Fondulo",
-            "pageView": 7056
-        },
-        {
-            "page": "Stefana Quinzani",
-            "pageView": 5936
-        },
-        {
-            "page": "Silvana Comaroli",
-            "pageView": 5816
+            "pageView": 4,
+            "total": 7056
         },
         {
             "page": "Alessandro Roccatagliata",
-            "pageView": 5464
+            "pageView": 4,
+            "total": 5469
         },
         {
-            "page": "Battista Restelli",
-            "pageView": 5204
+            "page": "Stefana Quinzani",
+            "pageView": 3,
+            "total": 5939
         },
         {
-            "page": "Mino Denti",
-            "pageView": 4710
-        },
-        {
-            "page": "Gaetano Cattaneo",
-            "pageView": 3974
+            "page": "Silvana Comaroli",
+            "pageView": 3,
+            "total": 5822
         },
         {
             "page": "Giovanni Zavaglio",
-            "pageView": 3778
+            "pageView": 3,
+            "total": 3780
         },
         {
-            "page": "Antonio Gussalli",
-            "pageView": 1735
+            "page": "Mino Denti",
+            "pageView": 3,
+            "total": 4712
+        },
+        {
+            "page": "Gaetano Cattaneo",
+            "pageView": 2,
+            "total": 3975
+        },
+        {
+            "page": "Battista Restelli",
+            "pageView": 2,
+            "total": 5208
         },
         {
             "page": "Ambrosino da Tormoli",
-            "pageView": 1521
+            "pageView": 1,
+            "total": 1523
+        },
+        {
+            "page": "Antonio Gussalli",
+            "pageView": 1,
+            "total": 1736
         },
         {
             "page": "Paolo Barbo (teologo)",
-            "pageView": 1270
+            "pageView": 1,
+            "total": 1271
         },
         {
             "page": "Orazio Guarguanti",
-            "pageView": 503
+            "pageView": 0,
+            "total": 503
         }
     ]
 }

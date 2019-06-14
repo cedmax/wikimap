@@ -1,0 +1,27 @@
+{
+    "id": "place.2799736141461750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Istrana",
+    "place_name": "Istrana, Treviso, Italy",
+    "bbox": [
+        12.06043,
+        45.63707,
+        12.121953,
+        45.72435
+    ],
+    "center": [
+        12.1,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            45.68333
+        ]
+    }
+}

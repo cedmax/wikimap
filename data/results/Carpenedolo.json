@@ -3,127 +3,158 @@
     "people": [
         {
             "page": "Angelo Colombo",
-            "pageView": 73134
+            "pageView": 43,
+            "total": 73196
         },
         {
             "page": "Manuel Iori",
-            "pageView": 50966
-        },
-        {
-            "page": "Manuel Pascali",
-            "pageView": 43823
+            "pageView": 22,
+            "total": 50986
         },
         {
             "page": "Massimo Volta",
-            "pageView": 37874
+            "pageView": 20,
+            "total": 37896
         },
         {
-            "page": "Marco Sgrò",
-            "pageView": 28025
+            "page": "Manuel Pascali",
+            "pageView": 19,
+            "total": 43838
         },
         {
             "page": "Gianluca Gaudenzi",
-            "pageView": 26841
+            "pageView": 18,
+            "total": 26857
+        },
+        {
+            "page": "Marco Sgrò",
+            "pageView": 17,
+            "total": 28049
         },
         {
             "page": "Francesco Vincenzi",
-            "pageView": 19998
+            "pageView": 13,
+            "total": 20021
         },
         {
             "page": "Francesco Zanoncelli",
-            "pageView": 18523
+            "pageView": 12,
+            "total": 18540
         },
         {
             "page": "Leandro Martínez",
-            "pageView": 15626
-        },
-        {
-            "page": "Giacomo Lorenzini",
-            "pageView": 10715
-        },
-        {
-            "page": "Daniele Corti",
-            "pageView": 10552
-        },
-        {
-            "page": "Diego Penocchio",
-            "pageView": 10288
-        },
-        {
-            "page": "Mauro Melotti",
-            "pageView": 10048
-        },
-        {
-            "page": "Ivan Rizzardi",
-            "pageView": 9831
-        },
-        {
-            "page": "Gian Cesare Discepoli",
-            "pageView": 9100
-        },
-        {
-            "page": "Filippo Savi",
-            "pageView": 9008
-        },
-        {
-            "page": "Luigi Rocca",
-            "pageView": 8214
-        },
-        {
-            "page": "Marco Torresani",
-            "pageView": 7742
-        },
-        {
-            "page": "Michele Zeoli",
-            "pageView": 7552
-        },
-        {
-            "page": "Flavio Fiorio",
-            "pageView": 6286
-        },
-        {
-            "page": "Giovanni Rossi (calciatore)",
-            "pageView": 6118
-        },
-        {
-            "page": "Stefano Bono",
-            "pageView": 5776
-        },
-        {
-            "page": "Roberto Chiarini",
-            "pageView": 5707
+            "pageView": 9,
+            "total": 15632
         },
         {
             "page": "Gianni Fabiano",
-            "pageView": 5618
+            "pageView": 9,
+            "total": 5625
         },
         {
-            "page": "Andrea Bottazzi",
-            "pageView": 5441
+            "page": "Diego Penocchio",
+            "pageView": 7,
+            "total": 10294
         },
         {
-            "page": "Claudio Finetti",
-            "pageView": 4297
+            "page": "Giacomo Lorenzini",
+            "pageView": 7,
+            "total": 10724
+        },
+        {
+            "page": "Daniele Corti",
+            "pageView": 6,
+            "total": 10557
+        },
+        {
+            "page": "Gian Cesare Discepoli",
+            "pageView": 6,
+            "total": 9108
+        },
+        {
+            "page": "Mauro Melotti",
+            "pageView": 6,
+            "total": 10054
+        },
+        {
+            "page": "Ivan Rizzardi",
+            "pageView": 6,
+            "total": 9836
+        },
+        {
+            "page": "Michele Zeoli",
+            "pageView": 5,
+            "total": 7556
+        },
+        {
+            "page": "Filippo Savi",
+            "pageView": 5,
+            "total": 9010
+        },
+        {
+            "page": "Marco Torresani",
+            "pageView": 5,
+            "total": 7747
+        },
+        {
+            "page": "Luigi Rocca",
+            "pageView": 5,
+            "total": 8218
+        },
+        {
+            "page": "Giovanni Rossi (calciatore)",
+            "pageView": 4,
+            "total": 6121
+        },
+        {
+            "page": "Flavio Fiorio",
+            "pageView": 4,
+            "total": 6287
+        },
+        {
+            "page": "Stefano Bono",
+            "pageView": 4,
+            "total": 5782
         },
         {
             "page": "Federico Smanio",
-            "pageView": 4193
+            "pageView": 3,
+            "total": 4196
         },
         {
-            "page": "Ugo Adriano Graziotti",
-            "pageView": 3648
+            "page": "Andrea Bottazzi",
+            "pageView": 3,
+            "total": 5446
         },
         {
-            "page": "Mario Donen",
-            "pageView": 2920
+            "page": "Roberto Chiarini",
+            "pageView": 3,
+            "total": 5709
+        },
+        {
+            "page": "Claudio Finetti",
+            "pageView": 3,
+            "total": 4303
         },
         {
             "page": "Manú",
-            "pageView": 2423
+            "pageView": 2,
+            "total": 2424
         },
         {
             "page": "Lorenzo Ercoliani",
-            "pageView": 2322
+            "pageView": 2,
+            "total": 2324
+        },
+        {
+            "page": "Mario Donen",
+            "pageView": 2,
+            "total": 2924
+        },
+        {
+            "page": "Ugo Adriano Graziotti",
+            "pageView": 2,
+            "total": 3649
         }
     ]
 }

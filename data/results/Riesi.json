@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Giuseppe Di Cristina",
-            "pageView": 174811
-        },
-        {
-            "page": "Calogero La Piana",
-            "pageView": 25453
-        },
-        {
-            "page": "Gaetano Azzolina",
-            "pageView": 20663
+            "pageView": 103,
+            "total": 175019
         },
         {
             "page": "Francesco Di Cristina",
-            "pageView": 20259
+            "pageView": 13,
+            "total": 20279
+        },
+        {
+            "page": "Gaetano Azzolina",
+            "pageView": 13,
+            "total": 20679
+        },
+        {
+            "page": "Calogero La Piana",
+            "pageView": 12,
+            "total": 25456
         },
         {
             "page": "Giuseppe Bognanni",
-            "pageView": 4436
+            "pageView": 3,
+            "total": 4440
         },
         {
             "page": "Gaetano Butera",
-            "pageView": 4161
-        },
-        {
-            "page": "Filippo Scroppo",
-            "pageView": 3621
-        },
-        {
-            "page": "Rosario Pasqualino Vassallo",
-            "pageView": 3115
-        },
-        {
-            "page": "Antonino D'Antona",
-            "pageView": 2306
+            "pageView": 3,
+            "total": 4164
         },
         {
             "page": "Francesco Roccella",
-            "pageView": 1963
+            "pageView": 2,
+            "total": 1967
+        },
+        {
+            "page": "Filippo Scroppo",
+            "pageView": 2,
+            "total": 3622
+        },
+        {
+            "page": "Rosario Pasqualino Vassallo",
+            "pageView": 2,
+            "total": 3118
+        },
+        {
+            "page": "Antonino D'Antona",
+            "pageView": 2,
+            "total": 2307
         },
         {
             "page": "Giuseppe Chiantia",
-            "pageView": 61
+            "pageView": 0,
+            "total": 62
         }
     ]
 }

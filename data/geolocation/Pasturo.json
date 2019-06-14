@@ -1,0 +1,27 @@
+{
+    "id": "place.13934095178002270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pasturo",
+    "place_name": "Pasturo, Lecco, Italy",
+    "bbox": [
+        9.385965,
+        45.920837,
+        9.453375,
+        45.974341
+    ],
+    "center": [
+        9.43333,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43333,
+            45.95
+        ]
+    }
+}

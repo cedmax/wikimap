@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Paolo Pedretti",
-            "pageView": 3001
+            "pageView": 2,
+            "total": 3008
         },
         {
             "page": "Max Glauber",
-            "pageView": 1747
+            "pageView": 1,
+            "total": 1748
         }
     ]
 }

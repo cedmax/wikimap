@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Romano Prodi",
-            "pageView": 733469
+            "pageView": 387,
+            "total": 734328
         },
         {
             "page": "Matteo Maria Boiardo",
-            "pageView": 142508
+            "pageView": 88,
+            "total": 142569
         },
         {
             "page": "Lazzaro Spallanzani",
-            "pageView": 115666
+            "pageView": 69,
+            "total": 115715
         },
         {
             "page": "Luigi Ghirri",
-            "pageView": 78507
+            "pageView": 50,
+            "total": 78557
         },
         {
             "page": "Paolo Prodi",
-            "pageView": 53783
+            "pageView": 25,
+            "total": 53807
         },
         {
             "page": "Villiam Vecchi",
-            "pageView": 41828
+            "pageView": 24,
+            "total": 41849
         },
         {
             "page": "Giovanni Prodi",
-            "pageView": 34110
+            "pageView": 18,
+            "total": 34133
         },
         {
             "page": "Giorgio Prodi",
-            "pageView": 26376
+            "pageView": 14,
+            "total": 26388
         },
         {
             "page": "Pier Carpi",
-            "pageView": 13561
+            "pageView": 8,
+            "total": 13573
         },
         {
             "page": "Claudio Grauso",
-            "pageView": 13040
-        },
-        {
-            "page": "Kastriot Dermaku",
-            "pageView": 10105
+            "pageView": 8,
+            "total": 13042
         },
         {
             "page": "Gian Guido Folloni",
-            "pageView": 8604
-        },
-        {
-            "page": "Roberto Crudeli",
-            "pageView": 5552
-        },
-        {
-            "page": "Mauro Rabitti",
-            "pageView": 5002
-        },
-        {
-            "page": "Cesare Magati",
-            "pageView": 4826
-        },
-        {
-            "page": "Massimo Tataranni",
-            "pageView": 4788
-        },
-        {
-            "page": "Cristian Beggi",
-            "pageView": 4750
-        },
-        {
-            "page": "Giulia Boiardo",
-            "pageView": 4318
+            "pageView": 5,
+            "total": 8610
         },
         {
             "page": "Fermo Camellini",
-            "pageView": 4152
+            "pageView": 3,
+            "total": 4174
         },
         {
-            "page": "Stefano Anceschi",
-            "pageView": 4026
+            "page": "Cristian Beggi",
+            "pageView": 3,
+            "total": 4750
         },
         {
-            "page": "Umberto Strucchi",
-            "pageView": 2753
+            "page": "Roberto Crudeli",
+            "pageView": 3,
+            "total": 5552
+        },
+        {
+            "page": "Giulia Boiardo",
+            "pageView": 3,
+            "total": 4318
+        },
+        {
+            "page": "Massimo Tataranni",
+            "pageView": 3,
+            "total": 4788
+        },
+        {
+            "page": "Cesare Magati",
+            "pageView": 3,
+            "total": 4828
+        },
+        {
+            "page": "Mauro Rabitti",
+            "pageView": 3,
+            "total": 5004
         },
         {
             "page": "Sebastiano Antonio Pighini",
-            "pageView": 2629
+            "pageView": 2,
+            "total": 2629
+        },
+        {
+            "page": "Umberto Strucchi",
+            "pageView": 2,
+            "total": 2755
+        },
+        {
+            "page": "Stefano Anceschi",
+            "pageView": 2,
+            "total": 4030
         },
         {
             "page": "Marte Ferrari",
-            "pageView": 2584
-        },
-        {
-            "page": "Giuseppe Anceschi",
-            "pageView": 2208
-        },
-        {
-            "page": "Giuliano Covezzi",
-            "pageView": 1464
-        },
-        {
-            "page": "Francesco Consigli",
-            "pageView": 1279
+            "pageView": 2,
+            "total": 2585
         },
         {
             "page": "Taddea Gonzaga",
-            "pageView": 1278
+            "pageView": 2,
+            "total": 1281
         },
         {
-            "page": "Roberto Gandini (storico)",
-            "pageView": 997
+            "page": "Giuseppe Anceschi",
+            "pageView": 2,
+            "total": 2209
+        },
+        {
+            "page": "Giuliano Covezzi",
+            "pageView": 1,
+            "total": 1464
+        },
+        {
+            "page": "Francesco Consigli",
+            "pageView": 1,
+            "total": 1279
         },
         {
             "page": "Andrea Rossi (politico)",
-            "pageView": 724
+            "pageView": 0,
+            "total": 735
         },
         {
             "page": "Luigi Mainoni",
-            "pageView": 592
+            "pageView": 0,
+            "total": 593
         },
         {
-            "page": "Mattia Verona",
-            "pageView": 565
+            "page": "Roberto Gandini (storico)",
+            "pageView": 0,
+            "total": 999
+        },
+        {
+            "page": "Kastriot Dermaku",
+            "pageView": 0,
+            "total": 10122
         },
         {
             "page": "Giuseppe Basini (deputato)",
-            "pageView": 321
+            "pageView": 0,
+            "total": 322
+        },
+        {
+            "page": "Mattia Verona",
+            "pageView": 0,
+            "total": 566
         }
     ]
 }

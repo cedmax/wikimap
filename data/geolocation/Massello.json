@@ -1,0 +1,27 @@
+{
+    "id": "place.14366334167128600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massello",
+    "place_name": "Massello, Torino, Italy",
+    "bbox": [
+        6.964933,
+        44.937734,
+        7.078729,
+        44.996434
+    ],
+    "center": [
+        7.05,
+        44.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.05,
+            44.96667
+        ]
+    }
+}

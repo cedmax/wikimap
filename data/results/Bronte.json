@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Salvatore Lazzaro",
-            "pageView": 59547
+            "pageView": 36,
+            "total": 59602
         },
         {
             "page": "Giuseppe Castiglione (politico)",
-            "pageView": 35165
-        },
-        {
-            "page": "Antonio La Pergola",
-            "pageView": 10837
+            "pageView": 22,
+            "total": 35177
         },
         {
             "page": "Vito Bonsignore",
-            "pageView": 10731
+            "pageView": 7,
+            "total": 10736
+        },
+        {
+            "page": "Antonio La Pergola",
+            "pageView": 7,
+            "total": 10844
         },
         {
             "page": "Nicola Spedalieri",
-            "pageView": 8757
-        },
-        {
-            "page": "Mario Cottone",
-            "pageView": 7181
+            "pageView": 5,
+            "total": 8760
         },
         {
             "page": "Alberto Giovanni Biuso",
-            "pageView": 6566
-        },
-        {
-            "page": "Biondo Biondi",
-            "pageView": 5065
-        },
-        {
-            "page": "Antonio Saverio De Luca",
-            "pageView": 4974
+            "pageView": 4,
+            "total": 6568
         },
         {
             "page": "Nunzio Sciavarrello",
-            "pageView": 4914
+            "pageView": 3,
+            "total": 4917
         },
         {
-            "page": "William Sharp",
-            "pageView": 3753
+            "page": "Antonio Saverio De Luca",
+            "pageView": 3,
+            "total": 4977
         },
         {
-            "page": "Eustachio Ignazio Capizzi",
-            "pageView": 3438
+            "page": "Mario Cottone",
+            "pageView": 3,
+            "total": 7196
+        },
+        {
+            "page": "Biondo Biondi",
+            "pageView": 3,
+            "total": 5068
         },
         {
             "page": "Antonio Messineo",
-            "pageView": 2709
+            "pageView": 2,
+            "total": 2709
         },
         {
             "page": "Biagio Pecorino",
-            "pageView": 2179
+            "pageView": 2,
+            "total": 2181
         },
         {
-            "page": "Mario Lupo (chimico)",
-            "pageView": 1669
+            "page": "Eustachio Ignazio Capizzi",
+            "pageView": 2,
+            "total": 3438
+        },
+        {
+            "page": "William Sharp",
+            "pageView": 2,
+            "total": 3754
         },
         {
             "page": "Eduardo Cimbali",
-            "pageView": 903
+            "pageView": 1,
+            "total": 903
+        },
+        {
+            "page": "Mario Lupo (chimico)",
+            "pageView": 1,
+            "total": 1670
         },
         {
             "page": "Enrico Cimbali",
-            "pageView": 483
+            "pageView": 0,
+            "total": 483
         },
         {
             "page": "Giuseppe Saitta (vescovo)",
-            "pageView": 244
+            "pageView": 0,
+            "total": 244
         }
     ]
 }

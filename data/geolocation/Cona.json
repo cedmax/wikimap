@@ -1,0 +1,27 @@
+{
+    "id": "place.14921257782660170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cona",
+    "place_name": "Cona, Venezia, Italy",
+    "bbox": [
+        11.972746,
+        45.147587,
+        12.176466,
+        45.210199
+    ],
+    "center": [
+        12.0201,
+        45.1838
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0201,
+            45.1838
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12462356034557530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pisa",
+    "place_name": "Pisa, Pisa, Italy",
+    "bbox": [
+        10.268529,
+        43.580953,
+        10.456093,
+        43.75081
+    ],
+    "center": [
+        10.4,
+        43.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4,
+            43.71667
+        ]
+    }
+}

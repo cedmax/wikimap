@@ -1,0 +1,27 @@
+{
+    "id": "place.7247223643779980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tavagnacco",
+    "place_name": "Tavagnacco, Udine, Italy",
+    "bbox": [
+        13.189,
+        46.086637,
+        13.259282,
+        46.137007
+    ],
+    "center": [
+        13.21667,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21667,
+            46.13333
+        ]
+    }
+}

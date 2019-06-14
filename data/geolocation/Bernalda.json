@@ -1,0 +1,27 @@
+{
+    "id": "place.11744206748847730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bernalda",
+    "place_name": "Bernalda, Matera, Italy",
+    "bbox": [
+        16.649664,
+        40.336106,
+        16.867777,
+        40.470643
+    ],
+    "center": [
+        16.68333,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.68333,
+            40.41667
+        ]
+    }
+}

@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Ferdinando Carlo d'Austria",
-            "pageView": 7593
-        },
-        {
-            "page": "Denny Deanesi",
-            "pageView": 6300
+            "pageView": 5,
+            "total": 7596
         },
         {
             "page": "Anton Bernard",
-            "pageView": 5071
+            "pageView": 3,
+            "total": 5072
         },
         {
             "page": "Andreas Bernard",
-            "pageView": 4610
-        },
-        {
-            "page": "Armando Chelodi",
-            "pageView": 3221
-        },
-        {
-            "page": "Mattia Albani",
-            "pageView": 2984
-        },
-        {
-            "page": "Massimo Fedrizzi",
-            "pageView": 2675
-        },
-        {
-            "page": "Thomas Commisso",
-            "pageView": 2303
-        },
-        {
-            "page": "Alex Frei",
-            "pageView": 2268
-        },
-        {
-            "page": "Jari Helle",
-            "pageView": 2184
-        },
-        {
-            "page": "Ruben Rampazzo",
-            "pageView": 2155
-        },
-        {
-            "page": "Enrico Chelodi",
-            "pageView": 1936
-        },
-        {
-            "page": "Lorenz Daccordo",
-            "pageView": 1915
-        },
-        {
-            "page": "Marco Liberatore",
-            "pageView": 1847
-        },
-        {
-            "page": "Anton Sepp",
-            "pageView": 1731
-        },
-        {
-            "page": "Sabina Florian",
-            "pageView": 1566
-        },
-        {
-            "page": "Danny Elliscasis",
-            "pageView": 1388
-        },
-        {
-            "page": "Benjamin Bregenzer",
-            "pageView": 1379
-        },
-        {
-            "page": "Harald Zingerle",
-            "pageView": 1303
-        },
-        {
-            "page": "Stefan Unterkofler",
-            "pageView": 1290
-        },
-        {
-            "page": "Felix Oberrauch",
-            "pageView": 1179
-        },
-        {
-            "page": "Massimo Camin",
-            "pageView": 1169
-        },
-        {
-            "page": "Matias Loppi",
-            "pageView": 1157
-        },
-        {
-            "page": "Armin Ambach",
-            "pageView": 1132
+            "pageView": 2,
+            "total": 4613
         },
         {
             "page": "Viktor Schweitzer",
-            "pageView": 1107
+            "pageView": 2,
+            "total": 1107
         },
         {
-            "page": "Michael Messner (hockeista su ghiaccio)",
-            "pageView": 1102
+            "page": "Armando Chelodi",
+            "pageView": 2,
+            "total": 3226
         },
         {
-            "page": "Mirko Quinz",
-            "pageView": 1070
+            "page": "Enrico Chelodi",
+            "pageView": 2,
+            "total": 1938
+        },
+        {
+            "page": "Thomas Commisso",
+            "pageView": 2,
+            "total": 2304
+        },
+        {
+            "page": "Mattia Albani",
+            "pageView": 2,
+            "total": 2985
+        },
+        {
+            "page": "Lorenz Daccordo",
+            "pageView": 2,
+            "total": 1916
+        },
+        {
+            "page": "Denny Deanesi",
+            "pageView": 2,
+            "total": 6300
+        },
+        {
+            "page": "Massimo Fedrizzi",
+            "pageView": 2,
+            "total": 2676
+        },
+        {
+            "page": "Alex Frei",
+            "pageView": 2,
+            "total": 2270
+        },
+        {
+            "page": "Marco Liberatore",
+            "pageView": 2,
+            "total": 1850
+        },
+        {
+            "page": "Ruben Rampazzo",
+            "pageView": 2,
+            "total": 2155
+        },
+        {
+            "page": "Jari Helle",
+            "pageView": 1,
+            "total": 2185
         },
         {
             "page": "Thomas Di Pauli",
-            "pageView": 1049
+            "pageView": 1,
+            "total": 1049
         },
         {
-            "page": "Stefano Piva",
-            "pageView": 1035
+            "page": "Danny Elliscasis",
+            "pageView": 1,
+            "total": 1388
         },
         {
-            "page": "Daniel Morandell",
-            "pageView": 997
+            "page": "Benjamin Bregenzer",
+            "pageView": 1,
+            "total": 1379
         },
         {
-            "page": "Christian Mair",
-            "pageView": 996
-        },
-        {
-            "page": "Thomas Pichler (hockeista su ghiaccio 1985)",
-            "pageView": 983
-        },
-        {
-            "page": "Jakub Šindel",
-            "pageView": 977
-        },
-        {
-            "page": "Alexander Sullmann",
-            "pageView": 888
-        },
-        {
-            "page": "Doug Janik",
-            "pageView": 849
-        },
-        {
-            "page": "Elmar Parth",
-            "pageView": 737
-        },
-        {
-            "page": "Philipp Kosta",
-            "pageView": 703
+            "page": "Sabina Florian",
+            "pageView": 1,
+            "total": 1567
         },
         {
             "page": "Georg Comploi",
-            "pageView": 700
+            "pageView": 1,
+            "total": 701
+        },
+        {
+            "page": "Doug Janik",
+            "pageView": 1,
+            "total": 850
+        },
+        {
+            "page": "Philipp Kosta",
+            "pageView": 1,
+            "total": 703
+        },
+        {
+            "page": "Massimo Camin",
+            "pageView": 1,
+            "total": 1170
+        },
+        {
+            "page": "Matias Loppi",
+            "pageView": 1,
+            "total": 1157
+        },
+        {
+            "page": "Christian Mair",
+            "pageView": 1,
+            "total": 996
+        },
+        {
+            "page": "Michael Messner (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1103
+        },
+        {
+            "page": "Daniel Morandell",
+            "pageView": 1,
+            "total": 997
+        },
+        {
+            "page": "Felix Oberrauch",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Elmar Parth",
+            "pageView": 1,
+            "total": 738
+        },
+        {
+            "page": "Thomas Pichler (hockeista su ghiaccio 1985)",
+            "pageView": 1,
+            "total": 983
+        },
+        {
+            "page": "Stefano Piva",
+            "pageView": 1,
+            "total": 1036
+        },
+        {
+            "page": "Mirko Quinz",
+            "pageView": 1,
+            "total": 1070
+        },
+        {
+            "page": "Armin Ambach",
+            "pageView": 1,
+            "total": 1132
+        },
+        {
+            "page": "Harald Zingerle",
+            "pageView": 1,
+            "total": 1303
+        },
+        {
+            "page": "Anton Sepp",
+            "pageView": 1,
+            "total": 1732
+        },
+        {
+            "page": "Jakub Šindel",
+            "pageView": 1,
+            "total": 977
+        },
+        {
+            "page": "Stefan Unterkofler",
+            "pageView": 1,
+            "total": 1291
+        },
+        {
+            "page": "Alexander Sullmann",
+            "pageView": 1,
+            "total": 889
         },
         {
             "page": "Zdeněk Kudrna (hockeista su ghiaccio)",
-            "pageView": 645
-        },
-        {
-            "page": "Alexander Andergassen",
-            "pageView": 527
-        },
-        {
-            "page": "Emanuel Scelfo",
-            "pageView": 516
-        },
-        {
-            "page": "Reinhard Wieser",
-            "pageView": 350
+            "pageView": 1,
+            "total": 645
         },
         {
             "page": "David Stricker",
-            "pageView": 223
+            "pageView": 0,
+            "total": 224
+        },
+        {
+            "page": "Reinhard Wieser",
+            "pageView": 0,
+            "total": 351
+        },
+        {
+            "page": "Emanuel Scelfo",
+            "pageView": 0,
+            "total": 516
         },
         {
             "page": "Lukas Crepaz",
-            "pageView": 154
+            "pageView": 0,
+            "total": 154
+        },
+        {
+            "page": "Alexander Andergassen",
+            "pageView": 0,
+            "total": 528
         }
     ]
 }

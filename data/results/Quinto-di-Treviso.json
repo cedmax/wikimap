@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Red Canzian",
-            "pageView": 825042
+            "pageView": 191.5,
+            "total": 825164
         },
         {
             "page": "Luciano Marangon",
-            "pageView": 35141
+            "pageView": 20,
+            "total": 35168
         },
         {
             "page": "Beppe Ciardi",
-            "pageView": 12576
+            "pageView": 7,
+            "total": 12582
         },
         {
             "page": "Fabio Marangon",
-            "pageView": 11959
+            "pageView": 7,
+            "total": 11962
         },
         {
             "page": "Gianpaolo Dozzo",
-            "pageView": 6052
+            "pageView": 4,
+            "total": 6056
         }
     ]
 }

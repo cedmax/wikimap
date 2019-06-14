@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Mario Colautti",
-            "pageView": 12263
+            "pageView": 8,
+            "total": 12272
         },
         {
             "page": "Sandro Vanello",
-            "pageView": 8176
-        },
-        {
-            "page": "Claudio Giorgi",
-            "pageView": 6594
-        },
-        {
-            "page": "Aldo Moretti",
-            "pageView": 6159
+            "pageView": 5,
+            "total": 8186
         },
         {
             "page": "Benito Boldi",
-            "pageView": 5672
+            "pageView": 4,
+            "total": 5674
+        },
+        {
+            "page": "Aldo Moretti",
+            "pageView": 4,
+            "total": 6171
+        },
+        {
+            "page": "Claudio Giorgi",
+            "pageView": 4,
+            "total": 6596
         },
         {
             "page": "Giancarlo Cruder",
-            "pageView": 5123
-        },
-        {
-            "page": "Angelo Angeli",
-            "pageView": 3508
-        },
-        {
-            "page": "Luigi Miconi",
-            "pageView": 3444
-        },
-        {
-            "page": "Eugenio Driutti",
-            "pageView": 3317
-        },
-        {
-            "page": "Gian Paolo Thanner",
-            "pageView": 2979
+            "pageView": 3,
+            "total": 5130
         },
         {
             "page": "Luciano Ceschia",
-            "pageView": 2745
+            "pageView": 2,
+            "total": 2747
         },
         {
-            "page": "Chino Ermacora",
-            "pageView": 2585
+            "page": "Gian Paolo Thanner",
+            "pageView": 2,
+            "total": 2980
         },
         {
             "page": "Mario Boldi",
-            "pageView": 1974
+            "pageView": 2,
+            "total": 1977
         },
         {
-            "page": "Cornelio Frangipane il Giovane",
-            "pageView": 1753
+            "page": "Eugenio Driutti",
+            "pageView": 2,
+            "total": 3319
         },
         {
-            "page": "Guido Boldi",
-            "pageView": 1718
+            "page": "Angelo Angeli",
+            "pageView": 2,
+            "total": 3512
         },
         {
-            "page": "Romolo Remigi",
-            "pageView": 1362
+            "page": "Luigi Miconi",
+            "pageView": 2,
+            "total": 3446
         },
         {
-            "page": "Ottaviano Toso",
-            "pageView": 1275
-        },
-        {
-            "page": "Luigi Nicolò Castellana",
-            "pageView": 1226
-        },
-        {
-            "page": "Innocenzo Maria Liruti",
-            "pageView": 1071
+            "page": "Chino Ermacora",
+            "pageView": 2,
+            "total": 2588
         },
         {
             "page": "Ugo Giavitto",
-            "pageView": 814
+            "pageView": 1,
+            "total": 814
+        },
+        {
+            "page": "Cornelio Frangipane il Giovane",
+            "pageView": 1,
+            "total": 1753
+        },
+        {
+            "page": "Innocenzo Maria Liruti",
+            "pageView": 1,
+            "total": 1071
+        },
+        {
+            "page": "Luigi Nicolò Castellana",
+            "pageView": 1,
+            "total": 1226
+        },
+        {
+            "page": "Guido Boldi",
+            "pageView": 1,
+            "total": 1719
+        },
+        {
+            "page": "Romolo Remigi",
+            "pageView": 1,
+            "total": 1362
+        },
+        {
+            "page": "Ottaviano Toso",
+            "pageView": 1,
+            "total": 1275
         }
     ]
 }

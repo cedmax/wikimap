@@ -1,0 +1,27 @@
+{
+    "id": "place.1644375074403740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pellegrino Terme",
+    "place_name": "San Pellegrino Terme, Bergamo, Italy",
+    "bbox": [
+        9.613055,
+        45.816429,
+        9.703388,
+        45.8645
+    ],
+    "center": [
+        9.66667,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.66667,
+            45.83333
+        ]
+    }
+}

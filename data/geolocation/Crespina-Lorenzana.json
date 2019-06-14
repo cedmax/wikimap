@@ -1,0 +1,27 @@
+{
+    "id": "place.17983561824784810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crespina Lorenzana",
+    "place_name": "Crespina Lorenzana, Pisa, Italy",
+    "bbox": [
+        10.499631,
+        43.498738,
+        10.580203,
+        43.63087
+    ],
+    "center": [
+        10.56528,
+        43.57389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.56528,
+            43.57389
+        ]
+    }
+}

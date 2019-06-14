@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Gaetano Curreri",
-            "pageView": 433193
+            "pageView": 103,
+            "total": 433329
         },
         {
             "page": "Arnaldo Pambianco",
-            "pageView": 18471
+            "pageView": 10,
+            "total": 18492
         },
         {
             "page": "Aldo Spallicci",
-            "pageView": 13697
-        },
-        {
-            "page": "Lino Pizzi",
-            "pageView": 10528
+            "pageView": 9,
+            "total": 13704
         },
         {
             "page": "Livio Corazza",
-            "pageView": 7432
+            "pageView": 8.5,
+            "total": 7439
+        },
+        {
+            "page": "Lino Pizzi",
+            "pageView": 6,
+            "total": 10534
         },
         {
             "page": "Alessandro Cervellati",
-            "pageView": 6372
+            "pageView": 4,
+            "total": 6376
         },
         {
             "page": "Hesperia (attrice)",
-            "pageView": 6004
-        },
-        {
-            "page": "Vincenzo Zarri",
-            "pageView": 5183
+            "pageView": 4,
+            "total": 6005
         },
         {
             "page": "Dante Arfelli",
-            "pageView": 4828
+            "pageView": 3,
+            "total": 4832
         },
         {
-            "page": "Obadiah di Bertinoro",
-            "pageView": 4364
+            "page": "Vincenzo Zarri",
+            "pageView": 3,
+            "total": 5186
         },
         {
             "page": "Giuseppe Fabiani",
-            "pageView": 4293
+            "pageView": 3,
+            "total": 4296
+        },
+        {
+            "page": "Obadiah di Bertinoro",
+            "pageView": 3,
+            "total": 4365
         },
         {
             "page": "Gino Mattarelli",
-            "pageView": 4099
-        },
-        {
-            "page": "Umberto Fusaroli Casadei",
-            "pageView": 3675
-        },
-        {
-            "page": "Girolamo Verallo",
-            "pageView": 3613
+            "pageView": 2,
+            "total": 4102
         },
         {
             "page": "Luigi Maria Ugolini",
-            "pageView": 3290
+            "pageView": 2,
+            "total": 3291
         },
         {
-            "page": "Cornelio Musso",
-            "pageView": 3254
-        },
-        {
-            "page": "Alfredo Sainati",
-            "pageView": 3152
-        },
-        {
-            "page": "Elide Casali",
-            "pageView": 2215
+            "page": "Umberto Fusaroli Casadei",
+            "pageView": 2,
+            "total": 3676
         },
         {
             "page": "Innocenzo Massimo",
-            "pageView": 2122
+            "pageView": 2,
+            "total": 2124
+        },
+        {
+            "page": "Cornelio Musso",
+            "pageView": 2,
+            "total": 3254
+        },
+        {
+            "page": "Girolamo Verallo",
+            "pageView": 2,
+            "total": 3615
+        },
+        {
+            "page": "Elide Casali",
+            "pageView": 2,
+            "total": 2216
+        },
+        {
+            "page": "Alfredo Sainati",
+            "pageView": 2,
+            "total": 3154
         },
         {
             "page": "Egidio Falcetta",
-            "pageView": 1468
+            "pageView": 1,
+            "total": 1469
         },
         {
             "page": "Filiberto Laurenzi",
-            "pageView": 377
+            "pageView": 0,
+            "total": 377
         }
     ]
 }

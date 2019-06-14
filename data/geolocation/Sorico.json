@@ -1,0 +1,27 @@
+{
+    "id": "place.11484277101752450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorico",
+    "place_name": "Sorico, Como, Italy",
+    "bbox": [
+        9.372959,
+        46.153689,
+        9.441883,
+        46.223413
+    ],
+    "center": [
+        9.38139,
+        46.17222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38139,
+            46.17222
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18316105650233890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maserada sul Piave",
+    "place_name": "Maserada sul Piave, Treviso, Italy",
+    "bbox": [
+        12.287937,
+        45.719987,
+        12.395223,
+        45.785664
+    ],
+    "center": [
+        12.31667,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.31667,
+            45.75
+        ]
+    }
+}

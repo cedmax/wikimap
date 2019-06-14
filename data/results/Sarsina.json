@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Tito Maccio Plauto",
-            "pageView": 268154
+            "pageView": 166,
+            "total": 268236
         },
         {
             "page": "Giancarlo Magrini",
-            "pageView": 33408
+            "pageView": 19,
+            "total": 33421
         },
         {
             "page": "Corrado Balducci",
-            "pageView": 13405
+            "pageView": 8,
+            "total": 13416
         },
         {
             "page": "Vicinio di Sarsina",
-            "pageView": 12391
+            "pageView": 8,
+            "total": 12395
         },
         {
             "page": "Douglas Regattieri",
-            "pageView": 11074
+            "pageView": 7,
+            "total": 11081
         },
         {
             "page": "Antonio Lanfranchi",
-            "pageView": 10975
-        },
-        {
-            "page": "Cino Macrelli",
-            "pageView": 5543
-        },
-        {
-            "page": "Lino Esterino Garavaglia",
-            "pageView": 4061
+            "pageView": 7,
+            "total": 10990
         },
         {
             "page": "Emilio Biancheri",
-            "pageView": 3695
+            "pageView": 3,
+            "total": 3698
+        },
+        {
+            "page": "Cino Macrelli",
+            "pageView": 3,
+            "total": 5546
+        },
+        {
+            "page": "Lino Esterino Garavaglia",
+            "pageView": 3,
+            "total": 4062
         },
         {
             "page": "Luigi Amaducci",
-            "pageView": 3621
-        },
-        {
-            "page": "Gabriella Mondardini",
-            "pageView": 2415
+            "pageView": 2,
+            "total": 3622
         },
         {
             "page": "Luigi Rossi Morelli",
-            "pageView": 2034
+            "pageView": 2,
+            "total": 2034
+        },
+        {
+            "page": "Gabriella Mondardini",
+            "pageView": 2,
+            "total": 2415
         },
         {
             "page": "Fosco Montini",
-            "pageView": 1770
+            "pageView": 2,
+            "total": 1771
         }
     ]
 }

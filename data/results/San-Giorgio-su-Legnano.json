@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Marta Cartabia",
-            "pageView": 57728
+            "pageView": 26,
+            "total": 57758
         },
         {
             "page": "Ugo Colombo",
-            "pageView": 5505
-        },
-        {
-            "page": "Antonio Severi",
-            "pageView": 2599
+            "pageView": 3,
+            "total": 5507
         },
         {
             "page": "Gino Maggioni",
-            "pageView": 2145
+            "pageView": 2,
+            "total": 2145
+        },
+        {
+            "page": "Antonio Severi",
+            "pageView": 2,
+            "total": 2600
         }
     ]
 }

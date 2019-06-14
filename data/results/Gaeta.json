@@ -3,283 +3,353 @@
     "people": [
         {
             "page": "Giovanni Caboto",
-            "pageView": 174290
+            "pageView": 101,
+            "total": 174380
         },
         {
             "page": "Goliarda Sapienza",
-            "pageView": 120027
-        },
-        {
-            "page": "Safiria Leccese",
-            "pageView": 102768
+            "pageView": 66,
+            "total": 120086
         },
         {
             "page": "Antonio Pietrangeli",
-            "pageView": 73118
+            "pageView": 43,
+            "total": 73161
         },
         {
             "page": "Claudio Coccoluto",
-            "pageView": 66208
+            "pageView": 36,
+            "total": 66253
         },
         {
             "page": "Giorgio Benvenuto",
-            "pageView": 46894
+            "pageView": 27,
+            "total": 46908
         },
         {
             "page": "Papa Gelasio II",
-            "pageView": 38308
+            "pageView": 23,
+            "total": 38324
+        },
+        {
+            "page": "Safiria Leccese",
+            "pageView": 22,
+            "total": 102780
         },
         {
             "page": "Sancia d'Aragona",
-            "pageView": 33889
-        },
-        {
-            "page": "Fabrizia Ramondino",
-            "pageView": 30238
-        },
-        {
-            "page": "Luigi Di Liegro",
-            "pageView": 30023
+            "pageView": 20,
+            "total": 33905
         },
         {
             "page": "Lucio Munazio Planco",
-            "pageView": 28345
+            "pageView": 17,
+            "total": 28365
         },
         {
             "page": "Enrico Cosenz",
-            "pageView": 22046
+            "pageView": 14,
+            "total": 22061
+        },
+        {
+            "page": "Luigi Di Liegro",
+            "pageView": 13,
+            "total": 30034
         },
         {
             "page": "Sebastiano Conca",
-            "pageView": 18888
+            "pageView": 12,
+            "total": 18900
         },
         {
             "page": "Scipione Pulzone",
-            "pageView": 18445
+            "pageView": 12,
+            "total": 18458
         },
         {
-            "page": "Graziano Galoforo",
-            "pageView": 17367
+            "page": "Fabrizia Ramondino",
+            "pageView": 12,
+            "total": 30250
         },
         {
             "page": "Maria Pia di Borbone-Due Sicilie",
-            "pageView": 16435
-        },
-        {
-            "page": "Tommaso De Vio",
-            "pageView": 15737
+            "pageView": 11,
+            "total": 16443
         },
         {
             "page": "Fortunato Torrisi",
-            "pageView": 15403
+            "pageView": 10,
+            "total": 15411
         },
         {
-            "page": "Massimo Lotti",
-            "pageView": 14286
+            "page": "Tommaso De Vio",
+            "pageView": 10,
+            "total": 15742
         },
         {
             "page": "Luigi Boccolini",
-            "pageView": 13951
+            "pageView": 9,
+            "total": 13953
         },
         {
-            "page": "Fabio Bernardo D'Onorio",
-            "pageView": 13562
+            "page": "Massimo Lotti",
+            "pageView": 9,
+            "total": 14288
+        },
+        {
+            "page": "Graziano Galoforo",
+            "pageView": 8,
+            "total": 17372
         },
         {
             "page": "Andrea Sabatini",
-            "pageView": 11864
+            "pageView": 7,
+            "total": 11871
         },
         {
             "page": "Taddeo Orlando",
-            "pageView": 11546
+            "pageView": 7,
+            "total": 11557
         },
         {
-            "page": "Umberto Scipione",
-            "pageView": 11458
+            "page": "Fabio Bernardo D'Onorio",
+            "pageView": 7,
+            "total": 13568
         },
         {
             "page": "Corrado Urbano",
-            "pageView": 11037
-        },
-        {
-            "page": "Marco Traniello",
-            "pageView": 8356
-        },
-        {
-            "page": "Carlo Afan de Rivera",
-            "pageView": 8337
-        },
-        {
-            "page": "Angelo Parodi",
-            "pageView": 8172
-        },
-        {
-            "page": "Maria Giuseppina di Borbone-Spagna",
-            "pageView": 7942
+            "pageView": 7,
+            "total": 11040
         },
         {
             "page": "Matias Vegnaduzzo",
-            "pageView": 7775
+            "pageView": 6,
+            "total": 7778
+        },
+        {
+            "page": "Umberto Scipione",
+            "pageView": 6,
+            "total": 11464
         },
         {
             "page": "Luigi Vari",
-            "pageView": 6928
+            "pageView": 5,
+            "total": 6930
         },
         {
-            "page": "Carlo di Lannoy",
-            "pageView": 6900
+            "page": "Carlo Afan de Rivera",
+            "pageView": 5,
+            "total": 8343
+        },
+        {
+            "page": "Maria Giuseppina di Borbone-Spagna",
+            "pageView": 5,
+            "total": 7948
+        },
+        {
+            "page": "Marco Traniello",
+            "pageView": 5,
+            "total": 8364
         },
         {
             "page": "Carlo Mezzanotte",
-            "pageView": 5904
+            "pageView": 4,
+            "total": 5910
+        },
+        {
+            "page": "Carlo di Lannoy",
+            "pageView": 4,
+            "total": 6902
         },
         {
             "page": "Marco Candrina",
-            "pageView": 5682
-        },
-        {
-            "page": "Paolo Ramora",
-            "pageView": 5538
-        },
-        {
-            "page": "Anna Amendola",
-            "pageView": 5506
+            "pageView": 4,
+            "total": 5684
         },
         {
             "page": "Trogia Gazzella",
-            "pageView": 5290
-        },
-        {
-            "page": "Francesco Patrizi (umanista)",
-            "pageView": 5108
-        },
-        {
-            "page": "Fulvio Pieroni",
-            "pageView": 4651
-        },
-        {
-            "page": "Giovanni Filippo Criscuolo",
-            "pageView": 4595
-        },
-        {
-            "page": "Henri de Tonti",
-            "pageView": 4525
-        },
-        {
-            "page": "Vittorio Cervone",
-            "pageView": 4485
-        },
-        {
-            "page": "Antonio De Paola",
-            "pageView": 4384
-        },
-        {
-            "page": "Emilio de la Forest de Divonne",
-            "pageView": 4363
+            "pageView": 4,
+            "total": 5291
         },
         {
             "page": "Marco Vitale",
-            "pageView": 4331
+            "pageView": 3,
+            "total": 4333
         },
         {
-            "page": "Lucia Gomez Paloma",
-            "pageView": 3544
+            "page": "Angelo Parodi",
+            "pageView": 3,
+            "total": 8172
+        },
+        {
+            "page": "Paolo Ramora",
+            "pageView": 3,
+            "total": 5540
+        },
+        {
+            "page": "Giovanni Filippo Criscuolo",
+            "pageView": 3,
+            "total": 4597
+        },
+        {
+            "page": "Francesco Patrizi (umanista)",
+            "pageView": 3,
+            "total": 5109
+        },
+        {
+            "page": "Antonio De Paola",
+            "pageView": 3,
+            "total": 4385
         },
         {
             "page": "Aldo Baldini",
-            "pageView": 3091
+            "pageView": 3,
+            "total": 3094
         },
         {
-            "page": "Damiano Vellucci",
-            "pageView": 3049
+            "page": "Emilio de la Forest de Divonne",
+            "pageView": 3,
+            "total": 4366
         },
         {
-            "page": "Francesco Gaetano Traversa",
-            "pageView": 2740
+            "page": "Henri de Tonti",
+            "pageView": 3,
+            "total": 4529
         },
         {
-            "page": "Giuseppe Nuoto",
-            "pageView": 2593
+            "page": "Fulvio Pieroni",
+            "pageView": 3,
+            "total": 4653
         },
         {
-            "page": "Luigi Perugini",
-            "pageView": 2591
+            "page": "Anna Amendola",
+            "pageView": 3,
+            "total": 5513
+        },
+        {
+            "page": "Vittorio Cervone",
+            "pageView": 3,
+            "total": 4488
+        },
+        {
+            "page": "Lucia Gomez Paloma",
+            "pageView": 2,
+            "total": 3546
         },
         {
             "page": "Francesco Angelotti",
-            "pageView": 2570
-        },
-        {
-            "page": "Paolo de Sangro",
-            "pageView": 2515
+            "pageView": 2,
+            "total": 2571
         },
         {
             "page": "Franco Michele Napolitano",
-            "pageView": 2282
+            "pageView": 2,
+            "total": 2286
         },
         {
-            "page": "Erasmo di Bartolo",
-            "pageView": 2072
+            "page": "Francesco Gaetano Traversa",
+            "pageView": 2,
+            "total": 2743
         },
         {
             "page": "Erasmo Paravicini",
-            "pageView": 2036
+            "pageView": 2,
+            "total": 2037
         },
         {
-            "page": "Gaspar Felix",
-            "pageView": 2032
-        },
-        {
-            "page": "Luigi Caponaro",
-            "pageView": 1928
+            "page": "Paolo de Sangro",
+            "pageView": 2,
+            "total": 2521
         },
         {
             "page": "Livio Bonelli",
-            "pageView": 1743
+            "pageView": 2,
+            "total": 1743
         },
         {
-            "page": "Cherubino Caietano",
-            "pageView": 1662
+            "page": "Luigi Perugini",
+            "pageView": 2,
+            "total": 2595
         },
         {
-            "page": "Dario Quintavalle",
-            "pageView": 1570
+            "page": "Giuseppe Nuoto",
+            "pageView": 2,
+            "total": 2596
         },
         {
-            "page": "Cristoforo Marcello",
-            "pageView": 1563
+            "page": "Gaspar Felix",
+            "pageView": 2,
+            "total": 2032
         },
         {
-            "page": "Annarita Anellino",
-            "pageView": 1486
+            "page": "Damiano Vellucci",
+            "pageView": 2,
+            "total": 3051
         },
         {
             "page": "Dante Pignatiello",
-            "pageView": 1389
+            "pageView": 1,
+            "total": 1389
+        },
+        {
+            "page": "Annarita Anellino",
+            "pageView": 1,
+            "total": 1488
+        },
+        {
+            "page": "Cherubino Caietano",
+            "pageView": 1,
+            "total": 1663
+        },
+        {
+            "page": "Erasmo di Bartolo",
+            "pageView": 1,
+            "total": 2074
         },
         {
             "page": "Giuseppe Orlando (1918-1992)",
-            "pageView": 1270
+            "pageView": 1,
+            "total": 1270
         },
         {
-            "page": "Gennaro Moreno",
-            "pageView": 1058
+            "page": "Dario Quintavalle",
+            "pageView": 1,
+            "total": 1572
         },
         {
             "page": "Marcello Gazzella",
-            "pageView": 713
+            "pageView": 1,
+            "total": 714
         },
         {
-            "page": "Bernardo (vescovo di Gaeta)",
-            "pageView": 570
+            "page": "Cristoforo Marcello",
+            "pageView": 1,
+            "total": 1563
+        },
+        {
+            "page": "Luigi Caponaro",
+            "pageView": 1,
+            "total": 1928
+        },
+        {
+            "page": "Gennaro Moreno",
+            "pageView": 1,
+            "total": 1060
         },
         {
             "page": "Giovanni Bausan",
-            "pageView": 407
+            "pageView": 0,
+            "total": 409
         },
         {
             "page": "José Sanz de Villaragut",
-            "pageView": 188
+            "pageView": 0,
+            "total": 188
+        },
+        {
+            "page": "Bernardo (vescovo di Gaeta)",
+            "pageView": 0,
+            "total": 571
         }
     ]
 }

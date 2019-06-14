@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Marcello Boldrini",
-            "pageView": 25793
+            "pageView": 14,
+            "total": 25804
         },
         {
             "page": "Ines Donati",
-            "pageView": 15081
+            "pageView": 9,
+            "total": 15092
         },
         {
             "page": "Stefano Russo",
-            "pageView": 13626
+            "pageView": 8,
+            "total": 13639
         },
         {
             "page": "Libero Bigiaretti",
-            "pageView": 12181
-        },
-        {
-            "page": "Taleesa",
-            "pageView": 11844
+            "pageView": 8,
+            "total": 12193
         },
         {
             "page": "Cesare Procaccini",
-            "pageView": 10099
+            "pageView": 6,
+            "total": 10107
         },
         {
             "page": "Carlo Liberati",
-            "pageView": 8404
+            "pageView": 5,
+            "total": 8408
         },
         {
             "page": "Giancarlo Vecerrica",
-            "pageView": 7209
-        },
-        {
-            "page": "Stefania Tozzi",
-            "pageView": 2548
-        },
-        {
-            "page": "Placido Acquacotta",
-            "pageView": 2321
+            "pageView": 4,
+            "total": 7219
         },
         {
             "page": "Mattia Nazareni",
-            "pageView": 1968
+            "pageView": 3,
+            "total": 1971
         },
         {
-            "page": "Filippo Campanelli",
-            "pageView": 1894
+            "page": "Taleesa",
+            "pageView": 3,
+            "total": 11861
+        },
+        {
+            "page": "Stefania Tozzi",
+            "pageView": 2,
+            "total": 2548
         },
         {
             "page": "Enrico Pocognoni",
-            "pageView": 1848
+            "pageView": 2,
+            "total": 1848
+        },
+        {
+            "page": "Placido Acquacotta",
+            "pageView": 2,
+            "total": 2321
+        },
+        {
+            "page": "Filippo Campanelli",
+            "pageView": 2,
+            "total": 1894
         },
         {
             "page": "Egidio Sernicoli",
-            "pageView": 1463
-        },
-        {
-            "page": "Prospero Fedozzi",
-            "pageView": 1247
+            "pageView": 1,
+            "total": 1463
         },
         {
             "page": "Diego Pettinelli",
-            "pageView": 1116
+            "pageView": 1,
+            "total": 1119
+        },
+        {
+            "page": "Prospero Fedozzi",
+            "pageView": 1,
+            "total": 1247
         },
         {
             "page": "Raffaele Fidanza",
-            "pageView": 297
+            "pageView": 0,
+            "total": 297
         },
         {
             "page": "Luca di Paolo da Matelica",
-            "pageView": 245
+            "pageView": 0,
+            "total": 245
         }
     ]
 }

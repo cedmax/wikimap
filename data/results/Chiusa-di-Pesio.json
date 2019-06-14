@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Arnaldo Bagnasco",
-            "pageView": 11021
+            "pageView": 6,
+            "total": 11026
         },
         {
             "page": "Mario Baudino",
-            "pageView": 8353
-        },
-        {
-            "page": "Giuseppe Carle",
-            "pageView": 4212
+            "pageView": 5,
+            "total": 8355
         },
         {
             "page": "Antonio Carle",
-            "pageView": 3981
+            "pageView": 3,
+            "total": 3985
+        },
+        {
+            "page": "Giuseppe Carle",
+            "pageView": 3,
+            "total": 4216
         },
         {
             "page": "Tommaso Vallauri",
-            "pageView": 3821
-        },
-        {
-            "page": "Fatima Miris",
-            "pageView": 2995
+            "pageView": 3,
+            "total": 3822
         },
         {
             "page": "Pietro Marchisio",
-            "pageView": 1905
+            "pageView": 2,
+            "total": 1908
+        },
+        {
+            "page": "Fatima Miris",
+            "pageView": 2,
+            "total": 2995
         },
         {
             "page": "Andrea Giovanni Micheletti",
-            "pageView": 217
+            "pageView": 0,
+            "total": 218
         }
     ]
 }

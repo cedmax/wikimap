@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Giuseppe Jovinelli",
-            "pageView": 17645
+            "pageView": 10,
+            "total": 17653
         },
         {
             "page": "Valentino Di Cerbo",
-            "pageView": 9653
-        },
-        {
-            "page": "Irma Ciaramella",
-            "pageView": 5557
+            "pageView": 5,
+            "total": 9654
         },
         {
             "page": "Pietro Farina",
-            "pageView": 5331
-        },
-        {
-            "page": "Stefano Minicillo",
-            "pageView": 3988
+            "pageView": 3,
+            "total": 5332
         },
         {
             "page": "Aulo Atilio Calatino",
-            "pageView": 3877
+            "pageView": 3,
+            "total": 3880
         },
         {
-            "page": "Francesco Cicino",
-            "pageView": 2778
+            "page": "Irma Ciaramella",
+            "pageView": 3,
+            "total": 5563
+        },
+        {
+            "page": "Stefano Minicillo",
+            "pageView": 2,
+            "total": 3989
         },
         {
             "page": "Nicola Giannelli",
-            "pageView": 1904
+            "pageView": 2,
+            "total": 1904
         },
         {
             "page": "Nicola Covelli",
-            "pageView": 1817
+            "pageView": 2,
+            "total": 1817
+        },
+        {
+            "page": "Francesco Cicino",
+            "pageView": 2,
+            "total": 2779
         },
         {
             "page": "Giacomo de Luciis",
-            "pageView": 1351
+            "pageView": 1,
+            "total": 1351
         },
         {
             "page": "Vincenzo Severino",
-            "pageView": 504
+            "pageView": 0,
+            "total": 504
         }
     ]
 }

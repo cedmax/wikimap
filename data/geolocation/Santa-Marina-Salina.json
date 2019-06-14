@@ -1,0 +1,27 @@
+{
+    "id": "place.13250412008949210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Marina Salina",
+    "place_name": "Santa Marina Salina, Messina, Italy",
+    "bbox": [
+        14.845021,
+        38.534407,
+        14.87482,
+        38.577601
+    ],
+    "center": [
+        14.86667,
+        38.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86667,
+            38.56667
+        ]
+    }
+}

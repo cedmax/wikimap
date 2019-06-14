@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Arturo Aiello",
-            "pageView": 18424
+            "pageView": 14,
+            "total": 18443
         },
         {
             "page": "Giacomo Cirulli",
-            "pageView": 9271
-        },
-        {
-            "page": "Felice Cece",
-            "pageView": 6398
-        },
-        {
-            "page": "Giuseppe Porrino",
-            "pageView": 5971
-        },
-        {
-            "page": "Nicandro Izzo",
-            "pageView": 3037
-        },
-        {
-            "page": "Matteo Guido Sperandeo",
-            "pageView": 2719
-        },
-        {
-            "page": "Francesco Tommasiello",
-            "pageView": 2655
-        },
-        {
-            "page": "Giacomo Palombella",
-            "pageView": 2481
-        },
-        {
-            "page": "Bartolomeo d'Avanzo",
-            "pageView": 2346
+            "pageView": 10,
+            "total": 9273
         },
         {
             "page": "Luigi Mele",
-            "pageView": 1955
+            "pageView": 4,
+            "total": 1958
         },
         {
-            "page": "Nicola Cotecchia",
-            "pageView": 1747
+            "page": "Giuseppe Porrino",
+            "pageView": 4,
+            "total": 5975
         },
         {
-            "page": "Calogero Licata",
-            "pageView": 1165
+            "page": "Felice Cece",
+            "pageView": 4,
+            "total": 6404
         },
         {
-            "page": "Amedeo Mandara",
-            "pageView": 1067
+            "page": "Francesco Tommasiello",
+            "pageView": 3,
+            "total": 2657
+        },
+        {
+            "page": "Bartolomeo d'Avanzo",
+            "pageView": 2,
+            "total": 2347
+        },
+        {
+            "page": "Nicandro Izzo",
+            "pageView": 2,
+            "total": 3039
+        },
+        {
+            "page": "Giacomo Palombella",
+            "pageView": 2,
+            "total": 2483
+        },
+        {
+            "page": "Matteo Guido Sperandeo",
+            "pageView": 2,
+            "total": 2721
         },
         {
             "page": "Vincenzo Bonaventura Medori",
-            "pageView": 1007
+            "pageView": 1,
+            "total": 1007
+        },
+        {
+            "page": "Amedeo Mandara",
+            "pageView": 1,
+            "total": 1068
         },
         {
             "page": "Albino Pella",
-            "pageView": 959
-        },
-        {
-            "page": "Giuseppe Marcozzi",
-            "pageView": 949
-        },
-        {
-            "page": "Giacinto Tamburini",
-            "pageView": 917
-        },
-        {
-            "page": "Nicola Sterlini",
-            "pageView": 838
+            "pageView": 1,
+            "total": 960
         },
         {
             "page": "Alfonso Maria Giordano",
-            "pageView": 781
+            "pageView": 1,
+            "total": 782
+        },
+        {
+            "page": "Nicola Sterlini",
+            "pageView": 1,
+            "total": 838
+        },
+        {
+            "page": "Giacinto Tamburini",
+            "pageView": 1,
+            "total": 917
+        },
+        {
+            "page": "Calogero Licata",
+            "pageView": 1,
+            "total": 1167
+        },
+        {
+            "page": "Nicola Cotecchia",
+            "pageView": 1,
+            "total": 1747
+        },
+        {
+            "page": "Giuseppe Marcozzi",
+            "pageView": 1,
+            "total": 949
         }
     ]
 }

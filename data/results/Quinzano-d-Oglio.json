@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giovanni Azzini",
-            "pageView": 6778
-        },
-        {
-            "page": "Gabriele Mario Piozzi",
-            "pageView": 2956
-        },
-        {
-            "page": "Otello Torri",
-            "pageView": 2924
-        },
-        {
-            "page": "Giulio Valotti",
-            "pageView": 2399
+            "pageView": 4,
+            "total": 6779
         },
         {
             "page": "Giovanni Francesco Conti",
-            "pageView": 1755
+            "pageView": 2,
+            "total": 1756
         },
         {
-            "page": "Attilio Torresani",
-            "pageView": 1744
+            "page": "Gabriele Mario Piozzi",
+            "pageView": 2,
+            "total": 2958
         },
         {
-            "page": "Vittorio Sora",
-            "pageView": 1688
+            "page": "Otello Torri",
+            "pageView": 2,
+            "total": 2924
+        },
+        {
+            "page": "Giulio Valotti",
+            "pageView": 2,
+            "total": 2402
         },
         {
             "page": "Carlo Bossini",
-            "pageView": 1282
+            "pageView": 1,
+            "total": 1283
+        },
+        {
+            "page": "Vittorio Sora",
+            "pageView": 1,
+            "total": 1688
+        },
+        {
+            "page": "Attilio Torresani",
+            "pageView": 1,
+            "total": 1745
         }
     ]
 }

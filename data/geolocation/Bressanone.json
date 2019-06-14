@@ -1,0 +1,29 @@
+{
+    "id": "place.17814906153546770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Bressanone - Brixen",
+    "place_name": "Bressanone - Brixen, Bolzano, Italy",
+    "matching_text": "Bressanone",
+    "matching_place_name": "Bressanone, Bolzano, Italy",
+    "bbox": [
+        11.584439,
+        46.657764,
+        11.793709,
+        46.748392
+    ],
+    "center": [
+        11.65,
+        46.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.65,
+            46.71667
+        ]
+    }
+}

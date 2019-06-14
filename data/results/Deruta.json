@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Papa Urbano IV",
-            "pageView": 46008
+            "pageView": 30,
+            "total": 46035
         },
         {
             "page": "Claudio Valigi",
-            "pageView": 21157
-        },
-        {
-            "page": "Mario Goretti (calciatore)",
-            "pageView": 7109
+            "pageView": 11,
+            "total": 21165
         },
         {
             "page": "Rufino Niccacci",
-            "pageView": 6319
+            "pageView": 4,
+            "total": 6320
+        },
+        {
+            "page": "Mario Goretti (calciatore)",
+            "pageView": 4,
+            "total": 7117
         },
         {
             "page": "Girolamo Diruta",
-            "pageView": 4974
-        },
-        {
-            "page": "Giulio Cozzari",
-            "pageView": 2520
+            "pageView": 3,
+            "total": 4975
         },
         {
             "page": "Alpinolo Magnini",
-            "pageView": 2099
+            "pageView": 2,
+            "total": 2101
         },
         {
-            "page": "Napoleone Comitoli",
-            "pageView": 2060
+            "page": "Giulio Cozzari",
+            "pageView": 2,
+            "total": 2520
         },
         {
             "page": "Francesco Briganti",
-            "pageView": 2054
-        },
-        {
-            "page": "Ugolino Nicolini",
-            "pageView": 2032
+            "pageView": 2,
+            "total": 2054
         },
         {
             "page": "Angelo Micheletti (ceramista)",
-            "pageView": 1942
+            "pageView": 2,
+            "total": 1943
+        },
+        {
+            "page": "Ugolino Nicolini",
+            "pageView": 2,
+            "total": 2032
+        },
+        {
+            "page": "Napoleone Comitoli",
+            "pageView": 2,
+            "total": 2060
         }
     ]
 }

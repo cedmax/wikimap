@@ -2,100 +2,124 @@
     "name": "Mesagne",
     "people": [
         {
-            "page": "Antonio D'Amico (stilista)",
-            "pageView": 259538
-        },
-        {
             "page": "Giovanni Messe",
-            "pageView": 120990
+            "pageView": 79,
+            "total": 121075
         },
         {
-            "page": "Archimede Morleo",
-            "pageView": 66861
-        },
-        {
-            "page": "Giuseppe Rogoli",
-            "pageView": 64755
+            "page": "Antonio D'Amico (stilista)",
+            "pageView": 56,
+            "total": 259618
         },
         {
             "page": "Luigi Maria Epicoco",
-            "pageView": 57935
+            "pageView": 56,
+            "total": 57974
+        },
+        {
+            "page": "Giuseppe Rogoli",
+            "pageView": 40,
+            "total": 64799
+        },
+        {
+            "page": "Archimede Morleo",
+            "pageView": 31,
+            "total": 66907
         },
         {
             "page": "Leonardo Perez",
-            "pageView": 38638
+            "pageView": 21,
+            "total": 38655
         },
         {
             "page": "Carlo Molfetta",
-            "pageView": 33171
-        },
-        {
-            "page": "Vanessa Scalera",
-            "pageView": 30269
+            "pageView": 17,
+            "total": 33214
         },
         {
             "page": "Nicola Prudente",
-            "pageView": 28752
+            "pageView": 13,
+            "total": 28759
         },
         {
             "page": "Luigi Falcone",
-            "pageView": 23340
+            "pageView": 12,
+            "total": 23346
+        },
+        {
+            "page": "Vanessa Scalera",
+            "pageView": 9,
+            "total": 30280
         },
         {
             "page": "Francesco Campana (criminale)",
-            "pageView": 14420
+            "pageView": 9,
+            "total": 14429
         },
         {
             "page": "Alessandro Santoro",
-            "pageView": 11644
-        },
-        {
-            "page": "Epifanio Ferdinando",
-            "pageView": 4759
-        },
-        {
-            "page": "Armando Franco",
-            "pageView": 4628
+            "pageView": 6,
+            "total": 11651
         },
         {
             "page": "Giovanni Castriota Granai",
-            "pageView": 4188
+            "pageView": 3,
+            "total": 4190
         },
         {
-            "page": "Giovan Francesco Maia Materdona",
-            "pageView": 3443
+            "page": "Armando Franco",
+            "pageView": 3,
+            "total": 4629
+        },
+        {
+            "page": "Epifanio Ferdinando",
+            "pageView": 3,
+            "total": 4759
         },
         {
             "page": "Giampaolo Papi",
-            "pageView": 2865
-        },
-        {
-            "page": "Giovanni Luca Aresta",
-            "pageView": 2012
+            "pageView": 2,
+            "total": 2869
         },
         {
             "page": "Pasquale Camassa",
-            "pageView": 1958
+            "pageView": 2,
+            "total": 1958
         },
         {
-            "page": "Giovanni Battista Labanchi",
-            "pageView": 1591
-        },
-        {
-            "page": "Santo Semeraro",
-            "pageView": 1590
-        },
-        {
-            "page": "Francesco Muscogiuri",
-            "pageView": 1548
+            "page": "Giovan Francesco Maia Materdona",
+            "pageView": 2,
+            "total": 3444
         },
         {
             "page": "Augusta Costanza Succi",
-            "pageView": 1161
+            "pageView": 1,
+            "total": 1164
         },
         {
             "page": "Mara Nimis",
-            "pageView": 1088
+            "pageView": 1,
+            "total": 1089
+        },
+        {
+            "page": "Giovanni Battista Labanchi",
+            "pageView": 1,
+            "total": 1591
+        },
+        {
+            "page": "Francesco Muscogiuri",
+            "pageView": 1,
+            "total": 1548
+        },
+        {
+            "page": "Santo Semeraro",
+            "pageView": 1,
+            "total": 1590
+        },
+        {
+            "page": "Giovanni Luca Aresta",
+            "pageView": 0,
+            "total": 2017
         }
     ]
 }

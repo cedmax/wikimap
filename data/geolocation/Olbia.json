@@ -1,0 +1,27 @@
+{
+    "id": "place.12752890674662160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olbia",
+    "place_name": "Olbia, Olbia-Tempio, Italy",
+    "bbox": [
+        9.348283,
+        40.732039,
+        9.779245,
+        41.058635
+    ],
+    "center": [
+        9.5,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.5,
+            40.91667
+        ]
+    }
+}

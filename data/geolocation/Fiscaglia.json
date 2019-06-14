@@ -1,0 +1,27 @@
+{
+    "id": "place.10285630208719490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiscaglia",
+    "place_name": "Fiscaglia, Ferrara, Italy",
+    "bbox": [
+        11.889153,
+        44.746558,
+        12.113702,
+        44.83651
+    ],
+    "center": [
+        11.93472,
+        44.77083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93472,
+            44.77083
+        ]
+    }
+}

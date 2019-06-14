@@ -1,0 +1,27 @@
+{
+    "id": "place.10368463385864920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castell'Alfero",
+    "place_name": "Castell'Alfero, Asti, Italy",
+    "bbox": [
+        8.158957,
+        44.955998,
+        8.244727,
+        45.007388
+    ],
+    "center": [
+        8.21167,
+        44.98222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.21167,
+            44.98222
+        ]
+    }
+}

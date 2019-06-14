@@ -1,0 +1,27 @@
+{
+    "id": "place.9079798623093140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riccione",
+    "place_name": "Riccione, Rimini, Italy",
+    "bbox": [
+        12.602132,
+        43.973308,
+        12.688665,
+        44.025316
+    ],
+    "center": [
+        12.65,
+        44
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            44
+        ]
+    }
+}

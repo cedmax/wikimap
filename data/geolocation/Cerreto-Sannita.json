@@ -1,0 +1,27 @@
+{
+    "id": "place.6262894726606150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerreto Sannita",
+    "place_name": "Cerreto Sannita, Benevento, Italy",
+    "bbox": [
+        14.537806,
+        41.264738,
+        14.624822,
+        41.329988
+    ],
+    "center": [
+        14.55972,
+        41.28528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55972,
+            41.28528
+        ]
+    }
+}

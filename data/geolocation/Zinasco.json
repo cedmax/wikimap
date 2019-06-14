@@ -1,0 +1,27 @@
+{
+    "id": "place.14613487089212670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zinasco",
+    "place_name": "Zinasco, Pavia, Italy",
+    "bbox": [
+        8.981915,
+        45.071808,
+        9.064219,
+        45.15281
+    ],
+    "center": [
+        9.05,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.05,
+            45.13333
+        ]
+    }
+}

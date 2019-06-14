@@ -1,0 +1,27 @@
+{
+    "id": "place.9244550779265520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontecorvo",
+    "place_name": "Pontecorvo, Frosinone, Italy",
+    "bbox": [
+        13.552828,
+        41.400311,
+        13.739617,
+        41.50468
+    ],
+    "center": [
+        13.6676,
+        41.4626
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6676,
+            41.4626
+        ]
+    }
+}

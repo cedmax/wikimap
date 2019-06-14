@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Giuseppe Amisani",
-            "pageView": 12437
+            "pageView": 7,
+            "total": 12441
         },
         {
             "page": "Franco Magnani (generale)",
-            "pageView": 9951
+            "pageView": 5,
+            "total": 9959
         },
         {
             "page": "Giuseppe Aldo di Ricaldone",
-            "pageView": 4206
-        },
-        {
-            "page": "Gaetano D'Amico",
-            "pageView": 3756
+            "pageView": 3,
+            "total": 4210
         },
         {
             "page": "Cesare Campagnoli",
-            "pageView": 3620
+            "pageView": 2,
+            "total": 3622
+        },
+        {
+            "page": "Gaetano D'Amico",
+            "pageView": 2,
+            "total": 3759
         },
         {
             "page": "Marco Maggioni",
-            "pageView": 3406
-        },
-        {
-            "page": "Gaspare Cavallini",
-            "pageView": 1631
+            "pageView": 2,
+            "total": 3408
         },
         {
             "page": "Gaetano Calvi",
-            "pageView": 1157
+            "pageView": 1,
+            "total": 1157
+        },
+        {
+            "page": "Gaspare Cavallini",
+            "pageView": 1,
+            "total": 1631
         },
         {
             "page": "Francesco Soliano",
-            "pageView": 500
+            "pageView": 0,
+            "total": 501
         }
     ]
 }

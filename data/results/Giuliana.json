@@ -2,44 +2,54 @@
     "name": "Giuliana",
     "people": [
         {
-            "page": "Giacomo Santoro",
-            "pageView": 4525
-        },
-        {
             "page": "Eleonora d'Aragona (1346-1405)",
-            "pageView": 3743
+            "pageView": 2,
+            "total": 3751
         },
         {
             "page": "Giuseppe Altamore",
-            "pageView": 2857
+            "pageView": 2,
+            "total": 2859
         },
         {
             "page": "Ferdinando Russo (politico 1930)",
-            "pageView": 2439
+            "pageView": 2,
+            "total": 2441
+        },
+        {
+            "page": "Giacomo Santoro",
+            "pageView": 2,
+            "total": 4528
         },
         {
             "page": "Gerlando Marsiglia",
-            "pageView": 1817
+            "pageView": 1,
+            "total": 1818
         },
         {
             "page": "Giuseppe Tomasini (poeta)",
-            "pageView": 944
+            "pageView": 1,
+            "total": 945
         },
         {
             "page": "Simone Napoli da Calascibetta",
-            "pageView": 776
+            "pageView": 0,
+            "total": 776
         },
         {
             "page": "Glorietta Restivo",
-            "pageView": 637
+            "pageView": 0,
+            "total": 638
         },
         {
             "page": "Antonio Ferraro (pittore)",
-            "pageView": 426
+            "pageView": 0,
+            "total": 426
         },
         {
             "page": "Orazio Ferraro",
-            "pageView": 338
+            "pageView": 0,
+            "total": 339
         }
     ]
 }

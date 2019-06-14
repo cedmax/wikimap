@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Augusto Perfetti",
-            "pageView": 63741
+            "pageView": 41,
+            "total": 63779
         },
         {
             "page": "Moreno Ferrario",
-            "pageView": 44217
+            "pageView": 28,
+            "total": 44240
         },
         {
             "page": "Ezio Sancrotti",
-            "pageView": 11077
+            "pageView": 6,
+            "total": 11080
         },
         {
             "page": "Gimax",
-            "pageView": 8168
-        },
-        {
-            "page": "Ernesto Veronelli",
-            "pageView": 3148
-        },
-        {
-            "page": "Virgilio Salimbeni",
-            "pageView": 2971
+            "pageView": 5,
+            "total": 8173
         },
         {
             "page": "Alfonsa Clerici",
-            "pageView": 2622
+            "pageView": 2,
+            "total": 2625
         },
         {
-            "page": "Oreste Perfetti",
-            "pageView": 1366
+            "page": "Virgilio Salimbeni",
+            "pageView": 2,
+            "total": 2972
+        },
+        {
+            "page": "Ernesto Veronelli",
+            "pageView": 2,
+            "total": 3148
         },
         {
             "page": "Mario Della Foglia",
-            "pageView": 992
+            "pageView": 1,
+            "total": 993
+        },
+        {
+            "page": "Oreste Perfetti",
+            "pageView": 1,
+            "total": 1366
         },
         {
             "page": "Pietro Gamba (fumettista)",
-            "pageView": 830
+            "pageView": 0,
+            "total": 833
         }
     ]
 }

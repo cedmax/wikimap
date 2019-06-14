@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Ottone Brentari",
-            "pageView": 4915
-        },
-        {
-            "page": "Mario Venzo",
-            "pageView": 3510
+            "pageView": 3,
+            "total": 4917
         },
         {
             "page": "Giulio Cisco",
-            "pageView": 2171
+            "pageView": 2,
+            "total": 2172
+        },
+        {
+            "page": "Mario Venzo",
+            "pageView": 2,
+            "total": 3510
         }
     ]
 }

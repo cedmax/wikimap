@@ -1,0 +1,27 @@
+{
+    "id": "place.7849624979851530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tavernerio",
+    "place_name": "Tavernerio, Como, Italy",
+    "bbox": [
+        9.116041,
+        45.786532,
+        9.162454,
+        45.838447
+    ],
+    "center": [
+        9.15,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15,
+            45.8
+        ]
+    }
+}

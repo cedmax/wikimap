@@ -1,0 +1,27 @@
+{
+    "id": "place.14077006943490490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salgareda",
+    "place_name": "Salgareda, Treviso, Italy",
+    "bbox": [
+        12.462512,
+        45.679057,
+        12.578257,
+        45.727887
+    ],
+    "center": [
+        12.4913,
+        45.7061
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4913,
+            45.7061
+        ]
+    }
+}

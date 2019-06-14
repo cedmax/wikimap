@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Luca Ricci (calciatore)",
-            "pageView": 22916
+            "pageView": 13,
+            "total": 22931
         },
         {
             "page": "Bernardo Dovizi da Bibbiena",
-            "pageView": 16788
+            "pageView": 11,
+            "total": 16803
         },
         {
             "page": "Giovanni Bartolucci",
-            "pageView": 11922
-        },
-        {
-            "page": "Pasquale Poccianti",
-            "pageView": 10559
-        },
-        {
-            "page": "Francesco Mazzoni",
-            "pageView": 9856
+            "pageView": 7,
+            "total": 11926
         },
         {
             "page": "Luigi Biggeri",
-            "pageView": 9132
+            "pageView": 6,
+            "total": 9133
+        },
+        {
+            "page": "Francesco Mazzoni",
+            "pageView": 6,
+            "total": 9861
         },
         {
             "page": "Gino Tellini",
-            "pageView": 8830
+            "pageView": 5,
+            "total": 8834
+        },
+        {
+            "page": "Pasquale Poccianti",
+            "pageView": 5,
+            "total": 10564
         },
         {
             "page": "Giovanni Giovannini",
-            "pageView": 6611
+            "pageView": 4,
+            "total": 6616
         },
         {
             "page": "Maria Corsini",
-            "pageView": 6331
+            "pageView": 4,
+            "total": 6335
         },
         {
             "page": "Daniele Chiarini",
-            "pageView": 5207
-        },
-        {
-            "page": "Andrea Rossi (pallavolista 1989)",
-            "pageView": 4106
+            "pageView": 3,
+            "total": 5209
         },
         {
             "page": "Giovanni Maria Galli da Bibbiena",
-            "pageView": 3705
+            "pageView": 2,
+            "total": 3706
         },
         {
             "page": "Giuseppe Borghi",
-            "pageView": 3346
+            "pageView": 2,
+            "total": 3348
+        },
+        {
+            "page": "Andrea Rossi (pallavolista 1989)",
+            "pageView": 2,
+            "total": 4109
         },
         {
             "page": "Alberto Micheli Pellegrini",
-            "pageView": 2136
+            "pageView": 2,
+            "total": 2137
         },
         {
             "page": "Sebastiano Calderini",
-            "pageView": 1503
+            "pageView": 1,
+            "total": 1503
         },
         {
             "page": "Gian Pietro Marcucci Poltri",
-            "pageView": 1382
-        },
-        {
-            "page": "Mietta Baracchi Bavagnoli",
-            "pageView": 520
-        },
-        {
-            "page": "Valdo Vannucci",
-            "pageView": 346
+            "pageView": 1,
+            "total": 1382
         },
         {
             "page": "Carlo Ippolito Migliorini",
-            "pageView": 319
+            "pageView": 0,
+            "total": 319
+        },
+        {
+            "page": "Mietta Baracchi Bavagnoli",
+            "pageView": 0,
+            "total": 525
+        },
+        {
+            "page": "Valdo Vannucci",
+            "pageView": 0,
+            "total": 346
         }
     ]
 }

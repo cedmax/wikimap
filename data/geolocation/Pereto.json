@@ -1,0 +1,27 @@
+{
+    "id": "place.14949090528290970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pereto",
+    "place_name": "Pereto, L'Aquila, Italy",
+    "bbox": [
+        13.062405,
+        42.012499,
+        13.187085,
+        42.078029
+    ],
+    "center": [
+        13.10222,
+        42.06
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.10222,
+            42.06
+        ]
+    }
+}

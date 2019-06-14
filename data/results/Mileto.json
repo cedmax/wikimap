@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Natuzza Evolo",
-            "pageView": 338062
+            "pageView": 175,
+            "total": 338274
         },
         {
             "page": "Ruggero II di Sicilia",
-            "pageView": 192331
+            "pageView": 130,
+            "total": 192470
         },
         {
             "page": "Ruggero I di Sicilia",
-            "pageView": 125258
+            "pageView": 82,
+            "total": 125337
         },
         {
             "page": "Simone di Sicilia",
-            "pageView": 11898
+            "pageView": 7,
+            "total": 11907
         },
         {
             "page": "Luigi Renzo",
-            "pageView": 10270
-        },
-        {
-            "page": "Francesco Alidosi",
-            "pageView": 7051
+            "pageView": 6,
+            "total": 10280
         },
         {
             "page": "Andrea della Valle (cardinale)",
-            "pageView": 5966
+            "pageView": 4,
+            "total": 5971
         },
         {
-            "page": "Fileno Briganti",
-            "pageView": 5274
-        },
-        {
-            "page": "Enrico Nicodemo",
-            "pageView": 4939
+            "page": "Francesco Alidosi",
+            "pageView": 4,
+            "total": 7053
         },
         {
             "page": "Innico d'Avalos d'Aragona",
-            "pageView": 4415
+            "pageView": 3,
+            "total": 4418
         },
         {
-            "page": "Eremburga di Mortain",
-            "pageView": 3545
+            "page": "Enrico Nicodemo",
+            "pageView": 3,
+            "total": 4942
         },
         {
-            "page": "Saba Malaspina",
-            "pageView": 3484
-        },
-        {
-            "page": "Vincenzo De Chiara",
-            "pageView": 3270
+            "page": "Fileno Briganti",
+            "pageView": 3,
+            "total": 5281
         },
         {
             "page": "Giuseppe Occhiato",
-            "pageView": 3100
-        },
-        {
-            "page": "Astorgio Agnesi",
-            "pageView": 3083
-        },
-        {
-            "page": "Domenico Tarcisio Cortese",
-            "pageView": 2920
-        },
-        {
-            "page": "Felice Centini",
-            "pageView": 2717
-        },
-        {
-            "page": "Giandomenico Martoretta",
-            "pageView": 2644
+            "pageView": 2,
+            "total": 3103
         },
         {
             "page": "Paolo Albera (vescovo)",
-            "pageView": 2554
+            "pageView": 2,
+            "total": 2556
+        },
+        {
+            "page": "Astorgio Agnesi",
+            "pageView": 2,
+            "total": 3083
+        },
+        {
+            "page": "Eremburga di Mortain",
+            "pageView": 2,
+            "total": 3549
+        },
+        {
+            "page": "Saba Malaspina",
+            "pageView": 2,
+            "total": 3486
         },
         {
             "page": "Giambattista Leni",
-            "pageView": 2204
+            "pageView": 2,
+            "total": 2205
         },
         {
-            "page": "Maurizio Centini",
-            "pageView": 1969
+            "page": "Vincenzo De Chiara",
+            "pageView": 2,
+            "total": 3273
         },
         {
-            "page": "Giuseppe Morabito (arcivescovo)",
-            "pageView": 1714
+            "page": "Felice Centini",
+            "pageView": 2,
+            "total": 2719
         },
         {
-            "page": "Giovanni Francesco Savaro",
-            "pageView": 1436
+            "page": "Giandomenico Martoretta",
+            "pageView": 2,
+            "total": 2646
+        },
+        {
+            "page": "Domenico Tarcisio Cortese",
+            "pageView": 2,
+            "total": 2921
         },
         {
             "page": "Corrado Caraccioli",
-            "pageView": 1420
+            "pageView": 1,
+            "total": 1420
         },
         {
-            "page": "Nicola Lombardi (politico)",
-            "pageView": 639
+            "page": "Giovanni Francesco Savaro",
+            "pageView": 1,
+            "total": 1437
+        },
+        {
+            "page": "Giuseppe Morabito (arcivescovo)",
+            "pageView": 1,
+            "total": 1716
+        },
+        {
+            "page": "Maurizio Centini",
+            "pageView": 1,
+            "total": 1971
         },
         {
             "page": "Gregorio Panzani",
-            "pageView": 452
+            "pageView": 0,
+            "total": 454
+        },
+        {
+            "page": "Nicola Lombardi (politico)",
+            "pageView": 0,
+            "total": 640
         },
         {
             "page": "Luigi Carvelli",
-            "pageView": 222
+            "pageView": 0,
+            "total": 225
         }
     ]
 }

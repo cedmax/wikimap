@@ -1,0 +1,27 @@
+{
+    "id": "place.6424646979878410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafranca Sicula",
+    "place_name": "Villafranca Sicula, Agrigento, Italy",
+    "bbox": [
+        13.258605,
+        37.53275,
+        13.305642,
+        37.593704
+    ],
+    "center": [
+        13.29,
+        37.58917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29,
+            37.58917
+        ]
+    }
+}

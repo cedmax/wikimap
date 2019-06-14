@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Giovanni Andrea Bertanza",
-            "pageView": 2759
+            "pageView": 2,
+            "total": 2763
         },
         {
             "page": "Vojmir Tedoldi",
-            "pageView": 725
+            "pageView": 0,
+            "total": 726
         }
     ]
 }

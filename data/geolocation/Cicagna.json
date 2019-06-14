@@ -1,0 +1,27 @@
+{
+    "id": "place.16688712649021450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cicagna",
+    "place_name": "Cicagna, Genova, Italy",
+    "bbox": [
+        9.197705,
+        44.392097,
+        9.269181,
+        44.420552
+    ],
+    "center": [
+        9.23633,
+        44.40854
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23633,
+            44.40854
+        ]
+    }
+}

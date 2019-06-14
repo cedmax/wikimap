@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Alessandro Benvenuti",
-            "pageView": 257691
+            "pageView": 125,
+            "total": 257813
         },
         {
             "page": "Dino Pieraccioni",
-            "pageView": 7788
-        },
-        {
-            "page": "Luigi Gori",
-            "pageView": 6888
+            "pageView": 5,
+            "total": 7794
         },
         {
             "page": "Nada Giorgi",
-            "pageView": 6735
+            "pageView": 4,
+            "total": 6738
+        },
+        {
+            "page": "Luigi Gori",
+            "pageView": 4,
+            "total": 6898
         },
         {
             "page": "Monica Bettoni Brandani",
-            "pageView": 5159
-        },
-        {
-            "page": "Bartolomeo Berecci",
-            "pageView": 3383
-        },
-        {
-            "page": "Lapo Saltarelli",
-            "pageView": 2362
-        },
-        {
-            "page": "Numa Pompilio Tanzini",
-            "pageView": 1937
-        },
-        {
-            "page": "Virgilio Verdaro",
-            "pageView": 1738
+            "pageView": 3,
+            "total": 5164
         },
         {
             "page": "Dodi Moscati",
-            "pageView": 1647
+            "pageView": 3,
+            "total": 1649
+        },
+        {
+            "page": "Virgilio Verdaro",
+            "pageView": 2,
+            "total": 1739
+        },
+        {
+            "page": "Bartolomeo Berecci",
+            "pageView": 2,
+            "total": 3383
+        },
+        {
+            "page": "Lapo Saltarelli",
+            "pageView": 2,
+            "total": 2365
+        },
+        {
+            "page": "Numa Pompilio Tanzini",
+            "pageView": 2,
+            "total": 1938
         }
     ]
 }

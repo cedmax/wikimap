@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Davide Garbolino",
-            "pageView": 141216
+            "pageView": 92,
+            "total": 141318
         },
         {
             "page": "Giovanni Maria Flick",
-            "pageView": 86863
+            "pageView": 39,
+            "total": 86910
         },
         {
             "page": "Franco Semioli",
-            "pageView": 64248
+            "pageView": 38,
+            "total": 64287
         },
         {
             "page": "Mattia Aramu",
-            "pageView": 47760
+            "pageView": 27.5,
+            "total": 47781
         },
         {
             "page": "Ivano Della Morte",
-            "pageView": 24251
+            "pageView": 15,
+            "total": 24260
         },
         {
             "page": "Marco Chiosa",
-            "pageView": 24064
-        },
-        {
-            "page": "Celestino Vietti",
-            "pageView": 23887
-        },
-        {
-            "page": "Michela Franco",
-            "pageView": 19494
+            "pageView": 13,
+            "total": 24069
         },
         {
             "page": "Ugo Riccarelli",
-            "pageView": 18982
+            "pageView": 10,
+            "total": 18988
         },
         {
             "page": "Pietro Gazzera",
-            "pageView": 15406
-        },
-        {
-            "page": "Giovanni Brunero",
-            "pageView": 13646
+            "pageView": 10,
+            "total": 15411
         },
         {
             "page": "Azio Corghi",
-            "pageView": 11588
+            "pageView": 7,
+            "total": 11592
         },
         {
-            "page": "Celio Secondo Curione",
-            "pageView": 6126
+            "page": "Giovanni Brunero",
+            "pageView": 7,
+            "total": 13666
+        },
+        {
+            "page": "Michela Franco",
+            "pageView": 6,
+            "total": 19528
         },
         {
             "page": "Eva Ricca",
-            "pageView": 6022
+            "pageView": 5,
+            "total": 6023
         },
         {
             "page": "Gian Paolo Brizio",
-            "pageView": 5839
+            "pageView": 4,
+            "total": 5841
         },
         {
-            "page": "Marco Aleotti",
-            "pageView": 4695
-        },
-        {
-            "page": "Luigi Bairo",
-            "pageView": 3871
+            "page": "Celio Secondo Curione",
+            "pageView": 4,
+            "total": 6127
         },
         {
             "page": "Lodovica Braida",
-            "pageView": 3819
+            "pageView": 3,
+            "total": 3822
         },
         {
-            "page": "Sara Malara",
-            "pageView": 2400
+            "page": "Luigi Bairo",
+            "pageView": 3,
+            "total": 3871
         },
         {
-            "page": "Silvio Ortona",
-            "pageView": 2329
+            "page": "Marco Aleotti",
+            "pageView": 3,
+            "total": 4696
         },
         {
             "page": "Biagio Augusto Zaffiri",
-            "pageView": 2241
+            "pageView": 2,
+            "total": 2241
         },
         {
-            "page": "Giada Nicco",
-            "pageView": 1908
+            "page": "Sara Malara",
+            "pageView": 2,
+            "total": 2404
         },
         {
             "page": "Rinaldo Pretti",
-            "pageView": 1882
+            "pageView": 2,
+            "total": 1882
+        },
+        {
+            "page": "Silvio Ortona",
+            "pageView": 2,
+            "total": 2330
+        },
+        {
+            "page": "Giada Nicco",
+            "pageView": 1,
+            "total": 1910
         },
         {
             "page": "Secondo Martinetto",
-            "pageView": 1749
+            "pageView": 1,
+            "total": 1750
+        },
+        {
+            "page": "Celestino Vietti",
+            "pageView": 0,
+            "total": 23911
         }
     ]
 }

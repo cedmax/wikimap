@@ -1,0 +1,27 @@
+{
+    "id": "place.15692350064032650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sestri Levante",
+    "place_name": "Sestri Levante, Genova, Italy",
+    "bbox": [
+        9.384464,
+        44.23798,
+        9.472459,
+        44.326266
+    ],
+    "center": [
+        9.39324,
+        44.27333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.39324,
+            44.27333
+        ]
+    }
+}

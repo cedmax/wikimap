@@ -1,0 +1,27 @@
+{
+    "id": "place.16392913280295560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chieri",
+    "place_name": "Chieri, Torino, Italy",
+    "bbox": [
+        7.775462,
+        44.951339,
+        7.888466,
+        45.061942
+    ],
+    "center": [
+        7.81667,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.81667,
+            45.01667
+        ]
+    }
+}

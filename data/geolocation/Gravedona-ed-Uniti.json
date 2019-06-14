@@ -1,0 +1,27 @@
+{
+    "id": "place.4311419066949570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gravedona ed Uniti",
+    "place_name": "Gravedona ed Uniti, Como, Italy",
+    "bbox": [
+        9.120964,
+        46.127262,
+        9.322149,
+        46.191805
+    ],
+    "center": [
+        9.3,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3,
+            46.15
+        ]
+    }
+}

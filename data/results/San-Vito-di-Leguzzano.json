@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Claudio Clementi",
-            "pageView": 7916
+            "pageView": 5,
+            "total": 7961
         },
         {
             "page": "Vincenzo Mercante",
-            "pageView": 1711
+            "pageView": 1,
+            "total": 1711
         },
         {
             "page": "Giovanni Roncon",
-            "pageView": 47
+            "pageView": 0,
+            "total": 47
         }
     ]
 }

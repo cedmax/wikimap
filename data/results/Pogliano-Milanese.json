@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Patrizia Toia",
-            "pageView": 47286
+            "pageView": 20,
+            "total": 47319
         },
         {
             "page": "Francesco Paleari",
-            "pageView": 3111
-        },
-        {
-            "page": "Roberto Visconti",
-            "pageView": 2763
+            "pageView": 2,
+            "total": 3111
         },
         {
             "page": "Anselmo Ronchetti",
-            "pageView": 2605
+            "pageView": 2,
+            "total": 2605
+        },
+        {
+            "page": "Roberto Visconti",
+            "pageView": 2,
+            "total": 2763
         }
     ]
 }

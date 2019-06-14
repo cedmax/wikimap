@@ -1,0 +1,27 @@
+{
+    "id": "place.8777259259541940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morbegno",
+    "place_name": "Morbegno, Sondrio, Italy",
+    "bbox": [
+        9.557169,
+        46.104585,
+        9.630603,
+        46.154675
+    ],
+    "center": [
+        9.56667,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56667,
+            46.13333
+        ]
+    }
+}

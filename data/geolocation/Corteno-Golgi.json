@@ -1,0 +1,27 @@
+{
+    "id": "place.15845971894463330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corteno Golgi",
+    "place_name": "Corteno Golgi, Brescia, Italy",
+    "bbox": [
+        10.159184,
+        46.079891,
+        10.299274,
+        46.192003
+    ],
+    "center": [
+        10.24444,
+        46.16694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.24444,
+            46.16694
+        ]
+    }
+}

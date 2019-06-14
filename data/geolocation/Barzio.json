@@ -1,0 +1,21 @@
+{
+    "id": "poi.214748366042",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Barzio",
+    "place_name": "Barzio, Barzio, Lecco 23816, Italy",
+    "center": [
+        9.4674875,
+        45.94399799999999
+    ],
+    "geometry": {
+        "coordinates": [
+            9.4674875,
+            45.94399799999999
+        ],
+        "type": "Point"
+    }
+}

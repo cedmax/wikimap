@@ -1,0 +1,27 @@
+{
+    "id": "place.10641085829746890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spinea",
+    "place_name": "Spinea, Venezia, Italy",
+    "bbox": [
+        12.124401,
+        45.467625,
+        12.182009,
+        45.518205
+    ],
+    "center": [
+        12.15,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.15,
+            45.5
+        ]
+    }
+}

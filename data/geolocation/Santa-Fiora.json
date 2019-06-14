@@ -1,0 +1,27 @@
+{
+    "id": "place.6982150333446280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Fiora",
+    "place_name": "Santa Fiora, Grosseto, Italy",
+    "bbox": [
+        11.532666,
+        42.768702,
+        11.637156,
+        42.881631
+    ],
+    "center": [
+        11.58528,
+        42.83194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58528,
+            42.83194
+        ]
+    }
+}

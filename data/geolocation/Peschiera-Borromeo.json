@@ -1,0 +1,27 @@
+{
+    "id": "place.10863984966670430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peschiera Borromeo",
+    "place_name": "Peschiera Borromeo, Milano, Italy",
+    "bbox": [
+        9.263735,
+        45.412541,
+        9.344904,
+        45.472428
+    ],
+    "center": [
+        9.31667,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.43333
+        ]
+    }
+}

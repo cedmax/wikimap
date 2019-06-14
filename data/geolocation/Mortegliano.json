@@ -1,0 +1,27 @@
+{
+    "id": "place.4183298118703380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mortegliano",
+    "place_name": "Mortegliano, Udine, Italy",
+    "bbox": [
+        13.140507,
+        45.924016,
+        13.25,
+        45.974102
+    ],
+    "center": [
+        13.16667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.16667,
+            45.95
+        ]
+    }
+}

@@ -3,139 +3,173 @@
     "people": [
         {
             "page": "Guido Guinizelli",
-            "pageView": 170181
+            "pageView": 85.5,
+            "total": 170226
         },
         {
             "page": "Angiola Baggi",
-            "pageView": 59780
-        },
-        {
-            "page": "Davide Ferrario (musicista)",
-            "pageView": 19861
+            "pageView": 38,
+            "total": 59814
         },
         {
             "page": "Anton Francesco Doni",
-            "pageView": 16974
+            "pageView": 11,
+            "total": 16990
         },
         {
-            "page": "Guendalina Sartori",
-            "pageView": 10300
+            "page": "Davide Ferrario (musicista)",
+            "pageView": 10,
+            "total": 19863
         },
         {
             "page": "Lorenzo Marini",
-            "pageView": 9428
-        },
-        {
-            "page": "Ettore Campogalliani",
-            "pageView": 7926
+            "pageView": 6,
+            "total": 9431
         },
         {
             "page": "Roberto Furlan",
-            "pageView": 7619
+            "pageView": 5,
+            "total": 7623
         },
         {
-            "page": "Giuseppe Tresoldi",
-            "pageView": 7070
-        },
-        {
-            "page": "Fabio Rossato",
-            "pageView": 6159
+            "page": "Ettore Campogalliani",
+            "pageView": 5,
+            "total": 7930
         },
         {
             "page": "Piero Urati",
-            "pageView": 6107
+            "pageView": 4,
+            "total": 6111
         },
         {
             "page": "Andrea Tirali",
-            "pageView": 6091
+            "pageView": 4,
+            "total": 6093
         },
         {
             "page": "Ettore Arrigoni degli Oddi",
-            "pageView": 4741
+            "pageView": 3,
+            "total": 4745
+        },
+        {
+            "page": "Guendalina Sartori",
+            "pageView": 3,
+            "total": 10306
         },
         {
             "page": "Roberto Loreggian",
-            "pageView": 4647
-        },
-        {
-            "page": "Giuseppe Fioravanzo",
-            "pageView": 4563
+            "pageView": 3,
+            "total": 4652
         },
         {
             "page": "Mauro Lucchiari",
-            "pageView": 4055
+            "pageView": 3,
+            "total": 4058
         },
         {
-            "page": "Scaramuccia da Forlì",
-            "pageView": 3658
+            "page": "Giuseppe Fioravanzo",
+            "pageView": 3,
+            "total": 4563
         },
         {
             "page": "Furio Stella",
-            "pageView": 3491
-        },
-        {
-            "page": "Pietro Fongaro",
-            "pageView": 3236
-        },
-        {
-            "page": "Jacopino da Carrara",
-            "pageView": 3061
-        },
-        {
-            "page": "Giovanni Fortin",
-            "pageView": 2511
-        },
-        {
-            "page": "Cleofe Borromeo Gabrielli",
-            "pageView": 2416
-        },
-        {
-            "page": "Pietro de' Rossi",
-            "pageView": 2363
-        },
-        {
-            "page": "Antonio Gemo",
-            "pageView": 1937
-        },
-        {
-            "page": "Simone Paltanieri",
-            "pageView": 1775
-        },
-        {
-            "page": "Bruno Bussolin",
-            "pageView": 1758
-        },
-        {
-            "page": "Antonio Piva",
-            "pageView": 1673
-        },
-        {
-            "page": "Renato Zanardo",
-            "pageView": 1459
+            "pageView": 2,
+            "total": 3493
         },
         {
             "page": "Manuel Cominotto",
-            "pageView": 1436
+            "pageView": 2,
+            "total": 1436
+        },
+        {
+            "page": "Jacopino da Carrara",
+            "pageView": 2,
+            "total": 3061
+        },
+        {
+            "page": "Scaramuccia da Forlì",
+            "pageView": 2,
+            "total": 3662
+        },
+        {
+            "page": "Giovanni Fortin",
+            "pageView": 2,
+            "total": 2512
+        },
+        {
+            "page": "Pietro Fongaro",
+            "pageView": 2,
+            "total": 3236
+        },
+        {
+            "page": "Fabio Rossato",
+            "pageView": 2,
+            "total": 6164
+        },
+        {
+            "page": "Antonio Gemo",
+            "pageView": 2,
+            "total": 1938
+        },
+        {
+            "page": "Antonio Piva",
+            "pageView": 2,
+            "total": 1673
+        },
+        {
+            "page": "Pietro de' Rossi",
+            "pageView": 2,
+            "total": 2364
+        },
+        {
+            "page": "Cleofe Borromeo Gabrielli",
+            "pageView": 2,
+            "total": 2417
+        },
+        {
+            "page": "Giuseppe Tresoldi",
+            "pageView": 2,
+            "total": 7074
         },
         {
             "page": "Gianmarco Moschin",
-            "pageView": 1381
+            "pageView": 2,
+            "total": 1381
+        },
+        {
+            "page": "Simone Paltanieri",
+            "pageView": 1,
+            "total": 1775
         },
         {
             "page": "Angelo Legrenzi",
-            "pageView": 1259
+            "pageView": 1,
+            "total": 1260
+        },
+        {
+            "page": "Bruno Bussolin",
+            "pageView": 1,
+            "total": 1758
         },
         {
             "page": "Andrea Borgato",
-            "pageView": 1083
+            "pageView": 1,
+            "total": 1085
         },
         {
-            "page": "Angelo Galeno",
-            "pageView": 589
+            "page": "Renato Zanardo",
+            "pageView": 1,
+            "total": 1459
         },
         {
             "page": "Margherita Petranzan",
-            "pageView": 302
+            "pageView": 0,
+            "total": 306
+        },
+        {
+            "page": "Angelo Galeno",
+            "pageView": 0,
+            "total": 589
         }
     ]
 }

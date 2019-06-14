@@ -1,0 +1,27 @@
+{
+    "id": "place.6279247901149570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Conza della Campania",
+    "place_name": "Conza della Campania, Avellino, Italy",
+    "bbox": [
+        15.25929,
+        40.831838,
+        15.36863,
+        40.916063
+    ],
+    "center": [
+        15.33645,
+        40.8586
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.33645,
+            40.8586
+        ]
+    }
+}

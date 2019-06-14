@@ -1,0 +1,27 @@
+{
+    "id": "place.9766273383632410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Bianco",
+    "place_name": "San Giovanni Bianco, Bergamo, Italy",
+    "bbox": [
+        9.607834,
+        45.852804,
+        9.689828,
+        45.920579
+    ],
+    "center": [
+        9.65,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65,
+            45.86667
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Carlo Rossella",
-            "pageView": 83720
+            "pageView": 38,
+            "total": 83757
         },
         {
             "page": "Pietro Maffi",
-            "pageView": 11091
+            "pageView": 7,
+            "total": 11103
         },
         {
             "page": "Pier Luigi Vercesi",
-            "pageView": 6217
+            "pageView": 5,
+            "total": 6220
         },
         {
             "page": "Edoardo Storti",
-            "pageView": 2180
+            "pageView": 2,
+            "total": 2180
         },
         {
             "page": "Corrado Parona",
-            "pageView": 1228
+            "pageView": 1,
+            "total": 1229
         }
     ]
 }

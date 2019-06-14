@@ -2,48 +2,59 @@
     "name": "Bardolino",
     "people": [
         {
-            "page": "Andrea Graziani",
-            "pageView": 39822
+            "page": "Enrico Fenzi",
+            "pageView": 21,
+            "total": 36223
         },
         {
-            "page": "Enrico Fenzi",
-            "pageView": 36204
+            "page": "Andrea Graziani",
+            "pageView": 20,
+            "total": 39830
         },
         {
             "page": "Andrea Gritti",
-            "pageView": 27747
+            "pageView": 18,
+            "total": 27756
         },
         {
             "page": "Cesare Betteloni",
-            "pageView": 4070
-        },
-        {
-            "page": "Anna Maria Mega",
-            "pageView": 3285
-        },
-        {
-            "page": "Fabiana Comin",
-            "pageView": 3256
+            "pageView": 3,
+            "total": 4072
         },
         {
             "page": "Giovanni Bonetti",
-            "pageView": 2942
+            "pageView": 2,
+            "total": 2943
+        },
+        {
+            "page": "Fabiana Comin",
+            "pageView": 2,
+            "total": 3261
         },
         {
             "page": "Michela Greco",
-            "pageView": 2188
+            "pageView": 2,
+            "total": 2193
+        },
+        {
+            "page": "Anna Maria Mega",
+            "pageView": 2,
+            "total": 3289
         },
         {
             "page": "Bartolomeo Zeni",
-            "pageView": 2003
+            "pageView": 2,
+            "total": 2004
         },
         {
             "page": "Umberto Gelmetti",
-            "pageView": 552
+            "pageView": 0,
+            "total": 553
         },
         {
             "page": "Arduino Garelli",
-            "pageView": 239
+            "pageView": 0,
+            "total": 240
         }
     ]
 }

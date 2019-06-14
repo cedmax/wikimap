@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Denis Godeas",
-            "pageView": 79467
-        },
-        {
-            "page": "Loredana Piazza",
-            "pageView": 23275
-        },
-        {
-            "page": "Alessandro Fabbro",
-            "pageView": 22573
+            "pageView": 51,
+            "total": 79531
         },
         {
             "page": "Gaetano Perusini",
-            "pageView": 21723
+            "pageView": 13,
+            "total": 21725
         },
         {
-            "page": "Benito Gavazza",
-            "pageView": 15370
+            "page": "Loredana Piazza",
+            "pageView": 13,
+            "total": 23281
+        },
+        {
+            "page": "Alessandro Fabbro",
+            "pageView": 12,
+            "total": 22582
         },
         {
             "page": "Sergio Marcon",
-            "pageView": 15178
-        },
-        {
-            "page": "Luigi Visintin",
-            "pageView": 14416
+            "pageView": 10,
+            "total": 15188
         },
         {
             "page": "Antonio Bordon",
-            "pageView": 12664
+            "pageView": 8,
+            "total": 12674
         },
         {
-            "page": "Antonino Maggiore",
-            "pageView": 9889
+            "page": "Luigi Visintin",
+            "pageView": 8,
+            "total": 14421
+        },
+        {
+            "page": "Benito Gavazza",
+            "pageView": 7,
+            "total": 15375
         },
         {
             "page": "Decio Raggi",
-            "pageView": 8798
-        },
-        {
-            "page": "Giovanni Padoan",
-            "pageView": 7691
-        },
-        {
-            "page": "Enzo Savorgnan di Brazzà",
-            "pageView": 7291
-        },
-        {
-            "page": "Cesare Meucci",
-            "pageView": 7131
+            "pageView": 5,
+            "total": 8798
         },
         {
             "page": "Alvaro Zian",
-            "pageView": 5950
+            "pageView": 4,
+            "total": 5955
+        },
+        {
+            "page": "Cesare Meucci",
+            "pageView": 4,
+            "total": 7139
+        },
+        {
+            "page": "Enzo Savorgnan di Brazzà",
+            "pageView": 4,
+            "total": 7296
+        },
+        {
+            "page": "Giovanni Padoan",
+            "pageView": 4,
+            "total": 7693
         },
         {
             "page": "Franco Marini (calciatore)",
-            "pageView": 5804
-        },
-        {
-            "page": "Marco Brandolin",
-            "pageView": 5516
-        },
-        {
-            "page": "Germano Mian",
-            "pageView": 5315
-        },
-        {
-            "page": "Eugenio Elia Levi",
-            "pageView": 5273
+            "pageView": 4,
+            "total": 5808
         },
         {
             "page": "Giovanni Grattoni",
-            "pageView": 4862
+            "pageView": 3,
+            "total": 4862
         },
         {
             "page": "Sebastiano Buzzin",
-            "pageView": 4457
+            "pageView": 3,
+            "total": 4462
         },
         {
-            "page": "Eno Mucchiutti",
-            "pageView": 4312
+            "page": "Germano Mian",
+            "pageView": 3,
+            "total": 5320
         },
         {
-            "page": "Antonio Camaur",
-            "pageView": 3331
+            "page": "Eugenio Elia Levi",
+            "pageView": 3,
+            "total": 5273
         },
         {
-            "page": "Sergio Perin",
-            "pageView": 2676
+            "page": "Marco Brandolin",
+            "pageView": 3,
+            "total": 5516
         },
         {
             "page": "Gualtiero Benardelli",
-            "pageView": 2145
+            "pageView": 2,
+            "total": 2146
+        },
+        {
+            "page": "Antonio Camaur",
+            "pageView": 2,
+            "total": 3332
+        },
+        {
+            "page": "Sergio Perin",
+            "pageView": 2,
+            "total": 2676
         },
         {
             "page": "Gian Giuseppe Barzellini",
-            "pageView": 1897
+            "pageView": 2,
+            "total": 1898
+        },
+        {
+            "page": "Eno Mucchiutti",
+            "pageView": 2,
+            "total": 4314
         },
         {
             "page": "Luciano Padoan",
-            "pageView": 1817
-        },
-        {
-            "page": "Giovanni Visintin",
-            "pageView": 1687
+            "pageView": 1,
+            "total": 1817
         },
         {
             "page": "Gigi Castellani",
-            "pageView": 1585
+            "pageView": 1,
+            "total": 1585
         },
         {
-            "page": "Giuseppe Antonio Delmestri von Schönberg",
-            "pageView": 1378
+            "page": "Giovanni Visintin",
+            "pageView": 1,
+            "total": 1687
         },
         {
             "page": "Costantino Cumano",
-            "pageView": 1095
+            "pageView": 1,
+            "total": 1096
+        },
+        {
+            "page": "Giuseppe Antonio Delmestri von Schönberg",
+            "pageView": 1,
+            "total": 1380
+        },
+        {
+            "page": "Antonino Maggiore",
+            "pageView": 0,
+            "total": 9912
         }
     ]
 }

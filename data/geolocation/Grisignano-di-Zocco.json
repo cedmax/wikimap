@@ -1,0 +1,27 @@
+{
+    "id": "place.10855810216856460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grisignano di Zocco",
+    "place_name": "Grisignano di Zocco, Vicenza, Italy",
+    "bbox": [
+        11.658096,
+        45.460116,
+        11.750461,
+        45.50101
+    ],
+    "center": [
+        11.7,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7,
+            45.48333
+        ]
+    }
+}

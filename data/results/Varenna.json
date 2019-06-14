@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Giovanni Battista Pirelli",
-            "pageView": 40623
+            "pageView": 26,
+            "total": 40658
         },
         {
             "page": "Marco De Marchi (naturalista)",
-            "pageView": 5400
-        },
-        {
-            "page": "Diego Venini",
-            "pageView": 3545
+            "pageView": 3,
+            "total": 5405
         },
         {
             "page": "Giuseppe Rabboni",
-            "pageView": 3388
+            "pageView": 2,
+            "total": 3390
         },
         {
             "page": "Andrea Brenta",
-            "pageView": 2283
+            "pageView": 2,
+            "total": 2286
+        },
+        {
+            "page": "Diego Venini",
+            "pageView": 2,
+            "total": 3546
         }
     ]
 }

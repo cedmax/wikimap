@@ -2,156 +2,194 @@
     "name": "Pergine Valsugana",
     "people": [
         {
-            "page": "Denny Deanesi",
-            "pageView": 6300
-        },
-        {
             "page": "Marco Insam",
-            "pageView": 6218
-        },
-        {
-            "page": "Tullio Garbari",
-            "pageView": 5360
-        },
-        {
-            "page": "Carlo Bonacina",
-            "pageView": 5172
+            "pageView": 4,
+            "total": 6218
         },
         {
             "page": "Anton Bernard",
-            "pageView": 5071
+            "pageView": 3,
+            "total": 5072
         },
         {
             "page": "Iginio Rogger",
-            "pageView": 4470
+            "pageView": 3,
+            "total": 4473
         },
         {
-            "page": "Marcello Osler",
-            "pageView": 4019
+            "page": "Tullio Garbari",
+            "pageView": 3,
+            "total": 5362
         },
         {
-            "page": "Claudio Valdagni",
-            "pageView": 3900
-        },
-        {
-            "page": "Luigi Senesi",
-            "pageView": 3550
-        },
-        {
-            "page": "Marco Magnabosco",
-            "pageView": 3532
-        },
-        {
-            "page": "Denis Salati",
-            "pageView": 3401
-        },
-        {
-            "page": "Günther Hell",
-            "pageView": 2842
-        },
-        {
-            "page": "Luca Rigoni (hockeista su ghiaccio)",
-            "pageView": 2601
-        },
-        {
-            "page": "Andrea Ambrosi",
-            "pageView": 2336
-        },
-        {
-            "page": "Lino De Toni",
-            "pageView": 2330
-        },
-        {
-            "page": "Thomas Commisso",
-            "pageView": 2303
-        },
-        {
-            "page": "Federico Gilmozzi",
-            "pageView": 2124
-        },
-        {
-            "page": "Tullio Oss Emer",
-            "pageView": 1910
-        },
-        {
-            "page": "Lorenzo Casetti",
-            "pageView": 1876
+            "page": "Carlo Bonacina",
+            "pageView": 3,
+            "total": 5176
         },
         {
             "page": "Marco Liberatore",
-            "pageView": 1847
+            "pageView": 2,
+            "total": 1850
         },
         {
-            "page": "Mirko Presti",
-            "pageView": 1841
+            "page": "Thomas Commisso",
+            "pageView": 2,
+            "total": 2304
+        },
+        {
+            "page": "Luigi Senesi",
+            "pageView": 2,
+            "total": 3558
+        },
+        {
+            "page": "Lino De Toni",
+            "pageView": 2,
+            "total": 2333
+        },
+        {
+            "page": "Denny Deanesi",
+            "pageView": 2,
+            "total": 6300
+        },
+        {
+            "page": "Denis Salati",
+            "pageView": 2,
+            "total": 3402
+        },
+        {
+            "page": "Federico Gilmozzi",
+            "pageView": 2,
+            "total": 2124
+        },
+        {
+            "page": "Günther Hell",
+            "pageView": 2,
+            "total": 2843
+        },
+        {
+            "page": "Andrea Ambrosi",
+            "pageView": 2,
+            "total": 2336
+        },
+        {
+            "page": "Marco Magnabosco",
+            "pageView": 2,
+            "total": 3534
+        },
+        {
+            "page": "Claudio Valdagni",
+            "pageView": 2,
+            "total": 3900
+        },
+        {
+            "page": "Tullio Oss Emer",
+            "pageView": 2,
+            "total": 1911
+        },
+        {
+            "page": "Marcello Osler",
+            "pageView": 2,
+            "total": 4020
+        },
+        {
+            "page": "Lorenzo Casetti",
+            "pageView": 2,
+            "total": 1876
         },
         {
             "page": "Eleonora Strobbe",
-            "pageView": 1755
-        },
-        {
-            "page": "Ciro Andreatta",
-            "pageView": 1592
-        },
-        {
-            "page": "Michele Stevan",
-            "pageView": 1457
-        },
-        {
-            "page": "Peter Wunderer",
-            "pageView": 1418
-        },
-        {
-            "page": "Guido Tessari",
-            "pageView": 1413
-        },
-        {
-            "page": "Franco Vellar",
-            "pageView": 1375
-        },
-        {
-            "page": "Michele Ciresa",
-            "pageView": 1326
-        },
-        {
-            "page": "Daniel Fabris",
-            "pageView": 1210
-        },
-        {
-            "page": "Andrea Rodeghiero",
-            "pageView": 1160
-        },
-        {
-            "page": "Armin Ambach",
-            "pageView": 1132
+            "pageView": 2,
+            "total": 1755
         },
         {
             "page": "Alessandro Tura",
-            "pageView": 1077
+            "pageView": 2,
+            "total": 1078
         },
         {
-            "page": "Stefano Piva",
-            "pageView": 1035
+            "page": "Luca Rigoni (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 2601
+        },
+        {
+            "page": "Michele Stevan",
+            "pageView": 1,
+            "total": 1458
+        },
+        {
+            "page": "Andrea Rodeghiero",
+            "pageView": 1,
+            "total": 1162
+        },
+        {
+            "page": "Franco Vellar",
+            "pageView": 1,
+            "total": 1376
+        },
+        {
+            "page": "Peter Wunderer",
+            "pageView": 1,
+            "total": 1418
         },
         {
             "page": "Omar Zanon",
-            "pageView": 847
+            "pageView": 1,
+            "total": 847
         },
         {
-            "page": "Nadia Mattivi",
-            "pageView": 653
+            "page": "Armin Ambach",
+            "pageView": 1,
+            "total": 1132
+        },
+        {
+            "page": "Michele Ciresa",
+            "pageView": 1,
+            "total": 1327
+        },
+        {
+            "page": "Guido Tessari",
+            "pageView": 1,
+            "total": 1415
+        },
+        {
+            "page": "Mirko Presti",
+            "pageView": 1,
+            "total": 1841
+        },
+        {
+            "page": "Stefano Piva",
+            "pageView": 1,
+            "total": 1036
+        },
+        {
+            "page": "Daniel Fabris",
+            "pageView": 1,
+            "total": 1210
+        },
+        {
+            "page": "Ciro Andreatta",
+            "pageView": 1,
+            "total": 1592
         },
         {
             "page": "Luca Mattivi",
-            "pageView": 570
+            "pageView": 0,
+            "total": 571
+        },
+        {
+            "page": "Nadia Mattivi",
+            "pageView": 0,
+            "total": 654
         },
         {
             "page": "Davide Dal Sasso",
-            "pageView": 322
+            "pageView": 0,
+            "total": 322
         },
         {
             "page": "Giampaolo Ambrosi",
-            "pageView": 148
+            "pageView": 0,
+            "total": 150
         }
     ]
 }

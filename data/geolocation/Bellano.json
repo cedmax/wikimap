@@ -1,0 +1,27 @@
+{
+    "id": "place.10463280442799090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bellano",
+    "place_name": "Bellano, Lecco, Italy",
+    "bbox": [
+        9.269615,
+        46.020448,
+        9.335017,
+        46.059994
+    ],
+    "center": [
+        9.3061,
+        46.0432
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3061,
+            46.0432
+        ]
+    }
+}

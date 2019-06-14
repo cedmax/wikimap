@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Enrico Riziero Galvaligi",
-            "pageView": 23841
-        },
-        {
-            "page": "Alberto Molina",
-            "pageView": 3235
+            "pageView": 13,
+            "total": 23855
         },
         {
             "page": "Enrico La Stella",
-            "pageView": 1560
+            "pageView": 2,
+            "total": 1560
+        },
+        {
+            "page": "Alberto Molina",
+            "pageView": 2,
+            "total": 3238
         }
     ]
 }

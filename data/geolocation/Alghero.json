@@ -1,0 +1,27 @@
+{
+    "id": "place.5901768325112750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alghero",
+    "place_name": "Alghero, Sassari, Italy",
+    "bbox": [
+        8.137927,
+        40.494698,
+        8.421089,
+        40.673628
+    ],
+    "center": [
+        8.32194,
+        40.55778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.32194,
+            40.55778
+        ]
+    }
+}

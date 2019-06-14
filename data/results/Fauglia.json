@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Marco Filippeschi",
-            "pageView": 34523
+            "pageView": 20,
+            "total": 34538
         },
         {
             "page": "Giorgio Kienerk",
-            "pageView": 9277
+            "pageView": 6,
+            "total": 9290
         },
         {
             "page": "Raffaele Di Paco",
-            "pageView": 6327
+            "pageView": 4,
+            "total": 6332
         },
         {
             "page": "Giovanni D'Achiardi",
-            "pageView": 3034
+            "pageView": 2,
+            "total": 3034
         },
         {
             "page": "Vieri Traxler",
-            "pageView": 2545
+            "pageView": 2,
+            "total": 2547
         },
         {
             "page": "Angiolo Del Lungo (medico)",
-            "pageView": 1317
+            "pageView": 1,
+            "total": 1317
         }
     ]
 }

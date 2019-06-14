@@ -1,0 +1,27 @@
+{
+    "id": "place.15591125654641150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frosinone",
+    "place_name": "Frosinone, Frosinone, Italy",
+    "bbox": [
+        13.263233,
+        41.60337,
+        13.392677,
+        41.665317
+    ],
+    "center": [
+        13.35,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.35,
+            41.63333
+        ]
+    }
+}

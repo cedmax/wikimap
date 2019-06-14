@@ -1,0 +1,27 @@
+{
+    "id": "place.10334534830061730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fauglia",
+    "place_name": "Fauglia, Pisa, Italy",
+    "bbox": [
+        10.464486,
+        43.509018,
+        10.538859,
+        43.625813
+    ],
+    "center": [
+        10.51667,
+        43.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51667,
+            43.56667
+        ]
+    }
+}

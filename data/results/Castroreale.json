@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Pina Menichelli",
-            "pageView": 12118
+            "pageView": 8,
+            "total": 12123
         },
         {
             "page": "Adolfo Parmaliana",
-            "pageView": 7286
+            "pageView": 4,
+            "total": 7288
         },
         {
             "page": "Guglielmo Jannelli",
-            "pageView": 4730
+            "pageView": 3,
+            "total": 4734
         },
         {
             "page": "Alessio Bombaci",
-            "pageView": 4538
-        },
-        {
-            "page": "Carmelo Aliberti",
-            "pageView": 3316
+            "pageView": 3,
+            "total": 4539
         },
         {
             "page": "Antonino Borzì",
-            "pageView": 2665
-        },
-        {
-            "page": "Filippo Jannelli",
-            "pageView": 2608
-        },
-        {
-            "page": "Ottaviano Preconio",
-            "pageView": 2138
+            "pageView": 2,
+            "total": 2665
         },
         {
             "page": "Orazio Costantino",
-            "pageView": 1929
+            "pageView": 2,
+            "total": 1929
         },
         {
-            "page": "Simone del Pozzo",
-            "pageView": 1634
+            "page": "Carmelo Aliberti",
+            "pageView": 2,
+            "total": 3317
+        },
+        {
+            "page": "Filippo Jannelli",
+            "pageView": 2,
+            "total": 2609
+        },
+        {
+            "page": "Ottaviano Preconio",
+            "pageView": 2,
+            "total": 2140
         },
         {
             "page": "Giovanni Andrea Jannelli",
-            "pageView": 1424
+            "pageView": 1,
+            "total": 1424
+        },
+        {
+            "page": "Simone del Pozzo",
+            "pageView": 1,
+            "total": 1641
         },
         {
             "page": "Stefano Germanò",
-            "pageView": 1180
+            "pageView": 1,
+            "total": 1180
         },
         {
             "page": "Antonino Dante",
-            "pageView": 1004
+            "pageView": 1,
+            "total": 1004
         },
         {
             "page": "Ottaviano Preconio (vescovo)",
-            "pageView": 165
+            "pageView": 0,
+            "total": 166
         }
     ]
 }

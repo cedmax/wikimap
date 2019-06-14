@@ -2,20 +2,24 @@
     "name": "Pianiga",
     "people": [
         {
-            "page": "Arrigo Pintonello",
-            "pageView": 5324
-        },
-        {
             "page": "Aldo Graziati",
-            "pageView": 4289
+            "pageView": 3,
+            "total": 4293
         },
         {
-            "page": "Elio Borsetto",
-            "pageView": 1642
+            "page": "Arrigo Pintonello",
+            "pageView": 3,
+            "total": 5326
         },
         {
             "page": "Achille Pintonello",
-            "pageView": 1162
+            "pageView": 2,
+            "total": 1162
+        },
+        {
+            "page": "Elio Borsetto",
+            "pageView": 1,
+            "total": 1643
         }
     ]
 }

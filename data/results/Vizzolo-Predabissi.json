@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Francesco Acerbi",
-            "pageView": 394190
+            "pageView": 159.5,
+            "total": 394362
         },
         {
             "page": "Sarah Calogero",
-            "pageView": 80921
+            "pageView": 33,
+            "total": 80936
         },
         {
             "page": "Mario Cassano",
-            "pageView": 36807
-        },
-        {
-            "page": "Jacopo Guarnieri",
-            "pageView": 20236
+            "pageView": 22,
+            "total": 36827
         },
         {
             "page": "Maurizio Romano",
-            "pageView": 20177
-        },
-        {
-            "page": "Alessandro Morelli",
-            "pageView": 19784
+            "pageView": 13,
+            "total": 20188
         },
         {
             "page": "Tiziano Polenghi",
-            "pageView": 14513
+            "pageView": 9,
+            "total": 14517
+        },
+        {
+            "page": "Jacopo Guarnieri",
+            "pageView": 8,
+            "total": 20255
         },
         {
             "page": "Luca Pinton",
-            "pageView": 4076
-        },
-        {
-            "page": "Jacopo Manconi",
-            "pageView": 3210
-        },
-        {
-            "page": "Evasio Muraro",
-            "pageView": 2417
-        },
-        {
-            "page": "Claudia Mauri",
-            "pageView": 2259
+            "pageView": 3,
+            "total": 4078
         },
         {
             "page": "Federica Laddaga",
-            "pageView": 1714
+            "pageView": 2,
+            "total": 1716
+        },
+        {
+            "page": "Claudia Mauri",
+            "pageView": 2,
+            "total": 2264
+        },
+        {
+            "page": "Evasio Muraro",
+            "pageView": 2,
+            "total": 2419
+        },
+        {
+            "page": "Alessandro Morelli",
+            "pageView": 0,
+            "total": 19826
+        },
+        {
+            "page": "Jacopo Manconi",
+            "pageView": 0,
+            "total": 3217
         }
     ]
 }

@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Francesca Durante",
-            "pageView": 15413
-        },
-        {
-            "page": "Maddalena Porcarelli",
-            "pageView": 4488
-        },
-        {
-            "page": "Elisa Polli",
-            "pageView": 4034
+            "pageView": 7,
+            "total": 15463
         },
         {
             "page": "Domenico Giugliano",
-            "pageView": 3397
+            "pageView": 4,
+            "total": 3401
+        },
+        {
+            "page": "Elisa Polli",
+            "pageView": 4,
+            "total": 4039
         },
         {
             "page": "Michela Catena (calciatrice)",
-            "pageView": 3108
+            "pageView": 3,
+            "total": 3114
         },
         {
-            "page": "Gaia Mastrovincenzo",
-            "pageView": 3052
-        },
-        {
-            "page": "Erika Campesi",
-            "pageView": 2588
+            "page": "Maddalena Porcarelli",
+            "pageView": 3,
+            "total": 4490
         },
         {
             "page": "Valeria Monterubbiano",
-            "pageView": 2430
-        },
-        {
-            "page": "Aurora De Sanctis",
-            "pageView": 1923
-        },
-        {
-            "page": "Giovanni Trillini",
-            "pageView": 1896
-        },
-        {
-            "page": "Ilaria Alunno",
-            "pageView": 1750
+            "pageView": 2,
+            "total": 2432
         },
         {
             "page": "Elisa Cinti",
-            "pageView": 1693
-        },
-        {
-            "page": "Sofia Luciani",
-            "pageView": 1420
+            "pageView": 2,
+            "total": 1695
         },
         {
             "page": "Paola Cuciniello",
-            "pageView": 1329
+            "pageView": 2,
+            "total": 1329
         },
         {
-            "page": "Claudia Galassi",
-            "pageView": 1058
+            "page": "Aurora De Sanctis",
+            "pageView": 2,
+            "total": 1923
+        },
+        {
+            "page": "Erika Campesi",
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Giovanni Trillini",
+            "pageView": 2,
+            "total": 1896
+        },
+        {
+            "page": "Sofia Luciani",
+            "pageView": 2,
+            "total": 1421
+        },
+        {
+            "page": "Ilaria Alunno",
+            "pageView": 2,
+            "total": 1752
+        },
+        {
+            "page": "Gaia Mastrovincenzo",
+            "pageView": 2,
+            "total": 3058
         },
         {
             "page": "Margherita Bastianelli",
-            "pageView": 1024
+            "pageView": 1,
+            "total": 1024
         },
         {
             "page": "Veronica Becci",
-            "pageView": 933
-        },
-        {
-            "page": "Chiara Breccia",
-            "pageView": 752
+            "pageView": 1,
+            "total": 933
         },
         {
             "page": "Chiara Voloninno",
-            "pageView": 732
+            "pageView": 1,
+            "total": 732
+        },
+        {
+            "page": "Chiara Breccia",
+            "pageView": 1,
+            "total": 753
+        },
+        {
+            "page": "Claudia Galassi",
+            "pageView": 1,
+            "total": 1058
         },
         {
             "page": "Martina Mencaccini",
-            "pageView": 534
-        },
-        {
-            "page": "Emma Guidi",
-            "pageView": 478
+            "pageView": 0,
+            "total": 535
         },
         {
             "page": "Elisa Mainardi (calciatrice)",
-            "pageView": 365
+            "pageView": 0,
+            "total": 366
+        },
+        {
+            "page": "Emma Guidi",
+            "pageView": 0,
+            "total": 480
         }
     ]
 }

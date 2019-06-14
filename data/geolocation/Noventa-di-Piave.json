@@ -1,0 +1,27 @@
+{
+    "id": "place.9572437525566070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noventa di Piave",
+    "place_name": "Noventa di Piave, Venezia, Italy",
+    "bbox": [
+        12.494645,
+        45.646387,
+        12.601081,
+        45.691141
+    ],
+    "center": [
+        12.53333,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.53333,
+            45.66667
+        ]
+    }
+}

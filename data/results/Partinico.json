@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Frank Coppola",
-            "pageView": 42309
+            "pageView": 43,
+            "total": 42377
         },
         {
             "page": "Nenè Geraci",
-            "pageView": 38073
+            "pageView": 21,
+            "total": 38112
         },
         {
             "page": "Giuseppe Casarrubea",
-            "pageView": 10839
+            "pageView": 7,
+            "total": 10845
         },
         {
             "page": "Giuseppina Suriano",
-            "pageView": 8381
+            "pageView": 5,
+            "total": 8381
         },
         {
             "page": "Giacomo Filippi",
-            "pageView": 7909
+            "pageView": 5,
+            "total": 7914
         },
         {
             "page": "Emanuele Catarinicchia",
-            "pageView": 6227
+            "pageView": 4,
+            "total": 6229
         },
         {
             "page": "Antonino Varvaro",
-            "pageView": 5211
-        },
-        {
-            "page": "Giorgio Guzzetta",
-            "pageView": 5112
+            "pageView": 3,
+            "total": 5215
         },
         {
             "page": "Salvatore Cintola",
-            "pageView": 5050
-        },
-        {
-            "page": "Pietro Rao",
-            "pageView": 3646
-        },
-        {
-            "page": "Santi Savarino",
-            "pageView": 3598
+            "pageView": 3,
+            "total": 5058
         },
         {
             "page": "Gaspare Canino",
-            "pageView": 3335
+            "pageView": 3,
+            "total": 3335
         },
         {
-            "page": "Giuseppe Avellone",
-            "pageView": 2882
-        },
-        {
-            "page": "Salvatore Bonadonna",
-            "pageView": 2833
+            "page": "Giorgio Guzzetta",
+            "pageView": 3,
+            "total": 5114
         },
         {
             "page": "Maria Luisa Filangeri",
-            "pageView": 2611
-        },
-        {
-            "page": "Filippo Fiorino",
-            "pageView": 2499
+            "pageView": 3,
+            "total": 2615
         },
         {
             "page": "Domenico Bacchi",
-            "pageView": 1983
+            "pageView": 2,
+            "total": 1983
+        },
+        {
+            "page": "Filippo Fiorino",
+            "pageView": 2,
+            "total": 2501
+        },
+        {
+            "page": "Santi Savarino",
+            "pageView": 2,
+            "total": 3599
         },
         {
             "page": "Giovanni D'Orio",
-            "pageView": 1741
+            "pageView": 2,
+            "total": 1741
         },
         {
-            "page": "Michele Chimenti",
-            "pageView": 1146
+            "page": "Salvatore Bonadonna",
+            "pageView": 2,
+            "total": 2835
         },
         {
-            "page": "Francesco Mollame",
-            "pageView": 1144
+            "page": "Giuseppe Avellone",
+            "pageView": 2,
+            "total": 2885
         },
         {
-            "page": "Lorenzo Barbera",
-            "pageView": 1120
+            "page": "Pietro Rao",
+            "pageView": 2,
+            "total": 3647
         },
         {
             "page": "Francesco Cataldo (politico)",
-            "pageView": 1111
+            "pageView": 1,
+            "total": 1116
         },
         {
             "page": "Katia Bugé",
-            "pageView": 852
+            "pageView": 1,
+            "total": 852
+        },
+        {
+            "page": "Michele Chimenti",
+            "pageView": 1,
+            "total": 1147
+        },
+        {
+            "page": "Lorenzo Barbera",
+            "pageView": 0,
+            "total": 1127
+        },
+        {
+            "page": "Francesco Mollame",
+            "pageView": 0,
+            "total": 1146
         },
         {
             "page": "Francesco Patti",
-            "pageView": 477
+            "pageView": 0,
+            "total": 477
         }
     ]
 }

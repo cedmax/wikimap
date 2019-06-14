@@ -1,0 +1,27 @@
+{
+    "id": "place.8061729266757640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Iseo",
+    "place_name": "Iseo, Brescia, Italy",
+    "bbox": [
+        9.974452,
+        45.643135,
+        10.106164,
+        45.686131
+    ],
+    "center": [
+        10.05361,
+        45.65861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.05361,
+            45.65861
+        ]
+    }
+}

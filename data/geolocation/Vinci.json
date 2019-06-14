@@ -1,0 +1,27 @@
+{
+    "id": "place.16593445584177120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vinci",
+    "place_name": "Vinci, Firenze, Italy",
+    "bbox": [
+        10.85733,
+        43.722409,
+        10.980201,
+        43.823178
+    ],
+    "center": [
+        10.91667,
+        43.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91667,
+            43.78333
+        ]
+    }
+}

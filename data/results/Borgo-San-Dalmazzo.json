@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Gianfranco Bianco",
-            "pageView": 15637
+            "pageView": 8,
+            "total": 15644
         },
         {
             "page": "Raimondo Berengario IV di Barcellona",
-            "pageView": 12101
+            "pageView": 7,
+            "total": 12106
         },
         {
             "page": "Ettore Pais",
-            "pageView": 10627
+            "pageView": 7,
+            "total": 10637
         },
         {
             "page": "Carlo Giuseppe Plura",
-            "pageView": 3674
+            "pageView": 2,
+            "total": 3677
         },
         {
             "page": "Basso Sciarretta",
-            "pageView": 2223
+            "pageView": 2,
+            "total": 2224
         },
         {
             "page": "Riccardo Boschiero",
-            "pageView": 1782
-        },
-        {
-            "page": "Massimo Bedino",
-            "pageView": 1696
+            "pageView": 1,
+            "total": 1785
         },
         {
             "page": "Alessandro Di Rovasenda",
-            "pageView": 1201
+            "pageView": 1,
+            "total": 1203
+        },
+        {
+            "page": "Massimo Bedino",
+            "pageView": 1,
+            "total": 1697
         }
     ]
 }

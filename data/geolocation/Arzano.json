@@ -1,0 +1,27 @@
+{
+    "id": "place.12980426024762220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arzano",
+    "place_name": "Arzano, Napoli, Italy",
+    "bbox": [
+        14.248198,
+        40.901099,
+        14.281606,
+        40.924925
+    ],
+    "center": [
+        14.26806,
+        40.91528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.26806,
+            40.91528
+        ]
+    }
+}

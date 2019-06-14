@@ -1,0 +1,27 @@
+{
+    "id": "place.16065817073113260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mesagne",
+    "place_name": "Mesagne, Brindisi, Italy",
+    "bbox": [
+        17.7231,
+        40.456051,
+        17.883426,
+        40.61023
+    ],
+    "center": [
+        17.8,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.8,
+            40.56667
+        ]
+    }
+}

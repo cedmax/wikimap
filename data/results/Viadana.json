@@ -3,379 +3,473 @@
     "people": [
         {
             "page": "Stefano Rossini",
-            "pageView": 30675
-        },
-        {
-            "page": "Giovanni Fava (1968)",
-            "pageView": 29728
-        },
-        {
-            "page": "Joshua Furno",
-            "pageView": 29412
+            "pageView": 18,
+            "total": 30707
         },
         {
             "page": "Tana Umaga",
-            "pageView": 27859
+            "pageView": 13,
+            "total": 27861
         },
         {
-            "page": "Ian McKinley",
-            "pageView": 24671
-        },
-        {
-            "page": "Maria Angela Zappia Caillaux",
-            "pageView": 23919
-        },
-        {
-            "page": "Andrea Benatti",
-            "pageView": 21793
+            "page": "Giovanni Fava (1968)",
+            "pageView": 12,
+            "total": 29742
         },
         {
             "page": "Pietro Ghizzardi",
-            "pageView": 19486
+            "pageView": 11,
+            "total": 19492
+        },
+        {
+            "page": "Maria Angela Zappia Caillaux",
+            "pageView": 11,
+            "total": 23932
         },
         {
             "page": "Andrea Masi",
-            "pageView": 18803
-        },
-        {
-            "page": "Pier Carpi",
-            "pageView": 13561
-        },
-        {
-            "page": "Gianpaolo Rossi",
-            "pageView": 12699
-        },
-        {
-            "page": "Piergiorgio Negrisolo",
-            "pageView": 12627
-        },
-        {
-            "page": "Carlalberto Ludi",
-            "pageView": 12489
+            "pageView": 9,
+            "total": 18805
         },
         {
             "page": "Mauro Saviola",
-            "pageView": 12125
+            "pageView": 8,
+            "total": 12133
         },
         {
-            "page": "Matías Agüero",
-            "pageView": 11760
+            "page": "Piergiorgio Negrisolo",
+            "pageView": 8,
+            "total": 12633
         },
         {
-            "page": "Quintin Geldenhuys",
-            "pageView": 10761
+            "page": "Gianpaolo Rossi",
+            "pageView": 8,
+            "total": 12707
+        },
+        {
+            "page": "Pier Carpi",
+            "pageView": 8,
+            "total": 13573
+        },
+        {
+            "page": "Joshua Furno",
+            "pageView": 8,
+            "total": 29481
+        },
+        {
+            "page": "Ian McKinley",
+            "pageView": 7,
+            "total": 24679
+        },
+        {
+            "page": "Carlalberto Ludi",
+            "pageView": 6,
+            "total": 12498
         },
         {
             "page": "Giovanni Anversa",
-            "pageView": 9227
-        },
-        {
-            "page": "Lodovico Grossi da Viadana",
-            "pageView": 8571
-        },
-        {
-            "page": "Matteo Pratichetti",
-            "pageView": 7063
+            "pageView": 5,
+            "total": 9230
         },
         {
             "page": "Federico Ruzza",
-            "pageView": 7011
+            "pageView": 5,
+            "total": 7017
+        },
+        {
+            "page": "Lodovico Grossi da Viadana",
+            "pageView": 5,
+            "total": 8580
+        },
+        {
+            "page": "Matías Agüero",
+            "pageView": 5,
+            "total": 11765
         },
         {
             "page": "Santiago Dellapè",
-            "pageView": 6341
+            "pageView": 4,
+            "total": 6346
+        },
+        {
+            "page": "Quintin Geldenhuys",
+            "pageView": 4,
+            "total": 10761
+        },
+        {
+            "page": "Matteo Pratichetti",
+            "pageView": 4,
+            "total": 7066
         },
         {
             "page": "Umberto Bottazzini",
-            "pageView": 6278
-        },
-        {
-            "page": "Kaine Robertson",
-            "pageView": 6111
-        },
-        {
-            "page": "Riccardo Goi",
-            "pageView": 5612
-        },
-        {
-            "page": "Filippo Frati",
-            "pageView": 5372
-        },
-        {
-            "page": "Roberto Santamaria",
-            "pageView": 5293
-        },
-        {
-            "page": "Matteo Mazzantini",
-            "pageView": 5043
-        },
-        {
-            "page": "Andrea Moretti",
-            "pageView": 4891
+            "pageView": 4,
+            "total": 6280
         },
         {
             "page": "Pablo Canavosio",
-            "pageView": 4593
-        },
-        {
-            "page": "Ormondo Maini",
-            "pageView": 4322
-        },
-        {
-            "page": "Luigi Ferraro (rugbista)",
-            "pageView": 4107
-        },
-        {
-            "page": "Lorenzo Romano",
-            "pageView": 4069
-        },
-        {
-            "page": "Filippo Gerosa",
-            "pageView": 3984
-        },
-        {
-            "page": "Vando Freddi",
-            "pageView": 3809
-        },
-        {
-            "page": "Corrado Pilat",
-            "pageView": 3729
-        },
-        {
-            "page": "Paolo Pavesi",
-            "pageView": 3726
-        },
-        {
-            "page": "Pietro Travagli",
-            "pageView": 3673
-        },
-        {
-            "page": "Carlo Antonio del Fava",
-            "pageView": 3671
-        },
-        {
-            "page": "Josh Sole",
-            "pageView": 3609
-        },
-        {
-            "page": "Keanu Apperley",
-            "pageView": 3595
-        },
-        {
-            "page": "Regan Sue",
-            "pageView": 3594
-        },
-        {
-            "page": "Giorgio Bronzini",
-            "pageView": 3591
-        },
-        {
-            "page": "Cherif Traorè",
-            "pageView": 3523
-        },
-        {
-            "page": "Jaco Erasmus",
-            "pageView": 3397
-        },
-        {
-            "page": "Luigi Milani",
-            "pageView": 3385
-        },
-        {
-            "page": "Polla Roux",
-            "pageView": 3351
-        },
-        {
-            "page": "Carlos Nieto",
-            "pageView": 3304
-        },
-        {
-            "page": "Stefano Romagnoli",
-            "pageView": 3284
-        },
-        {
-            "page": "Romolo Deotto",
-            "pageView": 3234
-        },
-        {
-            "page": "Cristian Bezzi",
-            "pageView": 3198
-        },
-        {
-            "page": "Samuele Pace",
-            "pageView": 3145
-        },
-        {
-            "page": "Michele Sepe",
-            "pageView": 2986
-        },
-        {
-            "page": "Giorgio Montorio",
-            "pageView": 2980
-        },
-        {
-            "page": "Andrea Barbieri",
-            "pageView": 2857
-        },
-        {
-            "page": "Gilberto Pavan",
-            "pageView": 2804
-        },
-        {
-            "page": "Giovanni Tassoni",
-            "pageView": 2768
-        },
-        {
-            "page": "Ignacio Fernández Rouyet",
-            "pageView": 2748
-        },
-        {
-            "page": "Davide Duca",
-            "pageView": 2559
-        },
-        {
-            "page": "Marco Coletti",
-            "pageView": 2514
-        },
-        {
-            "page": "Ulises Gamboa",
-            "pageView": 2453
-        },
-        {
-            "page": "Liviu Pascu",
-            "pageView": 2429
+            "pageView": 3,
+            "total": 4596
         },
         {
             "page": "Edoardo Ruffolo",
-            "pageView": 2338
+            "pageView": 3,
+            "total": 2342
         },
         {
-            "page": "Franco Bernini (rugbista)",
-            "pageView": 2302
+            "page": "Filippo Frati",
+            "pageView": 3,
+            "total": 5374
         },
         {
-            "page": "Stefano Saviozzi",
-            "pageView": 2179
+            "page": "Riccardo Goi",
+            "pageView": 3,
+            "total": 5617
         },
         {
-            "page": "Barbara Gonzaga (1482-1558)",
-            "pageView": 2152
+            "page": "Lorenzo Romano",
+            "pageView": 3,
+            "total": 4071
         },
         {
-            "page": "Giacomo Albé",
-            "pageView": 2039
+            "page": "Ormondo Maini",
+            "pageView": 3,
+            "total": 4324
         },
         {
-            "page": "Diego Saccà",
-            "pageView": 1964
+            "page": "Giorgio Bronzini",
+            "pageView": 3,
+            "total": 3594
         },
         {
-            "page": "Alfredo Boccolini",
-            "pageView": 1928
+            "page": "Filippo Gerosa",
+            "pageView": 3,
+            "total": 3986
         },
         {
-            "page": "Ettore Sanfelice",
-            "pageView": 1847
+            "page": "Kaine Robertson",
+            "pageView": 3,
+            "total": 6113
         },
         {
-            "page": "Sonny Parker (rugbista)",
-            "pageView": 1825
+            "page": "Andrea Moretti",
+            "pageView": 3,
+            "total": 4900
         },
         {
-            "page": "Marco Mortara",
-            "pageView": 1788
+            "page": "Roberto Santamaria",
+            "pageView": 3,
+            "total": 5294
         },
         {
-            "page": "Inoke Afeaki",
-            "pageView": 1776
+            "page": "Matteo Mazzantini",
+            "pageView": 3,
+            "total": 5044
+        },
+        {
+            "page": "Andrea Benatti",
+            "pageView": 3,
+            "total": 21797
         },
         {
             "page": "Michelangelo Biondelli",
-            "pageView": 1741
+            "pageView": 3,
+            "total": 1743
+        },
+        {
+            "page": "Regan Sue",
+            "pageView": 2,
+            "total": 3594
+        },
+        {
+            "page": "Inoke Afeaki",
+            "pageView": 2,
+            "total": 1777
+        },
+        {
+            "page": "Alfredo Boccolini",
+            "pageView": 2,
+            "total": 1931
+        },
+        {
+            "page": "Franco Bernini (rugbista)",
+            "pageView": 2,
+            "total": 2303
+        },
+        {
+            "page": "Keanu Apperley",
+            "pageView": 2,
+            "total": 3597
+        },
+        {
+            "page": "Andrea Barbieri",
+            "pageView": 2,
+            "total": 2857
+        },
+        {
+            "page": "Cristian Bezzi",
+            "pageView": 2,
+            "total": 3203
+        },
+        {
+            "page": "Romolo Deotto",
+            "pageView": 2,
+            "total": 3235
+        },
+        {
+            "page": "Michele Sepe",
+            "pageView": 2,
+            "total": 2987
+        },
+        {
+            "page": "Vando Freddi",
+            "pageView": 2,
+            "total": 3810
+        },
+        {
+            "page": "Marco Coletti",
+            "pageView": 2,
+            "total": 2514
+        },
+        {
+            "page": "Polla Roux",
+            "pageView": 2,
+            "total": 3352
+        },
+        {
+            "page": "Barbara Gonzaga (1482-1558)",
+            "pageView": 2,
+            "total": 2155
+        },
+        {
+            "page": "Pietro Travagli",
+            "pageView": 2,
+            "total": 3673
         },
         {
             "page": "Fernanda Gosetti",
-            "pageView": 1717
+            "pageView": 2,
+            "total": 1717
+        },
+        {
+            "page": "Davide Duca",
+            "pageView": 2,
+            "total": 2559
+        },
+        {
+            "page": "Jaco Erasmus",
+            "pageView": 2,
+            "total": 3399
+        },
+        {
+            "page": "Carlo Antonio del Fava",
+            "pageView": 2,
+            "total": 3673
+        },
+        {
+            "page": "Ignacio Fernández Rouyet",
+            "pageView": 2,
+            "total": 2748
+        },
+        {
+            "page": "Luigi Ferraro (rugbista)",
+            "pageView": 2,
+            "total": 4109
+        },
+        {
+            "page": "Stefano Saviozzi",
+            "pageView": 2,
+            "total": 2179
+        },
+        {
+            "page": "Ulises Gamboa",
+            "pageView": 2,
+            "total": 2466
+        },
+        {
+            "page": "Josh Sole",
+            "pageView": 2,
+            "total": 3610
+        },
+        {
+            "page": "Giorgio Montorio",
+            "pageView": 2,
+            "total": 2981
+        },
+        {
+            "page": "Diego Saccà",
+            "pageView": 2,
+            "total": 2009
+        },
+        {
+            "page": "Paolo Pavesi",
+            "pageView": 2,
+            "total": 3727
+        },
+        {
+            "page": "Corrado Pilat",
+            "pageView": 2,
+            "total": 3729
+        },
+        {
+            "page": "Gilberto Pavan",
+            "pageView": 2,
+            "total": 2805
+        },
+        {
+            "page": "Liviu Pascu",
+            "pageView": 2,
+            "total": 2429
+        },
+        {
+            "page": "Sonny Parker (rugbista)",
+            "pageView": 2,
+            "total": 1826
+        },
+        {
+            "page": "Giacomo Albé",
+            "pageView": 2,
+            "total": 2040
+        },
+        {
+            "page": "Stefano Romagnoli",
+            "pageView": 2,
+            "total": 3285
+        },
+        {
+            "page": "Ettore Sanfelice",
+            "pageView": 2,
+            "total": 1848
+        },
+        {
+            "page": "Luigi Milani",
+            "pageView": 2,
+            "total": 3385
+        },
+        {
+            "page": "Giovanni Tassoni",
+            "pageView": 2,
+            "total": 2773
+        },
+        {
+            "page": "Samuele Pace",
+            "pageView": 2,
+            "total": 3146
+        },
+        {
+            "page": "Carlos Nieto",
+            "pageView": 2,
+            "total": 3305
         },
         {
             "page": "Sandro Ceppolino",
-            "pageView": 1579
-        },
-        {
-            "page": "Mario Savi",
-            "pageView": 1536
-        },
-        {
-            "page": "Pierre Hola",
-            "pageView": 1482
-        },
-        {
-            "page": "Marius Delport",
-            "pageView": 1465
-        },
-        {
-            "page": "Pieter Muller",
-            "pageView": 1460
-        },
-        {
-            "page": "Gavin Quinnell",
-            "pageView": 1438
-        },
-        {
-            "page": "Sam Harding",
-            "pageView": 1302
-        },
-        {
-            "page": "Anselmo Folengo",
-            "pageView": 1249
-        },
-        {
-            "page": "Sam Cox",
-            "pageView": 1103
-        },
-        {
-            "page": "Lloyd Johansson",
-            "pageView": 1094
-        },
-        {
-            "page": "Jim Love",
-            "pageView": 1082
-        },
-        {
-            "page": "Phil Murphy",
-            "pageView": 1081
-        },
-        {
-            "page": "André De Bonis",
-            "pageView": 1005
+            "pageView": 1,
+            "total": 1579
         },
         {
             "page": "Isoa Neivua",
-            "pageView": 917
+            "pageView": 1,
+            "total": 920
         },
         {
-            "page": "Sean Hohneck",
-            "pageView": 861
+            "page": "Lloyd Johansson",
+            "pageView": 1,
+            "total": 1094
         },
         {
             "page": "Charlie Hore",
-            "pageView": 832
+            "pageView": 1,
+            "total": 833
         },
         {
-            "page": "Daniele Ponchiroli",
-            "pageView": 658
+            "page": "Pierre Hola",
+            "pageView": 1,
+            "total": 1482
+        },
+        {
+            "page": "Sean Hohneck",
+            "pageView": 1,
+            "total": 861
+        },
+        {
+            "page": "Jim Love",
+            "pageView": 1,
+            "total": 1082
+        },
+        {
+            "page": "Gavin Quinnell",
+            "pageView": 1,
+            "total": 1438
+        },
+        {
+            "page": "Sam Harding",
+            "pageView": 1,
+            "total": 1302
+        },
+        {
+            "page": "Marius Delport",
+            "pageView": 1,
+            "total": 1465
+        },
+        {
+            "page": "Sam Cox",
+            "pageView": 1,
+            "total": 1103
+        },
+        {
+            "page": "Phil Murphy",
+            "pageView": 1,
+            "total": 1082
+        },
+        {
+            "page": "Pieter Muller",
+            "pageView": 1,
+            "total": 1460
+        },
+        {
+            "page": "Marco Mortara",
+            "pageView": 1,
+            "total": 1788
+        },
+        {
+            "page": "Anselmo Folengo",
+            "pageView": 1,
+            "total": 1249
+        },
+        {
+            "page": "Mario Savi",
+            "pageView": 1,
+            "total": 1538
+        },
+        {
+            "page": "André De Bonis",
+            "pageView": 1,
+            "total": 1005
         },
         {
             "page": "Luigi Parazzi",
-            "pageView": 628
+            "pageView": 0,
+            "total": 628
         },
         {
-            "page": "Fernando Higgs",
-            "pageView": 189
+            "page": "Daniele Ponchiroli",
+            "pageView": 0,
+            "total": 658
         },
         {
             "page": "Mirko Amenta",
-            "pageView": 123
+            "pageView": 0,
+            "total": 123
+        },
+        {
+            "page": "Cherif Traorè",
+            "pageView": 0,
+            "total": 3528
+        },
+        {
+            "page": "Fernando Higgs",
+            "pageView": 0,
+            "total": 189
         }
     ]
 }

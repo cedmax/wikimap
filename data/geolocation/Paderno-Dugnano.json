@@ -1,0 +1,27 @@
+{
+    "id": "place.3784343910590110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paderno Dugnano",
+    "place_name": "Paderno Dugnano, Milano, Italy",
+    "bbox": [
+        9.135046,
+        45.551022,
+        9.202796,
+        45.592889
+    ],
+    "center": [
+        9.16667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            45.56667
+        ]
+    }
+}

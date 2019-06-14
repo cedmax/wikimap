@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Adelio Moro",
-            "pageView": 24827
+            "pageView": 16,
+            "total": 24853
         },
         {
             "page": "Nazzarena Grilli",
-            "pageView": 7349
-        },
-        {
-            "page": "Taddeo d'Este",
-            "pageView": 3391
+            "pageView": 4,
+            "total": 7371
         },
         {
             "page": "Elio Garavaglia",
-            "pageView": 2954
+            "pageView": 3,
+            "total": 2957
         },
         {
             "page": "Samantha Ceroni",
-            "pageView": 2343
+            "pageView": 2,
+            "total": 2344
         },
         {
             "page": "Paolo Fracassetti",
-            "pageView": 1333
+            "pageView": 2,
+            "total": 1333
+        },
+        {
+            "page": "Taddeo d'Este",
+            "pageView": 2,
+            "total": 3395
         },
         {
             "page": "Franco Lanzani",
-            "pageView": 791
+            "pageView": 1,
+            "total": 792
         }
     ]
 }

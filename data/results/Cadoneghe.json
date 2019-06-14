@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Giuseppe Oblach",
-            "pageView": 6350
-        },
-        {
-            "page": "Ivone Pinton",
-            "pageView": 3568
-        },
-        {
-            "page": "Lino Cauzzo",
-            "pageView": 3391
-        },
-        {
-            "page": "Pablo Esteban Belsito",
-            "pageView": 3368
-        },
-        {
-            "page": "Daniele Bargellini",
-            "pageView": 2575
-        },
-        {
-            "page": "Alfredo Esposito",
-            "pageView": 2128
-        },
-        {
-            "page": "Giulio Zanon",
-            "pageView": 2074
+            "pageView": 3,
+            "total": 6368
         },
         {
             "page": "Marco Androni",
-            "pageView": 1926
+            "pageView": 2,
+            "total": 1926
         },
         {
-            "page": "Gianluca Cappellato",
-            "pageView": 1790
+            "page": "Pablo Esteban Belsito",
+            "pageView": 2,
+            "total": 3369
         },
         {
-            "page": "Stefano Frizziero",
-            "pageView": 1680
+            "page": "Ivone Pinton",
+            "pageView": 2,
+            "total": 3569
+        },
+        {
+            "page": "Alfredo Esposito",
+            "pageView": 2,
+            "total": 2129
+        },
+        {
+            "page": "Giulio Zanon",
+            "pageView": 2,
+            "total": 2074
+        },
+        {
+            "page": "Daniele Bargellini",
+            "pageView": 2,
+            "total": 2575
+        },
+        {
+            "page": "Lino Cauzzo",
+            "pageView": 2,
+            "total": 3391
         },
         {
             "page": "Daniele Turiaco",
-            "pageView": 1626
+            "pageView": 1,
+            "total": 1627
+        },
+        {
+            "page": "Stefano Frizziero",
+            "pageView": 1,
+            "total": 1682
+        },
+        {
+            "page": "Gianluca Cappellato",
+            "pageView": 1,
+            "total": 1791
         },
         {
             "page": "Paolo Mingatti",
-            "pageView": 1530
+            "pageView": 1,
+            "total": 1530
         }
     ]
 }

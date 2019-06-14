@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Angelo Attaguile",
-            "pageView": 23112
+            "pageView": 11,
+            "total": 23128
         },
         {
             "page": "Giuseppe Compagnone",
-            "pageView": 9944
+            "pageView": 5,
+            "total": 9951
         },
         {
             "page": "Francesco Attaguile",
-            "pageView": 7128
+            "pageView": 4,
+            "total": 7131
         },
         {
             "page": "Angelo Rizzo (regista)",
-            "pageView": 6969
-        },
-        {
-            "page": "Francesco Gargano",
-            "pageView": 4923
-        },
-        {
-            "page": "Angelo Lombardo",
-            "pageView": 4827
+            "pageView": 4,
+            "total": 6970
         },
         {
             "page": "Gioacchino Attaguile",
-            "pageView": 4419
+            "pageView": 3,
+            "total": 4420
+        },
+        {
+            "page": "Francesco Gargano",
+            "pageView": 3,
+            "total": 4924
+        },
+        {
+            "page": "Angelo Lombardo",
+            "pageView": 3,
+            "total": 4834
         },
         {
             "page": "Giuseppe Bartolozzi",
-            "pageView": 3382
+            "pageView": 2,
+            "total": 3384
         },
         {
             "page": "Agrippino Manteo",
-            "pageView": 118
+            "pageView": 0,
+            "total": 118
         }
     ]
 }

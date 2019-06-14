@@ -1,0 +1,27 @@
+{
+    "id": "place.11343795990085780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sala Consilina",
+    "place_name": "Sala Consilina, Salerno, Italy",
+    "bbox": [
+        15.546658,
+        40.352587,
+        15.666779,
+        40.443404
+    ],
+    "center": [
+        15.6,
+        40.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.6,
+            40.4
+        ]
+    }
+}

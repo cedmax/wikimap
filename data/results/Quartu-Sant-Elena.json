@@ -3,159 +3,198 @@
     "people": [
         {
             "page": "Andrea Parodi",
-            "pageView": 342134
+            "pageView": 192,
+            "total": 342290
         },
         {
             "page": "Pago (cantante)",
-            "pageView": 131254
+            "pageView": 64,
+            "total": 131285
         },
         {
             "page": "Claudio Olinto de Carvalho",
-            "pageView": 83312
-        },
-        {
-            "page": "Marco Meloni",
-            "pageView": 17591
-        },
-        {
-            "page": "Antonio Vacca",
-            "pageView": 15692
+            "pageView": 32,
+            "total": 83343
         },
         {
             "page": "Renzo Cappellaro",
-            "pageView": 15015
+            "pageView": 9,
+            "total": 15020
         },
         {
-            "page": "Paolo Franzoni",
-            "pageView": 12109
+            "page": "Marco Meloni",
+            "pageView": 9,
+            "total": 17613
         },
         {
             "page": "Michelangelo Pira",
-            "pageView": 10509
+            "pageView": 7,
+            "total": 10512
+        },
+        {
+            "page": "Antonio Vacca",
+            "pageView": 7,
+            "total": 15694
+        },
+        {
+            "page": "Paolo Franzoni",
+            "pageView": 7,
+            "total": 12121
         },
         {
             "page": "Emanuele Gattelli",
-            "pageView": 7897
-        },
-        {
-            "page": "Goran Volarević",
-            "pageView": 7883
-        },
-        {
-            "page": "Ivan Alves Júnior",
-            "pageView": 6880
-        },
-        {
-            "page": "Moriano Tampucci",
-            "pageView": 6373
+            "pageView": 5,
+            "total": 7902
         },
         {
             "page": "Eligio Porcu",
-            "pageView": 5860
+            "pageView": 4,
+            "total": 5864
         },
         {
-            "page": "Daniele Goletti",
-            "pageView": 5385
+            "page": "Moriano Tampucci",
+            "pageView": 4,
+            "total": 6374
+        },
+        {
+            "page": "Goran Volarević",
+            "pageView": 4,
+            "total": 7884
+        },
+        {
+            "page": "Ivan Alves Júnior",
+            "pageView": 4,
+            "total": 6899
         },
         {
             "page": "Stefano Vavoli",
-            "pageView": 5353
-        },
-        {
-            "page": "Vincenzo Soro",
-            "pageView": 5259
-        },
-        {
-            "page": "Massimo Perra",
-            "pageView": 5031
-        },
-        {
-            "page": "Michele Luongo",
-            "pageView": 4873
-        },
-        {
-            "page": "Simona Abbate",
-            "pageView": 4233
+            "pageView": 3.5,
+            "total": 5356
         },
         {
             "page": "Antracite Lignano",
-            "pageView": 4216
+            "pageView": 3,
+            "total": 4219
+        },
+        {
+            "page": "Michele Luongo",
+            "pageView": 3,
+            "total": 4883
+        },
+        {
+            "page": "Massimo Perra",
+            "pageView": 3,
+            "total": 5031
+        },
+        {
+            "page": "Daniele Goletti",
+            "pageView": 3,
+            "total": 5387
+        },
+        {
+            "page": "Vincenzo Soro",
+            "pageView": 3,
+            "total": 5259
+        },
+        {
+            "page": "Simona Abbate",
+            "pageView": 3,
+            "total": 4233
         },
         {
             "page": "Matteo Astarita",
-            "pageView": 3952
-        },
-        {
-            "page": "Marco Mugnaini",
-            "pageView": 3692
-        },
-        {
-            "page": "Filip Klikovac",
-            "pageView": 3621
-        },
-        {
-            "page": "Roberto Leschio",
-            "pageView": 3520
-        },
-        {
-            "page": "Marco Torcivia",
-            "pageView": 3250
-        },
-        {
-            "page": "Conrado Sampaio",
-            "pageView": 3222
-        },
-        {
-            "page": "Enrico Cocco",
-            "pageView": 2880
-        },
-        {
-            "page": "Virgilio Angioni",
-            "pageView": 2689
-        },
-        {
-            "page": "Géza Boldizsár",
-            "pageView": 2636
-        },
-        {
-            "page": "Shea Buckner",
-            "pageView": 2299
+            "pageView": 3,
+            "total": 3953
         },
         {
             "page": "Gaetano Berretta",
-            "pageView": 2117
+            "pageView": 2,
+            "total": 2117
         },
         {
-            "page": "Rino Sudano",
-            "pageView": 1941
+            "page": "Roberto Leschio",
+            "pageView": 2,
+            "total": 3520
         },
         {
             "page": "Adelmo Pereira",
-            "pageView": 1872
+            "pageView": 2,
+            "total": 1874
         },
         {
-            "page": "Alessia Fadda",
-            "pageView": 1680
+            "page": "Conrado Sampaio",
+            "pageView": 2,
+            "total": 3223
         },
         {
-            "page": "Mariano Tallaferro",
-            "pageView": 1606
+            "page": "Marco Mugnaini",
+            "pageView": 2,
+            "total": 3692
         },
         {
-            "page": "Giovanni Sarritzu",
-            "pageView": 1457
+            "page": "Marco Torcivia",
+            "pageView": 2,
+            "total": 3251
+        },
+        {
+            "page": "Géza Boldizsár",
+            "pageView": 2,
+            "total": 2637
+        },
+        {
+            "page": "Filip Klikovac",
+            "pageView": 2,
+            "total": 3621
         },
         {
             "page": "Ramiro López Díaz",
-            "pageView": 1207
+            "pageView": 2,
+            "total": 1207
+        },
+        {
+            "page": "Enrico Cocco",
+            "pageView": 2,
+            "total": 2883
+        },
+        {
+            "page": "Virgilio Angioni",
+            "pageView": 2,
+            "total": 2689
+        },
+        {
+            "page": "Shea Buckner",
+            "pageView": 2,
+            "total": 2305
+        },
+        {
+            "page": "Rino Sudano",
+            "pageView": 2,
+            "total": 1941
         },
         {
             "page": "Giovanni Graffigna",
-            "pageView": 1199
+            "pageView": 1,
+            "total": 1199
+        },
+        {
+            "page": "Giovanni Sarritzu",
+            "pageView": 1,
+            "total": 1458
+        },
+        {
+            "page": "Alessia Fadda",
+            "pageView": 1,
+            "total": 1682
+        },
+        {
+            "page": "Mariano Tallaferro",
+            "pageView": 1,
+            "total": 1609
         },
         {
             "page": "Francesco Cogoni",
-            "pageView": 870
+            "pageView": 0,
+            "total": 871
         }
     ]
 }

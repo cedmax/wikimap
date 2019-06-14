@@ -1,0 +1,29 @@
+{
+    "id": "place.10852801849138790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "San Martino in Badia - St. Martin in Thurn",
+    "place_name": "San Martino in Badia - St. Martin in Thurn, Bolzano, Italy",
+    "matching_text": "San Martino in Badia",
+    "matching_place_name": "San Martino in Badia, Bolzano, Italy",
+    "bbox": [
+        11.782605,
+        46.594153,
+        11.925922,
+        46.707696
+    ],
+    "center": [
+        11.9,
+        46.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9,
+            46.68333
+        ]
+    }
+}

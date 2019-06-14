@@ -1,0 +1,27 @@
+{
+    "id": "place.10422681710679620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Modigliana",
+    "place_name": "Modigliana, Forli'-Cesena, Italy",
+    "bbox": [
+        11.715719,
+        44.082311,
+        11.888506,
+        44.199399
+    ],
+    "center": [
+        11.8,
+        44.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            44.16667
+        ]
+    }
+}

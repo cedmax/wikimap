@@ -1,0 +1,27 @@
+{
+    "id": "place.14742227038554940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vittoria",
+    "place_name": "Vittoria, Ragusa, Italy",
+    "bbox": [
+        14.387678,
+        36.873858,
+        14.59743,
+        37.053186
+    ],
+    "center": [
+        14.53333,
+        36.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            36.95
+        ]
+    }
+}

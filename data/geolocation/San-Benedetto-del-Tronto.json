@@ -1,0 +1,27 @@
+{
+    "id": "place.12616154503797970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Benedetto del Tronto",
+    "place_name": "San Benedetto del Tronto, Ascoli Piceno, Italy",
+    "bbox": [
+        13.834534,
+        42.891505,
+        13.91626,
+        42.962999
+    ],
+    "center": [
+        13.88333,
+        42.94378
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88333,
+            42.94378
+        ]
+    }
+}

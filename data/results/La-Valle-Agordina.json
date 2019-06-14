@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Armando Da Roit",
-            "pageView": 1456
+            "pageView": 1,
+            "total": 1456
         },
         {
             "page": "Alfeo Zanini",
-            "pageView": 954
+            "pageView": 1,
+            "total": 956
         }
     ]
 }

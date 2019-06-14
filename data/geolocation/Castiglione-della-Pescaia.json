@@ -1,0 +1,27 @@
+{
+    "id": "place.3419841726123510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione della Pescaia",
+    "place_name": "Castiglione della Pescaia, Grosseto, Italy",
+    "bbox": [
+        10.729849,
+        42.753053,
+        11.043477,
+        42.888672
+    ],
+    "center": [
+        10.88083,
+        42.76556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.88083,
+            42.76556
+        ]
+    }
+}

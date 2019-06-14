@@ -1,0 +1,27 @@
+{
+    "id": "place.15081196832878440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arpino",
+    "place_name": "Arpino, Frosinone, Italy",
+    "bbox": [
+        13.552685,
+        41.603951,
+        13.698122,
+        41.692882
+    ],
+    "center": [
+        13.61155,
+        41.64705
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.61155,
+            41.64705
+        ]
+    }
+}

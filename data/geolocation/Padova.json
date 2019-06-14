@@ -1,0 +1,27 @@
+{
+    "id": "place.8181397295959010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Padova",
+    "place_name": "Padova, Padova, Italy",
+    "bbox": [
+        11.805291,
+        45.339975,
+        11.976522,
+        45.457321
+    ],
+    "center": [
+        11.87778,
+        45.40639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.87778,
+            45.40639
+        ]
+    }
+}

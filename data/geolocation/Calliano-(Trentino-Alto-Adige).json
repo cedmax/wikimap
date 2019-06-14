@@ -1,0 +1,27 @@
+{
+    "id": "place.11291205068852060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Calliano",
+    "place_name": "Calliano, Asti, Italy",
+    "bbox": [
+        8.20988,
+        44.978929,
+        8.291923,
+        45.026139
+    ],
+    "center": [
+        8.25861,
+        45.00944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.25861,
+            45.00944
+        ]
+    }
+}

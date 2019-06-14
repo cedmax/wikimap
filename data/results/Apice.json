@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Stanislao Bozzi",
-            "pageView": 11527
-        },
-        {
-            "page": "Vittorino Villani",
-            "pageView": 2836
+            "pageView": 7,
+            "total": 11537
         },
         {
             "page": "Antonino Fiorile",
-            "pageView": 2515
+            "pageView": 2,
+            "total": 2517
+        },
+        {
+            "page": "Vittorino Villani",
+            "pageView": 2,
+            "total": 2838
         },
         {
             "page": "Francesco Falcetti",
-            "pageView": 1201
+            "pageView": 1,
+            "total": 1202
         }
     ]
 }

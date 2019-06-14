@@ -1,0 +1,27 @@
+{
+    "id": "place.7219309441840790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brivio",
+    "place_name": "Brivio, Lecco, Italy",
+    "bbox": [
+        9.415037,
+        45.728103,
+        9.457155,
+        45.781338
+    ],
+    "center": [
+        9.45,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.45,
+            45.75
+        ]
+    }
+}

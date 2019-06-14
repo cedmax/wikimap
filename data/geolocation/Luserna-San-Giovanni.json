@@ -1,0 +1,27 @@
+{
+    "id": "place.18621201975511140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Luserna San Giovanni",
+    "place_name": "Luserna San Giovanni, Torino, Italy",
+    "bbox": [
+        7.199864,
+        44.761744,
+        7.286347,
+        44.840232
+    ],
+    "center": [
+        7.25,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.25,
+            44.81667
+        ]
+    }
+}

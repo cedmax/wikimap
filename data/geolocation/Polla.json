@@ -1,0 +1,27 @@
+{
+    "id": "place.6178023858044980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polla",
+    "place_name": "Polla, Salerno, Italy",
+    "bbox": [
+        15.411567,
+        40.480961,
+        15.550212,
+        40.542898
+    ],
+    "center": [
+        15.5,
+        40.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.5,
+            40.51667
+        ]
+    }
+}

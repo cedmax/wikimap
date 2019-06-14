@@ -1,0 +1,27 @@
+{
+    "id": "place.8134010161027770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Schiavi di Abruzzo",
+    "place_name": "Schiavi di Abruzzo, Chieti, Italy",
+    "bbox": [
+        14.447344,
+        41.759485,
+        14.533995,
+        41.850677
+    ],
+    "center": [
+        14.48478,
+        41.81604
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48478,
+            41.81604
+        ]
+    }
+}

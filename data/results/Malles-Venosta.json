@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Arnaldo Di Benedetto",
-            "pageView": 15851
-        },
-        {
-            "page": "Richard Theiner",
-            "pageView": 5668
+            "pageView": 10,
+            "total": 15859
         },
         {
             "page": "Franco Miotto",
-            "pageView": 5386
+            "pageView": 3,
+            "total": 5388
         },
         {
             "page": "Karl Plattner",
-            "pageView": 4974
+            "pageView": 3,
+            "total": 4979
         },
         {
-            "page": "Eduard Habicher",
-            "pageView": 1079
+            "page": "Richard Theiner",
+            "pageView": 3,
+            "total": 5676
         },
         {
             "page": "Florin di Remüs",
-            "pageView": 738
+            "pageView": 1,
+            "total": 738
         },
         {
-            "page": "Omicidio di Gabriel Grüner e Volker Krämer",
-            "pageView": 488
+            "page": "Eduard Habicher",
+            "pageView": 1,
+            "total": 1082
         },
         {
             "page": "Klara Angerer",
-            "pageView": 205
+            "pageView": 0,
+            "total": 206
+        },
+        {
+            "page": "Omicidio di Gabriel Grüner e Volker Krämer",
+            "pageView": 0,
+            "total": 593
         },
         {
             "page": "Ignaz Verdroß von Droßberg",
-            "pageView": 185
+            "pageView": 0,
+            "total": 188
         }
     ]
 }

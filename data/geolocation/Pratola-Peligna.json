@@ -1,0 +1,27 @@
+{
+    "id": "place.10871293639304590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pratola Peligna",
+    "place_name": "Pratola Peligna, L'Aquila, Italy",
+    "bbox": [
+        13.849214,
+        42.058938,
+        13.959498,
+        42.134702
+    ],
+    "center": [
+        13.87472,
+        42.09917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.87472,
+            42.09917
+        ]
+    }
+}

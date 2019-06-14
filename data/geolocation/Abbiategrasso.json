@@ -1,0 +1,27 @@
+{
+    "id": "place.10258939963730470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Abbiategrasso",
+    "place_name": "Abbiategrasso, Milano, Italy",
+    "bbox": [
+        8.839914,
+        45.318557,
+        8.962675,
+        45.421406
+    ],
+    "center": [
+        8.9185,
+        45.4009
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9185,
+            45.4009
+        ]
+    }
+}

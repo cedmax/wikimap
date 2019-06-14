@@ -1,0 +1,27 @@
+{
+    "id": "place.9623429001283350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Patti",
+    "place_name": "Patti, Messina, Italy",
+    "bbox": [
+        14.932349,
+        38.071795,
+        15.063884,
+        38.157206
+    ],
+    "center": [
+        14.96667,
+        38.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.96667,
+            38.13333
+        ]
+    }
+}

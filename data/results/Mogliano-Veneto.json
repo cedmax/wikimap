@@ -3,287 +3,358 @@
     "people": [
         {
             "page": "Giovanni Battista Piranesi",
-            "pageView": 141725
-        },
-        {
-            "page": "Giuseppe Pillon",
-            "pageView": 125367
+            "pageView": 95,
+            "total": 141815
         },
         {
             "page": "Giuseppe Berto",
-            "pageView": 102731
+            "pageView": 61,
+            "total": 102806
+        },
+        {
+            "page": "Giuseppe Pillon",
+            "pageView": 52,
+            "total": 125411
         },
         {
             "page": "Rey Volpato",
-            "pageView": 53094
+            "pageView": 30,
+            "total": 53112
         },
         {
             "page": "Toti Dal Monte",
-            "pageView": 33011
-        },
-        {
-            "page": "Eraldo Mancin",
-            "pageView": 21310
-        },
-        {
-            "page": "Marco Fuser",
-            "pageView": 20693
+            "pageView": 17,
+            "total": 33020
         },
         {
             "page": "Mario Toso",
-            "pageView": 18762
+            "pageView": 11,
+            "total": 18803
         },
         {
-            "page": "Davide Giazzon",
-            "pageView": 18311
-        },
-        {
-            "page": "Braam Steyn",
-            "pageView": 18092
-        },
-        {
-            "page": "Enrico Bacchin",
-            "pageView": 15974
-        },
-        {
-            "page": "Stefano Bettarello",
-            "pageView": 11458
-        },
-        {
-            "page": "David Odiete",
-            "pageView": 10253
-        },
-        {
-            "page": "Gianni Tamino",
-            "pageView": 9977
-        },
-        {
-            "page": "Ornel Gega",
-            "pageView": 9958
-        },
-        {
-            "page": "Aristide Barraud",
-            "pageView": 9432
-        },
-        {
-            "page": "Leonardo Muraro",
-            "pageView": 9120
-        },
-        {
-            "page": "Fabio Semenzato",
-            "pageView": 7981
+            "page": "Eraldo Mancin",
+            "pageView": 10,
+            "total": 21318
         },
         {
             "page": "Edoardo Padovani",
-            "pageView": 7592
+            "pageView": 7,
+            "total": 7594
+        },
+        {
+            "page": "David Odiete",
+            "pageView": 6,
+            "total": 10254
+        },
+        {
+            "page": "Stefano Bettarello",
+            "pageView": 6,
+            "total": 11460
+        },
+        {
+            "page": "Leonardo Muraro",
+            "pageView": 6,
+            "total": 9123
+        },
+        {
+            "page": "Gianni Tamino",
+            "pageView": 6,
+            "total": 9986
+        },
+        {
+            "page": "Braam Steyn",
+            "pageView": 6,
+            "total": 18102
         },
         {
             "page": "Simone Ferrari",
-            "pageView": 7179
+            "pageView": 6,
+            "total": 7184
         },
         {
-            "page": "Giorgio Vignando",
-            "pageView": 6763
+            "page": "Fabio Semenzato",
+            "pageView": 5,
+            "total": 7982
         },
         {
-            "page": "Alberto Sgarbi",
-            "pageView": 6697
+            "page": "Marco Fuser",
+            "pageView": 5,
+            "total": 20742
         },
         {
             "page": "Erminio Ferretto",
-            "pageView": 6478
+            "pageView": 4,
+            "total": 6484
+        },
+        {
+            "page": "Davide Giazzon",
+            "pageView": 4,
+            "total": 18382
+        },
+        {
+            "page": "Alberto Sgarbi",
+            "pageView": 4,
+            "total": 6700
         },
         {
             "page": "Salvatore Costanzo",
-            "pageView": 6382
+            "pageView": 4,
+            "total": 6382
         },
         {
-            "page": "Alberto Zorzi",
-            "pageView": 5602
+            "page": "Enrico Bacchin",
+            "pageView": 4,
+            "total": 16018
         },
         {
-            "page": "Francesco Mazzariol",
-            "pageView": 5545
+            "page": "Giorgio Vignando",
+            "pageView": 4,
+            "total": 6764
         },
         {
-            "page": "Alberto Lucchese",
-            "pageView": 5265
-        },
-        {
-            "page": "Ezio Galon",
-            "pageView": 4795
-        },
-        {
-            "page": "Michele Visentin",
-            "pageView": 4656
-        },
-        {
-            "page": "Andrea Cavinato",
-            "pageView": 4334
-        },
-        {
-            "page": "Sandro Fuga",
-            "pageView": 4219
+            "page": "Ornel Gega",
+            "pageView": 4,
+            "total": 9958
         },
         {
             "page": "Costante Gris",
-            "pageView": 4085
+            "pageView": 3,
+            "total": 4089
+        },
+        {
+            "page": "Michele Visentin",
+            "pageView": 3,
+            "total": 4656
+        },
+        {
+            "page": "Aristide Barraud",
+            "pageView": 3,
+            "total": 9433
+        },
+        {
+            "page": "Ezio Galon",
+            "pageView": 3,
+            "total": 4797
+        },
+        {
+            "page": "Francesco Mazzariol",
+            "pageView": 3,
+            "total": 5547
+        },
+        {
+            "page": "Sandro Fuga",
+            "pageView": 3,
+            "total": 4221
+        },
+        {
+            "page": "Andrea Cavinato",
+            "pageView": 3,
+            "total": 4336
+        },
+        {
+            "page": "Alberto Zorzi",
+            "pageView": 3,
+            "total": 5604
         },
         {
             "page": "Giuseppe Boldini",
-            "pageView": 4009
-        },
-        {
-            "page": "Enrico Ceccato",
-            "pageView": 3940
+            "pageView": 3,
+            "total": 4012
         },
         {
             "page": "Luca Sperandio",
-            "pageView": 3895
+            "pageView": 3,
+            "total": 3898
         },
         {
-            "page": "Andrea Sgorlon",
-            "pageView": 3882
-        },
-        {
-            "page": "Bruno Marton (1913-1988)",
-            "pageView": 3582
-        },
-        {
-            "page": "Ruggero Salar",
-            "pageView": 3434
-        },
-        {
-            "page": "Massimiliano Perziano",
-            "pageView": 3321
-        },
-        {
-            "page": "Eugenio Eugenio",
-            "pageView": 3290
-        },
-        {
-            "page": "Giovanni Giuliani",
-            "pageView": 3136
+            "page": "Alberto Lucchese",
+            "pageView": 3,
+            "total": 5266
         },
         {
             "page": "Piero Slongo",
-            "pageView": 3099
-        },
-        {
-            "page": "Enrico Pavanello",
-            "pageView": 3068
+            "pageView": 2,
+            "total": 3101
         },
         {
             "page": "Antonio Bortoletti",
-            "pageView": 2804
+            "pageView": 2,
+            "total": 2805
         },
         {
-            "page": "Gabriele Cicchinelli",
-            "pageView": 2788
+            "page": "Ruggero Salar",
+            "pageView": 2,
+            "total": 3434
+        },
+        {
+            "page": "Bruno Marton (1913-1988)",
+            "pageView": 2,
+            "total": 3584
+        },
+        {
+            "page": "Eugenio Eugenio",
+            "pageView": 2,
+            "total": 3290
         },
         {
             "page": "Ignacio Fernández Rouyet",
-            "pageView": 2748
-        },
-        {
-            "page": "Gastone Nordio",
-            "pageView": 2653
-        },
-        {
-            "page": "Marco Filippucci",
-            "pageView": 2586
-        },
-        {
-            "page": "Silvio Orlando (rugbista)",
-            "pageView": 2484
-        },
-        {
-            "page": "Massimiliano Ravalle",
-            "pageView": 2458
+            "pageView": 2,
+            "total": 2748
         },
         {
             "page": "Mario Pavin",
-            "pageView": 2446
-        },
-        {
-            "page": "Vincenzo Monaldi (calciatore)",
-            "pageView": 2218
+            "pageView": 2,
+            "total": 2446
         },
         {
             "page": "Stefano Saviozzi",
-            "pageView": 2179
+            "pageView": 2,
+            "total": 2179
         },
         {
-            "page": "Mario Barbon",
-            "pageView": 1837
+            "page": "Massimiliano Ravalle",
+            "pageView": 2,
+            "total": 2458
         },
         {
-            "page": "Fausto Vicino",
-            "pageView": 1794
+            "page": "Massimiliano Perziano",
+            "pageView": 2,
+            "total": 3321
+        },
+        {
+            "page": "Enrico Pavanello",
+            "pageView": 2,
+            "total": 3068
+        },
+        {
+            "page": "Enrico Ceccato",
+            "pageView": 2,
+            "total": 3941
+        },
+        {
+            "page": "Gabriele Cicchinelli",
+            "pageView": 2,
+            "total": 2788
+        },
+        {
+            "page": "Giovanni Giuliani",
+            "pageView": 2,
+            "total": 3137
+        },
+        {
+            "page": "Marco Filippucci",
+            "pageView": 2,
+            "total": 2586
+        },
+        {
+            "page": "Andrea Sgorlon",
+            "pageView": 2,
+            "total": 3884
+        },
+        {
+            "page": "Silvio Orlando (rugbista)",
+            "pageView": 2,
+            "total": 2485
+        },
+        {
+            "page": "Gastone Nordio",
+            "pageView": 2,
+            "total": 2655
+        },
+        {
+            "page": "Vincenzo Monaldi (calciatore)",
+            "pageView": 2,
+            "total": 2218
         },
         {
             "page": "Emiliano Mulieri",
-            "pageView": 1794
+            "pageView": 2,
+            "total": 1796
         },
         {
-            "page": "Giuseppe Vasco Vian",
-            "pageView": 1706
-        },
-        {
-            "page": "Giuseppe Marton",
-            "pageView": 1599
-        },
-        {
-            "page": "Luca Zara",
-            "pageView": 1526
-        },
-        {
-            "page": "Alberto Saccardo",
-            "pageView": 1469
-        },
-        {
-            "page": "Marco Barbini",
-            "pageView": 1469
+            "page": "Mario Barbon",
+            "pageView": 1,
+            "total": 1837
         },
         {
             "page": "Leontina Papà",
-            "pageView": 1469
+            "pageView": 1,
+            "total": 1469
         },
         {
-            "page": "Andrea Sartoretto",
-            "pageView": 1441
-        },
-        {
-            "page": "Cristian Săuan",
-            "pageView": 1285
+            "page": "Fausto Vicino",
+            "pageView": 1,
+            "total": 1794
         },
         {
             "page": "Pablo Calanchini",
-            "pageView": 1255
+            "pageView": 1,
+            "total": 1255
         },
         {
-            "page": "Giuseppe Grigoletto e Savino Pasqualato",
-            "pageView": 1215
+            "page": "Luca Zara",
+            "pageView": 1,
+            "total": 1526
         },
         {
-            "page": "Umberto Casellato",
-            "pageView": 1093
+            "page": "Giuseppe Marton",
+            "pageView": 1,
+            "total": 1599
+        },
+        {
+            "page": "Giuseppe Vasco Vian",
+            "pageView": 1,
+            "total": 1706
+        },
+        {
+            "page": "Andrea Sartoretto",
+            "pageView": 1,
+            "total": 1441
         },
         {
             "page": "Luigi Scanselli",
-            "pageView": 1040
+            "pageView": 1,
+            "total": 1040
+        },
+        {
+            "page": "Giuseppe Grigoletto e Savino Pasqualato",
+            "pageView": 1,
+            "total": 1215
+        },
+        {
+            "page": "Cristian Săuan",
+            "pageView": 1,
+            "total": 1285
+        },
+        {
+            "page": "Marco Barbini",
+            "pageView": 0,
+            "total": 1473
         },
         {
             "page": "Derrick Appiah",
-            "pageView": 1033
+            "pageView": 0,
+            "total": 1036
         },
         {
-            "page": "Giovanni Sardi",
-            "pageView": 893
+            "page": "Alberto Saccardo",
+            "pageView": 0,
+            "total": 1471
+        },
+        {
+            "page": "Umberto Casellato",
+            "pageView": 0,
+            "total": 1095
         },
         {
             "page": "Galdina Baruzzo",
-            "pageView": 12
+            "pageView": 0,
+            "total": 12
+        },
+        {
+            "page": "Giovanni Sardi",
+            "pageView": 0,
+            "total": 900
         }
     ]
 }

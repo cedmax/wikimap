@@ -1,0 +1,27 @@
+{
+    "id": "place.11912905574428660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solarino",
+    "place_name": "Solarino, Siracusa, Italy",
+    "bbox": [
+        15.070759,
+        37.089176,
+        15.148369,
+        37.116399
+    ],
+    "center": [
+        15.11667,
+        37.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            37.1
+        ]
+    }
+}

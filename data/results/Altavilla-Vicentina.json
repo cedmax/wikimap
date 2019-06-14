@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Imerio Massignan",
-            "pageView": 18679
+            "pageView": 11,
+            "total": 18695
         },
         {
             "page": "Albano Vicariotto",
-            "pageView": 4988
+            "pageView": 3,
+            "total": 4992
         },
         {
             "page": "Enrico Massignan",
-            "pageView": 2741
+            "pageView": 2,
+            "total": 2745
         },
         {
             "page": "Giuseppe Cesaro",
-            "pageView": 1795
+            "pageView": 1,
+            "total": 1796
         },
         {
             "page": "Davide Ghiotto",
-            "pageView": 746
+            "pageView": 0,
+            "total": 748
         }
     ]
 }

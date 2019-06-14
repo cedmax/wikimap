@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Mario Gori",
-            "pageView": 9697
-        },
-        {
-            "page": "Vincenzo Caruso",
-            "pageView": 5977
+            "pageView": 5,
+            "total": 9702
         },
         {
             "page": "Pierantonio Sandri",
-            "pageView": 5082
+            "pageView": 3,
+            "total": 5084
         },
         {
-            "page": "Nicola Gioitta",
-            "pageView": 3976
+            "page": "Vincenzo Caruso",
+            "pageView": 3,
+            "total": 5981
         },
         {
             "page": "Angela Basarocco",
-            "pageView": 2090
+            "pageView": 2,
+            "total": 2091
+        },
+        {
+            "page": "Nicola Gioitta",
+            "pageView": 2,
+            "total": 3981
         },
         {
             "page": "Angelo Marsiano",
-            "pageView": 1933
-        },
-        {
-            "page": "Giacomo Etna",
-            "pageView": 1867
+            "pageView": 2,
+            "total": 1933
         },
         {
             "page": "Tommaso Masaracchio",
-            "pageView": 1823
+            "pageView": 2,
+            "total": 1823
+        },
+        {
+            "page": "Giacomo Etna",
+            "pageView": 1,
+            "total": 1868
         },
         {
             "page": "Pasquale Salvatore Samperi",
-            "pageView": 1350
+            "pageView": 1,
+            "total": 1351
         }
     ]
 }

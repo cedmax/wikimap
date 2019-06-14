@@ -1,0 +1,21 @@
+{
+    "id": "poi.2473901225708",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Regina",
+    "place_name": "Regina, Via Renon 1, Bolzano - Bozen, Bolzano 39100, Italy",
+    "center": [
+        11.359029,
+        46.497311
+    ],
+    "geometry": {
+        "coordinates": [
+            11.359029,
+            46.497311
+        ],
+        "type": "Point"
+    }
+}

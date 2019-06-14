@@ -1,0 +1,27 @@
+{
+    "id": "place.10353029215503840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grado",
+    "place_name": "Grado, Gorizia, Italy",
+    "bbox": [
+        13.250826,
+        45.674819,
+        13.552703,
+        45.754394
+    ],
+    "center": [
+        13.4,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            45.68333
+        ]
+    }
+}

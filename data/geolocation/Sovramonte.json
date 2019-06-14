@@ -1,0 +1,27 @@
+{
+    "id": "place.11840235301093880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sovramonte",
+    "place_name": "Sovramonte, Belluno, Italy",
+    "bbox": [
+        11.758911,
+        46.023635,
+        11.859491,
+        46.111667
+    ],
+    "center": [
+        11.78333,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            46.06667
+        ]
+    }
+}

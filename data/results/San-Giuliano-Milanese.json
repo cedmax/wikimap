@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Rino Marchesi",
-            "pageView": 60716
+            "pageView": 38,
+            "total": 60788
         },
         {
             "page": "Francesco Coccopalmerio",
-            "pageView": 48641
+            "pageView": 26,
+            "total": 48666
         },
         {
             "page": "Dario D'Ambrosi",
-            "pageView": 31313
-        },
-        {
-            "page": "Ernesto Grassani",
-            "pageView": 3293
+            "pageView": 15,
+            "total": 31350
         },
         {
             "page": "Giampiero Bassi",
-            "pageView": 2639
+            "pageView": 2,
+            "total": 2641
+        },
+        {
+            "page": "Ernesto Grassani",
+            "pageView": 2,
+            "total": 3295
         },
         {
             "page": "Virginio Costa",
-            "pageView": 1470
+            "pageView": 1,
+            "total": 1470
         }
     ]
 }

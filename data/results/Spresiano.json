@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Roberto Premier",
-            "pageView": 27677
+            "pageView": 16,
+            "total": 27698
         },
         {
             "page": "Bruno Pasut",
-            "pageView": 2088
-        },
-        {
-            "page": "Guido Brandolini",
-            "pageView": 1549
+            "pageView": 2,
+            "total": 2089
         },
         {
             "page": "Luigi Sartori",
-            "pageView": 1505
+            "pageView": 2,
+            "total": 1505
         },
         {
-            "page": "Mauro Piccoli",
-            "pageView": 1478
+            "page": "Guido Brandolini",
+            "pageView": 1,
+            "total": 1550
         },
         {
             "page": "Giulio Gherlandi",
-            "pageView": 1452
+            "pageView": 1,
+            "total": 1452
+        },
+        {
+            "page": "Mauro Piccoli",
+            "pageView": 1,
+            "total": 1478
         },
         {
             "page": "Mirco Tagliamento",
-            "pageView": 1381
+            "pageView": 1,
+            "total": 1381
         }
     ]
 }

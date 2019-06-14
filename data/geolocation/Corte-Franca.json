@@ -1,0 +1,27 @@
+{
+    "id": "place.10243456328005120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corte Franca",
+    "place_name": "Corte Franca, Brescia, Italy",
+    "bbox": [
+        9.972527,
+        45.603486,
+        10.029907,
+        45.652842
+    ],
+    "center": [
+        9.98333,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            45.63333
+        ]
+    }
+}

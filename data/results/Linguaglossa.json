@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Francesco Messina",
-            "pageView": 50288
+            "pageView": 32,
+            "total": 50312
         },
         {
             "page": "Salvatore Cannavò",
-            "pageView": 11582
+            "pageView": 7,
+            "total": 11603
         },
         {
             "page": "Frank Puglia",
-            "pageView": 9024
+            "pageView": 5,
+            "total": 9027
         },
         {
             "page": "Attilio Castrogiovanni",
-            "pageView": 6484
+            "pageView": 4,
+            "total": 6488
         },
         {
             "page": "Santo Calì",
-            "pageView": 5505
-        },
-        {
-            "page": "Giovanni Previtera",
-            "pageView": 3319
+            "pageView": 3,
+            "total": 5506
         },
         {
             "page": "Giuseppe Dato",
-            "pageView": 3096
+            "pageView": 2,
+            "total": 3098
+        },
+        {
+            "page": "Giovanni Previtera",
+            "pageView": 2,
+            "total": 3320
         },
         {
             "page": "Francesco Maria Raiti",
-            "pageView": 718
+            "pageView": 0,
+            "total": 719
         }
     ]
 }

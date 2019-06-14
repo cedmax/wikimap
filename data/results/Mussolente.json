@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Silvano Maria Tomasi",
-            "pageView": 13619
-        },
-        {
-            "page": "Carlo Zardo",
-            "pageView": 4456
+            "pageView": 8,
+            "total": 13626
         },
         {
             "page": "Cornelio Sebastiano Cuccarollo",
-            "pageView": 2136
+            "pageView": 3,
+            "total": 2139
         },
         {
             "page": "Giuseppe Saretta",
-            "pageView": 1429
+            "pageView": 2,
+            "total": 1429
+        },
+        {
+            "page": "Carlo Zardo",
+            "pageView": 2,
+            "total": 4457
         }
     ]
 }

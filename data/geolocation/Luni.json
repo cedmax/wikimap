@@ -1,0 +1,29 @@
+{
+    "id": "place.17096071772074850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Ortonovo",
+    "place_name": "Ortonovo, La Spezia, Italy",
+    "matching_text": "Luni",
+    "matching_place_name": "Luni, La Spezia, Italy",
+    "bbox": [
+        9.999273,
+        44.056315,
+        10.071687,
+        44.115458
+    ],
+    "center": [
+        10.04203,
+        44.08484
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.04203,
+            44.08484
+        ]
+    }
+}

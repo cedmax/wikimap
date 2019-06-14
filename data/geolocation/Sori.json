@@ -1,0 +1,27 @@
+{
+    "id": "place.12205359743186360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sori",
+    "place_name": "Sori, Genova, Italy",
+    "bbox": [
+        9.088776,
+        44.3641,
+        9.133277,
+        44.416103
+    ],
+    "center": [
+        9.10423,
+        44.37269
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.10423,
+            44.37269
+        ]
+    }
+}

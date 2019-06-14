@@ -1,0 +1,27 @@
+{
+    "id": "place.6602607001291020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Breganze",
+    "place_name": "Breganze, Vicenza, Italy",
+    "bbox": [
+        11.544147,
+        45.672053,
+        11.621878,
+        45.734949
+    ],
+    "center": [
+        11.56667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            45.7
+        ]
+    }
+}

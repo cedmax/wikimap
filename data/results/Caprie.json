@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Giovanni Vincenzo",
-            "pageView": 6750
+            "pageView": 4,
+            "total": 6750
         },
         {
             "page": "Giovanni Sensi",
-            "pageView": 2402
+            "pageView": 2,
+            "total": 2402
         }
     ]
 }

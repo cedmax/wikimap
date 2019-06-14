@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Marco Tullio Cicerone",
-            "pageView": 1011261
+            "pageView": 618,
+            "total": 1011722
         },
         {
             "page": "Gaio Mario",
-            "pageView": 363451
+            "pageView": 159,
+            "total": 363550
         },
         {
             "page": "Marco Vipsanio Agrippa",
-            "pageView": 174208
+            "pageView": 115,
+            "total": 174306
         },
         {
             "page": "Cavalier d'Arpino",
-            "pageView": 48777
-        },
-        {
-            "page": "Pasquale Rotondi",
-            "pageView": 19065
+            "pageView": 32,
+            "total": 48810
         },
         {
             "page": "Marco Tullio Tirone",
-            "pageView": 16848
+            "pageView": 11,
+            "total": 16856
         },
         {
-            "page": "Francesco Saverio Maria Bianchi",
-            "pageView": 8254
-        },
-        {
-            "page": "Valerio Iafrate",
-            "pageView": 6359
-        },
-        {
-            "page": "Pio Spaccamela",
-            "pageView": 5895
+            "page": "Pasquale Rotondi",
+            "pageView": 10,
+            "total": 19074
         },
         {
             "page": "Federico Ciccodicola",
-            "pageView": 5671
+            "pageView": 4,
+            "total": 5676
         },
         {
-            "page": "Angelo Parisi",
-            "pageView": 5282
+            "page": "Pio Spaccamela",
+            "pageView": 4,
+            "total": 5900
         },
         {
-            "page": "Ildefonso Rea",
-            "pageView": 5198
-        },
-        {
-            "page": "Gioacchino Conti",
-            "pageView": 4826
+            "page": "Francesco Saverio Maria Bianchi",
+            "pageView": 4,
+            "total": 8257
         },
         {
             "page": "Domenico Gizzi",
-            "pageView": 4200
+            "pageView": 3,
+            "total": 4201
+        },
+        {
+            "page": "Valerio Iafrate",
+            "pageView": 3,
+            "total": 6359
+        },
+        {
+            "page": "Angelo Parisi",
+            "pageView": 3,
+            "total": 5284
+        },
+        {
+            "page": "Gioacchino Conti",
+            "pageView": 3,
+            "total": 4828
+        },
+        {
+            "page": "Ildefonso Rea",
+            "pageView": 3,
+            "total": 5205
         },
         {
             "page": "Carlo Conti (compositore)",
-            "pageView": 3913
-        },
-        {
-            "page": "Adriano Musi",
-            "pageView": 3394
-        },
-        {
-            "page": "Cesidio Casinelli",
-            "pageView": 3288
-        },
-        {
-            "page": "Michelangelo Pantanella",
-            "pageView": 3120
+            "pageView": 2,
+            "total": 3914
         },
         {
             "page": "Dario Ortolani",
-            "pageView": 2590
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Adriano Musi",
+            "pageView": 2,
+            "total": 3395
         },
         {
             "page": "Elisa Ciccodicola",
-            "pageView": 2366
+            "pageView": 2,
+            "total": 2368
         },
         {
-            "page": "Vincenzo Sangermano",
-            "pageView": 1937
+            "page": "Cesidio Casinelli",
+            "pageView": 2,
+            "total": 3288
         },
         {
             "page": "Edoardo Ciccodicola",
-            "pageView": 1926
+            "pageView": 2,
+            "total": 1931
+        },
+        {
+            "page": "Michelangelo Pantanella",
+            "pageView": 2,
+            "total": 3121
+        },
+        {
+            "page": "Vincenzo Sangermano",
+            "pageView": 1,
+            "total": 1937
         },
         {
             "page": "Giuseppe Polsinelli",
-            "pageView": 1671
+            "pageView": 1,
+            "total": 1671
         },
         {
             "page": "Felice Di Stefano",
-            "pageView": 876
+            "pageView": 0,
+            "total": 876
         }
     ]
 }

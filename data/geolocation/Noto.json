@@ -1,0 +1,27 @@
+{
+    "id": "place.15216087421259550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noto",
+    "place_name": "Noto, Siracusa, Italy",
+    "bbox": [
+        14.868407,
+        36.711223,
+        15.183753,
+        37.076199
+    ],
+    "center": [
+        15.08333,
+        36.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08333,
+            36.88333
+        ]
+    }
+}

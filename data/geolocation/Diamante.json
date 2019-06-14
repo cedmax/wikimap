@@ -1,0 +1,27 @@
+{
+    "id": "place.4068798773451320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Diamante",
+    "place_name": "Diamante, Cosenza, Italy",
+    "bbox": [
+        15.800696,
+        39.668313,
+        15.839991,
+        39.730461
+    ],
+    "center": [
+        15.81667,
+        39.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.81667,
+            39.68333
+        ]
+    }
+}

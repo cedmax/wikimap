@@ -1,0 +1,27 @@
+{
+    "id": "place.8058672955980090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montelepre",
+    "place_name": "Montelepre, Palermo, Italy",
+    "bbox": [
+        13.160382,
+        38.070992,
+        13.220204,
+        38.101964
+    ],
+    "center": [
+        13.16667,
+        38.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.16667,
+            38.1
+        ]
+    }
+}

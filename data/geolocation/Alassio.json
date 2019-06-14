@@ -1,0 +1,27 @@
+{
+    "id": "place.3279027624561170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alassio",
+    "place_name": "Alassio, Savona, Italy",
+    "bbox": [
+        8.124095,
+        43.989632,
+        8.208694,
+        44.037992
+    ],
+    "center": [
+        8.17304,
+        44.00792
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.17304,
+            44.00792
+        ]
+    }
+}

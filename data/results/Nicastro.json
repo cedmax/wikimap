@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Carlo Carlei",
-            "pageView": 59760
+            "pageView": 27,
+            "total": 59779
         },
         {
             "page": "Danilo Pileggi",
-            "pageView": 19300
+            "pageView": 12,
+            "total": 19310
         },
         {
             "page": "Maria Elia De Seta Pignatelli",
-            "pageView": 8928
-        },
-        {
-            "page": "Pietro De Sensi",
-            "pageView": 6915
+            "pageView": 5,
+            "total": 8936
         },
         {
             "page": "Francesco Stocco",
-            "pageView": 6626
+            "pageView": 4,
+            "total": 6630
         },
         {
-            "page": "Guido D'Ippolito",
-            "pageView": 5063
+            "page": "Pietro De Sensi",
+            "pageView": 4,
+            "total": 6917
         },
         {
             "page": "Antonio Marasco (pittore)",
-            "pageView": 4793
-        },
-        {
-            "page": "Arturo Perugini",
-            "pageView": 4251
+            "pageView": 3,
+            "total": 4798
         },
         {
             "page": "Marcello Vitale",
-            "pageView": 3178
+            "pageView": 3,
+            "total": 3179
         },
         {
-            "page": "Vincenzo Mazzei",
-            "pageView": 3131
+            "page": "Arturo Perugini",
+            "pageView": 3,
+            "total": 4254
+        },
+        {
+            "page": "Guido D'Ippolito",
+            "pageView": 3,
+            "total": 5066
         },
         {
             "page": "Dario Galli",
-            "pageView": 2652
+            "pageView": 2,
+            "total": 2658
         },
         {
             "page": "Nicola Berlingeri",
-            "pageView": 2188
+            "pageView": 2,
+            "total": 2188
+        },
+        {
+            "page": "Vincenzo Mazzei",
+            "pageView": 2,
+            "total": 3136
         },
         {
             "page": "Massimo Cimino",
-            "pageView": 2082
-        },
-        {
-            "page": "Giovan Tommaso Perrone",
-            "pageView": 1756
-        },
-        {
-            "page": "Francesco Maria Loyero",
-            "pageView": 1618
-        },
-        {
-            "page": "Salvatore Renda",
-            "pageView": 1271
-        },
-        {
-            "page": "Carlo Cataldi",
-            "pageView": 1160
-        },
-        {
-            "page": "Armando Scarpino",
-            "pageView": 1067
+            "pageView": 2,
+            "total": 2082
         },
         {
             "page": "Vinicio Cortese",
-            "pageView": 909
+            "pageView": 1,
+            "total": 912
+        },
+        {
+            "page": "Francesco Maria Loyero",
+            "pageView": 1,
+            "total": 1619
+        },
+        {
+            "page": "Giovan Tommaso Perrone",
+            "pageView": 1,
+            "total": 1757
+        },
+        {
+            "page": "Salvatore Renda",
+            "pageView": 1,
+            "total": 1274
+        },
+        {
+            "page": "Carlo Cataldi",
+            "pageView": 1,
+            "total": 1160
+        },
+        {
+            "page": "Armando Scarpino",
+            "pageView": 1,
+            "total": 1071
         },
         {
             "page": "Pietro Ardito (presbitero)",
-            "pageView": 764
+            "pageView": 0,
+            "total": 764
         }
     ]
 }

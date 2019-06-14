@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Valentina Vignali",
-            "pageView": 809459
+            "pageView": 342,
+            "total": 809840
         },
         {
             "page": "Sandro Tovalieri",
-            "pageView": 88701
+            "pageView": 52,
+            "total": 88743
         },
         {
             "page": "Edoardo Sylos Labini",
-            "pageView": 55550
+            "pageView": 30.5,
+            "total": 55621
         },
         {
             "page": "Sabrina Cinili",
-            "pageView": 12085
+            "pageView": 5,
+            "total": 12087
         },
         {
             "page": "Luigi Ciarlantini",
-            "pageView": 8549
+            "pageView": 5,
+            "total": 8551
         },
         {
             "page": "Marcella Filippi",
-            "pageView": 6240
-        },
-        {
-            "page": "Giulia Gatti",
-            "pageView": 5891
+            "pageView": 3,
+            "total": 6243
         },
         {
             "page": "Fabrizio Bernardi",
-            "pageView": 4002
+            "pageView": 3,
+            "total": 4004
+        },
+        {
+            "page": "Giulia Gatti",
+            "pageView": 3,
+            "total": 5891
         },
         {
             "page": "Massimo Riga",
-            "pageView": 3251
-        },
-        {
-            "page": "Novella Schiesaro",
-            "pageView": 3188
-        },
-        {
-            "page": "Oriana Milazzo",
-            "pageView": 2571
-        },
-        {
-            "page": "Giovanna Granieri",
-            "pageView": 2519
-        },
-        {
-            "page": "Lia Valerio",
-            "pageView": 2475
+            "pageView": 2,
+            "total": 3252
         },
         {
             "page": "Antonella Contestabile",
-            "pageView": 2382
+            "pageView": 2,
+            "total": 2383
         },
         {
-            "page": "Maria Giulia Forni",
-            "pageView": 1800
+            "page": "Lia Valerio",
+            "pageView": 2,
+            "total": 2476
         },
         {
-            "page": "Francesca Di Battista",
-            "pageView": 1714
+            "page": "Novella Schiesaro",
+            "pageView": 2,
+            "total": 3190
         },
         {
-            "page": "Vanesa Avaro",
-            "pageView": 1685
+            "page": "Giovanna Granieri",
+            "pageView": 2,
+            "total": 2519
         },
         {
-            "page": "Daniela Georgieva",
-            "pageView": 1431
-        },
-        {
-            "page": "Dimana Georgieva",
-            "pageView": 1286
+            "page": "Oriana Milazzo",
+            "pageView": 2,
+            "total": 2572
         },
         {
             "page": "Josephine Grima",
-            "pageView": 1229
+            "pageView": 1,
+            "total": 1229
+        },
+        {
+            "page": "Vanesa Avaro",
+            "pageView": 1,
+            "total": 1685
+        },
+        {
+            "page": "Daniela Georgieva",
+            "pageView": 1,
+            "total": 1431
         },
         {
             "page": "Claudia Gattini",
-            "pageView": 1145
+            "pageView": 1,
+            "total": 1145
+        },
+        {
+            "page": "Maria Giulia Forni",
+            "pageView": 1,
+            "total": 1801
+        },
+        {
+            "page": "Francesca Di Battista",
+            "pageView": 1,
+            "total": 1714
+        },
+        {
+            "page": "Dimana Georgieva",
+            "pageView": 1,
+            "total": 1287
         },
         {
             "page": "Stefania Gaspardo",
-            "pageView": 12
+            "pageView": 0,
+            "total": 14
         }
     ]
 }

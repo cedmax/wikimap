@@ -1,0 +1,27 @@
+{
+    "id": "place.13763988011621360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venaria Reale",
+    "place_name": "Venaria Reale, Torino, Italy",
+    "bbox": [
+        7.583018,
+        45.112063,
+        7.654621,
+        45.175949
+    ],
+    "center": [
+        7.63333,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63333,
+            45.11667
+        ]
+    }
+}

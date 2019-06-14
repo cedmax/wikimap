@@ -1,0 +1,27 @@
+{
+    "id": "place.10020732567348390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polignano a Mare",
+    "place_name": "Polignano a Mare, Bari, Italy",
+    "bbox": [
+        17.140747,
+        40.895934,
+        17.259459,
+        41.036634
+    ],
+    "center": [
+        17.22028,
+        40.99611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.22028,
+            40.99611
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1786706434351",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "San Fior",
+    "place_name": "San Fior, San Fior, Treviso 31020, Italy",
+    "center": [
+        12.359235000000002,
+        45.921271000000004
+    ],
+    "geometry": {
+        "coordinates": [
+            12.359235000000002,
+            45.921271000000004
+        ],
+        "type": "Point"
+    }
+}

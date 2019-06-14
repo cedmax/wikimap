@@ -1,0 +1,27 @@
+{
+    "id": "place.12756749238274360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sagrado",
+    "place_name": "Sagrado, Gorizia, Italy",
+    "bbox": [
+        13.471835,
+        45.859297,
+        13.55731,
+        45.899409
+    ],
+    "center": [
+        13.48333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.48333,
+            45.86667
+        ]
+    }
+}

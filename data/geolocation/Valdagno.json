@@ -1,0 +1,27 @@
+{
+    "id": "place.5866150809964770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdagno",
+    "place_name": "Valdagno, Vicenza, Italy",
+    "bbox": [
+        11.226465,
+        45.59833,
+        11.332195,
+        45.690976
+    ],
+    "center": [
+        11.3,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3,
+            45.65
+        ]
+    }
+}

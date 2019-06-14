@@ -1,0 +1,27 @@
+{
+    "id": "place.15102105504426460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Imperia",
+    "place_name": "Imperia, Imperia, Italy",
+    "bbox": [
+        7.9463,
+        43.860258,
+        8.071557,
+        43.945247
+    ],
+    "center": [
+        8.02965,
+        43.88647
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.02965,
+            43.88647
+        ]
+    }
+}

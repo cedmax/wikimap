@@ -1,0 +1,27 @@
+{
+    "id": "place.9790525579425130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noli",
+    "place_name": "Noli, Savona, Italy",
+    "bbox": [
+        8.372336,
+        44.189846,
+        8.425568,
+        44.235733
+    ],
+    "center": [
+        8.41615,
+        44.20569
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.41615,
+            44.20569
+        ]
+    }
+}

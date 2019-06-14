@@ -1,0 +1,27 @@
+{
+    "id": "place.7525343341417080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarteano",
+    "place_name": "Sarteano, Siena, Italy",
+    "bbox": [
+        11.757497,
+        42.912188,
+        11.917756,
+        43.031154
+    ],
+    "center": [
+        11.86667,
+        42.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            42.98333
+        ]
+    }
+}

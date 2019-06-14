@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Bernardo Corradi",
-            "pageView": 454699
+            "pageView": 185.5,
+            "total": 454804
         },
         {
             "page": "Luciano Chiarugi",
-            "pageView": 69640
-        },
-        {
-            "page": "Leonardo Menichini",
-            "pageView": 56631
+            "pageView": 44,
+            "total": 69679
         },
         {
             "page": "Adriano Lombardi",
-            "pageView": 45540
+            "pageView": 28,
+            "total": 45553
+        },
+        {
+            "page": "Leonardo Menichini",
+            "pageView": 24,
+            "total": 56734
         },
         {
             "page": "Christian Amoroso",
-            "pageView": 30062
+            "pageView": 19,
+            "total": 30078
         },
         {
             "page": "Eupremio Carruezzo",
-            "pageView": 24187
-        },
-        {
-            "page": "Biagio Pagano",
-            "pageView": 21018
+            "pageView": 15,
+            "total": 24197
         },
         {
             "page": "Daniele Balli",
-            "pageView": 20785
+            "pageView": 13,
+            "total": 20792
+        },
+        {
+            "page": "Biagio Pagano",
+            "pageView": 13,
+            "total": 21046
         },
         {
             "page": "Jacopo Balestri",
-            "pageView": 15145
+            "pageView": 10,
+            "total": 15157
         },
         {
             "page": "Francesco Zizzari",
-            "pageView": 14163
-        },
-        {
-            "page": "Alessandro Lazzarini",
-            "pageView": 11940
+            "pageView": 8,
+            "total": 14174
         },
         {
             "page": "Aladje",
-            "pageView": 11731
+            "pageView": 7,
+            "total": 11740
         },
         {
             "page": "Christian Scalzo",
-            "pageView": 10319
-        },
-        {
-            "page": "Vitaliano Bonuccelli",
-            "pageView": 10139
-        },
-        {
-            "page": "Massimiliano Tacchinardi",
-            "pageView": 9637
+            "pageView": 6,
+            "total": 10321
         },
         {
             "page": "Emiliano Macchi",
-            "pageView": 9065
+            "pageView": 6,
+            "total": 9076
+        },
+        {
+            "page": "Vitaliano Bonuccelli",
+            "pageView": 6,
+            "total": 10143
+        },
+        {
+            "page": "Massimiliano Tacchinardi",
+            "pageView": 6,
+            "total": 9644
+        },
+        {
+            "page": "Alessandro Lazzarini",
+            "pageView": 6,
+            "total": 11949
         },
         {
             "page": "Giuseppe Argentesi",
-            "pageView": 8280
+            "pageView": 5,
+            "total": 8286
         },
         {
             "page": "Vasco Tagliavini",
-            "pageView": 7647
+            "pageView": 5,
+            "total": 7655
         },
         {
             "page": "Davide Lampugnani",
-            "pageView": 6673
+            "pageView": 4,
+            "total": 6677
         },
         {
             "page": "Carlo Caramelli",
-            "pageView": 6014
-        },
-        {
-            "page": "Lando Macchi",
-            "pageView": 5386
+            "pageView": 4,
+            "total": 6020
         },
         {
             "page": "Mario Brandani",
-            "pageView": 5255
+            "pageView": 3,
+            "total": 5256
         },
         {
             "page": "Claudio Piccinetti",
-            "pageView": 5255
+            "pageView": 3,
+            "total": 5260
         },
         {
             "page": "Angelo Aimo",
-            "pageView": 4212
-        },
-        {
-            "page": "Giosuè Lombardi",
-            "pageView": 3538
-        },
-        {
-            "page": "Carlo Novelli (artista)",
-            "pageView": 3077
-        },
-        {
-            "page": "Stefano Marini",
-            "pageView": 2780
+            "pageView": 3,
+            "total": 4213
         },
         {
             "page": "Gianfranco Ciabatti",
-            "pageView": 1990
+            "pageView": 2,
+            "total": 1990
         },
         {
-            "page": "Tullio Duimovich",
-            "pageView": 1793
-        },
-        {
-            "page": "Gianluigi Zuanel",
-            "pageView": 1526
-        },
-        {
-            "page": "Giulio Vignozzi",
-            "pageView": 1331
+            "page": "Stefano Marini",
+            "pageView": 2,
+            "total": 2784
         },
         {
             "page": "Giuseppe Testa (calciatore 1960)",
-            "pageView": 1100
+            "pageView": 2,
+            "total": 1101
+        },
+        {
+            "page": "Carlo Novelli (artista)",
+            "pageView": 2,
+            "total": 3078
+        },
+        {
+            "page": "Lando Macchi",
+            "pageView": 2,
+            "total": 5388
         },
         {
             "page": "Francesco Vaccà Berlinghieri",
-            "pageView": 968
+            "pageView": 2,
+            "total": 970
+        },
+        {
+            "page": "Giosuè Lombardi",
+            "pageView": 1,
+            "total": 3538
+        },
+        {
+            "page": "Giulio Vignozzi",
+            "pageView": 1,
+            "total": 1333
+        },
+        {
+            "page": "Tullio Duimovich",
+            "pageView": 1,
+            "total": 1796
+        },
+        {
+            "page": "Gianluigi Zuanel",
+            "pageView": 1,
+            "total": 1528
         }
     ]
 }

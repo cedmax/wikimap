@@ -1,0 +1,27 @@
+{
+    "id": "place.3462154678266950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo d'Ale",
+    "place_name": "Borgo d'Ale, Vercelli, Italy",
+    "bbox": [
+        8.008066,
+        45.314001,
+        8.126555,
+        45.40677
+    ],
+    "center": [
+        8.05,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.05,
+            45.35
+        ]
+    }
+}

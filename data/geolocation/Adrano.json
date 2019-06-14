@@ -1,0 +1,27 @@
+{
+    "id": "place.18610282112296790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Adrano",
+    "place_name": "Adrano, Catania, Italy",
+    "bbox": [
+        14.791857,
+        37.630362,
+        14.994247,
+        37.751751
+    ],
+    "center": [
+        14.83556,
+        37.6625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83556,
+            37.6625
+        ]
+    }
+}

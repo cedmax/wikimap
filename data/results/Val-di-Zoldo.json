@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Valentino Panciera Besarel",
-            "pageView": 4797
-        },
-        {
-            "page": "Giovanni Paolo Gamba Zampol",
-            "pageView": 1747
+            "pageView": 3,
+            "total": 4799
         },
         {
             "page": "Innocenzo Fergnani",
-            "pageView": 1284
+            "pageView": 1,
+            "total": 1284
+        },
+        {
+            "page": "Giovanni Paolo Gamba Zampol",
+            "pageView": 1,
+            "total": 1747
         },
         {
             "page": "Mia Campo Bagatin",
-            "pageView": 550
+            "pageView": 0,
+            "total": 550
         },
         {
             "page": "Camillo Zanolli",
-            "pageView": 50
+            "pageView": 0,
+            "total": 50
         }
     ]
 }

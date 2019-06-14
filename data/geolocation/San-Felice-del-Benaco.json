@@ -1,0 +1,27 @@
+{
+    "id": "place.5638633402973680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Felice del Benaco",
+    "place_name": "San Felice del Benaco, Brescia, Italy",
+    "bbox": [
+        10.526633,
+        45.573287,
+        10.629752,
+        45.60116
+    ],
+    "center": [
+        10.55,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            45.58333
+        ]
+    }
+}

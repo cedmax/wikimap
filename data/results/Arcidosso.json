@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Davide Lazzaretti",
-            "pageView": 86063
+            "pageView": 39,
+            "total": 86085
         },
         {
             "page": "Namkhai Norbu",
-            "pageView": 13684
+            "pageView": 7,
+            "total": 13688
         },
         {
             "page": "Massimo Alessandri",
-            "pageView": 6493
-        },
-        {
-            "page": "Otello Terzani",
-            "pageView": 2465
+            "pageView": 4,
+            "total": 6498
         },
         {
             "page": "Giovan Domenico Peri",
-            "pageView": 2116
+            "pageView": 2,
+            "total": 2119
         },
         {
             "page": "Romolo Lazzaretti",
-            "pageView": 1962
+            "pageView": 2,
+            "total": 1962
+        },
+        {
+            "page": "Otello Terzani",
+            "pageView": 2,
+            "total": 2466
         },
         {
             "page": "Isidoro Maggi",
-            "pageView": 825
+            "pageView": 1,
+            "total": 826
         },
         {
             "page": "Apollonio Apolloni",
-            "pageView": 303
+            "pageView": 0,
+            "total": 303
         },
         {
             "page": "Telemaco Ferrini",
-            "pageView": 289
+            "pageView": 0,
+            "total": 289
         }
     ]
 }

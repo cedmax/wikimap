@@ -1,0 +1,21 @@
+{
+    "id": "poi.3229815422581",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Teglio Veneto",
+    "place_name": "Teglio Veneto, Teglio Veneto, Venezia 30025, Italy",
+    "center": [
+        12.883377,
+        45.816240500000006
+    ],
+    "geometry": {
+        "coordinates": [
+            12.883377,
+            45.816240500000006
+        ],
+        "type": "Point"
+    }
+}

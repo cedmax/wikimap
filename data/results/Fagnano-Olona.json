@@ -2,28 +2,34 @@
     "name": "Fagnano Olona",
     "people": [
         {
-            "page": "Enrico Vanzini",
-            "pageView": 28359
-        },
-        {
             "page": "Wladimiro Panizza",
-            "pageView": 27811
+            "pageView": 14,
+            "total": 27825
         },
         {
-            "page": "Renzo Pigni",
-            "pageView": 3897
+            "page": "Enrico Vanzini",
+            "pageView": 13,
+            "total": 28373
         },
         {
             "page": "Donato Zampini",
-            "pageView": 3212
-        },
-        {
-            "page": "Giuseppe Taglioretti",
-            "pageView": 3064
+            "pageView": 2,
+            "total": 3213
         },
         {
             "page": "Giuseppe Gatti",
-            "pageView": 2517
+            "pageView": 2,
+            "total": 2518
+        },
+        {
+            "page": "Renzo Pigni",
+            "pageView": 2,
+            "total": 3898
+        },
+        {
+            "page": "Giuseppe Taglioretti",
+            "pageView": 2,
+            "total": 3064
         }
     ]
 }

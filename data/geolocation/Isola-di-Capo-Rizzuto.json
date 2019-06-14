@@ -1,0 +1,27 @@
+{
+    "id": "place.15664717552598550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola di Capo Rizzuto",
+    "place_name": "Isola di Capo Rizzuto, Crotone, Italy",
+    "bbox": [
+        16.984674,
+        38.892345,
+        17.171972,
+        39.025208
+    ],
+    "center": [
+        17.1,
+        38.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.1,
+            38.96667
+        ]
+    }
+}

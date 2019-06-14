@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Francesco Berni",
-            "pageView": 27582
+            "pageView": 18,
+            "total": 27599
         },
         {
             "page": "Carlo Pedretti",
-            "pageView": 24912
+            "pageView": 12,
+            "total": 24931
         },
         {
             "page": "Domizio Torrigiani",
-            "pageView": 8221
+            "pageView": 5,
+            "total": 8223
         },
         {
             "page": "Raffaello Vescovi",
-            "pageView": 7794
+            "pageView": 5,
+            "total": 7795
         },
         {
             "page": "Paolo Morosi",
-            "pageView": 4660
+            "pageView": 3,
+            "total": 4661
         },
         {
             "page": "Cosimo Marco Mazzoni",
-            "pageView": 753
+            "pageView": 0,
+            "total": 753
         },
         {
             "page": "Aldo Morelli",
-            "pageView": 337
+            "pageView": 0,
+            "total": 338
         }
     ]
 }

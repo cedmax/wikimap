@@ -1,0 +1,27 @@
+{
+    "id": "place.14924747813996190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Zenone degli Ezzelini",
+    "place_name": "San Zenone degli Ezzelini, Treviso, Italy",
+    "bbox": [
+        11.80376,
+        45.740431,
+        11.868871,
+        45.807383
+    ],
+    "center": [
+        11.83333,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            45.78333
+        ]
+    }
+}

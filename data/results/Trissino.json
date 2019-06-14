@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Stefano Dal Lago",
-            "pageView": 7060
+            "pageView": 4,
+            "total": 7062
         },
         {
             "page": "Massimo Tataranni",
-            "pageView": 4788
+            "pageView": 3,
+            "total": 4788
         },
         {
             "page": "Dario Rigo",
-            "pageView": 3239
+            "pageView": 2,
+            "total": 3240
         },
         {
             "page": "Mattia Cocco",
-            "pageView": 2603
+            "pageView": 2,
+            "total": 2605
         },
         {
             "page": "Diego Nicoletti",
-            "pageView": 2501
+            "pageView": 2,
+            "total": 2502
         },
         {
             "page": "Alfredo Rigodanzo",
-            "pageView": 2434
+            "pageView": 2,
+            "total": 2438
         },
         {
             "page": "Vittorio Culpo",
-            "pageView": 1201
+            "pageView": 1,
+            "total": 1201
         },
         {
             "page": "Adrià Català",
-            "pageView": 610
+            "pageView": 0,
+            "total": 610
         },
         {
             "page": "Fabio Rizzitelli",
-            "pageView": 455
+            "pageView": 0,
+            "total": 455
         }
     ]
 }

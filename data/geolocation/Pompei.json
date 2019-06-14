@@ -1,0 +1,27 @@
+{
+    "id": "place.9455177022728280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pompei",
+    "place_name": "Pompei, Napoli, Italy",
+    "bbox": [
+        14.473948,
+        40.7224,
+        14.520603,
+        40.769798
+    ],
+    "center": [
+        14.48972,
+        40.75056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48972,
+            40.75056
+        ]
+    }
+}

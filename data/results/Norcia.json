@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Benedetto da Norcia",
-            "pageView": 554003
+            "pageView": 328,
+            "total": 554203
         },
         {
             "page": "Scolastica da Norcia",
-            "pageView": 67903
+            "pageView": 35,
+            "total": 67934
         },
         {
             "page": "Quinto Sertorio",
-            "pageView": 37476
+            "pageView": 24,
+            "total": 37504
         },
         {
             "page": "Renato Boccardo",
-            "pageView": 22513
+            "pageView": 13,
+            "total": 22530
         },
         {
             "page": "Riccardo Fontana",
-            "pageView": 20761
+            "pageView": 12,
+            "total": 20775
         },
         {
             "page": "Filippo Massaroni",
-            "pageView": 11685
+            "pageView": 7,
+            "total": 11687
         },
         {
             "page": "Ottorino Pietro Alberti",
-            "pageView": 7521
+            "pageView": 5,
+            "total": 7526
         },
         {
             "page": "Antonio Ferri",
-            "pageView": 7347
-        },
-        {
-            "page": "Lucia da Valcaldara",
-            "pageView": 5077
-        },
-        {
-            "page": "Giuseppe Ferri",
-            "pageView": 4995
-        },
-        {
-            "page": "Giuliano Agresti",
-            "pageView": 4499
-        },
-        {
-            "page": "Giovanni Battista Lalli",
-            "pageView": 3863
-        },
-        {
-            "page": "Antonio Ambrosanio",
-            "pageView": 3091
-        },
-        {
-            "page": "Giovanni da Norcia",
-            "pageView": 2221
+            "pageView": 4,
+            "total": 7349
         },
         {
             "page": "Andrea di Tartaglia da Norcia",
-            "pageView": 2130
+            "pageView": 3,
+            "total": 2131
         },
         {
-            "page": "Laureta Fusconi",
-            "pageView": 2073
+            "page": "Giuliano Agresti",
+            "pageView": 3,
+            "total": 4506
         },
         {
-            "page": "Ezio Ottaviani",
-            "pageView": 1372
+            "page": "Lucia da Valcaldara",
+            "pageView": 3,
+            "total": 5081
         },
         {
-            "page": "Francesco Fusconi",
-            "pageView": 1327
+            "page": "Giuseppe Ferri",
+            "pageView": 3,
+            "total": 4999
+        },
+        {
+            "page": "Antonio Ambrosanio",
+            "pageView": 2,
+            "total": 3091
+        },
+        {
+            "page": "Giovanni da Norcia",
+            "pageView": 2,
+            "total": 2224
         },
         {
             "page": "Virgilio Verucci",
-            "pageView": 1080
+            "pageView": 2,
+            "total": 1083
+        },
+        {
+            "page": "Laureta Fusconi",
+            "pageView": 2,
+            "total": 2075
+        },
+        {
+            "page": "Giovanni Battista Lalli",
+            "pageView": 2,
+            "total": 3865
+        },
+        {
+            "page": "Francesco Fusconi",
+            "pageView": 1,
+            "total": 1327
         },
         {
             "page": "Filippo Salvatore Gilij",
-            "pageView": 881
+            "pageView": 1,
+            "total": 881
         },
         {
-            "page": "Giovanni Desideri",
-            "pageView": 695
-        },
-        {
-            "page": "Sergio Forti",
-            "pageView": 645
+            "page": "Ezio Ottaviani",
+            "pageView": 1,
+            "total": 1372
         },
         {
             "page": "Marino da Norcia",
-            "pageView": 232
+            "pageView": 0,
+            "total": 234
+        },
+        {
+            "page": "Giovanni Desideri",
+            "pageView": 0,
+            "total": 695
+        },
+        {
+            "page": "Sergio Forti",
+            "pageView": 0,
+            "total": 646
         }
     ]
 }

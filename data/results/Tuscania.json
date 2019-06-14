@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Paolo Tofoli",
-            "pageView": 53689
+            "pageView": 21,
+            "total": 53701
         },
         {
             "page": "Matej Černič",
-            "pageView": 27758
-        },
-        {
-            "page": "Alessandro Kokocinski",
-            "pageView": 14813
+            "pageView": 14,
+            "total": 27773
         },
         {
             "page": "Giangiacomo Calligaris",
-            "pageView": 12541
-        },
-        {
-            "page": "Gianni Asdrubali",
-            "pageView": 10336
+            "pageView": 7,
+            "total": 12547
         },
         {
             "page": "Veriano Luchetti",
-            "pageView": 10131
+            "pageView": 6,
+            "total": 10135
+        },
+        {
+            "page": "Alessandro Kokocinski",
+            "pageView": 6,
+            "total": 14819
         },
         {
             "page": "Dionisio Arce",
-            "pageView": 9815
-        },
-        {
-            "page": "Luciano Comaschi",
-            "pageView": 8810
-        },
-        {
-            "page": "Andrea Marchisio",
-            "pageView": 8481
-        },
-        {
-            "page": "Ranieri Bustelli",
-            "pageView": 8044
+            "pageView": 6,
+            "total": 9822
         },
         {
             "page": "Glauco Cozzi",
-            "pageView": 7959
+            "pageView": 5,
+            "total": 7965
+        },
+        {
+            "page": "Andrea Marchisio",
+            "pageView": 4,
+            "total": 8483
+        },
+        {
+            "page": "Luciano Comaschi",
+            "pageView": 4,
+            "total": 8816
         },
         {
             "page": "Natale Monopoli",
-            "pageView": 6503
+            "pageView": 4,
+            "total": 6503
         },
         {
-            "page": "Paolo Montagnani",
-            "pageView": 6480
+            "page": "Ranieri Bustelli",
+            "pageView": 4,
+            "total": 8050
         },
         {
-            "page": "Renzo Aldi",
-            "pageView": 5148
-        },
-        {
-            "page": "Dāvis Krūmiņš",
-            "pageView": 4364
-        },
-        {
-            "page": "Nicola Lo Buono",
-            "pageView": 4216
-        },
-        {
-            "page": "Renato Fioravanti",
-            "pageView": 4096
-        },
-        {
-            "page": "Riccardo Pinelli",
-            "pageView": 4073
+            "page": "Gianni Asdrubali",
+            "pageView": 4,
+            "total": 10339
         },
         {
             "page": "Marco Piscopo",
-            "pageView": 3567
+            "pageView": 4,
+            "total": 3572
         },
         {
-            "page": "Paolo Alborghetti",
-            "pageView": 3526
+            "page": "Nicola Lo Buono",
+            "pageView": 3,
+            "total": 4217
         },
         {
-            "page": "Silvio Bandini",
-            "pageView": 3509
+            "page": "Paolo Montagnani",
+            "pageView": 3,
+            "total": 6483
         },
         {
-            "page": "Walter Crociani",
-            "pageView": 3145
+            "page": "Renzo Aldi",
+            "pageView": 3,
+            "total": 5149
+        },
+        {
+            "page": "Renato Fioravanti",
+            "pageView": 3,
+            "total": 4099
+        },
+        {
+            "page": "Dāvis Krūmiņš",
+            "pageView": 3,
+            "total": 4367
         },
         {
             "page": "Pierlorenzo Buzzelli",
-            "pageView": 2542
-        },
-        {
-            "page": "Sergio Guenza",
-            "pageView": 2398
+            "pageView": 2,
+            "total": 2545
         },
         {
             "page": "Italo Toscani",
-            "pageView": 2120
+            "pageView": 2,
+            "total": 2121
         },
         {
-            "page": "Maide Capacci",
-            "pageView": 1909
-        },
-        {
-            "page": "Giancarlo Boncori",
-            "pageView": 1802
-        },
-        {
-            "page": "Fabrizio Turriozzi",
-            "pageView": 1416
-        },
-        {
-            "page": "Milija Mrdak",
-            "pageView": 1263
+            "page": "Riccardo Pinelli",
+            "pageView": 2,
+            "total": 4076
         },
         {
             "page": "Simone Serdini",
-            "pageView": 1244
+            "pageView": 2,
+            "total": 1244
         },
         {
-            "page": "Agostino Filippi",
-            "pageView": 1227
+            "page": "Maide Capacci",
+            "pageView": 2,
+            "total": 1909
         },
         {
             "page": "Eric Mochalski",
-            "pageView": 790
+            "pageView": 2,
+            "total": 790
+        },
+        {
+            "page": "Walter Crociani",
+            "pageView": 2,
+            "total": 3145
+        },
+        {
+            "page": "Sergio Guenza",
+            "pageView": 2,
+            "total": 2411
+        },
+        {
+            "page": "Paolo Alborghetti",
+            "pageView": 2,
+            "total": 3527
+        },
+        {
+            "page": "Silvio Bandini",
+            "pageView": 2,
+            "total": 3509
+        },
+        {
+            "page": "Fabrizio Turriozzi",
+            "pageView": 1,
+            "total": 1417
+        },
+        {
+            "page": "Giancarlo Boncori",
+            "pageView": 1,
+            "total": 1802
+        },
+        {
+            "page": "Agostino Filippi",
+            "pageView": 1,
+            "total": 1227
+        },
+        {
+            "page": "Milija Mrdak",
+            "pageView": 1,
+            "total": 1263
         },
         {
             "page": "Giuseppe Cesetti",
-            "pageView": 246
-        },
-        {
-            "page": "Vincenzo Campanari",
-            "pageView": 205
-        },
-        {
-            "page": "Giustino Paris",
-            "pageView": 91
+            "pageView": 0,
+            "total": 247
         },
         {
             "page": "Mauro Carlomagno",
-            "pageView": 75
+            "pageView": 0,
+            "total": 75
+        },
+        {
+            "page": "Giustino Paris",
+            "pageView": 0,
+            "total": 94
+        },
+        {
+            "page": "Vincenzo Campanari",
+            "pageView": 0,
+            "total": 207
         }
     ]
 }

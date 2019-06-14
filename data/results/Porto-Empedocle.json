@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Andrea Camilleri",
-            "pageView": 1777626
+            "pageView": 650.5,
+            "total": 1778809
         },
         {
             "page": "Cico Falzone",
-            "pageView": 34385
+            "pageView": 21,
+            "total": 34397
         },
         {
             "page": "Gerlandino Messina",
-            "pageView": 27299
+            "pageView": 18,
+            "total": 27322
         },
         {
             "page": "Franco Li Causi",
-            "pageView": 14366
-        },
-        {
-            "page": "Carmelo Sardo",
-            "pageView": 9412
-        },
-        {
-            "page": "Jo Prestia",
-            "pageView": 5658
-        },
-        {
-            "page": "Giovanni Inghilleri",
-            "pageView": 4840
-        },
-        {
-            "page": "Giuseppe Granata",
-            "pageView": 4789
+            "pageView": 9,
+            "total": 14367
         },
         {
             "page": "Giuseppe Grassonelli",
-            "pageView": 4503
+            "pageView": 7,
+            "total": 4509
+        },
+        {
+            "page": "Jo Prestia",
+            "pageView": 6,
+            "total": 5662
+        },
+        {
+            "page": "Carmelo Sardo",
+            "pageView": 6,
+            "total": 9415
+        },
+        {
+            "page": "Giovanni Inghilleri",
+            "pageView": 3,
+            "total": 4842
+        },
+        {
+            "page": "Giuseppe Granata",
+            "pageView": 3,
+            "total": 4792
         },
         {
             "page": "Giovanni Sansone",
-            "pageView": 3973
-        },
-        {
-            "page": "Giuseppe Sinesio",
-            "pageView": 3588
+            "pageView": 3,
+            "total": 3974
         },
         {
             "page": "Luigi Ingrassia",
-            "pageView": 2848
+            "pageView": 2,
+            "total": 2848
         },
         {
             "page": "Salvatore Pollicino",
-            "pageView": 2080
+            "pageView": 2,
+            "total": 2080
+        },
+        {
+            "page": "Giuseppe Sinesio",
+            "pageView": 2,
+            "total": 3590
         },
         {
             "page": "Alfonso Gibilaro",
-            "pageView": 462
+            "pageView": 0,
+            "total": 464
         }
     ]
 }

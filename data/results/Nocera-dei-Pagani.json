@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Alfonso Maria de' Liguori",
-            "pageView": 148528
+            "pageView": 72,
+            "total": 148606
         },
         {
             "page": "Ferdinando Lanza",
-            "pageView": 10143
+            "pageView": 6,
+            "total": 10151
         },
         {
             "page": "Angelo Solimena",
-            "pageView": 9191
+            "pageView": 5,
+            "total": 9193
         },
         {
             "page": "Eleonora de Moura",
-            "pageView": 7173
+            "pageView": 4,
+            "total": 7176
         },
         {
             "page": "Duca di Nocera",
-            "pageView": 5226
-        },
-        {
-            "page": "Francisco de Moura",
-            "pageView": 3469
-        },
-        {
-            "page": "Alfonso Carafa (duca di Nocera)",
-            "pageView": 3129
-        },
-        {
-            "page": "Francesco Maria Carafa",
-            "pageView": 2875
+            "pageView": 3,
+            "total": 5231
         },
         {
             "page": "Tiberio Carafa",
-            "pageView": 2804
-        },
-        {
-            "page": "Nunzio Ferraiuoli",
-            "pageView": 2581
-        },
-        {
-            "page": "Ferdinando I Carafa",
-            "pageView": 2152
-        },
-        {
-            "page": "Antonio Valcarcel",
-            "pageView": 2032
-        },
-        {
-            "page": "Francesco Maria Domenico Carafa",
-            "pageView": 1986
-        },
-        {
-            "page": "Ferdinando II Carafa",
-            "pageView": 1936
-        },
-        {
-            "page": "Simone Lunadoro",
-            "pageView": 1895
-        },
-        {
-            "page": "Isabella Pio di Savoia",
-            "pageView": 1861
-        },
-        {
-            "page": "Carlo Baldini (arcivescovo)",
-            "pageView": 1830
+            "pageView": 2,
+            "total": 2809
         },
         {
             "page": "Luigi Pio di Savoia",
-            "pageView": 1825
+            "pageView": 2,
+            "total": 1825
         },
         {
-            "page": "Gilberto II Pio di Savoia",
-            "pageView": 1474
+            "page": "Francisco de Moura",
+            "pageView": 2,
+            "total": 3469
+        },
+        {
+            "page": "Ferdinando II Carafa",
+            "pageView": 2,
+            "total": 1938
+        },
+        {
+            "page": "Nunzio Ferraiuoli",
+            "pageView": 2,
+            "total": 2583
+        },
+        {
+            "page": "Francesco Maria Domenico Carafa",
+            "pageView": 2,
+            "total": 1986
+        },
+        {
+            "page": "Alfonso Carafa (duca di Nocera)",
+            "pageView": 2,
+            "total": 3132
+        },
+        {
+            "page": "Francesco Maria Carafa",
+            "pageView": 2,
+            "total": 2875
+        },
+        {
+            "page": "Antonio Valcarcel",
+            "pageView": 2,
+            "total": 2033
+        },
+        {
+            "page": "Ferdinando I Carafa",
+            "pageView": 2,
+            "total": 2154
+        },
+        {
+            "page": "Simone Lunadoro",
+            "pageView": 2,
+            "total": 1895
+        },
+        {
+            "page": "Isabella Pio di Savoia",
+            "pageView": 1,
+            "total": 1862
+        },
+        {
+            "page": "Carlo Baldini (arcivescovo)",
+            "pageView": 1,
+            "total": 1830
         },
         {
             "page": "Giovanna de Moura",
-            "pageView": 1307
+            "pageView": 1,
+            "total": 1309
+        },
+        {
+            "page": "Gilberto II Pio di Savoia",
+            "pageView": 1,
+            "total": 1476
         }
     ]
 }

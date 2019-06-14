@@ -1,0 +1,27 @@
+{
+    "id": "place.11919329154816650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oristano",
+    "place_name": "Oristano, Oristano, Italy",
+    "bbox": [
+        8.489214,
+        39.858979,
+        8.729978,
+        39.970175
+    ],
+    "center": [
+        8.58333,
+        39.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.58333,
+            39.9
+        ]
+    }
+}

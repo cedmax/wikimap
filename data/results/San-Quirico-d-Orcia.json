@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Pandolfo Petrucci",
-            "pageView": 13728
+            "pageView": 8,
+            "total": 13740
         },
         {
             "page": "Mino da San Quirico",
-            "pageView": 3565
+            "pageView": 2,
+            "total": 3573
         },
         {
             "page": "Giovan Battista Pistoi",
-            "pageView": 1918
+            "pageView": 2,
+            "total": 1918
         },
         {
             "page": "Carlo Manenti",
-            "pageView": 1039
+            "pageView": 1,
+            "total": 1040
         },
         {
             "page": "Vittorio Simonelli",
-            "pageView": 596
+            "pageView": 0,
+            "total": 596
         }
     ]
 }

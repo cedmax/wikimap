@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Pippo Baudo",
-            "pageView": 1357436
+            "pageView": 431.5,
+            "total": 1358344
         },
         {
             "page": "Nello Musumeci",
-            "pageView": 431430
-        },
-        {
-            "page": "Mario Caruso (1955)",
-            "pageView": 86985
+            "pageView": 76,
+            "total": 431572
         },
         {
             "page": "Franco Trincale",
-            "pageView": 16770
+            "pageView": 11,
+            "total": 16784
+        },
+        {
+            "page": "Mario Caruso (1955)",
+            "pageView": 8,
+            "total": 86994
         },
         {
             "page": "Pietro Carrera",
-            "pageView": 7698
+            "pageView": 5,
+            "total": 7703
         },
         {
             "page": "Salvatore Majorana Calatabiano",
-            "pageView": 7439
+            "pageView": 4,
+            "total": 7444
         },
         {
             "page": "Sebastiano D'Immè",
-            "pageView": 6585
+            "pageView": 4,
+            "total": 6591
         },
         {
             "page": "Nuccia Focile",
-            "pageView": 3978
-        },
-        {
-            "page": "Giuseppe Burtone",
-            "pageView": 2357
+            "pageView": 3,
+            "total": 3980
         },
         {
             "page": "Gaetano Compagnino",
-            "pageView": 2133
+            "pageView": 2,
+            "total": 2134
+        },
+        {
+            "page": "Giuseppe Burtone",
+            "pageView": 2,
+            "total": 2358
         },
         {
             "page": "Giuseppe Tineo",
-            "pageView": 2050
+            "pageView": 2,
+            "total": 2050
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.8245188292617570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giulianova",
+    "place_name": "Giulianova, Teramo, Italy",
+    "bbox": [
+        13.901703,
+        42.706623,
+        13.980748,
+        42.781669
+    ],
+    "center": [
+        13.95669,
+        42.75252
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.95669,
+            42.75252
+        ]
+    }
+}

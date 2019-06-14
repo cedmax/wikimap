@@ -1,0 +1,27 @@
+{
+    "id": "place.8968108217692340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zanè",
+    "place_name": "Zanè, Vicenza, Italy",
+    "bbox": [
+        11.42523,
+        45.70456,
+        11.47157,
+        45.737761
+    ],
+    "center": [
+        11.46667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46667,
+            45.71667
+        ]
+    }
+}

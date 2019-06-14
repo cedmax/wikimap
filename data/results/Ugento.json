@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Domenico Caliandro",
-            "pageView": 13810
+            "pageView": 8,
+            "total": 13821
         },
         {
             "page": "Vito Angiuli",
-            "pageView": 11859
+            "pageView": 7,
+            "total": 11865
         },
         {
             "page": "Michele Mincuzzi",
-            "pageView": 7261
+            "pageView": 4,
+            "total": 7263
         },
         {
             "page": "Antonio Minturno",
-            "pageView": 5321
-        },
-        {
-            "page": "Vito De Grisantis",
-            "pageView": 5067
-        },
-        {
-            "page": "Mario Miglietta",
-            "pageView": 4589
+            "pageView": 3,
+            "total": 5322
         },
         {
             "page": "Giuseppe Ruotolo",
-            "pageView": 4400
+            "pageView": 3,
+            "total": 4402
         },
         {
-            "page": "Salvatore Luigi Zola",
-            "pageView": 2548
+            "page": "Vito De Grisantis",
+            "pageView": 3,
+            "total": 5067
         },
         {
-            "page": "Francesco Bruni (vescovo)",
-            "pageView": 2487
+            "page": "Mario Miglietta",
+            "pageView": 3,
+            "total": 4589
         },
         {
             "page": "Camillo Alleva",
-            "pageView": 2160
+            "pageView": 2,
+            "total": 2160
+        },
+        {
+            "page": "Francesco Bruni (vescovo)",
+            "pageView": 2,
+            "total": 2489
         },
         {
             "page": "Luigi Pugliese",
-            "pageView": 2043
+            "pageView": 2,
+            "total": 2046
+        },
+        {
+            "page": "Salvatore Luigi Zola",
+            "pageView": 2,
+            "total": 2548
         }
     ]
 }

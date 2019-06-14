@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Riccardo Lombardi (politico)",
-            "pageView": 43685
+            "pageView": 27,
+            "total": 43721
         },
         {
             "page": "Raffaele Stancanelli",
-            "pageView": 25750
+            "pageView": 12,
+            "total": 25787
         },
         {
             "page": "Gianfilippo Ingrassia",
-            "pageView": 8791
+            "pageView": 5,
+            "total": 8798
         },
         {
             "page": "James Plumeri",
-            "pageView": 4449
-        },
-        {
-            "page": "Vito Cusimano",
-            "pageView": 2845
-        },
-        {
-            "page": "Francesco Fradella",
-            "pageView": 2725
-        },
-        {
-            "page": "Antonino Martino (giocatore di calcio a 5)",
-            "pageView": 1941
-        },
-        {
-            "page": "Giuseppe Perna",
-            "pageView": 1939
-        },
-        {
-            "page": "Luca Giampaolo",
-            "pageView": 1767
-        },
-        {
-            "page": "Rosa Tosches",
-            "pageView": 1517
-        },
-        {
-            "page": "Gil Marques",
-            "pageView": 1386
-        },
-        {
-            "page": "Thiago Grippi",
-            "pageView": 1306
+            "pageView": 3,
+            "total": 4454
         },
         {
             "page": "Salvatore Citelli",
-            "pageView": 1208
+            "pageView": 2,
+            "total": 1212
         },
         {
-            "page": "Howard Rosario Marraro",
-            "pageView": 630
+            "page": "Francesco Fradella",
+            "pageView": 2,
+            "total": 2727
+        },
+        {
+            "page": "Vito Cusimano",
+            "pageView": 2,
+            "total": 2848
+        },
+        {
+            "page": "Thiago Grippi",
+            "pageView": 2,
+            "total": 1309
+        },
+        {
+            "page": "Antonino Martino (giocatore di calcio a 5)",
+            "pageView": 2,
+            "total": 1941
+        },
+        {
+            "page": "Luca Giampaolo",
+            "pageView": 2,
+            "total": 1769
+        },
+        {
+            "page": "Giuseppe Perna",
+            "pageView": 2,
+            "total": 1940
+        },
+        {
+            "page": "Rosa Tosches",
+            "pageView": 1,
+            "total": 1517
+        },
+        {
+            "page": "Gil Marques",
+            "pageView": 1,
+            "total": 1387
         },
         {
             "page": "Vincenzo Pernicone",
-            "pageView": 472
+            "pageView": 0,
+            "total": 472
         },
         {
-            "page": "Angelo D'Agostino",
-            "pageView": 318
+            "page": "Howard Rosario Marraro",
+            "pageView": 0,
+            "total": 632
         },
         {
             "page": "Andrea Agnaletti",
-            "pageView": 285
+            "pageView": 0,
+            "total": 285
+        },
+        {
+            "page": "Angelo D'Agostino",
+            "pageView": 0,
+            "total": 318
         }
     ]
 }

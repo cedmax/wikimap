@@ -1,0 +1,27 @@
+{
+    "id": "place.16134806226706380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Susegana",
+    "place_name": "Susegana, Treviso, Italy",
+    "bbox": [
+        12.178022,
+        45.807212,
+        12.283325,
+        45.899014
+    ],
+    "center": [
+        12.25,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.25,
+            45.85
+        ]
+    }
+}

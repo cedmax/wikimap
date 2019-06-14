@@ -1,0 +1,27 @@
+{
+    "id": "place.10555204255865580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canale",
+    "place_name": "Canale, Cuneo, Italy",
+    "bbox": [
+        7.960109,
+        44.778782,
+        8.045442,
+        44.825473
+    ],
+    "center": [
+        8,
+        44.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8,
+            44.8
+        ]
+    }
+}

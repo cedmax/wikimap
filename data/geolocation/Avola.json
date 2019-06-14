@@ -1,0 +1,27 @@
+{
+    "id": "place.15740548214322180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avola",
+    "place_name": "Avola, Siracusa, Italy",
+    "bbox": [
+        15.067166,
+        36.874967,
+        15.190238,
+        36.973247
+    ],
+    "center": [
+        15.13333,
+        36.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.13333,
+            36.91667
+        ]
+    }
+}

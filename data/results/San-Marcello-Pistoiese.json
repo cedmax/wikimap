@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Francesco Ferrucci",
-            "pageView": 112887
+            "pageView": 67,
+            "total": 112944
         },
         {
             "page": "Zeno Colò",
-            "pageView": 64032
+            "pageView": 30,
+            "total": 64053
         },
         {
             "page": "Mauro Nesti",
-            "pageView": 23957
+            "pageView": 15,
+            "total": 23966
         },
         {
             "page": "Fabio Danti",
-            "pageView": 14700
+            "pageView": 8,
+            "total": 14712
         },
         {
             "page": "Filiberto di Chalons",
-            "pageView": 9511
+            "pageView": 6,
+            "total": 9518
         },
         {
             "page": "Moreno Burattini",
-            "pageView": 8621
+            "pageView": 5,
+            "total": 8625
         },
         {
             "page": "Maurizio Geri",
-            "pageView": 7213
-        },
-        {
-            "page": "Silvano Ciampi",
-            "pageView": 3143
-        },
-        {
-            "page": "Amico d'Arsoli",
-            "pageView": 3126
+            "pageView": 5,
+            "total": 7220
         },
         {
             "page": "Dino Arcangeli",
-            "pageView": 2946
+            "pageView": 2,
+            "total": 2949
         },
         {
             "page": "Giuseppe Arcangeli",
-            "pageView": 2039
+            "pageView": 2,
+            "total": 2040
+        },
+        {
+            "page": "Amico d'Arsoli",
+            "pageView": 2,
+            "total": 3129
+        },
+        {
+            "page": "Silvano Ciampi",
+            "pageView": 2,
+            "total": 3145
         },
         {
             "page": "Bartolomeo Cini",
-            "pageView": 1619
+            "pageView": 1,
+            "total": 1621
         },
         {
             "page": "Peleo Bacci",
-            "pageView": 789
+            "pageView": 0,
+            "total": 789
         }
     ]
 }

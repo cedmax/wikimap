@@ -1,0 +1,27 @@
+{
+    "id": "place.5717215167848270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Temù",
+    "place_name": "Temù, Brescia, Italy",
+    "bbox": [
+        10.440248,
+        46.193974,
+        10.516923,
+        46.321193
+    ],
+    "center": [
+        10.46889,
+        46.24944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.46889,
+            46.24944
+        ]
+    }
+}

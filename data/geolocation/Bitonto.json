@@ -1,0 +1,27 @@
+{
+    "id": "place.13041198343770600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bitonto",
+    "place_name": "Bitonto, Bari, Italy",
+    "bbox": [
+        16.471712,
+        40.943486,
+        16.758699,
+        41.154858
+    ],
+    "center": [
+        16.69167,
+        41.10833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.69167,
+            41.10833
+        ]
+    }
+}

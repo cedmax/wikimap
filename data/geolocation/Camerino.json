@@ -1,0 +1,27 @@
+{
+    "id": "place.16672172822774170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camerino",
+    "place_name": "Camerino, Macerata, Italy",
+    "bbox": [
+        12.98114,
+        43.076167,
+        13.168606,
+        43.196655
+    ],
+    "center": [
+        13.06667,
+        43.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.06667,
+            43.13333
+        ]
+    }
+}

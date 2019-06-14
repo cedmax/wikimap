@@ -1,0 +1,27 @@
+{
+    "id": "place.11357472812210410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni in Marignano",
+    "place_name": "San Giovanni in Marignano, Rimini, Italy",
+    "bbox": [
+        12.671969,
+        43.908862,
+        12.741605,
+        43.963951
+    ],
+    "center": [
+        12.7137,
+        43.9393
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.7137,
+            43.9393
+        ]
+    }
+}

@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Paolo Uccello",
-            "pageView": 189506
+            "pageView": 127,
+            "total": 189613
         },
         {
             "page": "Bernardo Tanucci",
-            "pageView": 34846
+            "pageView": 23,
+            "total": 34864
         },
         {
             "page": "Cristoforo Landino",
-            "pageView": 17925
-        },
-        {
-            "page": "Pier Quinto Cariaggi",
-            "pageView": 14156
+            "pageView": 11,
+            "total": 17931
         },
         {
             "page": "Giovanni del Biondo",
-            "pageView": 10094
+            "pageView": 6,
+            "total": 10101
         },
         {
             "page": "Jacopo Vignali",
-            "pageView": 9158
+            "pageView": 6,
+            "total": 9158
         },
         {
             "page": "Jacopo del Casentino",
-            "pageView": 8209
+            "pageView": 5,
+            "total": 8211
+        },
+        {
+            "page": "Pier Quinto Cariaggi",
+            "pageView": 5,
+            "total": 14161
         },
         {
             "page": "Remo Squillantini",
-            "pageView": 5270
-        },
-        {
-            "page": "Donato Albanzani",
-            "pageView": 3415
-        },
-        {
-            "page": "Ambrogio Soldani",
-            "pageView": 2964
+            "pageView": 3,
+            "total": 5272
         },
         {
             "page": "Pio Borri",
-            "pageView": 2890
-        },
-        {
-            "page": "Alberto Pietrini",
-            "pageView": 2675
+            "pageView": 2,
+            "total": 2890
         },
         {
             "page": "Vittorio Ruglioni",
-            "pageView": 1721
+            "pageView": 2,
+            "total": 1722
+        },
+        {
+            "page": "Alberto Pietrini",
+            "pageView": 2,
+            "total": 2689
+        },
+        {
+            "page": "Donato Albanzani",
+            "pageView": 2,
+            "total": 3415
+        },
+        {
+            "page": "Ambrogio Soldani",
+            "pageView": 2,
+            "total": 2969
         },
         {
             "page": "Carlo Beni",
-            "pageView": 1547
+            "pageView": 1,
+            "total": 1547
         },
         {
             "page": "Antonio da Pratovecchio",
-            "pageView": 932
+            "pageView": 1,
+            "total": 933
         },
         {
             "page": "Agnolo Monosini",
-            "pageView": 444
+            "pageView": 0,
+            "total": 446
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.9281476783809560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soriano nel Cimino",
+    "place_name": "Soriano nel Cimino, Viterbo, Italy",
+    "bbox": [
+        12.183447,
+        42.385486,
+        12.309366,
+        42.491297
+    ],
+    "center": [
+        12.23417,
+        42.41944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23417,
+            42.41944
+        ]
+    }
+}

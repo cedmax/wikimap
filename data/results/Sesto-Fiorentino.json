@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Mario Luzi",
-            "pageView": 170133
+            "pageView": 101,
+            "total": 170254
         },
         {
             "page": "Pier Luigi Vigna",
-            "pageView": 61541
+            "pageView": 37,
+            "total": 61604
         },
         {
             "page": "Fosco Giachetti",
-            "pageView": 44111
+            "pageView": 28,
+            "total": 44138
         },
         {
             "page": "Pietro Bernini",
-            "pageView": 35588
+            "pageView": 23,
+            "total": 35608
         },
         {
             "page": "Piero Tosi",
-            "pageView": 33229
-        },
-        {
-            "page": "Gianna Giachetti",
-            "pageView": 33027
+            "pageView": 19,
+            "total": 33244
         },
         {
             "page": "Alfredo Martini",
-            "pageView": 27406
+            "pageView": 15,
+            "total": 27432
+        },
+        {
+            "page": "Gianna Giachetti",
+            "pageView": 15,
+            "total": 33041
         },
         {
             "page": "Anna Maria Enriques Agnoletti",
-            "pageView": 22317
-        },
-        {
-            "page": "Michele Ventura",
-            "pageView": 11851
+            "pageView": 10,
+            "total": 22352
         },
         {
             "page": "Antonio Berti",
-            "pageView": 10121
+            "pageView": 6,
+            "total": 10123
         },
         {
             "page": "Bruno Bartoletti",
-            "pageView": 9044
+            "pageView": 6,
+            "total": 9051
+        },
+        {
+            "page": "Michele Ventura",
+            "pageView": 6,
+            "total": 11855
         },
         {
             "page": "Ernesto Ragionieri",
-            "pageView": 6405
-        },
-        {
-            "page": "Luigi Maverna",
-            "pageView": 5315
-        },
-        {
-            "page": "Lorenzo Alfonsi",
-            "pageView": 4285
+            "pageView": 4,
+            "total": 6408
         },
         {
             "page": "Renato Brogi",
-            "pageView": 3981
+            "pageView": 3,
+            "total": 3982
         },
         {
             "page": "Giulio Cerreti",
-            "pageView": 3956
+            "pageView": 3,
+            "total": 3960
         },
         {
-            "page": "Sergio Zoppi",
-            "pageView": 3602
+            "page": "Luigi Maverna",
+            "pageView": 3,
+            "total": 5317
         },
         {
-            "page": "Ornella Puliti Santoliquido",
-            "pageView": 3208
-        },
-        {
-            "page": "Riccardo Parigi",
-            "pageView": 2796
-        },
-        {
-            "page": "Leonardo Gigli",
-            "pageView": 2645
+            "page": "Lorenzo Alfonsi",
+            "pageView": 3,
+            "total": 4288
         },
         {
             "page": "Aldo Biagiotti",
-            "pageView": 2606
+            "pageView": 2,
+            "total": 2607
         },
         {
             "page": "Ernesto Bellandi",
-            "pageView": 2550
+            "pageView": 2,
+            "total": 2551
         },
         {
-            "page": "Pietro Torrini",
-            "pageView": 2119
-        },
-        {
-            "page": "Delio Granchi",
-            "pageView": 1911
+            "page": "Leonardo Gigli",
+            "pageView": 2,
+            "total": 2646
         },
         {
             "page": "Danilo Innocenti",
-            "pageView": 1854
+            "pageView": 2,
+            "total": 1856
         },
         {
-            "page": "Alamanno Pecchioli",
-            "pageView": 1127
+            "page": "Pietro Torrini",
+            "pageView": 2,
+            "total": 2119
         },
         {
-            "page": "Vasco Segoni",
-            "pageView": 1052
-        },
-        {
-            "page": "Francesco Coradini",
-            "pageView": 902
+            "page": "Ornella Puliti Santoliquido",
+            "pageView": 2,
+            "total": 3221
         },
         {
             "page": "Andrea Nencini",
-            "pageView": 864
+            "pageView": 2,
+            "total": 866
+        },
+        {
+            "page": "Riccardo Parigi",
+            "pageView": 2,
+            "total": 2797
+        },
+        {
+            "page": "Sergio Zoppi",
+            "pageView": 2,
+            "total": 3605
+        },
+        {
+            "page": "Alamanno Pecchioli",
+            "pageView": 1,
+            "total": 1128
+        },
+        {
+            "page": "Vasco Segoni",
+            "pageView": 1,
+            "total": 1054
+        },
+        {
+            "page": "Delio Granchi",
+            "pageView": 1,
+            "total": 1913
         },
         {
             "page": "Guglielmo Matucci",
-            "pageView": 594
+            "pageView": 0,
+            "total": 594
         },
         {
             "page": "Eleonora Francini",
-            "pageView": 521
+            "pageView": 0,
+            "total": 521
         },
         {
             "page": "Agenore Socini",
-            "pageView": 241
+            "pageView": 0,
+            "total": 242
+        },
+        {
+            "page": "Francesco Coradini",
+            "pageView": 0,
+            "total": 902
         }
     ]
 }

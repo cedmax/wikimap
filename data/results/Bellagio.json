@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Filippo Tommaso Marinetti",
-            "pageView": 569008
-        },
-        {
-            "page": "Teresio Olivelli",
-            "pageView": 47294
+            "pageView": 315.5,
+            "total": 570011
         },
         {
             "page": "Giorgio Melazzi",
-            "pageView": 36690
+            "pageView": 23,
+            "total": 36728
+        },
+        {
+            "page": "Teresio Olivelli",
+            "pageView": 21,
+            "total": 47334
         },
         {
             "page": "Mino Doro",
-            "pageView": 32759
+            "pageView": 18,
+            "total": 32775
         },
         {
             "page": "Augusto De Angelis",
-            "pageView": 26516
-        },
-        {
-            "page": "Carlo Pes",
-            "pageView": 15028
+            "pageView": 17.5,
+            "total": 26533
         },
         {
             "page": "Tommaso Gallarati Scotti",
-            "pageView": 14211
+            "pageView": 10,
+            "total": 14224
+        },
+        {
+            "page": "Carlo Pes",
+            "pageView": 9,
+            "total": 15038
         },
         {
             "page": "Micaela Giustiniani",
-            "pageView": 12687
+            "pageView": 7,
+            "total": 12696
         },
         {
             "page": "Glauco Gilardoni",
-            "pageView": 8725
+            "pageView": 6,
+            "total": 8730
         },
         {
             "page": "Carlo Montù",
-            "pageView": 7905
+            "pageView": 5,
+            "total": 7914
         },
         {
             "page": "Antonello Gerbi",
-            "pageView": 6917
-        },
-        {
-            "page": "Eugenio Bruschini",
-            "pageView": 6302
+            "pageView": 4,
+            "total": 6929
         },
         {
             "page": "Amilcare Pizzi",
-            "pageView": 6236
+            "pageView": 4,
+            "total": 6239
         },
         {
-            "page": "Angelo Monassi",
-            "pageView": 5278
+            "page": "Eugenio Bruschini",
+            "pageView": 4,
+            "total": 6306
         },
         {
             "page": "Virginio Ghiringhelli",
-            "pageView": 4397
+            "pageView": 3,
+            "total": 4397
         },
         {
-            "page": "Gino Del Signore",
-            "pageView": 3476
-        },
-        {
-            "page": "Carlo Sada di Bellagio",
-            "pageView": 3207
-        },
-        {
-            "page": "Giovanni De Castro",
-            "pageView": 2864
+            "page": "Angelo Monassi",
+            "pageView": 3,
+            "total": 5281
         },
         {
             "page": "Carlo Bellosio",
-            "pageView": 2481
-        },
-        {
-            "page": "Miro Gamba",
-            "pageView": 2138
+            "pageView": 2,
+            "total": 2482
         },
         {
             "page": "Antonio Pino da Bellagio",
-            "pageView": 1968
+            "pageView": 2,
+            "total": 1968
+        },
+        {
+            "page": "Gino Del Signore",
+            "pageView": 2,
+            "total": 3479
+        },
+        {
+            "page": "Carlo Sada di Bellagio",
+            "pageView": 2,
+            "total": 3208
+        },
+        {
+            "page": "Giovanni De Castro",
+            "pageView": 2,
+            "total": 2865
+        },
+        {
+            "page": "Miro Gamba",
+            "pageView": 2,
+            "total": 2138
         },
         {
             "page": "E.E.Y. Hales",
-            "pageView": 793
+            "pageView": 1,
+            "total": 793
         },
         {
             "page": "Ercole Sfondrati, I duca di Montemarciano",
-            "pageView": 527
+            "pageView": 0,
+            "total": 527
         }
     ]
 }

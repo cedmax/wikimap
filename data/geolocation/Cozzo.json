@@ -1,0 +1,27 @@
+{
+    "id": "place.12343514284587030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cozzo",
+    "place_name": "Cozzo, Pavia, Italy",
+    "bbox": [
+        8.58331,
+        45.175888,
+        8.65103,
+        45.238397
+    ],
+    "center": [
+        8.61667,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.61667,
+            45.2
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18382242440585080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roletto",
+    "place_name": "Roletto, Torino, Italy",
+    "bbox": [
+        7.297349,
+        44.90185,
+        7.386472,
+        44.952255
+    ],
+    "center": [
+        7.33333,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.33333,
+            44.91667
+        ]
+    }
+}

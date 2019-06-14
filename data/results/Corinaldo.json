@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Maria Goretti",
-            "pageView": 409412
+            "pageView": 203,
+            "total": 409592
         },
         {
             "page": "Giuseppe Capotondi",
-            "pageView": 37776
+            "pageView": 15,
+            "total": 37788
         },
         {
             "page": "Rodolfo Massi",
-            "pageView": 10519
+            "pageView": 6,
+            "total": 10528
         },
         {
             "page": "Claudio Ridolfi",
-            "pageView": 6330
-        },
-        {
-            "page": "Alfonso Casati",
-            "pageView": 6214
+            "pageView": 4,
+            "total": 6331
         },
         {
             "page": "Gerardo Rocconi",
-            "pageView": 5798
+            "pageView": 4,
+            "total": 5800
+        },
+        {
+            "page": "Alfonso Casati",
+            "pageView": 4,
+            "total": 6217
         },
         {
             "page": "Pietro Camozzi",
-            "pageView": 5212
+            "pageView": 3,
+            "total": 5217
         },
         {
             "page": "Domenico Grandi",
-            "pageView": 4505
-        },
-        {
-            "page": "Vincenzo Maria Cimarelli",
-            "pageView": 2241
+            "pageView": 3,
+            "total": 4507
         },
         {
             "page": "Achille Tarducci",
-            "pageView": 2144
+            "pageView": 2,
+            "total": 2144
+        },
+        {
+            "page": "Vincenzo Maria Cimarelli",
+            "pageView": 2,
+            "total": 2241
         },
         {
             "page": "Francesco Fabri",
-            "pageView": 1918
+            "pageView": 2,
+            "total": 1920
         },
         {
             "page": "Andrea Bruciati",
-            "pageView": 1316
+            "pageView": 0,
+            "total": 1316
         }
     ]
 }

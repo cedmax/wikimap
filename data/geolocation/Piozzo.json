@@ -1,0 +1,27 @@
+{
+    "id": "place.5873334703280460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piozzo",
+    "place_name": "Piozzo, Cuneo, Italy",
+    "bbox": [
+        7.848695,
+        44.492948,
+        7.910037,
+        44.541755
+    ],
+    "center": [
+        7.9,
+        44.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9,
+            44.51667
+        ]
+    }
+}

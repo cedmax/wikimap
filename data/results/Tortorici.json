@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Adriana Faranda",
-            "pageView": 294652
+            "pageView": 84,
+            "total": 294723
         },
         {
             "page": "Sebastiano Timpanaro senior",
-            "pageView": 3946
+            "pageView": 3,
+            "total": 3951
         },
         {
             "page": "Edera Cordiale",
-            "pageView": 2515
+            "pageView": 2,
+            "total": 2516
         },
         {
             "page": "Giuseppe Tomasi",
-            "pageView": 1741
+            "pageView": 2,
+            "total": 1745
         },
         {
             "page": "Tony Scala",
-            "pageView": 1405
+            "pageView": 1,
+            "total": 1405
         },
         {
             "page": "Giuseppe Faranda",
-            "pageView": 338
+            "pageView": 0,
+            "total": 338
         }
     ]
 }

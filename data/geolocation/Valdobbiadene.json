@@ -1,0 +1,27 @@
+{
+    "id": "place.12593433004261820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdobbiadene",
+    "place_name": "Valdobbiadene, Belluno, Italy",
+    "bbox": [
+        11.948577,
+        45.858875,
+        12.077356,
+        45.974129
+    ],
+    "center": [
+        11.91667,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91667,
+            45.9
+        ]
+    }
+}

@@ -3,383 +3,478 @@
     "people": [
         {
             "page": "Francesco d'Assisi",
-            "pageView": 1744757
+            "pageView": 957,
+            "total": 1746313
         },
         {
             "page": "Andrea Ranocchia",
-            "pageView": 530750
+            "pageView": 245,
+            "total": 530890
         },
         {
             "page": "Chiara d'Assisi",
-            "pageView": 372068
-        },
-        {
-            "page": "Antonio Angelillo",
-            "pageView": 141543
+            "pageView": 186,
+            "total": 372258
         },
         {
             "page": "Gabriele dell'Addolorata",
-            "pageView": 103383
+            "pageView": 54,
+            "total": 103433
+        },
+        {
+            "page": "Antonio Angelillo",
+            "pageView": 50,
+            "total": 141576
         },
         {
             "page": "Sesto Properzio",
-            "pageView": 61566
+            "pageView": 39,
+            "total": 61596
         },
         {
             "page": "Andrea Romizi",
-            "pageView": 55657
-        },
-        {
-            "page": "Tullio Cianetti",
-            "pageView": 38229
-        },
-        {
-            "page": "Gianfranco Rosi (pugile)",
-            "pageView": 37636
+            "pageView": 30,
+            "total": 55687
         },
         {
             "page": "Guido da Montefeltro",
-            "pageView": 36399
+            "pageView": 24,
+            "total": 36414
+        },
+        {
+            "page": "Tullio Cianetti",
+            "pageView": 23.5,
+            "total": 38258
+        },
+        {
+            "page": "Gianfranco Rosi (pugile)",
+            "pageView": 23,
+            "total": 37674
         },
         {
             "page": "Elia da Cortona",
-            "pageView": 30856
+            "pageView": 18,
+            "total": 30879
         },
         {
             "page": "Rufino di Assisi",
-            "pageView": 28861
-        },
-        {
-            "page": "Alfiero Toppetti",
-            "pageView": 26177
-        },
-        {
-            "page": "Agnese d'Assisi",
-            "pageView": 22885
+            "pageView": 16,
+            "total": 28874
         },
         {
             "page": "Marcello Giombini",
-            "pageView": 21895
+            "pageView": 14,
+            "total": 21911
         },
         {
-            "page": "Bernardo di Quintavalle",
-            "pageView": 19595
-        },
-        {
-            "page": "Giuliano Procacci",
-            "pageView": 18265
+            "page": "Agnese d'Assisi",
+            "pageView": 12,
+            "total": 22915
         },
         {
             "page": "Domenico Sorrentino",
-            "pageView": 17515
+            "pageView": 11,
+            "total": 17519
+        },
+        {
+            "page": "Bernardo di Quintavalle",
+            "pageView": 11,
+            "total": 19600
+        },
+        {
+            "page": "Alfiero Toppetti",
+            "pageView": 11,
+            "total": 26179
         },
         {
             "page": "Giacoma de Settesoli",
-            "pageView": 16611
+            "pageView": 10,
+            "total": 16618
         },
         {
             "page": "Sergio Carpanesi",
-            "pageView": 14663
+            "pageView": 9,
+            "total": 14669
         },
         {
-            "page": "Vivetta Ponti",
-            "pageView": 12075
-        },
-        {
-            "page": "Pietro Cattani",
-            "pageView": 11651
+            "page": "Giuliano Procacci",
+            "pageView": 8,
+            "total": 18272
         },
         {
             "page": "Sandro Baldoni",
-            "pageView": 11111
+            "pageView": 7,
+            "total": 11117
         },
         {
-            "page": "Tristano Codignola",
-            "pageView": 10092
-        },
-        {
-            "page": "Giuseppe Placido Nicolini",
-            "pageView": 7880
-        },
-        {
-            "page": "Puccio Capanna",
-            "pageView": 7683
-        },
-        {
-            "page": "Fabio Pennacchi",
-            "pageView": 7656
-        },
-        {
-            "page": "Egidio d'Assisi",
-            "pageView": 7610
-        },
-        {
-            "page": "Arnaldo Fortini",
-            "pageView": 7557
+            "page": "Pietro Cattani",
+            "pageView": 7,
+            "total": 11654
         },
         {
             "page": "Alessandro Cappelletti",
-            "pageView": 7146
+            "pageView": 6,
+            "total": 7172
         },
         {
-            "page": "Riccardo Francalancia",
-            "pageView": 7078
+            "page": "Tristano Codignola",
+            "pageView": 6,
+            "total": 10099
         },
         {
-            "page": "Francesco Moneti (letterato)",
-            "pageView": 6883
+            "page": "Vivetta Ponti",
+            "pageView": 6,
+            "total": 12078
         },
         {
-            "page": "Massimo Belli",
-            "pageView": 6682
+            "page": "Arnaldo Fortini",
+            "pageView": 5,
+            "total": 7559
         },
         {
-            "page": "Barbara Micarelli",
-            "pageView": 6397
+            "page": "Puccio Capanna",
+            "pageView": 5,
+            "total": 7685
         },
         {
-            "page": "Aldo Brunacci",
-            "pageView": 5808
+            "page": "Egidio d'Assisi",
+            "pageView": 5,
+            "total": 7611
         },
         {
-            "page": "Luisa Pugnali",
-            "pageView": 5709
+            "page": "Fabio Pennacchi",
+            "pageView": 5,
+            "total": 7660
+        },
+        {
+            "page": "Giuseppe Placido Nicolini",
+            "pageView": 4,
+            "total": 7880
         },
         {
             "page": "Daniele Gregori",
-            "pageView": 5624
-        },
-        {
-            "page": "Dono Doni",
-            "pageView": 5589
-        },
-        {
-            "page": "Gloria Banditelli",
-            "pageView": 5290
-        },
-        {
-            "page": "Lorenzo Doni",
-            "pageView": 5106
-        },
-        {
-            "page": "Giovanni Grosoli",
-            "pageView": 4656
+            "pageView": 4,
+            "total": 5626
         },
         {
             "page": "Claudio Tinaglia",
-            "pageView": 4639
+            "pageView": 3,
+            "total": 4643
         },
         {
-            "page": "Andrea d'Assisi",
-            "pageView": 4628
+            "page": "Massimo Belli",
+            "pageView": 3,
+            "total": 6683
         },
         {
-            "page": "Nazareno Gugliemi",
-            "pageView": 4240
+            "page": "Gloria Banditelli",
+            "pageView": 3,
+            "total": 5291
         },
         {
-            "page": "Marino Vulcano",
-            "pageView": 4114
+            "page": "Barbara Micarelli",
+            "pageView": 3,
+            "total": 6401
         },
         {
-            "page": "Kriyananda",
-            "pageView": 3955
-        },
-        {
-            "page": "Gabriel della Genga Sermattei",
-            "pageView": 3701
-        },
-        {
-            "page": "Tiberio d'Assisi",
-            "pageView": 3693
-        },
-        {
-            "page": "Vitale d'Assisi",
-            "pageView": 3658
-        },
-        {
-            "page": "Mariano Falcinelli Antoniacci",
-            "pageView": 3652
-        },
-        {
-            "page": "Francesco Villamena",
-            "pageView": 3586
-        },
-        {
-            "page": "Giuseppe degli Aromatari",
-            "pageView": 3517
-        },
-        {
-            "page": "Francesco Nerli il Giovane",
-            "pageView": 3492
+            "page": "Francesco Moneti (letterato)",
+            "pageView": 3,
+            "total": 6885
         },
         {
             "page": "Ortolana d'Assisi",
-            "pageView": 3335
+            "pageView": 3,
+            "total": 3338
         },
         {
-            "page": "Cesare Sermei",
-            "pageView": 3290
+            "page": "Riccardo Francalancia",
+            "pageView": 3,
+            "total": 7080
         },
         {
-            "page": "Otello Migliosi",
-            "pageView": 3270
+            "page": "Aldo Brunacci",
+            "pageView": 3,
+            "total": 5809
         },
         {
-            "page": "Sergio Goretti",
-            "pageView": 3250
+            "page": "Nazareno Gugliemi",
+            "pageView": 3,
+            "total": 4244
         },
         {
-            "page": "Frederick Mason Perkins",
-            "pageView": 3072
+            "page": "Andrea d'Assisi",
+            "pageView": 3,
+            "total": 4629
         },
         {
-            "page": "Domenico Stella",
-            "pageView": 3062
+            "page": "Giovanni Grosoli",
+            "pageView": 3,
+            "total": 4660
         },
         {
-            "page": "Gemma Fortini",
-            "pageView": 3059
+            "page": "Dono Doni",
+            "pageView": 3,
+            "total": 5590
         },
         {
-            "page": "Domenico Meccoli",
-            "pageView": 3044
-        },
-        {
-            "page": "Amata d'Assisi",
-            "pageView": 2927
-        },
-        {
-            "page": "Giovanni Battista Buonamente",
-            "pageView": 2783
-        },
-        {
-            "page": "Sperello Sperelli",
-            "pageView": 2636
-        },
-        {
-            "page": "Francesco Giontella (cavaliere del lavoro)",
-            "pageView": 2576
-        },
-        {
-            "page": "Agnese Soli",
-            "pageView": 2509
-        },
-        {
-            "page": "Giacomo Brufani",
-            "pageView": 2475
-        },
-        {
-            "page": "Laurenzio Laurenzi",
-            "pageView": 2475
-        },
-        {
-            "page": "Niccolò de Carbio",
-            "pageView": 2448
+            "page": "Luisa Pugnali",
+            "pageView": 3,
+            "total": 5732
         },
         {
             "page": "Nikita Grigor'evič Volkonskij",
-            "pageView": 2431
+            "pageView": 2,
+            "total": 2433
         },
         {
-            "page": "Francesco Maria Benedetti",
-            "pageView": 2410
+            "page": "Domenico Stella",
+            "pageView": 2,
+            "total": 3065
         },
         {
-            "page": "Francesco Moricotti",
-            "pageView": 2317
+            "page": "Vitale d'Assisi",
+            "pageView": 2,
+            "total": 3658
         },
         {
             "page": "Elio Grassi",
-            "pageView": 2228
+            "pageView": 2,
+            "total": 2228
         },
         {
-            "page": "Paolo Emilio Rondinini",
-            "pageView": 2211
-        },
-        {
-            "page": "Giovanni Maria Riminaldi",
-            "pageView": 2081
-        },
-        {
-            "page": "Teresa Sensi",
-            "pageView": 1763
-        },
-        {
-            "page": "Renzo Rosati",
-            "pageView": 1758
-        },
-        {
-            "page": "Giovanni Ottavio Manciforte Sperelli",
-            "pageView": 1535
-        },
-        {
-            "page": "Massimo Binazzi",
-            "pageView": 1522
+            "page": "Marino Vulcano",
+            "pageView": 2,
+            "total": 4116
         },
         {
             "page": "Stelio Zaganelli",
-            "pageView": 1518
+            "pageView": 2,
+            "total": 1518
         },
         {
-            "page": "Emilio Siena",
-            "pageView": 1514
+            "page": "Francesco Giontella (cavaliere del lavoro)",
+            "pageView": 2,
+            "total": 2576
         },
         {
-            "page": "Vincenzo Rosignoli",
-            "pageView": 1503
+            "page": "Giuseppe degli Aromatari",
+            "pageView": 2,
+            "total": 3518
+        },
+        {
+            "page": "Sergio Goretti",
+            "pageView": 2,
+            "total": 3253
+        },
+        {
+            "page": "Lorenzo Doni",
+            "pageView": 2,
+            "total": 5106
+        },
+        {
+            "page": "Niccolò de Carbio",
+            "pageView": 2,
+            "total": 2449
+        },
+        {
+            "page": "Tiberio d'Assisi",
+            "pageView": 2,
+            "total": 3696
+        },
+        {
+            "page": "Sperello Sperelli",
+            "pageView": 2,
+            "total": 2638
+        },
+        {
+            "page": "Paolo Emilio Rondinini",
+            "pageView": 2,
+            "total": 2211
+        },
+        {
+            "page": "Gemma Fortini",
+            "pageView": 2,
+            "total": 3060
+        },
+        {
+            "page": "Agnese Soli",
+            "pageView": 2,
+            "total": 2511
+        },
+        {
+            "page": "Frederick Mason Perkins",
+            "pageView": 2,
+            "total": 3072
+        },
+        {
+            "page": "Gabriel della Genga Sermattei",
+            "pageView": 2,
+            "total": 3702
+        },
+        {
+            "page": "Amata d'Assisi",
+            "pageView": 2,
+            "total": 2934
+        },
+        {
+            "page": "Giovanni Battista Buonamente",
+            "pageView": 2,
+            "total": 2783
+        },
+        {
+            "page": "Mariano Falcinelli Antoniacci",
+            "pageView": 2,
+            "total": 3658
+        },
+        {
+            "page": "Otello Migliosi",
+            "pageView": 2,
+            "total": 3270
         },
         {
             "page": "Balbina da Assisi",
-            "pageView": 1493
+            "pageView": 2,
+            "total": 1495
         },
         {
-            "page": "Luigi De Persiis",
-            "pageView": 1403
+            "page": "Teresa Sensi",
+            "pageView": 2,
+            "total": 1763
         },
         {
-            "page": "Bertrand Lagier",
-            "pageView": 1234
+            "page": "Francesco Moricotti",
+            "pageView": 2,
+            "total": 2317
         },
         {
-            "page": "Illuminato da Chieti",
-            "pageView": 1177
+            "page": "Laurenzio Laurenzi",
+            "pageView": 2,
+            "total": 2476
         },
         {
-            "page": "Antonello Campodifiori",
-            "pageView": 1124
+            "page": "Domenico Meccoli",
+            "pageView": 2,
+            "total": 3045
         },
         {
-            "page": "Pasteur de Sarrats",
-            "pageView": 1109
+            "page": "Francesco Nerli il Giovane",
+            "pageView": 2,
+            "total": 3492
         },
         {
-            "page": "Raniero Gigliarelli",
-            "pageView": 1048
+            "page": "Giovanni Maria Riminaldi",
+            "pageView": 2,
+            "total": 2081
+        },
+        {
+            "page": "Francesco Villamena",
+            "pageView": 2,
+            "total": 3587
+        },
+        {
+            "page": "Francesco Maria Benedetti",
+            "pageView": 2,
+            "total": 2410
+        },
+        {
+            "page": "Giacomo Brufani",
+            "pageView": 2,
+            "total": 2475
+        },
+        {
+            "page": "Cesare Sermei",
+            "pageView": 2,
+            "total": 3293
         },
         {
             "page": "Giovanni Rossi (presbitero 1887-1975)",
-            "pageView": 947
+            "pageView": 1,
+            "total": 947
         },
         {
-            "page": "Pietro da Collemezzo",
-            "pageView": 738
+            "page": "Pasteur de Sarrats",
+            "pageView": 1,
+            "total": 1109
         },
         {
-            "page": "Maceo Angeli",
-            "pageView": 493
+            "page": "Vincenzo Rosignoli",
+            "pageView": 1,
+            "total": 1506
         },
         {
-            "page": "Andrea De Giovanni",
-            "pageView": 413
+            "page": "Raniero Gigliarelli",
+            "pageView": 1,
+            "total": 1049
+        },
+        {
+            "page": "Luigi De Persiis",
+            "pageView": 1,
+            "total": 1403
+        },
+        {
+            "page": "Emilio Siena",
+            "pageView": 1,
+            "total": 1515
+        },
+        {
+            "page": "Renzo Rosati",
+            "pageView": 1,
+            "total": 1759
+        },
+        {
+            "page": "Illuminato da Chieti",
+            "pageView": 1,
+            "total": 1177
+        },
+        {
+            "page": "Bertrand Lagier",
+            "pageView": 1,
+            "total": 1234
+        },
+        {
+            "page": "Giovanni Ottavio Manciforte Sperelli",
+            "pageView": 1,
+            "total": 1536
+        },
+        {
+            "page": "Massimo Binazzi",
+            "pageView": 1,
+            "total": 1522
         },
         {
             "page": "Giuseppe Sbaraglini",
-            "pageView": 183
+            "pageView": 0,
+            "total": 183
         },
         {
             "page": "Paolino di Giovanni",
-            "pageView": 44
+            "pageView": 0,
+            "total": 44
+        },
+        {
+            "page": "Maceo Angeli",
+            "pageView": 0,
+            "total": 493
+        },
+        {
+            "page": "Kriyananda",
+            "pageView": 0,
+            "total": 3962
+        },
+        {
+            "page": "Pietro da Collemezzo",
+            "pageView": 0,
+            "total": 738
+        },
+        {
+            "page": "Antonello Campodifiori",
+            "pageView": 0,
+            "total": 1125
+        },
+        {
+            "page": "Andrea De Giovanni",
+            "pageView": 0,
+            "total": 413
         }
     ]
 }

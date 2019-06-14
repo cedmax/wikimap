@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Papa Sisto IV",
-            "pageView": 293002
+            "pageView": 151,
+            "total": 293096
         },
         {
             "page": "Giuseppe Olmo",
-            "pageView": 13952
-        },
-        {
-            "page": "Massimo Quaini",
-            "pageView": 6572
+            "pageView": 9,
+            "total": 13961
         },
         {
             "page": "Franco Monzino",
-            "pageView": 6247
+            "pageView": 7,
+            "total": 6248
+        },
+        {
+            "page": "Massimo Quaini",
+            "pageView": 4,
+            "total": 6585
         },
         {
             "page": "Pietro Costa",
-            "pageView": 4552
+            "pageView": 3,
+            "total": 4554
         },
         {
             "page": "Damaso da Celle Ligure",
-            "pageView": 2622
+            "pageView": 2,
+            "total": 2622
         },
         {
             "page": "Gianluigi De Marchi",
-            "pageView": 2066
-        },
-        {
-            "page": "Silvio Ravera",
-            "pageView": 1738
+            "pageView": 2,
+            "total": 2068
         },
         {
             "page": "Gerolamo Mordeglia",
-            "pageView": 1291
+            "pageView": 1,
+            "total": 1293
+        },
+        {
+            "page": "Silvio Ravera",
+            "pageView": 1,
+            "total": 1740
         }
     ]
 }

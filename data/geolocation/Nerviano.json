@@ -1,0 +1,27 @@
+{
+    "id": "place.5796598468861960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nerviano",
+    "place_name": "Nerviano, Milano, Italy",
+    "bbox": [
+        8.948164,
+        45.521221,
+        9.009801,
+        45.577248
+    ],
+    "center": [
+        8.98333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.98333,
+            45.55
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9556174069971190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "La Valle Agordina",
+    "place_name": "La Valle Agordina, Belluno, Italy",
+    "bbox": [
+        12.037229,
+        46.242817,
+        12.158332,
+        46.331252
+    ],
+    "center": [
+        12.066,
+        46.2813
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.066,
+            46.2813
+        ]
+    }
+}

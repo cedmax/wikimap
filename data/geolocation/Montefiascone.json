@@ -1,0 +1,27 @@
+{
+    "id": "place.13745966186475670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefiascone",
+    "place_name": "Montefiascone, Viterbo, Italy",
+    "bbox": [
+        11.943964,
+        42.461825,
+        12.093495,
+        42.604361
+    ],
+    "center": [
+        12.03333,
+        42.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            42.53333
+        ]
+    }
+}

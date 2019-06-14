@@ -1,0 +1,27 @@
+{
+    "id": "place.16058230883724670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brembate di Sopra",
+    "place_name": "Brembate di Sopra, Bergamo, Italy",
+    "bbox": [
+        9.564315,
+        45.700811,
+        9.596267,
+        45.730072
+    ],
+    "center": [
+        9.58065,
+        45.71767
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58065,
+            45.71767
+        ]
+    }
+}

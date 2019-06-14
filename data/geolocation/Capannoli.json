@@ -1,0 +1,27 @@
+{
+    "id": "place.5143270976797370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capannoli",
+    "place_name": "Capannoli, Pisa, Italy",
+    "bbox": [
+        10.631256,
+        43.55194,
+        10.720176,
+        43.615782
+    ],
+    "center": [
+        10.66972,
+        43.59
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66972,
+            43.59
+        ]
+    }
+}

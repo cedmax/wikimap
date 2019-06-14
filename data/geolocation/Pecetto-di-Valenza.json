@@ -1,0 +1,27 @@
+{
+    "id": "place.4942478883770900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pecetto di Valenza",
+    "place_name": "Pecetto di Valenza, Alessandria, Italy",
+    "bbox": [
+        8.647399,
+        44.961264,
+        8.702025,
+        45.017619
+    ],
+    "center": [
+        8.67194,
+        44.99083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.67194,
+            44.99083
+        ]
+    }
+}

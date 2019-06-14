@@ -1,0 +1,27 @@
+{
+    "id": "place.16305077091125180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Croce sull'Arno",
+    "place_name": "Santa Croce sull'Arno, Pisa, Italy",
+    "bbox": [
+        10.683333,
+        43.700056,
+        10.79717,
+        43.777035
+    ],
+    "center": [
+        10.7727,
+        43.7202
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7727,
+            43.7202
+        ]
+    }
+}

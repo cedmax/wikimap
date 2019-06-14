@@ -1,0 +1,27 @@
+{
+    "id": "place.13141953768003120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Nicandro Garganico",
+    "place_name": "San Nicandro Garganico, Foggia, Italy",
+    "bbox": [
+        15.454293,
+        41.724771,
+        15.677126,
+        41.928998
+    ],
+    "center": [
+        15.56667,
+        41.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.56667,
+            41.83333
+        ]
+    }
+}

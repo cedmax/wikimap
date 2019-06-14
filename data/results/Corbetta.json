@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Gil Ventura",
-            "pageView": 13457
+            "pageView": 7,
+            "total": 13464
         },
         {
             "page": "Giuliano Grittini",
-            "pageView": 5409
+            "pageView": 3,
+            "total": 5416
         },
         {
             "page": "Francesco Prina",
-            "pageView": 4610
+            "pageView": 3,
+            "total": 4612
         },
         {
             "page": "Luigi Maria Olivares",
-            "pageView": 4543
-        },
-        {
-            "page": "Simone da Corbetta",
-            "pageView": 3429
-        },
-        {
-            "page": "Pietro Casola",
-            "pageView": 2938
-        },
-        {
-            "page": "Aldo Salvi",
-            "pageView": 2928
-        },
-        {
-            "page": "Pierino Beretta",
-            "pageView": 2506
-        },
-        {
-            "page": "Giuseppe Carlo Rossi",
-            "pageView": 2254
+            "pageView": 3,
+            "total": 4543
         },
         {
             "page": "Giuseppe Resta",
-            "pageView": 2036
+            "pageView": 2,
+            "total": 2037
+        },
+        {
+            "page": "Pierino Beretta",
+            "pageView": 2,
+            "total": 2506
+        },
+        {
+            "page": "Aldo Salvi",
+            "pageView": 2,
+            "total": 2933
+        },
+        {
+            "page": "Giuseppe Carlo Rossi",
+            "pageView": 2,
+            "total": 2255
+        },
+        {
+            "page": "Simone da Corbetta",
+            "pageView": 2,
+            "total": 3432
+        },
+        {
+            "page": "Pietro Casola",
+            "pageView": 2,
+            "total": 2939
         },
         {
             "page": "Cristoforo Borri",
-            "pageView": 294
+            "pageView": 0,
+            "total": 294
         }
     ]
 }

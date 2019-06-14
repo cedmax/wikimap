@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Padre Pio da Pietrelcina",
-            "pageView": 1335514
-        },
-        {
-            "page": "Michele Pirro",
-            "pageView": 123050
-        },
-        {
-            "page": "Mario Mauro",
-            "pageView": 75589
+            "pageView": 675,
+            "total": 1336211
         },
         {
             "page": "Mecna",
-            "pageView": 66179
+            "pageView": 68,
+            "total": 66275
+        },
+        {
+            "page": "Mario Mauro",
+            "pageView": 41,
+            "total": 75610
+        },
+        {
+            "page": "Michele Pirro",
+            "pageView": 40,
+            "total": 123132
         },
         {
             "page": "Giuseppe Colucci",
-            "pageView": 43449
-        },
-        {
-            "page": "Michele Castoro",
-            "pageView": 42129
+            "pageView": 23,
+            "total": 43461
         },
         {
             "page": "Marisa Maresca",
-            "pageView": 28923
-        },
-        {
-            "page": "Girolamo Di Stolfo",
-            "pageView": 25751
+            "pageView": 16,
+            "total": 28931
         },
         {
             "page": "Domenico Umberto D'Ambrosio",
-            "pageView": 25278
+            "pageView": 14,
+            "total": 25287
+        },
+        {
+            "page": "Michele Castoro",
+            "pageView": 14,
+            "total": 42139
         },
         {
             "page": "Pino Rucher",
-            "pageView": 21701
+            "pageView": 12,
+            "total": 21714
         },
         {
             "page": "Alberto Duval",
-            "pageView": 11594
-        },
-        {
-            "page": "Giuseppe Tamburrano",
-            "pageView": 9975
-        },
-        {
-            "page": "Claudio Damiani",
-            "pageView": 8802
-        },
-        {
-            "page": "Domenico Botticella",
-            "pageView": 6239
-        },
-        {
-            "page": "Michele Russo",
-            "pageView": 5138
-        },
-        {
-            "page": "Celestino Galiani",
-            "pageView": 4951
-        },
-        {
-            "page": "Giuseppe Semerari",
-            "pageView": 4931
+            "pageView": 7,
+            "total": 11600
         },
         {
             "page": "Daniele Natale",
-            "pageView": 4922
+            "pageView": 6,
+            "total": 4927
         },
         {
-            "page": "Angelo Galante",
-            "pageView": 4504
+            "page": "Claudio Damiani",
+            "pageView": 5,
+            "total": 8806
         },
         {
-            "page": "Franco Moscone",
-            "pageView": 4160
+            "page": "Giuseppe Tamburrano",
+            "pageView": 5,
+            "total": 9979
+        },
+        {
+            "page": "Domenico Botticella",
+            "pageView": 4,
+            "total": 6242
+        },
+        {
+            "page": "Girolamo Di Stolfo",
+            "pageView": 4,
+            "total": 25789
         },
         {
             "page": "Antonio Cocomazzi",
-            "pageView": 3856
+            "pageView": 3,
+            "total": 3859
         },
         {
-            "page": "Pia Carmen Lionetti",
-            "pageView": 3655
+            "page": "Angelo Galante",
+            "pageView": 3,
+            "total": 4506
         },
         {
-            "page": "Nicola Cisternino",
-            "pageView": 3320
+            "page": "Celestino Galiani",
+            "pageView": 3,
+            "total": 4954
+        },
+        {
+            "page": "Giuseppe Semerari",
+            "pageView": 3,
+            "total": 4932
+        },
+        {
+            "page": "Michele Russo",
+            "pageView": 3,
+            "total": 5139
         },
         {
             "page": "Sebastiano Scarcella",
-            "pageView": 3137
+            "pageView": 2,
+            "total": 3137
         },
         {
-            "page": "Guglielmo Sanguinetti",
-            "pageView": 2533
+            "page": "Nicola Cisternino",
+            "pageView": 2,
+            "total": 3322
         },
         {
-            "page": "Gino Pisanò",
-            "pageView": 1964
-        },
-        {
-            "page": "Gisella Naturale",
-            "pageView": 1514
+            "page": "Pia Carmen Lionetti",
+            "pageView": 2,
+            "total": 3657
         },
         {
             "page": "Luigi Tamburrano",
-            "pageView": 1125
+            "pageView": 2,
+            "total": 1127
+        },
+        {
+            "page": "Gino Pisanò",
+            "pageView": 2,
+            "total": 1964
         },
         {
             "page": "Stefania Salvemini",
-            "pageView": 1111
+            "pageView": 1,
+            "total": 1111
+        },
+        {
+            "page": "Gisella Naturale",
+            "pageView": 0,
+            "total": 1515
+        },
+        {
+            "page": "Guglielmo Sanguinetti",
+            "pageView": 0,
+            "total": 2534
+        },
+        {
+            "page": "Franco Moscone",
+            "pageView": 0,
+            "total": 4169
         }
     ]
 }

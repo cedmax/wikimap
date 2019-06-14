@@ -3,107 +3,133 @@
     "people": [
         {
             "page": "Carmine Crocco",
-            "pageView": 259892
+            "pageView": 161,
+            "total": 260785
         },
         {
             "page": "Giustino Fortunato",
-            "pageView": 70483
+            "pageView": 46,
+            "total": 70528
         },
         {
             "page": "Beniamino Placido",
-            "pageView": 33170
+            "pageView": 18,
+            "total": 33184
         },
         {
             "page": "Gianna Schelotto",
-            "pageView": 27788
+            "pageView": 13,
+            "total": 27816
         },
         {
             "page": "Giustino Fortunato (1777-1862)",
-            "pageView": 11287
+            "pageView": 7,
+            "total": 11295
         },
         {
             "page": "Young Corbett III",
-            "pageView": 10440
+            "pageView": 7,
+            "total": 10445
         },
         {
             "page": "Pasquale Plastino",
-            "pageView": 9198
+            "pageView": 5,
+            "total": 9204
         },
         {
             "page": "Giuseppe Pennella",
-            "pageView": 8759
-        },
-        {
-            "page": "Giuseppe Brienza",
-            "pageView": 7261
-        },
-        {
-            "page": "Michele Granata",
-            "pageView": 6603
-        },
-        {
-            "page": "Giovanni Barozzino",
-            "pageView": 6169
+            "pageView": 5,
+            "total": 8763
         },
         {
             "page": "Donato Lamorte",
-            "pageView": 5852
+            "pageView": 4,
+            "total": 5857
         },
         {
-            "page": "Nicola Russo",
-            "pageView": 5615
+            "page": "Giuseppe Brienza",
+            "pageView": 4,
+            "total": 7265
         },
         {
             "page": "Felice Cappa",
-            "pageView": 5284
-        },
-        {
-            "page": "Raffaele Ciasca",
-            "pageView": 4177
-        },
-        {
-            "page": "Pasquale Lamorte",
-            "pageView": 3674
-        },
-        {
-            "page": "Michele di Gè",
-            "pageView": 3557
-        },
-        {
-            "page": "Piero Di Siena",
-            "pageView": 3541
-        },
-        {
-            "page": "Nino Calice",
-            "pageView": 2934
-        },
-        {
-            "page": "Giuseppe Catenacci",
-            "pageView": 2696
+            "pageView": 4,
+            "total": 5289
         },
         {
             "page": "Donato Castellaneta",
-            "pageView": 2500
+            "pageView": 4,
+            "total": 2502
+        },
+        {
+            "page": "Giovanni Barozzino",
+            "pageView": 4,
+            "total": 6173
+        },
+        {
+            "page": "Michele Granata",
+            "pageView": 4,
+            "total": 6607
+        },
+        {
+            "page": "Raffaele Ciasca",
+            "pageView": 3,
+            "total": 4182
+        },
+        {
+            "page": "Pasquale Lamorte",
+            "pageView": 3,
+            "total": 3677
+        },
+        {
+            "page": "Nicola Russo",
+            "pageView": 3,
+            "total": 5617
         },
         {
             "page": "Luigi Granata",
-            "pageView": 2049
+            "pageView": 2,
+            "total": 2050
         },
         {
-            "page": "Michele Rigillo",
-            "pageView": 1571
+            "page": "Piero Di Siena",
+            "pageView": 2,
+            "total": 3546
         },
         {
             "page": "Michele D'Angelo",
-            "pageView": 1344
+            "pageView": 2,
+            "total": 1344
         },
         {
-            "page": "Filippo Longo",
-            "pageView": 1262
+            "page": "Nino Calice",
+            "pageView": 2,
+            "total": 2946
+        },
+        {
+            "page": "Giuseppe Catenacci",
+            "pageView": 2,
+            "total": 2696
+        },
+        {
+            "page": "Michele di Gè",
+            "pageView": 2,
+            "total": 3559
         },
         {
             "page": "Antonio Marciello",
-            "pageView": 780
+            "pageView": 1,
+            "total": 780
+        },
+        {
+            "page": "Michele Rigillo",
+            "pageView": 1,
+            "total": 1571
+        },
+        {
+            "page": "Filippo Longo",
+            "pageView": 1,
+            "total": 1262
         }
     ]
 }

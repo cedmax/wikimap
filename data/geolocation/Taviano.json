@@ -1,0 +1,27 @@
+{
+    "id": "place.2788109002018080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taviano",
+    "place_name": "Taviano, Lecce, Italy",
+    "bbox": [
+        18.012963,
+        39.96468,
+        18.114917,
+        40.012534
+    ],
+    "center": [
+        18.08333,
+        39.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.08333,
+            39.98333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.68719477496",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Aquileia",
+    "place_name": "Aquileia, Aquileia, Udine 33051, Italy",
+    "center": [
+        13.364609,
+        45.776231
+    ],
+    "geometry": {
+        "coordinates": [
+            13.364609,
+            45.776231
+        ],
+        "type": "Point"
+    }
+}

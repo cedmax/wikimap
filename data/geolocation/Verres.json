@@ -1,0 +1,27 @@
+{
+    "id": "place.9915535001966010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verrès",
+    "place_name": "Verrès, Valle D'Aosta, Italy",
+    "bbox": [
+        7.671257,
+        45.647285,
+        7.727897,
+        45.687717
+    ],
+    "center": [
+        7.7,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7,
+            45.66667
+        ]
+    }
+}

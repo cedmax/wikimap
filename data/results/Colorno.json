@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Piero Schivazappa",
-            "pageView": 24600
+            "pageView": 14,
+            "total": 24612
         },
         {
             "page": "Ludovico I di Etruria",
-            "pageView": 19188
+            "pageView": 12,
+            "total": 19207
         },
         {
             "page": "Odoardo II Farnese",
-            "pageView": 13702
+            "pageView": 9,
+            "total": 13714
         },
         {
             "page": "Margherita Violante di Savoia",
-            "pageView": 9736
-        },
-        {
-            "page": "Ines Bedeschi",
-            "pageView": 8010
-        },
-        {
-            "page": "Umberto Bertozzi",
-            "pageView": 6744
-        },
-        {
-            "page": "Margherita Maria Farnese",
-            "pageView": 6722
+            "pageView": 6,
+            "total": 9742
         },
         {
             "page": "Stefano Bordon",
-            "pageView": 6526
+            "pageView": 4,
+            "total": 6528
+        },
+        {
+            "page": "Ines Bedeschi",
+            "pageView": 4,
+            "total": 8012
+        },
+        {
+            "page": "Margherita Maria Farnese",
+            "pageView": 4,
+            "total": 6724
+        },
+        {
+            "page": "Umberto Bertozzi",
+            "pageView": 4,
+            "total": 6775
         },
         {
             "page": "Filippo Frati",
-            "pageView": 5372
+            "pageView": 3,
+            "total": 5374
         },
         {
             "page": "Jacopo Sarto",
-            "pageView": 5320
+            "pageView": 3,
+            "total": 5325
         },
         {
             "page": "Geminiano Giacomelli",
-            "pageView": 5171
-        },
-        {
-            "page": "Daniele Tebaldi",
-            "pageView": 3742
-        },
-        {
-            "page": "Paolo Pavesi",
-            "pageView": 3726
-        },
-        {
-            "page": "Giuseppe Boccaccio",
-            "pageView": 3579
-        },
-        {
-            "page": "Timoteo Riboli",
-            "pageView": 3157
-        },
-        {
-            "page": "Samuele Pace",
-            "pageView": 3145
-        },
-        {
-            "page": "Glauco Lombardi",
-            "pageView": 3052
-        },
-        {
-            "page": "Louis Marie Narbonne Lara",
-            "pageView": 2956
-        },
-        {
-            "page": "Andrea Barbieri",
-            "pageView": 2857
-        },
-        {
-            "page": "Paolo Zantelli",
-            "pageView": 2835
-        },
-        {
-            "page": "Gianni Pezzani",
-            "pageView": 2688
-        },
-        {
-            "page": "Amilcare Bertozzi",
-            "pageView": 2466
-        },
-        {
-            "page": "Liviu Pascu",
-            "pageView": 2429
-        },
-        {
-            "page": "Carlo Bertozzi",
-            "pageView": 2280
-        },
-        {
-            "page": "Stephen Nicol",
-            "pageView": 2273
-        },
-        {
-            "page": "Giada Franco",
-            "pageView": 2254
-        },
-        {
-            "page": "Claudio Salvatore Balzari",
-            "pageView": 2193
-        },
-        {
-            "page": "Lanfranco Margotti",
-            "pageView": 1999
-        },
-        {
-            "page": "Alfredo Leonardo Edel",
-            "pageView": 1985
-        },
-        {
-            "page": "Sebastiano Dusi",
-            "pageView": 1951
+            "pageView": 3,
+            "total": 5176
         },
         {
             "page": "Isabella d'Este (1635-1666)",
-            "pageView": 1847
+            "pageView": 3,
+            "total": 1849
         },
         {
-            "page": "Pietro Cugini",
-            "pageView": 1765
+            "page": "Claudio Salvatore Balzari",
+            "pageView": 2,
+            "total": 2194
         },
         {
-            "page": "Michela Sillari",
-            "pageView": 1539
+            "page": "Lanfranco Margotti",
+            "pageView": 2,
+            "total": 2000
         },
         {
-            "page": "Nestore Pelicelli",
-            "pageView": 1471
+            "page": "Carlo Bertozzi",
+            "pageView": 2,
+            "total": 2281
         },
         {
-            "page": "Maria Grazia Cioffi",
-            "pageView": 1351
+            "page": "Glauco Lombardi",
+            "pageView": 2,
+            "total": 3054
         },
         {
-            "page": "Umberto Casellato",
-            "pageView": 1093
+            "page": "Giuseppe Boccaccio",
+            "pageView": 2,
+            "total": 3579
+        },
+        {
+            "page": "Alfredo Leonardo Edel",
+            "pageView": 2,
+            "total": 1986
         },
         {
             "page": "Léopold-Marc de Ligniville",
-            "pageView": 1049
+            "pageView": 2,
+            "total": 1049
         },
         {
-            "page": "Cristian Prestera",
-            "pageView": 858
+            "page": "Liviu Pascu",
+            "pageView": 2,
+            "total": 2429
         },
         {
-            "page": "Veronica Madia",
-            "pageView": 760
+            "page": "Samuele Pace",
+            "pageView": 2,
+            "total": 3146
+        },
+        {
+            "page": "Daniele Tebaldi",
+            "pageView": 2,
+            "total": 3746
+        },
+        {
+            "page": "Stephen Nicol",
+            "pageView": 2,
+            "total": 2273
+        },
+        {
+            "page": "Louis Marie Narbonne Lara",
+            "pageView": 2,
+            "total": 2956
+        },
+        {
+            "page": "Paolo Pavesi",
+            "pageView": 2,
+            "total": 3727
+        },
+        {
+            "page": "Gianni Pezzani",
+            "pageView": 2,
+            "total": 2692
+        },
+        {
+            "page": "Timoteo Riboli",
+            "pageView": 2,
+            "total": 3159
+        },
+        {
+            "page": "Sebastiano Dusi",
+            "pageView": 2,
+            "total": 1951
+        },
+        {
+            "page": "Amilcare Bertozzi",
+            "pageView": 2,
+            "total": 2469
+        },
+        {
+            "page": "Andrea Barbieri",
+            "pageView": 2,
+            "total": 2857
+        },
+        {
+            "page": "Maria Grazia Cioffi",
+            "pageView": 2,
+            "total": 1351
+        },
+        {
+            "page": "Michela Sillari",
+            "pageView": 2,
+            "total": 1542
+        },
+        {
+            "page": "Paolo Zantelli",
+            "pageView": 2,
+            "total": 2840
+        },
+        {
+            "page": "Nestore Pelicelli",
+            "pageView": 1,
+            "total": 1471
         },
         {
             "page": "Gaetano Ferragni (1887-1954)",
-            "pageView": 702
+            "pageView": 1,
+            "total": 702
         },
         {
-            "page": "Gaia Giacomoli",
-            "pageView": 645
+            "page": "Pietro Cugini",
+            "pageView": 1,
+            "total": 1767
+        },
+        {
+            "page": "Cristian Prestera",
+            "pageView": 1,
+            "total": 858
         },
         {
             "page": "Elisa Bonaldo (rugbista)",
-            "pageView": 630
+            "pageView": 0,
+            "total": 630
         },
         {
-            "page": "Sara Tounesi",
-            "pageView": 521
+            "page": "Veronica Madia",
+            "pageView": 0,
+            "total": 762
         },
         {
             "page": "Carl Manu",
-            "pageView": 98
+            "pageView": 0,
+            "total": 99
+        },
+        {
+            "page": "Umberto Casellato",
+            "pageView": 0,
+            "total": 1095
+        },
+        {
+            "page": "Sara Tounesi",
+            "pageView": 0,
+            "total": 522
+        },
+        {
+            "page": "Giada Franco",
+            "pageView": 0,
+            "total": 2257
+        },
+        {
+            "page": "Gaia Giacomoli",
+            "pageView": 0,
+            "total": 645
         }
     ]
 }

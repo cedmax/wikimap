@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Nicola Gratteri",
-            "pageView": 266627
-        },
-        {
-            "page": "Anna La Rosa",
-            "pageView": 66187
+            "pageView": 128,
+            "total": 266807
         },
         {
             "page": "Giuseppe Albano",
-            "pageView": 36383
+            "pageView": 21,
+            "total": 36414
+        },
+        {
+            "page": "Anna La Rosa",
+            "pageView": 16,
+            "total": 66201
         },
         {
             "page": "Barlaam di Seminara",
-            "pageView": 15331
+            "pageView": 9,
+            "total": 15335
         },
         {
             "page": "Antonello Aglioti",
-            "pageView": 6245
+            "pageView": 4,
+            "total": 6246
         },
         {
             "page": "Tiberio Alfarano",
-            "pageView": 5810
+            "pageView": 3,
+            "total": 5815
         },
         {
             "page": "Paolo Cinanni",
-            "pageView": 3440
+            "pageView": 2,
+            "total": 3441
         },
         {
             "page": "Bandinello Sauli",
-            "pageView": 3175
+            "pageView": 2,
+            "total": 3176
         },
         {
             "page": "Luigi Raffaele Macry",
-            "pageView": 1223
+            "pageView": 1,
+            "total": 1225
         },
         {
             "page": "Michele Avitabile",
-            "pageView": 413
+            "pageView": 0,
+            "total": 413
         },
         {
             "page": "Stefano Sculco",
-            "pageView": 138
+            "pageView": 0,
+            "total": 139
         }
     ]
 }

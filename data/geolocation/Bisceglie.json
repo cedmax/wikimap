@@ -1,0 +1,27 @@
+{
+    "id": "place.7263404593306230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bisceglie",
+    "place_name": "Bisceglie, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        16.429416,
+        41.147855,
+        16.543217,
+        41.256738
+    ],
+    "center": [
+        16.50206,
+        41.24093
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.50206,
+            41.24093
+        ]
+    }
+}

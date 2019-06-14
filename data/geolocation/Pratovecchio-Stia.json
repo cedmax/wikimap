@@ -1,0 +1,27 @@
+{
+    "id": "place.985136371477420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pratovecchio Stia",
+    "place_name": "Pratovecchio Stia, Arezzo, Italy",
+    "bbox": [
+        11.602422,
+        43.758539,
+        11.807428,
+        43.877832
+    ],
+    "center": [
+        11.7175,
+        43.7929
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7175,
+            43.7929
+        ]
+    }
+}

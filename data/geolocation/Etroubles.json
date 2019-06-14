@@ -1,0 +1,21 @@
+{
+    "id": "poi.2001454764623",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Etroubles",
+    "place_name": "Etroubles, Etroubles, Valle D'Aosta 11014, Italy",
+    "center": [
+        7.230612,
+        45.8206925
+    ],
+    "geometry": {
+        "coordinates": [
+            7.230612,
+            45.8206925
+        ],
+        "type": "Point"
+    }
+}

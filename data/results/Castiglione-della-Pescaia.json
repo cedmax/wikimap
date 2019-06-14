@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Gino Cervi",
-            "pageView": 428249
+            "pageView": 197,
+            "total": 428431
         },
         {
             "page": "Andrea Pazzagli",
-            "pageView": 67081
+            "pageView": 34,
+            "total": 67109
         },
         {
             "page": "Carlo Fruttero",
-            "pageView": 49454
+            "pageView": 28,
+            "total": 49480
         },
         {
             "page": "Carlo Borghi",
-            "pageView": 15647
+            "pageView": 10,
+            "total": 15653
         },
         {
             "page": "Guglielmo di Malavalle",
-            "pageView": 11175
-        },
-        {
-            "page": "Mauro Severino",
-            "pageView": 5044
+            "pageView": 7,
+            "total": 11182
         },
         {
             "page": "Leone Strozzi (condottiero)",
-            "pageView": 4186
+            "pageView": 3,
+            "total": 4187
+        },
+        {
+            "page": "Mauro Severino",
+            "pageView": 3,
+            "total": 5046
         }
     ]
 }

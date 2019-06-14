@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Alfredo Binda",
-            "pageView": 128461
+            "pageView": 56.5,
+            "total": 128935
         },
         {
             "page": "Tamara Donà",
-            "pageView": 75635
-        },
-        {
-            "page": "Fabio Rizzi",
-            "pageView": 14314
+            "pageView": 34,
+            "total": 75666
         },
         {
             "page": "Luigi Broggini",
-            "pageView": 10827
+            "pageView": 7,
+            "total": 10834
+        },
+        {
+            "page": "Fabio Rizzi",
+            "pageView": 6,
+            "total": 14318
         },
         {
             "page": "Massimo Cassani",
-            "pageView": 6426
+            "pageView": 4,
+            "total": 6428
         },
         {
             "page": "Alessandro Marzio",
-            "pageView": 5868
-        },
-        {
-            "page": "Alessandro Garbin",
-            "pageView": 3321
-        },
-        {
-            "page": "Albino Binda",
-            "pageView": 3073
-        },
-        {
-            "page": "Nicola Bertoglio",
-            "pageView": 2825
-        },
-        {
-            "page": "Luca Clemenza",
-            "pageView": 2546
+            "pageView": 4,
+            "total": 5873
         },
         {
             "page": "Franco Cardani",
-            "pageView": 2351
-        },
-        {
-            "page": "Salvatore Sorrenti",
-            "pageView": 2226
+            "pageView": 2,
+            "total": 2351
         },
         {
             "page": "Ivano Cardarelli",
-            "pageView": 2050
+            "pageView": 2,
+            "total": 2050
+        },
+        {
+            "page": "Albino Binda",
+            "pageView": 2,
+            "total": 3083
         },
         {
             "page": "Pier Paolo Pozzi",
-            "pageView": 1971
+            "pageView": 2,
+            "total": 1973
+        },
+        {
+            "page": "Nicola Bertoglio",
+            "pageView": 2,
+            "total": 2826
+        },
+        {
+            "page": "Alessandro Garbin",
+            "pageView": 2,
+            "total": 3341
+        },
+        {
+            "page": "Salvatore Sorrenti",
+            "pageView": 2,
+            "total": 2226
         },
         {
             "page": "Luigi Recalcati",
-            "pageView": 1779
+            "pageView": 1,
+            "total": 1779
         },
         {
             "page": "Attilio Ortolani",
-            "pageView": 1633
+            "pageView": 1,
+            "total": 1633
+        },
+        {
+            "page": "Luca Clemenza",
+            "pageView": 0,
+            "total": 2577
         }
     ]
 }

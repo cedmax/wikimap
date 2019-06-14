@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Antonio Guadagnini",
-            "pageView": 3596
+            "pageView": 2,
+            "total": 3596
         },
         {
             "page": "Fortunato Federici",
-            "pageView": 1687
+            "pageView": 1,
+            "total": 1689
         },
         {
             "page": "Giovanni Battista Guadagnini (teologo)",
-            "pageView": 1656
+            "pageView": 1,
+            "total": 1656
         }
     ]
 }

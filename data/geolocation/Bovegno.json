@@ -1,0 +1,27 @@
+{
+    "id": "place.5857634931429320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bovegno",
+    "place_name": "Bovegno, Brescia, Italy",
+    "bbox": [
+        10.221732,
+        45.760038,
+        10.336843,
+        45.874894
+    ],
+    "center": [
+        10.26667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.26667,
+            45.78333
+        ]
+    }
+}

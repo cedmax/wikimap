@@ -2,16 +2,19 @@
     "name": "Sovramonte",
     "people": [
         {
+            "page": "Gino Agostino Antoniol",
+            "pageView": 2,
+            "total": 1848
+        },
+        {
             "page": "Solideo D'Incau",
-            "pageView": 3020
+            "pageView": 2,
+            "total": 3023
         },
         {
             "page": "Luigi Rech",
-            "pageView": 1852
-        },
-        {
-            "page": "Gino Agostino Antoniol",
-            "pageView": 1846
+            "pageView": 1,
+            "total": 1853
         }
     ]
 }

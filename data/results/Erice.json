@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Marco Tumminello",
-            "pageView": 85427
-        },
-        {
-            "page": "Marcello Mazzarella",
-            "pageView": 72712
+            "pageView": 89,
+            "total": 85528
         },
         {
             "page": "Adriano Montalto",
-            "pageView": 46729
+            "pageView": 46,
+            "total": 46746
+        },
+        {
+            "page": "Marcello Mazzarella",
+            "pageView": 34,
+            "total": 72750
         },
         {
             "page": "Aldo Firicano",
-            "pageView": 42420
+            "pageView": 25,
+            "total": 42441
         },
         {
             "page": "Vincenzo Virga",
-            "pageView": 31014
-        },
-        {
-            "page": "Barbara Rizzo",
-            "pageView": 27992
+            "pageView": 18,
+            "total": 31035
         },
         {
             "page": "Francesco Stella (attore)",
-            "pageView": 23240
+            "pageView": 12,
+            "total": 23266
         },
         {
-            "page": "Fabrizio Bocchino",
-            "pageView": 15599
+            "page": "Barbara Rizzo",
+            "pageView": 12,
+            "total": 27996
         },
         {
             "page": "Nunzio Nasi",
-            "pageView": 13159
+            "pageView": 9,
+            "total": 13168
+        },
+        {
+            "page": "Fabrizio Bocchino",
+            "pageView": 9,
+            "total": 15608
         },
         {
             "page": "Andrea Bulgarella",
-            "pageView": 12760
-        },
-        {
-            "page": "Salvatore Genovese (cestista)",
-            "pageView": 9205
-        },
-        {
-            "page": "Marco Rizzo (fumettista)",
-            "pageView": 6713
-        },
-        {
-            "page": "Irene Chias",
-            "pageView": 5915
-        },
-        {
-            "page": "Michele Abati",
-            "pageView": 5497
-        },
-        {
-            "page": "Michele Cavarretta",
-            "pageView": 5235
-        },
-        {
-            "page": "Livio Maranzano",
-            "pageView": 5148
-        },
-        {
-            "page": "Simone Catalano",
-            "pageView": 4252
-        },
-        {
-            "page": "Cataldo Grammatico",
-            "pageView": 4190
-        },
-        {
-            "page": "Sebastiano Bonfiglio",
-            "pageView": 3738
-        },
-        {
-            "page": "Franco Di Marco",
-            "pageView": 2862
-        },
-        {
-            "page": "Enrico Onufrio",
-            "pageView": 2757
-        },
-        {
-            "page": "Luigi Rabatà",
-            "pageView": 2432
-        },
-        {
-            "page": "Vito Orlando",
-            "pageView": 2316
+            "pageView": 8,
+            "total": 12770
         },
         {
             "page": "Antonino Castiglione",
-            "pageView": 2311
+            "pageView": 5,
+            "total": 2316
         },
         {
-            "page": "Isabella Giannola",
-            "pageView": 2257
+            "page": "Salvatore Genovese (cestista)",
+            "pageView": 5,
+            "total": 9211
         },
         {
-            "page": "Carmelo Spitaleri",
-            "pageView": 1897
+            "page": "Michele Abati",
+            "pageView": 4,
+            "total": 5501
+        },
+        {
+            "page": "Marco Rizzo (fumettista)",
+            "pageView": 4,
+            "total": 6714
+        },
+        {
+            "page": "Cataldo Grammatico",
+            "pageView": 3,
+            "total": 4194
+        },
+        {
+            "page": "Michele Cavarretta",
+            "pageView": 3,
+            "total": 5241
+        },
+        {
+            "page": "Simone Catalano",
+            "pageView": 3,
+            "total": 4260
+        },
+        {
+            "page": "Irene Chias",
+            "pageView": 3,
+            "total": 5918
+        },
+        {
+            "page": "Livio Maranzano",
+            "pageView": 3,
+            "total": 5151
         },
         {
             "page": "Rocco La Russa",
-            "pageView": 1744
+            "pageView": 2,
+            "total": 1745
         },
         {
-            "page": "Rosario Poma",
-            "pageView": 1202
+            "page": "Isabella Giannola",
+            "pageView": 2,
+            "total": 2267
         },
         {
-            "page": "Floriana Garuccio",
-            "pageView": 1193
+            "page": "Vito Orlando",
+            "pageView": 2,
+            "total": 2318
         },
         {
-            "page": "Noemi Manno",
-            "pageView": 1146
+            "page": "Franco Di Marco",
+            "pageView": 2,
+            "total": 2862
+        },
+        {
+            "page": "Luigi Rabatà",
+            "pageView": 2,
+            "total": 2433
+        },
+        {
+            "page": "Sebastiano Bonfiglio",
+            "pageView": 2,
+            "total": 3738
+        },
+        {
+            "page": "Carmelo Spitaleri",
+            "pageView": 2,
+            "total": 1899
+        },
+        {
+            "page": "Enrico Onufrio",
+            "pageView": 2,
+            "total": 2760
         },
         {
             "page": "Deborah Liotti",
-            "pageView": 998
+            "pageView": 1,
+            "total": 998
         },
         {
             "page": "Valeria Grignano",
-            "pageView": 987
+            "pageView": 1,
+            "total": 987
+        },
+        {
+            "page": "Floriana Garuccio",
+            "pageView": 1,
+            "total": 1193
+        },
+        {
+            "page": "Rosario Poma",
+            "pageView": 1,
+            "total": 1203
+        },
+        {
+            "page": "Noemi Manno",
+            "pageView": 0,
+            "total": 1152
         }
     ]
 }

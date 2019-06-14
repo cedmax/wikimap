@@ -1,0 +1,27 @@
+{
+    "id": "place.4820286565697030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colorno",
+    "place_name": "Colorno, Parma, Italy",
+    "bbox": [
+        10.321238,
+        44.898081,
+        10.426963,
+        44.988485
+    ],
+    "center": [
+        10.37583,
+        44.93
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.37583,
+            44.93
+        ]
+    }
+}

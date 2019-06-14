@@ -3,295 +3,368 @@
     "people": [
         {
             "page": "Francesco Grandolfo",
-            "pageView": 58815
-        },
-        {
-            "page": "Stefania Sansonna",
-            "pageView": 54406
+            "pageView": 33,
+            "total": 58826
         },
         {
             "page": "Stefania Okaka",
-            "pageView": 51050
+            "pageView": 22,
+            "total": 51057
+        },
+        {
+            "page": "Stefania Sansonna",
+            "pageView": 18,
+            "total": 54463
         },
         {
             "page": "Valentina Tirozzi",
-            "pageView": 48516
+            "pageView": 17,
+            "total": 48547
         },
         {
             "page": "Elvira Savino",
-            "pageView": 31115
+            "pageView": 14,
+            "total": 31144
         },
         {
             "page": "Michele Mario Elia",
-            "pageView": 24938
+            "pageView": 12,
+            "total": 24945
         },
         {
             "page": "Immacolata Sirressi",
-            "pageView": 23562
-        },
-        {
-            "page": "Mirko Corsano",
-            "pageView": 16998
+            "pageView": 11,
+            "total": 23579
         },
         {
             "page": "Lorenzo Bonetti",
-            "pageView": 16697
+            "pageView": 9,
+            "total": 16698
         },
         {
             "page": "Valeria Caracuta",
-            "pageView": 15371
+            "pageView": 8,
+            "total": 15378
+        },
+        {
+            "page": "Mirko Corsano",
+            "pageView": 7,
+            "total": 17005
         },
         {
             "page": "Cristian Casoli",
-            "pageView": 10989
+            "pageView": 6,
+            "total": 10990
         },
         {
             "page": "Rafael Pascual",
-            "pageView": 9179
-        },
-        {
-            "page": "Giuseppe L'Abbate",
-            "pageView": 9057
-        },
-        {
-            "page": "Antonio Corvetta",
-            "pageView": 8890
+            "pageView": 5,
+            "total": 9182
         },
         {
             "page": "Vincenzo Di Pinto",
-            "pageView": 8279
-        },
-        {
-            "page": "Fabio Fanuli",
-            "pageView": 7811
+            "pageView": 4,
+            "total": 8283
         },
         {
             "page": "Ljubomir Travica",
-            "pageView": 7792
+            "pageView": 4,
+            "total": 7792
         },
         {
             "page": "Ludovica Dalia",
-            "pageView": 7044
+            "pageView": 4,
+            "total": 7048
         },
         {
-            "page": "Andrea Angiulli",
-            "pageView": 6284
-        },
-        {
-            "page": "Mattia Rosso",
-            "pageView": 5789
-        },
-        {
-            "page": "Roberto Cazzaniga (pallavolista)",
-            "pageView": 5700
-        },
-        {
-            "page": "Adriano Paolucci",
-            "pageView": 5392
-        },
-        {
-            "page": "Luca Monti",
-            "pageView": 5066
-        },
-        {
-            "page": "Vincenzo Spadavecchia",
-            "pageView": 4906
-        },
-        {
-            "page": "Giacomo Bellei",
-            "pageView": 4735
-        },
-        {
-            "page": "Marco Izzo",
-            "pageView": 4688
-        },
-        {
-            "page": "Marco Fabroni",
-            "pageView": 4471
-        },
-        {
-            "page": "Annamaria Quaranta",
-            "pageView": 4429
-        },
-        {
-            "page": "Tina Lipicer",
-            "pageView": 4318
-        },
-        {
-            "page": "Nicholas Sighinolfi",
-            "pageView": 4024
-        },
-        {
-            "page": "Marco Vicini",
-            "pageView": 3996
-        },
-        {
-            "page": "Marta Galeotti",
-            "pageView": 3743
-        },
-        {
-            "page": "Monica Ravetta",
-            "pageView": 3600
-        },
-        {
-            "page": "Stefano Moro",
-            "pageView": 3550
-        },
-        {
-            "page": "Danielle Scott",
-            "pageView": 3459
-        },
-        {
-            "page": "Marta Agostinetto",
-            "pageView": 3296
+            "page": "Giuseppe L'Abbate",
+            "pageView": 4,
+            "total": 9060
         },
         {
             "page": "Saverio De Bellis",
-            "pageView": 3191
+            "pageView": 4,
+            "total": 3200
         },
         {
-            "page": "Juan Cuda",
-            "pageView": 3181
+            "page": "Andrea Angiulli",
+            "pageView": 4,
+            "total": 6287
         },
         {
-            "page": "Pietro Lanzilotta",
-            "pageView": 3097
+            "page": "Antonio Corvetta",
+            "pageView": 4,
+            "total": 8891
         },
         {
-            "page": "Nicola Corbascio",
-            "pageView": 3052
+            "page": "Fabio Fanuli",
+            "pageView": 4,
+            "total": 7812
         },
         {
-            "page": "Iván Ruiz",
-            "pageView": 3044
+            "page": "Marco Vicini",
+            "pageView": 3,
+            "total": 3997
         },
         {
-            "page": "Alessio Fiore",
-            "pageView": 2922
+            "page": "Adriano Paolucci",
+            "pageView": 3,
+            "total": 5393
         },
         {
-            "page": "Manuela Roani",
-            "pageView": 2875
+            "page": "Roberto Cazzaniga (pallavolista)",
+            "pageView": 3,
+            "total": 5701
         },
         {
-            "page": "Cesare Gradi",
-            "pageView": 2874
+            "page": "Tina Lipicer",
+            "pageView": 3,
+            "total": 4321
         },
         {
-            "page": "Massimo Dagioni",
-            "pageView": 2855
+            "page": "Vincenzo Spadavecchia",
+            "pageView": 3,
+            "total": 4907
         },
         {
-            "page": "Daniela Biamonte",
-            "pageView": 2763
+            "page": "Marco Fabroni",
+            "pageView": 3,
+            "total": 4471
         },
         {
-            "page": "Vincenzo Tamburo",
-            "pageView": 2744
+            "page": "Giacomo Bellei",
+            "pageView": 3,
+            "total": 4735
         },
         {
-            "page": "Simone Scopelliti",
-            "pageView": 2723
+            "page": "Marco Izzo",
+            "pageView": 3,
+            "total": 4689
         },
         {
-            "page": "Sergio Nicolò De Bellis",
-            "pageView": 2626
+            "page": "Mattia Rosso",
+            "pageView": 3,
+            "total": 5792
         },
         {
-            "page": "Alessandro Trimarchi",
-            "pageView": 2490
+            "page": "Luca Monti",
+            "pageView": 3,
+            "total": 5068
         },
         {
-            "page": "Davide Pellegrino",
-            "pageView": 2490
-        },
-        {
-            "page": "Sebastián Creus",
-            "pageView": 2472
-        },
-        {
-            "page": "Vincenzo Fato",
-            "pageView": 2374
-        },
-        {
-            "page": "Marcela Ritschelová",
-            "pageView": 2329
-        },
-        {
-            "page": "Ilijana Petkova",
-            "pageView": 2296
-        },
-        {
-            "page": "Donato Radogna",
-            "pageView": 2240
-        },
-        {
-            "page": "Maria Miccolis",
-            "pageView": 2187
-        },
-        {
-            "page": "Giovanni D'Onghia",
-            "pageView": 2106
-        },
-        {
-            "page": "Alessandro Lorenzoni",
-            "pageView": 1984
-        },
-        {
-            "page": "Andrea Galaverna",
-            "pageView": 1976
+            "page": "Annamaria Quaranta",
+            "pageView": 3,
+            "total": 4431
         },
         {
             "page": "Carlo Francavilla",
-            "pageView": 1738
+            "pageView": 2,
+            "total": 1739
         },
         {
-            "page": "Sônia Benedito",
-            "pageView": 1714
+            "page": "Ilijana Petkova",
+            "pageView": 2,
+            "total": 2296
         },
         {
-            "page": "Pietro Scarduzio",
-            "pageView": 1631
+            "page": "Donato Radogna",
+            "pageView": 2,
+            "total": 2240
         },
         {
-            "page": "Radamés Lattari",
-            "pageView": 1625
+            "page": "Monica Ravetta",
+            "pageView": 2,
+            "total": 3604
         },
         {
-            "page": "Dario Messana",
-            "pageView": 1615
+            "page": "Marcela Ritschelová",
+            "pageView": 2,
+            "total": 2333
         },
         {
-            "page": "Elisa Cardani",
-            "pageView": 1494
+            "page": "Giovanni D'Onghia",
+            "pageView": 2,
+            "total": 2106
         },
         {
-            "page": "Július Sabo",
-            "pageView": 1038
+            "page": "Alessandro Trimarchi",
+            "pageView": 2,
+            "total": 2494
         },
         {
-            "page": "Anicia Wood",
-            "pageView": 990
+            "page": "Danielle Scott",
+            "pageView": 2,
+            "total": 3462
         },
         {
-            "page": "Tomáš Kmeť",
-            "pageView": 973
+            "page": "Pietro Lanzilotta",
+            "pageView": 2,
+            "total": 3098
+        },
+        {
+            "page": "Maria Miccolis",
+            "pageView": 2,
+            "total": 2189
+        },
+        {
+            "page": "Iván Ruiz",
+            "pageView": 2,
+            "total": 3044
         },
         {
             "page": "Nicola Rotolo",
-            "pageView": 881
+            "pageView": 2,
+            "total": 881
         },
         {
-            "page": "Michele Viterbo",
-            "pageView": 850
+            "page": "Nicola Corbascio",
+            "pageView": 2,
+            "total": 3056
+        },
+        {
+            "page": "Massimo Dagioni",
+            "pageView": 2,
+            "total": 2855
+        },
+        {
+            "page": "Nicholas Sighinolfi",
+            "pageView": 2,
+            "total": 4026
+        },
+        {
+            "page": "Marta Agostinetto",
+            "pageView": 2,
+            "total": 3298
+        },
+        {
+            "page": "Simone Scopelliti",
+            "pageView": 2,
+            "total": 2724
+        },
+        {
+            "page": "Sebastián Creus",
+            "pageView": 2,
+            "total": 2473
+        },
+        {
+            "page": "Juan Cuda",
+            "pageView": 2,
+            "total": 3184
+        },
+        {
+            "page": "Daniela Biamonte",
+            "pageView": 2,
+            "total": 2765
+        },
+        {
+            "page": "Sergio Nicolò De Bellis",
+            "pageView": 2,
+            "total": 2629
+        },
+        {
+            "page": "Alessio Fiore",
+            "pageView": 2,
+            "total": 2924
+        },
+        {
+            "page": "Andrea Galaverna",
+            "pageView": 2,
+            "total": 1978
+        },
+        {
+            "page": "Cesare Gradi",
+            "pageView": 2,
+            "total": 2874
+        },
+        {
+            "page": "Elisa Cardani",
+            "pageView": 2,
+            "total": 1495
+        },
+        {
+            "page": "Vincenzo Tamburo",
+            "pageView": 2,
+            "total": 2744
+        },
+        {
+            "page": "Davide Pellegrino",
+            "pageView": 2,
+            "total": 2492
+        },
+        {
+            "page": "Alessandro Lorenzoni",
+            "pageView": 2,
+            "total": 1985
+        },
+        {
+            "page": "Marta Galeotti",
+            "pageView": 2,
+            "total": 3744
+        },
+        {
+            "page": "Stefano Moro",
+            "pageView": 2,
+            "total": 3551
+        },
+        {
+            "page": "Vincenzo Fato",
+            "pageView": 2,
+            "total": 2376
+        },
+        {
+            "page": "Manuela Roani",
+            "pageView": 2,
+            "total": 2875
+        },
+        {
+            "page": "Dario Messana",
+            "pageView": 1,
+            "total": 1616
+        },
+        {
+            "page": "Tomáš Kmeť",
+            "pageView": 1,
+            "total": 973
+        },
+        {
+            "page": "Anicia Wood",
+            "pageView": 1,
+            "total": 991
+        },
+        {
+            "page": "Július Sabo",
+            "pageView": 1,
+            "total": 1039
         },
         {
             "page": "Jaromír Koláčný",
-            "pageView": 847
+            "pageView": 1,
+            "total": 847
+        },
+        {
+            "page": "Radamés Lattari",
+            "pageView": 1,
+            "total": 1626
+        },
+        {
+            "page": "Pietro Scarduzio",
+            "pageView": 1,
+            "total": 1632
+        },
+        {
+            "page": "Sônia Benedito",
+            "pageView": 1,
+            "total": 1715
         },
         {
             "page": "Giacomo Tauro",
-            "pageView": 715
+            "pageView": 0,
+            "total": 715
+        },
+        {
+            "page": "Michele Viterbo",
+            "pageView": 0,
+            "total": 852
         }
     ]
 }

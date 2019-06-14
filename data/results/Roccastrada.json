@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giorgio Albertazzi",
-            "pageView": 408791
-        },
-        {
-            "page": "Adelmo Tacconi",
-            "pageView": 3151
-        },
-        {
-            "page": "Ostilio Capaccioli",
-            "pageView": 3066
-        },
-        {
-            "page": "Luciano Giorgi",
-            "pageView": 2693
-        },
-        {
-            "page": "Antonio Borri",
-            "pageView": 1831
+            "pageView": 121,
+            "total": 408862
         },
         {
             "page": "Mario Biagioni",
-            "pageView": 1490
+            "pageView": 3,
+            "total": 1494
+        },
+        {
+            "page": "Antonio Borri",
+            "pageView": 2,
+            "total": 1831
+        },
+        {
+            "page": "Ostilio Capaccioli",
+            "pageView": 2,
+            "total": 3067
+        },
+        {
+            "page": "Luciano Giorgi",
+            "pageView": 2,
+            "total": 2695
+        },
+        {
+            "page": "Adelmo Tacconi",
+            "pageView": 2,
+            "total": 3155
         },
         {
             "page": "Giovanni Vieri",
-            "pageView": 1142
+            "pageView": 1,
+            "total": 1143
         },
         {
             "page": "Guido Bargellini",
-            "pageView": 598
+            "pageView": 0,
+            "total": 599
         }
     ]
 }

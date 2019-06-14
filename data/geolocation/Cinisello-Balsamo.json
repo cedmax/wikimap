@@ -1,0 +1,27 @@
+{
+    "id": "place.14734615851667610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cinisello Balsamo",
+    "place_name": "Cinisello Balsamo, Milano, Italy",
+    "bbox": [
+        9.191888,
+        45.536679,
+        9.255457,
+        45.579173
+    ],
+    "center": [
+        9.21667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            45.55
+        ]
+    }
+}

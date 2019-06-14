@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Elvi Pianca",
-            "pageView": 8244
+            "pageView": 5,
+            "total": 8246
         },
         {
             "page": "Caterino Mazzolà",
-            "pageView": 6078
-        },
-        {
-            "page": "Jacopo Tasso",
-            "pageView": 3538
+            "pageView": 4,
+            "total": 6080
         },
         {
             "page": "Pietro Gonzaga",
-            "pageView": 3019
-        },
-        {
-            "page": "Giuliano Palmieri",
-            "pageView": 2004
+            "pageView": 2,
+            "total": 3020
         },
         {
             "page": "Fausto Pajar",
-            "pageView": 1966
+            "pageView": 2,
+            "total": 1966
+        },
+        {
+            "page": "Giuliano Palmieri",
+            "pageView": 2,
+            "total": 2004
+        },
+        {
+            "page": "Jacopo Tasso",
+            "pageView": 2,
+            "total": 3540
         },
         {
             "page": "Francesco Giorgio Bettiol",
-            "pageView": 1559
+            "pageView": 1,
+            "total": 1559
         }
     ]
 }

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Aldo Braibanti",
-            "pageView": 42081
+            "pageView": 22,
+            "total": 42095
         },
         {
             "page": "Luigi Illica",
-            "pageView": 34302
-        },
-        {
-            "page": "Ottobuono di Razzi",
-            "pageView": 2830
+            "pageView": 19,
+            "total": 34319
         },
         {
             "page": "Sforza Sforza di Santa Fiora",
-            "pageView": 2295
+            "pageView": 3,
+            "total": 2295
+        },
+        {
+            "page": "Ottobuono di Razzi",
+            "pageView": 2,
+            "total": 2831
         },
         {
             "page": "Giacomo da Castell'Arquato",
-            "pageView": 1233
+            "pageView": 1,
+            "total": 1234
         }
     ]
 }

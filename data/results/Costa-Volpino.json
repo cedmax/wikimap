@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Angelo Baiguini",
-            "pageView": 50705
+            "pageView": 20,
+            "total": 50715
         },
         {
             "page": "Giorgio Paglia",
-            "pageView": 6844
+            "pageView": 4,
+            "total": 6848
         },
         {
             "page": "Giacomo Vender",
-            "pageView": 4551
-        },
-        {
-            "page": "Riccardo Roveda",
-            "pageView": 2443
+            "pageView": 3,
+            "total": 4553
         },
         {
             "page": "Ignazio Nicoli",
-            "pageView": 2048
+            "pageView": 2,
+            "total": 2049
+        },
+        {
+            "page": "Riccardo Roveda",
+            "pageView": 2,
+            "total": 2443
         },
         {
             "page": "Mario Giovanni Guerriero Ruffini",
-            "pageView": 1775
+            "pageView": 2,
+            "total": 1777
         },
         {
             "page": "Giovanni da Volpino",
-            "pageView": 1652
+            "pageView": 1,
+            "total": 1652
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.4282804988156110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gonzaga",
+    "place_name": "Gonzaga, Mantova, Italy",
+    "bbox": [
+        10.742656,
+        44.919827,
+        10.900171,
+        44.985161
+    ],
+    "center": [
+        10.81667,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            44.95
+        ]
+    }
+}

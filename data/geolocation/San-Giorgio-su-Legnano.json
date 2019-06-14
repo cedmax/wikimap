@@ -1,0 +1,27 @@
+{
+    "id": "place.11927538584619850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio su Legnano",
+    "place_name": "San Giorgio su Legnano, Milano, Italy",
+    "bbox": [
+        8.897417,
+        45.557968,
+        8.921857,
+        45.580616
+    ],
+    "center": [
+        8.91667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91667,
+            45.56667
+        ]
+    }
+}

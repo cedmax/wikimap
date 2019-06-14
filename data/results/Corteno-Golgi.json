@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Camillo Golgi",
-            "pageView": 127377
+            "pageView": 78,
+            "total": 127464
         },
         {
             "page": "Pietro Chiodi",
-            "pageView": 17893
-        },
-        {
-            "page": "Lorenzo Bianchi",
-            "pageView": 2922
-        },
-        {
-            "page": "Maria Troncatti",
-            "pageView": 2880
+            "pageView": 11,
+            "total": 17926
         },
         {
             "page": "Antonio Schivardi",
-            "pageView": 2790
+            "pageView": 2,
+            "total": 2792
+        },
+        {
+            "page": "Lorenzo Bianchi",
+            "pageView": 2,
+            "total": 2922
+        },
+        {
+            "page": "Maria Troncatti",
+            "pageView": 2,
+            "total": 2880
         },
         {
             "page": "Giovanni Venturini",
-            "pageView": 2201
+            "pageView": 2,
+            "total": 2201
         }
     ]
 }

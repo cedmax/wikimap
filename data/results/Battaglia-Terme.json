@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Andrea Emo",
-            "pageView": 16536
+            "pageView": 10,
+            "total": 16547
         },
         {
             "page": "Gian Costello",
-            "pageView": 10132
-        },
-        {
-            "page": "Domenico Leonati",
-            "pageView": 3614
+            "pageView": 3,
+            "total": 10134
         },
         {
             "page": "Tommaso Obizzi",
-            "pageView": 3513
+            "pageView": 2,
+            "total": 3515
         },
         {
-            "page": "Antonio Toffanin",
-            "pageView": 3410
+            "page": "Domenico Leonati",
+            "pageView": 2,
+            "total": 3615
         },
         {
             "page": "Giuseppe Milani",
-            "pageView": 2095
+            "pageView": 2,
+            "total": 2095
+        },
+        {
+            "page": "Antonio Toffanin",
+            "pageView": 2,
+            "total": 3414
         },
         {
             "page": "Vittorio Benelle",
-            "pageView": 1584
+            "pageView": 1,
+            "total": 1584
         },
         {
             "page": "Germano Zanca",
-            "pageView": 1418
+            "pageView": 1,
+            "total": 1419
         }
     ]
 }

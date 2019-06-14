@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Camilla Diana",
-            "pageView": 122796
-        },
-        {
-            "page": "Nicolò Diana",
-            "pageView": 23634
+            "pageView": 28,
+            "total": 122823
         },
         {
             "page": "Fina da San Gimignano",
-            "pageView": 22931
+            "pageView": 13,
+            "total": 22941
         },
         {
             "page": "Folgóre da San Gimignano",
-            "pageView": 20709
+            "pageView": 12,
+            "total": 20721
+        },
+        {
+            "page": "Nicolò Diana",
+            "pageView": 10,
+            "total": 23644
         },
         {
             "page": "Giovanni Antonio Dosio",
-            "pageView": 10554
-        },
-        {
-            "page": "Sebastiano Mainardi",
-            "pageView": 8916
+            "pageView": 6,
+            "total": 10559
         },
         {
             "page": "Vincenzo Tamagni",
-            "pageView": 8265
+            "pageView": 5,
+            "total": 8270
+        },
+        {
+            "page": "Sebastiano Mainardi",
+            "pageView": 5,
+            "total": 8922
         },
         {
             "page": "Roberto Guicciardini",
-            "pageView": 7683
+            "pageView": 4,
+            "total": 7686
         },
         {
             "page": "Memmo di Filippuccio",
-            "pageView": 6841
+            "pageView": 4,
+            "total": 6843
         },
         {
             "page": "Filippo Buonaccorsi",
-            "pageView": 5015
-        },
-        {
-            "page": "Vivaldo da San Gimignano",
-            "pageView": 4855
+            "pageView": 3,
+            "total": 5017
         },
         {
             "page": "Felice Ficherelli",
-            "pageView": 4681
+            "pageView": 3,
+            "total": 4683
         },
         {
-            "page": "Mario Leoncini",
-            "pageView": 3755
-        },
-        {
-            "page": "Giuseppe Nuvolone",
-            "pageView": 3595
+            "page": "Vivaldo da San Gimignano",
+            "pageView": 2.5,
+            "total": 4857
         },
         {
             "page": "Ida Nomi",
-            "pageView": 3411
-        },
-        {
-            "page": "Piero Sardelli",
-            "pageView": 3194
+            "pageView": 2,
+            "total": 3415
         },
         {
             "page": "Fabio Ceccherini",
-            "pageView": 3169
+            "pageView": 2,
+            "total": 3172
         },
         {
             "page": "Gina Gennai",
-            "pageView": 1889
+            "pageView": 2,
+            "total": 1889
+        },
+        {
+            "page": "Mario Leoncini",
+            "pageView": 2,
+            "total": 3757
+        },
+        {
+            "page": "Giuseppe Nuvolone",
+            "pageView": 2,
+            "total": 3598
         },
         {
             "page": "Curzio Picchena",
-            "pageView": 1846
+            "pageView": 2,
+            "total": 1847
         },
         {
-            "page": "Franco Cangini",
-            "pageView": 1339
-        },
-        {
-            "page": "Alessandro Cortese (umanista)",
-            "pageView": 1305
+            "page": "Piero Sardelli",
+            "pageView": 2,
+            "total": 3194
         },
         {
             "page": "Serafino Capezzuoli",
-            "pageView": 1201
+            "pageView": 1,
+            "total": 1201
+        },
+        {
+            "page": "Alessandro Cortese (umanista)",
+            "pageView": 1,
+            "total": 1306
+        },
+        {
+            "page": "Franco Cangini",
+            "pageView": 0,
+            "total": 1354
         },
         {
             "page": "Antonio Malavolti",
-            "pageView": 484
+            "pageView": 0,
+            "total": 484
         },
         {
             "page": "Bartolo da San Gimignano",
-            "pageView": 53
+            "pageView": 0,
+            "total": 53
         }
     ]
 }

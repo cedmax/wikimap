@@ -3,111 +3,138 @@
     "people": [
         {
             "page": "Carlo Monni",
-            "pageView": 223677
-        },
-        {
-            "page": "Olimpia Carlisi",
-            "pageView": 60698
+            "pageView": 97,
+            "total": 223774
         },
         {
             "page": "Narciso Parigi",
-            "pageView": 50364
+            "pageView": 30,
+            "total": 50410
+        },
+        {
+            "page": "Olimpia Carlisi",
+            "pageView": 27,
+            "total": 60715
         },
         {
             "page": "Rolando Panerai",
-            "pageView": 22403
+            "pageView": 14,
+            "total": 22415
         },
         {
             "page": "Andrea Bellini",
-            "pageView": 9683
-        },
-        {
-            "page": "Lanciotto Ballerini",
-            "pageView": 9140
+            "pageView": 6,
+            "total": 9687
         },
         {
             "page": "Giuseppe Argentesi",
-            "pageView": 8280
+            "pageView": 5,
+            "total": 8286
+        },
+        {
+            "page": "Lanciotto Ballerini",
+            "pageView": 5,
+            "total": 9141
         },
         {
             "page": "Pietro Biagioli",
-            "pageView": 6483
+            "pageView": 4,
+            "total": 6483
         },
         {
             "page": "Mago Cristal",
-            "pageView": 4791
+            "pageView": 3,
+            "total": 4794
         },
         {
             "page": "Teresa Manetti",
-            "pageView": 4496
-        },
-        {
-            "page": "Carlo Bacarelli",
-            "pageView": 4004
+            "pageView": 3,
+            "total": 4498
         },
         {
             "page": "Luca Vigna",
-            "pageView": 3882
-        },
-        {
-            "page": "Giotto Ulivi",
-            "pageView": 3294
-        },
-        {
-            "page": "Mariano Falcini",
-            "pageView": 3212
-        },
-        {
-            "page": "Fausto Sestini",
-            "pageView": 3096
-        },
-        {
-            "page": "Marco Sassone",
-            "pageView": 2833
-        },
-        {
-            "page": "Michele Arcangelo Palloni",
-            "pageView": 2213
-        },
-        {
-            "page": "Ugo Novelli",
-            "pageView": 2186
+            "pageView": 3,
+            "total": 3885
         },
         {
             "page": "Anselmo Fauli",
-            "pageView": 2052
+            "pageView": 2,
+            "total": 2054
         },
         {
             "page": "Gino Fratesi",
-            "pageView": 1960
+            "pageView": 2,
+            "total": 1961
+        },
+        {
+            "page": "Marco Sassone",
+            "pageView": 2,
+            "total": 2834
+        },
+        {
+            "page": "Giotto Ulivi",
+            "pageView": 2,
+            "total": 3296
+        },
+        {
+            "page": "Mariano Falcini",
+            "pageView": 2,
+            "total": 3215
         },
         {
             "page": "Marcello Bonaccorsi",
-            "pageView": 1739
+            "pageView": 2,
+            "total": 1739
         },
         {
-            "page": "Renato Targioni",
-            "pageView": 1512
+            "page": "Carlo Bacarelli",
+            "pageView": 2,
+            "total": 4005
         },
         {
-            "page": "Tito Zucconi",
-            "pageView": 1466
+            "page": "Fausto Sestini",
+            "pageView": 2,
+            "total": 3097
         },
         {
-            "page": "Giuseppe Cioni",
-            "pageView": 1318
+            "page": "Ugo Novelli",
+            "pageView": 2,
+            "total": 2186
         },
         {
-            "page": "Emilio Bacci",
-            "pageView": 1227
+            "page": "Michele Arcangelo Palloni",
+            "pageView": 2,
+            "total": 2213
         },
         {
             "page": "Bettone Cini",
-            "pageView": 1042
+            "pageView": 1,
+            "total": 1042
+        },
+        {
+            "page": "Giuseppe Cioni",
+            "pageView": 1,
+            "total": 1318
+        },
+        {
+            "page": "Emilio Bacci",
+            "pageView": 1,
+            "total": 1227
+        },
+        {
+            "page": "Renato Targioni",
+            "pageView": 1,
+            "total": 1512
+        },
+        {
+            "page": "Tito Zucconi",
+            "pageView": 1,
+            "total": 1466
         },
         {
             "page": "Fra Ristoro da Campi",
-            "pageView": 436
+            "pageView": 0,
+            "total": 436
         }
     ]
 }

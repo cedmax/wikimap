@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Giovanni Ferro",
-            "pageView": 6732
+            "pageView": 4,
+            "total": 6734
         },
         {
             "page": "Giuseppe Cognata",
-            "pageView": 4177
-        },
-        {
-            "page": "Aurelio Sorrentino",
-            "pageView": 3720
-        },
-        {
-            "page": "Enrico Montalbetti",
-            "pageView": 3573
+            "pageView": 3,
+            "total": 4180
         },
         {
             "page": "Antonio Lanza (arcivescovo)",
-            "pageView": 3228
+            "pageView": 2,
+            "total": 3228
         },
         {
             "page": "Paolo Albera (vescovo)",
-            "pageView": 2554
+            "pageView": 2,
+            "total": 2556
         },
         {
             "page": "Giuseppe Maria Giove",
-            "pageView": 2218
+            "pageView": 2,
+            "total": 2219
+        },
+        {
+            "page": "Enrico Montalbetti",
+            "pageView": 2,
+            "total": 3573
+        },
+        {
+            "page": "Aurelio Sorrentino",
+            "pageView": 2,
+            "total": 3723
         },
         {
             "page": "Giovanni Andrea D'Andrea",
-            "pageView": 1061
-        },
-        {
-            "page": "Nicola Maria Laudisio",
-            "pageView": 350
+            "pageView": 1,
+            "total": 1065
         },
         {
             "page": "Martino Megale",
-            "pageView": 141
-        },
-        {
-            "page": "Antonio Piterà",
-            "pageView": 110
-        },
-        {
-            "page": "Vincenzo Rozzolino",
-            "pageView": 98
+            "pageView": 0,
+            "total": 142
         },
         {
             "page": "Nicola de Simone",
-            "pageView": 78
+            "pageView": 0,
+            "total": 78
+        },
+        {
+            "page": "Antonio Piterà",
+            "pageView": 0,
+            "total": 110
+        },
+        {
+            "page": "Nicola Maria Laudisio",
+            "pageView": 0,
+            "total": 357
+        },
+        {
+            "page": "Vincenzo Rozzolino",
+            "pageView": 0,
+            "total": 98
         }
     ]
 }

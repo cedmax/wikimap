@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Filippo Costa",
-            "pageView": 54512
+            "pageView": 28,
+            "total": 54526
         },
         {
             "page": "Alessia Piovan",
-            "pageView": 31863
-        },
-        {
-            "page": "Valeria Cappellotto",
-            "pageView": 14156
-        },
-        {
-            "page": "Ilaria Garzaro",
-            "pageView": 11262
-        },
-        {
-            "page": "Umberto Masotto",
-            "pageView": 8200
+            "pageView": 15,
+            "total": 31870
         },
         {
             "page": "Federico Malaman",
-            "pageView": 6055
+            "pageView": 13,
+            "total": 6061
+        },
+        {
+            "page": "Ilaria Garzaro",
+            "pageView": 6,
+            "total": 11270
+        },
+        {
+            "page": "Umberto Masotto",
+            "pageView": 4,
+            "total": 8205
         },
         {
             "page": "Federico Ginato",
-            "pageView": 4159
+            "pageView": 3,
+            "total": 4159
         },
         {
-            "page": "Giovanni Marchesini (filosofo)",
-            "pageView": 2719
+            "page": "Valeria Cappellotto",
+            "pageView": 3,
+            "total": 14158
         },
         {
             "page": "Giuliano Turatti",
-            "pageView": 2171
+            "pageView": 2,
+            "total": 2172
+        },
+        {
+            "page": "Giovanni Marchesini (filosofo)",
+            "pageView": 2,
+            "total": 2719
         },
         {
             "page": "Giovanni Braggion",
-            "pageView": 1346
-        },
-        {
-            "page": "Paola Zangirolami",
-            "pageView": 645
+            "pageView": 1,
+            "total": 1346
         },
         {
             "page": "Sebastiano Moratelli",
-            "pageView": 537
+            "pageView": 0,
+            "total": 537
         },
         {
             "page": "Pietro Giacomelli",
-            "pageView": 507
+            "pageView": 0,
+            "total": 508
+        },
+        {
+            "page": "Paola Zangirolami",
+            "pageView": 0,
+            "total": 647
         }
     ]
 }

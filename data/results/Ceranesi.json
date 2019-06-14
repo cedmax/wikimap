@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Giacomo Barabino",
-            "pageView": 6945
-        },
-        {
-            "page": "Leonardo Montaldo",
-            "pageView": 4256
+            "pageView": 4,
+            "total": 6946
         },
         {
             "page": "Giacinto Rossi",
-            "pageView": 2153
+            "pageView": 2,
+            "total": 2155
+        },
+        {
+            "page": "Leonardo Montaldo",
+            "pageView": 2,
+            "total": 4256
         },
         {
             "page": "Francesco Ponte",
-            "pageView": 1893
+            "pageView": 2,
+            "total": 1895
         }
     ]
 }

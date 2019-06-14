@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Mimì Quilici Buzzacchi",
-            "pageView": 10698
+            "pageView": 5,
+            "total": 10704
         },
         {
             "page": "Francesco Gonzaga (1577-1616)",
-            "pageView": 6531
+            "pageView": 4,
+            "total": 6534
         },
         {
             "page": "Ferdinando II Gonzaga",
-            "pageView": 5658
-        },
-        {
-            "page": "Ferdinando I Gonzaga (1614-1675)",
-            "pageView": 3663
+            "pageView": 3,
+            "total": 5664
         },
         {
             "page": "Carlo Gonzaga (1616-1680)",
-            "pageView": 3574
+            "pageView": 2,
+            "total": 3576
         },
         {
             "page": "Luigi Gonzaga (1611-1636)",
-            "pageView": 3473
-        },
-        {
-            "page": "Vindizio Nodari Pesenti",
-            "pageView": 3104
-        },
-        {
-            "page": "Ascanio de' Mori da Ceno",
-            "pageView": 2880
+            "pageView": 2,
+            "total": 3474
         },
         {
             "page": "Giovanni Buzzacchi",
-            "pageView": 2708
+            "pageView": 2,
+            "total": 2710
         },
         {
             "page": "Louis-Charles de Maleville",
-            "pageView": 2514
+            "pageView": 2,
+            "total": 2515
+        },
+        {
+            "page": "Ferdinando I Gonzaga (1614-1675)",
+            "pageView": 2,
+            "total": 3663
         },
         {
             "page": "Domenico Pesenti",
-            "pageView": 2368
+            "pageView": 2,
+            "total": 2370
         },
         {
-            "page": "Pietro Scaratti",
-            "pageView": 1435
+            "page": "Ascanio de' Mori da Ceno",
+            "pageView": 2,
+            "total": 2883
+        },
+        {
+            "page": "Vindizio Nodari Pesenti",
+            "pageView": 2,
+            "total": 3105
         },
         {
             "page": "Luigi Melegari (1819-1877)",
-            "pageView": 1183
+            "pageView": 1,
+            "total": 1184
+        },
+        {
+            "page": "Pietro Scaratti",
+            "pageView": 1,
+            "total": 1437
         },
         {
             "page": "Amédée Laurans des Ondes",
-            "pageView": 228
+            "pageView": 0,
+            "total": 229
         }
     ]
 }

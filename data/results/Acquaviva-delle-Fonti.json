@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Mirko Eramo",
-            "pageView": 63968
+            "pageView": 28.5,
+            "total": 63996
         },
         {
             "page": "Giuseppe Scalera (calciatore)",
-            "pageView": 18300
+            "pageView": 15,
+            "total": 18312
         },
         {
             "page": "Giovanni Ricchiuti",
-            "pageView": 15883
+            "pageView": 9,
+            "total": 15887
         },
         {
             "page": "Agostino Superbo",
-            "pageView": 15507
+            "pageView": 6,
+            "total": 15509
         },
         {
             "page": "Mario Paciello",
-            "pageView": 9336
+            "pageView": 6,
+            "total": 9339
         },
         {
             "page": "Giuseppe Giacovazzo",
-            "pageView": 7451
-        },
-        {
-            "page": "Antonio Lucarelli",
-            "pageView": 5961
-        },
-        {
-            "page": "Vito De Lorentis",
-            "pageView": 4706
-        },
-        {
-            "page": "Giuseppe Incardona",
-            "pageView": 4602
-        },
-        {
-            "page": "Domenico Laforenza",
-            "pageView": 4484
-        },
-        {
-            "page": "Giovanni Ingellis",
-            "pageView": 4147
+            "pageView": 4,
+            "total": 7454
         },
         {
             "page": "Modesto Panetti",
-            "pageView": 3846
+            "pageView": 3,
+            "total": 3848
+        },
+        {
+            "page": "Domenico Laforenza",
+            "pageView": 3,
+            "total": 4487
+        },
+        {
+            "page": "Giovanni Ingellis",
+            "pageView": 3,
+            "total": 4149
+        },
+        {
+            "page": "Vito De Lorentis",
+            "pageView": 3,
+            "total": 4708
+        },
+        {
+            "page": "Antonio Lucarelli",
+            "pageView": 3,
+            "total": 5963
+        },
+        {
+            "page": "Giuseppe Incardona",
+            "pageView": 3,
+            "total": 4607
         },
         {
             "page": "Giuseppe Della Corte",
-            "pageView": 3812
-        },
-        {
-            "page": "Ferdinando Pappalardo",
-            "pageView": 3684
-        },
-        {
-            "page": "Vito Marino Caferra",
-            "pageView": 3452
-        },
-        {
-            "page": "Maria Antonia Scalera Stellini",
-            "pageView": 3000
-        },
-        {
-            "page": "Tarcisio Pisani",
-            "pageView": 2610
-        },
-        {
-            "page": "Carlo De Vincentiis (violinista)",
-            "pageView": 2508
-        },
-        {
-            "page": "Giacomo Palombella",
-            "pageView": 2481
-        },
-        {
-            "page": "Vito Carmelo Colamonico",
-            "pageView": 2412
-        },
-        {
-            "page": "Vito Luciani",
-            "pageView": 2319
+            "pageView": 2,
+            "total": 3812
         },
         {
             "page": "Mario Napolitano",
-            "pageView": 2193
+            "pageView": 2,
+            "total": 2193
         },
         {
             "page": "Sebastiano Arturo Luciani",
-            "pageView": 2101
+            "pageView": 2,
+            "total": 2104
         },
         {
-            "page": "Domenico Antonio Mele",
-            "pageView": 2003
+            "page": "Carlo De Vincentiis (violinista)",
+            "pageView": 2,
+            "total": 2508
         },
         {
-            "page": "Agostino Laera",
-            "pageView": 1582
+            "page": "Vito Carmelo Colamonico",
+            "pageView": 2,
+            "total": 2413
         },
         {
-            "page": "Francesco Paolo Masullo",
-            "pageView": 1579
+            "page": "Tarcisio Pisani",
+            "pageView": 2,
+            "total": 2614
         },
         {
-            "page": "Cesare Franco (compositore)",
-            "pageView": 1425
+            "page": "Vito Marino Caferra",
+            "pageView": 2,
+            "total": 3452
+        },
+        {
+            "page": "Vito Luciani",
+            "pageView": 2,
+            "total": 2322
+        },
+        {
+            "page": "Maria Antonia Scalera Stellini",
+            "pageView": 2,
+            "total": 3001
+        },
+        {
+            "page": "Ferdinando Pappalardo",
+            "pageView": 2,
+            "total": 3686
+        },
+        {
+            "page": "Giacomo Palombella",
+            "pageView": 2,
+            "total": 2483
         },
         {
             "page": "Cesarino Franco",
-            "pageView": 1410
+            "pageView": 1,
+            "total": 1410
         },
         {
-            "page": "Ottavio Festa",
-            "pageView": 1403
+            "page": "Francesco Paolo Masullo",
+            "pageView": 1,
+            "total": 1579
+        },
+        {
+            "page": "Domenico Antonio Mele",
+            "pageView": 1,
+            "total": 2003
         },
         {
             "page": "Giulio Cesare Luciani",
-            "pageView": 935
+            "pageView": 1,
+            "total": 935
+        },
+        {
+            "page": "Agostino Laera",
+            "pageView": 1,
+            "total": 1583
+        },
+        {
+            "page": "Cesare Franco (compositore)",
+            "pageView": 1,
+            "total": 1425
+        },
+        {
+            "page": "Ottavio Festa",
+            "pageView": 1,
+            "total": 1404
         }
     ]
 }

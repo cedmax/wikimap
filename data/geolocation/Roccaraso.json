@@ -1,0 +1,27 @@
+{
+    "id": "place.7630581320623780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccaraso",
+    "place_name": "Roccaraso, L'Aquila, Italy",
+    "bbox": [
+        14.010429,
+        41.796883,
+        14.165875,
+        41.884437
+    ],
+    "center": [
+        14.07853,
+        41.84665
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.07853,
+            41.84665
+        ]
+    }
+}

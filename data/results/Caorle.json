@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Roberto Bellinazzi",
-            "pageView": 6756
-        },
-        {
-            "page": "Luciano Savian",
-            "pageView": 2787
-        },
-        {
-            "page": "Benito Zanutto",
-            "pageView": 2699
+            "pageView": 4,
+            "total": 6760
         },
         {
             "page": "Gualtiero Ciola",
-            "pageView": 2645
+            "pageView": 2,
+            "total": 2648
+        },
+        {
+            "page": "Luciano Savian",
+            "pageView": 2,
+            "total": 2787
+        },
+        {
+            "page": "Benito Zanutto",
+            "pageView": 2,
+            "total": 2700
         }
     ]
 }

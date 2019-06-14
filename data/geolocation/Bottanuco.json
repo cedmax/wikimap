@@ -1,0 +1,27 @@
+{
+    "id": "place.12936774621433070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bottanuco",
+    "place_name": "Bottanuco, Bergamo, Italy",
+    "bbox": [
+        9.493714,
+        45.624934,
+        9.535653,
+        45.649687
+    ],
+    "center": [
+        9.50639,
+        45.63972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.50639,
+            45.63972
+        ]
+    }
+}

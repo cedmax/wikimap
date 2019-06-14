@@ -1,0 +1,27 @@
+{
+    "id": "place.11397705704770170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiomonte",
+    "place_name": "Chiomonte, Torino, Italy",
+    "bbox": [
+        6.94659,
+        45.069528,
+        7.019317,
+        45.136176
+    ],
+    "center": [
+        6.98333,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.98333,
+            45.11667
+        ]
+    }
+}

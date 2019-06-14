@@ -1,0 +1,27 @@
+{
+    "id": "place.14932586185151930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalpusterlengo",
+    "place_name": "Casalpusterlengo, Lodi, Italy",
+    "bbox": [
+        9.582954,
+        45.163084,
+        9.666371,
+        45.23101
+    ],
+    "center": [
+        9.65,
+        45.17778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65,
+            45.17778
+        ]
+    }
+}

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Paolo Tofoli",
-            "pageView": 53689
-        },
-        {
-            "page": "Maximiliano Cavanna",
-            "pageView": 8916
+            "pageView": 21,
+            "total": 53701
         },
         {
             "page": "Alessandro Blasi",
-            "pageView": 5339
+            "pageView": 3,
+            "total": 5340
+        },
+        {
+            "page": "Maximiliano Cavanna",
+            "pageView": 3,
+            "total": 8922
         },
         {
             "page": "Marco Rizzo (pallavolista)",
-            "pageView": 4646
-        },
-        {
-            "page": "Basilio Germanà",
-            "pageView": 3889
-        },
-        {
-            "page": "Massimiliano Di Franco",
-            "pageView": 3264
-        },
-        {
-            "page": "Iván Ruiz",
-            "pageView": 3044
-        },
-        {
-            "page": "Alessandro Paoli",
-            "pageView": 2924
-        },
-        {
-            "page": "Cesare Gradi",
-            "pageView": 2874
-        },
-        {
-            "page": "Pierlorenzo Buzzelli",
-            "pageView": 2542
-        },
-        {
-            "page": "Francesco De Luca (pallavolista)",
-            "pageView": 2537
-        },
-        {
-            "page": "Marco Visentin",
-            "pageView": 2347
-        },
-        {
-            "page": "Antonio Ricciardello",
-            "pageView": 2148
-        },
-        {
-            "page": "Michele Capra",
-            "pageView": 2016
+            "pageView": 3,
+            "total": 4650
         },
         {
             "page": "Alessandro Lorenzoni",
-            "pageView": 1984
+            "pageView": 2,
+            "total": 1985
         },
         {
-            "page": "Axel Jacobsen",
-            "pageView": 1761
+            "page": "Michele Capra",
+            "pageView": 2,
+            "total": 2018
         },
         {
-            "page": "Edoardo Ciabattini",
-            "pageView": 1630
+            "page": "Basilio Germanà",
+            "pageView": 2,
+            "total": 3889
+        },
+        {
+            "page": "Iván Ruiz",
+            "pageView": 2,
+            "total": 3044
+        },
+        {
+            "page": "Francesco De Luca (pallavolista)",
+            "pageView": 2,
+            "total": 2538
+        },
+        {
+            "page": "Marco Visentin",
+            "pageView": 2,
+            "total": 2347
+        },
+        {
+            "page": "Cesare Gradi",
+            "pageView": 2,
+            "total": 2874
+        },
+        {
+            "page": "Pierlorenzo Buzzelli",
+            "pageView": 2,
+            "total": 2545
+        },
+        {
+            "page": "Antonio Ricciardello",
+            "pageView": 2,
+            "total": 2148
+        },
+        {
+            "page": "Alessandro Paoli",
+            "pageView": 2,
+            "total": 2926
+        },
+        {
+            "page": "Massimiliano Di Franco",
+            "pageView": 2,
+            "total": 3268
         },
         {
             "page": "Martín Kindgard",
-            "pageView": 917
+            "pageView": 1,
+            "total": 918
+        },
+        {
+            "page": "Axel Jacobsen",
+            "pageView": 1,
+            "total": 1762
+        },
+        {
+            "page": "Edoardo Ciabattini",
+            "pageView": 1,
+            "total": 1630
         }
     ]
 }

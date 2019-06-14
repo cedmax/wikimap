@@ -1,0 +1,27 @@
+{
+    "id": "place.7301026913772350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Osio Sotto",
+    "place_name": "Osio Sotto, Bergamo, Italy",
+    "bbox": [
+        9.559506,
+        45.600193,
+        9.613509,
+        45.626721
+    ],
+    "center": [
+        9.6,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6,
+            45.61667
+        ]
+    }
+}

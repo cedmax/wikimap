@@ -1,0 +1,27 @@
+{
+    "id": "place.12438485460119130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bormio",
+    "place_name": "Bormio, Sondrio, Italy",
+    "bbox": [
+        10.353831,
+        46.444142,
+        10.470559,
+        46.541319
+    ],
+    "center": [
+        10.36667,
+        46.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.36667,
+            46.46667
+        ]
+    }
+}

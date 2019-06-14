@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Telmo Pievani",
-            "pageView": 50511
+            "pageView": 31,
+            "total": 50565
         },
         {
             "page": "Achille Coser",
-            "pageView": 19628
-        },
-        {
-            "page": "Giuseppe Guerini (ciclista)",
-            "pageView": 15981
+            "pageView": 12,
+            "total": 19636
         },
         {
             "page": "Paolo Foglio",
-            "pageView": 14570
+            "pageView": 9,
+            "total": 14584
         },
         {
             "page": "Roberto Bonazzi",
-            "pageView": 11217
+            "pageView": 7,
+            "total": 11222
+        },
+        {
+            "page": "Giuseppe Guerini (ciclista)",
+            "pageView": 7,
+            "total": 15989
         },
         {
             "page": "Paolo Lanfranchi",
-            "pageView": 6368
-        },
-        {
-            "page": "Giovanni Gualdi",
-            "pageView": 5322
+            "pageView": 4,
+            "total": 6369
         },
         {
             "page": "Alessandro Paganessi",
-            "pageView": 4538
-        },
-        {
-            "page": "Renato Pasini",
-            "pageView": 4203
+            "pageView": 3,
+            "total": 4542
         },
         {
             "page": "Giorgio Gusmini",
-            "pageView": 4178
+            "pageView": 3,
+            "total": 4181
         },
         {
-            "page": "Fabio Pasini",
-            "pageView": 4084
+            "page": "Giovanni Gualdi",
+            "pageView": 3,
+            "total": 5327
         },
         {
             "page": "Marco Bordogni",
-            "pageView": 3798
+            "pageView": 3,
+            "total": 3801
+        },
+        {
+            "page": "Renato Pasini",
+            "pageView": 3,
+            "total": 4203
         },
         {
             "page": "Giosuè Bonomi",
-            "pageView": 3017
-        },
-        {
-            "page": "Eugenio Coter",
-            "pageView": 2745
+            "pageView": 2,
+            "total": 3018
         },
         {
             "page": "Rosario Martinelli",
-            "pageView": 2125
+            "pageView": 2,
+            "total": 2125
+        },
+        {
+            "page": "Fabio Pasini",
+            "pageView": 2,
+            "total": 4085
+        },
+        {
+            "page": "Eugenio Coter",
+            "pageView": 2,
+            "total": 2748
         },
         {
             "page": "Andrea Cagnoni",
-            "pageView": 2098
+            "pageView": 2,
+            "total": 2100
         },
         {
             "page": "Mario Remonti",
-            "pageView": 1856
+            "pageView": 2,
+            "total": 1857
         },
         {
             "page": "Mauro Zinetti",
-            "pageView": 1739
-        },
-        {
-            "page": "Agostino Da Polenza",
-            "pageView": 1546
+            "pageView": 1,
+            "total": 1742
         },
         {
             "page": "Benedetto Ippolito Maffeis",
-            "pageView": 317
+            "pageView": 0,
+            "total": 317
+        },
+        {
+            "page": "Agostino Da Polenza",
+            "pageView": 0,
+            "total": 1563
         }
     ]
 }

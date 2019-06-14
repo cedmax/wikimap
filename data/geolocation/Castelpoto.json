@@ -1,0 +1,27 @@
+{
+    "id": "place.9794756173757260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelpoto",
+    "place_name": "Castelpoto, Benevento, Italy",
+    "bbox": [
+        14.672002,
+        41.102369,
+        14.725945,
+        41.153805
+    ],
+    "center": [
+        14.7,
+        41.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.7,
+            41.15
+        ]
+    }
+}

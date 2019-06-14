@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Emanuele Tuttobene",
-            "pageView": 8379
-        },
-        {
-            "page": "Giuseppe Lanza (scrittore)",
-            "pageView": 4250
-        },
-        {
-            "page": "Luigi Di Barca",
-            "pageView": 4076
+            "pageView": 5,
+            "total": 8380
         },
         {
             "page": "Francesco Lanza (scrittore)",
-            "pageView": 3289
+            "pageView": 4,
+            "total": 3295
+        },
+        {
+            "page": "Luigi Di Barca",
+            "pageView": 3,
+            "total": 4080
+        },
+        {
+            "page": "Giuseppe Lanza (scrittore)",
+            "pageView": 3,
+            "total": 4252
         },
         {
             "page": "Tommaso Lomonaco",
-            "pageView": 2568
+            "pageView": 2,
+            "total": 2571
         },
         {
             "page": "Angelo Pavone",
-            "pageView": 2337
+            "pageView": 2,
+            "total": 2338
         },
         {
             "page": "Girolamo Rallo",
-            "pageView": 1331
+            "pageView": 1,
+            "total": 1332
         }
     ]
 }

@@ -2,56 +2,69 @@
     "name": "Alife",
     "people": [
         {
-            "page": "Valentino Di Cerbo",
-            "pageView": 9653
+            "page": "Vittorio Jahyn Parrinello",
+            "pageView": 5,
+            "total": 8633
         },
         {
-            "page": "Vittorio Jahyn Parrinello",
-            "pageView": 8632
+            "page": "Valentino Di Cerbo",
+            "pageView": 5,
+            "total": 9654
         },
         {
             "page": "Alessandro Vessella",
-            "pageView": 6735
+            "pageView": 4,
+            "total": 6739
         },
         {
             "page": "Pietro Farina",
-            "pageView": 5331
-        },
-        {
-            "page": "Marino Vulcano",
-            "pageView": 4114
-        },
-        {
-            "page": "Malgerio Sorel",
-            "pageView": 2945
+            "pageView": 3,
+            "total": 5332
         },
         {
             "page": "Orazio Michi dell'Arpa",
-            "pageView": 2464
-        },
-        {
-            "page": "Niccolò di Alife",
-            "pageView": 1667
+            "pageView": 2,
+            "total": 2465
         },
         {
             "page": "Francesco Renzio",
-            "pageView": 1661
+            "pageView": 2,
+            "total": 1664
         },
         {
-            "page": "Angelo Sanfelice",
-            "pageView": 1243
+            "page": "Malgerio Sorel",
+            "pageView": 2,
+            "total": 2945
         },
         {
-            "page": "Alferio de Alferis",
-            "pageView": 1097
+            "page": "Marino Vulcano",
+            "pageView": 2,
+            "total": 4116
         },
         {
             "page": "Luigi Acilio",
-            "pageView": 777
+            "pageView": 1,
+            "total": 777
+        },
+        {
+            "page": "Alferio de Alferis",
+            "pageView": 1,
+            "total": 1098
+        },
+        {
+            "page": "Niccolò di Alife",
+            "pageView": 1,
+            "total": 1667
+        },
+        {
+            "page": "Angelo Sanfelice",
+            "pageView": 1,
+            "total": 1244
         },
         {
             "page": "Francesco Ferdinando Sanseverino",
-            "pageView": 239
+            "pageView": 0,
+            "total": 240
         }
     ]
 }

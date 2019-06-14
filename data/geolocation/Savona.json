@@ -1,0 +1,27 @@
+{
+    "id": "place.9330120000775610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Savona",
+    "place_name": "Savona, Savona, Italy",
+    "bbox": [
+        8.342863,
+        44.281182,
+        8.50437,
+        44.38818
+    ],
+    "center": [
+        8.48102,
+        44.30797
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48102,
+            44.30797
+        ]
+    }
+}

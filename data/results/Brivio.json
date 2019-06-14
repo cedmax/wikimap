@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Cesare Cantù",
-            "pageView": 35699
+            "pageView": 23,
+            "total": 35728
         },
         {
             "page": "Teresa Borri",
-            "pageView": 33710
+            "pageView": 22,
+            "total": 33719
         },
         {
             "page": "San Simpliciano",
-            "pageView": 10407
-        },
-        {
-            "page": "Ignazio Cantù",
-            "pageView": 3886
-        },
-        {
-            "page": "Maria Anna Sala",
-            "pageView": 3093
-        },
-        {
-            "page": "Giulia Recli",
-            "pageView": 2537
+            "pageView": 6,
+            "total": 10419
         },
         {
             "page": "Tino Ausenda",
-            "pageView": 1979
+            "pageView": 2,
+            "total": 1980
+        },
+        {
+            "page": "Giulia Recli",
+            "pageView": 2,
+            "total": 2537
+        },
+        {
+            "page": "Ignazio Cantù",
+            "pageView": 2,
+            "total": 3886
+        },
+        {
+            "page": "Maria Anna Sala",
+            "pageView": 2,
+            "total": 3096
         },
         {
             "page": "Antonio Ausenda",
-            "pageView": 1567
+            "pageView": 1,
+            "total": 1568
         }
     ]
 }

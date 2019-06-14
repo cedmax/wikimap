@@ -1,0 +1,27 @@
+{
+    "id": "place.7665680879468800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varenna",
+    "place_name": "Varenna, Lecco, Italy",
+    "bbox": [
+        9.260497,
+        45.966121,
+        9.316159,
+        46.014759
+    ],
+    "center": [
+        9.2838,
+        46.0108
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2838,
+            46.0108
+        ]
+    }
+}

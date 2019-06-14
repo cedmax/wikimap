@@ -1,0 +1,27 @@
+{
+    "id": "place.15235903127097480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Raffadali",
+    "place_name": "Raffadali, Agrigento, Italy",
+    "bbox": [
+        13.491816,
+        37.362392,
+        13.560542,
+        37.440735
+    ],
+    "center": [
+        13.53389,
+        37.40472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53389,
+            37.40472
+        ]
+    }
+}

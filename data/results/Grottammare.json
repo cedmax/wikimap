@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Papa Sisto V",
-            "pageView": 196565
+            "pageView": 129,
+            "total": 196648
         },
         {
             "page": "Pericle Fazzini",
-            "pageView": 25448
+            "pageView": 15,
+            "total": 25466
         },
         {
             "page": "Andrea Concetti",
-            "pageView": 5943
-        },
-        {
-            "page": "Fabio Roscioli",
-            "pageView": 5546
+            "pageView": 4,
+            "total": 5943
         },
         {
             "page": "Sforza Secondo Sforza",
-            "pageView": 4200
+            "pageView": 3,
+            "total": 4200
         },
         {
-            "page": "Danilo De' Cocci",
-            "pageView": 3103
+            "page": "Fabio Roscioli",
+            "pageView": 3,
+            "total": 5549
         },
         {
             "page": "Guido Cappelloni",
-            "pageView": 3033
+            "pageView": 2,
+            "total": 3036
         },
         {
             "page": "Vincenzo Franceschini",
-            "pageView": 2954
-        },
-        {
-            "page": "Giulio Laureati",
-            "pageView": 2654
-        },
-        {
-            "page": "Guglielmo Mecozzi",
-            "pageView": 2626
+            "pageView": 2,
+            "total": 2956
         },
         {
             "page": "Antonio Brutti",
-            "pageView": 2355
+            "pageView": 2,
+            "total": 2355
         },
         {
-            "page": "Francesco Crucioli",
-            "pageView": 1895
+            "page": "Giulio Laureati",
+            "pageView": 2,
+            "total": 2656
+        },
+        {
+            "page": "Guglielmo Mecozzi",
+            "pageView": 2,
+            "total": 2627
+        },
+        {
+            "page": "Danilo De' Cocci",
+            "pageView": 2,
+            "total": 3108
         },
         {
             "page": "Gaetano Vannicola",
-            "pageView": 1062
+            "pageView": 1,
+            "total": 1062
+        },
+        {
+            "page": "Francesco Crucioli",
+            "pageView": 1,
+            "total": 1895
         },
         {
             "page": "Alceo Speranza",
-            "pageView": 1054
+            "pageView": 1,
+            "total": 1057
         }
     ]
 }

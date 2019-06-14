@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Francesco Carlini",
-            "pageView": 3435
+            "pageView": 2,
+            "total": 3435
         },
         {
             "page": "Luigi Pellanda",
-            "pageView": 2139
+            "pageView": 2,
+            "total": 2140
         },
         {
             "page": "Giovanni Giacomo Pierantoni",
-            "pageView": 1117
+            "pageView": 1,
+            "total": 1117
         }
     ]
 }

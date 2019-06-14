@@ -1,0 +1,27 @@
+{
+    "id": "place.3896491908665730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grosio",
+    "place_name": "Grosio, Sondrio, Italy",
+    "bbox": [
+        10.104446,
+        46.275424,
+        10.34518,
+        46.416484
+    ],
+    "center": [
+        10.28333,
+        46.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.28333,
+            46.3
+        ]
+    }
+}

@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Alessandro Rosina",
-            "pageView": 254297
+            "pageView": 125,
+            "total": 254416
         },
         {
             "page": "Eugenio Sangregorio",
-            "pageView": 46100
+            "pageView": 18,
+            "total": 46110
         },
         {
             "page": "Daniele Fasanella",
-            "pageView": 14658
+            "pageView": 6,
+            "total": 14667
         },
         {
             "page": "Giovanni Paschetta",
-            "pageView": 7323
-        },
-        {
-            "page": "Luca Presta",
-            "pageView": 5340
+            "pageView": 5,
+            "total": 7326
         },
         {
             "page": "Filippo Bencardino",
-            "pageView": 4466
+            "pageView": 4,
+            "total": 4469
+        },
+        {
+            "page": "Luca Presta",
+            "pageView": 3,
+            "total": 5344
         },
         {
             "page": "Dick Danello",
-            "pageView": 3786
+            "pageView": 2,
+            "total": 3787
         },
         {
             "page": "Francesco De Seta",
-            "pageView": 2561
+            "pageView": 2,
+            "total": 2563
         },
         {
             "page": "Fedele De Novellis",
-            "pageView": 1509
+            "pageView": 1,
+            "total": 1511
         },
         {
             "page": "Enrico De Seta (politico)",
-            "pageView": 1003
+            "pageView": 1,
+            "total": 1004
         }
     ]
 }

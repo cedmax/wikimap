@@ -1,0 +1,27 @@
+{
+    "id": "place.12155075709991650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alcara li Fusi",
+    "place_name": "Alcara li Fusi, Messina, Italy",
+    "bbox": [
+        14.658808,
+        37.931577,
+        14.762742,
+        38.044132
+    ],
+    "center": [
+        14.7,
+        38.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.7,
+            38.01667
+        ]
+    }
+}

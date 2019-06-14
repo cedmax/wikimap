@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Marisa Bellisario",
-            "pageView": 64662
+            "pageView": 31,
+            "total": 64711
         },
         {
             "page": "Luca Castiglia",
-            "pageView": 42589
+            "pageView": 22,
+            "total": 42602
         },
         {
             "page": "Alessandro Puzar",
-            "pageView": 29478
+            "pageView": 18,
+            "total": 29490
         },
         {
             "page": "Attilio Momigliano",
-            "pageView": 21179
-        },
-        {
-            "page": "Ermanno Carlotto",
-            "pageView": 9639
+            "pageView": 14,
+            "total": 21190
         },
         {
             "page": "Aloysius Bertrand",
-            "pageView": 9002
+            "pageView": 6,
+            "total": 9004
+        },
+        {
+            "page": "Ermanno Carlotto",
+            "pageView": 6,
+            "total": 9643
         },
         {
             "page": "Alberto Cairo",
-            "pageView": 8211
+            "pageView": 5,
+            "total": 8212
         },
         {
             "page": "Benvenuto Ratto",
-            "pageView": 6443
-        },
-        {
-            "page": "Leopoldo Marenco",
-            "pageView": 5320
+            "pageView": 4,
+            "total": 6448
         },
         {
             "page": "Gian Carlo Ruffino",
-            "pageView": 4626
+            "pageView": 3,
+            "total": 4629
+        },
+        {
+            "page": "Leopoldo Marenco",
+            "pageView": 3,
+            "total": 5322
         },
         {
             "page": "Leopoldo Attilio Martino",
-            "pageView": 2797
+            "pageView": 2,
+            "total": 2797
         },
         {
             "page": "Alberto Minetti",
-            "pageView": 2719
+            "pageView": 2,
+            "total": 2720
         },
         {
             "page": "Natale Carlotto",
-            "pageView": 2650
-        },
-        {
-            "page": "Luigi Taramazzo",
-            "pageView": 2432
+            "pageView": 2,
+            "total": 2651
         },
         {
             "page": "Lodovico Sauli d'Igliano",
-            "pageView": 2173
+            "pageView": 2,
+            "total": 2173
+        },
+        {
+            "page": "Luigi Taramazzo",
+            "pageView": 2,
+            "total": 2432
         },
         {
             "page": "Giuseppe Bertieri",
-            "pageView": 1800
-        },
-        {
-            "page": "Ferdinando Siccardi",
-            "pageView": 1042
+            "pageView": 1,
+            "total": 1800
         },
         {
             "page": "Giacinto Rovella",
-            "pageView": 933
+            "pageView": 1,
+            "total": 934
+        },
+        {
+            "page": "Ferdinando Siccardi",
+            "pageView": 1,
+            "total": 1042
         },
         {
             "page": "Eraldo Garello",
-            "pageView": 557
+            "pageView": 0,
+            "total": 557
         }
     ]
 }

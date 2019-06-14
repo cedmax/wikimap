@@ -1,0 +1,27 @@
+{
+    "id": "place.9184790361257910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Faenza",
+    "place_name": "Faenza, Ravenna, Italy",
+    "bbox": [
+        11.761078,
+        44.210304,
+        12.030769,
+        44.380058
+    ],
+    "center": [
+        11.88333,
+        44.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            44.28333
+        ]
+    }
+}

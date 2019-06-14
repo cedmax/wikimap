@@ -1,0 +1,27 @@
+{
+    "id": "place.7115078832424520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avezzano",
+    "place_name": "Avezzano, L'Aquila, Italy",
+    "bbox": [
+        13.360412,
+        41.981979,
+        13.510737,
+        42.096853
+    ],
+    "center": [
+        13.42637,
+        42.03098
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.42637,
+            42.03098
+        ]
+    }
+}

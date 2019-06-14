@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Massimo Colomban",
-            "pageView": 44180
-        },
-        {
-            "page": "Rosanna Munerotto",
-            "pageView": 8294
+            "pageView": 19,
+            "total": 44186
         },
         {
             "page": "Claudio Granzotto",
-            "pageView": 6376
+            "pageView": 6,
+            "total": 6378
+        },
+        {
+            "page": "Rosanna Munerotto",
+            "pageView": 4,
+            "total": 8296
         },
         {
             "page": "Mario Zanin",
-            "pageView": 4487
+            "pageView": 3,
+            "total": 4488
         },
         {
             "page": "Luigi Sante Da Rios",
-            "pageView": 1509
+            "pageView": 1,
+            "total": 1509
         }
     ]
 }

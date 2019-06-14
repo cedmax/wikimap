@@ -1,0 +1,27 @@
+{
+    "id": "place.4844510078536020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel di Sangro",
+    "place_name": "Castel di Sangro, L'Aquila, Italy",
+    "bbox": [
+        14.045262,
+        41.70725,
+        14.203182,
+        41.839354
+    ],
+    "center": [
+        14.10852,
+        41.78422
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.10852,
+            41.78422
+        ]
+    }
+}

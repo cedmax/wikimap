@@ -3,287 +3,358 @@
     "people": [
         {
             "page": "Walter Nones",
-            "pageView": 52170
+            "pageView": 17,
+            "total": 52197
         },
         {
             "page": "Giancarlo Zanetti",
-            "pageView": 20839
+            "pageView": 12,
+            "total": 20857
         },
         {
             "page": "Giovanni Antonio Scopoli",
-            "pageView": 18075
-        },
-        {
-            "page": "Chiara Costazza",
-            "pageView": 18066
+            "pageView": 9,
+            "total": 18093
         },
         {
             "page": "Cristian Zorzi",
-            "pageView": 16400
+            "pageView": 8,
+            "total": 16409
         },
         {
             "page": "Giacomo Bertagnolli",
-            "pageView": 15878
-        },
-        {
-            "page": "Cristian Deville",
-            "pageView": 11814
-        },
-        {
-            "page": "Giorgio Vanzetta",
-            "pageView": 7592
-        },
-        {
-            "page": "Antonella Confortola",
-            "pageView": 7163
-        },
-        {
-            "page": "Stefano Marchetti",
-            "pageView": 4941
-        },
-        {
-            "page": "Mirko Deflorian",
-            "pageView": 4507
-        },
-        {
-            "page": "Narciso Bronzetti",
-            "pageView": 4451
-        },
-        {
-            "page": "Gino Pasqualotto",
-            "pageView": 4332
-        },
-        {
-            "page": "Gaia Vuerich",
-            "pageView": 4292
-        },
-        {
-            "page": "Cristoforo Unterperger",
-            "pageView": 4094
-        },
-        {
-            "page": "Giuseppe Alberti (pittore)",
-            "pageView": 3882
-        },
-        {
-            "page": "Lidia Trettel",
-            "pageView": 3780
-        },
-        {
-            "page": "Giuseppe Detomas",
-            "pageView": 3649
-        },
-        {
-            "page": "Bice Vanzetta",
-            "pageView": 3527
-        },
-        {
-            "page": "Diego Iori",
-            "pageView": 3429
-        },
-        {
-            "page": "Armando Chelodi",
-            "pageView": 3221
-        },
-        {
-            "page": "Michelangelo Unterperger",
-            "pageView": 3141
-        },
-        {
-            "page": "Carlo Valentino",
-            "pageView": 2978
-        },
-        {
-            "page": "Giorgio De Bettin",
-            "pageView": 2921
-        },
-        {
-            "page": "Salvino Chiereghin",
-            "pageView": 2838
-        },
-        {
-            "page": "Luca Felicetti",
-            "pageView": 2800
-        },
-        {
-            "page": "Mirko Felicetti",
-            "pageView": 2735
+            "pageView": 7,
+            "total": 15895
         },
         {
             "page": "Elena Testor",
-            "pageView": 2640
+            "pageView": 5,
+            "total": 2653
         },
         {
-            "page": "Igor Cigolla",
-            "pageView": 2620
+            "page": "Chiara Costazza",
+            "pageView": 5,
+            "total": 18067
         },
         {
-            "page": "Thomas Commisso",
-            "pageView": 2303
+            "page": "Giorgio Vanzetta",
+            "pageView": 4,
+            "total": 7593
         },
         {
-            "page": "Michael De Angelis",
-            "pageView": 2261
+            "page": "Cristian Deville",
+            "pageView": 4,
+            "total": 11817
         },
         {
-            "page": "Carmine Vani",
-            "pageView": 2191
+            "page": "Antonella Confortola",
+            "pageView": 4,
+            "total": 7166
         },
         {
-            "page": "Andrea Longo (sciatore)",
-            "pageView": 2157
+            "page": "Narciso Bronzetti",
+            "pageView": 3,
+            "total": 4451
         },
         {
-            "page": "Federico Gilmozzi",
-            "pageView": 2124
+            "page": "Cristoforo Unterperger",
+            "pageView": 3,
+            "total": 4095
         },
         {
-            "page": "Mattia Pellegrin",
-            "pageView": 2054
+            "page": "Mirko Deflorian",
+            "pageView": 3,
+            "total": 4508
         },
         {
-            "page": "Enrico Chelodi",
-            "pageView": 1936
+            "page": "Stefano Marchetti",
+            "pageView": 3,
+            "total": 4941
         },
         {
-            "page": "Giovanni Marchetti (hockeista su ghiaccio)",
-            "pageView": 1904
+            "page": "Armando Chelodi",
+            "pageView": 2,
+            "total": 3226
         },
         {
             "page": "Maurizio Catenacci",
-            "pageView": 1857
+            "pageView": 2,
+            "total": 1858
+        },
+        {
+            "page": "Gino Pasqualotto",
+            "pageView": 2,
+            "total": 4337
+        },
+        {
+            "page": "Carmine Vani",
+            "pageView": 2,
+            "total": 2191
+        },
+        {
+            "page": "Giuseppe Alberti (pittore)",
+            "pageView": 2,
+            "total": 3882
+        },
+        {
+            "page": "Salvino Chiereghin",
+            "pageView": 2,
+            "total": 2838
+        },
+        {
+            "page": "Carlo Valentino",
+            "pageView": 2,
+            "total": 2978
         },
         {
             "page": "Marco Liberatore",
-            "pageView": 1847
+            "pageView": 2,
+            "total": 1850
         },
         {
-            "page": "Bruno Mendini",
-            "pageView": 1714
+            "page": "Igor Cigolla",
+            "pageView": 2,
+            "total": 2621
         },
         {
-            "page": "Roberto Dellasega",
-            "pageView": 1687
+            "page": "Federico Gilmozzi",
+            "pageView": 2,
+            "total": 2124
         },
         {
-            "page": "Thomas Dantone",
-            "pageView": 1576
+            "page": "Giuseppe Detomas",
+            "pageView": 2,
+            "total": 3651
         },
         {
-            "page": "Tom Milani",
-            "pageView": 1459
+            "page": "Luca Felicetti",
+            "pageView": 2,
+            "total": 2801
         },
         {
-            "page": "Vittorio de Riccabona",
-            "pageView": 1350
+            "page": "Diego Iori",
+            "pageView": 2,
+            "total": 3430
         },
         {
-            "page": "Rudi Locatin",
-            "pageView": 1347
+            "page": "Andrea Longo (sciatore)",
+            "pageView": 2,
+            "total": 2157
         },
         {
-            "page": "Patrick Dell Iannone",
-            "pageView": 1329
+            "page": "Giovanni Marchetti (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 1904
         },
         {
-            "page": "Michele Ciresa",
-            "pageView": 1326
+            "page": "Giorgio De Bettin",
+            "pageView": 2,
+            "total": 2923
         },
         {
-            "page": "Giovanni Battista Holnaider",
-            "pageView": 1243
+            "page": "Mattia Pellegrin",
+            "pageView": 2,
+            "total": 2056
         },
         {
-            "page": "Antonio Grenci",
-            "pageView": 1228
+            "page": "Michael De Angelis",
+            "pageView": 2,
+            "total": 2263
         },
         {
-            "page": "Martina Menegoni",
-            "pageView": 1149
+            "page": "Thomas Commisso",
+            "pageView": 2,
+            "total": 2304
         },
         {
-            "page": "Lisa Morandini",
-            "pageView": 1116
+            "page": "Lidia Trettel",
+            "pageView": 2,
+            "total": 3782
         },
         {
-            "page": "Roberto Ganz (1986)",
-            "pageView": 1104
+            "page": "Michelangelo Unterperger",
+            "pageView": 2,
+            "total": 3141
+        },
+        {
+            "page": "Bice Vanzetta",
+            "pageView": 2,
+            "total": 3528
+        },
+        {
+            "page": "Enrico Chelodi",
+            "pageView": 2,
+            "total": 1938
+        },
+        {
+            "page": "Gaia Vuerich",
+            "pageView": 2,
+            "total": 4294
+        },
+        {
+            "page": "Mirko Felicetti",
+            "pageView": 2,
+            "total": 2736
         },
         {
             "page": "Daniele Delladio",
-            "pageView": 1094
-        },
-        {
-            "page": "Stefano Piva",
-            "pageView": 1035
-        },
-        {
-            "page": "Orazio Giovanelli",
-            "pageView": 949
-        },
-        {
-            "page": "Rick Boh",
-            "pageView": 946
-        },
-        {
-            "page": "Omar Zanon",
-            "pageView": 847
-        },
-        {
-            "page": "Ivan Meneghetti",
-            "pageView": 694
-        },
-        {
-            "page": "Zdeněk Kudrna (hockeista su ghiaccio)",
-            "pageView": 645
+            "pageView": 1,
+            "total": 1094
         },
         {
             "page": "Mario Nobili",
-            "pageView": 628
+            "pageView": 1,
+            "total": 628
         },
         {
-            "page": "Paolo Lasca",
-            "pageView": 598
+            "page": "Orazio Giovanelli",
+            "pageView": 1,
+            "total": 949
         },
         {
-            "page": "Piero Greco",
-            "pageView": 587
+            "page": "Giovanni Battista Holnaider",
+            "pageView": 1,
+            "total": 1243
         },
         {
-            "page": "Luca Mattivi",
-            "pageView": 570
+            "page": "Zdeněk Kudrna (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 645
         },
         {
-            "page": "Tania Detomas",
-            "pageView": 503
+            "page": "Patrick Dell Iannone",
+            "pageView": 1,
+            "total": 1331
+        },
+        {
+            "page": "Bruno Mendini",
+            "pageView": 1,
+            "total": 1714
+        },
+        {
+            "page": "Martina Menegoni",
+            "pageView": 1,
+            "total": 1152
+        },
+        {
+            "page": "Lisa Morandini",
+            "pageView": 1,
+            "total": 1116
+        },
+        {
+            "page": "Stefano Piva",
+            "pageView": 1,
+            "total": 1036
+        },
+        {
+            "page": "Rick Boh",
+            "pageView": 1,
+            "total": 947
+        },
+        {
+            "page": "Ivan Meneghetti",
+            "pageView": 1,
+            "total": 694
+        },
+        {
+            "page": "Antonio Grenci",
+            "pageView": 1,
+            "total": 1230
+        },
+        {
+            "page": "Omar Zanon",
+            "pageView": 1,
+            "total": 847
+        },
+        {
+            "page": "Michele Ciresa",
+            "pageView": 1,
+            "total": 1327
+        },
+        {
+            "page": "Thomas Dantone",
+            "pageView": 1,
+            "total": 1576
+        },
+        {
+            "page": "Vittorio de Riccabona",
+            "pageView": 1,
+            "total": 1351
+        },
+        {
+            "page": "Roberto Ganz (1986)",
+            "pageView": 1,
+            "total": 1104
+        },
+        {
+            "page": "Rudi Locatin",
+            "pageView": 1,
+            "total": 1348
+        },
+        {
+            "page": "Tom Milani",
+            "pageView": 1,
+            "total": 1459
+        },
+        {
+            "page": "Roberto Dellasega",
+            "pageView": 1,
+            "total": 1688
         },
         {
             "page": "Emil Zulian",
-            "pageView": 499
-        },
-        {
-            "page": "Benedetto Riccabona de Reichenfels",
-            "pageView": 497
-        },
-        {
-            "page": "Enrico Nizzi",
-            "pageView": 468
-        },
-        {
-            "page": "Arrigo Delladio",
-            "pageView": 467
-        },
-        {
-            "page": "Alessio Bolognani",
-            "pageView": 288
+            "pageView": 0,
+            "total": 499
         },
         {
             "page": "Paolo Longo (biatleta)",
-            "pageView": 76
+            "pageView": 0,
+            "total": 76
         },
         {
             "page": "Dino Pompanin",
-            "pageView": 64
+            "pageView": 0,
+            "total": 65
+        },
+        {
+            "page": "Tania Detomas",
+            "pageView": 0,
+            "total": 503
+        },
+        {
+            "page": "Piero Greco",
+            "pageView": 0,
+            "total": 587
+        },
+        {
+            "page": "Luca Mattivi",
+            "pageView": 0,
+            "total": 571
+        },
+        {
+            "page": "Enrico Nizzi",
+            "pageView": 0,
+            "total": 468
+        },
+        {
+            "page": "Paolo Lasca",
+            "pageView": 0,
+            "total": 598
+        },
+        {
+            "page": "Arrigo Delladio",
+            "pageView": 0,
+            "total": 467
+        },
+        {
+            "page": "Benedetto Riccabona de Reichenfels",
+            "pageView": 0,
+            "total": 497
+        },
+        {
+            "page": "Alessio Bolognani",
+            "pageView": 0,
+            "total": 290
         }
     ]
 }

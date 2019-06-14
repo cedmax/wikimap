@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Giuseppe Genco Russo",
-            "pageView": 74756
+            "pageView": 44,
+            "total": 74853
         },
         {
             "page": "Salvatore Cardinale",
-            "pageView": 23427
+            "pageView": 13,
+            "total": 23440
         },
         {
             "page": "Santo Sorge",
-            "pageView": 8751
+            "pageView": 6,
+            "total": 8759
         },
         {
             "page": "Paolo Emiliani Giudici",
-            "pageView": 5559
+            "pageView": 4,
+            "total": 5562
         },
         {
             "page": "Enzo Giudici",
-            "pageView": 4433
-        },
-        {
-            "page": "Antonino Mistretta",
-            "pageView": 2947
-        },
-        {
-            "page": "Filippo Misuraca",
-            "pageView": 2831
-        },
-        {
-            "page": "Antonio Lanza (vescovo)",
-            "pageView": 2631
+            "pageView": 3,
+            "total": 4433
         },
         {
             "page": "Salvatore Farina (1959)",
-            "pageView": 2518
-        },
-        {
-            "page": "Domenico Canalella",
-            "pageView": 2358
-        },
-        {
-            "page": "Salvatore Frangiamore",
-            "pageView": 2165
+            "pageView": 2,
+            "total": 2519
         },
         {
             "page": "Vincenzo Sorce Malaspina",
-            "pageView": 2056
+            "pageView": 2,
+            "total": 2057
+        },
+        {
+            "page": "Salvatore Frangiamore",
+            "pageView": 2,
+            "total": 2166
+        },
+        {
+            "page": "Antonio Lanza (vescovo)",
+            "pageView": 2,
+            "total": 2631
+        },
+        {
+            "page": "Antonino Mistretta",
+            "pageView": 2,
+            "total": 2947
+        },
+        {
+            "page": "Filippo Misuraca",
+            "pageView": 2,
+            "total": 2832
+        },
+        {
+            "page": "Domenico Canalella",
+            "pageView": 2,
+            "total": 2360
         },
         {
             "page": "Massimo Taglialavore",
-            "pageView": 1335
+            "pageView": 1,
+            "total": 1337
         }
     ]
 }

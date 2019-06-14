@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Vittorio Munari",
-            "pageView": 52924
+            "pageView": 11,
+            "total": 52931
         },
         {
             "page": "Fabio Ongaro",
-            "pageView": 15997
-        },
-        {
-            "page": "Chester Williams",
-            "pageView": 13250
+            "pageView": 9,
+            "total": 16002
         },
         {
             "page": "Stefano Bettarello",
-            "pageView": 11458
+            "pageView": 6,
+            "total": 11460
+        },
+        {
+            "page": "Chester Williams",
+            "pageView": 6,
+            "total": 13254
         },
         {
             "page": "Craig Green",
-            "pageView": 8855
-        },
-        {
-            "page": "Sara Barattin",
-            "pageView": 6122
-        },
-        {
-            "page": "Alberto Zorzi",
-            "pageView": 5602
-        },
-        {
-            "page": "Piermassimiliano Dotto",
-            "pageView": 5188
-        },
-        {
-            "page": "Zinzan Brooke",
-            "pageView": 4981
-        },
-        {
-            "page": "Cesare De Piccoli",
-            "pageView": 4833
-        },
-        {
-            "page": "Andrea Cavinato",
-            "pageView": 4334
-        },
-        {
-            "page": "Luca Sperandio",
-            "pageView": 3895
-        },
-        {
-            "page": "Andrea Sgorlon",
-            "pageView": 3882
+            "pageView": 5,
+            "total": 8857
         },
         {
             "page": "Giuliano Vincenzi",
-            "pageView": 3778
+            "pageView": 3,
+            "total": 3781
         },
         {
-            "page": "Eugenio Eugenio",
-            "pageView": 3290
+            "page": "Sara Barattin",
+            "pageView": 3,
+            "total": 6126
         },
         {
-            "page": "Michela Tondinelli",
-            "pageView": 2986
+            "page": "Luca Sperandio",
+            "pageView": 3,
+            "total": 3898
+        },
+        {
+            "page": "Zinzan Brooke",
+            "pageView": 3,
+            "total": 4983
+        },
+        {
+            "page": "Andrea Cavinato",
+            "pageView": 3,
+            "total": 4336
+        },
+        {
+            "page": "Piermassimiliano Dotto",
+            "pageView": 3,
+            "total": 5191
+        },
+        {
+            "page": "Cesare De Piccoli",
+            "pageView": 3,
+            "total": 4838
+        },
+        {
+            "page": "Alberto Zorzi",
+            "pageView": 3,
+            "total": 5604
+        },
+        {
+            "page": "Andrea Sgorlon",
+            "pageView": 2,
+            "total": 3884
         },
         {
             "page": "Angelo Tonolo",
-            "pageView": 2546
-        },
-        {
-            "page": "Mario Pavin",
-            "pageView": 2446
-        },
-        {
-            "page": "Vittorino Mantovani",
-            "pageView": 2325
+            "pageView": 2,
+            "total": 2547
         },
         {
             "page": "Mauro Dal Sie",
-            "pageView": 2076
+            "pageView": 2,
+            "total": 2077
         },
         {
-            "page": "Antonio Costantini (politico)",
-            "pageView": 1491
+            "page": "Mario Pavin",
+            "pageView": 2,
+            "total": 2446
+        },
+        {
+            "page": "Eugenio Eugenio",
+            "pageView": 2,
+            "total": 3290
+        },
+        {
+            "page": "Vittorino Mantovani",
+            "pageView": 2,
+            "total": 2327
+        },
+        {
+            "page": "Michela Tondinelli",
+            "pageView": 2,
+            "total": 2986
         },
         {
             "page": "Brendon Nasser",
-            "pageView": 923
+            "pageView": 1,
+            "total": 924
+        },
+        {
+            "page": "Antonio Costantini (politico)",
+            "pageView": 1,
+            "total": 1491
         }
     ]
 }

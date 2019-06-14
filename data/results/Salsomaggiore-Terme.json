@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Giorgio Almirante",
-            "pageView": 749266
+            "pageView": 301,
+            "total": 749949
         },
         {
             "page": "Nicola Berti",
-            "pageView": 277329
+            "pageView": 113,
+            "total": 277403
         },
         {
             "page": "Gian Domenico Romagnosi",
-            "pageView": 33918
+            "pageView": 23,
+            "total": 33944
         },
         {
             "page": "Ade Capone",
-            "pageView": 29979
-        },
-        {
-            "page": "Gianni Macchia",
-            "pageView": 26059
+            "pageView": 17,
+            "total": 29995
         },
         {
             "page": "Riccardo Barilla",
-            "pageView": 20349
+            "pageView": 13,
+            "total": 20359
+        },
+        {
+            "page": "Gianni Macchia",
+            "pageView": 13,
+            "total": 26068
         },
         {
             "page": "Gustavo Boldrini",
-            "pageView": 8553
-        },
-        {
-            "page": "Luigi Bazzoni",
-            "pageView": 7888
+            "pageView": 6,
+            "total": 8554
         },
         {
             "page": "Benigno De Grandi",
-            "pageView": 7616
+            "pageView": 5,
+            "total": 7621
+        },
+        {
+            "page": "Luigi Bazzoni",
+            "pageView": 5,
+            "total": 7890
         },
         {
             "page": "Ottorino Davighi",
-            "pageView": 7111
-        },
-        {
-            "page": "Vittorio Giacci",
-            "pageView": 5460
-        },
-        {
-            "page": "Andrea Villani",
-            "pageView": 5093
-        },
-        {
-            "page": "Camillo Bazzoni",
-            "pageView": 4816
+            "pageView": 4,
+            "total": 7116
         },
         {
             "page": "Corrado Corradi",
-            "pageView": 4538
+            "pageView": 3,
+            "total": 4542
+        },
+        {
+            "page": "Andrea Villani",
+            "pageView": 3,
+            "total": 5095
+        },
+        {
+            "page": "Camillo Bazzoni",
+            "pageView": 3,
+            "total": 4822
+        },
+        {
+            "page": "Vittorio Giacci",
+            "pageView": 3,
+            "total": 5462
         },
         {
             "page": "Eva Tetrazzini",
-            "pageView": 3988
-        },
-        {
-            "page": "Cristoforo Marzaroli",
-            "pageView": 2597
-        },
-        {
-            "page": "Bianca Orsi",
-            "pageView": 2421
-        },
-        {
-            "page": "Italo Toscani",
-            "pageView": 2120
-        },
-        {
-            "page": "Algiso Toscani",
-            "pageView": 2105
+            "pageView": 3,
+            "total": 3989
         },
         {
             "page": "Alberto Bazzoni",
-            "pageView": 2097
+            "pageView": 2,
+            "total": 2098
         },
         {
-            "page": "Nino Sozzani",
-            "pageView": 459
+            "page": "Bianca Orsi",
+            "pageView": 2,
+            "total": 2421
+        },
+        {
+            "page": "Algiso Toscani",
+            "pageView": 2,
+            "total": 2107
+        },
+        {
+            "page": "Italo Toscani",
+            "pageView": 2,
+            "total": 2121
+        },
+        {
+            "page": "Cristoforo Marzaroli",
+            "pageView": 2,
+            "total": 2599
         },
         {
             "page": "Anna Mainardi Fava",
-            "pageView": 104
+            "pageView": 0,
+            "total": 104
+        },
+        {
+            "page": "Nino Sozzani",
+            "pageView": 0,
+            "total": 460
         }
     ]
 }

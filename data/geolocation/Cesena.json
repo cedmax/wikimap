@@ -1,0 +1,27 @@
+{
+    "id": "place.15725553529932910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesena",
+    "place_name": "Cesena, Forli'-Cesena, Italy",
+    "bbox": [
+        12.094539,
+        44.020457,
+        12.362716,
+        44.233073
+    ],
+    "center": [
+        12.23333,
+        44.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23333,
+            44.13333
+        ]
+    }
+}

@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Fratelli Calvi",
-            "pageView": 17051
-        },
-        {
-            "page": "Alessandro Carmelo Ruffinoni",
-            "pageView": 1717
+            "pageView": 11,
+            "total": 17085
         },
         {
             "page": "Eugenio Goglio",
-            "pageView": 1106
+            "pageView": 2,
+            "total": 1108
+        },
+        {
+            "page": "Alessandro Carmelo Ruffinoni",
+            "pageView": 1,
+            "total": 1718
         }
     ]
 }

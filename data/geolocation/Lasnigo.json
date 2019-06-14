@@ -1,0 +1,27 @@
+{
+    "id": "place.13546320026513110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lasnigo",
+    "place_name": "Lasnigo, Como, Italy",
+    "bbox": [
+        9.248229,
+        45.874127,
+        9.287233,
+        45.899
+    ],
+    "center": [
+        9.26667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.88333
+        ]
+    }
+}

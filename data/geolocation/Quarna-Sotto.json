@@ -1,0 +1,27 @@
+{
+    "id": "place.16650163440652590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quarna Sotto",
+    "place_name": "Quarna Sotto, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.293922,
+        45.858348,
+        8.372579,
+        45.905092
+    ],
+    "center": [
+        8.35,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.35,
+            45.86667
+        ]
+    }
+}

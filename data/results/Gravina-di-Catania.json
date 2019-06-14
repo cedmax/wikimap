@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Patrizia Caccamo",
-            "pageView": 9511
-        },
-        {
-            "page": "Mimma Fazio",
-            "pageView": 6492
+            "pageView": 5,
+            "total": 9518
         },
         {
             "page": "Fabiana Colasuonno",
-            "pageView": 3101
+            "pageView": 2,
+            "total": 3105
+        },
+        {
+            "page": "Mimma Fazio",
+            "pageView": 2,
+            "total": 6492
         },
         {
             "page": "Tiziana Messina",
-            "pageView": 2032
+            "pageView": 2,
+            "total": 2034
         },
         {
             "page": "Annamaria Ancora",
-            "pageView": 1710
-        },
-        {
-            "page": "Agostino Giuffrida",
-            "pageView": 1584
-        },
-        {
-            "page": "Sabrina Ciaffaglione",
-            "pageView": 1387
-        },
-        {
-            "page": "Daniela Pavone",
-            "pageView": 1363
+            "pageView": 1,
+            "total": 1711
         },
         {
             "page": "Valeria Campagna",
-            "pageView": 1329
-        },
-        {
-            "page": "Assunta Randello",
-            "pageView": 1302
+            "pageView": 1,
+            "total": 1333
         },
         {
             "page": "Giuseppa Finocchiaro",
-            "pageView": 1300
+            "pageView": 1,
+            "total": 1300
         },
         {
-            "page": "Stefania Guglielmino",
-            "pageView": 1248
+            "page": "Sabrina Ciaffaglione",
+            "pageView": 1,
+            "total": 1387
+        },
+        {
+            "page": "Agostino Giuffrida",
+            "pageView": 1,
+            "total": 1584
+        },
+        {
+            "page": "Daniela Pavone",
+            "pageView": 1,
+            "total": 1365
+        },
+        {
+            "page": "Assunta Randello",
+            "pageView": 1,
+            "total": 1303
         },
         {
             "page": "Susy Siano",
-            "pageView": 1229
+            "pageView": 1,
+            "total": 1229
         },
         {
             "page": "Francesca Tosto",
-            "pageView": 1215
+            "pageView": 1,
+            "total": 1216
+        },
+        {
+            "page": "Stefania Guglielmino",
+            "pageView": 1,
+            "total": 1249
         }
     ]
 }

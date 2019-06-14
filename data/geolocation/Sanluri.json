@@ -1,0 +1,27 @@
+{
+    "id": "place.5863090018435700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sanluri",
+    "place_name": "Sanluri, Medio Campidano, Italy",
+    "bbox": [
+        8.815043,
+        39.478869,
+        8.943587,
+        39.611149
+    ],
+    "center": [
+        8.9,
+        39.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            39.56667
+        ]
+    }
+}

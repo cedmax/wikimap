@@ -1,0 +1,27 @@
+{
+    "id": "place.2705820689473660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mantova",
+    "place_name": "Mantova, Mantova, Italy",
+    "bbox": [
+        10.722832,
+        45.102037,
+        10.904226,
+        45.18654
+    ],
+    "center": [
+        10.79111,
+        45.15639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.79111,
+            45.15639
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14300494369891980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acri",
+    "place_name": "Acri, Cosenza, Italy",
+    "bbox": [
+        16.288742,
+        39.414739,
+        16.54262,
+        39.579631
+    ],
+    "center": [
+        16.38333,
+        39.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.38333,
+            39.5
+        ]
+    }
+}

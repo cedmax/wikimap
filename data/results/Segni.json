@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Papa Benedetto XVI",
-            "pageView": 1318476
+            "pageView": 751,
+            "total": 1319010
         },
         {
             "page": "Alessandro Farnese il Giovane",
-            "pageView": 39379
+            "pageView": 26,
+            "total": 39402
         },
         {
             "page": "Papa Vitaliano",
-            "pageView": 24408
+            "pageView": 14,
+            "total": 24423
         },
         {
             "page": "Pericle Felici",
-            "pageView": 20921
+            "pageView": 13,
+            "total": 20927
         },
         {
             "page": "Giovanni Gerolamo Morone",
-            "pageView": 13743
+            "pageView": 9,
+            "total": 13758
         },
         {
             "page": "Guillaume d'Estouteville",
-            "pageView": 12647
+            "pageView": 8,
+            "total": 12649
         },
         {
             "page": "Vincenzo Apicella",
-            "pageView": 9653
-        },
-        {
-            "page": "Bruno di Segni",
-            "pageView": 8842
-        },
-        {
-            "page": "Vincenzo Fagiolo",
-            "pageView": 8704
-        },
-        {
-            "page": "Giuseppe Vari",
-            "pageView": 8116
-        },
-        {
-            "page": "Francesco Pisani",
-            "pageView": 7495
-        },
-        {
-            "page": "Lorenzo Loppa",
-            "pageView": 7464
+            "pageView": 6,
+            "total": 9655
         },
         {
             "page": "Luigi Vari",
-            "pageView": 6928
+            "pageView": 5,
+            "total": 6930
         },
         {
-            "page": "Andrea Maria Erba",
-            "pageView": 6420
+            "page": "Giuseppe Vari",
+            "pageView": 5,
+            "total": 8121
         },
         {
-            "page": "Bernardino López de Carvajal",
-            "pageView": 5476
+            "page": "Vincenzo Fagiolo",
+            "pageView": 5,
+            "total": 8704
         },
         {
-            "page": "Angelo Felici",
-            "pageView": 5093
+            "page": "Francesco Pisani",
+            "pageView": 4,
+            "total": 7497
+        },
+        {
+            "page": "Lorenzo Loppa",
+            "pageView": 4,
+            "total": 7466
+        },
+        {
+            "page": "Bruno di Segni",
+            "pageView": 4,
+            "total": 8847
         },
         {
             "page": "Antonio Fiore",
-            "pageView": 4917
+            "pageView": 3,
+            "total": 4917
         },
         {
-            "page": "Martino Gomiero",
-            "pageView": 4727
+            "page": "Angelo Felici",
+            "pageView": 3,
+            "total": 5101
         },
         {
-            "page": "Luigi Oreglia di Santo Stefano",
-            "pageView": 4558
+            "page": "Andrea Maria Erba",
+            "pageView": 3,
+            "total": 6420
         },
         {
             "page": "Giovanni Piccolomini",
-            "pageView": 4349
+            "pageView": 3,
+            "total": 4350
         },
         {
-            "page": "Philippe d'Alençon",
-            "pageView": 3863
+            "page": "Luigi Oreglia di Santo Stefano",
+            "pageView": 3,
+            "total": 4559
         },
         {
-            "page": "François de Joyeuse",
-            "pageView": 3190
+            "page": "Bernardino López de Carvajal",
+            "pageView": 3,
+            "total": 5477
         },
         {
-            "page": "Giorgio Fieschi",
-            "pageView": 3045
-        },
-        {
-            "page": "Jean Allarmet de Brogny",
-            "pageView": 2847
-        },
-        {
-            "page": "Leonardo Patrasso",
-            "pageView": 2824
-        },
-        {
-            "page": "Tito Centi",
-            "pageView": 2784
-        },
-        {
-            "page": "François II de Tournon",
-            "pageView": 2755
+            "page": "Martino Gomiero",
+            "pageView": 3,
+            "total": 4727
         },
         {
             "page": "Reginaldo Santilli",
-            "pageView": 2287
+            "pageView": 2,
+            "total": 2287
         },
         {
-            "page": "Andouin Aubert",
-            "pageView": 1663
+            "page": "François II de Tournon",
+            "pageView": 2,
+            "total": 2756
         },
         {
-            "page": "Ettore Felici",
-            "pageView": 1650
+            "page": "Philippe d'Alençon",
+            "pageView": 2,
+            "total": 3863
         },
         {
-            "page": "Sasso dei conti di Segni",
-            "pageView": 961
+            "page": "Tito Centi",
+            "pageView": 2,
+            "total": 2784
+        },
+        {
+            "page": "Giorgio Fieschi",
+            "pageView": 2,
+            "total": 3046
+        },
+        {
+            "page": "François de Joyeuse",
+            "pageView": 2,
+            "total": 3191
+        },
+        {
+            "page": "Jean Allarmet de Brogny",
+            "pageView": 2,
+            "total": 2849
         },
         {
             "page": "Carlo Felici",
-            "pageView": 936
+            "pageView": 2,
+            "total": 938
+        },
+        {
+            "page": "Leonardo Patrasso",
+            "pageView": 2,
+            "total": 2824
+        },
+        {
+            "page": "Ettore Felici",
+            "pageView": 1,
+            "total": 1651
+        },
+        {
+            "page": "Sasso dei conti di Segni",
+            "pageView": 1,
+            "total": 962
+        },
+        {
+            "page": "Andouin Aubert",
+            "pageView": 1,
+            "total": 1663
         }
     ]
 }

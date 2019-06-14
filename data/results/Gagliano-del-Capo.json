@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Massimo Colaci",
-            "pageView": 163041
+            "pageView": 27,
+            "total": 163084
         },
         {
             "page": "Serena Licchetta",
-            "pageView": 14057
-        },
-        {
-            "page": "Vincenzo Ciardo",
-            "pageView": 4956
+            "pageView": 7,
+            "total": 14060
         },
         {
             "page": "Marco Piscopo",
-            "pageView": 3567
+            "pageView": 4,
+            "total": 3572
+        },
+        {
+            "page": "Vincenzo Ciardo",
+            "pageView": 3,
+            "total": 4960
         },
         {
             "page": "Ugo di Brienne",
-            "pageView": 3315
-        },
-        {
-            "page": "Fabio Piscopiello",
-            "pageView": 1877
-        },
-        {
-            "page": "Francesco Saverio Mercaldi",
-            "pageView": 1498
+            "pageView": 2,
+            "total": 3319
         },
         {
             "page": "Antonio Daniele",
-            "pageView": 1214
+            "pageView": 2,
+            "total": 1215
+        },
+        {
+            "page": "Fabio Piscopiello",
+            "pageView": 2,
+            "total": 1877
+        },
+        {
+            "page": "Francesco Saverio Mercaldi",
+            "pageView": 1,
+            "total": 1499
         }
     ]
 }

@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Pia de' Tolomei",
-            "pageView": 183568
+            "pageView": 102,
+            "total": 183633
         },
         {
             "page": "Randolfo Pacciardi",
-            "pageView": 52218
+            "pageView": 30,
+            "total": 52254
         },
         {
             "page": "Giuseppe Bandi",
-            "pageView": 11039
+            "pageView": 7,
+            "total": 11040
         },
         {
             "page": "Nello dei Pannocchieschi",
-            "pageView": 6041
-        },
-        {
-            "page": "Ottorino Luschi",
-            "pageView": 3264
+            "pageView": 4,
+            "total": 6044
         },
         {
             "page": "Dante Bertelli",
-            "pageView": 2116
-        },
-        {
-            "page": "Vieri Luschi",
-            "pageView": 1723
+            "pageView": 2,
+            "total": 2120
         },
         {
             "page": "Giovanni Battista Finetti",
-            "pageView": 1102
+            "pageView": 2,
+            "total": 1106
+        },
+        {
+            "page": "Ottorino Luschi",
+            "pageView": 2,
+            "total": 3268
+        },
+        {
+            "page": "Vieri Luschi",
+            "pageView": 2,
+            "total": 1725
         },
         {
             "page": "Felice Andreis",
-            "pageView": 613
+            "pageView": 0,
+            "total": 617
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.11357974380762590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monselice",
+    "place_name": "Monselice, Padova, Italy",
+    "bbox": [
+        11.696611,
+        45.187632,
+        11.816967,
+        45.286749
+    ],
+    "center": [
+        11.75,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75,
+            45.23333
+        ]
+    }
+}

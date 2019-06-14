@@ -1,0 +1,27 @@
+{
+    "id": "place.10073920844724640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caprino Bergamasco",
+    "place_name": "Caprino Bergamasco, Bergamo, Italy",
+    "bbox": [
+        9.478899,
+        45.735765,
+        9.521839,
+        45.785079
+    ],
+    "center": [
+        9.48333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.48333,
+            45.75
+        ]
+    }
+}

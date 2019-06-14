@@ -1,0 +1,21 @@
+{
+    "id": "poi.223338300597",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Champorcher",
+    "place_name": "Champorcher, Champorcher, Valle D'Aosta 11020, Italy",
+    "center": [
+        7.607039,
+        45.62206
+    ],
+    "geometry": {
+        "coordinates": [
+            7.607039,
+            45.62206
+        ],
+        "type": "Point"
+    }
+}

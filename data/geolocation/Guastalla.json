@@ -1,0 +1,27 @@
+{
+    "id": "place.7831400282040560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guastalla",
+    "place_name": "Guastalla, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.626444,
+        44.851782,
+        10.751869,
+        44.948501
+    ],
+    "center": [
+        10.65417,
+        44.92139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.65417,
+            44.92139
+        ]
+    }
+}

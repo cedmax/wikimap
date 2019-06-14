@@ -1,0 +1,27 @@
+{
+    "id": "place.15215763698730570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sessa Aurunca",
+    "place_name": "Sessa Aurunca, Caserta, Italy",
+    "bbox": [
+        13.762079,
+        41.140416,
+        13.990078,
+        41.323282
+    ],
+    "center": [
+        13.93333,
+        41.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93333,
+            41.23333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13154290903601140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zoagli",
+    "place_name": "Zoagli, Genova, Italy",
+    "bbox": [
+        9.242548,
+        44.329113,
+        9.288994,
+        44.361791
+    ],
+    "center": [
+        9.26709,
+        44.33697
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26709,
+            44.33697
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11752520214264060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comitini",
+    "place_name": "Comitini, Agrigento, Italy",
+    "bbox": [
+        13.624539,
+        37.366289,
+        13.692985,
+        37.453925
+    ],
+    "center": [
+        13.64389,
+        37.40889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.64389,
+            37.40889
+        ]
+    }
+}

@@ -3,751 +3,938 @@
     "people": [
         {
             "page": "Enrico De Nicola",
-            "pageView": 321707
+            "pageView": 219.5,
+            "total": 322039
         },
         {
             "page": "Felice Evacuo",
-            "pageView": 224943
+            "pageView": 108,
+            "total": 225017
         },
         {
             "page": "Luigi Sepe",
-            "pageView": 208441
-        },
-        {
-            "page": "Massimo Rastelli",
-            "pageView": 193026
+            "pageView": 96,
+            "total": 208526
         },
         {
             "page": "Dario Nardella",
-            "pageView": 187610
+            "pageView": 94,
+            "total": 187770
+        },
+        {
+            "page": "Massimo Rastelli",
+            "pageView": 82,
+            "total": 193103
         },
         {
             "page": "Carmine Gautieri",
-            "pageView": 130455
-        },
-        {
-            "page": "Francesco Vitiello",
-            "pageView": 109501
+            "pageView": 63,
+            "total": 130486
         },
         {
             "page": "Luca Turco",
-            "pageView": 93325
+            "pageView": 55,
+            "total": 93380
         },
         {
             "page": "Mauro Esposito",
-            "pageView": 87854
-        },
-        {
-            "page": "Mario Somma",
-            "pageView": 86777
+            "pageView": 52,
+            "total": 88057
         },
         {
             "page": "Vincenzo Vivarini",
-            "pageView": 75508
+            "pageView": 45,
+            "total": 75550
         },
         {
-            "page": "Ciro Cirillo",
-            "pageView": 73661
+            "page": "Francesco Vitiello",
+            "pageView": 41,
+            "total": 109553
         },
         {
             "page": "Gianluca Grava",
-            "pageView": 67518
+            "pageView": 41,
+            "total": 67545
         },
         {
-            "page": "Giacomo Losi",
-            "pageView": 58600
+            "page": "Ciro Cirillo",
+            "pageView": 36,
+            "total": 73724
         },
         {
-            "page": "Camilla Semino Favro",
-            "pageView": 57451
-        },
-        {
-            "page": "Arturo Scotto",
-            "pageView": 56545
-        },
-        {
-            "page": "Salvatore Campilongo",
-            "pageView": 51146
-        },
-        {
-            "page": "Adolfo Margiotta",
-            "pageView": 50531
+            "page": "Mario Somma",
+            "pageView": 36,
+            "total": 86804
         },
         {
             "page": "Emanuele Belardi",
-            "pageView": 50318
+            "pageView": 32,
+            "total": 50347
         },
         {
-            "page": "Valeria Parrella",
-            "pageView": 46682
+            "page": "Giacomo Losi",
+            "pageView": 32,
+            "total": 58640
         },
         {
-            "page": "Beatrice Dalia",
-            "pageView": 46152
+            "page": "Salvatore Campilongo",
+            "pageView": 30,
+            "total": 51168
         },
         {
             "page": "Adriano Lombardi",
-            "pageView": 45540
-        },
-        {
-            "page": "Angelo D'Angelo",
-            "pageView": 45242
-        },
-        {
-            "page": "Amarildo Tavares da Silveira",
-            "pageView": 44277
+            "pageView": 28,
+            "total": 45553
         },
         {
             "page": "Cané",
-            "pageView": 42599
+            "pageView": 27,
+            "total": 42622
         },
         {
-            "page": "Antonio Soda",
-            "pageView": 42271
+            "page": "Amarildo Tavares da Silveira",
+            "pageView": 27,
+            "total": 44335
+        },
+        {
+            "page": "Arturo Scotto",
+            "pageView": 26,
+            "total": 56570
         },
         {
             "page": "Antonio Carannante",
-            "pageView": 40979
+            "pageView": 26,
+            "total": 41017
         },
         {
-            "page": "Gino D'Acampo",
-            "pageView": 40138
+            "page": "Beatrice Dalia",
+            "pageView": 25,
+            "total": 46171
         },
         {
-            "page": "Salvatore Sullo",
-            "pageView": 39529
+            "page": "Adolfo Margiotta",
+            "pageView": 24,
+            "total": 50561
+        },
+        {
+            "page": "Valeria Parrella",
+            "pageView": 24,
+            "total": 46704
+        },
+        {
+            "page": "Camilla Semino Favro",
+            "pageView": 22,
+            "total": 57524
         },
         {
             "page": "Salvatore Esposito",
-            "pageView": 39188
-        },
-        {
-            "page": "Salvatore Di Somma",
-            "pageView": 36748
+            "pageView": 22,
+            "total": 39204
         },
         {
             "page": "Salvatore Matrecano",
-            "pageView": 33653
+            "pageView": 21,
+            "total": 33667
+        },
+        {
+            "page": "Angelo D'Angelo",
+            "pageView": 20,
+            "total": 45257
+        },
+        {
+            "page": "Salvatore Di Somma",
+            "pageView": 19,
+            "total": 36762
+        },
+        {
+            "page": "Salvatore Sullo",
+            "pageView": 19,
+            "total": 39539
         },
         {
             "page": "Ciro De Cesare",
-            "pageView": 32879
+            "pageView": 19,
+            "total": 32903
         },
         {
-            "page": "Vittorio Nappi",
-            "pageView": 32711
-        },
-        {
-            "page": "Giacomo Modica",
-            "pageView": 28932
-        },
-        {
-            "page": "Agostino Iacobelli",
-            "pageView": 27520
-        },
-        {
-            "page": "Riccardo Fissore",
-            "pageView": 25520
+            "page": "Antonio Soda",
+            "pageView": 18,
+            "total": 42284
         },
         {
             "page": "Nello Di Costanzo",
-            "pageView": 25266
+            "pageView": 15,
+            "total": 25290
         },
         {
             "page": "Corrado Viciani",
-            "pageView": 23854
-        },
-        {
-            "page": "Stefania De Francesco",
-            "pageView": 22831
-        },
-        {
-            "page": "Domenico Giacomarro",
-            "pageView": 22785
+            "pageView": 15,
+            "total": 23862
         },
         {
             "page": "Ruggiero Bonghi",
-            "pageView": 22501
+            "pageView": 15,
+            "total": 22517
         },
         {
-            "page": "Elio Polimeno",
-            "pageView": 19474
+            "page": "Riccardo Fissore",
+            "pageView": 15,
+            "total": 25525
+        },
+        {
+            "page": "Giacomo Modica",
+            "pageView": 14,
+            "total": 28955
+        },
+        {
+            "page": "Vittorio Nappi",
+            "pageView": 14,
+            "total": 32721
+        },
+        {
+            "page": "Stefania De Francesco",
+            "pageView": 13,
+            "total": 22837
         },
         {
             "page": "Francesco Albanese",
-            "pageView": 19343
+            "pageView": 12,
+            "total": 19348
         },
         {
             "page": "Arnaldo Sentimenti",
-            "pageView": 19285
+            "pageView": 12,
+            "total": 19291
         },
         {
-            "page": "Pina Turco",
-            "pageView": 18625
-        },
-        {
-            "page": "Ruggero Cappuccio",
-            "pageView": 17901
-        },
-        {
-            "page": "Naim Krieziu",
-            "pageView": 17559
+            "page": "Domenico Giacomarro",
+            "pageView": 12,
+            "total": 22794
         },
         {
             "page": "Piero Cucchi",
-            "pageView": 17406
+            "pageView": 11,
+            "total": 17413
+        },
+        {
+            "page": "Elio Polimeno",
+            "pageView": 11,
+            "total": 19487
         },
         {
             "page": "Antonio Dell'Oglio",
-            "pageView": 16674
+            "pageView": 10,
+            "total": 16681
         },
         {
-            "page": "Ciro Falanga",
-            "pageView": 16319
+            "page": "Naim Krieziu",
+            "pageView": 10,
+            "total": 17570
+        },
+        {
+            "page": "Agostino Iacobelli",
+            "pageView": 10,
+            "total": 27532
+        },
+        {
+            "page": "Ruggero Cappuccio",
+            "pageView": 10,
+            "total": 17909
         },
         {
             "page": "Giuseppe Greco (calciatore 1958)",
-            "pageView": 16120
-        },
-        {
-            "page": "Stefano Trinchera",
-            "pageView": 15691
+            "pageView": 10,
+            "total": 16129
         },
         {
             "page": "Angelo Mammì",
-            "pageView": 15348
+            "pageView": 10,
+            "total": 15351
         },
         {
             "page": "Alberto Urban",
-            "pageView": 15247
-        },
-        {
-            "page": "Alberto Savino",
-            "pageView": 14520
-        },
-        {
-            "page": "Barbara Gilbo",
-            "pageView": 14281
-        },
-        {
-            "page": "Roberto Amodio",
-            "pageView": 14081
-        },
-        {
-            "page": "Nicola Antonio Zingarelli",
-            "pageView": 13980
+            "pageView": 9,
+            "total": 15259
         },
         {
             "page": "Mario Zurlini",
-            "pageView": 13052
+            "pageView": 9,
+            "total": 13059
         },
         {
-            "page": "Nello Formisano",
-            "pageView": 12549
+            "page": "Roberto Amodio",
+            "pageView": 9,
+            "total": 14087
         },
         {
-            "page": "Domenico Cecere",
-            "pageView": 12522
+            "page": "Alberto Savino",
+            "pageView": 9,
+            "total": 14525
         },
         {
-            "page": "Valeria Pirone",
-            "pageView": 12446
+            "page": "Nicola Antonio Zingarelli",
+            "pageView": 9,
+            "total": 13991
         },
         {
-            "page": "Michele Tarallo",
-            "pageView": 11890
-        },
-        {
-            "page": "Carmelo Miceli",
-            "pageView": 11641
-        },
-        {
-            "page": "Salvatore Commesso",
-            "pageView": 11569
-        },
-        {
-            "page": "Giancarlo Ansaloni",
-            "pageView": 11012
-        },
-        {
-            "page": "Francesco Della Monica",
-            "pageView": 10843
-        },
-        {
-            "page": "Giovanni Battista Angioletti",
-            "pageView": 10767
-        },
-        {
-            "page": "Anna Teresa Eugeni",
-            "pageView": 10457
-        },
-        {
-            "page": "Ernesto Tagliaferri",
-            "pageView": 10438
-        },
-        {
-            "page": "Antonio De Luca",
-            "pageView": 10434
-        },
-        {
-            "page": "Maurizio Bruno",
-            "pageView": 10417
-        },
-        {
-            "page": "Mimmo Liguoro",
-            "pageView": 9886
-        },
-        {
-            "page": "Rosario Biondo",
-            "pageView": 9884
-        },
-        {
-            "page": "Alfonso Greco",
-            "pageView": 9665
-        },
-        {
-            "page": "Fabrizio Fabris",
-            "pageView": 9619
-        },
-        {
-            "page": "Ernesto Apuzzo",
-            "pageView": 9400
-        },
-        {
-            "page": "Nino Longobardi",
-            "pageView": 9335
-        },
-        {
-            "page": "Giuseppe Marino",
-            "pageView": 9199
-        },
-        {
-            "page": "Nello Riviè",
-            "pageView": 9056
-        },
-        {
-            "page": "Vincenzo Romano (santo)",
-            "pageView": 8678
-        },
-        {
-            "page": "Gabriele Geretto",
-            "pageView": 8383
-        },
-        {
-            "page": "Fabio Di Venanzio",
-            "pageView": 8209
-        },
-        {
-            "page": "Andrea Stimpfl",
-            "pageView": 8013
-        },
-        {
-            "page": "Nicola Chiricallo",
-            "pageView": 7920
-        },
-        {
-            "page": "Nicolas De Corsi",
-            "pageView": 7902
-        },
-        {
-            "page": "Bruno Jacoboni",
-            "pageView": 7792
-        },
-        {
-            "page": "Marco Gori (1965)",
-            "pageView": 7686
-        },
-        {
-            "page": "Benigno De Grandi",
-            "pageView": 7616
-        },
-        {
-            "page": "Pietro Zaini",
-            "pageView": 7592
-        },
-        {
-            "page": "Ferdinando Rossi",
-            "pageView": 7504
-        },
-        {
-            "page": "Giuliano Andreuzza",
-            "pageView": 7477
-        },
-        {
-            "page": "Gennaro Borriello",
-            "pageView": 7409
-        },
-        {
-            "page": "Giorgio Lunerti",
-            "pageView": 6979
-        },
-        {
-            "page": "Lorenzo Vaccaro",
-            "pageView": 6807
-        },
-        {
-            "page": "Pieraldo Nemo",
-            "pageView": 6777
-        },
-        {
-            "page": "Biagio Grasso",
-            "pageView": 6736
-        },
-        {
-            "page": "Giuseppe Antonaccio",
-            "pageView": 6695
-        },
-        {
-            "page": "Lucio Caracciolo (1771-1833)",
-            "pageView": 6609
-        },
-        {
-            "page": "Ciro Ascione",
-            "pageView": 6500
-        },
-        {
-            "page": "Vincenzo Ciaravolo",
-            "pageView": 6491
-        },
-        {
-            "page": "Ulderico Sacchella",
-            "pageView": 6477
-        },
-        {
-            "page": "Rita Bottiglieri",
-            "pageView": 6407
-        },
-        {
-            "page": "Dante Fortini",
-            "pageView": 6256
-        },
-        {
-            "page": "Alberto Arbitrio",
-            "pageView": 6224
-        },
-        {
-            "page": "Salvatore Garofalo",
-            "pageView": 6132
-        },
-        {
-            "page": "Gennaro Vitiello",
-            "pageView": 6030
-        },
-        {
-            "page": "Nicola Mariniello",
-            "pageView": 5900
-        },
-        {
-            "page": "Antonio Valese",
-            "pageView": 5889
-        },
-        {
-            "page": "Mario Costa (filosofo)",
-            "pageView": 5788
-        },
-        {
-            "page": "Vincenzo Zazzaro",
-            "pageView": 5777
-        },
-        {
-            "page": "Renato Caocci",
-            "pageView": 5664
-        },
-        {
-            "page": "Davide Campofranco",
-            "pageView": 5593
-        },
-        {
-            "page": "Ciro Borriello",
-            "pageView": 5577
-        },
-        {
-            "page": "Andrea Zanuttig",
-            "pageView": 5561
-        },
-        {
-            "page": "Stefano Vavoli",
-            "pageView": 5353
-        },
-        {
-            "page": "Angelo Deruggiero",
-            "pageView": 5288
-        },
-        {
-            "page": "Crescenzo Mazza",
-            "pageView": 5142
-        },
-        {
-            "page": "Franco Campidonico",
-            "pageView": 5135
-        },
-        {
-            "page": "Michele Pironti",
-            "pageView": 5129
-        },
-        {
-            "page": "Paolo Burali d'Arezzo",
-            "pageView": 5075
-        },
-        {
-            "page": "Marco Salvatore (ricercatore)",
-            "pageView": 4933
-        },
-        {
-            "page": "Antonio Statella di Cassaro",
-            "pageView": 4903
-        },
-        {
-            "page": "Bruno Ranieri",
-            "pageView": 4803
-        },
-        {
-            "page": "Domenico De Nicola",
-            "pageView": 4720
-        },
-        {
-            "page": "Mario Buccilli",
-            "pageView": 4698
-        },
-        {
-            "page": "Gennaro Francione",
-            "pageView": 4684
-        },
-        {
-            "page": "Nunzio Todisco",
-            "pageView": 4607
-        },
-        {
-            "page": "Vincenzo Matrone",
-            "pageView": 4587
-        },
-        {
-            "page": "Egidio Di Costanzo",
-            "pageView": 4580
-        },
-        {
-            "page": "Tiziano Panozzo",
-            "pageView": 4497
-        },
-        {
-            "page": "Giuseppe Palazzese",
-            "pageView": 4412
-        },
-        {
-            "page": "Elio Migliaccio",
-            "pageView": 4333
-        },
-        {
-            "page": "Antonio Borriello",
-            "pageView": 4245
-        },
-        {
-            "page": "Francesco Radio",
-            "pageView": 4089
-        },
-        {
-            "page": "Petar Manola",
-            "pageView": 3965
-        },
-        {
-            "page": "Davide Cangini",
-            "pageView": 3956
-        },
-        {
-            "page": "Mariano Fioravanti",
-            "pageView": 3881
-        },
-        {
-            "page": "Luigi Amicarelli",
-            "pageView": 3874
+            "page": "Barbara Gilbo",
+            "pageView": 8,
+            "total": 14292
         },
         {
             "page": "Antonio Iannone",
-            "pageView": 3822
+            "pageView": 8,
+            "total": 3827
         },
         {
-            "page": "Elio Onorato",
-            "pageView": 3804
+            "page": "Ciro Falanga",
+            "pageView": 8,
+            "total": 16322
         },
         {
-            "page": "Gianni Colombo (calciatore)",
-            "pageView": 3759
+            "page": "Domenico Cecere",
+            "pageView": 8,
+            "total": 12532
+        },
+        {
+            "page": "Stefano Trinchera",
+            "pageView": 8,
+            "total": 15699
+        },
+        {
+            "page": "Carmelo Miceli",
+            "pageView": 8,
+            "total": 11648
+        },
+        {
+            "page": "Nello Formisano",
+            "pageView": 7,
+            "total": 12553
+        },
+        {
+            "page": "Anna Teresa Eugeni",
+            "pageView": 7,
+            "total": 10463
+        },
+        {
+            "page": "Francesco Della Monica",
+            "pageView": 7,
+            "total": 10847
+        },
+        {
+            "page": "Valeria Pirone",
+            "pageView": 7,
+            "total": 12460
+        },
+        {
+            "page": "Ernesto Tagliaferri",
+            "pageView": 7,
+            "total": 10442
+        },
+        {
+            "page": "Michele Tarallo",
+            "pageView": 7,
+            "total": 11893
+        },
+        {
+            "page": "Ciro Borriello",
+            "pageView": 6,
+            "total": 5583
+        },
+        {
+            "page": "Alfonso Greco",
+            "pageView": 6,
+            "total": 9670
+        },
+        {
+            "page": "Ernesto Apuzzo",
+            "pageView": 6,
+            "total": 9404
+        },
+        {
+            "page": "Fabrizio Fabris",
+            "pageView": 6,
+            "total": 9620
+        },
+        {
+            "page": "Maurizio Bruno",
+            "pageView": 6,
+            "total": 10421
+        },
+        {
+            "page": "Rosario Biondo",
+            "pageView": 6,
+            "total": 9893
+        },
+        {
+            "page": "Antonio De Luca",
+            "pageView": 6,
+            "total": 10437
+        },
+        {
+            "page": "Mimmo Liguoro",
+            "pageView": 6,
+            "total": 9894
+        },
+        {
+            "page": "Giuseppe Marino",
+            "pageView": 6,
+            "total": 9206
+        },
+        {
+            "page": "Giovanni Battista Angioletti",
+            "pageView": 6,
+            "total": 10777
+        },
+        {
+            "page": "Salvatore Commesso",
+            "pageView": 6,
+            "total": 11574
+        },
+        {
+            "page": "Nicola Chiricallo",
+            "pageView": 5,
+            "total": 7931
+        },
+        {
+            "page": "Nicolas De Corsi",
+            "pageView": 5,
+            "total": 7905
+        },
+        {
+            "page": "Gennaro Borriello",
+            "pageView": 5,
+            "total": 7411
+        },
+        {
+            "page": "Giancarlo Ansaloni",
+            "pageView": 5,
+            "total": 11014
+        },
+        {
+            "page": "Giuliano Andreuzza",
+            "pageView": 5,
+            "total": 7483
+        },
+        {
+            "page": "Ferdinando Rossi",
+            "pageView": 5,
+            "total": 7506
+        },
+        {
+            "page": "Nello Riviè",
+            "pageView": 5,
+            "total": 9060
+        },
+        {
+            "page": "Fabio Di Venanzio",
+            "pageView": 5,
+            "total": 8225
+        },
+        {
+            "page": "Benigno De Grandi",
+            "pageView": 5,
+            "total": 7621
+        },
+        {
+            "page": "Nino Longobardi",
+            "pageView": 5,
+            "total": 9344
+        },
+        {
+            "page": "Pietro Zaini",
+            "pageView": 5,
+            "total": 7595
+        },
+        {
+            "page": "Gabriele Geretto",
+            "pageView": 5,
+            "total": 8390
+        },
+        {
+            "page": "Andrea Stimpfl",
+            "pageView": 5,
+            "total": 8024
+        },
+        {
+            "page": "Lucio Caracciolo (1771-1833)",
+            "pageView": 4,
+            "total": 6611
+        },
+        {
+            "page": "Lorenzo Vaccaro",
+            "pageView": 4,
+            "total": 6807
+        },
+        {
+            "page": "Marco Gori (1965)",
+            "pageView": 4,
+            "total": 7688
+        },
+        {
+            "page": "Biagio Grasso",
+            "pageView": 4,
+            "total": 6737
+        },
+        {
+            "page": "Giorgio Lunerti",
+            "pageView": 4,
+            "total": 6988
+        },
+        {
+            "page": "Antonio Valese",
+            "pageView": 4,
+            "total": 5893
+        },
+        {
+            "page": "Salvatore Garofalo",
+            "pageView": 4,
+            "total": 6133
+        },
+        {
+            "page": "Bruno Jacoboni",
+            "pageView": 4,
+            "total": 7798
+        },
+        {
+            "page": "Marco Salvatore (ricercatore)",
+            "pageView": 4,
+            "total": 4938
+        },
+        {
+            "page": "Nicola Mariniello",
+            "pageView": 4,
+            "total": 5901
+        },
+        {
+            "page": "Rita Bottiglieri",
+            "pageView": 4,
+            "total": 6408
+        },
+        {
+            "page": "Vincenzo Ciaravolo",
+            "pageView": 4,
+            "total": 6494
+        },
+        {
+            "page": "Giuseppe Antonaccio",
+            "pageView": 4,
+            "total": 6697
+        },
+        {
+            "page": "Pieraldo Nemo",
+            "pageView": 4,
+            "total": 6778
+        },
+        {
+            "page": "Alberto Arbitrio",
+            "pageView": 4,
+            "total": 6227
+        },
+        {
+            "page": "Vincenzo Zazzaro",
+            "pageView": 4,
+            "total": 5781
+        },
+        {
+            "page": "Ciro Ascione",
+            "pageView": 4,
+            "total": 6508
+        },
+        {
+            "page": "Mario Costa (filosofo)",
+            "pageView": 4,
+            "total": 5789
+        },
+        {
+            "page": "Gennaro Vitiello",
+            "pageView": 4,
+            "total": 6031
+        },
+        {
+            "page": "Ulderico Sacchella",
+            "pageView": 4,
+            "total": 6484
+        },
+        {
+            "page": "Dante Fortini",
+            "pageView": 4,
+            "total": 6260
+        },
+        {
+            "page": "Davide Campofranco",
+            "pageView": 4,
+            "total": 5595
+        },
+        {
+            "page": "Renato Caocci",
+            "pageView": 4,
+            "total": 5667
+        },
+        {
+            "page": "Stefano Vavoli",
+            "pageView": 3.5,
+            "total": 5356
+        },
+        {
+            "page": "Nunzio Todisco",
+            "pageView": 3,
+            "total": 4607
+        },
+        {
+            "page": "Antonio Borriello",
+            "pageView": 3,
+            "total": 4245
         },
         {
             "page": "Luis Arcamone",
-            "pageView": 3738
+            "pageView": 3,
+            "total": 3740
         },
         {
-            "page": "Michele Lacava",
-            "pageView": 3696
+            "page": "Vincenzo Matrone",
+            "pageView": 3,
+            "total": 4589
         },
         {
-            "page": "Carlo Damasco",
-            "pageView": 3575
+            "page": "Elio Migliaccio",
+            "pageView": 3,
+            "total": 4337
         },
         {
-            "page": "Giovanni Noto",
-            "pageView": 3549
+            "page": "Crescenzo Mazza",
+            "pageView": 3,
+            "total": 5147
         },
         {
-            "page": "Nicola D'Alessio Monte",
-            "pageView": 3545
+            "page": "Domenico De Nicola",
+            "pageView": 3,
+            "total": 4723
         },
         {
-            "page": "Giovanni Di Cristo",
-            "pageView": 3535
+            "page": "Elio Onorato",
+            "pageView": 3,
+            "total": 3806
         },
         {
-            "page": "Giovanni Brutto",
-            "pageView": 3494
+            "page": "Giuseppe Palazzese",
+            "pageView": 3,
+            "total": 4414
         },
         {
-            "page": "Ruggero Salar",
-            "pageView": 3434
+            "page": "Tiziano Panozzo",
+            "pageView": 3,
+            "total": 4497
+        },
+        {
+            "page": "Antonio Statella di Cassaro",
+            "pageView": 3,
+            "total": 4906
+        },
+        {
+            "page": "Michele Pironti",
+            "pageView": 3,
+            "total": 5132
+        },
+        {
+            "page": "Francesco Radio",
+            "pageView": 3,
+            "total": 4089
+        },
+        {
+            "page": "Bruno Ranieri",
+            "pageView": 3,
+            "total": 4804
+        },
+        {
+            "page": "Luigi Amicarelli",
+            "pageView": 3,
+            "total": 3874
+        },
+        {
+            "page": "Andrea Zanuttig",
+            "pageView": 3,
+            "total": 5564
+        },
+        {
+            "page": "Gennaro Francione",
+            "pageView": 3,
+            "total": 4689
+        },
+        {
+            "page": "Mariano Fioravanti",
+            "pageView": 3,
+            "total": 3883
+        },
+        {
+            "page": "Mario Buccilli",
+            "pageView": 3,
+            "total": 4700
+        },
+        {
+            "page": "Angelo Deruggiero",
+            "pageView": 3,
+            "total": 5290
+        },
+        {
+            "page": "Franco Campidonico",
+            "pageView": 3,
+            "total": 5139
+        },
+        {
+            "page": "Egidio Di Costanzo",
+            "pageView": 3,
+            "total": 4581
+        },
+        {
+            "page": "Paolo Burali d'Arezzo",
+            "pageView": 3,
+            "total": 5076
         },
         {
             "page": "Giuseppe Chiesa",
-            "pageView": 3287
+            "pageView": 2,
+            "total": 3290
         },
         {
-            "page": "Mattias Mainiero",
-            "pageView": 3244
+            "page": "Ruggero Salar",
+            "pageView": 2,
+            "total": 3434
         },
         {
-            "page": "Luigi Sanzone",
-            "pageView": 3214
-        },
-        {
-            "page": "Massimo Gallaccio",
-            "pageView": 3205
-        },
-        {
-            "page": "Federico Capone",
-            "pageView": 3116
-        },
-        {
-            "page": "Salvatore Sorrentino",
-            "pageView": 2979
-        },
-        {
-            "page": "Carlo Parlati",
-            "pageView": 2914
-        },
-        {
-            "page": "Renato Vignolini",
-            "pageView": 2899
-        },
-        {
-            "page": "Rossano Pinti",
-            "pageView": 2821
-        },
-        {
-            "page": "Raffaele Minicucci",
-            "pageView": 2748
-        },
-        {
-            "page": "Giovanni Mazza",
-            "pageView": 2662
-        },
-        {
-            "page": "Domenico Tarsitani",
-            "pageView": 2660
+            "page": "Giovanni Di Cristo",
+            "pageView": 2,
+            "total": 3535
         },
         {
             "page": "Giacomo Busiello",
-            "pageView": 2599
+            "pageView": 2,
+            "total": 2599
         },
         {
-            "page": "Giovanni Simonato",
-            "pageView": 2565
+            "page": "Giovanni Mazza",
+            "pageView": 2,
+            "total": 2662
         },
         {
-            "page": "Silverio Tricoli",
-            "pageView": 2554
-        },
-        {
-            "page": "Aniello Mazza",
-            "pageView": 2514
-        },
-        {
-            "page": "Nadia Simeoli",
-            "pageView": 2437
-        },
-        {
-            "page": "Sergio Morselli",
-            "pageView": 2423
-        },
-        {
-            "page": "Aldo Querci",
-            "pageView": 2398
-        },
-        {
-            "page": "Emmanuele Melisurgo",
-            "pageView": 2186
-        },
-        {
-            "page": "Augusto Capolino",
-            "pageView": 2182
-        },
-        {
-            "page": "Raul Brancaccio",
-            "pageView": 2030
-        },
-        {
-            "page": "Hamed Diallo",
-            "pageView": 1964
+            "page": "Luigi Sanzone",
+            "pageView": 2,
+            "total": 3220
         },
         {
             "page": "Silvano Pipan",
-            "pageView": 1913
+            "pageView": 2,
+            "total": 1913
+        },
+        {
+            "page": "Rossano Pinti",
+            "pageView": 2,
+            "total": 2821
+        },
+        {
+            "page": "Petar Manola",
+            "pageView": 2,
+            "total": 3968
         },
         {
             "page": "Luigi Marino (politico 1938)",
-            "pageView": 1813
+            "pageView": 2,
+            "total": 1814
+        },
+        {
+            "page": "Federico Capone",
+            "pageView": 2,
+            "total": 3117
+        },
+        {
+            "page": "Massimo Gallaccio",
+            "pageView": 2,
+            "total": 3207
+        },
+        {
+            "page": "Carlo Damasco",
+            "pageView": 2,
+            "total": 3576
+        },
+        {
+            "page": "Raffaele Minicucci",
+            "pageView": 2,
+            "total": 2751
+        },
+        {
+            "page": "Nicola D'Alessio Monte",
+            "pageView": 2,
+            "total": 3547
+        },
+        {
+            "page": "Hamed Diallo",
+            "pageView": 2,
+            "total": 1966
+        },
+        {
+            "page": "Giovanni Noto",
+            "pageView": 2,
+            "total": 3552
+        },
+        {
+            "page": "Michele Lacava",
+            "pageView": 2,
+            "total": 3697
+        },
+        {
+            "page": "Aniello Mazza",
+            "pageView": 2,
+            "total": 2514
+        },
+        {
+            "page": "Emmanuele Melisurgo",
+            "pageView": 2,
+            "total": 2187
+        },
+        {
+            "page": "Aldo Querci",
+            "pageView": 2,
+            "total": 2400
+        },
+        {
+            "page": "Carlo Parlati",
+            "pageView": 2,
+            "total": 2914
+        },
+        {
+            "page": "Gianni Colombo (calciatore)",
+            "pageView": 2,
+            "total": 3763
+        },
+        {
+            "page": "Nadia Simeoli",
+            "pageView": 2,
+            "total": 2440
+        },
+        {
+            "page": "Giovanni Simonato",
+            "pageView": 2,
+            "total": 2567
+        },
+        {
+            "page": "Augusto Capolino",
+            "pageView": 2,
+            "total": 2182
+        },
+        {
+            "page": "Domenico Tarsitani",
+            "pageView": 2,
+            "total": 2661
+        },
+        {
+            "page": "Davide Cangini",
+            "pageView": 2,
+            "total": 3959
+        },
+        {
+            "page": "Giovanni Brutto",
+            "pageView": 2,
+            "total": 3497
+        },
+        {
+            "page": "Sergio Morselli",
+            "pageView": 2,
+            "total": 2425
         },
         {
             "page": "Eduardo Angel Barbero",
-            "pageView": 1776
+            "pageView": 2,
+            "total": 1781
         },
         {
-            "page": "Pasquale Cecchi",
-            "pageView": 1612
+            "page": "Salvatore Sorrentino",
+            "pageView": 2,
+            "total": 2981
+        },
+        {
+            "page": "Renato Vignolini",
+            "pageView": 2,
+            "total": 2901
+        },
+        {
+            "page": "Silverio Tricoli",
+            "pageView": 2,
+            "total": 2556
+        },
+        {
+            "page": "Mattias Mainiero",
+            "pageView": 2,
+            "total": 3246
         },
         {
             "page": "Enrico Di Brocchetti",
-            "pageView": 1501
+            "pageView": 1,
+            "total": 1501
         },
         {
             "page": "Luigi Visintainer",
-            "pageView": 1389
+            "pageView": 1,
+            "total": 1389
         },
         {
             "page": "Agostino Scaglioni",
-            "pageView": 1296
+            "pageView": 1,
+            "total": 1296
         },
         {
             "page": "Ugo Scaramella",
-            "pageView": 912
+            "pageView": 1,
+            "total": 913
+        },
+        {
+            "page": "Pasquale Cecchi",
+            "pageView": 1,
+            "total": 1612
         },
         {
             "page": "Giuseppe Beneduce",
-            "pageView": 804
+            "pageView": 1,
+            "total": 804
         },
         {
             "page": "Armando Pica",
-            "pageView": 421
+            "pageView": 0,
+            "total": 421
         },
         {
-            "page": "Antonietta Formisano",
-            "pageView": 183
-        },
-        {
-            "page": "Giuseppe Colantuono",
-            "pageView": 114
+            "page": "Gino D'Acampo",
+            "pageView": 0,
+            "total": 40213
         },
         {
             "page": "Germano Fragliasso",
-            "pageView": 104
+            "pageView": 0,
+            "total": 105
+        },
+        {
+            "page": "Giuseppe Colantuono",
+            "pageView": 0,
+            "total": 114
+        },
+        {
+            "page": "Antonietta Formisano",
+            "pageView": 0,
+            "total": 187
+        },
+        {
+            "page": "Vincenzo Romano (santo)",
+            "pageView": 0,
+            "total": 8686
+        },
+        {
+            "page": "Raul Brancaccio",
+            "pageView": 0,
+            "total": 2033
+        },
+        {
+            "page": "Pina Turco",
+            "pageView": 0,
+            "total": 18654
         }
     ]
 }

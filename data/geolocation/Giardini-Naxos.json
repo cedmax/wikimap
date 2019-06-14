@@ -1,0 +1,27 @@
+{
+    "id": "place.12674352567618720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giardini-Naxos",
+    "place_name": "Giardini-Naxos, Messina, Italy",
+    "bbox": [
+        15.245553,
+        37.806569,
+        15.281191,
+        37.845998
+    ],
+    "center": [
+        15.26667,
+        37.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            37.83333
+        ]
+    }
+}

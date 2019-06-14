@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Piercamillo Davigo",
-            "pageView": 269202
+            "pageView": 93,
+            "total": 269467
         },
         {
             "page": "Giovanni Reale",
-            "pageView": 58733
+            "pageView": 39,
+            "total": 58760
         },
         {
             "page": "Carlo Rampini",
-            "pageView": 9214
+            "pageView": 6,
+            "total": 9215
         },
         {
             "page": "Angelo Mauri",
-            "pageView": 4385
+            "pageView": 3,
+            "total": 4390
         },
         {
             "page": "Roberto Marchetti",
-            "pageView": 3075
-        },
-        {
-            "page": "Felice Truffa",
-            "pageView": 617
+            "pageView": 2,
+            "total": 3076
         },
         {
             "page": "Iacopo da Candia",
-            "pageView": 229
+            "pageView": 0,
+            "total": 229
+        },
+        {
+            "page": "Felice Truffa",
+            "pageView": 0,
+            "total": 617
         }
     ]
 }

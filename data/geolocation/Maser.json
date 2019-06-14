@@ -1,0 +1,27 @@
+{
+    "id": "place.2757099417277010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maser",
+    "place_name": "Maser, Treviso, Italy",
+    "bbox": [
+        11.925647,
+        45.764592,
+        12.001923,
+        45.834825
+    ],
+    "center": [
+        11.98333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98333,
+            45.81667
+        ]
+    }
+}

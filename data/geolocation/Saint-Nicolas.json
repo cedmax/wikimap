@@ -1,0 +1,27 @@
+{
+    "id": "place.4770062544459470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Saint-Nicolas",
+    "place_name": "Saint-Nicolas, Valle D'Aosta, Italy",
+    "bbox": [
+        7.127306,
+        45.706629,
+        7.20394,
+        45.755916
+    ],
+    "center": [
+        7.16667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.16667,
+            45.71667
+        ]
+    }
+}

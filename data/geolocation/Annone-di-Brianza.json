@@ -1,0 +1,27 @@
+{
+    "id": "place.4452771445057410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Annone di Brianza",
+    "place_name": "Annone di Brianza, Lecco, Italy",
+    "bbox": [
+        9.309434,
+        45.789452,
+        9.35092,
+        45.81993
+    ],
+    "center": [
+        9.33167,
+        45.80389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33167,
+            45.80389
+        ]
+    }
+}

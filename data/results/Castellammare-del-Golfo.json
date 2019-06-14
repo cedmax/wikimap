@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Piersanti Mattarella",
-            "pageView": 653484
+            "pageView": 207,
+            "total": 653815
         },
         {
             "page": "Bernardo Mattarella",
-            "pageView": 242371
+            "pageView": 113,
+            "total": 242723
         },
         {
             "page": "Salvatore Maranzano",
-            "pageView": 119914
+            "pageView": 74,
+            "total": 120092
         },
         {
             "page": "Joseph Bonanno",
-            "pageView": 84910
-        },
-        {
-            "page": "Frank Garofalo",
-            "pageView": 17528
+            "pageView": 53,
+            "total": 84965
         },
         {
             "page": "Salvatore Minore",
-            "pageView": 16735
+            "pageView": 11,
+            "total": 16743
+        },
+        {
+            "page": "Frank Garofalo",
+            "pageView": 11,
+            "total": 17539
         },
         {
             "page": "Stefano Magaddino",
-            "pageView": 14812
-        },
-        {
-            "page": "Mariano Asaro",
-            "pageView": 10812
+            "pageView": 10,
+            "total": 14830
         },
         {
             "page": "John Bonventre",
-            "pageView": 10684
+            "pageView": 7,
+            "total": 10689
+        },
+        {
+            "page": "Mariano Asaro",
+            "pageView": 7,
+            "total": 10817
         },
         {
             "page": "Vito Bonventre",
-            "pageView": 10646
+            "pageView": 7,
+            "total": 10651
         },
         {
             "page": "John Tartamella",
-            "pageView": 9957
-        },
-        {
-            "page": "Emanuele Di Gregorio",
-            "pageView": 8727
+            "pageView": 6,
+            "total": 9962
         },
         {
             "page": "Salvatore Sabella",
-            "pageView": 7081
+            "pageView": 5,
+            "total": 7084
+        },
+        {
+            "page": "Emanuele Di Gregorio",
+            "pageView": 4,
+            "total": 8728
         },
         {
             "page": "Enzo Di Pasquale",
-            "pageView": 4724
+            "pageView": 3,
+            "total": 4724
         },
         {
             "page": "Paolo Ficalora",
-            "pageView": 4413
-        },
-        {
-            "page": "Pasquale Calvi",
-            "pageView": 3455
+            "pageView": 3,
+            "total": 4413
         },
         {
             "page": "Franco Navarra",
-            "pageView": 2532
+            "pageView": 3,
+            "total": 2535
+        },
+        {
+            "page": "Pasquale Calvi",
+            "pageView": 2,
+            "total": 3459
         },
         {
             "page": "Anton Guadagno",
-            "pageView": 2410
+            "pageView": 2,
+            "total": 2412
         },
         {
             "page": "Francesco Safina",
-            "pageView": 2187
+            "pageView": 2,
+            "total": 2187
         },
         {
             "page": "Giacomo Fundarò",
-            "pageView": 1902
+            "pageView": 2,
+            "total": 1906
         },
         {
             "page": "Joseph Barbara",
-            "pageView": 1392
+            "pageView": 0,
+            "total": 1396
         }
     ]
 }

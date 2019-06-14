@@ -1,0 +1,27 @@
+{
+    "id": "place.8924546609305380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gropello Cairoli",
+    "place_name": "Gropello Cairoli, Pavia, Italy",
+    "bbox": [
+        8.951368,
+        45.140911,
+        9.037877,
+        45.205698
+    ],
+    "center": [
+        9,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            45.18333
+        ]
+    }
+}

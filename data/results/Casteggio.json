@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Umberto Meazza",
-            "pageView": 16330
+            "pageView": 9,
+            "total": 16338
         },
         {
             "page": "Giorgio Pallavicino Trivulzio",
-            "pageView": 8935
+            "pageView": 5,
+            "total": 8937
         },
         {
             "page": "Mario Baratta",
-            "pageView": 6299
-        },
-        {
-            "page": "Giuseppe Maria Giulietti",
-            "pageView": 5834
-        },
-        {
-            "page": "Luigi Coralli",
-            "pageView": 5663
-        },
-        {
-            "page": "Alessandro Della Seta",
-            "pageView": 5648
-        },
-        {
-            "page": "Felice Casorati (matematico)",
-            "pageView": 5056
+            "pageView": 4,
+            "total": 6301
         },
         {
             "page": "Franco Anselmi (partigiano)",
-            "pageView": 4326
+            "pageView": 3,
+            "total": 4331
+        },
+        {
+            "page": "Felice Casorati (matematico)",
+            "pageView": 3,
+            "total": 5057
+        },
+        {
+            "page": "Alessandro Della Seta",
+            "pageView": 3,
+            "total": 5665
+        },
+        {
+            "page": "Giuseppe Maria Giulietti",
+            "pageView": 3,
+            "total": 5838
         },
         {
             "page": "Viridomaro dei Gesati",
-            "pageView": 4146
+            "pageView": 3,
+            "total": 4147
+        },
+        {
+            "page": "Luigi Coralli",
+            "pageView": 3,
+            "total": 5664
         },
         {
             "page": "Alba Coralli",
-            "pageView": 2579
+            "pageView": 2,
+            "total": 2581
         },
         {
             "page": "Mario Campagnoli",
-            "pageView": 2323
+            "pageView": 2,
+            "total": 2325
         },
         {
             "page": "Felice Coralli",
-            "pageView": 2123
-        },
-        {
-            "page": "Ugo Lodi",
-            "pageView": 1782
-        },
-        {
-            "page": "Carlo Giulietti",
-            "pageView": 1111
-        },
-        {
-            "page": "Michele Paleari",
-            "pageView": 1038
-        },
-        {
-            "page": "Ernesto Silvani",
-            "pageView": 862
+            "pageView": 2,
+            "total": 2124
         },
         {
             "page": "Cesare Coralli",
-            "pageView": 853
+            "pageView": 1,
+            "total": 853
+        },
+        {
+            "page": "Michele Paleari",
+            "pageView": 1,
+            "total": 1038
+        },
+        {
+            "page": "Ugo Lodi",
+            "pageView": 1,
+            "total": 1784
+        },
+        {
+            "page": "Carlo Giulietti",
+            "pageView": 1,
+            "total": 1111
+        },
+        {
+            "page": "Ernesto Silvani",
+            "pageView": 1,
+            "total": 862
         },
         {
             "page": "Annibale Vigna",
-            "pageView": 813
+            "pageView": 1,
+            "total": 816
         }
     ]
 }

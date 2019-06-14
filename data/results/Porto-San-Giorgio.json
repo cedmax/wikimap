@@ -3,207 +3,258 @@
     "people": [
         {
             "page": "Mario Moretti",
-            "pageView": 397508
+            "pageView": 150,
+            "total": 397631
         },
         {
             "page": "Daniele Barillà",
-            "pageView": 71767
-        },
-        {
-            "page": "Rudy Hackett",
-            "pageView": 37242
+            "pageView": 27,
+            "total": 71817
         },
         {
             "page": "Cesare Pancotto",
-            "pageView": 27120
+            "pageView": 14,
+            "total": 27151
         },
         {
             "page": "Silvia Ballestra",
-            "pageView": 22992
-        },
-        {
-            "page": "Fernando Veneranda",
-            "pageView": 16984
+            "pageView": 13,
+            "total": 23005
         },
         {
             "page": "Tommaso Salvadori",
-            "pageView": 15021
+            "pageView": 12,
+            "total": 15037
+        },
+        {
+            "page": "Rudy Hackett",
+            "pageView": 12,
+            "total": 37295
+        },
+        {
+            "page": "Fernando Veneranda",
+            "pageView": 11,
+            "total": 16993
         },
         {
             "page": "Stefano Visi",
-            "pageView": 12129
+            "pageView": 8,
+            "total": 12143
         },
         {
             "page": "Massimo Mangano",
-            "pageView": 7851
+            "pageView": 5,
+            "total": 7861
         },
         {
             "page": "Maximiliano Rescia",
-            "pageView": 6816
+            "pageView": 4,
+            "total": 6818
         },
         {
             "page": "Alessandro Angeli",
-            "pageView": 6709
-        },
-        {
-            "page": "Paolo Petrini",
-            "pageView": 5671
-        },
-        {
-            "page": "Paolo Lanza (cestista)",
-            "pageView": 5277
-        },
-        {
-            "page": "Davide Putano",
-            "pageView": 5056
-        },
-        {
-            "page": "Alessandra Nibbi",
-            "pageView": 4476
-        },
-        {
-            "page": "Sauro Fracassa",
-            "pageView": 4472
+            "pageView": 4,
+            "total": 6710
         },
         {
             "page": "Federico Pieri",
-            "pageView": 4198
+            "pageView": 3,
+            "total": 4201
         },
         {
-            "page": "Pio Panfili",
-            "pageView": 3673
+            "page": "Davide Putano",
+            "pageView": 3,
+            "total": 5059
         },
         {
-            "page": "Stefano Vanoncini",
-            "pageView": 3557
+            "page": "Paolo Lanza (cestista)",
+            "pageView": 3,
+            "total": 5278
         },
         {
-            "page": "Chiara Spinucci",
-            "pageView": 3382
+            "page": "Sauro Fracassa",
+            "pageView": 3,
+            "total": 4474
+        },
+        {
+            "page": "Alessandra Nibbi",
+            "pageView": 3,
+            "total": 4479
+        },
+        {
+            "page": "Paolo Petrini",
+            "pageView": 3,
+            "total": 5673
         },
         {
             "page": "Roberto Quercia",
-            "pageView": 3154
-        },
-        {
-            "page": "Acruto Vitali",
-            "pageView": 3051
-        },
-        {
-            "page": "Davide Ceccarelli",
-            "pageView": 2998
-        },
-        {
-            "page": "John McMillen",
-            "pageView": 2998
-        },
-        {
-            "page": "Matías Lara",
-            "pageView": 2786
-        },
-        {
-            "page": "Giacomo Rossi (cestista)",
-            "pageView": 2540
-        },
-        {
-            "page": "Massimo Cardelli",
-            "pageView": 2527
-        },
-        {
-            "page": "Denilson Manzali",
-            "pageView": 2516
-        },
-        {
-            "page": "Germano D'Abramo",
-            "pageView": 2509
-        },
-        {
-            "page": "Alfredo Beni",
-            "pageView": 2500
-        },
-        {
-            "page": "Marco Marilungo",
-            "pageView": 2441
+            "pageView": 2,
+            "total": 3155
         },
         {
             "page": "Wayne Sappleton",
-            "pageView": 2377
-        },
-        {
-            "page": "Luca Verdecchia",
-            "pageView": 2313
-        },
-        {
-            "page": "Giulio Perini",
-            "pageView": 2306
-        },
-        {
-            "page": "Myles Patrick",
-            "pageView": 2295
-        },
-        {
-            "page": "Vincenzo Urbani",
-            "pageView": 2244
-        },
-        {
-            "page": "Ermanno Piacentini",
-            "pageView": 2233
-        },
-        {
-            "page": "Luigi Pagana",
-            "pageView": 2211
+            "pageView": 2,
+            "total": 2377
         },
         {
             "page": "Marcus Delpizzo",
-            "pageView": 2145
+            "pageView": 2,
+            "total": 2146
         },
         {
-            "page": "Lugano Bazzani",
-            "pageView": 2079
+            "page": "Matías Lara",
+            "pageView": 2,
+            "total": 2786
         },
         {
-            "page": "Sigismondo Nardi",
-            "pageView": 2006
+            "page": "Denilson Manzali",
+            "pageView": 2,
+            "total": 2518
+        },
+        {
+            "page": "Stefano Vanoncini",
+            "pageView": 2,
+            "total": 3559
         },
         {
             "page": "Fernando Poggi",
-            "pageView": 1993
+            "pageView": 2,
+            "total": 1994
+        },
+        {
+            "page": "Luca Verdecchia",
+            "pageView": 2,
+            "total": 2314
+        },
+        {
+            "page": "John McMillen",
+            "pageView": 2,
+            "total": 2999
+        },
+        {
+            "page": "Lugano Bazzani",
+            "pageView": 2,
+            "total": 2079
+        },
+        {
+            "page": "Alfredo Beni",
+            "pageView": 2,
+            "total": 2502
+        },
+        {
+            "page": "Sigismondo Nardi",
+            "pageView": 2,
+            "total": 2006
+        },
+        {
+            "page": "Chiara Spinucci",
+            "pageView": 2,
+            "total": 3383
+        },
+        {
+            "page": "Vincenzo Urbani",
+            "pageView": 2,
+            "total": 2245
+        },
+        {
+            "page": "Acruto Vitali",
+            "pageView": 2,
+            "total": 3051
+        },
+        {
+            "page": "Giacomo Rossi (cestista)",
+            "pageView": 2,
+            "total": 2541
+        },
+        {
+            "page": "Davide Ceccarelli",
+            "pageView": 2,
+            "total": 3001
+        },
+        {
+            "page": "Myles Patrick",
+            "pageView": 2,
+            "total": 2296
+        },
+        {
+            "page": "Massimo Cardelli",
+            "pageView": 2,
+            "total": 2528
+        },
+        {
+            "page": "Germano D'Abramo",
+            "pageView": 2,
+            "total": 2511
+        },
+        {
+            "page": "Giulio Perini",
+            "pageView": 2,
+            "total": 2306
+        },
+        {
+            "page": "Ermanno Piacentini",
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Marco Marilungo",
+            "pageView": 2,
+            "total": 2441
+        },
+        {
+            "page": "Luigi Pagana",
+            "pageView": 2,
+            "total": 2211
         },
         {
             "page": "Aldo Santoni",
-            "pageView": 1993
+            "pageView": 2,
+            "total": 1996
+        },
+        {
+            "page": "Pio Panfili",
+            "pageView": 2,
+            "total": 3674
         },
         {
             "page": "Davide Cesana",
-            "pageView": 1958
-        },
-        {
-            "page": "Tommaso Accurti",
-            "pageView": 1667
+            "pageView": 2,
+            "total": 1962
         },
         {
             "page": "Mario Marchesani",
-            "pageView": 1649
+            "pageView": 1,
+            "total": 1649
+        },
+        {
+            "page": "Tommaso Accurti",
+            "pageView": 1,
+            "total": 1669
         },
         {
             "page": "Pablo Parilla",
-            "pageView": 1644
+            "pageView": 1,
+            "total": 1646
         },
         {
             "page": "Ken Perry",
-            "pageView": 1616
-        },
-        {
-            "page": "Daniele Lucantoni",
-            "pageView": 1471
+            "pageView": 1,
+            "total": 1618
         },
         {
             "page": "Massimo Menghini",
-            "pageView": 1435
+            "pageView": 1,
+            "total": 1436
+        },
+        {
+            "page": "Daniele Lucantoni",
+            "pageView": 1,
+            "total": 1471
         },
         {
             "page": "Ron Cornelius",
-            "pageView": 1129
+            "pageView": 1,
+            "total": 1129
         }
     ]
 }

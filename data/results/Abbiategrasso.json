@@ -3,243 +3,303 @@
     "people": [
         {
             "page": "Christian Abbiati",
-            "pageView": 331858
-        },
-        {
-            "page": "Gian Galeazzo Maria Sforza",
-            "pageView": 94262
+            "pageView": 155,
+            "total": 331978
         },
         {
             "page": "Mario Beretta",
-            "pageView": 89251
+            "pageView": 49.5,
+            "total": 89313
+        },
+        {
+            "page": "Gian Galeazzo Maria Sforza",
+            "pageView": 48,
+            "total": 94291
         },
         {
             "page": "Franco Moschino",
-            "pageView": 73278
+            "pageView": 43,
+            "total": 73317
         },
         {
             "page": "Antonino Asta",
-            "pageView": 63482
+            "pageView": 32,
+            "total": 63510
         },
         {
             "page": "Walter Fontana",
-            "pageView": 32885
-        },
-        {
-            "page": "Giovanni Maria Visconti",
-            "pageView": 27579
-        },
-        {
-            "page": "Davide Olivares",
-            "pageView": 19882
-        },
-        {
-            "page": "Giuseppina Tuissi",
-            "pageView": 18604
-        },
-        {
-            "page": "Antonio Gasbarrone",
-            "pageView": 17731
-        },
-        {
-            "page": "Marco Villa",
-            "pageView": 16063
-        },
-        {
-            "page": "Giorgio Falco (scrittore)",
-            "pageView": 14923
-        },
-        {
-            "page": "Giovanni Dondi dell'Orologio",
-            "pageView": 11387
+            "pageView": 20,
+            "total": 32891
         },
         {
             "page": "Gianni Giudici",
-            "pageView": 10463
+            "pageView": 18,
+            "total": 10485
+        },
+        {
+            "page": "Giovanni Maria Visconti",
+            "pageView": 17,
+            "total": 27597
+        },
+        {
+            "page": "Antonio Gasbarrone",
+            "pageView": 12,
+            "total": 17747
+        },
+        {
+            "page": "Giuseppina Tuissi",
+            "pageView": 10,
+            "total": 18618
+        },
+        {
+            "page": "Davide Olivares",
+            "pageView": 10,
+            "total": 19892
+        },
+        {
+            "page": "Giorgio Falco (scrittore)",
+            "pageView": 9,
+            "total": 14933
+        },
+        {
+            "page": "Marco Villa",
+            "pageView": 7,
+            "total": 16067
+        },
+        {
+            "page": "Giovanni Dondi dell'Orologio",
+            "pageView": 7,
+            "total": 11392
         },
         {
             "page": "Fabrizio Leo",
-            "pageView": 9420
-        },
-        {
-            "page": "Pietro Buscaglia",
-            "pageView": 8373
-        },
-        {
-            "page": "Walter Viganò",
-            "pageView": 8260
+            "pageView": 6,
+            "total": 9425
         },
         {
             "page": "Vito Lasalandra",
-            "pageView": 7241
+            "pageView": 5,
+            "total": 7246
+        },
+        {
+            "page": "Pietro Buscaglia",
+            "pageView": 5,
+            "total": 8375
+        },
+        {
+            "page": "Walter Viganò",
+            "pageView": 5,
+            "total": 8266
         },
         {
             "page": "Oreste Barale",
-            "pageView": 7033
-        },
-        {
-            "page": "Raffaele Solimeno",
-            "pageView": 6814
-        },
-        {
-            "page": "Luigi Castoldi",
-            "pageView": 6645
+            "pageView": 4,
+            "total": 7042
         },
         {
             "page": "Anacleto Cazzaniga",
-            "pageView": 5521
-        },
-        {
-            "page": "Enrico dell'Acqua",
-            "pageView": 4998
+            "pageView": 4,
+            "total": 5525
         },
         {
             "page": "Antonio Calderara",
-            "pageView": 4314
+            "pageView": 4,
+            "total": 4318
+        },
+        {
+            "page": "Raffaele Solimeno",
+            "pageView": 4,
+            "total": 6818
+        },
+        {
+            "page": "Luigi Castoldi",
+            "pageView": 4,
+            "total": 6654
         },
         {
             "page": "Adelio Colombo",
-            "pageView": 4089
-        },
-        {
-            "page": "Giancarlo Ferrari",
-            "pageView": 3976
+            "pageView": 3,
+            "total": 4092
         },
         {
             "page": "Trentino Bui",
-            "pageView": 3915
+            "pageView": 3,
+            "total": 3917
         },
         {
-            "page": "Raffaele Guaita",
-            "pageView": 3350
+            "page": "Enrico dell'Acqua",
+            "pageView": 3,
+            "total": 5001
         },
         {
-            "page": "Archimede Valeriani",
-            "pageView": 2957
-        },
-        {
-            "page": "Mario Zorzan",
-            "pageView": 2923
-        },
-        {
-            "page": "Cristina Selmi",
-            "pageView": 2821
-        },
-        {
-            "page": "Francesco Tagliani",
-            "pageView": 2815
-        },
-        {
-            "page": "Aldo Foglio",
-            "pageView": 2753
-        },
-        {
-            "page": "Luigi Baruffi",
-            "pageView": 2729
-        },
-        {
-            "page": "Cesare Brunetti",
-            "pageView": 2544
-        },
-        {
-            "page": "Vittorio Coccia",
-            "pageView": 2539
-        },
-        {
-            "page": "Giuseppe Grigoli",
-            "pageView": 2533
-        },
-        {
-            "page": "Luigi Balocchi (scrittore)",
-            "pageView": 2529
-        },
-        {
-            "page": "Mario Bandirali",
-            "pageView": 2445
-        },
-        {
-            "page": "Calisto Bassi",
-            "pageView": 2399
-        },
-        {
-            "page": "Serafino Dell'Uomo",
-            "pageView": 2235
-        },
-        {
-            "page": "Emanuele Samek Lodovici (politico)",
-            "pageView": 2198
-        },
-        {
-            "page": "Carlo Sgobbi",
-            "pageView": 2104
-        },
-        {
-            "page": "Giovanni Omboni",
-            "pageView": 2068
-        },
-        {
-            "page": "Luciano Agosti",
-            "pageView": 2055
+            "page": "Giancarlo Ferrari",
+            "pageView": 3,
+            "total": 3976
         },
         {
             "page": "Augusto Zweifel",
-            "pageView": 1970
+            "pageView": 2,
+            "total": 1972
         },
         {
-            "page": "Edgardo Castelli",
-            "pageView": 1817
+            "page": "Mario Bandirali",
+            "pageView": 2,
+            "total": 2446
         },
         {
-            "page": "Luigi Recalcati",
-            "pageView": 1779
+            "page": "Calisto Bassi",
+            "pageView": 2,
+            "total": 2401
         },
         {
-            "page": "Giuseppe Mandelli",
-            "pageView": 1733
+            "page": "Cristina Selmi",
+            "pageView": 2,
+            "total": 2821
         },
         {
-            "page": "Arduino Marchetti",
-            "pageView": 1685
+            "page": "Giovanni Omboni",
+            "pageView": 2,
+            "total": 2069
         },
         {
-            "page": "Vittorio Grilli (calciatore)",
-            "pageView": 1641
+            "page": "Serafino Dell'Uomo",
+            "pageView": 2,
+            "total": 2235
         },
         {
-            "page": "Guidotto de Abbiate",
-            "pageView": 1638
+            "page": "Cesare Brunetti",
+            "pageView": 2,
+            "total": 2545
         },
         {
-            "page": "Piero Rossi",
-            "pageView": 1636
+            "page": "Carlo Sgobbi",
+            "pageView": 2,
+            "total": 2105
+        },
+        {
+            "page": "Raffaele Guaita",
+            "pageView": 2,
+            "total": 3350
+        },
+        {
+            "page": "Emanuele Samek Lodovici (politico)",
+            "pageView": 2,
+            "total": 2200
+        },
+        {
+            "page": "Archimede Valeriani",
+            "pageView": 2,
+            "total": 2958
+        },
+        {
+            "page": "Giuseppe Grigoli",
+            "pageView": 2,
+            "total": 2534
+        },
+        {
+            "page": "Luigi Balocchi (scrittore)",
+            "pageView": 2,
+            "total": 2529
+        },
+        {
+            "page": "Luigi Baruffi",
+            "pageView": 2,
+            "total": 2729
+        },
+        {
+            "page": "Francesco Tagliani",
+            "pageView": 2,
+            "total": 2817
+        },
+        {
+            "page": "Vittorio Coccia",
+            "pageView": 2,
+            "total": 2544
+        },
+        {
+            "page": "Aldo Foglio",
+            "pageView": 2,
+            "total": 2754
+        },
+        {
+            "page": "Luciano Agosti",
+            "pageView": 2,
+            "total": 2056
+        },
+        {
+            "page": "Mario Zorzan",
+            "pageView": 2,
+            "total": 2927
         },
         {
             "page": "Paolo Colombo (calciatore)",
-            "pageView": 1538
-        },
-        {
-            "page": "Giorgio Magnaghi",
-            "pageView": 1499
+            "pageView": 1,
+            "total": 1538
         },
         {
             "page": "Achille Gorla",
-            "pageView": 1257
-        },
-        {
-            "page": "Elio Torriani",
-            "pageView": 1208
+            "pageView": 1,
+            "total": 1257
         },
         {
             "page": "Costantino Castoldi",
-            "pageView": 1028
+            "pageView": 1,
+            "total": 1028
+        },
+        {
+            "page": "Guidotto de Abbiate",
+            "pageView": 1,
+            "total": 1638
         },
         {
             "page": "Eraldo Canavesi",
-            "pageView": 803
+            "pageView": 1,
+            "total": 803
+        },
+        {
+            "page": "Vittorio Grilli (calciatore)",
+            "pageView": 1,
+            "total": 1642
+        },
+        {
+            "page": "Giorgio Magnaghi",
+            "pageView": 1,
+            "total": 1499
+        },
+        {
+            "page": "Edgardo Castelli",
+            "pageView": 1,
+            "total": 1817
+        },
+        {
+            "page": "Luigi Recalcati",
+            "pageView": 1,
+            "total": 1779
+        },
+        {
+            "page": "Arduino Marchetti",
+            "pageView": 1,
+            "total": 1685
+        },
+        {
+            "page": "Piero Rossi",
+            "pageView": 1,
+            "total": 1636
+        },
+        {
+            "page": "Giuseppe Mandelli",
+            "pageView": 1,
+            "total": 1734
+        },
+        {
+            "page": "Elio Torriani",
+            "pageView": 1,
+            "total": 1208
         },
         {
             "page": "Francesco Girolamo Corio",
-            "pageView": 601
+            "pageView": 0,
+            "total": 601
         }
     ]
 }

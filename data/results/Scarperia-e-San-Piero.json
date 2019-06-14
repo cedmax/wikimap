@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Francesco Giunta",
-            "pageView": 25946
+            "pageView": 17,
+            "total": 25965
         },
         {
             "page": "Marco Vannini (filosofo)",
-            "pageView": 22117
+            "pageView": 11,
+            "total": 22128
         },
         {
             "page": "Otello Buscherini",
-            "pageView": 14362
+            "pageView": 8,
+            "total": 14369
         },
         {
             "page": "Ottaviano degli Ubaldini",
-            "pageView": 11531
+            "pageView": 7,
+            "total": 11534
         },
         {
             "page": "Antonio Berti",
-            "pageView": 10121
-        },
-        {
-            "page": "Nicola Lisi",
-            "pageView": 7095
+            "pageView": 6,
+            "total": 10123
         },
         {
             "page": "Luigi Guglielmo Cambray-Digny",
-            "pageView": 6304
+            "pageView": 4,
+            "total": 6307
         },
         {
             "page": "Elio Gabbuggiani",
-            "pageView": 6186
+            "pageView": 4,
+            "total": 6187
         },
         {
-            "page": "Luigi Fiacchi",
-            "pageView": 5050
-        },
-        {
-            "page": "Silvano Miniati",
-            "pageView": 5034
-        },
-        {
-            "page": "Jacopo d'Angelo",
-            "pageView": 3592
-        },
-        {
-            "page": "Mario Baroni",
-            "pageView": 2847
-        },
-        {
-            "page": "Pietro Cipriani",
-            "pageView": 2565
+            "page": "Nicola Lisi",
+            "pageView": 4,
+            "total": 7100
         },
         {
             "page": "Bruno Nardini",
-            "pageView": 2555
+            "pageView": 3,
+            "total": 2557
         },
         {
-            "page": "Dino Rosoni",
-            "pageView": 1724
+            "page": "Silvano Miniati",
+            "pageView": 3,
+            "total": 5036
         },
         {
-            "page": "Aimone Landi",
-            "pageView": 1587
+            "page": "Luigi Fiacchi",
+            "pageView": 3,
+            "total": 5053
+        },
+        {
+            "page": "Jacopo d'Angelo",
+            "pageView": 2,
+            "total": 3593
+        },
+        {
+            "page": "Mario Baroni",
+            "pageView": 2,
+            "total": 2849
+        },
+        {
+            "page": "Pietro Cipriani",
+            "pageView": 2,
+            "total": 2565
         },
         {
             "page": "Giovanni Cinqui",
-            "pageView": 1557
-        },
-        {
-            "page": "Tommaso Poggini",
-            "pageView": 1348
-        },
-        {
-            "page": "Renato Paglianti",
-            "pageView": 1182
+            "pageView": 1,
+            "total": 1558
         },
         {
             "page": "Agostino da Scarperia",
-            "pageView": 1173
+            "pageView": 1,
+            "total": 1173
+        },
+        {
+            "page": "Aimone Landi",
+            "pageView": 1,
+            "total": 1587
+        },
+        {
+            "page": "Renato Paglianti",
+            "pageView": 1,
+            "total": 1182
+        },
+        {
+            "page": "Tommaso Poggini",
+            "pageView": 1,
+            "total": 1350
+        },
+        {
+            "page": "Dino Rosoni",
+            "pageView": 1,
+            "total": 1727
         },
         {
             "page": "Cecco del Borgo",
-            "pageView": 356
+            "pageView": 0,
+            "total": 357
         }
     ]
 }

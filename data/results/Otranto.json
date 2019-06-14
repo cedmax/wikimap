@@ -3,107 +3,133 @@
     "people": [
         {
             "page": "Francesco Cacucci",
-            "pageView": 27342
+            "pageView": 16,
+            "total": 27360
         },
         {
             "page": "Ennio Capasa",
-            "pageView": 21423
+            "pageView": 12,
+            "total": 21433
         },
         {
             "page": "Donato Negro",
-            "pageView": 14896
-        },
-        {
-            "page": "Ludovico IV di Turingia",
-            "pageView": 7000
+            "pageView": 9,
+            "total": 14901
         },
         {
             "page": "Lorenzo Scupoli",
-            "pageView": 6715
-        },
-        {
-            "page": "Gaetano Pollio",
-            "pageView": 5007
+            "pageView": 4,
+            "total": 6719
         },
         {
             "page": "Francesco Zurlo",
-            "pageView": 4984
-        },
-        {
-            "page": "Stefano Pendinelli",
-            "pageView": 4627
-        },
-        {
-            "page": "Pietro Antonio Di Capua",
-            "pageView": 4294
-        },
-        {
-            "page": "Rocco Cocchia",
-            "pageView": 4238
+            "pageView": 3,
+            "total": 4988
         },
         {
             "page": "Raffaele Calabria",
-            "pageView": 3848
+            "pageView": 3,
+            "total": 3848
         },
         {
-            "page": "Giovanni Antonio Delli Falconi",
-            "pageView": 3653
+            "page": "Stefano Pendinelli",
+            "pageView": 3,
+            "total": 4627
         },
         {
-            "page": "Nicola Riezzo",
-            "pageView": 3136
+            "page": "Pietro Antonio Di Capua",
+            "pageView": 3,
+            "total": 4295
         },
         {
-            "page": "Amalrico VI di Montfort",
-            "pageView": 2971
+            "page": "Ludovico IV di Turingia",
+            "pageView": 3,
+            "total": 7003
         },
         {
-            "page": "Ettore D'Amore",
-            "pageView": 2353
-        },
-        {
-            "page": "Nicola di Otranto",
-            "pageView": 2337
-        },
-        {
-            "page": "Aragonio Malaspina",
-            "pageView": 2319
-        },
-        {
-            "page": "Gabriel Adarzo de Santander",
-            "pageView": 2240
+            "page": "Rocco Cocchia",
+            "pageView": 3,
+            "total": 4246
         },
         {
             "page": "Cornelio Sebastiano Cuccarollo",
-            "pageView": 2136
+            "pageView": 3,
+            "total": 2139
         },
         {
-            "page": "Giuseppe Ridolfi",
-            "pageView": 2129
-        },
-        {
-            "page": "Marcello Acquaviva",
-            "pageView": 1728
-        },
-        {
-            "page": "Giacomo da Itri",
-            "pageView": 1644
-        },
-        {
-            "page": "Vincenzo Franco",
-            "pageView": 1627
+            "page": "Gaetano Pollio",
+            "pageView": 3,
+            "total": 5010
         },
         {
             "page": "Carmelo Patané",
-            "pageView": 1537
+            "pageView": 3,
+            "total": 1539
+        },
+        {
+            "page": "Gabriel Adarzo de Santander",
+            "pageView": 2,
+            "total": 2241
+        },
+        {
+            "page": "Giovanni Antonio Delli Falconi",
+            "pageView": 2,
+            "total": 3653
+        },
+        {
+            "page": "Nicola Riezzo",
+            "pageView": 2,
+            "total": 3140
+        },
+        {
+            "page": "Ettore D'Amore",
+            "pageView": 2,
+            "total": 2354
+        },
+        {
+            "page": "Giuseppe Ridolfi",
+            "pageView": 2,
+            "total": 2131
+        },
+        {
+            "page": "Nicola di Otranto",
+            "pageView": 2,
+            "total": 2342
+        },
+        {
+            "page": "Vincenzo Franco",
+            "pageView": 2,
+            "total": 1627
+        },
+        {
+            "page": "Amalrico VI di Montfort",
+            "pageView": 2,
+            "total": 2972
+        },
+        {
+            "page": "Aragonio Malaspina",
+            "pageView": 2,
+            "total": 2323
+        },
+        {
+            "page": "Giacomo da Itri",
+            "pageView": 1,
+            "total": 1644
+        },
+        {
+            "page": "Marcello Acquaviva",
+            "pageView": 1,
+            "total": 1729
         },
         {
             "page": "Marcello Papiniano Cusani",
-            "pageView": 863
+            "pageView": 0,
+            "total": 863
         },
         {
             "page": "Giovanni da Otranto",
-            "pageView": 437
+            "pageView": 0,
+            "total": 437
         }
     ]
 }

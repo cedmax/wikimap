@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Frank Costello",
-            "pageView": 228640
+            "pageView": 134,
+            "total": 228881
         },
         {
             "page": "Nunzio Galantino",
-            "pageView": 80920
+            "pageView": 35,
+            "total": 80952
         },
         {
             "page": "Linda Lanzillotta",
-            "pageView": 49077
+            "pageView": 23,
+            "total": 49089
         },
         {
             "page": "Vincenzo Bertolone",
-            "pageView": 16467
+            "pageView": 10,
+            "total": 16473
         },
         {
             "page": "Francesco Savino",
-            "pageView": 15743
+            "pageView": 8,
+            "total": 15748
         },
         {
             "page": "Andrea Mugione",
-            "pageView": 11097
-        },
-        {
-            "page": "Girolamo Grillo",
-            "pageView": 11056
+            "pageView": 6,
+            "total": 11103
         },
         {
             "page": "Domenico Graziani",
-            "pageView": 10183
+            "pageView": 6,
+            "total": 10187
+        },
+        {
+            "page": "Girolamo Grillo",
+            "pageView": 5,
+            "total": 11074
         },
         {
             "page": "Pietro La Fontaine",
-            "pageView": 8218
-        },
-        {
-            "page": "Salvatore Frasca",
-            "pageView": 5289
+            "pageView": 5,
+            "total": 8220
         },
         {
             "page": "Durante Duranti",
-            "pageView": 4493
+            "pageView": 3,
+            "total": 4493
         },
         {
-            "page": "Bernardo Antonio de' Medici",
-            "pageView": 3469
-        },
-        {
-            "page": "Marino del Giudice",
-            "pageView": 3443
-        },
-        {
-            "page": "Giovanni Francesco Pala",
-            "pageView": 2907
-        },
-        {
-            "page": "Luigi Bloise",
-            "pageView": 2779
-        },
-        {
-            "page": "Bonifazio Caetani",
-            "pageView": 2694
-        },
-        {
-            "page": "Giuseppe Selvaggi",
-            "pageView": 2512
+            "page": "Salvatore Frasca",
+            "pageView": 3,
+            "total": 5293
         },
         {
             "page": "Domenico Vacchiano",
-            "pageView": 2108
+            "pageView": 2,
+            "total": 2108
+        },
+        {
+            "page": "Giovanni Francesco Pala",
+            "pageView": 2,
+            "total": 2908
+        },
+        {
+            "page": "Bernardo Antonio de' Medici",
+            "pageView": 2,
+            "total": 3469
+        },
+        {
+            "page": "Giuseppe Selvaggi",
+            "pageView": 2,
+            "total": 2513
         },
         {
             "page": "Francesco Antonio Grillo",
-            "pageView": 1890
+            "pageView": 2,
+            "total": 1890
         },
         {
-            "page": "Nicola Groppa",
-            "pageView": 1846
+            "page": "Luigi Bloise",
+            "pageView": 2,
+            "total": 2779
         },
         {
-            "page": "Luigi Laterza",
-            "pageView": 1729
-        },
-        {
-            "page": "Cristoforo Giacobazzi",
-            "pageView": 1639
+            "page": "Bonifazio Caetani",
+            "pageView": 2,
+            "total": 2695
         },
         {
             "page": "Owen Lewis",
-            "pageView": 1562
+            "pageView": 2,
+            "total": 1562
+        },
+        {
+            "page": "Marino del Giudice",
+            "pageView": 2,
+            "total": 3449
+        },
+        {
+            "page": "Cristoforo Giacobazzi",
+            "pageView": 1,
+            "total": 1639
+        },
+        {
+            "page": "Luigi Laterza",
+            "pageView": 1,
+            "total": 1731
+        },
+        {
+            "page": "Nicola Groppa",
+            "pageView": 1,
+            "total": 1846
         },
         {
             "page": "Poto Argiro",
-            "pageView": 1550
+            "pageView": 1,
+            "total": 1550
         }
     ]
 }

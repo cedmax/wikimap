@@ -1,0 +1,27 @@
+{
+    "id": "place.5793093903353090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cingoli",
+    "place_name": "Cingoli, Macerata, Italy",
+    "bbox": [
+        13.122047,
+        43.32219,
+        13.335883,
+        43.461685
+    ],
+    "center": [
+        13.21636,
+        43.37415
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21636,
+            43.37415
+        ]
+    }
+}

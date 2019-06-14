@@ -1,0 +1,27 @@
+{
+    "id": "place.15470989055956570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Furci Siculo",
+    "place_name": "Furci Siculo, Messina, Italy",
+    "bbox": [
+        15.268096,
+        37.956767,
+        15.386613,
+        38.032288
+    ],
+    "center": [
+        15.38194,
+        37.96139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38194,
+            37.96139
+        ]
+    }
+}

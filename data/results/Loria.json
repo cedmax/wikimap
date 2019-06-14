@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Aldo Cerantola",
-            "pageView": 13038
+            "pageView": 8,
+            "total": 13050
         },
         {
             "page": "Primo Visentin",
-            "pageView": 7335
+            "pageView": 4,
+            "total": 7340
         },
         {
             "page": "Angelo Marchesan",
-            "pageView": 2018
-        },
-        {
-            "page": "Giocondo Dalla Rizza",
-            "pageView": 1448
+            "pageView": 2,
+            "total": 2018
         },
         {
             "page": "Pietro Manfrin di Castione",
-            "pageView": 1051
+            "pageView": 1,
+            "total": 1052
+        },
+        {
+            "page": "Giocondo Dalla Rizza",
+            "pageView": 1,
+            "total": 1449
         },
         {
             "page": "Luciano Bergamin",
-            "pageView": 388
+            "pageView": 0,
+            "total": 389
         }
     ]
 }

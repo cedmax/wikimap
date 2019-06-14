@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Lara Comi",
-            "pageView": 156016
+            "pageView": 54,
+            "total": 156139
         },
         {
             "page": "Davide Fontolan",
-            "pageView": 58214
+            "pageView": 37,
+            "total": 58256
         },
         {
             "page": "Salvatore Molina",
-            "pageView": 51301
-        },
-        {
-            "page": "Vegas Jones",
-            "pageView": 40347
-        },
-        {
-            "page": "Tony Arbolino",
-            "pageView": 34907
+            "pageView": 27,
+            "total": 51321
         },
         {
             "page": "Silvano Fontolan",
-            "pageView": 31075
+            "pageView": 20,
+            "total": 31093
+        },
+        {
+            "page": "Tony Arbolino",
+            "pageView": 17,
+            "total": 34951
         },
         {
             "page": "Paolo Tornaghi",
-            "pageView": 18320
-        },
-        {
-            "page": "Roberto Bignoli",
-            "pageView": 13891
+            "pageView": 11,
+            "total": 18323
         },
         {
             "page": "Pietro Pianta",
-            "pageView": 9771
+            "pageView": 6,
+            "total": 9775
+        },
+        {
+            "page": "Roberto Bignoli",
+            "pageView": 5,
+            "total": 13898
         },
         {
             "page": "Ennio Preatoni",
-            "pageView": 8190
-        },
-        {
-            "page": "Franco Brioschi",
-            "pageView": 5230
-        },
-        {
-            "page": "Alfredo Milani",
-            "pageView": 4143
+            "pageView": 4,
+            "total": 8191
         },
         {
             "page": "Luigi Perversi",
-            "pageView": 4114
+            "pageView": 3,
+            "total": 4117
+        },
+        {
+            "page": "Franco Brioschi",
+            "pageView": 3,
+            "total": 5232
+        },
+        {
+            "page": "Alfredo Milani",
+            "pageView": 3,
+            "total": 4145
         },
         {
             "page": "Sara Canova",
-            "pageView": 3050
-        },
-        {
-            "page": "Carlo Moretti",
-            "pageView": 2438
-        },
-        {
-            "page": "Annibale Zucchini",
-            "pageView": 2252
-        },
-        {
-            "page": "Luigi Frigerio",
-            "pageView": 2142
-        },
-        {
-            "page": "Sergio Plumari",
-            "pageView": 2133
+            "pageView": 2,
+            "total": 3050
         },
         {
             "page": "Albino Milani",
-            "pageView": 1839
+            "pageView": 2,
+            "total": 1841
+        },
+        {
+            "page": "Carlo Moretti",
+            "pageView": 2,
+            "total": 2440
+        },
+        {
+            "page": "Annibale Zucchini",
+            "pageView": 2,
+            "total": 2252
+        },
+        {
+            "page": "Sergio Plumari",
+            "pageView": 2,
+            "total": 2137
+        },
+        {
+            "page": "Luigi Frigerio",
+            "pageView": 2,
+            "total": 2142
         },
         {
             "page": "Riccardo Spairani",
-            "pageView": 1813
+            "pageView": 1,
+            "total": 1813
         },
         {
             "page": "Arrigo Renato Marzola",
-            "pageView": 1220
+            "pageView": 1,
+            "total": 1221
         },
         {
             "page": "Luigi Rossari",
-            "pageView": 497
+            "pageView": 0,
+            "total": 498
+        },
+        {
+            "page": "Vegas Jones",
+            "pageView": 0,
+            "total": 40437
         }
     ]
 }

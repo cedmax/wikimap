@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Giovanni Giolitti",
-            "pageView": 918954
+            "pageView": 613.5,
+            "total": 919994
         },
         {
             "page": "Mauro Picotto",
-            "pageView": 45872
+            "pageView": 30,
+            "total": 45884
         },
         {
             "page": "Giorgio Merlo",
-            "pageView": 7569
+            "pageView": 4.5,
+            "total": 7572
         },
         {
             "page": "Teodoro Valfrè di Bonzo",
-            "pageView": 4297
-        },
-        {
-            "page": "Luigi Goytre",
-            "pageView": 2206
-        },
-        {
-            "page": "Amedeo Peyron (architetto)",
-            "pageView": 2148
-        },
-        {
-            "page": "Luigi Bottiglia Savoulx",
-            "pageView": 1769
-        },
-        {
-            "page": "Ermanno Buffa di Perrero",
-            "pageView": 1660
+            "pageView": 3,
+            "total": 4300
         },
         {
             "page": "Francesco Imberti (calciatore)",
-            "pageView": 1471
+            "pageView": 2,
+            "total": 1473
+        },
+        {
+            "page": "Amedeo Peyron (architetto)",
+            "pageView": 2,
+            "total": 2149
+        },
+        {
+            "page": "Luigi Goytre",
+            "pageView": 2,
+            "total": 2207
+        },
+        {
+            "page": "Luigi Bottiglia Savoulx",
+            "pageView": 1,
+            "total": 1770
+        },
+        {
+            "page": "Ermanno Buffa di Perrero",
+            "pageView": 1,
+            "total": 1660
         },
         {
             "page": "Alfredo Sforzini",
-            "pageView": 1076
+            "pageView": 0,
+            "total": 1078
         }
     ]
 }

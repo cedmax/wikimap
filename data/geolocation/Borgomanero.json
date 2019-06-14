@@ -1,0 +1,27 @@
+{
+    "id": "place.2274397279046290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgomanero",
+    "place_name": "Borgomanero, Novara, Italy",
+    "bbox": [
+        8.404181,
+        45.659794,
+        8.518562,
+        45.737486
+    ],
+    "center": [
+        8.46667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            45.7
+        ]
+    }
+}

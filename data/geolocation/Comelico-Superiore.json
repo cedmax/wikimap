@@ -1,0 +1,27 @@
+{
+    "id": "place.12397137231847960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comelico Superiore",
+    "place_name": "Comelico Superiore, Belluno, Italy",
+    "bbox": [
+        12.377283,
+        46.556683,
+        12.546687,
+        46.680548
+    ],
+    "center": [
+        12.51476,
+        46.58913
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.51476,
+            46.58913
+        ]
+    }
+}

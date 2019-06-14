@@ -1,0 +1,27 @@
+{
+    "id": "place.7565201408781810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verdello",
+    "place_name": "Verdello, Bergamo, Italy",
+    "bbox": [
+        9.619498,
+        45.581515,
+        9.656153,
+        45.619894
+    ],
+    "center": [
+        9.62972,
+        45.605
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.62972,
+            45.605
+        ]
+    }
+}

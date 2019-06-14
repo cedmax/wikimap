@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Maria Montessori",
-            "pageView": 996537
-        },
-        {
-            "page": "Clio Maria Bittoni",
-            "pageView": 35859
+            "pageView": 564,
+            "total": 997153
         },
         {
             "page": "Gianni Ravera",
-            "pageView": 35324
+            "pageView": 14,
+            "total": 35347
+        },
+        {
+            "page": "Clio Maria Bittoni",
+            "pageView": 9,
+            "total": 35912
         },
         {
             "page": "Mariella Giampieri",
-            "pageView": 15405
+            "pageView": 8,
+            "total": 15410
         },
         {
             "page": "Massimo Raffaeli",
-            "pageView": 12240
-        },
-        {
-            "page": "Massimo Ferretti",
-            "pageView": 8417
+            "pageView": 7,
+            "total": 12251
         },
         {
             "page": "Vittorio Lanternari",
-            "pageView": 7609
+            "pageView": 5,
+            "total": 7611
         },
         {
-            "page": "Francesco Mengozzi",
-            "pageView": 6213
+            "page": "Massimo Ferretti",
+            "pageView": 5,
+            "total": 8419
         },
         {
             "page": "Chiara Negrini",
-            "pageView": 6180
+            "pageView": 3,
+            "total": 6185
+        },
+        {
+            "page": "Francesco Mengozzi",
+            "pageView": 3,
+            "total": 6221
         },
         {
             "page": "Fabio Favi",
-            "pageView": 5215
+            "pageView": 3,
+            "total": 5217
         },
         {
             "page": "Simone Stortoni",
-            "pageView": 5068
-        },
-        {
-            "page": "Andrea Bartoletti",
-            "pageView": 3690
-        },
-        {
-            "page": "Ugo Passalacqua",
-            "pageView": 3505
-        },
-        {
-            "page": "Giovanni Badalini",
-            "pageView": 2978
-        },
-        {
-            "page": "Roberto Osimani",
-            "pageView": 2929
-        },
-        {
-            "page": "Rossano Rossetti",
-            "pageView": 2903
-        },
-        {
-            "page": "Andrea Burattini",
-            "pageView": 2899
-        },
-        {
-            "page": "Guido Molinelli",
-            "pageView": 2680
-        },
-        {
-            "page": "Carlo Ceci",
-            "pageView": 2498
-        },
-        {
-            "page": "Nicoletta Luciani",
-            "pageView": 2355
-        },
-        {
-            "page": "Malgari Amadei Ferretti",
-            "pageView": 2344
+            "pageView": 3,
+            "total": 5072
         },
         {
             "page": "Giuliano Mosconi",
-            "pageView": 2273
+            "pageView": 3,
+            "total": 2275
+        },
+        {
+            "page": "Giovanni Badalini",
+            "pageView": 2,
+            "total": 2978
+        },
+        {
+            "page": "Malgari Amadei Ferretti",
+            "pageView": 2,
+            "total": 2348
         },
         {
             "page": "Davide Cesini",
-            "pageView": 2016
+            "pageView": 2,
+            "total": 2017
         },
         {
-            "page": "Susanna Batazzi",
-            "pageView": 201
+            "page": "Guido Molinelli",
+            "pageView": 2,
+            "total": 2680
+        },
+        {
+            "page": "Carlo Ceci",
+            "pageView": 2,
+            "total": 2499
+        },
+        {
+            "page": "Andrea Burattini",
+            "pageView": 2,
+            "total": 2899
+        },
+        {
+            "page": "Nicoletta Luciani",
+            "pageView": 2,
+            "total": 2355
+        },
+        {
+            "page": "Roberto Osimani",
+            "pageView": 2,
+            "total": 2929
+        },
+        {
+            "page": "Ugo Passalacqua",
+            "pageView": 2,
+            "total": 3505
+        },
+        {
+            "page": "Andrea Bartoletti",
+            "pageView": 2,
+            "total": 3690
+        },
+        {
+            "page": "Rossano Rossetti",
+            "pageView": 2,
+            "total": 2906
         },
         {
             "page": "Filippo Baldassari",
-            "pageView": 104
+            "pageView": 0,
+            "total": 104
+        },
+        {
+            "page": "Susanna Batazzi",
+            "pageView": 0,
+            "total": 201
         }
     ]
 }

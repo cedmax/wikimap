@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Angelo Moratti",
-            "pageView": 138592
+            "pageView": 71,
+            "total": 138668
         },
         {
             "page": "Fiorella Pierobon",
-            "pageView": 87773
+            "pageView": 52,
+            "total": 87826
         },
         {
             "page": "Papa Gregorio XIV",
-            "pageView": 65276
+            "pageView": 43,
+            "total": 65312
         },
         {
             "page": "Luca Tarenzi",
-            "pageView": 11076
+            "pageView": 7,
+            "total": 11096
         },
         {
             "page": "Mirko Busto",
-            "pageView": 9725
-        },
-        {
-            "page": "Alessandro Casarin",
-            "pageView": 8297
+            "pageView": 5,
+            "total": 9726
         },
         {
             "page": "Franco Pedroni",
-            "pageView": 7973
+            "pageView": 5,
+            "total": 7977
+        },
+        {
+            "page": "Alessandro Casarin",
+            "pageView": 4,
+            "total": 8302
         },
         {
             "page": "Antonio Bernacchi",
-            "pageView": 3086
-        },
-        {
-            "page": "Paolo Bailetti",
-            "pageView": 2968
-        },
-        {
-            "page": "Maurizio Grosselli",
-            "pageView": 2866
-        },
-        {
-            "page": "Mario Begni",
-            "pageView": 2772
-        },
-        {
-            "page": "Gian Guido Piazza",
-            "pageView": 2767
-        },
-        {
-            "page": "Gian Emilio Piazza",
-            "pageView": 2744
-        },
-        {
-            "page": "Enrico Tovaglieri",
-            "pageView": 2624
-        },
-        {
-            "page": "Paolo Marcolin",
-            "pageView": 2605
+            "pageView": 2,
+            "total": 3087
         },
         {
             "page": "Emilio Bolles",
-            "pageView": 1839
-        },
-        {
-            "page": "Giuseppina Aliverti",
-            "pageView": 1729
+            "pageView": 2,
+            "total": 1840
         },
         {
             "page": "Valerio Valeri (antropologo)",
-            "pageView": 1720
+            "pageView": 2,
+            "total": 1721
+        },
+        {
+            "page": "Gian Emilio Piazza",
+            "pageView": 2,
+            "total": 2744
+        },
+        {
+            "page": "Gian Guido Piazza",
+            "pageView": 2,
+            "total": 2769
+        },
+        {
+            "page": "Enrico Tovaglieri",
+            "pageView": 2,
+            "total": 2625
+        },
+        {
+            "page": "Maurizio Grosselli",
+            "pageView": 2,
+            "total": 2866
+        },
+        {
+            "page": "Paolo Marcolin",
+            "pageView": 2,
+            "total": 2607
+        },
+        {
+            "page": "Giuseppina Aliverti",
+            "pageView": 2,
+            "total": 1730
+        },
+        {
+            "page": "Paolo Bailetti",
+            "pageView": 2,
+            "total": 2970
+        },
+        {
+            "page": "Mario Begni",
+            "pageView": 2,
+            "total": 2774
         },
         {
             "page": "Giulio Del Tredici",
-            "pageView": 1126
+            "pageView": 1,
+            "total": 1126
         },
         {
             "page": "Alessandro Passaleva",
-            "pageView": 1123
+            "pageView": 1,
+            "total": 1124
         }
     ]
 }

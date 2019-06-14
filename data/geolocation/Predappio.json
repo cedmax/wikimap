@@ -1,0 +1,27 @@
+{
+    "id": "place.8848488510974130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Predappio",
+    "place_name": "Predappio, Forli'-Cesena, Italy",
+    "bbox": [
+        11.887215,
+        44.028611,
+        12.01269,
+        44.159899
+    ],
+    "center": [
+        11.985,
+        44.10417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.985,
+            44.10417
+        ]
+    }
+}

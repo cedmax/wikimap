@@ -1,0 +1,27 @@
+{
+    "id": "place.10957713183613490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cartigliano",
+    "place_name": "Cartigliano, Vicenza, Italy",
+    "bbox": [
+        11.682822,
+        45.687118,
+        11.726754,
+        45.726066
+    ],
+    "center": [
+        11.7,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7,
+            45.71667
+        ]
+    }
+}

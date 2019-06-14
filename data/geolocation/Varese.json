@@ -1,0 +1,27 @@
+{
+    "id": "place.11672562630074420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varese",
+    "place_name": "Varese, Varese, Italy",
+    "bbox": [
+        8.745283,
+        45.778492,
+        8.871441,
+        45.884139
+    ],
+    "center": [
+        8.83333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.81667
+        ]
+    }
+}

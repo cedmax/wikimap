@@ -1,0 +1,27 @@
+{
+    "id": "place.9508849193984370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nettuno",
+    "place_name": "Nettuno, Roma, Italy",
+    "bbox": [
+        12.617559,
+        41.408226,
+        12.777529,
+        41.540968
+    ],
+    "center": [
+        12.66667,
+        41.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            41.46667
+        ]
+    }
+}

@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Lucio Vero",
-            "pageView": 100373
+            "pageView": 61,
+            "total": 100462
         },
         {
             "page": "Liberale d'Altino",
-            "pageView": 15474
+            "pageView": 7,
+            "total": 15488
         },
         {
             "page": "Magno di Oderzo",
-            "pageView": 4393
+            "pageView": 3,
+            "total": 4393
         },
         {
             "page": "Arnaldo Boscolo",
-            "pageView": 3305
-        },
-        {
-            "page": "San Nepoziano",
-            "pageView": 1685
+            "pageView": 2,
+            "total": 3308
         },
         {
             "page": "Giuseppe Grigoletto e Savino Pasqualato",
-            "pageView": 1215
+            "pageView": 1,
+            "total": 1215
+        },
+        {
+            "page": "San Nepoziano",
+            "pageView": 1,
+            "total": 1685
         },
         {
             "page": "Camillo Sommariva",
-            "pageView": 463
+            "pageView": 0,
+            "total": 463
         }
     ]
 }

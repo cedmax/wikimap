@@ -1,0 +1,27 @@
+{
+    "id": "place.9582448521872770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gualdo Tadino",
+    "place_name": "Gualdo Tadino, Perugia, Italy",
+    "bbox": [
+        12.657216,
+        43.162409,
+        12.838607,
+        43.286112
+    ],
+    "center": [
+        12.78333,
+        43.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.78333,
+            43.23333
+        ]
+    }
+}

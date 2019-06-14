@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Fiorenzo Toso",
-            "pageView": 12645
+            "pageView": 8,
+            "total": 12655
         },
         {
             "page": "Edoardo Chiossone",
-            "pageView": 9759
-        },
-        {
-            "page": "Pio Roba",
-            "pageView": 1571
-        },
-        {
-            "page": "Graziana Calcagno",
-            "pageView": 1419
-        },
-        {
-            "page": "Sofia Giustini",
-            "pageView": 1197
+            "pageView": 6,
+            "total": 9766
         },
         {
             "page": "Lorenzo Ghiglini",
-            "pageView": 896
+            "pageView": 1,
+            "total": 896
+        },
+        {
+            "page": "Pio Roba",
+            "pageView": 1,
+            "total": 1571
+        },
+        {
+            "page": "Graziana Calcagno",
+            "pageView": 0,
+            "total": 1422
+        },
+        {
+            "page": "Sofia Giustini",
+            "pageView": 0,
+            "total": 1206
         }
     ]
 }

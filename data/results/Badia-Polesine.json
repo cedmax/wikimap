@@ -2,64 +2,79 @@
     "name": "Badia Polesine",
     "people": [
         {
-            "page": "Mattia Signorini",
-            "pageView": 9147
-        },
-        {
             "page": "Eugenio Balzan",
-            "pageView": 8999
+            "pageView": 6,
+            "total": 9002
         },
         {
             "page": "Gregorio Lazzarini",
-            "pageView": 8271
+            "pageView": 5,
+            "total": 8275
+        },
+        {
+            "page": "Mattia Signorini",
+            "pageView": 5,
+            "total": 9163
         },
         {
             "page": "Armando Rigobello",
-            "pageView": 8153
-        },
-        {
-            "page": "Maurizio Marchetto",
-            "pageView": 6392
-        },
-        {
-            "page": "Valentino Degani",
-            "pageView": 6238
+            "pageView": 5,
+            "total": 8162
         },
         {
             "page": "Girolamo Brusoni",
-            "pageView": 6111
+            "pageView": 4,
+            "total": 6116
+        },
+        {
+            "page": "Valentino Degani",
+            "pageView": 4,
+            "total": 6239
         },
         {
             "page": "Nadir Tedeschi",
-            "pageView": 5622
+            "pageView": 3,
+            "total": 5623
         },
         {
             "page": "Vic Nocera",
-            "pageView": 4616
-        },
-        {
-            "page": "Gherardo Ghirardini",
-            "pageView": 3410
-        },
-        {
-            "page": "Amedeo Bianchi",
-            "pageView": 3186
+            "pageView": 3,
+            "total": 4620
         },
         {
             "page": "Luciano Nezzo",
-            "pageView": 2669
+            "pageView": 2,
+            "total": 2670
         },
         {
             "page": "Giuseppe De Marchi",
-            "pageView": 2069
+            "pageView": 2,
+            "total": 2072
+        },
+        {
+            "page": "Amedeo Bianchi",
+            "pageView": 2,
+            "total": 3188
         },
         {
             "page": "Luigi Balzan",
-            "pageView": 1841
+            "pageView": 2,
+            "total": 1841
+        },
+        {
+            "page": "Gherardo Ghirardini",
+            "pageView": 2,
+            "total": 3410
         },
         {
             "page": "Jotti da Badia Polesine",
-            "pageView": 1472
+            "pageView": 1,
+            "total": 1473
+        },
+        {
+            "page": "Maurizio Marchetto",
+            "pageView": 0,
+            "total": 6392
         }
     ]
 }

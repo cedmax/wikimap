@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Giulietta Masina",
-            "pageView": 218593
+            "pageView": 112,
+            "total": 218656
         },
         {
             "page": "Luca Vitali",
-            "pageView": 72410
+            "pageView": 27,
+            "total": 72448
         },
         {
             "page": "Mario Melloni",
-            "pageView": 34923
+            "pageView": 21,
+            "total": 34956
         },
         {
             "page": "Gilberto Baroni",
-            "pageView": 9885
+            "pageView": 6,
+            "total": 9888
         },
         {
             "page": "Dino Fiorini",
-            "pageView": 8880
-        },
-        {
-            "page": "Cesare Alberti (calciatore 1904)",
-            "pageView": 8779
+            "pageView": 5,
+            "total": 8888
         },
         {
             "page": "Giorgio Francia",
-            "pageView": 8730
+            "pageView": 5,
+            "total": 8732
+        },
+        {
+            "page": "Cesare Alberti (calciatore 1904)",
+            "pageView": 5,
+            "total": 8783
         },
         {
             "page": "Guido Alberti (calciatore)",
-            "pageView": 6957
+            "pageView": 4,
+            "total": 6961
         },
         {
             "page": "Enelio Franzoni",
-            "pageView": 4566
+            "pageView": 3,
+            "total": 4568
         },
         {
             "page": "Rudi Ghedini",
-            "pageView": 4196
+            "pageView": 3,
+            "total": 4196
         },
         {
             "page": "Enio Gnudi",
-            "pageView": 3510
+            "pageView": 2,
+            "total": 3514
         },
         {
             "page": "Agostino Baroni",
-            "pageView": 2200
+            "pageView": 2,
+            "total": 2202
         },
         {
             "page": "Dino Poggi",
-            "pageView": 2151
-        },
-        {
-            "page": "Aldo Tugnoli",
-            "pageView": 1748
+            "pageView": 2,
+            "total": 2152
         },
         {
             "page": "Omero Schiassi",
-            "pageView": 919
+            "pageView": 1,
+            "total": 919
+        },
+        {
+            "page": "Aldo Tugnoli",
+            "pageView": 1,
+            "total": 1749
         },
         {
             "page": "Antonio Atti",
-            "pageView": 425
+            "pageView": 0,
+            "total": 425
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.11086149183768610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fontanelle",
+    "place_name": "Fontanelle, Treviso, Italy",
+    "bbox": [
+        12.411917,
+        45.782083,
+        12.498943,
+        45.867101
+    ],
+    "center": [
+        12.46667,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.46667,
+            45.83333
+        ]
+    }
+}

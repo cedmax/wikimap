@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Giuseppe Antoci",
-            "pageView": 37062
-        },
-        {
-            "page": "Antonino Piscitello",
-            "pageView": 2545
+            "pageView": 17,
+            "total": 37077
         },
         {
             "page": "Giuseppe Gerbino",
-            "pageView": 2352
-        },
-        {
-            "page": "Filippo Florena",
-            "pageView": 1258
+            "pageView": 2,
+            "total": 2352
         },
         {
             "page": "Vincenzo Lombardo",
-            "pageView": 1190
+            "pageView": 2,
+            "total": 1191
         },
         {
-            "page": "Giovanni Sergio",
-            "pageView": 864
+            "page": "Antonino Piscitello",
+            "pageView": 2,
+            "total": 2545
+        },
+        {
+            "page": "Filippo Florena",
+            "pageView": 1,
+            "total": 1260
         },
         {
             "page": "Matteo Muscella",
-            "pageView": 730
+            "pageView": 1,
+            "total": 732
+        },
+        {
+            "page": "Giovanni Sergio",
+            "pageView": 1,
+            "total": 865
         }
     ]
 }

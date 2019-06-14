@@ -1,0 +1,27 @@
+{
+    "id": "place.12225957389517320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lazise",
+    "place_name": "Lazise, Verona, Italy",
+    "bbox": [
+        10.638696,
+        45.437645,
+        10.783563,
+        45.519744
+    ],
+    "center": [
+        10.7325,
+        45.50528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7325,
+            45.50528
+        ]
+    }
+}

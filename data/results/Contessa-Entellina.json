@@ -2,28 +2,34 @@
     "name": "Contessa Entellina",
     "people": [
         {
+            "page": "Bino (cantante)",
+            "pageView": 5,
+            "total": 1899
+        },
+        {
             "page": "Ibn al-Thumna",
-            "pageView": 3548
+            "pageView": 2,
+            "total": 3550
         },
         {
             "page": "Nicolò Chetta",
-            "pageView": 2441
-        },
-        {
-            "page": "Bino (cantante)",
-            "pageView": 1894
+            "pageView": 2,
+            "total": 2441
         },
         {
             "page": "Matteo Sciambra",
-            "pageView": 1891
+            "pageView": 2,
+            "total": 1891
         },
         {
             "page": "Ignazio Montemagno",
-            "pageView": 1598
+            "pageView": 1,
+            "total": 1598
         },
         {
             "page": "Vincenzo Scramuzza",
-            "pageView": 1100
+            "pageView": 1,
+            "total": 1106
         }
     ]
 }

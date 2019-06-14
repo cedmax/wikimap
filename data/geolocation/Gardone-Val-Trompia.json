@@ -1,0 +1,27 @@
+{
+    "id": "place.4991015866112070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gardone Val Trompia",
+    "place_name": "Gardone Val Trompia, Brescia, Italy",
+    "bbox": [
+        10.138224,
+        45.674169,
+        10.211685,
+        45.741698
+    ],
+    "center": [
+        10.18333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            45.68333
+        ]
+    }
+}

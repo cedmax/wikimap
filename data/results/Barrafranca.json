@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Vito Riggio",
-            "pageView": 18080
+            "pageView": 10,
+            "total": 18089
         },
         {
             "page": "Rosario Lanza",
-            "pageView": 5483
+            "pageView": 3,
+            "total": 5485
         },
         {
             "page": "Alfonso Canzio",
-            "pageView": 2758
+            "pageView": 2,
+            "total": 2761
         }
     ]
 }

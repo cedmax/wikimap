@@ -1,0 +1,27 @@
+{
+    "id": "place.15156401155792690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Tolle",
+    "place_name": "Porto Tolle, Rovigo, Italy",
+    "bbox": [
+        12.299559,
+        44.797553,
+        12.552004,
+        45.03602
+    ],
+    "center": [
+        12.31667,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.31667,
+            44.95
+        ]
+    }
+}

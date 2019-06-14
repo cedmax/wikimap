@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Pietro Barcellona",
-            "pageView": 12445
+            "pageView": 8,
+            "total": 12454
         },
         {
             "page": "Gabriele Allegra",
-            "pageView": 9034
-        },
-        {
-            "page": "Giuseppe Recupero",
-            "pageView": 3300
+            "pageView": 5,
+            "total": 9040
         },
         {
             "page": "Fabio Finocchiaro",
-            "pageView": 2010
+            "pageView": 2,
+            "total": 2013
+        },
+        {
+            "page": "Giuseppe Recupero",
+            "pageView": 2,
+            "total": 3302
         }
     ]
 }

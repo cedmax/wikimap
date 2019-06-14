@@ -1,0 +1,21 @@
+{
+    "id": "poi.429496730314",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cuglieri",
+    "place_name": "Cuglieri, via Carlo Alberto 33, Cuglieri, Oristano 09073, Italy",
+    "center": [
+        8.572454,
+        40.184557
+    ],
+    "geometry": {
+        "coordinates": [
+            8.572454,
+            40.184557
+        ],
+        "type": "Point"
+    }
+}

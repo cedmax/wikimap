@@ -1,0 +1,27 @@
+{
+    "id": "place.18743076396249580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nocera Umbra",
+    "place_name": "Nocera Umbra, Perugia, Italy",
+    "bbox": [
+        12.689425,
+        43.059254,
+        12.898005,
+        43.217142
+    ],
+    "center": [
+        12.78333,
+        43.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.78333,
+            43.11667
+        ]
+    }
+}

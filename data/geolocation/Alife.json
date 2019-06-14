@@ -1,0 +1,27 @@
+{
+    "id": "place.11415055635570780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alife",
+    "place_name": "Alife, Caserta, Italy",
+    "bbox": [
+        14.274682,
+        41.269863,
+        14.39467,
+        41.385772
+    ],
+    "center": [
+        14.33333,
+        41.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.33333,
+            41.33333
+        ]
+    }
+}

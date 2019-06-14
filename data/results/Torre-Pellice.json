@@ -2,308 +2,384 @@
     "name": "Torre Pellice",
     "people": [
         {
-            "page": "Paolo Paschetto",
-            "pageView": 15521
-        },
-        {
             "page": "Paolo Ricca (teologo)",
-            "pageView": 14782
+            "pageView": 9,
+            "total": 14783
         },
         {
-            "page": "Millosh Gjergj Nikolla",
-            "pageView": 9821
+            "page": "Paolo Paschetto",
+            "pageView": 9,
+            "total": 15534
         },
         {
             "page": "Bruno Villabruna",
-            "pageView": 9601
+            "pageView": 6,
+            "total": 9604
+        },
+        {
+            "page": "Millosh Gjergj Nikolla",
+            "pageView": 6,
+            "total": 9829
         },
         {
             "page": "Ico Migliore",
-            "pageView": 7019
-        },
-        {
-            "page": "Andrea Chiarotti",
-            "pageView": 5840
-        },
-        {
-            "page": "Patrice Lefebvre",
-            "pageView": 5419
-        },
-        {
-            "page": "Charles John Beckwith",
-            "pageView": 5242
+            "pageView": 4,
+            "total": 7019
         },
         {
             "page": "Maria Chiara Acciarini",
-            "pageView": 5088
-        },
-        {
-            "page": "Luca Frigo",
-            "pageView": 5074
+            "pageView": 3,
+            "total": 5093
         },
         {
             "page": "Pat Curcio",
-            "pageView": 4921
+            "pageView": 3,
+            "total": 4922
         },
         {
-            "page": "Tom Barrasso",
-            "pageView": 4601
+            "page": "Luca Frigo",
+            "pageView": 3,
+            "total": 5075
         },
         {
             "page": "Ferruccio Castellano",
-            "pageView": 3829
+            "pageView": 3,
+            "total": 3829
         },
         {
-            "page": "Filippo Scroppo",
-            "pageView": 3621
+            "page": "Charles John Beckwith",
+            "pageView": 3,
+            "total": 5246
         },
         {
-            "page": "Tommaso Migliore",
-            "pageView": 3534
+            "page": "Patrice Lefebvre",
+            "pageView": 3,
+            "total": 5421
+        },
+        {
+            "page": "Tom Barrasso",
+            "pageView": 3,
+            "total": 4603
         },
         {
             "page": "Nate DiCasmirro",
-            "pageView": 3161
+            "pageView": 2,
+            "total": 3167
         },
         {
             "page": "Corrado Tamietti",
-            "pageView": 3145
-        },
-        {
-            "page": "Tommaso Traversa",
-            "pageView": 3113
-        },
-        {
-            "page": "Laura Trossarelli",
-            "pageView": 3070
-        },
-        {
-            "page": "Brian Ihnacak",
-            "pageView": 2994
-        },
-        {
-            "page": "Federico Benetti",
-            "pageView": 2982
-        },
-        {
-            "page": "Trevor Johnson",
-            "pageView": 2883
-        },
-        {
-            "page": "Aleksandr Petrov (hockeista su ghiaccio)",
-            "pageView": 2803
-        },
-        {
-            "page": "Luca Felicetti",
-            "pageView": 2800
-        },
-        {
-            "page": "Francesco De Biasio",
-            "pageView": 2732
-        },
-        {
-            "page": "Luca Zandonella",
-            "pageView": 2440
-        },
-        {
-            "page": "Massimo Da Rin",
-            "pageView": 2366
-        },
-        {
-            "page": "Davide Nicoletti",
-            "pageView": 2365
-        },
-        {
-            "page": "Andrea Ambrosi",
-            "pageView": 2336
-        },
-        {
-            "page": "Edoardo Giretti",
-            "pageView": 2102
-        },
-        {
-            "page": "Dino Grossi",
-            "pageView": 2075
-        },
-        {
-            "page": "Jordan Parise",
-            "pageView": 2052
+            "pageView": 2,
+            "total": 3145
         },
         {
             "page": "Luciano Aquino",
-            "pageView": 2034
+            "pageView": 2,
+            "total": 2034
         },
         {
-            "page": "Sasha Meneghetti",
-            "pageView": 1919
+            "page": "Laura Trossarelli",
+            "pageView": 2,
+            "total": 3071
+        },
+        {
+            "page": "Luca Felicetti",
+            "pageView": 2,
+            "total": 2801
+        },
+        {
+            "page": "Filippo Scroppo",
+            "pageView": 2,
+            "total": 3622
+        },
+        {
+            "page": "Federico Benetti",
+            "pageView": 2,
+            "total": 2984
+        },
+        {
+            "page": "Dino Grossi",
+            "pageView": 2,
+            "total": 2076
+        },
+        {
+            "page": "Massimo Da Rin",
+            "pageView": 2,
+            "total": 2371
+        },
+        {
+            "page": "Francesco De Biasio",
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Brian Ihnacak",
+            "pageView": 2,
+            "total": 2995
+        },
+        {
+            "page": "Luca Zandonella",
+            "pageView": 2,
+            "total": 2440
+        },
+        {
+            "page": "Tommaso Traversa",
+            "pageView": 2,
+            "total": 3114
+        },
+        {
+            "page": "Trevor Johnson",
+            "pageView": 2,
+            "total": 2886
+        },
+        {
+            "page": "Edoardo Giretti",
+            "pageView": 2,
+            "total": 2103
         },
         {
             "page": "Alex Silva (hockeista su ghiaccio)",
-            "pageView": 1919
+            "pageView": 2,
+            "total": 1920
         },
         {
             "page": "André Signoretti",
-            "pageView": 1896
-        },
-        {
-            "page": "Pat Iannone",
-            "pageView": 1886
-        },
-        {
-            "page": "Michael Mazzacane",
-            "pageView": 1867
-        },
-        {
-            "page": "Enrico Dorigatti",
-            "pageView": 1780
+            "pageView": 2,
+            "total": 1896
         },
         {
             "page": "Dario Saletta",
-            "pageView": 1764
+            "pageView": 2,
+            "total": 1764
         },
         {
-            "page": "Marco Scapinello",
-            "pageView": 1689
+            "page": "Michael Mazzacane",
+            "pageView": 2,
+            "total": 1867
+        },
+        {
+            "page": "Sasha Meneghetti",
+            "pageView": 2,
+            "total": 1920
+        },
+        {
+            "page": "Andrea Ambrosi",
+            "pageView": 2,
+            "total": 2336
+        },
+        {
+            "page": "Tommaso Migliore",
+            "pageView": 2,
+            "total": 3535
+        },
+        {
+            "page": "Davide Nicoletti",
+            "pageView": 2,
+            "total": 2365
+        },
+        {
+            "page": "Andrea Chiarotti",
+            "pageView": 2,
+            "total": 6157
+        },
+        {
+            "page": "Aleksandr Petrov (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 2807
         },
         {
             "page": "Carter Trevisani",
-            "pageView": 1652
+            "pageView": 1,
+            "total": 1652
         },
         {
-            "page": "Ermanno Geymonat",
-            "pageView": 1652
-        },
-        {
-            "page": "Marco Tremolaterra",
-            "pageView": 1638
-        },
-        {
-            "page": "Alcide Arnoulet",
-            "pageView": 1617
-        },
-        {
-            "page": "Franco Viale",
-            "pageView": 1610
-        },
-        {
-            "page": "Martino Durand Varese",
-            "pageView": 1593
-        },
-        {
-            "page": "Robert Sirianni",
-            "pageView": 1584
-        },
-        {
-            "page": "Anthony Aquino",
-            "pageView": 1518
-        },
-        {
-            "page": "Florian Runer",
-            "pageView": 1485
-        },
-        {
-            "page": "Christian Pouget",
-            "pageView": 1454
-        },
-        {
-            "page": "Oscar De Beaux",
-            "pageView": 1402
-        },
-        {
-            "page": "Ralph Intranuovo",
-            "pageView": 1370
-        },
-        {
-            "page": "Mike Di Stefano",
-            "pageView": 1336
-        },
-        {
-            "page": "Patrick Dell Iannone",
-            "pageView": 1329
-        },
-        {
-            "page": "Enrico Malacarne",
-            "pageView": 1280
-        },
-        {
-            "page": "Giorgio Appia",
-            "pageView": 1232
-        },
-        {
-            "page": "Felix Oberrauch",
-            "pageView": 1179
-        },
-        {
-            "page": "Stefan Della Rovere",
-            "pageView": 1137
-        },
-        {
-            "page": "Andrea Marchiorato",
-            "pageView": 1104
-        },
-        {
-            "page": "Damian Surma",
-            "pageView": 1084
-        },
-        {
-            "page": "Odoardo Jalla",
-            "pageView": 1080
-        },
-        {
-            "page": "Brodie Dupont",
-            "pageView": 1051
-        },
-        {
-            "page": "Marco Rossi (hockeista su ghiaccio)",
-            "pageView": 1023
-        },
-        {
-            "page": "Patrick Rizzo",
-            "pageView": 964
-        },
-        {
-            "page": "Pippo Limnell Finocchiaro",
-            "pageView": 958
-        },
-        {
-            "page": "Jeff Frazee",
-            "pageView": 944
-        },
-        {
-            "page": "Massimo Stevanoni",
-            "pageView": 916
-        },
-        {
-            "page": "Kevin Regan",
-            "pageView": 816
-        },
-        {
-            "page": "Edoardo Caletti",
-            "pageView": 807
+            "page": "Jordan Parise",
+            "pageView": 1,
+            "total": 2053
         },
         {
             "page": "Marco Pozzi (hockeista su ghiaccio)",
-            "pageView": 722
+            "pageView": 1,
+            "total": 722
         },
         {
-            "page": "Stefan Ilić (hockeista)",
-            "pageView": 688
+            "page": "Kevin Regan",
+            "pageView": 1,
+            "total": 818
         },
         {
             "page": "Valentina Ricca",
-            "pageView": 661
+            "pageView": 1,
+            "total": 662
         },
         {
-            "page": "Dušan Sidor (hockeista su ghiaccio)",
-            "pageView": 375
+            "page": "Patrick Rizzo",
+            "pageView": 1,
+            "total": 964
+        },
+        {
+            "page": "Marco Rossi (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1023
+        },
+        {
+            "page": "Florian Runer",
+            "pageView": 1,
+            "total": 1485
+        },
+        {
+            "page": "Andrea Marchiorato",
+            "pageView": 1,
+            "total": 1104
+        },
+        {
+            "page": "Marco Scapinello",
+            "pageView": 1,
+            "total": 1690
+        },
+        {
+            "page": "Anthony Aquino",
+            "pageView": 1,
+            "total": 1518
+        },
+        {
+            "page": "Enrico Malacarne",
+            "pageView": 1,
+            "total": 1281
+        },
+        {
+            "page": "Pippo Limnell Finocchiaro",
+            "pageView": 1,
+            "total": 958
+        },
+        {
+            "page": "Robert Sirianni",
+            "pageView": 1,
+            "total": 1584
+        },
+        {
+            "page": "Massimo Stevanoni",
+            "pageView": 1,
+            "total": 916
+        },
+        {
+            "page": "Stefan Della Rovere",
+            "pageView": 1,
+            "total": 1138
+        },
+        {
+            "page": "Damian Surma",
+            "pageView": 1,
+            "total": 1084
+        },
+        {
+            "page": "Ralph Intranuovo",
+            "pageView": 1,
+            "total": 1370
+        },
+        {
+            "page": "Marco Tremolaterra",
+            "pageView": 1,
+            "total": 1639
+        },
+        {
+            "page": "Felix Oberrauch",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Franco Viale",
+            "pageView": 1,
+            "total": 1610
+        },
+        {
+            "page": "Mike Di Stefano",
+            "pageView": 1,
+            "total": 1337
+        },
+        {
+            "page": "Pat Iannone",
+            "pageView": 1,
+            "total": 1886
+        },
+        {
+            "page": "Oscar De Beaux",
+            "pageView": 1,
+            "total": 1402
+        },
+        {
+            "page": "Alcide Arnoulet",
+            "pageView": 1,
+            "total": 1621
+        },
+        {
+            "page": "Ermanno Geymonat",
+            "pageView": 1,
+            "total": 1653
+        },
+        {
+            "page": "Odoardo Jalla",
+            "pageView": 1,
+            "total": 1081
+        },
+        {
+            "page": "Patrick Dell Iannone",
+            "pageView": 1,
+            "total": 1331
+        },
+        {
+            "page": "Jeff Frazee",
+            "pageView": 1,
+            "total": 945
+        },
+        {
+            "page": "Martino Durand Varese",
+            "pageView": 1,
+            "total": 1593
+        },
+        {
+            "page": "Brodie Dupont",
+            "pageView": 1,
+            "total": 1051
+        },
+        {
+            "page": "Enrico Dorigatti",
+            "pageView": 1,
+            "total": 1780
+        },
+        {
+            "page": "Giorgio Appia",
+            "pageView": 1,
+            "total": 1233
+        },
+        {
+            "page": "Christian Pouget",
+            "pageView": 1,
+            "total": 1456
         },
         {
             "page": "Matteo Gay",
-            "pageView": 252
+            "pageView": 0,
+            "total": 253
+        },
+        {
+            "page": "Stefan Ilić (hockeista)",
+            "pageView": 0,
+            "total": 689
         },
         {
             "page": "David Stricker",
-            "pageView": 223
+            "pageView": 0,
+            "total": 224
+        },
+        {
+            "page": "Edoardo Caletti",
+            "pageView": 0,
+            "total": 807
+        },
+        {
+            "page": "Dušan Sidor (hockeista su ghiaccio)",
+            "pageView": 0,
+            "total": 376
         }
     ]
 }

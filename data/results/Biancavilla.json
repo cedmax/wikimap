@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Alfio Cantarella",
-            "pageView": 52077
+            "pageView": 28,
+            "total": 52097
         },
         {
             "page": "Ciccino Sineri",
-            "pageView": 23572
+            "pageView": 8,
+            "total": 23578
         },
         {
             "page": "Antonio Bruno",
-            "pageView": 7206
-        },
-        {
-            "page": "Zenone Lavagna",
-            "pageView": 4432
+            "pageView": 4,
+            "total": 7212
         },
         {
             "page": "Giuseppe Coco",
-            "pageView": 4093
-        },
-        {
-            "page": "Nino Milazzo",
-            "pageView": 3525
+            "pageView": 3,
+            "total": 4098
         },
         {
             "page": "Giuseppe Tamo da Brescia",
-            "pageView": 1965
+            "pageView": 2,
+            "total": 1972
         },
         {
-            "page": "Giambattista Sangiorgio",
-            "pageView": 928
+            "page": "Zenone Lavagna",
+            "pageView": 2,
+            "total": 4432
+        },
+        {
+            "page": "Nino Milazzo",
+            "pageView": 2,
+            "total": 3529
         },
         {
             "page": "Francesco Ricceri",
-            "pageView": 882
+            "pageView": 2,
+            "total": 884
+        },
+        {
+            "page": "Giambattista Sangiorgio",
+            "pageView": 1,
+            "total": 929
         },
         {
             "page": "Giosuè Salomone",
-            "pageView": 173
+            "pageView": 0,
+            "total": 173
         }
     ]
 }

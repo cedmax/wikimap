@@ -1,0 +1,27 @@
+{
+    "id": "place.4778987073021720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castello di Godego",
+    "place_name": "Castello di Godego, Treviso, Italy",
+    "bbox": [
+        11.835198,
+        45.668915,
+        11.912591,
+        45.718158
+    ],
+    "center": [
+        11.88333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            45.7
+        ]
+    }
+}

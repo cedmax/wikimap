@@ -1,0 +1,27 @@
+{
+    "id": "place.9697958082689230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellazzo Bormida",
+    "place_name": "Castellazzo Bormida, Alessandria, Italy",
+    "bbox": [
+        8.510635,
+        44.782677,
+        8.6343,
+        44.875406
+    ],
+    "center": [
+        8.57833,
+        44.84611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.57833,
+            44.84611
+        ]
+    }
+}

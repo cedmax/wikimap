@@ -1,0 +1,27 @@
+{
+    "id": "place.7786265441928470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viadana",
+    "place_name": "Viadana, Mantova, Italy",
+    "bbox": [
+        10.466854,
+        44.909935,
+        10.711008,
+        45.055507
+    ],
+    "center": [
+        10.52,
+        44.92667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.52,
+            44.92667
+        ]
+    }
+}

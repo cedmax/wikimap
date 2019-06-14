@@ -2,56 +2,69 @@
     "name": "Carini",
     "people": [
         {
-            "page": "Antonino Agostino",
-            "pageView": 160349
+            "page": "Laura Lanza",
+            "pageView": 53,
+            "total": 89296
         },
         {
-            "page": "Laura Lanza",
-            "pageView": 89253
+            "page": "Antonino Agostino",
+            "pageView": 37,
+            "total": 160397
         },
         {
             "page": "Franco Indovina",
-            "pageView": 45095
+            "pageView": 25,
+            "total": 45106
         },
         {
             "page": "Claudia Mannino",
-            "pageView": 20021
-        },
-        {
-            "page": "Ugo Mursia",
-            "pageView": 8120
+            "pageView": 8,
+            "total": 20025
         },
         {
             "page": "Salvatore Genova",
-            "pageView": 7771
+            "pageView": 5,
+            "total": 7775
         },
         {
-            "page": "Susanna Stabile",
-            "pageView": 3622
-        },
-        {
-            "page": "Marco Di Maggio",
-            "pageView": 3109
-        },
-        {
-            "page": "Antonino Mannino",
-            "pageView": 2923
-        },
-        {
-            "page": "Pasquale Calapso",
-            "pageView": 2847
-        },
-        {
-            "page": "Roberta Giuliano",
-            "pageView": 2470
+            "page": "Ugo Mursia",
+            "pageView": 5,
+            "total": 8122
         },
         {
             "page": "Salvatore Ferrigno",
-            "pageView": 2162
+            "pageView": 2,
+            "total": 2163
+        },
+        {
+            "page": "Roberta Giuliano",
+            "pageView": 2,
+            "total": 2470
+        },
+        {
+            "page": "Antonino Mannino",
+            "pageView": 2,
+            "total": 2927
+        },
+        {
+            "page": "Marco Di Maggio",
+            "pageView": 2,
+            "total": 3110
+        },
+        {
+            "page": "Pasquale Calapso",
+            "pageView": 2,
+            "total": 2849
+        },
+        {
+            "page": "Susanna Stabile",
+            "pageView": 2,
+            "total": 3626
         },
         {
             "page": "Matteo Orlando",
-            "pageView": 252
+            "pageView": 0,
+            "total": 253
         }
     ]
 }

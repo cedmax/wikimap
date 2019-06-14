@@ -2,24 +2,29 @@
     "name": "Corfinio",
     "people": [
         {
-            "page": "Angelo Spina",
-            "pageView": 20845
+            "page": "Michele Fusco",
+            "pageView": 9,
+            "total": 6874
         },
         {
-            "page": "Michele Fusco",
-            "pageView": 6867
+            "page": "Angelo Spina",
+            "pageView": 9,
+            "total": 20859
         },
         {
             "page": "Giuseppe Di Falco",
-            "pageView": 4858
+            "pageView": 3,
+            "total": 4860
         },
         {
             "page": "Salvatore Delogu",
-            "pageView": 2673
+            "pageView": 2,
+            "total": 2675
         },
         {
             "page": "Mario Giuseppe Mirone",
-            "pageView": 704
+            "pageView": 0,
+            "total": 705
         }
     ]
 }

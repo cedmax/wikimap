@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Umile da Bisignano",
-            "pageView": 17994
-        },
-        {
-            "page": "Giovanni de' Marignolli",
-            "pageView": 3850
+            "pageView": 8,
+            "total": 17998
         },
         {
             "page": "Giovanni Leonardo Di Bona",
-            "pageView": 3674
+            "pageView": 4,
+            "total": 3676
         },
         {
-            "page": "Filippo Spinola",
-            "pageView": 3152
-        },
-        {
-            "page": "Ferruccio Baffa Trasci",
-            "pageView": 2275
+            "page": "Giovanni de' Marignolli",
+            "pageView": 3,
+            "total": 3852
         },
         {
             "page": "Paolo Piromalli",
-            "pageView": 2186
+            "pageView": 2,
+            "total": 2188
+        },
+        {
+            "page": "Ferruccio Baffa Trasci",
+            "pageView": 2,
+            "total": 2276
         },
         {
             "page": "Bonaventura Sculco",
-            "pageView": 2013
+            "pageView": 2,
+            "total": 2016
+        },
+        {
+            "page": "Filippo Spinola",
+            "pageView": 2,
+            "total": 3152
         },
         {
             "page": "Vincenzo Fasanella",
-            "pageView": 1689
+            "pageView": 1,
+            "total": 1691
         },
         {
             "page": "Domenico Petrucci",
-            "pageView": 487
+            "pageView": 0,
+            "total": 488
         },
         {
             "page": "Pompilio Berlingieri",
-            "pageView": 167
+            "pageView": 0,
+            "total": 167
         }
     ]
 }

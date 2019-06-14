@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Lucio Barani",
-            "pageView": 55235
+            "pageView": 18,
+            "total": 55245
         },
         {
             "page": "Enzo Bucchioni",
-            "pageView": 25919
+            "pageView": 15,
+            "total": 25935
         },
         {
             "page": "Giampaolo Montesano",
-            "pageView": 15209
+            "pageView": 9,
+            "total": 15215
         },
         {
             "page": "Jimmy Fialdini",
-            "pageView": 8919
+            "pageView": 5,
+            "total": 8924
         },
         {
             "page": "Luigi Scarabello",
-            "pageView": 6702
-        },
-        {
-            "page": "Pietro Sordi",
-            "pageView": 5231
+            "pageView": 4,
+            "total": 6703
         },
         {
             "page": "Cristina De Pietro",
-            "pageView": 5106
+            "pageView": 3,
+            "total": 5106
+        },
+        {
+            "page": "Pietro Sordi",
+            "pageView": 3,
+            "total": 5236
         },
         {
             "page": "Aldo Buttini",
-            "pageView": 3778
+            "pageView": 3,
+            "total": 3784
         },
         {
             "page": "Alfredo Franci",
-            "pageView": 2516
+            "pageView": 2,
+            "total": 2520
         },
         {
             "page": "Giuseppe Ciabattini",
-            "pageView": 2197
-        },
-        {
-            "page": "Pascasio Giannetti",
-            "pageView": 1906
+            "pageView": 2,
+            "total": 2198
         },
         {
             "page": "Leonardo Umile",
-            "pageView": 1673
+            "pageView": 1,
+            "total": 1674
+        },
+        {
+            "page": "Pascasio Giannetti",
+            "pageView": 1,
+            "total": 1907
         }
     ]
 }

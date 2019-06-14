@@ -1,0 +1,27 @@
+{
+    "id": "place.1650876707209850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villalba",
+    "place_name": "Villalba, Caltanissetta, Italy",
+    "bbox": [
+        13.811287,
+        37.601735,
+        13.905221,
+        37.674972
+    ],
+    "center": [
+        13.83333,
+        37.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83333,
+            37.65
+        ]
+    }
+}

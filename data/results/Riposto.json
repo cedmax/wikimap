@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Francesco Calì",
-            "pageView": 19398
-        },
-        {
-            "page": "Giuseppe Giarrizzo",
-            "pageView": 14835
+            "pageView": 11,
+            "total": 19413
         },
         {
             "page": "Maurizio Anastasi",
-            "pageView": 12689
+            "pageView": 8,
+            "total": 12697
+        },
+        {
+            "page": "Giuseppe Giarrizzo",
+            "pageView": 8,
+            "total": 14847
         },
         {
             "page": "Santi Correnti",
-            "pageView": 10844
-        },
-        {
-            "page": "Giuseppe Costanzo",
-            "pageView": 10540
+            "pageView": 7,
+            "total": 10853
         },
         {
             "page": "Orazio Strano",
-            "pageView": 9134
+            "pageView": 6,
+            "total": 9143
+        },
+        {
+            "page": "Giuseppe Costanzo",
+            "pageView": 6,
+            "total": 10552
         },
         {
             "page": "Raffaele Leone (architetto)",
-            "pageView": 5608
-        },
-        {
-            "page": "Gregorio Alicata",
-            "pageView": 5003
+            "pageView": 3,
+            "total": 5612
         },
         {
             "page": "Federico Cafiero",
-            "pageView": 4821
+            "pageView": 3,
+            "total": 4825
         },
         {
-            "page": "Domenico Ligresti",
-            "pageView": 2672
-        },
-        {
-            "page": "Santi Rapisarda",
-            "pageView": 2304
+            "page": "Gregorio Alicata",
+            "pageView": 3,
+            "total": 5007
         },
         {
             "page": "Antonino Calabretta",
-            "pageView": 2091
-        },
-        {
-            "page": "Lorenzo Vigo-Fazio",
-            "pageView": 1602
+            "pageView": 2,
+            "total": 2092
         },
         {
             "page": "Domenico Arcidiacono",
-            "pageView": 886
+            "pageView": 2,
+            "total": 886
+        },
+        {
+            "page": "Domenico Ligresti",
+            "pageView": 2,
+            "total": 2672
+        },
+        {
+            "page": "Santi Rapisarda",
+            "pageView": 2,
+            "total": 2307
+        },
+        {
+            "page": "Lorenzo Vigo-Fazio",
+            "pageView": 1,
+            "total": 1602
         }
     ]
 }

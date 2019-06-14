@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Bartolo da Sassoferrato",
-            "pageView": 39876
+            "pageView": 26,
+            "total": 39896
         },
         {
             "page": "Sassoferrato (pittore)",
-            "pageView": 17091
+            "pageView": 19,
+            "total": 17109
         },
         {
             "page": "Italo Toni",
-            "pageView": 14904
+            "pageView": 8,
+            "total": 14916
         },
         {
             "page": "Angelo Recchi",
-            "pageView": 11172
+            "pageView": 7,
+            "total": 11176
         },
         {
             "page": "Niccolò Perotti",
-            "pageView": 9239
+            "pageView": 6,
+            "total": 9248
         },
         {
             "page": "Giancarlo Polidori",
-            "pageView": 8074
+            "pageView": 5,
+            "total": 8085
         },
         {
             "page": "Lorenzo Tomatis",
-            "pageView": 6377
-        },
-        {
-            "page": "Pietro Paolo Agabiti",
-            "pageView": 4587
+            "pageView": 4,
+            "total": 6387
         },
         {
             "page": "Elisa Polli",
-            "pageView": 4034
+            "pageView": 4,
+            "total": 4039
+        },
+        {
+            "page": "Pietro Paolo Agabiti",
+            "pageView": 3,
+            "total": 4590
         },
         {
             "page": "Andrea Costaguta",
-            "pageView": 3301
+            "pageView": 2,
+            "total": 3302
         },
         {
             "page": "Alessandro Oliva",
-            "pageView": 3191
+            "pageView": 2,
+            "total": 3194
         },
         {
             "page": "Albertino Castellucci",
-            "pageView": 2949
+            "pageView": 2,
+            "total": 2950
         },
         {
             "page": "Raul Lunardi",
-            "pageView": 1928
+            "pageView": 2,
+            "total": 1929
         },
         {
             "page": "Pietro Loretelli",
-            "pageView": 1773
-        },
-        {
-            "page": "Vincenzo Di Donato",
-            "pageView": 1653
-        },
-        {
-            "page": "Alberto da Sassoferrato",
-            "pageView": 1457
+            "pageView": 2,
+            "total": 1775
         },
         {
             "page": "Pietro da Sassoferrato",
-            "pageView": 1022
+            "pageView": 1,
+            "total": 1024
+        },
+        {
+            "page": "Vincenzo Di Donato",
+            "pageView": 1,
+            "total": 1654
+        },
+        {
+            "page": "Alberto da Sassoferrato",
+            "pageView": 1,
+            "total": 1460
         },
         {
             "page": "Baldassarre Olimpo degli Alessandri",
-            "pageView": 261
+            "pageView": 0,
+            "total": 264
         }
     ]
 }

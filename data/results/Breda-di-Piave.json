@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Elio Marcuzzo",
-            "pageView": 8672
+            "pageView": 5,
+            "total": 8679
         },
         {
             "page": "Niccolò Moretti",
-            "pageView": 4409
-        },
-        {
-            "page": "Aurelio Cestari",
-            "pageView": 2630
+            "pageView": 3,
+            "total": 4411
         },
         {
             "page": "Franz Gräser",
-            "pageView": 1163
+            "pageView": 2,
+            "total": 1164
+        },
+        {
+            "page": "Aurelio Cestari",
+            "pageView": 2,
+            "total": 2632
         },
         {
             "page": "Luigi Zanchetta",
-            "pageView": 377
+            "pageView": 0,
+            "total": 378
         }
     ]
 }

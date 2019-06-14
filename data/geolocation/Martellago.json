@@ -1,0 +1,27 @@
+{
+    "id": "place.2584875724027880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Martellago",
+    "place_name": "Martellago, Venezia, Italy",
+    "bbox": [
+        12.125743,
+        45.504465,
+        12.200105,
+        45.571259
+    ],
+    "center": [
+        12.1575,
+        45.54667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1575,
+            45.54667
+        ]
+    }
+}

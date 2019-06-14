@@ -1,0 +1,27 @@
+{
+    "id": "place.9692311146359190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alleghe",
+    "place_name": "Alleghe, Belluno, Italy",
+    "bbox": [
+        11.987128,
+        46.365984,
+        12.09794,
+        46.445163
+    ],
+    "center": [
+        12.0257,
+        46.4081
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0257,
+            46.4081
+        ]
+    }
+}

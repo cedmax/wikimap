@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Antonio Margheriti",
-            "pageView": 53220
+            "pageView": 34,
+            "total": 53242
         },
         {
             "page": "Ettore Rosso",
-            "pageView": 4084
+            "pageView": 3,
+            "total": 4087
         },
         {
             "page": "Cristoforo Giarda",
-            "pageView": 2530
+            "pageView": 2,
+            "total": 2531
         }
     ]
 }

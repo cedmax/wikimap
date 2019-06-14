@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Fernando Di Leo",
-            "pageView": 94382
+            "pageView": 56,
+            "total": 94433
         },
         {
             "page": "Mauro Spina",
-            "pageView": 11650
+            "pageView": 9,
+            "total": 11657
         },
         {
             "page": "Emanuele Bombini",
-            "pageView": 7121
-        },
-        {
-            "page": "Giuseppe Frascolla",
-            "pageView": 4697
-        },
-        {
-            "page": "Marino Piazzolla",
-            "pageView": 4686
+            "pageView": 4,
+            "total": 7126
         },
         {
             "page": "Enzo Di Paola",
-            "pageView": 4108
+            "pageView": 3,
+            "total": 4109
+        },
+        {
+            "page": "Giuseppe Frascolla",
+            "pageView": 3,
+            "total": 4703
+        },
+        {
+            "page": "Marino Piazzolla",
+            "pageView": 3,
+            "total": 4688
         },
         {
             "page": "Franchino Camporeale",
-            "pageView": 3611
-        },
-        {
-            "page": "Savino Giuseppe Vania",
-            "pageView": 1658
+            "pageView": 2,
+            "total": 3612
         },
         {
             "page": "Bernardo de Pace",
-            "pageView": 1347
+            "pageView": 2,
+            "total": 1347
+        },
+        {
+            "page": "Savino Giuseppe Vania",
+            "pageView": 2,
+            "total": 1659
         },
         {
             "page": "Adamo Riontino",
-            "pageView": 249
+            "pageView": 0,
+            "total": 249
         }
     ]
 }

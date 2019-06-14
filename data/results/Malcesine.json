@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Massimo Sarmi",
-            "pageView": 19789
+            "pageView": 10,
+            "total": 19796
         },
         {
             "page": "Alberto Pariani",
-            "pageView": 13572
+            "pageView": 9,
+            "total": 13581
         },
         {
             "page": "Franco Vegliani",
-            "pageView": 3878
-        },
-        {
-            "page": "Domenico Turazza",
-            "pageView": 3589
+            "pageView": 3,
+            "total": 3879
         },
         {
             "page": "Giuseppe Leonardi",
-            "pageView": 3335
+            "pageView": 2,
+            "total": 3335
+        },
+        {
+            "page": "Domenico Turazza",
+            "pageView": 2,
+            "total": 3591
         }
     ]
 }

@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Paolo Pillitteri",
-            "pageView": 55054
-        },
-        {
-            "page": "Franco Franchi (cantante)",
-            "pageView": 25075
+            "pageView": 31,
+            "total": 55089
         },
         {
             "page": "Cesare da Sesto",
-            "pageView": 21878
+            "pageView": 14,
+            "total": 21895
+        },
+        {
+            "page": "Franco Franchi (cantante)",
+            "pageView": 8,
+            "total": 25101
         },
         {
             "page": "Alessandro Marchetti (ingegnere)",
-            "pageView": 12539
+            "pageView": 8,
+            "total": 12549
         },
         {
             "page": "Giulia De Mutiis",
-            "pageView": 5015
+            "pageView": 3,
+            "total": 5016
         },
         {
             "page": "Giancarlo Sangregorio",
-            "pageView": 3235
-        },
-        {
-            "page": "Daniele Revere",
-            "pageView": 2648
-        },
-        {
-            "page": "Enrico Larini",
-            "pageView": 2222
-        },
-        {
-            "page": "Ruggero Maghini",
-            "pageView": 2102
-        },
-        {
-            "page": "Battista Corbani",
-            "pageView": 1563
+            "pageView": 2,
+            "total": 3235
         },
         {
             "page": "Luigi Capè",
-            "pageView": 1559
+            "pageView": 2,
+            "total": 1559
         },
         {
-            "page": "Lorenzo Zeni",
-            "pageView": 1109
+            "page": "Enrico Larini",
+            "pageView": 2,
+            "total": 2223
+        },
+        {
+            "page": "Ruggero Maghini",
+            "pageView": 2,
+            "total": 2104
+        },
+        {
+            "page": "Daniele Revere",
+            "pageView": 2,
+            "total": 2648
         },
         {
             "page": "Dionigi Besozzi",
-            "pageView": 1028
+            "pageView": 1,
+            "total": 1029
+        },
+        {
+            "page": "Battista Corbani",
+            "pageView": 1,
+            "total": 1563
+        },
+        {
+            "page": "Lorenzo Zeni",
+            "pageView": 1,
+            "total": 1110
         }
     ]
 }

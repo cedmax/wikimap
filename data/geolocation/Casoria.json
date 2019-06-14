@@ -1,0 +1,27 @@
+{
+    "id": "place.11099505175082670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casoria",
+    "place_name": "Casoria, Napoli, Italy",
+    "bbox": [
+        14.279446,
+        40.875515,
+        14.331548,
+        40.929661
+    ],
+    "center": [
+        14.3,
+        40.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3,
+            40.9
+        ]
+    }
+}

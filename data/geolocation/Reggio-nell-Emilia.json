@@ -1,0 +1,27 @@
+{
+    "id": "place.16446939876856870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Reggio nell'Emilia",
+    "place_name": "Reggio nell'Emilia, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.491066,
+        44.62425,
+        10.773402,
+        44.77452
+    ],
+    "center": [
+        10.63333,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63333,
+            44.7
+        ]
+    }
+}

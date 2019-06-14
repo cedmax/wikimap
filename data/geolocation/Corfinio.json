@@ -1,0 +1,27 @@
+{
+    "id": "place.2904820008255980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corfinio",
+    "place_name": "Corfinio, L'Aquila, Italy",
+    "bbox": [
+        13.822491,
+        42.103463,
+        13.906557,
+        42.16546
+    ],
+    "center": [
+        13.8425,
+        42.12472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.8425,
+            42.12472
+        ]
+    }
+}

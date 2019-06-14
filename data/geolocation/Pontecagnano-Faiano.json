@@ -1,0 +1,27 @@
+{
+    "id": "place.6568555978163070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontecagnano Faiano",
+    "place_name": "Pontecagnano Faiano, Salerno, Italy",
+    "bbox": [
+        14.839768,
+        40.579387,
+        14.925916,
+        40.676591
+    ],
+    "center": [
+        14.88333,
+        40.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88333,
+            40.65
+        ]
+    }
+}

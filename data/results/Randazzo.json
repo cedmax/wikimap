@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Antonio Canepa (docente)",
-            "pageView": 10674
+            "pageView": 10,
+            "total": 10701
         },
         {
             "page": "Domenico Spadafora",
-            "pageView": 5764
+            "pageView": 3,
+            "total": 5764
         },
         {
             "page": "Luigi Rabatà",
-            "pageView": 2432
-        },
-        {
-            "page": "Erasmo Marotta",
-            "pageView": 2166
+            "pageView": 2,
+            "total": 2433
         },
         {
             "page": "Casimiro Bonfiglio",
-            "pageView": 2064
+            "pageView": 2,
+            "total": 2066
+        },
+        {
+            "page": "Erasmo Marotta",
+            "pageView": 2,
+            "total": 2166
         },
         {
             "page": "Nicola Petrina",
-            "pageView": 1910
+            "pageView": 2,
+            "total": 1910
         },
         {
             "page": "Andrea Capparelli",
-            "pageView": 1668
+            "pageView": 1,
+            "total": 1668
         },
         {
             "page": "Giovanni Romeo delle Torrazze",
-            "pageView": 1577
-        },
-        {
-            "page": "Antonino da Randazzo",
-            "pageView": 1562
-        },
-        {
-            "page": "Maurizio Damiano",
-            "pageView": 1026
+            "pageView": 1,
+            "total": 1577
         },
         {
             "page": "Francesco Paolo Finocchiaro",
-            "pageView": 790
+            "pageView": 1,
+            "total": 790
+        },
+        {
+            "page": "Antonino da Randazzo",
+            "pageView": 1,
+            "total": 1563
+        },
+        {
+            "page": "Maurizio Damiano",
+            "pageView": 0,
+            "total": 1026
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.4834834289072330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Leo",
+    "place_name": "San Leo, Rimini, Italy",
+    "bbox": [
+        12.315474,
+        43.870775,
+        12.432873,
+        43.963514
+    ],
+    "center": [
+        12.34333,
+        43.89636
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.34333,
+            43.89636
+        ]
+    }
+}

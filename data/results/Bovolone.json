@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Matteo Gianello",
-            "pageView": 45673
+            "pageView": 28,
+            "total": 45697
         },
         {
             "page": "Giancarlo Perbellini",
-            "pageView": 26064
+            "pageView": 25,
+            "total": 26088
         },
         {
             "page": "Maria Pia Mastena",
-            "pageView": 25056
+            "pageView": 10,
+            "total": 25071
         },
         {
             "page": "Pietro Caucchioli",
-            "pageView": 8065
+            "pageView": 5,
+            "total": 8070
         },
         {
             "page": "Giuseppe Pasotto",
-            "pageView": 5148
+            "pageView": 3,
+            "total": 5149
         },
         {
             "page": "Franco Cappa",
-            "pageView": 2969
-        },
-        {
-            "page": "Alberto Vaccari",
-            "pageView": 2141
+            "pageView": 2,
+            "total": 2973
         },
         {
             "page": "Eleonora Patuzzo",
-            "pageView": 1973
+            "pageView": 2,
+            "total": 1974
+        },
+        {
+            "page": "Alberto Vaccari",
+            "pageView": 2,
+            "total": 2142
         },
         {
             "page": "Paolo Perazzani",
-            "pageView": 1466
+            "pageView": 1,
+            "total": 1466
         }
     ]
 }

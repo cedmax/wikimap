@@ -1,0 +1,27 @@
+{
+    "id": "place.11608682151720960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Attimis",
+    "place_name": "Attimis, Udine, Italy",
+    "bbox": [
+        13.27864,
+        46.147874,
+        13.388222,
+        46.234278
+    ],
+    "center": [
+        13.3,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.3,
+            46.18333
+        ]
+    }
+}

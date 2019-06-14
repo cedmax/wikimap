@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Davide Lajolo",
-            "pageView": 25440
+            "pageView": 16,
+            "total": 25524
         },
         {
             "page": "Giuseppe Cavallotto",
-            "pageView": 6976
+            "pageView": 4,
+            "total": 6977
         },
         {
             "page": "Filippo Fiandrotti",
-            "pageView": 4178
-        },
-        {
-            "page": "Francesco Vercelli",
-            "pageView": 2545
+            "pageView": 2,
+            "total": 4181
         },
         {
             "page": "Carlo Lajolo",
-            "pageView": 2118
+            "pageView": 2,
+            "total": 2118
+        },
+        {
+            "page": "Francesco Vercelli",
+            "pageView": 2,
+            "total": 2545
         }
     ]
 }

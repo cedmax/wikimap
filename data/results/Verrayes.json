@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Enrico Thiébat",
-            "pageView": 7617
+            "pageView": 3.5,
+            "total": 7622
         },
         {
             "page": "Pierre-Louis Vescoz",
-            "pageView": 1899
+            "pageView": 2,
+            "total": 1900
         }
     ]
 }

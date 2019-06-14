@@ -1,0 +1,27 @@
+{
+    "id": "place.16367776134641050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelvecchio Subequo",
+    "place_name": "Castelvecchio Subequo, L'Aquila, Italy",
+    "bbox": [
+        13.687385,
+        42.060887,
+        13.76292,
+        42.15247
+    ],
+    "center": [
+        13.72861,
+        42.13111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.72861,
+            42.13111
+        ]
+    }
+}

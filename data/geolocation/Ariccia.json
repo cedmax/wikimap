@@ -1,0 +1,27 @@
+{
+    "id": "place.7163727451343300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ariccia",
+    "place_name": "Ariccia, Roma, Italy",
+    "bbox": [
+        12.62035,
+        41.653489,
+        12.709601,
+        41.73963
+    ],
+    "center": [
+        12.66667,
+        41.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            41.71667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10084776926949880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro Mussolino",
+    "place_name": "San Pietro Mussolino, Vicenza, Italy",
+    "bbox": [
+        11.229063,
+        45.576162,
+        11.271784,
+        45.600764
+    ],
+    "center": [
+        11.25,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.25,
+            45.58333
+        ]
+    }
+}

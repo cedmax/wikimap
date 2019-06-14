@@ -1,0 +1,27 @@
+{
+    "id": "place.7838168790017050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Sant'Angelo",
+    "place_name": "Monte Sant'Angelo, Foggia, Italy",
+    "bbox": [
+        15.801594,
+        41.637484,
+        16.076787,
+        41.831307
+    ],
+    "center": [
+        15.96667,
+        41.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.96667,
+            41.7
+        ]
+    }
+}

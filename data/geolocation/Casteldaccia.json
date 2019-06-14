@@ -1,0 +1,21 @@
+{
+    "id": "poi.1374389535063",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Casteldaccia",
+    "place_name": "Casteldaccia, Casteldaccia, Palermo 90014, Italy",
+    "center": [
+        13.537136,
+        38.054722
+    ],
+    "geometry": {
+        "coordinates": [
+            13.537136,
+            38.054722
+        ],
+        "type": "Point"
+    }
+}

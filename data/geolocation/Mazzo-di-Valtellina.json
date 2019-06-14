@@ -1,0 +1,27 @@
+{
+    "id": "place.10454222499228230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mazzo di Valtellina",
+    "place_name": "Mazzo di Valtellina, Sondrio, Italy",
+    "bbox": [
+        10.189294,
+        46.236055,
+        10.315247,
+        46.286444
+    ],
+    "center": [
+        10.25,
+        46.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.25,
+            46.25
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9352986572199040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel San Pietro Terme",
+    "place_name": "Castel San Pietro Terme, Bologna, Italy",
+    "bbox": [
+        11.454691,
+        44.307002,
+        11.638838,
+        44.479571
+    ],
+    "center": [
+        11.58944,
+        44.39778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58944,
+            44.39778
+        ]
+    }
+}

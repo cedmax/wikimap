@@ -1,0 +1,27 @@
+{
+    "id": "place.14142623907456840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lozzo di Cadore",
+    "place_name": "Lozzo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.377661,
+        46.469904,
+        12.463764,
+        46.54003
+    ],
+    "center": [
+        12.45,
+        46.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            46.48333
+        ]
+    }
+}

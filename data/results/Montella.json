@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Leonarda Cianciulli",
-            "pageView": 614302
+            "pageView": 355,
+            "total": 615262
         },
         {
             "page": "Aurelio Fierro",
-            "pageView": 85250
+            "pageView": 46,
+            "total": 85291
         },
         {
             "page": "Giovanni Palatucci",
-            "pageView": 65175
-        },
-        {
-            "page": "Geno Auriemma",
-            "pageView": 15476
+            "pageView": 31,
+            "total": 65198
         },
         {
             "page": "Rinaldo d'Aquino",
-            "pageView": 12618
+            "pageView": 7,
+            "total": 12629
         },
         {
-            "page": "Attilio Fierro",
-            "pageView": 6906
+            "page": "Geno Auriemma",
+            "pageView": 7,
+            "total": 15483
         },
         {
             "page": "Michele Angelo Cianciulli",
-            "pageView": 6687
+            "pageView": 4,
+            "total": 6690
+        },
+        {
+            "page": "Attilio Fierro",
+            "pageView": 4,
+            "total": 6913
         },
         {
             "page": "Giuseppe Maria Palatucci",
-            "pageView": 6528
+            "pageView": 4,
+            "total": 6530
         },
         {
             "page": "Alberta De Simone",
-            "pageView": 5224
+            "pageView": 3,
+            "total": 5225
         },
         {
             "page": "Francesco Scandone",
-            "pageView": 3757
-        },
-        {
-            "page": "Attilio Marinari",
-            "pageView": 3179
-        },
-        {
-            "page": "Filippo Bonavitacola",
-            "pageView": 3029
+            "pageView": 3,
+            "total": 3759
         },
         {
             "page": "Michele Cianciulli",
-            "pageView": 2261
+            "pageView": 2,
+            "total": 2261
         },
         {
             "page": "Mario Giannone",
-            "pageView": 2075
+            "pageView": 2,
+            "total": 2075
+        },
+        {
+            "page": "Attilio Marinari",
+            "pageView": 2,
+            "total": 3181
+        },
+        {
+            "page": "Filippo Bonavitacola",
+            "pageView": 2,
+            "total": 3032
         },
         {
             "page": "Filippo Capone",
-            "pageView": 1548
+            "pageView": 1,
+            "total": 1552
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.11489571327779410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiumefreddo di Sicilia",
+    "place_name": "Fiumefreddo di Sicilia, Catania, Italy",
+    "bbox": [
+        15.176287,
+        37.767569,
+        15.238608,
+        37.803759
+    ],
+    "center": [
+        15.2,
+        37.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.2,
+            37.8
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10816561379539560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agata de' Goti",
+    "place_name": "Sant'Agata de' Goti, Benevento, Italy",
+    "bbox": [
+        14.429979,
+        41.047473,
+        14.578186,
+        41.13907
+    ],
+    "center": [
+        14.49743,
+        41.08932
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.49743,
+            41.08932
+        ]
+    }
+}

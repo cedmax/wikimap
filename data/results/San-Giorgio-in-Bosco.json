@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Luigi Pallaro",
-            "pageView": 7636
-        },
-        {
-            "page": "Vito Olivetti",
-            "pageView": 3461
-        },
-        {
-            "page": "Orfeo Ponsin",
-            "pageView": 3292
+            "pageView": 5,
+            "total": 7642
         },
         {
             "page": "Giorgio Favaro",
-            "pageView": 2439
+            "pageView": 2,
+            "total": 2439
         },
         {
-            "page": "Gino Visonà",
-            "pageView": 1585
+            "page": "Vito Olivetti",
+            "pageView": 2,
+            "total": 3466
+        },
+        {
+            "page": "Orfeo Ponsin",
+            "pageView": 2,
+            "total": 3293
         },
         {
             "page": "Urbano Mancini",
-            "pageView": 1317
+            "pageView": 1,
+            "total": 1317
+        },
+        {
+            "page": "Gino Visonà",
+            "pageView": 1,
+            "total": 1588
         }
     ]
 }

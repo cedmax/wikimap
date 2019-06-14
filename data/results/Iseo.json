@@ -3,91 +3,113 @@
     "people": [
         {
             "page": "Cristina Plevani",
-            "pageView": 237150
+            "pageView": 118,
+            "total": 237275
         },
         {
             "page": "Chiara Moroni",
-            "pageView": 24847
-        },
-        {
-            "page": "Mattia Gavazzi",
-            "pageView": 13081
-        },
-        {
-            "page": "Riccardo Venchiarutti",
-            "pageView": 12339
-        },
-        {
-            "page": "Franco Capelletti",
-            "pageView": 10506
+            "pageView": 15,
+            "total": 24857
         },
         {
             "page": "Gabriele Rosa",
-            "pageView": 9380
+            "pageView": 6,
+            "total": 9384
+        },
+        {
+            "page": "Riccardo Venchiarutti",
+            "pageView": 6,
+            "total": 12344
+        },
+        {
+            "page": "Franco Capelletti",
+            "pageView": 6,
+            "total": 10508
+        },
+        {
+            "page": "Mattia Gavazzi",
+            "pageView": 6,
+            "total": 13086
         },
         {
             "page": "Matteo Bono",
-            "pageView": 6609
-        },
-        {
-            "page": "Nicolas Marini",
-            "pageView": 5343
-        },
-        {
-            "page": "Nicola Gavazzi",
-            "pageView": 3642
-        },
-        {
-            "page": "Roberta Brunello",
-            "pageView": 3564
+            "pageView": 4,
+            "total": 6610
         },
         {
             "page": "Alessio Bolis",
-            "pageView": 3409
+            "pageView": 3,
+            "total": 3414
         },
         {
-            "page": "Francesco Bonatelli",
-            "pageView": 3390
-        },
-        {
-            "page": "Berardo Cittadini",
-            "pageView": 2525
+            "page": "Nicolas Marini",
+            "pageView": 3,
+            "total": 5347
         },
         {
             "page": "Giuseppe Bonardi",
-            "pageView": 1920
+            "pageView": 2,
+            "total": 1921
+        },
+        {
+            "page": "Berardo Cittadini",
+            "pageView": 2,
+            "total": 2525
         },
         {
             "page": "Silvio Bonardi",
-            "pageView": 1888
+            "pageView": 2,
+            "total": 1888
         },
         {
-            "page": "Mauro Zanetti (ciclista)",
-            "pageView": 1824
+            "page": "Francesco Bonatelli",
+            "pageView": 2,
+            "total": 3390
         },
         {
             "page": "Carlo Bonardi (garibaldino)",
-            "pageView": 1617
+            "pageView": 2,
+            "total": 1617
         },
         {
-            "page": "Uranio Fontana",
-            "pageView": 1600
+            "page": "Nicola Gavazzi",
+            "pageView": 2,
+            "total": 3643
+        },
+        {
+            "page": "Roberta Brunello",
+            "pageView": 2,
+            "total": 3568
+        },
+        {
+            "page": "Mauro Zanetti (ciclista)",
+            "pageView": 2,
+            "total": 1825
         },
         {
             "page": "Enrico D'Alessandro",
-            "pageView": 1315
-        },
-        {
-            "page": "Laura Gotti",
-            "pageView": 1190
+            "pageView": 2,
+            "total": 1319
         },
         {
             "page": "Paolo Nulli",
-            "pageView": 1124
+            "pageView": 1,
+            "total": 1124
+        },
+        {
+            "page": "Uranio Fontana",
+            "pageView": 1,
+            "total": 1601
         },
         {
             "page": "Massimo Bonardi",
-            "pageView": 737
+            "pageView": 1,
+            "total": 737
+        },
+        {
+            "page": "Laura Gotti",
+            "pageView": 0,
+            "total": 1195
         }
     ]
 }

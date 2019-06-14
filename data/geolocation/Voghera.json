@@ -1,0 +1,27 @@
+{
+    "id": "place.13075727910152280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Voghera",
+    "place_name": "Voghera, Pavia, Italy",
+    "bbox": [
+        8.960998,
+        44.959043,
+        9.069758,
+        45.068868
+    ],
+    "center": [
+        9.00917,
+        44.9925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.00917,
+            44.9925
+        ]
+    }
+}

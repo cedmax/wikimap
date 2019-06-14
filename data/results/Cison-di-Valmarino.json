@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Marco Casagrande",
-            "pageView": 2842
+            "pageView": 2,
+            "total": 2842
         },
         {
             "page": "Egidio Dall'Oglio",
-            "pageView": 2786
-        },
-        {
-            "page": "Giuseppe Lorenzoni",
-            "pageView": 2469
+            "pageView": 2,
+            "total": 2786
         },
         {
             "page": "Brandolino VI Brandolini",
-            "pageView": 2059
+            "pageView": 2,
+            "total": 2060
+        },
+        {
+            "page": "Giuseppe Lorenzoni",
+            "pageView": 2,
+            "total": 2470
         }
     ]
 }

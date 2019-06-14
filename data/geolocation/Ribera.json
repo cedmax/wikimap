@@ -1,0 +1,27 @@
+{
+    "id": "place.8550526690059460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ribera",
+    "place_name": "Ribera, Agrigento, Italy",
+    "bbox": [
+        13.202201,
+        37.394846,
+        13.383303,
+        37.531845
+    ],
+    "center": [
+        13.265,
+        37.49944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.265,
+            37.49944
+        ]
+    }
+}

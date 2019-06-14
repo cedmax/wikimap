@@ -1,0 +1,27 @@
+{
+    "id": "place.10010814477501980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerveteri",
+    "place_name": "Cerveteri, Roma, Italy",
+    "bbox": [
+        11.995425,
+        41.937282,
+        12.204682,
+        42.077196
+    ],
+    "center": [
+        12.1,
+        42
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            42
+        ]
+    }
+}

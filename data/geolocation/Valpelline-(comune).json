@@ -1,0 +1,27 @@
+{
+    "id": "place.5417862071017050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Valpelline",
+    "place_name": "Valpelline, Valle D'Aosta, Italy",
+    "bbox": [
+        7.313402,
+        45.792919,
+        7.40775,
+        45.869153
+    ],
+    "center": [
+        7.33333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.33333,
+            45.83333
+        ]
+    }
+}

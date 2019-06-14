@@ -1,0 +1,21 @@
+{
+    "id": "address.1708383664",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "Chiusa",
+    "place_name": "Chiusa, 14020 Settime Asti, Italy",
+    "center": [
+        8.097465,
+        44.954414
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.097465,
+            44.954414
+        ]
+    }
+}

@@ -3,407 +3,508 @@
     "people": [
         {
             "page": "Tiberio Murgia",
-            "pageView": 166940
-        },
-        {
-            "page": "Katia Serra",
-            "pageView": 135806
+            "pageView": 81,
+            "total": 167135
         },
         {
             "page": "Nicola Farron",
-            "pageView": 111957
+            "pageView": 64,
+            "total": 111996
         },
         {
             "page": "Benito Urgu",
-            "pageView": 99261
+            "pageView": 55,
+            "total": 99310
         },
         {
             "page": "Alessia Orro",
-            "pageView": 87004
+            "pageView": 35,
+            "total": 87219
+        },
+        {
+            "page": "Katia Serra",
+            "pageView": 19,
+            "total": 135859
         },
         {
             "page": "Cristian Cocco",
-            "pageView": 34836
-        },
-        {
-            "page": "Simona Sodini",
-            "pageView": 24313
-        },
-        {
-            "page": "Chiara Marchitelli",
-            "pageView": 21482
+            "pageView": 15,
+            "total": 34845
         },
         {
             "page": "Mariano IV d'Arborea",
-            "pageView": 20307
+            "pageView": 13,
+            "total": 20333
         },
         {
             "page": "Antonino Arconte",
-            "pageView": 19678
-        },
-        {
-            "page": "Ignazio Sanna",
-            "pageView": 15544
-        },
-        {
-            "page": "Franco Ligas",
-            "pageView": 13613
+            "pageView": 12,
+            "total": 19687
         },
         {
             "page": "Leonardo Alagon",
-            "pageView": 12819
+            "pageView": 8,
+            "total": 12825
         },
         {
-            "page": "Federica Daga",
-            "pageView": 11059
+            "page": "Ignazio Sanna",
+            "pageView": 8,
+            "total": 15558
         },
         {
-            "page": "Pamela Gueli",
-            "pageView": 10414
+            "page": "Franco Ligas",
+            "pageView": 7,
+            "total": 13643
         },
         {
-            "page": "Ugone III di Arborea",
-            "pageView": 9111
-        },
-        {
-            "page": "Paolo Piras",
-            "pageView": 8398
-        },
-        {
-            "page": "Peter Marcias",
-            "pageView": 8309
-        },
-        {
-            "page": "Mario Roberto Cassari",
-            "pageView": 8129
-        },
-        {
-            "page": "Umberto Erriu",
-            "pageView": 7607
-        },
-        {
-            "page": "Timbora di Roccaberti",
-            "pageView": 7513
-        },
-        {
-            "page": "Sergio Pintor",
-            "pageView": 7479
-        },
-        {
-            "page": "Antonio Corriga",
-            "pageView": 7072
-        },
-        {
-            "page": "Damiana Deiana",
-            "pageView": 7067
-        },
-        {
-            "page": "Stefano Oppo",
-            "pageView": 6737
-        },
-        {
-            "page": "Roberto Carboni",
-            "pageView": 6666
-        },
-        {
-            "page": "Mimma Fazio",
-            "pageView": 6492
-        },
-        {
-            "page": "Pier Giuliano Tiddia",
-            "pageView": 6488
-        },
-        {
-            "page": "Alessandro Ghinami",
-            "pageView": 6290
+            "page": "Chiara Marchitelli",
+            "pageView": 7,
+            "total": 21736
         },
         {
             "page": "Antonio Cincotta",
-            "pageView": 6138
+            "pageView": 6,
+            "total": 6152
         },
         {
-            "page": "Lucio Abis",
-            "pageView": 5944
+            "page": "Federica Daga",
+            "pageView": 6,
+            "total": 11065
         },
         {
-            "page": "Flavio Busonera",
-            "pageView": 5877
+            "page": "Simona Sodini",
+            "pageView": 6,
+            "total": 24326
         },
         {
-            "page": "Michele Pintauro",
-            "pageView": 5813
+            "page": "Pamela Gueli",
+            "pageView": 6,
+            "total": 10528
         },
         {
-            "page": "Manuela Tesse",
-            "pageView": 5612
+            "page": "Umberto Erriu",
+            "pageView": 5,
+            "total": 7611
         },
         {
-            "page": "Sabrina Tasselli",
-            "pageView": 5465
+            "page": "Sergio Pintor",
+            "pageView": 5,
+            "total": 7480
         },
         {
-            "page": "Eleonora Piacezzi",
-            "pageView": 5315
+            "page": "Paolo Piras",
+            "pageView": 5,
+            "total": 8401
         },
         {
-            "page": "Mariano II di Arborea",
-            "pageView": 5085
-        },
-        {
-            "page": "Davide Cova",
-            "pageView": 4927
-        },
-        {
-            "page": "Valentina Uccheddu",
-            "pageView": 4694
-        },
-        {
-            "page": "Agostino Grimaldi",
-            "pageView": 4678
-        },
-        {
-            "page": "Ernesto Maria Piovella",
-            "pageView": 4616
-        },
-        {
-            "page": "Franco Casu",
-            "pageView": 4610
-        },
-        {
-            "page": "Luca Cubeddu",
-            "pageView": 4568
-        },
-        {
-            "page": "Antonio Garau",
-            "pageView": 4387
-        },
-        {
-            "page": "Federica D'Astolfo",
-            "pageView": 4266
-        },
-        {
-            "page": "Raimondo Carta Raspi",
-            "pageView": 4059
-        },
-        {
-            "page": "Antonio Canopolo",
-            "pageView": 4027
-        },
-        {
-            "page": "Romina Pinna",
-            "pageView": 3854
-        },
-        {
-            "page": "Ugone I di Arborea",
-            "pageView": 3771
-        },
-        {
-            "page": "Alfredo Corrias",
-            "pageView": 3755
-        },
-        {
-            "page": "Alice Pignagnoli",
-            "pageView": 3748
-        },
-        {
-            "page": "Giovanni Maria Bua",
-            "pageView": 3651
-        },
-        {
-            "page": "Francesco Fancello",
-            "pageView": 3629
-        },
-        {
-            "page": "Maria Ilaria Pasqui",
-            "pageView": 3540
-        },
-        {
-            "page": "Ángeles Parejo Jiménez",
-            "pageView": 3463
-        },
-        {
-            "page": "Sabrina Marchese",
-            "pageView": 3444
-        },
-        {
-            "page": "Anna Rita Angotzi",
-            "pageView": 3388
-        },
-        {
-            "page": "Mario Pinna",
-            "pageView": 3349
-        },
-        {
-            "page": "Paolo Giuseppe Maria Serci Serra",
-            "pageView": 3197
-        },
-        {
-            "page": "Fabiana Colasuonno",
-            "pageView": 3101
-        },
-        {
-            "page": "Carla Brunozzi",
-            "pageView": 2941
-        },
-        {
-            "page": "Massimo Piras",
-            "pageView": 2882
-        },
-        {
-            "page": "Enrico Carboni",
-            "pageView": 2864
+            "page": "Ugone III di Arborea",
+            "pageView": 5,
+            "total": 9118
         },
         {
             "page": "Andrea Lutzu",
-            "pageView": 2847
+            "pageView": 5,
+            "total": 2849
         },
         {
-            "page": "Marianna Marini",
-            "pageView": 2712
+            "page": "Roberto Carboni",
+            "pageView": 5,
+            "total": 6677
         },
         {
-            "page": "Roberto Ennas",
-            "pageView": 2555
+            "page": "Pier Giuliano Tiddia",
+            "pageView": 4,
+            "total": 6498
         },
         {
-            "page": "Giulia Perelli",
-            "pageView": 2434
+            "page": "Michele Pintauro",
+            "pageView": 4,
+            "total": 5817
         },
         {
-            "page": "Milko Campus",
-            "pageView": 2297
+            "page": "Timbora di Roccaberti",
+            "pageView": 4,
+            "total": 7519
         },
         {
-            "page": "Leonardo Mura",
-            "pageView": 2286
+            "page": "Peter Marcias",
+            "pageView": 4,
+            "total": 8312
         },
         {
-            "page": "Jaime Serra i Cau",
-            "pageView": 2235
+            "page": "Lucio Abis",
+            "pageView": 4,
+            "total": 5946
         },
         {
-            "page": "Ignazio Manunza",
-            "pageView": 2206
+            "page": "Mario Roberto Cassari",
+            "pageView": 4,
+            "total": 8130
         },
         {
-            "page": "Claudia Carta",
-            "pageView": 2106
+            "page": "Antonio Corriga",
+            "pageView": 4,
+            "total": 7075
         },
         {
-            "page": "Antonio Franceschi",
-            "pageView": 2074
+            "page": "Eleonora Piacezzi",
+            "pageView": 3,
+            "total": 5334
         },
         {
-            "page": "Sebastiano Fraghì",
-            "pageView": 2037
+            "page": "Davide Cova",
+            "pageView": 3,
+            "total": 4929
         },
         {
-            "page": "Ilaria Leoni",
-            "pageView": 1992
+            "page": "Luca Cubeddu",
+            "pageView": 3,
+            "total": 4570
         },
         {
-            "page": "Oddone della Sala",
-            "pageView": 1983
-        },
-        {
-            "page": "Francesca Coluccio",
-            "pageView": 1939
-        },
-        {
-            "page": "Alessia D'Ancona",
-            "pageView": 1828
-        },
-        {
-            "page": "Pietro I di Arborea",
-            "pageView": 1812
-        },
-        {
-            "page": "Stefano Loddo",
-            "pageView": 1754
-        },
-        {
-            "page": "Angelina Cabras",
-            "pageView": 1711
-        },
-        {
-            "page": "Viola Langella",
-            "pageView": 1532
+            "page": "Valentina Uccheddu",
+            "pageView": 3,
+            "total": 4694
         },
         {
             "page": "Lucia Scanu",
-            "pageView": 1525
+            "pageView": 3,
+            "total": 1526
         },
         {
-            "page": "Francesco Deias",
-            "pageView": 1459
+            "page": "Ernesto Maria Piovella",
+            "pageView": 3,
+            "total": 4624
         },
         {
-            "page": "Debora Fragni",
-            "pageView": 1427
+            "page": "Sabrina Tasselli",
+            "pageView": 3,
+            "total": 5470
         },
         {
-            "page": "Marcella Gozzi",
-            "pageView": 1396
+            "page": "Mariano II di Arborea",
+            "pageView": 3,
+            "total": 5088
         },
         {
-            "page": "Giulia Grassino",
-            "pageView": 1384
+            "page": "Antonio Garau",
+            "pageView": 3,
+            "total": 4389
+        },
+        {
+            "page": "Flavio Busonera",
+            "pageView": 3,
+            "total": 5878
+        },
+        {
+            "page": "Manuela Tesse",
+            "pageView": 3,
+            "total": 5626
+        },
+        {
+            "page": "Raimondo Carta Raspi",
+            "pageView": 3,
+            "total": 4063
+        },
+        {
+            "page": "Franco Casu",
+            "pageView": 3,
+            "total": 4613
+        },
+        {
+            "page": "Stefano Oppo",
+            "pageView": 3,
+            "total": 6738
+        },
+        {
+            "page": "Alfredo Corrias",
+            "pageView": 3,
+            "total": 3757
+        },
+        {
+            "page": "Alessandro Ghinami",
+            "pageView": 3,
+            "total": 6294
+        },
+        {
+            "page": "Roberto Ennas",
+            "pageView": 3,
+            "total": 2556
+        },
+        {
+            "page": "Federica D'Astolfo",
+            "pageView": 3,
+            "total": 4286
+        },
+        {
+            "page": "Giovanni Maria Bua",
+            "pageView": 3,
+            "total": 3656
+        },
+        {
+            "page": "Agostino Grimaldi",
+            "pageView": 3,
+            "total": 4680
+        },
+        {
+            "page": "Claudia Carta",
+            "pageView": 2,
+            "total": 2109
+        },
+        {
+            "page": "Fabiana Colasuonno",
+            "pageView": 2,
+            "total": 3105
+        },
+        {
+            "page": "Massimo Piras",
+            "pageView": 2,
+            "total": 2885
+        },
+        {
+            "page": "Enrico Carboni",
+            "pageView": 2,
+            "total": 2864
+        },
+        {
+            "page": "Jaime Serra i Cau",
+            "pageView": 2,
+            "total": 2235
+        },
+        {
+            "page": "Viola Langella",
+            "pageView": 2,
+            "total": 1536
+        },
+        {
+            "page": "Ilaria Leoni",
+            "pageView": 2,
+            "total": 1996
+        },
+        {
+            "page": "Sabrina Marchese",
+            "pageView": 2,
+            "total": 3449
+        },
+        {
+            "page": "Paolo Giuseppe Maria Serci Serra",
+            "pageView": 2,
+            "total": 3198
+        },
+        {
+            "page": "Marianna Marini",
+            "pageView": 2,
+            "total": 2712
+        },
+        {
+            "page": "Ignazio Manunza",
+            "pageView": 2,
+            "total": 2209
+        },
+        {
+            "page": "Mario Pinna",
+            "pageView": 2,
+            "total": 3350
         },
         {
             "page": "Paolo Pili",
-            "pageView": 1366
-        },
-        {
-            "page": "Salvatore Campus",
-            "pageView": 1248
-        },
-        {
-            "page": "Abele Saba",
-            "pageView": 1142
+            "pageView": 2,
+            "total": 1372
         },
         {
             "page": "Alessandra Nencioni",
-            "pageView": 1086
+            "pageView": 2,
+            "total": 1089
         },
         {
-            "page": "Mario Silvetti",
-            "pageView": 1022
+            "page": "Ugone I di Arborea",
+            "pageView": 2,
+            "total": 3774
         },
         {
-            "page": "Savina Dolores Massa",
-            "pageView": 987
+            "page": "Sebastiano Fraghì",
+            "pageView": 2,
+            "total": 2040
         },
         {
-            "page": "Ester Postiglione",
-            "pageView": 919
+            "page": "Anna Rita Angotzi",
+            "pageView": 2,
+            "total": 3390
+        },
+        {
+            "page": "Oddone della Sala",
+            "pageView": 2,
+            "total": 1983
+        },
+        {
+            "page": "Ángeles Parejo Jiménez",
+            "pageView": 2,
+            "total": 3467
+        },
+        {
+            "page": "Stefano Loddo",
+            "pageView": 2,
+            "total": 1754
+        },
+        {
+            "page": "Milko Campus",
+            "pageView": 2,
+            "total": 2297
+        },
+        {
+            "page": "Maria Ilaria Pasqui",
+            "pageView": 2,
+            "total": 3546
+        },
+        {
+            "page": "Giulia Perelli",
+            "pageView": 2,
+            "total": 2435
+        },
+        {
+            "page": "Alessia D'Ancona",
+            "pageView": 2,
+            "total": 1829
+        },
+        {
+            "page": "Alice Pignagnoli",
+            "pageView": 2,
+            "total": 3754
+        },
+        {
+            "page": "Romina Pinna",
+            "pageView": 2,
+            "total": 3857
+        },
+        {
+            "page": "Antonio Canopolo",
+            "pageView": 2,
+            "total": 4030
+        },
+        {
+            "page": "Pietro I di Arborea",
+            "pageView": 2,
+            "total": 1812
+        },
+        {
+            "page": "Carla Brunozzi",
+            "pageView": 2,
+            "total": 2949
+        },
+        {
+            "page": "Damiana Deiana",
+            "pageView": 2,
+            "total": 7078
+        },
+        {
+            "page": "Francesco Fancello",
+            "pageView": 2,
+            "total": 3629
+        },
+        {
+            "page": "Leonardo Mura",
+            "pageView": 2,
+            "total": 2290
+        },
+        {
+            "page": "Mimma Fazio",
+            "pageView": 2,
+            "total": 6492
+        },
+        {
+            "page": "Antonio Franceschi",
+            "pageView": 2,
+            "total": 2075
+        },
+        {
+            "page": "Francesco Deias",
+            "pageView": 1,
+            "total": 1462
+        },
+        {
+            "page": "Angelina Cabras",
+            "pageView": 1,
+            "total": 1711
+        },
+        {
+            "page": "Francesca Coluccio",
+            "pageView": 1,
+            "total": 1941
         },
         {
             "page": "Salvatore Tolu",
-            "pageView": 902
+            "pageView": 1,
+            "total": 902
         },
         {
-            "page": "Francesco Sonis",
-            "pageView": 860
+            "page": "Debora Fragni",
+            "pageView": 1,
+            "total": 1427
+        },
+        {
+            "page": "Mario Silvetti",
+            "pageView": 1,
+            "total": 1023
+        },
+        {
+            "page": "Abele Saba",
+            "pageView": 1,
+            "total": 1143
         },
         {
             "page": "Jill Rutten",
-            "pageView": 754
+            "pageView": 1,
+            "total": 755
         },
         {
-            "page": "Luisa Marchio",
-            "pageView": 713
+            "page": "Salvatore Campus",
+            "pageView": 1,
+            "total": 1248
         },
         {
-            "page": "Ubaldo Scanagatta (generale)",
-            "pageView": 430
+            "page": "Marcella Gozzi",
+            "pageView": 1,
+            "total": 1398
+        },
+        {
+            "page": "Giulia Grassino",
+            "pageView": 1,
+            "total": 1385
+        },
+        {
+            "page": "Ester Postiglione",
+            "pageView": 1,
+            "total": 920
         },
         {
             "page": "Daniela Mattana",
-            "pageView": 107
+            "pageView": 0,
+            "total": 107
         },
         {
             "page": "Marisa Gorno",
-            "pageView": 79
+            "pageView": 0,
+            "total": 79
+        },
+        {
+            "page": "Luisa Marchio",
+            "pageView": 0,
+            "total": 717
+        },
+        {
+            "page": "Savina Dolores Massa",
+            "pageView": 0,
+            "total": 988
+        },
+        {
+            "page": "Francesco Sonis",
+            "pageView": 0,
+            "total": 864
+        },
+        {
+            "page": "Ubaldo Scanagatta (generale)",
+            "pageView": 0,
+            "total": 433
         }
     ]
 }

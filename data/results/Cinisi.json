@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Peppino Impastato",
-            "pageView": 1283073
+            "pageView": 417,
+            "total": 1283613
         },
         {
             "page": "Gaetano Badalamenti",
-            "pageView": 673223
-        },
-        {
-            "page": "Felicia Impastato",
-            "pageView": 208382
-        },
-        {
-            "page": "Luigi Impastato",
-            "pageView": 141446
+            "pageView": 301,
+            "total": 673856
         },
         {
             "page": "Vito Badalamenti",
-            "pageView": 110629
+            "pageView": 57,
+            "total": 110725
+        },
+        {
+            "page": "Luigi Impastato",
+            "pageView": 46,
+            "total": 141512
         },
         {
             "page": "Cesare Manzella",
-            "pageView": 104196
+            "pageView": 44,
+            "total": 104247
         },
         {
-            "page": "Gaspare Cucinella",
-            "pageView": 14543
+            "page": "Felicia Impastato",
+            "pageView": 37.5,
+            "total": 208402
         },
         {
             "page": "Enzo Di Pisa",
-            "pageView": 12715
+            "pageView": 8,
+            "total": 12723
+        },
+        {
+            "page": "Gaspare Cucinella",
+            "pageView": 7,
+            "total": 14546
         },
         {
             "page": "Vincenzo Del Vecchio",
-            "pageView": 9053
-        },
-        {
-            "page": "Giovanni Finazzo",
-            "pageView": 5669
+            "pageView": 5,
+            "total": 9056
         },
         {
             "page": "Carolina Santocanale",
-            "pageView": 3724
+            "pageView": 3,
+            "total": 3727
+        },
+        {
+            "page": "Giovanni Finazzo",
+            "pageView": 3,
+            "total": 5677
         },
         {
             "page": "Salvo Vitale",
-            "pageView": 1038
+            "pageView": 0,
+            "total": 1039
         }
     ]
 }

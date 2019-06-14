@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Giuliano Soria",
-            "pageView": 20865
-        },
-        {
-            "page": "Renato Pinciroli",
-            "pageView": 18754
+            "pageView": 13,
+            "total": 20872
         },
         {
             "page": "Luigi Testore",
-            "pageView": 7061
+            "pageView": 10,
+            "total": 7064
+        },
+        {
+            "page": "Renato Pinciroli",
+            "pageView": 9,
+            "total": 18767
         },
         {
             "page": "Giovanni Ferro",
-            "pageView": 6732
-        },
-        {
-            "page": "Felice Sismondo",
-            "pageView": 3172
-        },
-        {
-            "page": "Piero Bianco",
-            "pageView": 2536
+            "pageView": 4,
+            "total": 6734
         },
         {
             "page": "Ermolao Asinari di San Marzano",
-            "pageView": 2370
+            "pageView": 2,
+            "total": 2370
         },
         {
-            "page": "Giovanni Visone",
-            "pageView": 1852
+            "page": "Piero Bianco",
+            "pageView": 2,
+            "total": 2538
         },
         {
-            "page": "Virgilio Bellone",
-            "pageView": 1690
+            "page": "Felice Sismondo",
+            "pageView": 2,
+            "total": 3172
         },
         {
             "page": "Anastasio Furno",
-            "pageView": 896
+            "pageView": 1,
+            "total": 897
         },
         {
-            "page": "Corrado Maria Saglietti",
-            "pageView": 728
+            "page": "Giovanni Visone",
+            "pageView": 1,
+            "total": 1853
+        },
+        {
+            "page": "Virgilio Bellone",
+            "pageView": 1,
+            "total": 1690
         },
         {
             "page": "Maggiorino Vespa",
-            "pageView": 474
+            "pageView": 0,
+            "total": 476
+        },
+        {
+            "page": "Corrado Maria Saglietti",
+            "pageView": 0,
+            "total": 728
         }
     ]
 }

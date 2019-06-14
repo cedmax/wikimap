@@ -3,83 +3,103 @@
     "people": [
         {
             "page": "Fulvio Lucioli",
-            "pageView": 182308
+            "pageView": 105.5,
+            "total": 182390
         },
         {
             "page": "Paolo Negro",
-            "pageView": 71210
-        },
-        {
-            "page": "Chiara Corbella Petrillo",
-            "pageView": 45811
+            "pageView": 45,
+            "total": 71268
         },
         {
             "page": "Stefano Di Chiara",
-            "pageView": 39977
-        },
-        {
-            "page": "Giorgio Ardisson",
-            "pageView": 32969
+            "pageView": 22,
+            "total": 40023
         },
         {
             "page": "Giorgio Frezzolini",
-            "pageView": 28605
+            "pageView": 17,
+            "total": 28628
+        },
+        {
+            "page": "Giorgio Ardisson",
+            "pageView": 15,
+            "total": 32985
         },
         {
             "page": "Francesco Galeoto",
-            "pageView": 13658
+            "pageView": 9,
+            "total": 13662
         },
         {
             "page": "Antipapa Felice II",
-            "pageView": 11863
+            "pageView": 8,
+            "total": 11867
         },
         {
             "page": "Dionisio Arce",
-            "pageView": 9815
+            "pageView": 6,
+            "total": 9822
         },
         {
             "page": "Wolmer Beltrami",
-            "pageView": 9696
+            "pageView": 6,
+            "total": 9701
         },
         {
             "page": "Valentino Orsini",
-            "pageView": 9061
+            "pageView": 5,
+            "total": 9065
         },
         {
             "page": "Cesidio Oddi",
-            "pageView": 7252
+            "pageView": 4,
+            "total": 7256
         },
         {
             "page": "Renzo degli Anguillara",
-            "pageView": 6244
-        },
-        {
-            "page": "Gianluigi Valleriani",
-            "pageView": 4675
+            "pageView": 4,
+            "total": 6252
         },
         {
             "page": "Marco Mazza",
-            "pageView": 4657
+            "pageView": 3,
+            "total": 4657
         },
         {
-            "page": "Franco Ceraolo",
-            "pageView": 4114
+            "page": "Gianluigi Valleriani",
+            "pageView": 3,
+            "total": 4677
         },
         {
             "page": "Giacinto Bruzzesi",
-            "pageView": 3742
+            "pageView": 3,
+            "total": 3743
         },
         {
-            "page": "Stefano Di Lucia",
-            "pageView": 2664
+            "page": "Franco Ceraolo",
+            "pageView": 3,
+            "total": 4115
         },
         {
             "page": "Everso II degli Anguillara",
-            "pageView": 2403
+            "pageView": 3,
+            "total": 2407
+        },
+        {
+            "page": "Stefano Di Lucia",
+            "pageView": 2,
+            "total": 2667
         },
         {
             "page": "Horst Blanck",
-            "pageView": 1280
+            "pageView": 1,
+            "total": 1280
+        },
+        {
+            "page": "Chiara Corbella Petrillo",
+            "pageView": 0,
+            "total": 47900
         }
     ]
 }

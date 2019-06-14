@@ -1,0 +1,27 @@
+{
+    "id": "place.18544991126430470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montesilvano",
+    "place_name": "Montesilvano, Pescara, Italy",
+    "bbox": [
+        14.099748,
+        42.464544,
+        14.185701,
+        42.526583
+    ],
+    "center": [
+        14.15,
+        42.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.15,
+            42.51667
+        ]
+    }
+}

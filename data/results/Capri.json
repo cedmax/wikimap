@@ -3,143 +3,178 @@
     "people": [
         {
             "page": "Peppino di Capri",
-            "pageView": 446719
+            "pageView": 149,
+            "total": 446851
         },
         {
             "page": "Annia Aurelia Galeria Lucilla",
-            "pageView": 81855
-        },
-        {
-            "page": "Karl Wilhelm Diefenbach",
-            "pageView": 26993
+            "pageView": 43,
+            "total": 81908
         },
         {
             "page": "Costanzo Celestini",
-            "pageView": 24461
+            "pageView": 16,
+            "total": 24469
         },
         {
             "page": "Giuseppe Salvia",
-            "pageView": 20054
+            "pageView": 12,
+            "total": 20062
         },
         {
             "page": "Norman Douglas",
-            "pageView": 17391
+            "pageView": 11,
+            "total": 17396
         },
         {
-            "page": "Gianluigi Di Franco",
-            "pageView": 15128
+            "page": "Karl Wilhelm Diefenbach",
+            "pageView": 10,
+            "total": 27003
         },
         {
             "page": "Jacques d'Adelswärd-Fersen",
-            "pageView": 14157
+            "pageView": 9,
+            "total": 14167
+        },
+        {
+            "page": "Gianluigi Di Franco",
+            "pageView": 9,
+            "total": 15159
         },
         {
             "page": "Jakob Johann von Uexküll",
-            "pageView": 12731
+            "pageView": 8,
+            "total": 12747
         },
         {
             "page": "Edwin Cerio",
-            "pageView": 12422
+            "pageView": 7,
+            "total": 12427
         },
         {
             "page": "Francesco Compagna",
-            "pageView": 11910
-        },
-        {
-            "page": "Gracie Fields",
-            "pageView": 10494
+            "pageView": 7,
+            "total": 11911
         },
         {
             "page": "Veit Harlan",
-            "pageView": 10478
+            "pageView": 6,
+            "total": 10495
         },
         {
             "page": "Harry Feist",
-            "pageView": 10015
-        },
-        {
-            "page": "Antonino Leto",
-            "pageView": 9603
-        },
-        {
-            "page": "Oscar Blando",
-            "pageView": 8829
+            "pageView": 5,
+            "total": 10019
         },
         {
             "page": "Mario Lago",
-            "pageView": 8148
+            "pageView": 5,
+            "total": 8154
+        },
+        {
+            "page": "Antonino Leto",
+            "pageView": 5,
+            "total": 9614
         },
         {
             "page": "Jacques Lipchitz",
-            "pageView": 7584
+            "pageView": 5,
+            "total": 7585
         },
         {
-            "page": "Ettore Falconieri",
-            "pageView": 5805
+            "page": "Gracie Fields",
+            "pageView": 5,
+            "total": 10499
         },
         {
-            "page": "Costanzo di Capri",
-            "pageView": 5320
+            "page": "Oscar Blando",
+            "pageView": 4,
+            "total": 8830
         },
         {
             "page": "Camille du Locle",
-            "pageView": 3753
+            "pageView": 3,
+            "total": 3754
+        },
+        {
+            "page": "Costanzo di Capri",
+            "pageView": 3,
+            "total": 5322
+        },
+        {
+            "page": "Ettore Falconieri",
+            "pageView": 3,
+            "total": 5807
         },
         {
             "page": "Francesco Canessa",
-            "pageView": 3284
-        },
-        {
-            "page": "Francesco Bassani",
-            "pageView": 2849
-        },
-        {
-            "page": "Giuseppe Vannicola",
-            "pageView": 2750
-        },
-        {
-            "page": "Hans Paule",
-            "pageView": 2234
+            "pageView": 2,
+            "total": 3286
         },
         {
             "page": "Michele Federico",
-            "pageView": 2087
+            "pageView": 2,
+            "total": 2087
         },
         {
-            "page": "Carmelina Alberino",
-            "pageView": 1757
-        },
-        {
-            "page": "Hans Jenni",
-            "pageView": 1559
-        },
-        {
-            "page": "Thomas Achelis",
-            "pageView": 1133
-        },
-        {
-            "page": "Raffaele Brunetti",
-            "pageView": 994
-        },
-        {
-            "page": "Carlo Perindani",
-            "pageView": 983
+            "page": "Giuseppe Vannicola",
+            "pageView": 2,
+            "total": 2752
         },
         {
             "page": "Marcello Zanfagna",
-            "pageView": 901
+            "pageView": 2,
+            "total": 902
         },
         {
-            "page": "Andrea Cherubini",
-            "pageView": 612
+            "page": "Carmelina Alberino",
+            "pageView": 2,
+            "total": 1760
         },
         {
-            "page": "Bernardo Hay",
-            "pageView": 543
+            "page": "Francesco Bassani",
+            "pageView": 2,
+            "total": 2851
+        },
+        {
+            "page": "Hans Paule",
+            "pageView": 2,
+            "total": 2234
+        },
+        {
+            "page": "Thomas Achelis",
+            "pageView": 1,
+            "total": 1134
+        },
+        {
+            "page": "Hans Jenni",
+            "pageView": 1,
+            "total": 1559
+        },
+        {
+            "page": "Raffaele Brunetti",
+            "pageView": 0,
+            "total": 994
         },
         {
             "page": "Many Benner",
-            "pageView": 497
+            "pageView": 0,
+            "total": 497
+        },
+        {
+            "page": "Carlo Perindani",
+            "pageView": 0,
+            "total": 984
+        },
+        {
+            "page": "Bernardo Hay",
+            "pageView": 0,
+            "total": 546
+        },
+        {
+            "page": "Andrea Cherubini",
+            "pageView": 0,
+            "total": 613
         }
     ]
 }

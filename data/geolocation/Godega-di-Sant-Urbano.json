@@ -1,0 +1,27 @@
+{
+    "id": "place.14662816118832600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Godega di Sant'Urbano",
+    "place_name": "Godega di Sant'Urbano, Treviso, Italy",
+    "bbox": [
+        12.370178,
+        45.878873,
+        12.476449,
+        45.937246
+    ],
+    "center": [
+        12.4,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4,
+            45.93333
+        ]
+    }
+}

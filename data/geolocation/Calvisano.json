@@ -1,0 +1,27 @@
+{
+    "id": "place.10308613055061360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calvisano",
+    "place_name": "Calvisano, Brescia, Italy",
+    "bbox": [
+        10.298469,
+        45.312624,
+        10.404617,
+        45.400432
+    ],
+    "center": [
+        10.34583,
+        45.34889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.34583,
+            45.34889
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16678769158270490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Padenghe sul Garda",
+    "place_name": "Padenghe sul Garda, Brescia, Italy",
+    "bbox": [
+        10.474636,
+        45.46021,
+        10.592151,
+        45.523138
+    ],
+    "center": [
+        10.51639,
+        45.50833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51639,
+            45.50833
+        ]
+    }
+}

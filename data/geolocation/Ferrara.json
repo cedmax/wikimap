@@ -1,0 +1,27 @@
+{
+    "id": "place.14050312022398980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ferrara",
+    "place_name": "Ferrara, Ferrara, Italy",
+    "bbox": [
+        11.463508,
+        44.674447,
+        11.87699,
+        44.937575
+    ],
+    "center": [
+        11.61987,
+        44.8353
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61987,
+            44.8353
+        ]
+    }
+}

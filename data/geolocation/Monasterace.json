@@ -1,0 +1,27 @@
+{
+    "id": "place.11223098301768690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monasterace",
+    "place_name": "Monasterace, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.529051,
+        38.426384,
+        16.583179,
+        38.471918
+    ],
+    "center": [
+        16.55,
+        38.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.55,
+            38.45
+        ]
+    }
+}

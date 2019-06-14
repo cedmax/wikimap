@@ -2,20 +2,24 @@
     "name": "Centuripe",
     "people": [
         {
-            "page": "Rosario Picone",
-            "pageView": 5062
+            "page": "Giuseppe Dottore",
+            "pageView": 3,
+            "total": 4133
         },
         {
-            "page": "Giuseppe Dottore",
-            "pageView": 4132
+            "page": "Rosario Picone",
+            "pageView": 3,
+            "total": 5062
         },
         {
             "page": "Pietro Mazzamuto",
-            "pageView": 3024
+            "pageView": 2,
+            "total": 3025
         },
         {
             "page": "Pietro Santoro (presbitero)",
-            "pageView": 337
+            "pageView": 0,
+            "total": 337
         }
     ]
 }

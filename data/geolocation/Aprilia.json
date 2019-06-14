@@ -1,0 +1,27 @@
+{
+    "id": "place.10321968502117750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aprilia",
+    "place_name": "Aprilia, Latina, Italy",
+    "bbox": [
+        12.530313,
+        41.497056,
+        12.772905,
+        41.671446
+    ],
+    "center": [
+        12.65,
+        41.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            41.58333
+        ]
+    }
+}

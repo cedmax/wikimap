@@ -1,0 +1,27 @@
+{
+    "id": "place.9488144602494590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Russi",
+    "place_name": "Russi, Ravenna, Italy",
+    "bbox": [
+        11.988293,
+        44.32783,
+        12.106588,
+        44.411819
+    ],
+    "center": [
+        12.03335,
+        44.37645
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03335,
+            44.37645
+        ]
+    }
+}

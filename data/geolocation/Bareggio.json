@@ -1,0 +1,27 @@
+{
+    "id": "place.12026955941190860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bareggio",
+    "place_name": "Bareggio, Milano, Italy",
+    "bbox": [
+        8.97405,
+        45.451929,
+        9.022864,
+        45.504013
+    ],
+    "center": [
+        8.98333,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.98333,
+            45.46667
+        ]
+    }
+}

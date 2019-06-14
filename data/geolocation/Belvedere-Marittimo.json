@@ -1,0 +1,27 @@
+{
+    "id": "place.5372866363475990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belvedere Marittimo",
+    "place_name": "Belvedere Marittimo, Cosenza, Italy",
+    "bbox": [
+        15.831948,
+        39.593741,
+        15.921779,
+        39.672623
+    ],
+    "center": [
+        15.86667,
+        39.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.86667,
+            39.61667
+        ]
+    }
+}

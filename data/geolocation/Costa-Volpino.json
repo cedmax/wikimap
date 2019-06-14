@@ -1,0 +1,27 @@
+{
+    "id": "place.7885381672063420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costa Volpino",
+    "place_name": "Costa Volpino, Bergamo, Italy",
+    "bbox": [
+        10.057298,
+        45.807561,
+        10.121555,
+        45.874111
+    ],
+    "center": [
+        10.09917,
+        45.83056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.09917,
+            45.83056
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5973052383681610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione d'Orcia",
+    "place_name": "Castiglione d'Orcia, Siena, Italy",
+    "bbox": [
+        11.526508,
+        42.909073,
+        11.733222,
+        43.043308
+    ],
+    "center": [
+        11.61667,
+        43.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            43.01667
+        ]
+    }
+}

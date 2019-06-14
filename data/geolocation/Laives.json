@@ -1,0 +1,29 @@
+{
+    "id": "place.8569577089251160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laives - Leifers",
+    "place_name": "Laives - Leifers, Bolzano, Italy",
+    "matching_text": "Laives",
+    "matching_place_name": "Laives, Bolzano, Italy",
+    "bbox": [
+        11.307862,
+        46.404426,
+        11.377833,
+        46.472664
+    ],
+    "center": [
+        11.34048,
+        46.42762
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.34048,
+            46.42762
+        ]
+    }
+}

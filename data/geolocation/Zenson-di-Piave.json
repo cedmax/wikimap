@@ -1,0 +1,27 @@
+{
+    "id": "place.6543656568146060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zenson di Piave",
+    "place_name": "Zenson di Piave, Treviso, Italy",
+    "bbox": [
+        12.459753,
+        45.657045,
+        12.505681,
+        45.699523
+    ],
+    "center": [
+        12.5,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5,
+            45.68333
+        ]
+    }
+}

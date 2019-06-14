@@ -1,0 +1,27 @@
+{
+    "id": "place.4042761055233250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiumicino",
+    "place_name": "Fiumicino, Roma, Italy",
+    "bbox": [
+        12.124182,
+        41.740882,
+        12.316245,
+        42.020174
+    ],
+    "center": [
+        12.23333,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23333,
+            41.76667
+        ]
+    }
+}

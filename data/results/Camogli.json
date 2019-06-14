@@ -3,235 +3,293 @@
     "people": [
         {
             "page": "Dino Emanuelli",
-            "pageView": 61272
+            "pageView": 27,
+            "total": 61296
         },
         {
             "page": "Piero Ottone",
-            "pageView": 40559
-        },
-        {
-            "page": "Matteo Aicardi",
-            "pageView": 31271
+            "pageView": 20,
+            "total": 40577
         },
         {
             "page": "Cesare Rubini",
-            "pageView": 28787
-        },
-        {
-            "page": "Nicolò Ferrari",
-            "pageView": 28740
+            "pageView": 17,
+            "total": 28811
         },
         {
             "page": "Marcello Nizzoli",
-            "pageView": 25836
+            "pageView": 17,
+            "total": 25846
         },
         {
-            "page": "Christian Presciutti",
-            "pageView": 20020
-        },
-        {
-            "page": "Nicholas Presciutti",
-            "pageView": 18197
-        },
-        {
-            "page": "Franco Scaglia",
-            "pageView": 17660
+            "page": "Matteo Aicardi",
+            "pageView": 10,
+            "total": 31279
         },
         {
             "page": "Gianni De Magistris",
-            "pageView": 15122
+            "pageView": 8,
+            "total": 15125
         },
         {
-            "page": "Andrea Fondelli",
-            "pageView": 13753
+            "page": "Nicolò Ferrari",
+            "pageView": 7,
+            "total": 28763
         },
         {
-            "page": "Roberta Bianconi",
-            "pageView": 12382
+            "page": "Christian Presciutti",
+            "pageView": 7,
+            "total": 20025
+        },
+        {
+            "page": "Franco Scaglia",
+            "pageView": 7,
+            "total": 17665
         },
         {
             "page": "Giancarlo Bozzo",
-            "pageView": 9954
+            "pageView": 6,
+            "total": 9968
         },
         {
-            "page": "Alessandro Nora",
-            "pageView": 8853
+            "page": "Nicholas Presciutti",
+            "pageView": 6,
+            "total": 18200
         },
         {
-            "page": "Stefano Luongo",
-            "pageView": 8311
-        },
-        {
-            "page": "Teresa Frassinetti",
-            "pageView": 8231
-        },
-        {
-            "page": "Niccolò Figari",
-            "pageView": 7340
+            "page": "Andrea Fondelli",
+            "pageView": 5,
+            "total": 13765
         },
         {
             "page": "Aleksandar Šapić",
-            "pageView": 6830
+            "pageView": 4,
+            "total": 6835
         },
         {
-            "page": "Claudio Lazzaro",
-            "pageView": 6135
-        },
-        {
-            "page": "Lorenzo Bruni",
-            "pageView": 5691
-        },
-        {
-            "page": "Giacomo Pastorino",
-            "pageView": 5619
+            "page": "Roberta Bianconi",
+            "pageView": 4,
+            "total": 12387
         },
         {
             "page": "Ruggero Chiesa",
-            "pageView": 5568
+            "pageView": 4,
+            "total": 5569
         },
         {
-            "page": "Simone Schiaffino",
-            "pageView": 5356
+            "page": "Niccolò Figari",
+            "pageView": 4,
+            "total": 7349
         },
         {
-            "page": "Mario Righetti",
-            "pageView": 5322
-        },
-        {
-            "page": "Arnaldo Deserti",
-            "pageView": 4898
-        },
-        {
-            "page": "Michele Luongo",
-            "pageView": 4873
-        },
-        {
-            "page": "Olexandr Sadovyy",
-            "pageView": 4688
-        },
-        {
-            "page": "Daniele de Strobel",
-            "pageView": 4186
-        },
-        {
-            "page": "Giuseppe Valentino (pallanuotista)",
-            "pageView": 4030
+            "page": "Stefano Luongo",
+            "pageView": 4,
+            "total": 8323
         },
         {
             "page": "Matteo Astarita",
-            "pageView": 3952
+            "pageView": 3,
+            "total": 3953
         },
         {
-            "page": "Mario Majoni",
-            "pageView": 3363
+            "page": "Mario Righetti",
+            "pageView": 3,
+            "total": 5324
         },
         {
-            "page": "Slobodan Nikić",
-            "pageView": 3278
+            "page": "Giacomo Pastorino",
+            "pageView": 3,
+            "total": 5621
         },
         {
-            "page": "Luca Fondelli",
-            "pageView": 3249
+            "page": "Simone Schiaffino",
+            "pageView": 3,
+            "total": 5360
         },
         {
-            "page": "Gualtiero Schiaffino",
-            "pageView": 3040
+            "page": "Lorenzo Bruni",
+            "pageView": 3,
+            "total": 5697
+        },
+        {
+            "page": "Alessandro Nora",
+            "pageView": 3,
+            "total": 8857
+        },
+        {
+            "page": "Olexandr Sadovyy",
+            "pageView": 3,
+            "total": 4690
+        },
+        {
+            "page": "Arnaldo Deserti",
+            "pageView": 3,
+            "total": 4900
+        },
+        {
+            "page": "Daniele de Strobel",
+            "pageView": 3,
+            "total": 4187
+        },
+        {
+            "page": "Claudio Lazzaro",
+            "pageView": 3,
+            "total": 6137
+        },
+        {
+            "page": "Teresa Frassinetti",
+            "pageView": 3,
+            "total": 8236
         },
         {
             "page": "Edoardo Manzi",
-            "pageView": 2789
+            "pageView": 3,
+            "total": 2790
         },
         {
-            "page": "Robert Dinu",
-            "pageView": 2590
+            "page": "Michele Luongo",
+            "pageView": 3,
+            "total": 4883
+        },
+        {
+            "page": "Giuseppe Valentino (pallanuotista)",
+            "pageView": 2,
+            "total": 4033
         },
         {
             "page": "Francesco Ferrari (pallanuotista)",
-            "pageView": 2512
-        },
-        {
-            "page": "Angelo Temellini",
-            "pageView": 2382
-        },
-        {
-            "page": "Daniele Magalotti",
-            "pageView": 2316
-        },
-        {
-            "page": "Edoardo Caliogna",
-            "pageView": 2228
-        },
-        {
-            "page": "Alessandro Caliogna",
-            "pageView": 1957
-        },
-        {
-            "page": "Ricardo Azevedo",
-            "pageView": 1814
-        },
-        {
-            "page": "Lorenzo Gardella",
-            "pageView": 1765
-        },
-        {
-            "page": "Viktor Jelenić",
-            "pageView": 1707
-        },
-        {
-            "page": "Rinaldo Bianchetti",
-            "pageView": 1694
+            "pageView": 2,
+            "total": 2513
         },
         {
             "page": "Antonio Marzullo",
-            "pageView": 1638
+            "pageView": 2,
+            "total": 1640
+        },
+        {
+            "page": "Gualtiero Schiaffino",
+            "pageView": 2,
+            "total": 3042
+        },
+        {
+            "page": "Robert Dinu",
+            "pageView": 2,
+            "total": 2591
         },
         {
             "page": "Francesco Saverio Mosso",
-            "pageView": 1589
+            "pageView": 2,
+            "total": 1591
+        },
+        {
+            "page": "Alessandro Caliogna",
+            "pageView": 2,
+            "total": 1962
+        },
+        {
+            "page": "Luca Fondelli",
+            "pageView": 2,
+            "total": 3251
+        },
+        {
+            "page": "Angelo Temellini",
+            "pageView": 2,
+            "total": 2385
+        },
+        {
+            "page": "Lorenzo Gardella",
+            "pageView": 2,
+            "total": 1766
+        },
+        {
+            "page": "Slobodan Nikić",
+            "pageView": 2,
+            "total": 3281
         },
         {
             "page": "Prospero di Tarragona",
-            "pageView": 1546
+            "pageView": 2,
+            "total": 1546
         },
         {
-            "page": "Samuele Avallone",
-            "pageView": 1470
+            "page": "Daniele Magalotti",
+            "pageView": 2,
+            "total": 2317
+        },
+        {
+            "page": "Edoardo Caliogna",
+            "pageView": 2,
+            "total": 2233
+        },
+        {
+            "page": "Mario Majoni",
+            "pageView": 2,
+            "total": 3365
+        },
+        {
+            "page": "Viktor Jelenić",
+            "pageView": 1,
+            "total": 1707
+        },
+        {
+            "page": "Ricardo Azevedo",
+            "pageView": 1,
+            "total": 1815
         },
         {
             "page": "Jacopo Guenna",
-            "pageView": 1441
-        },
-        {
-            "page": "Agostino Schiaffino",
-            "pageView": 1406
-        },
-        {
-            "page": "István Udvardi",
-            "pageView": 1198
-        },
-        {
-            "page": "Tyler Martin",
-            "pageView": 1184
-        },
-        {
-            "page": "Carlo Alberto Quigini Puliga",
-            "pageView": 1078
-        },
-        {
-            "page": "Jeff Tyrrell",
-            "pageView": 1026
+            "pageView": 1,
+            "total": 1441
         },
         {
             "page": "Michele Capanna",
-            "pageView": 1002
+            "pageView": 1,
+            "total": 1003
+        },
+        {
+            "page": "István Udvardi",
+            "pageView": 1,
+            "total": 1199
+        },
+        {
+            "page": "Samuele Avallone",
+            "pageView": 1,
+            "total": 1470
+        },
+        {
+            "page": "Tyler Martin",
+            "pageView": 1,
+            "total": 1184
+        },
+        {
+            "page": "Carlo Alberto Quigini Puliga",
+            "pageView": 1,
+            "total": 1079
+        },
+        {
+            "page": "Rinaldo Bianchetti",
+            "pageView": 1,
+            "total": 1694
+        },
+        {
+            "page": "Jeff Tyrrell",
+            "pageView": 1,
+            "total": 1026
+        },
+        {
+            "page": "Agostino Schiaffino",
+            "pageView": 1,
+            "total": 1407
         },
         {
             "page": "Romolo Parodi",
-            "pageView": 248
+            "pageView": 0,
+            "total": 249
         },
         {
             "page": "Silvia Avegno",
-            "pageView": 124
+            "pageView": 0,
+            "total": 125
         }
     ]
 }

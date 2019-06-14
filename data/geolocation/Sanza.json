@@ -1,0 +1,27 @@
+{
+    "id": "place.9711495703763330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sanza",
+    "place_name": "Sanza, Salerno, Italy",
+    "bbox": [
+        15.446974,
+        40.197959,
+        15.650139,
+        40.297744
+    ],
+    "center": [
+        15.55,
+        40.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.55,
+            40.25
+        ]
+    }
+}

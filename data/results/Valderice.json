@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Mauro Rostagno",
-            "pageView": 145794
+            "pageView": 66,
+            "total": 145869
         },
         {
             "page": "Giangiacomo Ciaccio Montalto",
-            "pageView": 37311
-        },
-        {
-            "page": "Pietro Morici",
-            "pageView": 18560
+            "pageView": 19,
+            "total": 37333
         },
         {
             "page": "Giacomo Tranchida",
-            "pageView": 8233
+            "pageView": 15,
+            "total": 8247
+        },
+        {
+            "page": "Pietro Morici",
+            "pageView": 9,
+            "total": 18710
         },
         {
             "page": "Vincenzo Miceli",
-            "pageView": 5476
+            "pageView": 3,
+            "total": 5482
         }
     ]
 }

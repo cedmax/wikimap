@@ -1,0 +1,27 @@
+{
+    "id": "place.15022123936609300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca di Mezzo",
+    "place_name": "Rocca di Mezzo, L'Aquila, Italy",
+    "bbox": [
+        13.390632,
+        42.152489,
+        13.59588,
+        42.271448
+    ],
+    "center": [
+        13.52028,
+        42.20583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.52028,
+            42.20583
+        ]
+    }
+}

@@ -3,155 +3,193 @@
     "people": [
         {
             "page": "Samuel Peron",
-            "pageView": 110860
-        },
-        {
-            "page": "Giovanni Battaglin",
-            "pageView": 44518
-        },
-        {
-            "page": "Enrico Battaglin",
-            "pageView": 40671
+            "pageView": 22,
+            "total": 110883
         },
         {
             "page": "Virgilio Maroso",
-            "pageView": 39194
+            "pageView": 18,
+            "total": 39202
+        },
+        {
+            "page": "Giovanni Battaglin",
+            "pageView": 18,
+            "total": 44563
+        },
+        {
+            "page": "Enrico Battaglin",
+            "pageView": 8,
+            "total": 40682
         },
         {
             "page": "Tatiana Guderzo",
-            "pageView": 23446
-        },
-        {
-            "page": "Giuliana Minuzzo",
-            "pageView": 13144
-        },
-        {
-            "page": "Gessica Gusi",
-            "pageView": 11244
-        },
-        {
-            "page": "Pierluigi Busatta",
-            "pageView": 10164
+            "pageView": 8,
+            "total": 23454
         },
         {
             "page": "Prospero Alpini",
-            "pageView": 10042
+            "pageView": 6,
+            "total": 10043
+        },
+        {
+            "page": "Pierluigi Busatta",
+            "pageView": 6,
+            "total": 10169
+        },
+        {
+            "page": "Gessica Gusi",
+            "pageView": 6,
+            "total": 11248
         },
         {
             "page": "Gianni Faresin",
-            "pageView": 8424
-        },
-        {
-            "page": "Andrea Viero",
-            "pageView": 8225
-        },
-        {
-            "page": "Giorgio Santini",
-            "pageView": 7973
-        },
-        {
-            "page": "Jenny Lavarda",
-            "pageView": 7759
+            "pageView": 5,
+            "total": 8427
         },
         {
             "page": "Dario Dolci",
-            "pageView": 7396
-        },
-        {
-            "page": "Chiara Volpato",
-            "pageView": 6825
-        },
-        {
-            "page": "Arpalice Cuman Pertile",
-            "pageView": 6224
-        },
-        {
-            "page": "Carola Susani",
-            "pageView": 5053
-        },
-        {
-            "page": "Diego De Leo",
-            "pageView": 4954
-        },
-        {
-            "page": "Sergio Stefanini",
-            "pageView": 4789
-        },
-        {
-            "page": "Walter Viaro",
-            "pageView": 4496
-        },
-        {
-            "page": "Alfredo Dinale",
-            "pageView": 4491
-        },
-        {
-            "page": "Ottavio Dinale",
-            "pageView": 4365
-        },
-        {
-            "page": "Giovanni Poli",
-            "pageView": 3806
-        },
-        {
-            "page": "Giuseppe Berton",
-            "pageView": 3656
-        },
-        {
-            "page": "Piergiorgio Silvano Nesti",
-            "pageView": 3366
-        },
-        {
-            "page": "Marco Crestani",
-            "pageView": 3325
-        },
-        {
-            "page": "Sergio Los",
-            "pageView": 3243
+            "pageView": 5,
+            "total": 7400
         },
         {
             "page": "Silvia Covolo",
-            "pageView": 3020
+            "pageView": 5,
+            "total": 3025
         },
         {
-            "page": "Aldo Stella (storico)",
-            "pageView": 3010
+            "page": "Arpalice Cuman Pertile",
+            "pageView": 5,
+            "total": 6231
         },
         {
-            "page": "Cosroe Dusi",
-            "pageView": 2953
+            "page": "Jenny Lavarda",
+            "pageView": 5,
+            "total": 7762
         },
         {
-            "page": "Marco Filippucci",
-            "pageView": 2586
+            "page": "Giuliana Minuzzo",
+            "pageView": 4,
+            "total": 13147
         },
         {
-            "page": "Emilio Pianezzola",
-            "pageView": 2564
+            "page": "Andrea Viero",
+            "pageView": 4,
+            "total": 8244
+        },
+        {
+            "page": "Giorgio Santini",
+            "pageView": 4,
+            "total": 7976
+        },
+        {
+            "page": "Chiara Volpato",
+            "pageView": 4,
+            "total": 6835
+        },
+        {
+            "page": "Ottavio Dinale",
+            "pageView": 3,
+            "total": 4366
+        },
+        {
+            "page": "Carola Susani",
+            "pageView": 3,
+            "total": 5056
+        },
+        {
+            "page": "Walter Viaro",
+            "pageView": 3,
+            "total": 4500
+        },
+        {
+            "page": "Alfredo Dinale",
+            "pageView": 3,
+            "total": 4496
+        },
+        {
+            "page": "Diego De Leo",
+            "pageView": 3,
+            "total": 4957
+        },
+        {
+            "page": "Sergio Stefanini",
+            "pageView": 3,
+            "total": 4793
+        },
+        {
+            "page": "Marco Crestani",
+            "pageView": 2,
+            "total": 3329
+        },
+        {
+            "page": "Giuseppe Berton",
+            "pageView": 2,
+            "total": 3657
+        },
+        {
+            "page": "Sergio Los",
+            "pageView": 2,
+            "total": 3247
         },
         {
             "page": "Mario Dal Molin",
-            "pageView": 2525
+            "pageView": 2,
+            "total": 2528
         },
         {
-            "page": "Attilio Imolesi",
-            "pageView": 2443
+            "page": "Marco Filippucci",
+            "pageView": 2,
+            "total": 2586
         },
         {
-            "page": "Natale Dalle Laste",
-            "pageView": 2441
+            "page": "Piergiorgio Silvano Nesti",
+            "pageView": 2,
+            "total": 3366
+        },
+        {
+            "page": "Cosroe Dusi",
+            "pageView": 2,
+            "total": 2953
+        },
+        {
+            "page": "Emilio Pianezzola",
+            "pageView": 2,
+            "total": 2565
+        },
+        {
+            "page": "Giovanni Poli",
+            "pageView": 2,
+            "total": 3808
         },
         {
             "page": "Stefano Gallio",
-            "pageView": 2128
+            "pageView": 2,
+            "total": 2130
+        },
+        {
+            "page": "Natale Dalle Laste",
+            "pageView": 2,
+            "total": 2442
+        },
+        {
+            "page": "Aldo Stella (storico)",
+            "pageView": 2,
+            "total": 3012
+        },
+        {
+            "page": "Attilio Imolesi",
+            "pageView": 2,
+            "total": 2446
         },
         {
             "page": "Vincenzo Chiminello",
-            "pageView": 1648
+            "pageView": 1,
+            "total": 1650
         },
         {
             "page": "Giovanni Battista Carron",
-            "pageView": 253
+            "pageView": 0,
+            "total": 254
         }
     ]
 }

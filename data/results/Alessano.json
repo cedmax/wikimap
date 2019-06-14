@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Antonio Bello",
-            "pageView": 239851
+            "pageView": 102,
+            "total": 239966
         },
         {
             "page": "Paolo Tofoli",
-            "pageView": 53689
+            "pageView": 21,
+            "total": 53701
         },
         {
             "page": "Matej Černič",
-            "pageView": 27758
-        },
-        {
-            "page": "Benito Paolo Torsello",
-            "pageView": 8328
-        },
-        {
-            "page": "Oronzo Gabriele Costa",
-            "pageView": 4623
-        },
-        {
-            "page": "Ugo Baglivo",
-            "pageView": 4148
-        },
-        {
-            "page": "Gabriele Torsello",
-            "pageView": 4046
+            "pageView": 14,
+            "total": 27773
         },
         {
             "page": "Marco Piscopo",
-            "pageView": 3567
+            "pageView": 4,
+            "total": 3572
         },
         {
-            "page": "Luca Borgogno",
-            "pageView": 3212
+            "page": "Oronzo Gabriele Costa",
+            "pageView": 3,
+            "total": 4625
         },
         {
-            "page": "Michele Grassano",
-            "pageView": 2871
+            "page": "Benito Paolo Torsello",
+            "pageView": 3,
+            "total": 8335
         },
         {
-            "page": "Davide Pellegrino",
-            "pageView": 2490
+            "page": "Gabriele Torsello",
+            "pageView": 3,
+            "total": 4049
         },
         {
-            "page": "Daniele Tomassetti",
-            "pageView": 2253
+            "page": "Ugo Baglivo",
+            "pageView": 3,
+            "total": 4149
         },
         {
             "page": "Andrea Battilotti",
-            "pageView": 2224
+            "pageView": 2,
+            "total": 2226
+        },
+        {
+            "page": "Daniele Tomassetti",
+            "pageView": 2,
+            "total": 2255
+        },
+        {
+            "page": "Davide Pellegrino",
+            "pageView": 2,
+            "total": 2492
         },
         {
             "page": "Jani Jeliazkov",
-            "pageView": 1747
+            "pageView": 2,
+            "total": 1748
         },
         {
-            "page": "Girolamo Balduino",
-            "pageView": 1440
+            "page": "Michele Grassano",
+            "pageView": 2,
+            "total": 2871
+        },
+        {
+            "page": "Luca Borgogno",
+            "pageView": 2,
+            "total": 3213
         },
         {
             "page": "Miloš Ćulafić",
-            "pageView": 1176
+            "pageView": 1,
+            "total": 1176
         },
         {
             "page": "Luigi Grassani",
-            "pageView": 1107
+            "pageView": 1,
+            "total": 1107
+        },
+        {
+            "page": "Girolamo Balduino",
+            "pageView": 1,
+            "total": 1442
         },
         {
             "page": "Patrick Schwagler",
-            "pageView": 872
+            "pageView": 1,
+            "total": 872
         }
     ]
 }

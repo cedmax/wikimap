@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Luciano Favero",
-            "pageView": 59914
-        },
-        {
-            "page": "Francesco Petrin",
-            "pageView": 16134
+            "pageView": 38,
+            "total": 59944
         },
         {
             "page": "Antonio Bevilacqua",
-            "pageView": 15630
+            "pageView": 9,
+            "total": 15637
         },
         {
-            "page": "Attilio Benfatto",
-            "pageView": 4823
+            "page": "Francesco Petrin",
+            "pageView": 9,
+            "total": 16144
         },
         {
             "page": "Alfredo Sabbadin",
-            "pageView": 4289
+            "pageView": 3,
+            "total": 4292
         },
         {
             "page": "Bruno Eugenio Ballan",
-            "pageView": 3322
+            "pageView": 2,
+            "total": 3325
+        },
+        {
+            "page": "Attilio Benfatto",
+            "pageView": 2,
+            "total": 4826
         },
         {
             "page": "Arturo Sabbadin",
-            "pageView": 2857
+            "pageView": 2,
+            "total": 2862
         },
         {
             "page": "Paolo Dalle Fratte",
-            "pageView": 1744
+            "pageView": 1,
+            "total": 1745
         },
         {
             "page": "Antonio Zamengo",
-            "pageView": 1134
+            "pageView": 1,
+            "total": 1134
         },
         {
             "page": "Dino Turcato",
-            "pageView": 475
+            "pageView": 0,
+            "total": 476
         }
     ]
 }

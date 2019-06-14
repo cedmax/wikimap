@@ -3,11 +3,13 @@
     "people": [
         {
             "page": "Angelo Cella",
-            "pageView": 2422
+            "pageView": 2,
+            "total": 2423
         },
         {
             "page": "Gian Battista Carrer",
-            "pageView": 1866
+            "pageView": 1,
+            "total": 1866
         }
     ]
 }

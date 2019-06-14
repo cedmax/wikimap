@@ -2,16 +2,19 @@
     "name": "Barbarano Vicentino",
     "people": [
         {
-            "page": "Ramiro Fabiani",
-            "pageView": 2341
-        },
-        {
             "page": "Andrea Ferretto",
-            "pageView": 2036
+            "pageView": 2,
+            "total": 2038
         },
         {
             "page": "Mario Pedrina",
-            "pageView": 1758
+            "pageView": 2,
+            "total": 1758
+        },
+        {
+            "page": "Ramiro Fabiani",
+            "pageView": 2,
+            "total": 2344
         }
     ]
 }

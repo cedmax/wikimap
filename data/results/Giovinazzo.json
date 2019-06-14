@@ -3,143 +3,178 @@
     "people": [
         {
             "page": "Antonio Bello",
-            "pageView": 239851
-        },
-        {
-            "page": "Domenico Cornacchia",
-            "pageView": 19347
+            "pageView": 102,
+            "total": 239966
         },
         {
             "page": "Donato Negro",
-            "pageView": 14896
+            "pageView": 9,
+            "total": 14901
+        },
+        {
+            "page": "Domenico Cornacchia",
+            "pageView": 9,
+            "total": 19350
         },
         {
             "page": "Beniamino Depalma",
-            "pageView": 13978
-        },
-        {
-            "page": "Luigi Martella",
-            "pageView": 13733
+            "pageView": 8,
+            "total": 13983
         },
         {
             "page": "Pino Marzella",
-            "pageView": 11577
+            "pageView": 5,
+            "total": 11578
         },
         {
-            "page": "Carlo Rosa (pittore)",
-            "pageView": 6781
+            "page": "Luigi Martella",
+            "pageView": 5,
+            "total": 13735
         },
         {
             "page": "Aldo Garzia",
-            "pageView": 5746
+            "pageView": 4,
+            "total": 5750
+        },
+        {
+            "page": "Carlo Rosa (pittore)",
+            "pageView": 4,
+            "total": 6782
         },
         {
             "page": "Massimo Ronconi",
-            "pageView": 5109
+            "pageView": 3,
+            "total": 5112
         },
         {
             "page": "Leonardo Generoso",
-            "pageView": 3833
-        },
-        {
-            "page": "Francesco Amato (hockeista su pista)",
-            "pageView": 3745
+            "pageView": 3,
+            "total": 3837
         },
         {
             "page": "Michele Adinolfi",
-            "pageView": 3490
+            "pageView": 2.5,
+            "total": 3492
         },
         {
-            "page": "Giovanni Jacono",
-            "pageView": 3315
-        },
-        {
-            "page": "Antonio Silvano Andriani",
-            "pageView": 3107
-        },
-        {
-            "page": "Adolfo Rollo",
-            "pageView": 3088
-        },
-        {
-            "page": "Rafael Paulo Glaeser",
-            "pageView": 3020
+            "page": "Francesco Amato (hockeista su pista)",
+            "pageView": 2,
+            "total": 3745
         },
         {
             "page": "Giuseppe Milella",
-            "pageView": 2890
-        },
-        {
-            "page": "Valerio Antezza",
-            "pageView": 2720
-        },
-        {
-            "page": "Achille Salvucci",
-            "pageView": 2509
-        },
-        {
-            "page": "Gianni Leali",
-            "pageView": 2165
-        },
-        {
-            "page": "Gilmar Pelentir",
-            "pageView": 2071
+            "pageView": 2,
+            "total": 2893
         },
         {
             "page": "Bisanzio Lupis",
-            "pageView": 1899
+            "pageView": 2,
+            "total": 1899
+        },
+        {
+            "page": "Adolfo Rollo",
+            "pageView": 2,
+            "total": 3090
+        },
+        {
+            "page": "Achille Salvucci",
+            "pageView": 2,
+            "total": 2510
+        },
+        {
+            "page": "Antonio Silvano Andriani",
+            "pageView": 2,
+            "total": 3110
+        },
+        {
+            "page": "Rafael Paulo Glaeser",
+            "pageView": 2,
+            "total": 3020
+        },
+        {
+            "page": "Gilmar Pelentir",
+            "pageView": 2,
+            "total": 2072
         },
         {
             "page": "Giuseppe De Ninno",
-            "pageView": 1883
+            "pageView": 2,
+            "total": 1884
         },
         {
-            "page": "Angelo Ricapito",
-            "pageView": 1760
+            "page": "Valerio Antezza",
+            "pageView": 2,
+            "total": 2723
+        },
+        {
+            "page": "Giovanni Jacono",
+            "pageView": 2,
+            "total": 3315
+        },
+        {
+            "page": "Gianni Leali",
+            "pageView": 2,
+            "total": 2166
         },
         {
             "page": "Luciano Pignatelli",
-            "pageView": 1562
-        },
-        {
-            "page": "Pasquale Gioia",
-            "pageView": 1560
-        },
-        {
-            "page": "Guglielmo di Alnwick",
-            "pageView": 1509
-        },
-        {
-            "page": "Marcos Bernardi",
-            "pageView": 1411
-        },
-        {
-            "page": "Domenico Illuzzi",
-            "pageView": 1216
+            "pageView": 1,
+            "total": 1562
         },
         {
             "page": "Giovanni Pietro Capotorto",
-            "pageView": 1068
+            "pageView": 1,
+            "total": 1069
         },
         {
-            "page": "Francesco Chieco",
-            "pageView": 848
+            "page": "Marcos Bernardi",
+            "pageView": 1,
+            "total": 1412
         },
         {
-            "page": "Tommaso Colamaria",
-            "pageView": 593
+            "page": "Guglielmo di Alnwick",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "Angelo Ricapito",
+            "pageView": 1,
+            "total": 1761
+        },
+        {
+            "page": "Pasquale Gioia",
+            "pageView": 1,
+            "total": 1560
         },
         {
             "page": "Valentín Grimalt",
-            "pageView": 536
+            "pageView": 0,
+            "total": 537
         },
         {
-            "page": "Angelo Beltempo",
-            "pageView": 515
+            "page": "Domenico Illuzzi",
+            "pageView": 0,
+            "total": 1219
+        },
+        {
+            "page": "Tommaso Colamaria",
+            "pageView": 0,
+            "total": 593
+        },
+        {
+            "page": "Francesco Chieco",
+            "pageView": 0,
+            "total": 848
         },
         {
             "page": "Nino Caricato",
-            "pageView": 266
+            "pageView": 0,
+            "total": 267
+        },
+        {
+            "page": "Angelo Beltempo",
+            "pageView": 0,
+            "total": 515
         }
     ]
 }

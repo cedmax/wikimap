@@ -1,0 +1,27 @@
+{
+    "id": "place.11747445114459630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terralba",
+    "place_name": "Terralba, Oristano, Italy",
+    "bbox": [
+        8.50391,
+        39.68457,
+        8.67082,
+        39.76657
+    ],
+    "center": [
+        8.63333,
+        39.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            39.71667
+        ]
+    }
+}

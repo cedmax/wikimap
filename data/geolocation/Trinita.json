@@ -1,0 +1,21 @@
+{
+    "id": "poi.2448131436933",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Trinita",
+    "place_name": "Trinita, Roma, Roma 00187, Italy",
+    "center": [
+        12.485231,
+        41.905059
+    ],
+    "geometry": {
+        "coordinates": [
+            12.485231,
+            41.905059
+        ],
+        "type": "Point"
+    }
+}

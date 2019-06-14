@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Michele Guardì",
-            "pageView": 96557
+            "pageView": 46,
+            "total": 96593
         },
         {
             "page": "Enzo Di Pisa",
-            "pageView": 12715
+            "pageView": 8,
+            "total": 12723
         },
         {
             "page": "Giuseppe Scozzari",
-            "pageView": 5563
+            "pageView": 4,
+            "total": 5568
         },
         {
             "page": "Giuseppe Reina",
-            "pageView": 4734
+            "pageView": 3,
+            "total": 4736
         },
         {
             "page": "Giovanni Agostino De Cosmi",
-            "pageView": 3954
+            "pageView": 3,
+            "total": 3957
         },
         {
             "page": "Niccolò Cacciatore",
-            "pageView": 3705
-        },
-        {
-            "page": "Giuseppe Vaccaro (matematico)",
-            "pageView": 3443
+            "pageView": 2,
+            "total": 3709
         },
         {
             "page": "Gaetano Di Giovanni",
-            "pageView": 2144
+            "pageView": 2,
+            "total": 2146
         },
         {
-            "page": "Michelangelo Vaccaro",
-            "pageView": 1619
+            "page": "Giuseppe Vaccaro (matematico)",
+            "pageView": 2,
+            "total": 3445
         },
         {
             "page": "Nicolò Cannella",
-            "pageView": 1571
+            "pageView": 1,
+            "total": 1572
+        },
+        {
+            "page": "Michelangelo Vaccaro",
+            "pageView": 1,
+            "total": 1619
         }
     ]
 }

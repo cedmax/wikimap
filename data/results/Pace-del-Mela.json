@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Pietro Calogero",
-            "pageView": 19394
+            "pageView": 11,
+            "total": 19408
         },
         {
             "page": "Massimo Mollica",
-            "pageView": 12072
+            "pageView": 7,
+            "total": 12075
         },
         {
             "page": "Angelo Amendolia",
-            "pageView": 7305
+            "pageView": 4,
+            "total": 7310
         },
         {
             "page": "Giuseppe Vaccarino",
-            "pageView": 3524
+            "pageView": 2,
+            "total": 3525
         },
         {
             "page": "Francesco Certo",
-            "pageView": 1580
+            "pageView": 1,
+            "total": 1581
         }
     ]
 }

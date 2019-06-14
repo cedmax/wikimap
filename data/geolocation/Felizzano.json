@@ -1,0 +1,27 @@
+{
+    "id": "place.15024922124393640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Felizzano",
+    "place_name": "Felizzano, Alessandria, Italy",
+    "bbox": [
+        8.376203,
+        44.87134,
+        8.474038,
+        44.950787
+    ],
+    "center": [
+        8.43694,
+        44.90028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43694,
+            44.90028
+        ]
+    }
+}

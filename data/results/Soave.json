@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Lino Golin",
-            "pageView": 10277
-        },
-        {
-            "page": "Fabio Garriba",
-            "pageView": 8467
+            "pageView": 6,
+            "total": 10280
         },
         {
             "page": "Riccardo Castagna",
-            "pageView": 7723
+            "pageView": 5,
+            "total": 7726
+        },
+        {
+            "page": "Fabio Garriba",
+            "pageView": 5,
+            "total": 8472
         },
         {
             "page": "Mario Garriba",
-            "pageView": 4595
+            "pageView": 4,
+            "total": 4619
         },
         {
             "page": "Myriam Castelli",
-            "pageView": 3366
-        },
-        {
-            "page": "Thomas Frigo",
-            "pageView": 3278
-        },
-        {
-            "page": "Tomaso Cecchino",
-            "pageView": 2526
+            "pageView": 3,
+            "total": 3368
         },
         {
             "page": "Alessandro Zenatello",
-            "pageView": 1981
+            "pageView": 2,
+            "total": 1983
+        },
+        {
+            "page": "Tomaso Cecchino",
+            "pageView": 2,
+            "total": 2527
+        },
+        {
+            "page": "Thomas Frigo",
+            "pageView": 2,
+            "total": 3279
         },
         {
             "page": "Diego Fanin",
-            "pageView": 1669
+            "pageView": 1,
+            "total": 1670
         },
         {
             "page": "Sandro Ruffo",
-            "pageView": 1562
+            "pageView": 1,
+            "total": 1562
         }
     ]
 }

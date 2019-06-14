@@ -1,0 +1,27 @@
+{
+    "id": "place.9042426985252480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Augusta",
+    "place_name": "Augusta, Siracusa, Italy",
+    "bbox": [
+        15.032751,
+        37.182487,
+        15.257672,
+        37.344499
+    ],
+    "center": [
+        15.21944,
+        37.23028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.21944,
+            37.23028
+        ]
+    }
+}

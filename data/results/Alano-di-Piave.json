@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Dino Meneghin",
-            "pageView": 182517
+            "pageView": 90,
+            "total": 182690
         },
         {
             "page": "Piero Longo",
-            "pageView": 30341
+            "pageView": 18,
+            "total": 30363
         },
         {
             "page": "Nino Oxilia",
-            "pageView": 25842
+            "pageView": 16,
+            "total": 25859
         },
         {
             "page": "Patrizia De Clara",
-            "pageView": 19049
+            "pageView": 9,
+            "total": 19062
         },
         {
             "page": "Egidio Forcellini",
-            "pageView": 12139
-        },
-        {
-            "page": "Gianmartino Durighello",
-            "pageView": 5090
+            "pageView": 8,
+            "total": 12142
         },
         {
             "page": "Antonio Terenghi",
-            "pageView": 4066
+            "pageView": 3,
+            "total": 4067
         },
         {
-            "page": "Manlio Feruglio",
-            "pageView": 3966
-        },
-        {
-            "page": "Ugo Bartolomei",
-            "pageView": 3470
+            "page": "Gianmartino Durighello",
+            "pageView": 3,
+            "total": 5098
         },
         {
             "page": "Paolo De Paoli",
-            "pageView": 2912
+            "pageView": 2,
+            "total": 2914
+        },
+        {
+            "page": "Ugo Bartolomei",
+            "pageView": 2,
+            "total": 3474
         },
         {
             "page": "Alfredo Di Cocco",
-            "pageView": 2858
+            "pageView": 2,
+            "total": 2860
         },
         {
-            "page": "Pantaleone Rapino",
-            "pageView": 2329
+            "page": "Manlio Feruglio",
+            "pageView": 2,
+            "total": 3970
         },
         {
             "page": "Marco Forcellini",
-            "pageView": 2193
+            "pageView": 2,
+            "total": 2194
+        },
+        {
+            "page": "Pantaleone Rapino",
+            "pageView": 2,
+            "total": 2332
         },
         {
             "page": "Vanda Milano",
-            "pageView": 1386
+            "pageView": 1,
+            "total": 1386
         },
         {
             "page": "Pasquale Janniello",
-            "pageView": 1114
+            "pageView": 1,
+            "total": 1116
         }
     ]
 }

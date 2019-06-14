@@ -1,0 +1,27 @@
+{
+    "id": "place.9393470783305460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rubano",
+    "place_name": "Rubano, Padova, Italy",
+    "bbox": [
+        11.775641,
+        45.412322,
+        11.8293,
+        45.458462
+    ],
+    "center": [
+        11.78333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            45.43333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8222035528989610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bussolengo",
+    "place_name": "Bussolengo, Verona, Italy",
+    "bbox": [
+        10.775473,
+        45.439136,
+        10.906746,
+        45.496392
+    ],
+    "center": [
+        10.85,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            45.46667
+        ]
+    }
+}

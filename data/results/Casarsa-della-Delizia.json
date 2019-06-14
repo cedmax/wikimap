@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Ezio Vendrame",
-            "pageView": 83708
+            "pageView": 38,
+            "total": 83740
         },
         {
             "page": "Susanna Pasolini",
-            "pageView": 45948
+            "pageView": 25,
+            "total": 45966
         },
         {
             "page": "Domenico Naldini",
-            "pageView": 13299
+            "pageView": 7,
+            "total": 13322
         },
         {
             "page": "Gioacchino Muccin",
-            "pageView": 5943
+            "pageView": 4,
+            "total": 5944
         },
         {
             "page": "Elio Ciol",
-            "pageView": 5253
-        },
-        {
-            "page": "Zefferino Tomè",
-            "pageView": 1994
-        },
-        {
-            "page": "Renata Zatti Cicuttini",
-            "pageView": 1892
-        },
-        {
-            "page": "Manlio Bertolin",
-            "pageView": 1475
+            "pageView": 3,
+            "total": 5255
         },
         {
             "page": "Raffaele Mancino",
-            "pageView": 1366
+            "pageView": 2,
+            "total": 1366
+        },
+        {
+            "page": "Zefferino Tomè",
+            "pageView": 2,
+            "total": 1994
+        },
+        {
+            "page": "Renata Zatti Cicuttini",
+            "pageView": 2,
+            "total": 1893
+        },
+        {
+            "page": "Manlio Bertolin",
+            "pageView": 1,
+            "total": 1476
         }
     ]
 }

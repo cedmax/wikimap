@@ -1,0 +1,27 @@
+{
+    "id": "place.9622814451624770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Greve in Chianti",
+    "place_name": "Greve in Chianti, Firenze, Italy",
+    "bbox": [
+        11.255367,
+        43.518247,
+        11.40866,
+        43.696205
+    ],
+    "center": [
+        11.31667,
+        43.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            43.58333
+        ]
+    }
+}

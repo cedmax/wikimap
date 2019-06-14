@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Renato Curcio",
-            "pageView": 446456
-        },
-        {
-            "page": "Clarice Orsini",
-            "pageView": 336281
+            "pageView": 224,
+            "total": 446675
         },
         {
             "page": "Marco Marchionni",
-            "pageView": 133437
+            "pageView": 79,
+            "total": 133504
+        },
+        {
+            "page": "Clarice Orsini",
+            "pageView": 74,
+            "total": 336362
         },
         {
             "page": "Silvano Spadaccino",
-            "pageView": 50609
-        },
-        {
-            "page": "Bianca Toccafondi",
-            "pageView": 31472
+            "pageView": 25,
+            "total": 50638
         },
         {
             "page": "Attilio Gregori",
-            "pageView": 24979
+            "pageView": 14,
+            "total": 24994
         },
         {
-            "page": "Cinzia Fiorato",
-            "pageView": 14837
-        },
-        {
-            "page": "Amos Cardarelli",
-            "pageView": 11953
+            "page": "Bianca Toccafondi",
+            "pageView": 13,
+            "total": 31477
         },
         {
             "page": "Ruggero Miti",
-            "pageView": 11377
+            "pageView": 7,
+            "total": 11383
         },
         {
-            "page": "Angelo Frammartino",
-            "pageView": 10923
+            "page": "Amos Cardarelli",
+            "pageView": 6,
+            "total": 11959
         },
         {
             "page": "Fausto Cecconi",
-            "pageView": 9881
+            "pageView": 6,
+            "total": 9887
+        },
+        {
+            "page": "Angelo Frammartino",
+            "pageView": 6,
+            "total": 10930
+        },
+        {
+            "page": "Cinzia Fiorato",
+            "pageView": 5,
+            "total": 14843
         },
         {
             "page": "Massimo Gregori",
-            "pageView": 9368
+            "pageView": 5,
+            "total": 9377
         },
         {
             "page": "Alfredo Monza",
-            "pageView": 4963
+            "pageView": 3,
+            "total": 4964
         },
         {
             "page": "Marco Torrieri",
-            "pageView": 4828
-        },
-        {
-            "page": "Carlo Lucherini",
-            "pageView": 3963
-        },
-        {
-            "page": "Massimo Scali",
-            "pageView": 3928
-        },
-        {
-            "page": "Bandinello Sauli",
-            "pageView": 3175
-        },
-        {
-            "page": "Dino Manetta",
-            "pageView": 3128
-        },
-        {
-            "page": "Vincenzo Federici",
-            "pageView": 3112
-        },
-        {
-            "page": "Antonio Pascotto",
-            "pageView": 3052
+            "pageView": 3,
+            "total": 4831
         },
         {
             "page": "Luca Ruggero Jacovella",
-            "pageView": 2793
+            "pageView": 2,
+            "total": 2793
         },
         {
-            "page": "Giovanni Bovi Campeggi",
-            "pageView": 1538
+            "page": "Carlo Lucherini",
+            "pageView": 2,
+            "total": 3965
+        },
+        {
+            "page": "Dino Manetta",
+            "pageView": 2,
+            "total": 3129
+        },
+        {
+            "page": "Vincenzo Federici",
+            "pageView": 2,
+            "total": 3113
         },
         {
             "page": "Marcello Mencarini",
-            "pageView": 980
+            "pageView": 2,
+            "total": 983
+        },
+        {
+            "page": "Bandinello Sauli",
+            "pageView": 2,
+            "total": 3176
+        },
+        {
+            "page": "Antonio Pascotto",
+            "pageView": 2,
+            "total": 3055
+        },
+        {
+            "page": "Massimo Scali",
+            "pageView": 2,
+            "total": 3932
+        },
+        {
+            "page": "Giovanni Bovi Campeggi",
+            "pageView": 1,
+            "total": 1538
         },
         {
             "page": "Edmondo Riva",
-            "pageView": 344
+            "pageView": 0,
+            "total": 345
         }
     ]
 }

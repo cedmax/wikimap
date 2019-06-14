@@ -1,0 +1,27 @@
+{
+    "id": "place.1516198828720100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassina Rizzardi",
+    "place_name": "Cassina Rizzardi, Como, Italy",
+    "bbox": [
+        9.010726,
+        45.738327,
+        9.04436,
+        45.760502
+    ],
+    "center": [
+        9.03333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.75
+        ]
+    }
+}

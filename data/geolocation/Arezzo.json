@@ -1,0 +1,27 @@
+{
+    "id": "place.11913883695478600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arezzo",
+    "place_name": "Arezzo, Arezzo, Italy",
+    "bbox": [
+        11.740872,
+        43.327211,
+        12.078266,
+        43.556484
+    ],
+    "center": [
+        11.87806,
+        43.46306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.87806,
+            43.46306
+        ]
+    }
+}

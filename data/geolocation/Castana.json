@@ -1,0 +1,27 @@
+{
+    "id": "place.6016650756123920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castana",
+    "place_name": "Castana, Pavia, Italy",
+    "bbox": [
+        9.260075,
+        45.006819,
+        9.300091,
+        45.043938
+    ],
+    "center": [
+        9.26667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.03333
+        ]
+    }
+}

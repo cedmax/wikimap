@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Francesco I de' Medici",
-            "pageView": 115913
+            "pageView": 63,
+            "total": 115978
         },
         {
             "page": "Bianca Cappello",
-            "pageView": 68512
+            "pageView": 31.5,
+            "total": 68535
         },
         {
             "page": "Filippo Mazzei",
-            "pageView": 32587
+            "pageView": 21,
+            "total": 32611
         },
         {
             "page": "Bertoldo di Giovanni",
-            "pageView": 12440
-        },
-        {
-            "page": "Paolino Taddei",
-            "pageView": 6080
+            "pageView": 8,
+            "total": 12443
         },
         {
             "page": "Massimo Quattrini",
-            "pageView": 6008
+            "pageView": 4,
+            "total": 6011
+        },
+        {
+            "page": "Paolino Taddei",
+            "pageView": 4,
+            "total": 6084
         },
         {
             "page": "Giorgio Gatti",
-            "pageView": 5835
-        },
-        {
-            "page": "Tina Allori",
-            "pageView": 5494
+            "pageView": 4,
+            "total": 5835
         },
         {
             "page": "Maria Margherita Caiani",
-            "pageView": 3950
+            "pageView": 3,
+            "total": 3951
         },
         {
-            "page": "Francesco Ragonesi",
-            "pageView": 3147
+            "page": "Tina Allori",
+            "pageView": 3,
+            "total": 5496
         },
         {
             "page": "Giovanni Bellini (scrittore)",
-            "pageView": 2985
+            "pageView": 2,
+            "total": 2985
         },
         {
-            "page": "Nicola Giannattasio",
-            "pageView": 2847
+            "page": "Francesco Ragonesi",
+            "pageView": 2,
+            "total": 3151
         },
         {
             "page": "Francesco Inverni",
-            "pageView": 2260
+            "pageView": 2,
+            "total": 2262
+        },
+        {
+            "page": "Nicola Giannattasio",
+            "pageView": 2,
+            "total": 2851
         },
         {
             "page": "Andrea Cristoforetti",
-            "pageView": 1765
+            "pageView": 1,
+            "total": 1766
         },
         {
             "page": "Roberto Gargiani",
-            "pageView": 482
+            "pageView": 0,
+            "total": 486
         }
     ]
 }

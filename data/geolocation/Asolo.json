@@ -1,0 +1,27 @@
+{
+    "id": "place.12339479505851450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asolo",
+    "place_name": "Asolo, Treviso, Italy",
+    "bbox": [
+        11.874857,
+        45.755629,
+        11.948537,
+        45.823877
+    ],
+    "center": [
+        11.91667,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91667,
+            45.8
+        ]
+    }
+}

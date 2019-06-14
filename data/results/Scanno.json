@@ -2,28 +2,34 @@
     "name": "Scanno",
     "people": [
         {
-            "page": "Salvatore Rotolo",
-            "pageView": 2646
-        },
-        {
             "page": "Enrico Carfagnini",
-            "pageView": 1971
+            "pageView": 2,
+            "total": 1974
         },
         {
             "page": "Alfonso Colarossi-Mancini",
-            "pageView": 1947
+            "pageView": 2,
+            "total": 1948
+        },
+        {
+            "page": "Salvatore Rotolo",
+            "pageView": 2,
+            "total": 2649
         },
         {
             "page": "Vincenzo Tanturri",
-            "pageView": 1776
-        },
-        {
-            "page": "Giuseppe Rossicone",
-            "pageView": 699
+            "pageView": 1,
+            "total": 1776
         },
         {
             "page": "Costanzo Ciarletta",
-            "pageView": 511
+            "pageView": 0,
+            "total": 511
+        },
+        {
+            "page": "Giuseppe Rossicone",
+            "pageView": 0,
+            "total": 699
         }
     ]
 }

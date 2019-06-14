@@ -3,87 +3,108 @@
     "people": [
         {
             "page": "Franco Ciani (allenatore di pallacanestro)",
-            "pageView": 15204
+            "pageView": 8,
+            "total": 15220
         },
         {
             "page": "Marco Esposito (calciatore)",
-            "pageView": 12046
+            "pageView": 8,
+            "total": 12054
         },
         {
             "page": "Cosimo Damiano Fonseca",
-            "pageView": 11830
+            "pageView": 7,
+            "total": 11845
         },
         {
             "page": "Francesco Quaglia",
-            "pageView": 7782
+            "pageView": 6,
+            "total": 7782
         },
         {
             "page": "Massimo Bernardi",
-            "pageView": 7432
+            "pageView": 4,
+            "total": 7437
         },
         {
             "page": "Salvatore Mazzarano",
-            "pageView": 7009
+            "pageView": 4,
+            "total": 7018
         },
         {
             "page": "Niccolò Andria",
-            "pageView": 6803
+            "pageView": 4,
+            "total": 6814
         },
         {
             "page": "Massimo Bianchi (cestista)",
-            "pageView": 5944
-        },
-        {
-            "page": "Silvio Gigena",
-            "pageView": 5244
+            "pageView": 4,
+            "total": 5949
         },
         {
             "page": "Luigi Abatangelo",
-            "pageView": 4575
+            "pageView": 3,
+            "total": 4576
         },
         {
-            "page": "Brian Shorter",
-            "pageView": 3195
+            "page": "Silvio Gigena",
+            "pageView": 3,
+            "total": 5245
         },
         {
             "page": "Daniele Soro",
-            "pageView": 2918
-        },
-        {
-            "page": "Sergio Plumari",
-            "pageView": 2133
+            "pageView": 2,
+            "total": 2922
         },
         {
             "page": "Antonio Rotelli",
-            "pageView": 2003
+            "pageView": 2,
+            "total": 2009
+        },
+        {
+            "page": "Brian Shorter",
+            "pageView": 2,
+            "total": 3199
         },
         {
             "page": "Luca Antonio Resta",
-            "pageView": 1883
-        },
-        {
-            "page": "Giuseppe Amati",
-            "pageView": 1810
+            "pageView": 2,
+            "total": 1884
         },
         {
             "page": "Gian Bernardo Capreoli",
-            "pageView": 1725
+            "pageView": 2,
+            "total": 1726
         },
         {
-            "page": "Giovanni Losavio",
-            "pageView": 1685
+            "page": "Sergio Plumari",
+            "pageView": 2,
+            "total": 2137
         },
         {
             "page": "Leo Ricci",
-            "pageView": 1391
+            "pageView": 1,
+            "total": 1391
         },
         {
-            "page": "Ivan Scarponi",
-            "pageView": 650
+            "page": "Giovanni Losavio",
+            "pageView": 1,
+            "total": 1685
+        },
+        {
+            "page": "Giuseppe Amati",
+            "pageView": 1,
+            "total": 1810
         },
         {
             "page": "Roberto Caprara",
-            "pageView": 161
+            "pageView": 0,
+            "total": 166
+        },
+        {
+            "page": "Ivan Scarponi",
+            "pageView": 0,
+            "total": 650
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.15148042252258860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barbaresco",
+    "place_name": "Barbaresco, Cuneo, Italy",
+    "bbox": [
+        8.057577,
+        44.702258,
+        8.093903,
+        44.739995
+    ],
+    "center": [
+        8.08333,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.08333,
+            44.71667
+        ]
+    }
+}

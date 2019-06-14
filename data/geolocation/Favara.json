@@ -1,0 +1,27 @@
+{
+    "id": "place.4644730299255440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Favara",
+    "place_name": "Favara, Agrigento, Italy",
+    "bbox": [
+        13.610511,
+        37.239005,
+        13.735935,
+        37.391295
+    ],
+    "center": [
+        13.66306,
+        37.31861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.66306,
+            37.31861
+        ]
+    }
+}

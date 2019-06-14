@@ -1,0 +1,27 @@
+{
+    "id": "place.10363261367123650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palma di Montechiaro",
+    "place_name": "Palma di Montechiaro, Agrigento, Italy",
+    "bbox": [
+        13.664208,
+        37.139441,
+        13.839424,
+        37.221927
+    ],
+    "center": [
+        13.76583,
+        37.19361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76583,
+            37.19361
+        ]
+    }
+}

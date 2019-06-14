@@ -1,0 +1,27 @@
+{
+    "id": "place.11276196351563640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trescore Balneario",
+    "place_name": "Trescore Balneario, Bergamo, Italy",
+    "bbox": [
+        9.819845,
+        45.666355,
+        9.892916,
+        45.729997
+    ],
+    "center": [
+        9.85,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            45.7
+        ]
+    }
+}

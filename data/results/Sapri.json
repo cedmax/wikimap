@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Luigi Russo (calciatore)",
-            "pageView": 10094
-        },
-        {
-            "page": "Salvatore Regalino",
-            "pageView": 6877
+            "pageView": 7,
+            "total": 10099
         },
         {
             "page": "Antonio Crusco",
-            "pageView": 6623
+            "pageView": 4,
+            "total": 6626
         },
         {
-            "page": "Elisa Lecce",
-            "pageView": 3270
-        },
-        {
-            "page": "Vincenzo Rubano",
-            "pageView": 3202
+            "page": "Salvatore Regalino",
+            "pageView": 3,
+            "total": 6879
         },
         {
             "page": "Leonzio Borea",
-            "pageView": 1877
-        },
-        {
-            "page": "Felice Cesarino",
-            "pageView": 1742
-        },
-        {
-            "page": "Leonia Milito",
-            "pageView": 1659
+            "pageView": 2,
+            "total": 1877
         },
         {
             "page": "Lucio Mariano Brandi",
-            "pageView": 1488
+            "pageView": 2,
+            "total": 1488
+        },
+        {
+            "page": "Felice Cesarino",
+            "pageView": 2,
+            "total": 1745
+        },
+        {
+            "page": "Elisa Lecce",
+            "pageView": 2,
+            "total": 3276
+        },
+        {
+            "page": "Leonia Milito",
+            "pageView": 2,
+            "total": 1660
+        },
+        {
+            "page": "Vincenzo Rubano",
+            "pageView": 2,
+            "total": 3203
         },
         {
             "page": "Giampiero Stabile",
-            "pageView": 1465
+            "pageView": 1,
+            "total": 1465
         }
     ]
 }

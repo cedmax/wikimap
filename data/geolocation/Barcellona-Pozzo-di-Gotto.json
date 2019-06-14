@@ -1,0 +1,27 @@
+{
+    "id": "place.9063755773494600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barcellona Pozzo di Gotto",
+    "place_name": "Barcellona Pozzo di Gotto, Messina, Italy",
+    "bbox": [
+        15.17108,
+        38.072029,
+        15.273528,
+        38.183744
+    ],
+    "center": [
+        15.21667,
+        38.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.21667,
+            38.15
+        ]
+    }
+}

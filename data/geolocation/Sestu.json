@@ -1,0 +1,27 @@
+{
+    "id": "place.6269323259472800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sestu",
+    "place_name": "Sestu, Cagliari, Italy",
+    "bbox": [
+        9.028907,
+        39.270713,
+        9.133785,
+        39.352547
+    ],
+    "center": [
+        9.1,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            39.3
+        ]
+    }
+}

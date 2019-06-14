@@ -3,643 +3,803 @@
     "people": [
         {
             "page": "Franca Viola",
-            "pageView": 404056
+            "pageView": 153,
+            "total": 404172
         },
         {
             "page": "Roberto Boscaglia",
-            "pageView": 86067
+            "pageView": 44,
+            "total": 86107
         },
         {
             "page": "Antonino Asta",
-            "pageView": 63482
+            "pageView": 32,
+            "total": 63510
         },
         {
             "page": "Vincenzo Rimi",
-            "pageView": 34248
+            "pageView": 19,
+            "total": 34289
         },
         {
             "page": "Gino Colaussi",
-            "pageView": 28589
-        },
-        {
-            "page": "Andrea Constand",
-            "pageView": 27207
-        },
-        {
-            "page": "Vito Guarrasi",
-            "pageView": 26560
-        },
-        {
-            "page": "Giuseppe Scurto",
-            "pageView": 25670
+            "pageView": 17,
+            "total": 28605
         },
         {
             "page": "Ludovico Corrao",
-            "pageView": 25331
+            "pageView": 15,
+            "total": 25347
+        },
+        {
+            "page": "Giuseppe Scurto",
+            "pageView": 14,
+            "total": 25682
+        },
+        {
+            "page": "Vito Guarrasi",
+            "pageView": 13,
+            "total": 26570
         },
         {
             "page": "Antonino Raspanti",
-            "pageView": 22473
-        },
-        {
-            "page": "Christian Rocca",
-            "pageView": 20269
-        },
-        {
-            "page": "Lisa Leslie",
-            "pageView": 17678
-        },
-        {
-            "page": "Vincenzo Montalbano",
-            "pageView": 13397
-        },
-        {
-            "page": "Sara Renda",
-            "pageView": 12262
-        },
-        {
-            "page": "Girolamo Turano",
-            "pageView": 9859
-        },
-        {
-            "page": "Gaspare Umile",
-            "pageView": 9536
-        },
-        {
-            "page": "Francesca Zara",
-            "pageView": 9160
-        },
-        {
-            "page": "Cynthia Cooper",
-            "pageView": 8840
-        },
-        {
-            "page": "Paolo Piras",
-            "pageView": 8398
-        },
-        {
-            "page": "Carlo Matteucci (calciatore)",
-            "pageView": 7956
-        },
-        {
-            "page": "Benigno De Grandi",
-            "pageView": 7616
-        },
-        {
-            "page": "Vincenza Bono",
-            "pageView": 7608
-        },
-        {
-            "page": "Pasqualino Borsellino",
-            "pageView": 7496
-        },
-        {
-            "page": "Turi Simeti",
-            "pageView": 7381
-        },
-        {
-            "page": "Nicolò Mineo",
-            "pageView": 6033
-        },
-        {
-            "page": "Antonino Papania",
-            "pageView": 5881
-        },
-        {
-            "page": "Maurizio Miranda",
-            "pageView": 5735
-        },
-        {
-            "page": "Natale Picano",
-            "pageView": 5652
-        },
-        {
-            "page": "Bartolomeo Berrettaro",
-            "pageView": 5325
-        },
-        {
-            "page": "Chiara Rossi",
-            "pageView": 4975
+            "pageView": 12,
+            "total": 22491
         },
         {
             "page": "Antonio Pandolfo",
-            "pageView": 4760
+            "pageView": 10,
+            "total": 4764
         },
         {
-            "page": "Franco Rondanini",
-            "pageView": 4658
+            "page": "Christian Rocca",
+            "pageView": 10,
+            "total": 20274
         },
         {
-            "page": "Martina Fassina",
-            "pageView": 4639
+            "page": "Andrea Constand",
+            "pageView": 10,
+            "total": 27212
         },
         {
-            "page": "Roberto Pidone",
-            "pageView": 4617
+            "page": "Lisa Leslie",
+            "pageView": 9,
+            "total": 17694
         },
         {
-            "page": "Valentina Fabbri",
-            "pageView": 4215
+            "page": "Vincenzo Montalbano",
+            "pageView": 9,
+            "total": 13403
+        },
+        {
+            "page": "Turi Simeti",
+            "pageView": 7,
+            "total": 7382
+        },
+        {
+            "page": "Gaspare Umile",
+            "pageView": 6,
+            "total": 9540
+        },
+        {
+            "page": "Sara Renda",
+            "pageView": 6,
+            "total": 12263
+        },
+        {
+            "page": "Girolamo Turano",
+            "pageView": 5,
+            "total": 9865
+        },
+        {
+            "page": "Cynthia Cooper",
+            "pageView": 5,
+            "total": 8849
+        },
+        {
+            "page": "Paolo Piras",
+            "pageView": 5,
+            "total": 8401
+        },
+        {
+            "page": "Francesca Zara",
+            "pageView": 5,
+            "total": 9171
+        },
+        {
+            "page": "Benigno De Grandi",
+            "pageView": 5,
+            "total": 7621
+        },
+        {
+            "page": "Pasqualino Borsellino",
+            "pageView": 5,
+            "total": 7499
+        },
+        {
+            "page": "Vincenza Bono",
+            "pageView": 4,
+            "total": 7617
+        },
+        {
+            "page": "Carlo Matteucci (calciatore)",
+            "pageView": 4,
+            "total": 7960
+        },
+        {
+            "page": "Maurizio Miranda",
+            "pageView": 4,
+            "total": 5738
+        },
+        {
+            "page": "Natale Picano",
+            "pageView": 4,
+            "total": 5653
+        },
+        {
+            "page": "Antonino Papania",
+            "pageView": 3.5,
+            "total": 5883
         },
         {
             "page": "Sandro Crispino",
-            "pageView": 3916
+            "pageView": 3,
+            "total": 3917
         },
         {
-            "page": "Stefano Ranuzzi",
-            "pageView": 3736
+            "page": "Roberto Pidone",
+            "pageView": 3,
+            "total": 4620
         },
         {
-            "page": "Pietro Aquila",
-            "pageView": 3634
-        },
-        {
-            "page": "Susanna Stabile",
-            "pageView": 3622
-        },
-        {
-            "page": "Nicola Rubino",
-            "pageView": 3504
-        },
-        {
-            "page": "Luigi Soffrido",
-            "pageView": 3485
-        },
-        {
-            "page": "Marco Colle",
-            "pageView": 3347
-        },
-        {
-            "page": "Gaspare Canino",
-            "pageView": 3335
-        },
-        {
-            "page": "Sebastiano Bagolino",
-            "pageView": 3330
-        },
-        {
-            "page": "Carmelo Del Noce",
-            "pageView": 3330
-        },
-        {
-            "page": "Giuseppe Barbara",
-            "pageView": 3178
-        },
-        {
-            "page": "Giuseppe Renda (pittore)",
-            "pageView": 3113
-        },
-        {
-            "page": "Carlo Cataldo",
-            "pageView": 2928
-        },
-        {
-            "page": "Paola Mauriello",
-            "pageView": 2925
-        },
-        {
-            "page": "Eleonora Magaddino",
-            "pageView": 2907
-        },
-        {
-            "page": "Massimo Saverio Ennio Fundarò",
-            "pageView": 2896
-        },
-        {
-            "page": "Andrea Petitpierre",
-            "pageView": 2888
-        },
-        {
-            "page": "Giuseppe Rizzo (presbitero)",
-            "pageView": 2834
-        },
-        {
-            "page": "Francesco Parrino (politico)",
-            "pageView": 2774
-        },
-        {
-            "page": "Francesco Paolo Lucchese",
-            "pageView": 2739
-        },
-        {
-            "page": "Oriana Milazzo",
-            "pageView": 2571
-        },
-        {
-            "page": "Gaspare Cannone",
-            "pageView": 2528
-        },
-        {
-            "page": "Giovanna Granieri",
-            "pageView": 2519
-        },
-        {
-            "page": "Simina Mandache",
-            "pageView": 2498
-        },
-        {
-            "page": "Lia Valerio",
-            "pageView": 2475
-        },
-        {
-            "page": "Beppe Cutrera",
-            "pageView": 2445
-        },
-        {
-            "page": "Charley Fusari",
-            "pageView": 2419
-        },
-        {
-            "page": "Antonella Collini",
-            "pageView": 2394
-        },
-        {
-            "page": "Girolamo Caruso",
-            "pageView": 2394
-        },
-        {
-            "page": "Enrica Pavia",
-            "pageView": 2393
-        },
-        {
-            "page": "Massimo Romano",
-            "pageView": 2376
-        },
-        {
-            "page": "Anna Caliendo",
-            "pageView": 2328
-        },
-        {
-            "page": "Mara Buzzanca",
-            "pageView": 2304
-        },
-        {
-            "page": "Roli-Ann Haldin",
-            "pageView": 2295
-        },
-        {
-            "page": "Benedetto Lo Monaco",
-            "pageView": 2295
-        },
-        {
-            "page": "Pietro Maria Rocca",
-            "pageView": 2168
-        },
-        {
-            "page": "Adalgisa Impastato",
-            "pageView": 2127
-        },
-        {
-            "page": "Giacomo Romano Davare",
-            "pageView": 2123
-        },
-        {
-            "page": "Giuseppe Caboni",
-            "pageView": 2111
-        },
-        {
-            "page": "Vincenzo Regina",
-            "pageView": 2085
-        },
-        {
-            "page": "Giuseppe Triolo",
-            "pageView": 1991
-        },
-        {
-            "page": "Pietro Montana",
-            "pageView": 1960
-        },
-        {
-            "page": "Oreste Brondi",
-            "pageView": 1956
-        },
-        {
-            "page": "Umberto Badii",
-            "pageView": 1921
-        },
-        {
-            "page": "Francesco Maria Mirabella",
-            "pageView": 1908
-        },
-        {
-            "page": "Paolo Calò",
-            "pageView": 1851
-        },
-        {
-            "page": "Diāna Skrastiņa",
-            "pageView": 1808
-        },
-        {
-            "page": "Pamela Ferrari",
-            "pageView": 1787
-        },
-        {
-            "page": "Tari Phillips",
-            "pageView": 1782
-        },
-        {
-            "page": "Azzurra Gaglio",
-            "pageView": 1781
-        },
-        {
-            "page": "Giuseppe Cottone (critico letterario)",
-            "pageView": 1693
-        },
-        {
-            "page": "Elena Bandini",
-            "pageView": 1684
-        },
-        {
-            "page": "Vito Pollari",
-            "pageView": 1650
-        },
-        {
-            "page": "Augusto Masetto",
-            "pageView": 1629
-        },
-        {
-            "page": "Elisabetta Pasini",
-            "pageView": 1579
-        },
-        {
-            "page": "Gino Patti",
-            "pageView": 1550
-        },
-        {
-            "page": "Mariano da Alcamo",
-            "pageView": 1548
-        },
-        {
-            "page": "Francesca Mannucci",
-            "pageView": 1545
-        },
-        {
-            "page": "Daniela Grande",
-            "pageView": 1539
-        },
-        {
-            "page": "Vanessa Gidden",
-            "pageView": 1509
-        },
-        {
-            "page": "Roberta Colico",
-            "pageView": 1505
-        },
-        {
-            "page": "Egidio De Franceschi",
-            "pageView": 1484
-        },
-        {
-            "page": "Edoardo Giannone",
-            "pageView": 1481
-        },
-        {
-            "page": "Francesco Scimeca",
-            "pageView": 1451
+            "page": "Nicolò Mineo",
+            "pageView": 3,
+            "total": 6035
         },
         {
             "page": "Antonio Lombardo (politico)",
-            "pageView": 1451
+            "pageView": 3,
+            "total": 1454
         },
         {
-            "page": "Claudia Barzaghi",
-            "pageView": 1437
+            "page": "Chiara Rossi",
+            "pageView": 3,
+            "total": 4976
         },
         {
-            "page": "Cleide Urlando",
-            "pageView": 1418
+            "page": "Gaspare Canino",
+            "pageView": 3,
+            "total": 3335
         },
         {
-            "page": "Barbara Gibertini",
-            "pageView": 1369
+            "page": "Bartolomeo Berrettaro",
+            "pageView": 3,
+            "total": 5331
         },
         {
-            "page": "Manuela Diamanti",
-            "pageView": 1348
+            "page": "Valentina Fabbri",
+            "pageView": 3,
+            "total": 4218
         },
         {
-            "page": "Rosalia Messina",
-            "pageView": 1328
+            "page": "Martina Fassina",
+            "pageView": 3,
+            "total": 4641
         },
         {
-            "page": "Cristiana Federighi",
-            "pageView": 1327
+            "page": "Franco Rondanini",
+            "pageView": 3,
+            "total": 4659
         },
         {
-            "page": "Dante Carzaniga",
-            "pageView": 1326
+            "page": "Paolo Calò",
+            "pageView": 2,
+            "total": 1852
         },
         {
-            "page": "Roberto Calia",
-            "pageView": 1322
+            "page": "Marco Colle",
+            "pageView": 2,
+            "total": 3347
+        },
+        {
+            "page": "Carmelo Del Noce",
+            "pageView": 2,
+            "total": 3331
+        },
+        {
+            "page": "Giuseppe Barbara",
+            "pageView": 2,
+            "total": 3184
+        },
+        {
+            "page": "Benedetto Lo Monaco",
+            "pageView": 2,
+            "total": 2295
         },
         {
             "page": "Baldassare Lauria",
-            "pageView": 1314
+            "pageView": 2,
+            "total": 1314
         },
         {
-            "page": "Tammy Jackson",
-            "pageView": 1299
+            "page": "Francesco Paolo Lucchese",
+            "pageView": 2,
+            "total": 2740
         },
         {
-            "page": "Karen Twehues",
-            "pageView": 1286
+            "page": "Anna Caliendo",
+            "pageView": 2,
+            "total": 2334
         },
         {
-            "page": "Felicia Pentimone",
-            "pageView": 1283
+            "page": "Charley Fusari",
+            "pageView": 2,
+            "total": 2420
         },
         {
-            "page": "Laura Audere",
-            "pageView": 1283
+            "page": "Massimo Saverio Ennio Fundarò",
+            "pageView": 2,
+            "total": 2898
         },
         {
-            "page": "Jami Montagnino",
-            "pageView": 1279
+            "page": "Andrea Petitpierre",
+            "pageView": 2,
+            "total": 2891
         },
         {
-            "page": "Karolina Piotrkiewicz",
-            "pageView": 1267
+            "page": "Massimo Romano",
+            "pageView": 2,
+            "total": 2377
         },
         {
-            "page": "Laura Gorla",
-            "pageView": 1256
+            "page": "Giacomo Romano Davare",
+            "pageView": 2,
+            "total": 2125
         },
         {
-            "page": "Felicia Di Bari",
-            "pageView": 1234
+            "page": "Giuseppe Cottone (critico letterario)",
+            "pageView": 2,
+            "total": 1694
         },
         {
-            "page": "Floriana Garuccio",
-            "pageView": 1193
+            "page": "Luigi Soffrido",
+            "pageView": 2,
+            "total": 3488
         },
         {
-            "page": "Dalila Cucchiara",
-            "pageView": 1189
+            "page": "Carlo Cataldo",
+            "pageView": 2,
+            "total": 2930
         },
         {
-            "page": "Peter H. Ruvolo",
-            "pageView": 1183
+            "page": "Girolamo Caruso",
+            "pageView": 2,
+            "total": 2395
         },
         {
-            "page": "Silvia Passon",
-            "pageView": 1176
+            "page": "Roberto Calia",
+            "pageView": 2,
+            "total": 1325
         },
         {
-            "page": "Travesa Gant",
-            "pageView": 1175
+            "page": "Roli-Ann Haldin",
+            "pageView": 2,
+            "total": 2295
         },
         {
-            "page": "Nicole Michael",
-            "pageView": 1152
+            "page": "Eleonora Magaddino",
+            "pageView": 2,
+            "total": 2907
         },
         {
-            "page": "Claudia Gattini",
-            "pageView": 1145
+            "page": "Simina Mandache",
+            "pageView": 2,
+            "total": 2499
         },
         {
-            "page": "Patrycja Gulak",
-            "pageView": 1141
+            "page": "Beppe Cutrera",
+            "pageView": 2,
+            "total": 2445
         },
         {
-            "page": "Carla McGhee",
-            "pageView": 1133
+            "page": "Gino Patti",
+            "pageView": 2,
+            "total": 1552
         },
         {
-            "page": "Marilena Rienzi",
-            "pageView": 1096
+            "page": "Oriana Milazzo",
+            "pageView": 2,
+            "total": 2572
         },
         {
-            "page": "Silvia Brum",
-            "pageView": 1082
+            "page": "Giuseppe Triolo",
+            "pageView": 2,
+            "total": 1994
         },
         {
-            "page": "Carmen Iovine (cestista)",
-            "pageView": 1071
+            "page": "Pietro Maria Rocca",
+            "pageView": 2,
+            "total": 2169
+        },
+        {
+            "page": "Enrica Pavia",
+            "pageView": 2,
+            "total": 2394
+        },
+        {
+            "page": "Giuseppe Rizzo (presbitero)",
+            "pageView": 2,
+            "total": 2839
+        },
+        {
+            "page": "Umberto Badii",
+            "pageView": 2,
+            "total": 1921
+        },
+        {
+            "page": "Giuseppe Renda (pittore)",
+            "pageView": 2,
+            "total": 3130
+        },
+        {
+            "page": "Vincenzo Regina",
+            "pageView": 2,
+            "total": 2088
+        },
+        {
+            "page": "Francesco Maria Mirabella",
+            "pageView": 2,
+            "total": 1912
+        },
+        {
+            "page": "Gaspare Cannone",
+            "pageView": 2,
+            "total": 2534
         },
         {
             "page": "Nino Navarra",
-            "pageView": 1070
+            "pageView": 2,
+            "total": 1071
         },
         {
-            "page": "Sophia Witherspoon",
-            "pageView": 1039
+            "page": "Stefano Ranuzzi",
+            "pageView": 2,
+            "total": 3736
         },
         {
-            "page": "Niccolò Ciafaglione",
-            "pageView": 1037
+            "page": "Lia Valerio",
+            "pageView": 2,
+            "total": 2476
         },
         {
-            "page": "Tommaso Papa",
-            "pageView": 1036
+            "page": "Sebastiano Bagolino",
+            "pageView": 2,
+            "total": 3334
         },
         {
-            "page": "Angela Aycock",
-            "pageView": 1028
+            "page": "Pietro Aquila",
+            "pageView": 2,
+            "total": 3635
         },
         {
-            "page": "Nancy Scozzari",
-            "pageView": 1026
+            "page": "Nicola Rubino",
+            "pageView": 2,
+            "total": 3505
         },
         {
-            "page": "Patrizia Scannaliato",
-            "pageView": 1024
+            "page": "Mara Buzzanca",
+            "pageView": 2,
+            "total": 2306
         },
         {
-            "page": "Nello Morsellino",
-            "pageView": 1005
+            "page": "Susanna Stabile",
+            "pageView": 2,
+            "total": 3626
         },
         {
-            "page": "Olympia Scott",
-            "pageView": 998
+            "page": "Antonella Collini",
+            "pageView": 2,
+            "total": 2395
         },
         {
-            "page": "Deborah Liotti",
-            "pageView": 998
+            "page": "Giuseppe Caboni",
+            "pageView": 2,
+            "total": 2111
+        },
+        {
+            "page": "Pietro Montana",
+            "pageView": 2,
+            "total": 1960
+        },
+        {
+            "page": "Paola Mauriello",
+            "pageView": 2,
+            "total": 2926
+        },
+        {
+            "page": "Oreste Brondi",
+            "pageView": 2,
+            "total": 1957
+        },
+        {
+            "page": "Adalgisa Impastato",
+            "pageView": 2,
+            "total": 2127
+        },
+        {
+            "page": "Giovanna Granieri",
+            "pageView": 2,
+            "total": 2519
+        },
+        {
+            "page": "Francesco Parrino (politico)",
+            "pageView": 2,
+            "total": 2776
+        },
+        {
+            "page": "Floriana Garuccio",
+            "pageView": 1,
+            "total": 1193
+        },
+        {
+            "page": "Travesa Gant",
+            "pageView": 1,
+            "total": 1175
         },
         {
             "page": "Valeria Grignano",
-            "pageView": 987
+            "pageView": 1,
+            "total": 987
         },
         {
-            "page": "Loretta Vaccaro",
-            "pageView": 972
+            "page": "Dante Carzaniga",
+            "pageView": 1,
+            "total": 1326
         },
         {
-            "page": "Carvie Upshaw",
-            "pageView": 926
+            "page": "Pamela Ferrari",
+            "pageView": 1,
+            "total": 1789
         },
         {
-            "page": "Debra Williams",
-            "pageView": 909
+            "page": "Carmen Iovine (cestista)",
+            "pageView": 1,
+            "total": 1072
         },
         {
-            "page": "Agostino Pantò",
-            "pageView": 897
+            "page": "Tammy Jackson",
+            "pageView": 1,
+            "total": 1299
+        },
+        {
+            "page": "Cristiana Federighi",
+            "pageView": 1,
+            "total": 1327
+        },
+        {
+            "page": "Deborah Liotti",
+            "pageView": 1,
+            "total": 998
         },
         {
             "page": "Sara Marcaggi",
-            "pageView": 876
+            "pageView": 1,
+            "total": 876
         },
         {
-            "page": "Zsuzsa Tarnai",
-            "pageView": 848
+            "page": "Manuela Diamanti",
+            "pageView": 1,
+            "total": 1348
         },
         {
-            "page": "Cristoforo Monaco",
-            "pageView": 845
+            "page": "Carla McGhee",
+            "pageView": 1,
+            "total": 1133
+        },
+        {
+            "page": "Rosalia Messina",
+            "pageView": 1,
+            "total": 1328
         },
         {
             "page": "Penny Moore",
-            "pageView": 828
+            "pageView": 1,
+            "total": 828
         },
         {
-            "page": "Giuseppe Lo Presti (scrittore)",
-            "pageView": 810
+            "page": "Elisabetta Pasini",
+            "pageView": 1,
+            "total": 1579
         },
         {
-            "page": "Benedetto Emanuele di San Giuseppe",
-            "pageView": 731
+            "page": "Felicia Pentimone",
+            "pageView": 1,
+            "total": 1284
         },
         {
-            "page": "Francesco Alesi",
-            "pageView": 683
+            "page": "Tari Phillips",
+            "pageView": 1,
+            "total": 1783
         },
         {
             "page": "Teresa Pitò",
-            "pageView": 564
+            "pageView": 1,
+            "total": 565
         },
         {
-            "page": "Flávia Roberta Francelino Prado",
-            "pageView": 563
+            "page": "Marilena Rienzi",
+            "pageView": 1,
+            "total": 1097
+        },
+        {
+            "page": "Patrizia Scannaliato",
+            "pageView": 1,
+            "total": 1025
+        },
+        {
+            "page": "Olympia Scott",
+            "pageView": 1,
+            "total": 999
+        },
+        {
+            "page": "Cristoforo Monaco",
+            "pageView": 1,
+            "total": 846
+        },
+        {
+            "page": "Roberta Colico",
+            "pageView": 1,
+            "total": 1505
+        },
+        {
+            "page": "Carvie Upshaw",
+            "pageView": 1,
+            "total": 926
+        },
+        {
+            "page": "Cleide Urlando",
+            "pageView": 1,
+            "total": 1418
         },
         {
             "page": "Diana Vines",
-            "pageView": 554
+            "pageView": 1,
+            "total": 555
         },
         {
-            "page": "Debbie Sporcich",
-            "pageView": 497
+            "page": "Debra Williams",
+            "pageView": 1,
+            "total": 909
         },
         {
-            "page": "Giuseppe Barone (presbitero)",
-            "pageView": 443
+            "page": "Claudia Barzaghi",
+            "pageView": 1,
+            "total": 1438
         },
         {
-            "page": "Sha Hopson",
-            "pageView": 322
+            "page": "Angela Aycock",
+            "pageView": 1,
+            "total": 1028
+        },
+        {
+            "page": "Sophia Witherspoon",
+            "pageView": 1,
+            "total": 1039
+        },
+        {
+            "page": "Vito Pollari",
+            "pageView": 1,
+            "total": 1650
+        },
+        {
+            "page": "Loretta Vaccaro",
+            "pageView": 1,
+            "total": 973
+        },
+        {
+            "page": "Karen Twehues",
+            "pageView": 1,
+            "total": 1286
+        },
+        {
+            "page": "Zsuzsa Tarnai",
+            "pageView": 1,
+            "total": 848
+        },
+        {
+            "page": "Francesco Scimeca",
+            "pageView": 1,
+            "total": 1452
+        },
+        {
+            "page": "Diāna Skrastiņa",
+            "pageView": 1,
+            "total": 1811
+        },
+        {
+            "page": "Daniela Grande",
+            "pageView": 1,
+            "total": 1539
+        },
+        {
+            "page": "Egidio De Franceschi",
+            "pageView": 1,
+            "total": 1484
+        },
+        {
+            "page": "Mariano da Alcamo",
+            "pageView": 1,
+            "total": 1548
+        },
+        {
+            "page": "Nancy Scozzari",
+            "pageView": 1,
+            "total": 1026
+        },
+        {
+            "page": "Edoardo Giannone",
+            "pageView": 1,
+            "total": 1482
+        },
+        {
+            "page": "Karolina Piotrkiewicz",
+            "pageView": 1,
+            "total": 1267
+        },
+        {
+            "page": "Silvia Passon",
+            "pageView": 1,
+            "total": 1187
+        },
+        {
+            "page": "Jami Montagnino",
+            "pageView": 1,
+            "total": 1279
+        },
+        {
+            "page": "Augusto Masetto",
+            "pageView": 1,
+            "total": 1631
+        },
+        {
+            "page": "Nicole Michael",
+            "pageView": 1,
+            "total": 1153
+        },
+        {
+            "page": "Francesca Mannucci",
+            "pageView": 1,
+            "total": 1547
+        },
+        {
+            "page": "Patrycja Gulak",
+            "pageView": 1,
+            "total": 1142
+        },
+        {
+            "page": "Laura Audere",
+            "pageView": 1,
+            "total": 1284
+        },
+        {
+            "page": "Laura Gorla",
+            "pageView": 1,
+            "total": 1256
+        },
+        {
+            "page": "Vanessa Gidden",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "Elena Bandini",
+            "pageView": 1,
+            "total": 1684
+        },
+        {
+            "page": "Barbara Gibertini",
+            "pageView": 1,
+            "total": 1370
+        },
+        {
+            "page": "Claudia Gattini",
+            "pageView": 1,
+            "total": 1145
+        },
+        {
+            "page": "Azzurra Gaglio",
+            "pageView": 1,
+            "total": 1782
+        },
+        {
+            "page": "Benedetto Emanuele di San Giuseppe",
+            "pageView": 1,
+            "total": 731
+        },
+        {
+            "page": "Felicia Di Bari",
+            "pageView": 1,
+            "total": 1236
+        },
+        {
+            "page": "Dalila Cucchiara",
+            "pageView": 1,
+            "total": 1189
+        },
+        {
+            "page": "Silvia Brum",
+            "pageView": 1,
+            "total": 1082
+        },
+        {
+            "page": "Peter H. Ruvolo",
+            "pageView": 1,
+            "total": 1183
+        },
+        {
+            "page": "Nello Morsellino",
+            "pageView": 1,
+            "total": 1007
+        },
+        {
+            "page": "Niccolò Ciafaglione",
+            "pageView": 0,
+            "total": 1038
+        },
+        {
+            "page": "Giuseppe Lo Presti (scrittore)",
+            "pageView": 0,
+            "total": 814
+        },
+        {
+            "page": "Francesco Alesi",
+            "pageView": 0,
+            "total": 684
+        },
+        {
+            "page": "Flávia Roberta Francelino Prado",
+            "pageView": 0,
+            "total": 564
         },
         {
             "page": "Arcangelo da Calatafimi",
-            "pageView": 279
+            "pageView": 0,
+            "total": 280
         },
         {
             "page": "Cesare Caravaglios",
-            "pageView": 113
+            "pageView": 0,
+            "total": 113
         },
         {
             "page": "Ignazio De Blasi",
-            "pageView": 17
+            "pageView": 0,
+            "total": 24
+        },
+        {
+            "page": "Giuseppe Barone (presbitero)",
+            "pageView": 0,
+            "total": 444
+        },
+        {
+            "page": "Debbie Sporcich",
+            "pageView": 0,
+            "total": 497
+        },
+        {
+            "page": "Agostino Pantò",
+            "pageView": 0,
+            "total": 899
+        },
+        {
+            "page": "Sha Hopson",
+            "pageView": 0,
+            "total": 322
+        },
+        {
+            "page": "Tommaso Papa",
+            "pageView": 0,
+            "total": 1041
         }
     ]
 }

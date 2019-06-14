@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Orazio Russo",
-            "pageView": 15691
+            "pageView": 10,
+            "total": 15704
         },
         {
             "page": "Serafino Famà",
-            "pageView": 13918
+            "pageView": 7,
+            "total": 13923
         },
         {
             "page": "Pino Cerami",
-            "pageView": 5800
-        },
-        {
-            "page": "Mario Petrina",
-            "pageView": 4127
+            "pageView": 3,
+            "total": 5803
         },
         {
             "page": "Salvatore Marchese (economista)",
-            "pageView": 2285
+            "pageView": 2,
+            "total": 2286
         },
         {
             "page": "Orazio Costorella",
-            "pageView": 1891
+            "pageView": 2,
+            "total": 1893
+        },
+        {
+            "page": "Mario Petrina",
+            "pageView": 2,
+            "total": 4127
         }
     ]
 }

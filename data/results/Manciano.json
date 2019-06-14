@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Gianni Maroccolo",
-            "pageView": 100281
-        },
-        {
-            "page": "Massimiliano Lelli",
-            "pageView": 20952
+            "pageView": 64,
+            "total": 100343
         },
         {
             "page": "Cristiano Scalabrelli",
-            "pageView": 15814
+            "pageView": 10,
+            "total": 15822
         },
         {
-            "page": "Ermanno Detti",
-            "pageView": 5935
+            "page": "Massimiliano Lelli",
+            "pageView": 10,
+            "total": 20965
         },
         {
             "page": "Pietro Aldi",
-            "pageView": 5824
+            "pageView": 4,
+            "total": 5831
+        },
+        {
+            "page": "Ermanno Detti",
+            "pageView": 4,
+            "total": 5936
         },
         {
             "page": "Tommaso Corsini (senatore)",
-            "pageView": 4132
-        },
-        {
-            "page": "Paride Pascucci",
-            "pageView": 3423
-        },
-        {
-            "page": "Alfonso Menichetti",
-            "pageView": 2893
+            "pageView": 3,
+            "total": 4134
         },
         {
             "page": "Giuseppe Bicocchi",
-            "pageView": 2583
-        },
-        {
-            "page": "Ermanno Menichetti",
-            "pageView": 1837
+            "pageView": 2,
+            "total": 2584
         },
         {
             "page": "Angelo Montechiari",
-            "pageView": 1628
+            "pageView": 2,
+            "total": 1630
         },
         {
-            "page": "Angiolo Gabrielli",
-            "pageView": 1571
+            "page": "Ermanno Menichetti",
+            "pageView": 2,
+            "total": 1837
         },
         {
-            "page": "Leto Morvidi",
-            "pageView": 1503
+            "page": "Paride Pascucci",
+            "pageView": 2,
+            "total": 3426
+        },
+        {
+            "page": "Alfonso Menichetti",
+            "pageView": 2,
+            "total": 2897
         },
         {
             "page": "Gino Aldi Mai",
-            "pageView": 1447
+            "pageView": 1,
+            "total": 1447
         },
         {
             "page": "Ferruccio Funghi",
-            "pageView": 1389
+            "pageView": 1,
+            "total": 1389
+        },
+        {
+            "page": "Leto Morvidi",
+            "pageView": 1,
+            "total": 1504
         },
         {
             "page": "Paolo Santinelli",
-            "pageView": 1132
+            "pageView": 1,
+            "total": 1132
+        },
+        {
+            "page": "Angiolo Gabrielli",
+            "pageView": 1,
+            "total": 1571
         },
         {
             "page": "Delio Ricci",
-            "pageView": 236
+            "pageView": 0,
+            "total": 237
         }
     ]
 }

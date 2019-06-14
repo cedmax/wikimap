@@ -1,0 +1,27 @@
+{
+    "id": "place.9161830116859000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sernaglia della Battaglia",
+    "place_name": "Sernaglia della Battaglia, Treviso, Italy",
+    "bbox": [
+        12.106972,
+        45.842796,
+        12.184643,
+        45.887323
+    ],
+    "center": [
+        12.13333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            45.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12246889701136970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zola Predosa",
+    "place_name": "Zola Predosa, Bologna, Italy",
+    "bbox": [
+        11.164872,
+        44.457055,
+        11.257596,
+        44.532647
+    ],
+    "center": [
+        11.21806,
+        44.48833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.21806,
+            44.48833
+        ]
+    }
+}

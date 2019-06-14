@@ -1,0 +1,29 @@
+{
+    "id": "place.3688745791322960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Malles Venosta - Mals",
+    "place_name": "Malles Venosta - Mals, Bolzano, Italy",
+    "matching_text": "Malles Venosta",
+    "matching_place_name": "Malles Venosta, Bolzano, Italy",
+    "bbox": [
+        10.400153,
+        46.641144,
+        10.736734,
+        46.804648
+    ],
+    "center": [
+        10.54556,
+        46.6875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.54556,
+            46.6875
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15076486577292770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mede",
+    "place_name": "Mede, Pavia, Italy",
+    "bbox": [
+        8.69083,
+        45.057259,
+        8.781681,
+        45.129318
+    ],
+    "center": [
+        8.73333,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            45.1
+        ]
+    }
+}

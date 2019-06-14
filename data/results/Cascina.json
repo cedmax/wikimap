@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Christian Amoroso",
-            "pageView": 30062
+            "pageView": 19,
+            "total": 30078
         },
         {
             "page": "Brunetta (cantante)",
-            "pageView": 19516
+            "pageView": 12,
+            "total": 19529
         },
         {
             "page": "Francesco Gioli",
-            "pageView": 8628
-        },
-        {
-            "page": "Alessandro Puccini",
-            "pageView": 6795
-        },
-        {
-            "page": "Romano Marinai",
-            "pageView": 6519
+            "pageView": 5,
+            "total": 8636
         },
         {
             "page": "Nicola Pistelli",
-            "pageView": 6217
+            "pageView": 4,
+            "total": 6224
         },
         {
-            "page": "Stefano Iacoponi",
-            "pageView": 5530
+            "page": "Romano Marinai",
+            "pageView": 4,
+            "total": 6523
+        },
+        {
+            "page": "Alessandro Puccini",
+            "pageView": 4,
+            "total": 6797
         },
         {
             "page": "Renzo Zagnoni",
-            "pageView": 5521
-        },
-        {
-            "page": "Luigi Gioli",
-            "pageView": 5092
-        },
-        {
-            "page": "Giacomo Del Gratta",
-            "pageView": 4770
-        },
-        {
-            "page": "Giacomo Callegari",
-            "pageView": 4273
+            "pageView": 4,
+            "total": 5531
         },
         {
             "page": "Fabrizio Barontini",
-            "pageView": 3824
+            "pageView": 3,
+            "total": 3827
+        },
+        {
+            "page": "Giacomo Callegari",
+            "pageView": 3,
+            "total": 4276
+        },
+        {
+            "page": "Luigi Gioli",
+            "pageView": 3,
+            "total": 5094
+        },
+        {
+            "page": "Stefano Iacoponi",
+            "pageView": 3,
+            "total": 5531
         },
         {
             "page": "Giuseppe Cei",
-            "pageView": 3569
+            "pageView": 2,
+            "total": 3571
         },
         {
-            "page": "Vera Amerighi Rutili",
-            "pageView": 3321
-        },
-        {
-            "page": "Diego Angioletti",
-            "pageView": 3188
-        },
-        {
-            "page": "Gianluigi Stefanini",
-            "pageView": 2898
-        },
-        {
-            "page": "Giovanni Bacciardi",
-            "pageView": 2667
-        },
-        {
-            "page": "Franco Mori (calciatore)",
-            "pageView": 2617
-        },
-        {
-            "page": "Nevilio Casarosa",
-            "pageView": 2421
+            "page": "Giacomo Del Gratta",
+            "pageView": 2,
+            "total": 4772
         },
         {
             "page": "Roberto Falaschi",
-            "pageView": 2398
+            "pageView": 2,
+            "total": 2399
         },
         {
             "page": "Franco Stefanini",
-            "pageView": 2328
-        },
-        {
-            "page": "Olinto Barsanti",
-            "pageView": 2217
+            "pageView": 2,
+            "total": 2331
         },
         {
             "page": "Comasco Comaschi",
-            "pageView": 1758
+            "pageView": 2,
+            "total": 1760
         },
         {
-            "page": "Ettore Meini",
-            "pageView": 1608
+            "page": "Gianluigi Stefanini",
+            "pageView": 2,
+            "total": 2900
+        },
+        {
+            "page": "Giovanni Bacciardi",
+            "pageView": 2,
+            "total": 2668
+        },
+        {
+            "page": "Diego Angioletti",
+            "pageView": 2,
+            "total": 3189
+        },
+        {
+            "page": "Olinto Barsanti",
+            "pageView": 2,
+            "total": 2217
+        },
+        {
+            "page": "Vera Amerighi Rutili",
+            "pageView": 2,
+            "total": 3323
+        },
+        {
+            "page": "Franco Mori (calciatore)",
+            "pageView": 2,
+            "total": 2617
+        },
+        {
+            "page": "Nevilio Casarosa",
+            "pageView": 2,
+            "total": 2422
         },
         {
             "page": "Vitaliano Lugli",
-            "pageView": 1525
-        },
-        {
-            "page": "Simone da Cascina",
-            "pageView": 1504
+            "pageView": 1.5,
+            "total": 1525
         },
         {
             "page": "Bartolo Palmieri da Cascina",
-            "pageView": 1484
-        },
-        {
-            "page": "Rolando Filidei",
-            "pageView": 1479
+            "pageView": 1,
+            "total": 1485
         },
         {
             "page": "Guido Pera",
-            "pageView": 1350
+            "pageView": 1,
+            "total": 1350
+        },
+        {
+            "page": "Ettore Meini",
+            "pageView": 1,
+            "total": 1608
+        },
+        {
+            "page": "Simone da Cascina",
+            "pageView": 1,
+            "total": 1504
+        },
+        {
+            "page": "Rolando Filidei",
+            "pageView": 1,
+            "total": 1480
         },
         {
             "page": "Umberto Giachetti",
-            "pageView": 1163
+            "pageView": 1,
+            "total": 1163
         }
     ]
 }

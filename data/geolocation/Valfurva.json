@@ -1,0 +1,27 @@
+{
+    "id": "place.10170536790152570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valfurva",
+    "place_name": "Valfurva, Sondrio, Italy",
+    "bbox": [
+        10.391072,
+        46.334773,
+        10.633,
+        46.502018
+    ],
+    "center": [
+        10.41667,
+        46.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41667,
+            46.45
+        ]
+    }
+}

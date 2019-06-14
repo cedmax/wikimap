@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Piero Guccione",
-            "pageView": 31181
+            "pageView": 13,
+            "total": 31193
         },
         {
             "page": "Giuseppe Drago",
-            "pageView": 23315
-        },
-        {
-            "page": "Severino Santiapichi",
-            "pageView": 13505
-        },
-        {
-            "page": "Quintino Cataudella",
-            "pageView": 8502
+            "pageView": 11,
+            "total": 23334
         },
         {
             "page": "Valentino Gerratana",
-            "pageView": 8406
+            "pageView": 5,
+            "total": 8422
+        },
+        {
+            "page": "Severino Santiapichi",
+            "pageView": 5,
+            "total": 13509
+        },
+        {
+            "page": "Quintino Cataudella",
+            "pageView": 5,
+            "total": 8510
         },
         {
             "page": "Vincenzo Garofalo (carabiniere)",
-            "pageView": 6032
-        },
-        {
-            "page": "Guglielmo Buccheri",
-            "pageView": 5989
+            "pageView": 3,
+            "total": 6035
         },
         {
             "page": "Lucio Schirò",
-            "pageView": 5419
+            "pageView": 3,
+            "total": 5426
         },
         {
-            "page": "Venera Padua",
-            "pageView": 3542
+            "page": "Guglielmo Buccheri",
+            "pageView": 3,
+            "total": 5990
         },
         {
             "page": "Mario Occhipinti",
-            "pageView": 3373
+            "pageView": 2,
+            "total": 3377
         },
         {
-            "page": "Giuseppe Pisani (politico)",
-            "pageView": 1920
+            "page": "Venera Padua",
+            "pageView": 2,
+            "total": 3544
         },
         {
             "page": "Giovanni Cartia (politico 1894)",
-            "pageView": 1235
+            "pageView": 1,
+            "total": 1237
         },
         {
             "page": "Giombattista Xiumè",
-            "pageView": 1110
+            "pageView": 1,
+            "total": 1110
+        },
+        {
+            "page": "Giuseppe Pisani (politico)",
+            "pageView": 0,
+            "total": 1921
         }
     ]
 }

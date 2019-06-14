@@ -1,0 +1,27 @@
+{
+    "id": "place.10846965643188620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nuoro",
+    "place_name": "Nuoro, Nuoro, Italy",
+    "bbox": [
+        9.182433,
+        40.254247,
+        9.426036,
+        40.411396
+    ],
+    "center": [
+        9.32808,
+        40.32006
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.32808,
+            40.32006
+        ]
+    }
+}

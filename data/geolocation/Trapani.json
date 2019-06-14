@@ -1,0 +1,27 @@
+{
+    "id": "place.8463718148546000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trapani",
+    "place_name": "Trapani, Trapani, Italy",
+    "bbox": [
+        12.479265,
+        37.83673,
+        12.805371,
+        38.034476
+    ],
+    "center": [
+        12.51667,
+        38.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.51667,
+            38.01667
+        ]
+    }
+}

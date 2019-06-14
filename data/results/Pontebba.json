@@ -3,179 +3,223 @@
     "people": [
         {
             "page": "Adele Faccio",
-            "pageView": 35030
+            "pageView": 17,
+            "total": 35045
         },
         {
             "page": "Arturo Zardini",
-            "pageView": 7813
-        },
-        {
-            "page": "Patrice Lefebvre",
-            "pageView": 5419
-        },
-        {
-            "page": "Stefano Marchetti",
-            "pageView": 4941
+            "pageView": 5,
+            "total": 7815
         },
         {
             "page": "Giovanni Collino",
-            "pageView": 4452
+            "pageView": 3,
+            "total": 4457
         },
         {
-            "page": "Alessandro Re",
-            "pageView": 3668
+            "page": "Stefano Marchetti",
+            "pageView": 3,
+            "total": 4941
         },
         {
-            "page": "Giovanni Marsili",
-            "pageView": 3580
-        },
-        {
-            "page": "Tom Pokel",
-            "pageView": 3364
+            "page": "Patrice Lefebvre",
+            "pageView": 3,
+            "total": 5421
         },
         {
             "page": "Andreas Lutz",
-            "pageView": 3051
+            "pageView": 2,
+            "total": 3053
         },
         {
-            "page": "Brian Ihnacak",
-            "pageView": 2994
-        },
-        {
-            "page": "Luca Felicetti",
-            "pageView": 2800
+            "page": "Giovanni Marsili",
+            "pageView": 2,
+            "total": 3582
         },
         {
             "page": "Luca Rigoni (hockeista su ghiaccio)",
-            "pageView": 2601
+            "pageView": 2,
+            "total": 2601
         },
         {
-            "page": "Davide Nicoletti",
-            "pageView": 2365
-        },
-        {
-            "page": "Andrea Ambrosi",
-            "pageView": 2336
-        },
-        {
-            "page": "Kevin DeVergilio",
-            "pageView": 2330
-        },
-        {
-            "page": "Sasha Meneghetti",
-            "pageView": 1919
-        },
-        {
-            "page": "Pat Iannone",
-            "pageView": 1886
-        },
-        {
-            "page": "Michail Vasil'ev",
-            "pageView": 1790
-        },
-        {
-            "page": "Marco Tremolaterra",
-            "pageView": 1638
-        },
-        {
-            "page": "Andrea Carpano",
-            "pageView": 1631
-        },
-        {
-            "page": "Anthony Aquino",
-            "pageView": 1518
-        },
-        {
-            "page": "Stefano Margoni",
-            "pageView": 1509
-        },
-        {
-            "page": "Flavio Faggioni",
-            "pageView": 1448
-        },
-        {
-            "page": "Michele Ciresa",
-            "pageView": 1326
-        },
-        {
-            "page": "Jonathan Pittis",
-            "pageView": 1323
+            "page": "Alessandro Re",
+            "pageView": 2,
+            "total": 3670
         },
         {
             "page": "Daniel Peruzzo",
-            "pageView": 1312
+            "pageView": 2,
+            "total": 1313
         },
         {
-            "page": "David Cooper (hockeista su ghiaccio)",
-            "pageView": 1186
+            "page": "Davide Nicoletti",
+            "pageView": 2,
+            "total": 2365
         },
         {
-            "page": "Felix Oberrauch",
-            "pageView": 1179
+            "page": "Sasha Meneghetti",
+            "pageView": 2,
+            "total": 1920
         },
         {
-            "page": "Massimo Camin",
-            "pageView": 1169
+            "page": "Michail Vasil'ev",
+            "pageView": 2,
+            "total": 1790
+        },
+        {
+            "page": "Tom Pokel",
+            "pageView": 2,
+            "total": 3364
+        },
+        {
+            "page": "Kevin DeVergilio",
+            "pageView": 2,
+            "total": 2331
+        },
+        {
+            "page": "Andrea Ambrosi",
+            "pageView": 2,
+            "total": 2336
+        },
+        {
+            "page": "Luca Felicetti",
+            "pageView": 2,
+            "total": 2801
+        },
+        {
+            "page": "Brian Ihnacak",
+            "pageView": 2,
+            "total": 2995
         },
         {
             "page": "Stefano Piva",
-            "pageView": 1035
+            "pageView": 1,
+            "total": 1036
         },
         {
-            "page": "Marco Rossi (hockeista su ghiaccio)",
-            "pageView": 1023
+            "page": "Pat Iannone",
+            "pageView": 1,
+            "total": 1886
         },
         {
-            "page": "Patrick Rizzo",
-            "pageView": 964
+            "page": "Flavio Faggioni",
+            "pageView": 1,
+            "total": 1449
         },
         {
             "page": "Pippo Limnell Finocchiaro",
-            "pageView": 958
-        },
-        {
-            "page": "Filippo Busa",
-            "pageView": 954
-        },
-        {
-            "page": "Federico Demetz",
-            "pageView": 940
-        },
-        {
-            "page": "Edoardo Caletti",
-            "pageView": 807
+            "pageView": 1,
+            "total": 958
         },
         {
             "page": "Larry Sacharuk",
-            "pageView": 799
+            "pageView": 1,
+            "total": 799
+        },
+        {
+            "page": "Federico Demetz",
+            "pageView": 1,
+            "total": 942
+        },
+        {
+            "page": "Stefano Margoni",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "David Cooper (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1186
+        },
+        {
+            "page": "Michele Ciresa",
+            "pageView": 1,
+            "total": 1327
+        },
+        {
+            "page": "Felix Oberrauch",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Anthony Aquino",
+            "pageView": 1,
+            "total": 1518
+        },
+        {
+            "page": "Andrea Carpano",
+            "pageView": 1,
+            "total": 1632
+        },
+        {
+            "page": "Jonathan Pittis",
+            "pageView": 1,
+            "total": 1323
         },
         {
             "page": "Karo Koivunen",
-            "pageView": 753
+            "pageView": 1,
+            "total": 754
+        },
+        {
+            "page": "Massimo Camin",
+            "pageView": 1,
+            "total": 1170
+        },
+        {
+            "page": "Filippo Busa",
+            "pageView": 1,
+            "total": 955
+        },
+        {
+            "page": "Patrick Rizzo",
+            "pageView": 1,
+            "total": 964
+        },
+        {
+            "page": "Marco Rossi (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1023
+        },
+        {
+            "page": "Marco Tremolaterra",
+            "pageView": 1,
+            "total": 1639
         },
         {
             "page": "Murajica Pajič",
-            "pageView": 695
-        },
-        {
-            "page": "Ivan Demetz",
-            "pageView": 605
-        },
-        {
-            "page": "Rok Pajič",
-            "pageView": 333
+            "pageView": 1,
+            "total": 697
         },
         {
             "page": "Andrej Tavželj",
-            "pageView": 283
-        },
-        {
-            "page": "Andrea Vuerich",
-            "pageView": 232
+            "pageView": 0,
+            "total": 283
         },
         {
             "page": "David Stricker",
-            "pageView": 223
+            "pageView": 0,
+            "total": 224
+        },
+        {
+            "page": "Edoardo Caletti",
+            "pageView": 0,
+            "total": 807
+        },
+        {
+            "page": "Rok Pajič",
+            "pageView": 0,
+            "total": 349
+        },
+        {
+            "page": "Ivan Demetz",
+            "pageView": 0,
+            "total": 605
+        },
+        {
+            "page": "Andrea Vuerich",
+            "pageView": 0,
+            "total": 233
         }
     ]
 }

@@ -3,151 +3,188 @@
     "people": [
         {
             "page": "Danilo Bertazzi",
-            "pageView": 650467
+            "pageView": 239,
+            "total": 650611
         },
         {
             "page": "Gianfranco Leoncini",
-            "pageView": 32902
-        },
-        {
-            "page": "Marco Lingua",
-            "pageView": 27869
-        },
-        {
-            "page": "Massimiliano Benvenuto",
-            "pageView": 16434
+            "pageView": 16,
+            "total": 32921
         },
         {
             "page": "Francesca Vettori",
-            "pageView": 16429
+            "pageView": 10,
+            "total": 16443
         },
         {
             "page": "Giovanni Martino Spanzotti",
-            "pageView": 15515
-        },
-        {
-            "page": "Defendente Ferrari",
-            "pageView": 14654
+            "pageView": 10,
+            "total": 15527
         },
         {
             "page": "Bonifazio Incisa di Camerana",
-            "pageView": 14426
+            "pageView": 10,
+            "total": 14447
+        },
+        {
+            "page": "Defendente Ferrari",
+            "pageView": 9,
+            "total": 14664
         },
         {
             "page": "Andrea Cristiano",
-            "pageView": 14156
+            "pageView": 8,
+            "total": 14164
+        },
+        {
+            "page": "Massimiliano Benvenuto",
+            "pageView": 7,
+            "total": 16434
         },
         {
             "page": "Tonino De Bernardi",
-            "pageView": 11909
+            "pageView": 7,
+            "total": 11913
         },
         {
             "page": "Angelo Carletti",
-            "pageView": 10531
+            "pageView": 6,
+            "total": 10536
         },
         {
-            "page": "Valentina Bartolo",
-            "pageView": 8553
+            "page": "Marco Lingua",
+            "pageView": 6,
+            "total": 27881
         },
         {
             "page": "Giuseppe Argentesi",
-            "pageView": 8280
+            "pageView": 5,
+            "total": 8286
         },
         {
-            "page": "Stefano Bianco",
-            "pageView": 5507
-        },
-        {
-            "page": "Fedele De Giorgis",
-            "pageView": 4584
-        },
-        {
-            "page": "Andrea Fluttero",
-            "pageView": 4055
+            "page": "Valentina Bartolo",
+            "pageView": 5,
+            "total": 8570
         },
         {
             "page": "Giovanna Zucca",
-            "pageView": 3848
+            "pageView": 4,
+            "total": 3848
         },
         {
             "page": "Renato Cambursano",
-            "pageView": 3818
+            "pageView": 3,
+            "total": 3821
         },
         {
-            "page": "Cesare Viel",
-            "pageView": 3584
+            "page": "Stefano Bianco",
+            "pageView": 3,
+            "total": 5509
         },
         {
-            "page": "Giorgia Tudisco",
-            "pageView": 2526
+            "page": "Fedele De Giorgis",
+            "pageView": 3,
+            "total": 4586
         },
         {
-            "page": "Giuseppe Basso (matematico)",
-            "pageView": 2477
-        },
-        {
-            "page": "Giacomo Bosio",
-            "pageView": 2362
-        },
-        {
-            "page": "Giulia Crisantino",
-            "pageView": 2100
-        },
-        {
-            "page": "Mario Zanetti",
-            "pageView": 2098
-        },
-        {
-            "page": "Arianna Ozimo",
-            "pageView": 2029
-        },
-        {
-            "page": "Giuseppe Giacoletti",
-            "pageView": 1997
+            "page": "Andrea Fluttero",
+            "pageView": 3,
+            "total": 4058
         },
         {
             "page": "Achille Dellarole",
-            "pageView": 1840
+            "pageView": 2,
+            "total": 1841
         },
         {
-            "page": "Alfredo Pezzana",
-            "pageView": 1825
-        },
-        {
-            "page": "Francesco Ragno",
-            "pageView": 1819
-        },
-        {
-            "page": "Mauro Chianale",
-            "pageView": 1769
+            "page": "Mario Zanetti",
+            "pageView": 2,
+            "total": 2098
         },
         {
             "page": "Roberto Bertoldo",
-            "pageView": 1752
+            "pageView": 2,
+            "total": 1753
         },
         {
-            "page": "Cesare Sesia",
-            "pageView": 1524
+            "page": "Mauro Chianale",
+            "pageView": 2,
+            "total": 1769
         },
         {
-            "page": "Cesare Acutis",
-            "pageView": 1330
+            "page": "Giuseppe Basso (matematico)",
+            "pageView": 2,
+            "total": 2478
         },
         {
-            "page": "Pietro Ermenegildo Daniele",
-            "pageView": 1270
+            "page": "Giulia Crisantino",
+            "pageView": 2,
+            "total": 2100
         },
         {
-            "page": "Giorgio Reverdino",
-            "pageView": 1079
+            "page": "Giuseppe Giacoletti",
+            "pageView": 2,
+            "total": 1997
+        },
+        {
+            "page": "Giacomo Bosio",
+            "pageView": 2,
+            "total": 2365
+        },
+        {
+            "page": "Cesare Viel",
+            "pageView": 2,
+            "total": 3586
+        },
+        {
+            "page": "Arianna Ozimo",
+            "pageView": 2,
+            "total": 2029
         },
         {
             "page": "Paolo Paci (cestista)",
-            "pageView": 928
+            "pageView": 2,
+            "total": 928
+        },
+        {
+            "page": "Alfredo Pezzana",
+            "pageView": 2,
+            "total": 1827
+        },
+        {
+            "page": "Francesco Ragno",
+            "pageView": 2,
+            "total": 1822
+        },
+        {
+            "page": "Giorgia Tudisco",
+            "pageView": 2,
+            "total": 2527
+        },
+        {
+            "page": "Cesare Acutis",
+            "pageView": 2,
+            "total": 1330
+        },
+        {
+            "page": "Giorgio Reverdino",
+            "pageView": 1,
+            "total": 1079
+        },
+        {
+            "page": "Cesare Sesia",
+            "pageView": 1,
+            "total": 1524
+        },
+        {
+            "page": "Pietro Ermenegildo Daniele",
+            "pageView": 1,
+            "total": 1271
         },
         {
             "page": "Guerrino Nicoli",
-            "pageView": 488
+            "pageView": 0,
+            "total": 489
         }
     ]
 }

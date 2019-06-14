@@ -1,0 +1,27 @@
+{
+    "id": "place.2070058866122520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crocetta del Montello",
+    "place_name": "Crocetta del Montello, Treviso, Italy",
+    "bbox": [
+        12.009742,
+        45.805997,
+        12.10958,
+        45.852869
+    ],
+    "center": [
+        12.03333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            45.83333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12809080841254530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Angri",
+    "place_name": "Angri, Salerno, Italy",
+    "bbox": [
+        14.541655,
+        40.709753,
+        14.586435,
+        40.771089
+    ],
+    "center": [
+        14.56944,
+        40.74306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.56944,
+            40.74306
+        ]
+    }
+}

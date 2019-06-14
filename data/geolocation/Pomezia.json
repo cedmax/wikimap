@@ -1,0 +1,27 @@
+{
+    "id": "place.11166211102117640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pomezia",
+    "place_name": "Pomezia, Roma, Italy",
+    "bbox": [
+        12.415778,
+        41.597233,
+        12.595883,
+        41.713869
+    ],
+    "center": [
+        12.50208,
+        41.66931
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.50208,
+            41.66931
+        ]
+    }
+}

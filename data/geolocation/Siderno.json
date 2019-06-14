@@ -1,0 +1,27 @@
+{
+    "id": "place.5973468356880290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siderno",
+    "place_name": "Siderno, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.238713,
+        38.250151,
+        16.321021,
+        38.318206
+    ],
+    "center": [
+        16.3,
+        38.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            38.26667
+        ]
+    }
+}

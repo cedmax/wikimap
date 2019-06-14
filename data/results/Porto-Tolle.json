@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Manuel Lazzari",
-            "pageView": 256112
+            "pageView": 144,
+            "total": 256230
         },
         {
             "page": "Natalino Balasso",
-            "pageView": 220723
+            "pageView": 112,
+            "total": 220797
         },
         {
             "page": "Adrián Ricchiuti",
-            "pageView": 78145
+            "pageView": 42,
+            "total": 78178
         },
         {
             "page": "Angelo Brunetti",
-            "pageView": 63799
-        },
-        {
-            "page": "Davide Giorgino",
-            "pageView": 60473
+            "pageView": 36,
+            "total": 63823
         },
         {
             "page": "Mohamed Fofana (7 maggio 1985)",
-            "pageView": 41705
+            "pageView": 22,
+            "total": 41724
         },
         {
             "page": "Evans Soligo",
-            "pageView": 41178
+            "pageView": 21,
+            "total": 41189
+        },
+        {
+            "page": "Davide Giorgino",
+            "pageView": 19,
+            "total": 60480
         },
         {
             "page": "Giuseppe Cozzolino",
-            "pageView": 28540
-        },
-        {
-            "page": "Riccardo Fissore",
-            "pageView": 25520
-        },
-        {
-            "page": "Eraldo Mancin",
-            "pageView": 21310
-        },
-        {
-            "page": "Michael Cia",
-            "pageView": 17797
-        },
-        {
-            "page": "Emilio Docente",
-            "pageView": 14533
-        },
-        {
-            "page": "Davide Tentoni",
-            "pageView": 12862
-        },
-        {
-            "page": "Aladje",
-            "pageView": 11731
+            "pageView": 17,
+            "total": 28553
         },
         {
             "page": "Vasile Mogos",
-            "pageView": 10607
+            "pageView": 16,
+            "total": 10617
+        },
+        {
+            "page": "Riccardo Fissore",
+            "pageView": 15,
+            "total": 25525
+        },
+        {
+            "page": "Eraldo Mancin",
+            "pageView": 10,
+            "total": 21318
+        },
+        {
+            "page": "Michael Cia",
+            "pageView": 10,
+            "total": 17801
+        },
+        {
+            "page": "Emilio Docente",
+            "pageView": 8,
+            "total": 14539
+        },
+        {
+            "page": "Davide Tentoni",
+            "pageView": 8,
+            "total": 12880
+        },
+        {
+            "page": "Aladje",
+            "pageView": 7,
+            "total": 11740
         },
         {
             "page": "Diego Santos Oliveira",
-            "pageView": 9045
+            "pageView": 5,
+            "total": 9048
         },
         {
             "page": "Gianluca Zattarin",
-            "pageView": 8843
+            "pageView": 5,
+            "total": 8847
         },
         {
             "page": "Martin Petráš",
-            "pageView": 7080
-        },
-        {
-            "page": "Sante Crepaldi",
-            "pageView": 6734
+            "pageView": 4,
+            "total": 7082
         },
         {
             "page": "Massimo Melucci",
-            "pageView": 6139
+            "pageView": 4,
+            "total": 6140
         },
         {
-            "page": "Doriano Pozzato",
-            "pageView": 5360
+            "page": "Sante Crepaldi",
+            "pageView": 4,
+            "total": 6737
         },
         {
             "page": "Lino Beccati",
-            "pageView": 4120
+            "pageView": 3,
+            "total": 4122
         },
         {
-            "page": "Temistocle Zona",
-            "pageView": 1979
+            "page": "Doriano Pozzato",
+            "pageView": 3,
+            "total": 5364
         },
         {
             "page": "Bojan Đukić",
-            "pageView": 1454
+            "pageView": 2,
+            "total": 1458
+        },
+        {
+            "page": "Temistocle Zona",
+            "pageView": 2,
+            "total": 1979
         }
     ]
 }

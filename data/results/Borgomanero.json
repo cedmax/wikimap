@@ -2,132 +2,164 @@
     "name": "Borgomanero",
     "people": [
         {
-            "page": "Eleonora Lo Bianco",
-            "pageView": 130840
+            "page": "Mattia Cassani",
+            "pageView": 65.5,
+            "total": 123037
         },
         {
-            "page": "Mattia Cassani",
-            "pageView": 122980
+            "page": "Eleonora Lo Bianco",
+            "pageView": 51,
+            "total": 130970
         },
         {
             "page": "Anna Pavignano",
-            "pageView": 82733
+            "pageView": 38.5,
+            "total": 82802
         },
         {
             "page": "Eugenio Borgna",
-            "pageView": 59190
+            "pageView": 38,
+            "total": 59247
         },
         {
             "page": "Carlo Pastore",
-            "pageView": 41521
+            "pageView": 25,
+            "total": 41532
         },
         {
             "page": "Marco Pagani",
-            "pageView": 37127
+            "pageView": 22,
+            "total": 37141
         },
         {
             "page": "Ettore Mo",
-            "pageView": 21498
-        },
-        {
-            "page": "Franca Biondelli",
-            "pageView": 13533
-        },
-        {
-            "page": "Pasquale Fornara",
-            "pageView": 13020
-        },
-        {
-            "page": "Piero Longhi",
-            "pageView": 12112
-        },
-        {
-            "page": "Achille Marazza",
-            "pageView": 9996
-        },
-        {
-            "page": "Natalia Viganò",
-            "pageView": 9627
-        },
-        {
-            "page": "Cesare Montalbetti",
-            "pageView": 9522
-        },
-        {
-            "page": "Domenico Piemontesi",
-            "pageView": 9137
-        },
-        {
-            "page": "Enrico Masseroni",
-            "pageView": 8515
-        },
-        {
-            "page": "Carlo Carena",
-            "pageView": 8476
-        },
-        {
-            "page": "Fedele Cova",
-            "pageView": 7419
-        },
-        {
-            "page": "Cip Barcellini",
-            "pageView": 7167
-        },
-        {
-            "page": "Daniela Gioria",
-            "pageView": 6028
+            "pageView": 15,
+            "total": 21512
         },
         {
             "page": "Nico Valsesia",
-            "pageView": 5569
+            "pageView": 10,
+            "total": 5586
         },
         {
-            "page": "Ariodante Marianni",
-            "pageView": 3929
+            "page": "Franca Biondelli",
+            "pageView": 8,
+            "total": 13537
         },
         {
-            "page": "Ernesto Vegetti",
-            "pageView": 3433
+            "page": "Piero Longhi",
+            "pageView": 7,
+            "total": 12118
         },
         {
-            "page": "Enzo Gibin",
-            "pageView": 3393
+            "page": "Pasquale Fornara",
+            "pageView": 7,
+            "total": 13035
         },
         {
-            "page": "Carlo Gregorio Rosignoli",
-            "pageView": 2812
+            "page": "Cesare Montalbetti",
+            "pageView": 6,
+            "total": 9527
         },
         {
-            "page": "Emilio Dulio",
-            "pageView": 2654
+            "page": "Achille Marazza",
+            "pageView": 6,
+            "total": 10004
         },
         {
-            "page": "Stefano Basalini",
-            "pageView": 2391
+            "page": "Enrico Masseroni",
+            "pageView": 5,
+            "total": 8517
         },
         {
-            "page": "Giuseppe Cerutti (politico)",
-            "pageView": 2340
+            "page": "Carlo Carena",
+            "pageView": 5,
+            "total": 8482
         },
         {
-            "page": "Maria Piera Pastore",
-            "pageView": 2286
+            "page": "Domenico Piemontesi",
+            "pageView": 5,
+            "total": 9189
+        },
+        {
+            "page": "Cip Barcellini",
+            "pageView": 4,
+            "total": 7168
+        },
+        {
+            "page": "Fedele Cova",
+            "pageView": 4,
+            "total": 7420
+        },
+        {
+            "page": "Natalia Viganò",
+            "pageView": 4,
+            "total": 9631
+        },
+        {
+            "page": "Daniela Gioria",
+            "pageView": 4,
+            "total": 6033
         },
         {
             "page": "Giovanni Cesare Majoni",
-            "pageView": 2041
+            "pageView": 2,
+            "total": 2043
         },
         {
-            "page": "Andrea Fovana",
-            "pageView": 1979
+            "page": "Ernesto Vegetti",
+            "pageView": 2,
+            "total": 3433
+        },
+        {
+            "page": "Giuseppe Cerutti (politico)",
+            "pageView": 2,
+            "total": 2342
+        },
+        {
+            "page": "Ariodante Marianni",
+            "pageView": 2,
+            "total": 3932
+        },
+        {
+            "page": "Stefano Basalini",
+            "pageView": 2,
+            "total": 2391
+        },
+        {
+            "page": "Emilio Dulio",
+            "pageView": 2,
+            "total": 2656
+        },
+        {
+            "page": "Enzo Gibin",
+            "pageView": 2,
+            "total": 3395
+        },
+        {
+            "page": "Maria Piera Pastore",
+            "pageView": 2,
+            "total": 2290
+        },
+        {
+            "page": "Carlo Gregorio Rosignoli",
+            "pageView": 2,
+            "total": 2814
         },
         {
             "page": "Giuseppa Tornielli Bellini",
-            "pageView": 1483
+            "pageView": 2,
+            "total": 1483
+        },
+        {
+            "page": "Andrea Fovana",
+            "pageView": 2,
+            "total": 1979
         },
         {
             "page": "Ernesto Mora",
-            "pageView": 209
+            "pageView": 0,
+            "total": 210
         }
     ]
 }

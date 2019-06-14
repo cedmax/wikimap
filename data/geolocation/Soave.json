@@ -1,0 +1,27 @@
+{
+    "id": "place.8777871581525440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soave",
+    "place_name": "Soave, Verona, Italy",
+    "bbox": [
+        11.214536,
+        45.396629,
+        11.273241,
+        45.474953
+    ],
+    "center": [
+        11.24556,
+        45.42472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.24556,
+            45.42472
+        ]
+    }
+}

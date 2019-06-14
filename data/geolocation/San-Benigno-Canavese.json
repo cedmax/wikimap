@@ -1,0 +1,27 @@
+{
+    "id": "place.7176264188998960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Benigno Canavese",
+    "place_name": "San Benigno Canavese, Torino, Italy",
+    "bbox": [
+        7.737168,
+        45.202054,
+        7.834594,
+        45.262135
+    ],
+    "center": [
+        7.78333,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            45.25
+        ]
+    }
+}

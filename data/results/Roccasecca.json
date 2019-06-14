@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Tommaso d'Aquino",
-            "pageView": 585068
+            "pageView": 366.5,
+            "total": 585377
         },
         {
             "page": "Severino Gazzelloni",
-            "pageView": 50023
+            "pageView": 30,
+            "total": 50047
         },
         {
             "page": "Franco Fava",
-            "pageView": 11905
-        },
-        {
-            "page": "Domenico Colessa",
-            "pageView": 3576
+            "pageView": 7,
+            "total": 11921
         },
         {
             "page": "Felice Amati",
-            "pageView": 2826
+            "pageView": 2,
+            "total": 2831
+        },
+        {
+            "page": "Domenico Colessa",
+            "pageView": 2,
+            "total": 3579
         }
     ]
 }

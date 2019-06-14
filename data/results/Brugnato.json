@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Francesco Moraglia",
-            "pageView": 107777
+            "pageView": 48,
+            "total": 107808
         },
         {
             "page": "Juan Carlos Duran",
-            "pageView": 22197
+            "pageView": 13,
+            "total": 22211
         },
         {
             "page": "Giulio Sanguineti",
-            "pageView": 12720
+            "pageView": 8,
+            "total": 12726
         },
         {
             "page": "Luigi Ernesto Palletti",
-            "pageView": 10593
+            "pageView": 7,
+            "total": 10601
         },
         {
             "page": "Bassano Staffieri",
-            "pageView": 8754
+            "pageView": 5,
+            "total": 8758
         },
         {
             "page": "Giovanni Costantini",
-            "pageView": 4519
-        },
-        {
-            "page": "Giuseppe Stella",
-            "pageView": 3358
+            "pageView": 3,
+            "total": 4520
         },
         {
             "page": "Siro Silvestri",
-            "pageView": 1917
+            "pageView": 2,
+            "total": 1919
+        },
+        {
+            "page": "Giuseppe Stella",
+            "pageView": 2,
+            "total": 3360
         },
         {
             "page": "Guglielmo Contardi",
-            "pageView": 1076
+            "pageView": 1,
+            "total": 1079
         }
     ]
 }

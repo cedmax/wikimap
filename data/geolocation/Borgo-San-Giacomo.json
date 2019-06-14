@@ -1,0 +1,27 @@
+{
+    "id": "place.6775289356116870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo San Giacomo",
+    "place_name": "Borgo San Giacomo, Brescia, Italy",
+    "bbox": [
+        9.932094,
+        45.310358,
+        10.035658,
+        45.378998
+    ],
+    "center": [
+        9.96817,
+        45.34798
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96817,
+            45.34798
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6986119988755080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casteggio",
+    "place_name": "Casteggio, Pavia, Italy",
+    "bbox": [
+        9.103018,
+        44.976122,
+        9.166842,
+        45.043866
+    ],
+    "center": [
+        9.13333,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.01667
+        ]
+    }
+}

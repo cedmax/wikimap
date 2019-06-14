@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Romolo Bizzotto",
-            "pageView": 14020
+            "pageView": 8,
+            "total": 14025
         },
         {
             "page": "Antonio Maria Lorgna",
-            "pageView": 6119
+            "pageView": 4,
+            "total": 6121
         },
         {
             "page": "Antonio Nardi (pittore)",
-            "pageView": 3670
+            "pageView": 4,
+            "total": 3672
         },
         {
             "page": "Alessandro Bazzani",
-            "pageView": 2230
+            "pageView": 2,
+            "total": 2232
         },
         {
             "page": "Dino Gobbi",
-            "pageView": 2208
+            "pageView": 2,
+            "total": 2209
         },
         {
             "page": "Gino Manara",
-            "pageView": 1993
-        },
-        {
-            "page": "Gianmario Pellizzari",
-            "pageView": 1949
+            "pageView": 2,
+            "total": 1994
         },
         {
             "page": "Ambrogio Favalli",
-            "pageView": 1682
+            "pageView": 1,
+            "total": 1683
+        },
+        {
+            "page": "Gianmario Pellizzari",
+            "pageView": 1,
+            "total": 1949
         }
     ]
 }

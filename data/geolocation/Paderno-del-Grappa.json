@@ -1,0 +1,27 @@
+{
+    "id": "place.17496519473460500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paderno del Grappa",
+    "place_name": "Paderno del Grappa, Treviso, Italy",
+    "bbox": [
+        11.798764,
+        45.811435,
+        11.876201,
+        45.908039
+    ],
+    "center": [
+        11.85,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.85,
+            45.83333
+        ]
+    }
+}

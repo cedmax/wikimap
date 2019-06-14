@@ -1,0 +1,27 @@
+{
+    "id": "place.3840931986186600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellammare del Golfo",
+    "place_name": "Castellammare del Golfo, Trapani, Italy",
+    "bbox": [
+        12.716356,
+        37.949371,
+        12.922052,
+        38.082615
+    ],
+    "center": [
+        12.88333,
+        38.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88333,
+            38.03333
+        ]
+    }
+}

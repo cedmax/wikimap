@@ -1,0 +1,27 @@
+{
+    "id": "place.2482256881902970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fregona",
+    "place_name": "Fregona, Treviso, Italy",
+    "bbox": [
+        12.308177,
+        45.980432,
+        12.416644,
+        46.076449
+    ],
+    "center": [
+        12.33333,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33333,
+            46
+        ]
+    }
+}

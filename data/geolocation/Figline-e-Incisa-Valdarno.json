@@ -1,0 +1,27 @@
+{
+    "id": "place.8997957165533840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Figline e Incisa Valdarno",
+    "place_name": "Figline e Incisa Valdarno, Firenze, Italy",
+    "bbox": [
+        11.367883,
+        43.559153,
+        11.522095,
+        43.698013
+    ],
+    "center": [
+        11.43333,
+        43.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43333,
+            43.65
+        ]
+    }
+}

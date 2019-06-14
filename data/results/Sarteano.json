@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Papa Pio III",
-            "pageView": 153683
+            "pageView": 97,
+            "total": 153738
         },
         {
             "page": "Tancredi Canonico",
-            "pageView": 7249
+            "pageView": 5,
+            "total": 7254
         },
         {
             "page": "Marcella De Marchis",
-            "pageView": 4677
-        },
-        {
-            "page": "Ferdinando Terruzzi",
-            "pageView": 4539
+            "pageView": 3,
+            "total": 4681
         },
         {
             "page": "Gastone Monaldi",
-            "pageView": 4520
+            "pageView": 3,
+            "total": 4524
         },
         {
-            "page": "Piero Nelli",
-            "pageView": 3617
-        },
-        {
-            "page": "Alberto da Sarteano",
-            "pageView": 3566
-        },
-        {
-            "page": "Francesco Cennini de' Salamandri",
-            "pageView": 2747
+            "page": "Ferdinando Terruzzi",
+            "pageView": 3,
+            "total": 4543
         },
         {
             "page": "Ilio Calabresi",
-            "pageView": 1416
+            "pageView": 2,
+            "total": 1416
+        },
+        {
+            "page": "Piero Nelli",
+            "pageView": 2,
+            "total": 3621
+        },
+        {
+            "page": "Alberto da Sarteano",
+            "pageView": 2,
+            "total": 3568
+        },
+        {
+            "page": "Francesco Cennini de' Salamandri",
+            "pageView": 2,
+            "total": 2747
         }
     ]
 }

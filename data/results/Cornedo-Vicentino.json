@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Mauro Canal",
-            "pageView": 11169
+            "pageView": 5,
+            "total": 11179
         },
         {
             "page": "Alfonso Santagiuliana",
-            "pageView": 5472
-        },
-        {
-            "page": "Luigi Albanese",
-            "pageView": 4301
+            "pageView": 3,
+            "total": 5474
         },
         {
             "page": "Ludovico degli Arrighi",
-            "pageView": 3680
+            "pageView": 3,
+            "total": 3685
         },
         {
-            "page": "Niccolò da Cornedo",
-            "pageView": 1827
+            "page": "Luigi Albanese",
+            "pageView": 3,
+            "total": 4303
         },
         {
             "page": "Matija Đulvat",
-            "pageView": 1803
-        },
-        {
-            "page": "Stefano Frizziero",
-            "pageView": 1680
+            "pageView": 2,
+            "total": 1804
         },
         {
             "page": "Paolo Mingatti",
-            "pageView": 1530
+            "pageView": 1,
+            "total": 1530
         },
         {
             "page": "Pablo Lamanna",
-            "pageView": 1361
+            "pageView": 1,
+            "total": 1361
         },
         {
-            "page": "Walter Skurko",
-            "pageView": 929
+            "page": "Stefano Frizziero",
+            "pageView": 1,
+            "total": 1682
+        },
+        {
+            "page": "Niccolò da Cornedo",
+            "pageView": 1,
+            "total": 1827
         },
         {
             "page": "Aldo Danieli",
-            "pageView": 745
+            "pageView": 1,
+            "total": 747
+        },
+        {
+            "page": "Walter Skurko",
+            "pageView": 1,
+            "total": 929
         }
     ]
 }

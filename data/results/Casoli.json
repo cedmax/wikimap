@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Manuel Giandonato",
-            "pageView": 71604
+            "pageView": 39,
+            "total": 71625
         },
         {
             "page": "Fabrizio Di Stefano",
-            "pageView": 19711
+            "pageView": 10,
+            "total": 19721
         },
         {
             "page": "Germano De Cinque",
-            "pageView": 4152
+            "pageView": 3,
+            "total": 4157
         },
         {
             "page": "Giuseppe Borrelli",
-            "pageView": 4053
-        },
-        {
-            "page": "Pasquale Masciantonio",
-            "pageView": 3686
-        },
-        {
-            "page": "Giulio De Petra",
-            "pageView": 3552
-        },
-        {
-            "page": "Algeri Marino",
-            "pageView": 2685
-        },
-        {
-            "page": "Mosè Ricci",
-            "pageView": 2429
+            "pageView": 2,
+            "total": 4055
         },
         {
             "page": "Giuseppe Gentile (veterinario)",
-            "pageView": 1794
+            "pageView": 2,
+            "total": 1794
         },
         {
-            "page": "Milziade Venditti",
-            "pageView": 1622
+            "page": "Mosè Ricci",
+            "pageView": 2,
+            "total": 2430
+        },
+        {
+            "page": "Giulio De Petra",
+            "pageView": 2,
+            "total": 3554
+        },
+        {
+            "page": "Algeri Marino",
+            "pageView": 2,
+            "total": 2688
+        },
+        {
+            "page": "Pasquale Masciantonio",
+            "pageView": 2,
+            "total": 3687
         },
         {
             "page": "Ferdinando De Cinque",
-            "pageView": 1575
+            "pageView": 1,
+            "total": 1575
+        },
+        {
+            "page": "Milziade Venditti",
+            "pageView": 1,
+            "total": 1622
         }
     ]
 }

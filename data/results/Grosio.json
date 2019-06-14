@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Antonio Abbondi",
-            "pageView": 5046
+            "pageView": 3,
+            "total": 5049
         },
         {
             "page": "Cipriano Valorsa",
-            "pageView": 2730
+            "pageView": 2,
+            "total": 2731
         },
         {
             "page": "Bartolomeo Cattaneo",
-            "pageView": 475
+            "pageView": 0,
+            "total": 476
         }
     ]
 }

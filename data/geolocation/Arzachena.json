@@ -1,0 +1,27 @@
+{
+    "id": "place.15205880584277000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arzachena",
+    "place_name": "Arzachena, Olbia-Tempio, Italy",
+    "bbox": [
+        9.279578,
+        41.013961,
+        9.572483,
+        41.166623
+    ],
+    "center": [
+        9.38333,
+        41.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38333,
+            41.08333
+        ]
+    }
+}

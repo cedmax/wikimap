@@ -1,0 +1,27 @@
+{
+    "id": "place.6985127274940070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morazzone",
+    "place_name": "Morazzone, Varese, Italy",
+    "bbox": [
+        8.814169,
+        45.749926,
+        8.855681,
+        45.77349
+    ],
+    "center": [
+        8.83333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.76667
+        ]
+    }
+}

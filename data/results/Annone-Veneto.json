@@ -2,20 +2,24 @@
     "name": "Annone Veneto",
     "people": [
         {
-            "page": "Vasco Bruttomesso",
-            "pageView": 8910
+            "page": "Giorgio Bittolo",
+            "pageView": 5,
+            "total": 8544
         },
         {
-            "page": "Giorgio Bittolo",
-            "pageView": 8535
+            "page": "Vasco Bruttomesso",
+            "pageView": 5,
+            "total": 8915
         },
         {
             "page": "Vittorio Girotto",
-            "pageView": 5717
+            "pageView": 3,
+            "total": 5719
         },
         {
             "page": "Juti Ravenna",
-            "pageView": 4087
+            "pageView": 3,
+            "total": 4089
         }
     ]
 }

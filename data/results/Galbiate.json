@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Renato Corti",
-            "pageView": 31042
+            "pageView": 13,
+            "total": 31047
         },
         {
             "page": "Alberto Garutti",
-            "pageView": 11673
+            "pageView": 7,
+            "total": 11687
         },
         {
             "page": "Pietro Custodi",
-            "pageView": 3912
-        },
-        {
-            "page": "Lamberto Riva",
-            "pageView": 2380
+            "pageView": 3,
+            "total": 3912
         },
         {
             "page": "Cristoforo Riva",
-            "pageView": 1979
+            "pageView": 2,
+            "total": 1979
+        },
+        {
+            "page": "Lamberto Riva",
+            "pageView": 2,
+            "total": 2383
         },
         {
             "page": "Oreste Mieli",
-            "pageView": 874
+            "pageView": 1,
+            "total": 874
         }
     ]
 }

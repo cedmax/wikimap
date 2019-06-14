@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Giovanni da Campione",
-            "pageView": 7593
+            "pageView": 5,
+            "total": 7601
         },
         {
             "page": "Anselmo da Campione",
-            "pageView": 7123
-        },
-        {
-            "page": "Bonino da Campione",
-            "pageView": 6943
+            "pageView": 5,
+            "total": 7125
         },
         {
             "page": "Isidoro Bianchi",
-            "pageView": 6196
+            "pageView": 4,
+            "total": 6198
+        },
+        {
+            "page": "Bonino da Campione",
+            "pageView": 4,
+            "total": 6950
         },
         {
             "page": "Matteo da Campione",
-            "pageView": 4643
+            "pageView": 3,
+            "total": 4646
         },
         {
             "page": "Manlio Cipolla",
-            "pageView": 2874
+            "pageView": 2,
+            "total": 2874
         },
         {
             "page": "Andrea Bianchi (architetto)",
-            "pageView": 2785
+            "pageView": 2,
+            "total": 2786
         },
         {
             "page": "Ugo da Campione",
-            "pageView": 2150
+            "pageView": 2,
+            "total": 2150
         },
         {
             "page": "Arrigo da Campione",
-            "pageView": 1872
+            "pageView": 1,
+            "total": 1872
         },
         {
             "page": "Antonio Bezzola",
-            "pageView": 1572
+            "pageView": 1,
+            "total": 1572
         },
         {
             "page": "Giovanni Solari",
-            "pageView": 1320
+            "pageView": 0,
+            "total": 1321
         }
     ]
 }

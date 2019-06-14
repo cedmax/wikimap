@@ -1,0 +1,27 @@
+{
+    "id": "place.7767535828851310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calangianus",
+    "place_name": "Calangianus, Olbia-Tempio, Italy",
+    "bbox": [
+        9.159776,
+        40.843143,
+        9.317898,
+        40.992687
+    ],
+    "center": [
+        9.19472,
+        40.92222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.19472,
+            40.92222
+        ]
+    }
+}

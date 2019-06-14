@@ -1,0 +1,27 @@
+{
+    "id": "place.11855246980658840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Paolo di Civitate",
+    "place_name": "San Paolo di Civitate, Foggia, Italy",
+    "bbox": [
+        15.184371,
+        41.712647,
+        15.334181,
+        41.834333
+    ],
+    "center": [
+        15.26667,
+        41.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            41.73333
+        ]
+    }
+}

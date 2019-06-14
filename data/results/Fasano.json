@@ -3,55 +3,68 @@
     "people": [
         {
             "page": "Nicola Latorre",
-            "pageView": 34501
+            "pageView": 17,
+            "total": 34509
         },
         {
             "page": "Ignazio Ciaia",
-            "pageView": 12842
+            "pageView": 6,
+            "total": 12851
         },
         {
             "page": "Daniele Rotondo",
-            "pageView": 7369
+            "pageView": 4,
+            "total": 7377
         },
         {
             "page": "Mario Caroli",
-            "pageView": 5845
-        },
-        {
-            "page": "Vittorio Ghirelli",
-            "pageView": 3664
-        },
-        {
-            "page": "Lina Pietravalle",
-            "pageView": 3418
-        },
-        {
-            "page": "Emilio Guarini",
-            "pageView": 3080
-        },
-        {
-            "page": "Antonio Mario Mazzarrino",
-            "pageView": 2957
-        },
-        {
-            "page": "Maria Chieco Bianchi",
-            "pageView": 2644
-        },
-        {
-            "page": "Giacinto Bianco",
-            "pageView": 2410
+            "pageView": 4,
+            "total": 5847
         },
         {
             "page": "Giuseppe Martellotta",
-            "pageView": 2327
+            "pageView": 3,
+            "total": 2329
         },
         {
             "page": "Bonaventura da Fasano",
-            "pageView": 2053
+            "pageView": 2,
+            "total": 2054
+        },
+        {
+            "page": "Antonio Mario Mazzarrino",
+            "pageView": 2,
+            "total": 2960
+        },
+        {
+            "page": "Vittorio Ghirelli",
+            "pageView": 2,
+            "total": 3665
+        },
+        {
+            "page": "Emilio Guarini",
+            "pageView": 2,
+            "total": 3082
+        },
+        {
+            "page": "Giacinto Bianco",
+            "pageView": 2,
+            "total": 2410
+        },
+        {
+            "page": "Maria Chieco Bianchi",
+            "pageView": 2,
+            "total": 2645
+        },
+        {
+            "page": "Lina Pietravalle",
+            "pageView": 2,
+            "total": 3419
         },
         {
             "page": "Emanuele Fiume",
-            "pageView": 429
+            "pageView": 0,
+            "total": 429
         }
     ]
 }

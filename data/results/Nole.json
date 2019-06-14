@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Franco Balmamion",
-            "pageView": 34212
+            "pageView": 14,
+            "total": 34228
         },
         {
             "page": "Domenico Machetta",
-            "pageView": 10911
+            "pageView": 7,
+            "total": 10925
         },
         {
             "page": "Franco Alasia",
-            "pageView": 6001
+            "pageView": 4,
+            "total": 6005
         },
         {
             "page": "Domenico Buratti",
-            "pageView": 2736
+            "pageView": 2,
+            "total": 2737
         },
         {
             "page": "Renato Walter Togni",
-            "pageView": 2102
-        },
-        {
-            "page": "Oreste Pizio",
-            "pageView": 1499
+            "pageView": 2,
+            "total": 2102
         },
         {
             "page": "Ettore Balma Mion",
-            "pageView": 1386
+            "pageView": 1,
+            "total": 1386
+        },
+        {
+            "page": "Oreste Pizio",
+            "pageView": 1,
+            "total": 1501
         }
     ]
 }

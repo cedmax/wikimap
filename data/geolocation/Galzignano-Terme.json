@@ -1,0 +1,23 @@
+{
+    "id": "poi.2911987890450",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Radisson Blu Resort",
+    "place_name": "Radisson Blu Resort, Viale delle Terme 84, Galzignano Terme, Padova 35030, Italy",
+    "matching_text": "Galzignano Terme",
+    "matching_place_name": "Galzignano Terme, Viale delle Terme 84, Galzignano Terme, Padova 35030, Italy",
+    "center": [
+        11.768535,
+        45.289206
+    ],
+    "geometry": {
+        "coordinates": [
+            11.768535,
+            45.289206
+        ],
+        "type": "Point"
+    }
+}

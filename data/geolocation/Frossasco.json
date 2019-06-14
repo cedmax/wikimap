@@ -1,0 +1,27 @@
+{
+    "id": "place.10489282076589250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frossasco",
+    "place_name": "Frossasco, Torino, Italy",
+    "bbox": [
+        7.290225,
+        44.906277,
+        7.414667,
+        44.975799
+    ],
+    "center": [
+        7.35,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.35,
+            44.93333
+        ]
+    }
+}

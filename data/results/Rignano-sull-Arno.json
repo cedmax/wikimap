@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Ardengo Soffici",
-            "pageView": 85600
+            "pageView": 54,
+            "total": 85655
         },
         {
             "page": "Vespasiano da Bisticci",
-            "pageView": 11171
+            "pageView": 7,
+            "total": 11175
         },
         {
             "page": "Leo Pardi",
-            "pageView": 6996
+            "pageView": 4,
+            "total": 6998
         },
         {
             "page": "Aldo Berti",
-            "pageView": 6517
+            "pageView": 3,
+            "total": 6522
         },
         {
             "page": "Francesco Focardi",
-            "pageView": 805
+            "pageView": 0,
+            "total": 807
         }
     ]
 }

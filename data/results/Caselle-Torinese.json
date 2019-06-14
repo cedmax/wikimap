@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Silvano Girotto",
-            "pageView": 54857
+            "pageView": 31,
+            "total": 54893
         },
         {
             "page": "Giovanni Picat Re",
-            "pageView": 7649
-        },
-        {
-            "page": "Giuseppe Marchetto",
-            "pageView": 5091
+            "pageView": 5,
+            "total": 7660
         },
         {
             "page": "Gaspare Bona",
-            "pageView": 4175
+            "pageView": 3,
+            "total": 4177
+        },
+        {
+            "page": "Giuseppe Marchetto",
+            "pageView": 3,
+            "total": 5095
         },
         {
             "page": "Alfonso Badini Confalonieri (politico)",
-            "pageView": 3848
+            "pageView": 2,
+            "total": 3849
         },
         {
             "page": "Sebastiano Vaschetto",
-            "pageView": 2544
+            "pageView": 2,
+            "total": 2544
         },
         {
             "page": "Luigi Spandre",
-            "pageView": 1842
+            "pageView": 1,
+            "total": 1844
         }
     ]
 }

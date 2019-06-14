@@ -1,0 +1,27 @@
+{
+    "id": "place.13230159241686490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassano d'Adda",
+    "place_name": "Cassano d'Adda, Milano, Italy",
+    "bbox": [
+        9.480813,
+        45.500322,
+        9.551488,
+        45.558919
+    ],
+    "center": [
+        9.51667,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.51667,
+            45.53333
+        ]
+    }
+}

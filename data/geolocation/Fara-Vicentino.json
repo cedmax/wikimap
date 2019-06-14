@@ -1,0 +1,27 @@
+{
+    "id": "place.9349669898847470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fara Vicentino",
+    "place_name": "Fara Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.534088,
+        45.705685,
+        11.59408,
+        45.764213
+    ],
+    "center": [
+        11.55,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55,
+            45.73333
+        ]
+    }
+}

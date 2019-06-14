@@ -1,0 +1,27 @@
+{
+    "id": "place.14040751165740640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarnico",
+    "place_name": "Sarnico, Brescia, Italy",
+    "bbox": [
+        9.941434,
+        45.664451,
+        9.998972,
+        45.686714
+    ],
+    "center": [
+        9.95,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            45.66667
+        ]
+    }
+}

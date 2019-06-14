@@ -2,80 +2,99 @@
     "name": "Lonigo",
     "people": [
         {
-            "page": "Paolo Nicolato",
-            "pageView": 30821
-        },
-        {
-            "page": "Fabio Baldato",
-            "pageView": 13390
+            "page": "Mario Vielmo",
+            "pageView": 9,
+            "total": 8791
         },
         {
             "page": "Enea Masiero",
-            "pageView": 12540
+            "pageView": 8,
+            "total": 12548
         },
         {
             "page": "Niccolò Orsini",
-            "pageView": 11075
+            "pageView": 7,
+            "total": 11080
+        },
+        {
+            "page": "Fabio Baldato",
+            "pageView": 7,
+            "total": 13415
         },
         {
             "page": "Carlo Ridolfi",
-            "pageView": 10316
+            "pageView": 7,
+            "total": 10322
         },
         {
             "page": "Luciano Gasperini",
-            "pageView": 9328
-        },
-        {
-            "page": "Mario Vielmo",
-            "pageView": 8769
-        },
-        {
-            "page": "Giuseppe Becce",
-            "pageView": 5645
-        },
-        {
-            "page": "Niccolò Leoniceno",
-            "pageView": 5302
+            "pageView": 5,
+            "total": 9334
         },
         {
             "page": "Giovanni Ballico",
-            "pageView": 5229
+            "pageView": 3,
+            "total": 5232
+        },
+        {
+            "page": "Giuseppe Becce",
+            "pageView": 3,
+            "total": 5646
+        },
+        {
+            "page": "Niccolò Leoniceno",
+            "pageView": 3,
+            "total": 5303
         },
         {
             "page": "Giuseppe Giovanelli",
-            "pageView": 4354
-        },
-        {
-            "page": "Giulio Pontedera",
-            "pageView": 2920
-        },
-        {
-            "page": "Ognibene Bonisoli",
-            "pageView": 2681
+            "pageView": 2,
+            "total": 4354
         },
         {
             "page": "Giuseppe Cenzato",
-            "pageView": 2675
+            "pageView": 2,
+            "total": 2676
         },
         {
-            "page": "Angelo Melotto",
-            "pageView": 1938
+            "page": "Ognibene Bonisoli",
+            "pageView": 2,
+            "total": 2682
+        },
+        {
+            "page": "Giulio Pontedera",
+            "pageView": 2,
+            "total": 2920
         },
         {
             "page": "Camillo Bonioli",
-            "pageView": 1799
+            "pageView": 2,
+            "total": 1799
+        },
+        {
+            "page": "Angelo Melotto",
+            "pageView": 2,
+            "total": 1940
         },
         {
             "page": "Gastone Perin",
-            "pageView": 1461
+            "pageView": 1,
+            "total": 1462
         },
         {
-            "page": "Lucia Danieli",
-            "pageView": 679
+            "page": "Paolo Nicolato",
+            "pageView": 0,
+            "total": 32076
         },
         {
             "page": "Carlo Donati (politico)",
-            "pageView": 163
+            "pageView": 0,
+            "total": 164
+        },
+        {
+            "page": "Lucia Danieli",
+            "pageView": 0,
+            "total": 679
         }
     ]
 }

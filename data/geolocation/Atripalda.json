@@ -1,0 +1,27 @@
+{
+    "id": "place.14612592976207770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Atripalda",
+    "place_name": "Atripalda, Avellino, Italy",
+    "bbox": [
+        14.80817,
+        40.899484,
+        14.865307,
+        40.93493
+    ],
+    "center": [
+        14.82556,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.82556,
+            40.91667
+        ]
+    }
+}

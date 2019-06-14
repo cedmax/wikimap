@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Pietro Lo Monaco",
-            "pageView": 72614
+            "pageView": 41,
+            "total": 72677
         },
         {
             "page": "Gennaro Sardo",
-            "pageView": 44366
+            "pageView": 25,
+            "total": 44375
         },
         {
             "page": "Agostino Garofalo",
-            "pageView": 37129
-        },
-        {
-            "page": "Roberto Simonetta",
-            "pageView": 13755
+            "pageView": 17,
+            "total": 37135
         },
         {
             "page": "Mario Zurlini",
-            "pageView": 13052
+            "pageView": 9,
+            "total": 13059
+        },
+        {
+            "page": "Roberto Simonetta",
+            "pageView": 9,
+            "total": 13769
         },
         {
             "page": "Elia Greco",
-            "pageView": 7245
+            "pageView": 5,
+            "total": 7252
         },
         {
             "page": "Jone Spartano",
-            "pageView": 4994
+            "pageView": 3,
+            "total": 4994
         }
     ]
 }

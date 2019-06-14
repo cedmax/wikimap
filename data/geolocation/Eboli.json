@@ -1,0 +1,27 @@
+{
+    "id": "place.10377600276586370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Eboli",
+    "place_name": "Eboli, Salerno, Italy",
+    "bbox": [
+        14.905717,
+        40.480872,
+        15.098058,
+        40.652189
+    ],
+    "center": [
+        15.05639,
+        40.61694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.05639,
+            40.61694
+        ]
+    }
+}

@@ -2,80 +2,99 @@
     "name": "Gardone Val Trompia",
     "people": [
         {
-            "page": "Silvio Mondinelli",
-            "pageView": 41960
-        },
-        {
             "page": "Bartolomeo Beretta",
-            "pageView": 34285
+            "pageView": 23,
+            "total": 34310
         },
         {
-            "page": "Bruno Finzi",
-            "pageView": 18569
+            "page": "Silvio Mondinelli",
+            "pageView": 23,
+            "total": 41987
         },
         {
             "page": "Manuel Belleri",
-            "pageView": 16966
+            "pageView": 11,
+            "total": 16978
+        },
+        {
+            "page": "Bruno Finzi",
+            "pageView": 9,
+            "total": 18577
         },
         {
             "page": "Pietro Beretta",
-            "pageView": 13235
+            "pageView": 8,
+            "total": 13241
         },
         {
             "page": "Giuseppe Peruchetti",
-            "pageView": 8405
-        },
-        {
-            "page": "Guglielmo Palazzani",
-            "pageView": 8102
+            "pageView": 5,
+            "total": 8406
         },
         {
             "page": "Piercarlo Beretta",
-            "pageView": 7039
+            "pageView": 4,
+            "total": 7047
         },
         {
             "page": "Tarcisio Gitti",
-            "pageView": 5750
+            "pageView": 3,
+            "total": 5753
+        },
+        {
+            "page": "Guglielmo Palazzani",
+            "pageView": 3,
+            "total": 8102
         },
         {
             "page": "Andrea Palini",
-            "pageView": 4815
-        },
-        {
-            "page": "Salvatore Angelo Gitti",
-            "pageView": 2772
-        },
-        {
-            "page": "Daniele Contrini",
-            "pageView": 2706
-        },
-        {
-            "page": "Anna Zugno",
-            "pageView": 2441
-        },
-        {
-            "page": "Giuseppe Formica",
-            "pageView": 2421
+            "pageView": 3,
+            "total": 4816
         },
         {
             "page": "Ivan Pedretti",
-            "pageView": 2259
+            "pageView": 3,
+            "total": 2264
         },
         {
             "page": "Giuseppe Mozzoni",
-            "pageView": 2131
+            "pageView": 2,
+            "total": 2132
+        },
+        {
+            "page": "Salvatore Angelo Gitti",
+            "pageView": 2,
+            "total": 2773
+        },
+        {
+            "page": "Daniele Contrini",
+            "pageView": 2,
+            "total": 2706
+        },
+        {
+            "page": "Anna Zugno",
+            "pageView": 2,
+            "total": 2441
+        },
+        {
+            "page": "Giuseppe Formica",
+            "pageView": 2,
+            "total": 2423
         },
         {
             "page": "Angelo Lancelotti",
-            "pageView": 1709
+            "pageView": 1,
+            "total": 1710
         },
         {
             "page": "Crescenzio Rinaldini",
-            "pageView": 487
+            "pageView": 0,
+            "total": 487
         },
         {
             "page": "Davide Zanetti",
-            "pageView": 277
+            "pageView": 0,
+            "total": 278
         }
     ]
 }

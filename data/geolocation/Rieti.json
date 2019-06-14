@@ -1,0 +1,27 @@
+{
+    "id": "place.12708633182644630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rieti",
+    "place_name": "Rieti, Rieti, Italy",
+    "bbox": [
+        12.7115,
+        42.308094,
+        12.999971,
+        42.5089
+    ],
+    "center": [
+        12.8567,
+        42.40443
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8567,
+            42.40443
+        ]
+    }
+}

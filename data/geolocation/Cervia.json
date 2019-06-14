@@ -1,0 +1,27 @@
+{
+    "id": "place.11222398626747930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cervia",
+    "place_name": "Cervia, Ravenna, Italy",
+    "bbox": [
+        12.228044,
+        44.190452,
+        12.384179,
+        44.308174
+    ],
+    "center": [
+        12.36667,
+        44.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.36667,
+            44.25
+        ]
+    }
+}

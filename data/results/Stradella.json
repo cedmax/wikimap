@@ -2,260 +2,324 @@
     "name": "Stradella",
     "people": [
         {
-            "page": "Stefano Vecchi",
-            "pageView": 220654
-        },
-        {
             "page": "Agostino Depretis",
-            "pageView": 205006
+            "pageView": 136,
+            "total": 205179
         },
         {
             "page": "Giuseppe Sannino",
-            "pageView": 173429
+            "pageView": 83.5,
+            "total": 173530
+        },
+        {
+            "page": "Stefano Vecchi",
+            "pageView": 43,
+            "total": 220699
         },
         {
             "page": "Fabio Gallo",
-            "pageView": 69632
+            "pageView": 34,
+            "total": 69666
         },
         {
             "page": "Paolo Sollier",
-            "pageView": 65470
-        },
-        {
-            "page": "Luciano Zecchini",
-            "pageView": 32763
+            "pageView": 34,
+            "total": 65500
         },
         {
             "page": "Giuseppe Chiappella",
-            "pageView": 30503
-        },
-        {
-            "page": "Corrado Verdelli",
-            "pageView": 26080
+            "pageView": 20,
+            "total": 30519
         },
         {
             "page": "Michele Cossato",
-            "pageView": 25590
+            "pageView": 16,
+            "total": 25599
         },
         {
-            "page": "Ernestino Ramella",
-            "pageView": 17092
+            "page": "Corrado Verdelli",
+            "pageView": 15,
+            "total": 26098
         },
         {
-            "page": "Ambrogio Pelagalli",
-            "pageView": 16051
-        },
-        {
-            "page": "Massimiliano Caniato",
-            "pageView": 13979
+            "page": "Luciano Zecchini",
+            "pageView": 12,
+            "total": 32769
         },
         {
             "page": "Fulvio Fiorin",
-            "pageView": 12662
+            "pageView": 11,
+            "total": 12677
         },
         {
-            "page": "Piera Capitelli",
-            "pageView": 11266
+            "page": "Ambrogio Pelagalli",
+            "pageView": 10,
+            "total": 16063
+        },
+        {
+            "page": "Ernestino Ramella",
+            "pageView": 10,
+            "total": 17094
+        },
+        {
+            "page": "Massimiliano Caniato",
+            "pageView": 9,
+            "total": 13986
         },
         {
             "page": "Claudio Lombardo",
-            "pageView": 11133
+            "pageView": 7,
+            "total": 11149
         },
         {
             "page": "Maurizio Lucchetti",
-            "pageView": 10812
-        },
-        {
-            "page": "Antonio Obbedio",
-            "pageView": 8098
-        },
-        {
-            "page": "Luisa Battistotti Sassi",
-            "pageView": 8041
-        },
-        {
-            "page": "Gabriele Bongiorni",
-            "pageView": 8040
-        },
-        {
-            "page": "Ezio Sclavi",
-            "pageView": 8033
+            "pageView": 6,
+            "total": 10822
         },
         {
             "page": "Viviano Guida",
-            "pageView": 7974
+            "pageView": 5,
+            "total": 7977
         },
         {
-            "page": "Gianfranco Motta",
-            "pageView": 6797
+            "page": "Luisa Battistotti Sassi",
+            "pageView": 5,
+            "total": 8043
         },
         {
-            "page": "Gene Colonnello",
-            "pageView": 6644
+            "page": "Antonio Obbedio",
+            "pageView": 5,
+            "total": 8109
+        },
+        {
+            "page": "Ezio Sclavi",
+            "pageView": 5,
+            "total": 8036
+        },
+        {
+            "page": "Gabriele Bongiorni",
+            "pageView": 5,
+            "total": 8043
         },
         {
             "page": "Amarro Fiamberti",
-            "pageView": 6489
+            "pageView": 4,
+            "total": 6494
         },
         {
             "page": "Guido Corni",
-            "pageView": 6475
+            "pageView": 4,
+            "total": 6554
         },
         {
             "page": "Claudio Azzali (1956)",
-            "pageView": 5993
-        },
-        {
-            "page": "Giuseppe Alberganti",
-            "pageView": 5539
-        },
-        {
-            "page": "Luca Lomi",
-            "pageView": 5216
+            "pageView": 4,
+            "total": 5993
         },
         {
             "page": "Mario Alfieri (calciatore 1973)",
-            "pageView": 4860
+            "pageView": 4,
+            "total": 4869
         },
         {
-            "page": "Giovanni Fasce",
-            "pageView": 4815
+            "page": "Gene Colonnello",
+            "pageView": 4,
+            "total": 6645
         },
         {
-            "page": "Franco Rondanini",
-            "pageView": 4658
+            "page": "Gianfranco Motta",
+            "pageView": 4,
+            "total": 6798
         },
         {
-            "page": "Luigi Luzzi",
-            "pageView": 4447
-        },
-        {
-            "page": "Pino Masnata",
-            "pageView": 4431
-        },
-        {
-            "page": "Giuseppe Baldrighi",
-            "pageView": 4422
-        },
-        {
-            "page": "Walter Nicodemi",
-            "pageView": 4287
-        },
-        {
-            "page": "Alfredo Bassani",
-            "pageView": 4143
+            "page": "Giuseppe Alberganti",
+            "pageView": 4,
+            "total": 5544
         },
         {
             "page": "Luigi Faravelli",
-            "pageView": 4066
+            "pageView": 3,
+            "total": 4068
         },
         {
-            "page": "Enrico Bottini",
-            "pageView": 4009
+            "page": "Alfredo Bassani",
+            "pageView": 3,
+            "total": 4148
         },
         {
-            "page": "Mauro Marmaglio",
-            "pageView": 3805
+            "page": "Giovanni Fasce",
+            "pageView": 3,
+            "total": 4816
+        },
+        {
+            "page": "Walter Nicodemi",
+            "pageView": 3,
+            "total": 4288
+        },
+        {
+            "page": "Franco Rondanini",
+            "pageView": 3,
+            "total": 4659
+        },
+        {
+            "page": "Luigi Luzzi",
+            "pageView": 3,
+            "total": 4449
+        },
+        {
+            "page": "Pino Masnata",
+            "pageView": 3,
+            "total": 4432
         },
         {
             "page": "Attilio Kossovel",
-            "pageView": 3709
+            "pageView": 3,
+            "total": 3714
         },
         {
-            "page": "Luciano Gariboldi",
-            "pageView": 3140
+            "page": "Piera Capitelli",
+            "pageView": 3,
+            "total": 11271
         },
         {
-            "page": "Giovanni Masnata",
-            "pageView": 2927
+            "page": "Giuseppe Baldrighi",
+            "pageView": 3,
+            "total": 4427
         },
         {
-            "page": "Paolo Ravazzoli",
-            "pageView": 2774
+            "page": "Luca Lomi",
+            "pageView": 3,
+            "total": 5222
         },
         {
-            "page": "Pietro Trespidi",
-            "pageView": 2730
-        },
-        {
-            "page": "Alessandro Fornasaris",
-            "pageView": 2595
-        },
-        {
-            "page": "Mario De Prati",
-            "pageView": 2594
-        },
-        {
-            "page": "Goffredo Colombi",
-            "pageView": 2535
-        },
-        {
-            "page": "Gianpiero Mangiarotti",
-            "pageView": 2525
-        },
-        {
-            "page": "Renzo Sclavi",
-            "pageView": 2311
+            "page": "Enrico Bottini",
+            "pageView": 3,
+            "total": 4010
         },
         {
             "page": "Cesare Gavina",
-            "pageView": 1924
+            "pageView": 2,
+            "total": 1926
         },
         {
-            "page": "Carlo Colombetti",
-            "pageView": 1910
+            "page": "Gianpiero Mangiarotti",
+            "pageView": 2,
+            "total": 2526
+        },
+        {
+            "page": "Giovanni Masnata",
+            "pageView": 2,
+            "total": 2927
+        },
+        {
+            "page": "Mario De Prati",
+            "pageView": 2,
+            "total": 2595
+        },
+        {
+            "page": "Goffredo Colombi",
+            "pageView": 2,
+            "total": 2539
+        },
+        {
+            "page": "Pietro Trespidi",
+            "pageView": 2,
+            "total": 2730
         },
         {
             "page": "Giovanni Antonio Veneroni",
-            "pageView": 1812
+            "pageView": 2,
+            "total": 1813
         },
         {
-            "page": "Francesco Quaroni",
-            "pageView": 1727
+            "page": "Alessandro Fornasaris",
+            "pageView": 2,
+            "total": 2598
         },
         {
-            "page": "Klodian Samina",
-            "pageView": 1589
+            "page": "Paolo Ravazzoli",
+            "pageView": 2,
+            "total": 2778
         },
         {
-            "page": "Guido Soldani",
-            "pageView": 1557
+            "page": "Mauro Marmaglio",
+            "pageView": 2,
+            "total": 3808
         },
         {
-            "page": "Ernesto Pochintesta",
-            "pageView": 1542
+            "page": "Carlo Colombetti",
+            "pageView": 2,
+            "total": 1913
         },
         {
-            "page": "Luigi Colombetti",
-            "pageView": 1519
+            "page": "Luciano Gariboldi",
+            "pageView": 2,
+            "total": 3142
         },
         {
             "page": "Achille Casanchini",
-            "pageView": 1446
+            "pageView": 1,
+            "total": 1446
         },
         {
-            "page": "Michele Guainazzi",
-            "pageView": 1436
+            "page": "Klodian Samina",
+            "pageView": 1,
+            "total": 1592
         },
         {
-            "page": "Agostino Fossati (calciatore)",
-            "pageView": 1077
-        },
-        {
-            "page": "Ennio Bacchio",
-            "pageView": 931
+            "page": "Renzo Sclavi",
+            "pageView": 1,
+            "total": 2311
         },
         {
             "page": "Ernesto Silvani",
-            "pageView": 862
+            "pageView": 1,
+            "total": 862
         },
         {
-            "page": "Giovanni Belli",
-            "pageView": 398
+            "page": "Michele Guainazzi",
+            "pageView": 1,
+            "total": 1436
+        },
+        {
+            "page": "Agostino Fossati (calciatore)",
+            "pageView": 1,
+            "total": 1077
+        },
+        {
+            "page": "Ennio Bacchio",
+            "pageView": 1,
+            "total": 931
+        },
+        {
+            "page": "Francesco Quaroni",
+            "pageView": 1,
+            "total": 1728
+        },
+        {
+            "page": "Guido Soldani",
+            "pageView": 1,
+            "total": 1557
+        },
+        {
+            "page": "Luigi Colombetti",
+            "pageView": 1,
+            "total": 1522
+        },
+        {
+            "page": "Ernesto Pochintesta",
+            "pageView": 1,
+            "total": 1542
         },
         {
             "page": "Alfredo Massazza",
-            "pageView": 367
+            "pageView": 0,
+            "total": 368
+        },
+        {
+            "page": "Giovanni Belli",
+            "pageView": 0,
+            "total": 399
         }
     ]
 }

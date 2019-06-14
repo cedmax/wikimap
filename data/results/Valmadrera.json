@@ -2,24 +2,29 @@
     "name": "Valmadrera",
     "people": [
         {
-            "page": "Antonio Rusconi",
-            "pageView": 4320
+            "page": "Antonio Dubini",
+            "pageView": 3,
+            "total": 3979
         },
         {
-            "page": "Antonio Dubini",
-            "pageView": 3978
+            "page": "Antonio Rusconi",
+            "pageView": 3,
+            "total": 4328
         },
         {
             "page": "Sara Canova",
-            "pageView": 3050
+            "pageView": 2,
+            "total": 3050
         },
         {
             "page": "Giuseppe Gavazzi",
-            "pageView": 1804
+            "pageView": 2,
+            "total": 1806
         },
         {
             "page": "Karolina Piotrkiewicz",
-            "pageView": 1267
+            "pageView": 1,
+            "total": 1267
         }
     ]
 }

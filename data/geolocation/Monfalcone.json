@@ -1,0 +1,27 @@
+{
+    "id": "place.8998253626429880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monfalcone",
+    "place_name": "Monfalcone, Gorizia, Italy",
+    "bbox": [
+        13.505013,
+        45.771317,
+        13.584968,
+        45.82309
+    ],
+    "center": [
+        13.53333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53333,
+            45.8
+        ]
+    }
+}

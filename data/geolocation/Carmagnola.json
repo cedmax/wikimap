@@ -1,0 +1,27 @@
+{
+    "id": "place.7129094414936180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carmagnola",
+    "place_name": "Carmagnola, Torino, Italy",
+    "bbox": [
+        7.648534,
+        44.81026,
+        7.822756,
+        44.913388
+    ],
+    "center": [
+        7.71667,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.71667,
+            44.85
+        ]
+    }
+}

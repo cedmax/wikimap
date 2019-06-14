@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Cesare Correnti",
-            "pageView": 12567
+            "pageView": 8,
+            "total": 12578
         },
         {
             "page": "Giulio Carcano",
-            "pageView": 9252
-        },
-        {
-            "page": "Pore Mosulishvili",
-            "pageView": 6061
+            "pageView": 6,
+            "total": 9256
         },
         {
             "page": "Baldassare Verazzi",
-            "pageView": 5798
+            "pageView": 3,
+            "total": 5800
+        },
+        {
+            "page": "Pore Mosulishvili",
+            "pageView": 3,
+            "total": 6064
         },
         {
             "page": "Bruno Padulazzi",
-            "pageView": 4205
+            "pageView": 3,
+            "total": 4209
         },
         {
             "page": "Sergio Noja Noseda",
-            "pageView": 3284
-        },
-        {
-            "page": "Alfredo Peri Morosini",
-            "pageView": 2568
+            "pageView": 2,
+            "total": 3286
         },
         {
             "page": "Siro Penagini",
-            "pageView": 2307
+            "pageView": 2,
+            "total": 2307
+        },
+        {
+            "page": "Alfredo Peri Morosini",
+            "pageView": 2,
+            "total": 2571
         },
         {
             "page": "Felice Borroni",
-            "pageView": 2092
-        },
-        {
-            "page": "Gaspare Cavallini",
-            "pageView": 1631
+            "pageView": 2,
+            "total": 2092
         },
         {
             "page": "Amerigo Leber",
-            "pageView": 1305
+            "pageView": 1,
+            "total": 1306
+        },
+        {
+            "page": "Gaspare Cavallini",
+            "pageView": 1,
+            "total": 1631
         }
     ]
 }

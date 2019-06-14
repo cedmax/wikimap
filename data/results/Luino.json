@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Massimo Boldi",
-            "pageView": 1141746
+            "pageView": 507,
+            "total": 1142023
         },
         {
             "page": "Francesco Salvi",
-            "pageView": 350429
-        },
-        {
-            "page": "Sarah Maestri",
-            "pageView": 170349
+            "pageView": 192,
+            "total": 350628
         },
         {
             "page": "Piero Chiara",
-            "pageView": 100833
+            "pageView": 65,
+            "total": 100893
         },
         {
-            "page": "Federico Morlacchi",
-            "pageView": 80489
+            "page": "Sarah Maestri",
+            "pageView": 57,
+            "total": 170427
         },
         {
             "page": "Vittorio Sereni",
-            "pageView": 78204
+            "pageView": 51,
+            "total": 78266
         },
         {
             "page": "Giovanni Reale",
-            "pageView": 58733
+            "pageView": 39,
+            "total": 58760
         },
         {
             "page": "Marco Guerzoni",
-            "pageView": 56889
+            "pageView": 25,
+            "total": 56905
         },
         {
             "page": "Renzo Villa",
-            "pageView": 29401
+            "pageView": 18,
+            "total": 29416
         },
         {
             "page": "Nives Zegna",
-            "pageView": 25121
+            "pageView": 14,
+            "total": 25130
+        },
+        {
+            "page": "Federico Morlacchi",
+            "pageView": 11,
+            "total": 80512
         },
         {
             "page": "Guido Petter",
-            "pageView": 14967
+            "pageView": 10,
+            "total": 14979
         },
         {
             "page": "Fulvio Fo",
-            "pageView": 5390
+            "pageView": 7,
+            "total": 5398
         },
         {
             "page": "Enrico Prato",
-            "pageView": 4443
-        },
-        {
-            "page": "Adolfo Padovan",
-            "pageView": 3482
+            "pageView": 3,
+            "total": 4448
         },
         {
             "page": "Piero Folli",
-            "pageView": 2880
+            "pageView": 2,
+            "total": 2880
         },
         {
             "page": "Giuseppe Ferrario (ingegnere)",
-            "pageView": 2602
+            "pageView": 2,
+            "total": 2602
         },
         {
-            "page": "Luciano Lilloni",
-            "pageView": 1837
-        },
-        {
-            "page": "Piero Pellicini",
-            "pageView": 1803
+            "page": "Adolfo Padovan",
+            "pageView": 2,
+            "total": 3483
         },
         {
             "page": "Francesco Carnisi",
-            "pageView": 1743
+            "pageView": 1.5,
+            "total": 1744
         },
         {
             "page": "Augusto Cristina",
-            "pageView": 1726
+            "pageView": 1,
+            "total": 1726
         },
         {
-            "page": "Pietro Zegna",
-            "pageView": 1624
+            "page": "Piero Pellicini",
+            "pageView": 1,
+            "total": 1803
         },
         {
             "page": "Pietro Merlo",
-            "pageView": 1614
+            "pageView": 1,
+            "total": 1615
         },
         {
-            "page": "Pietro Pacifico Gamondi",
-            "pageView": 1068
+            "page": "Luciano Lilloni",
+            "pageView": 1,
+            "total": 1837
+        },
+        {
+            "page": "Pietro Zegna",
+            "pageView": 1,
+            "total": 1624
         },
         {
             "page": "Brunetto Giovanni Brunetti",
-            "pageView": 695
+            "pageView": 0,
+            "total": 697
+        },
+        {
+            "page": "Pietro Pacifico Gamondi",
+            "pageView": 0,
+            "total": 1068
         }
     ]
 }

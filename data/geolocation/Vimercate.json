@@ -1,0 +1,27 @@
+{
+    "id": "place.3160525258938670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vimercate",
+    "place_name": "Vimercate, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.326125,
+        45.585607,
+        9.405479,
+        45.639651
+    ],
+    "center": [
+        9.36667,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            45.61667
+        ]
+    }
+}

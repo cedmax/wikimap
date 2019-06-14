@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Roberto Amadei",
-            "pageView": 7918
-        },
-        {
-            "page": "Rino Gritti",
-            "pageView": 7314
+            "pageView": 5,
+            "total": 7925
         },
         {
             "page": "Franco Abbiati",
-            "pageView": 5723
+            "pageView": 4,
+            "total": 5728
         },
         {
-            "page": "Giuseppe Meraviglia",
-            "pageView": 4982
-        },
-        {
-            "page": "Francesco Duzioni",
-            "pageView": 4632
+            "page": "Rino Gritti",
+            "pageView": 4,
+            "total": 7317
         },
         {
             "page": "Pietro Maria Ferrè",
-            "pageView": 4608
+            "pageView": 3,
+            "total": 4611
         },
         {
-            "page": "Giuseppe Brolis",
-            "pageView": 4065
+            "page": "Francesco Duzioni",
+            "pageView": 3,
+            "total": 4633
+        },
+        {
+            "page": "Giuseppe Meraviglia",
+            "pageView": 3,
+            "total": 4985
         },
         {
             "page": "Luigi Chiodi (letterato)",
-            "pageView": 2490
-        },
-        {
-            "page": "Angelo Lecchi",
-            "pageView": 2220
+            "pageView": 2,
+            "total": 2494
         },
         {
             "page": "Cesare Sermenghi",
-            "pageView": 1922
+            "pageView": 2,
+            "total": 1922
+        },
+        {
+            "page": "Angelo Lecchi",
+            "pageView": 2,
+            "total": 2221
+        },
+        {
+            "page": "Giuseppe Brolis",
+            "pageView": 2,
+            "total": 4072
         },
         {
             "page": "Angelo Meraviglia",
-            "pageView": 1058
+            "pageView": 1,
+            "total": 1058
         },
         {
             "page": "Giovanni Battista Vergani",
-            "pageView": 669
+            "pageView": 1,
+            "total": 670
         }
     ]
 }

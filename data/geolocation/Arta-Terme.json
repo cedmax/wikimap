@@ -1,0 +1,27 @@
+{
+    "id": "place.11198857920279730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arta Terme",
+    "place_name": "Arta Terme, Udine, Italy",
+    "bbox": [
+        12.98226,
+        46.449466,
+        13.13762,
+        46.508454
+    ],
+    "center": [
+        13.01667,
+        46.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            46.48333
+        ]
+    }
+}

@@ -3,119 +3,148 @@
     "people": [
         {
             "page": "Licia Colò",
-            "pageView": 385900
+            "pageView": 149,
+            "total": 386017
         },
         {
             "page": "Jason Mayélé",
-            "pageView": 63494
-        },
-        {
-            "page": "Maurizio Fugatti",
-            "pageView": 54260
+            "pageView": 31,
+            "total": 63511
         },
         {
             "page": "Nicolò Brighenti",
-            "pageView": 44420
+            "pageView": 19,
+            "total": 44433
         },
         {
             "page": "Mauro Ottolini",
-            "pageView": 11528
-        },
-        {
-            "page": "Andrea Brighenti",
-            "pageView": 11129
+            "pageView": 7,
+            "total": 11532
         },
         {
             "page": "Luigi Motta",
-            "pageView": 9579
+            "pageView": 6,
+            "total": 9584
+        },
+        {
+            "page": "Maurizio Fugatti",
+            "pageView": 5,
+            "total": 54302
         },
         {
             "page": "Giancarlo Savoia",
-            "pageView": 6542
+            "pageView": 4,
+            "total": 6556
         },
         {
             "page": "Cesare Maccacaro",
-            "pageView": 5546
-        },
-        {
-            "page": "Cesare Togni",
-            "pageView": 5478
-        },
-        {
-            "page": "Bruno Rizzi",
-            "pageView": 5192
-        },
-        {
-            "page": "Beni Montresor",
-            "pageView": 4592
-        },
-        {
-            "page": "Daniele Pietropolli",
-            "pageView": 4136
-        },
-        {
-            "page": "Roberta Filippozzi",
-            "pageView": 3268
-        },
-        {
-            "page": "Francesco Bellotti",
-            "pageView": 3124
+            "pageView": 4,
+            "total": 5550
         },
         {
             "page": "Guglielmo Ferri",
-            "pageView": 2850
+            "pageView": 3,
+            "total": 2854
         },
         {
-            "page": "Carlo Piccoli",
-            "pageView": 2798
+            "page": "Bruno Rizzi",
+            "pageView": 3,
+            "total": 5201
         },
         {
-            "page": "Michela Brunelli",
-            "pageView": 2783
+            "page": "Beni Montresor",
+            "pageView": 3,
+            "total": 4594
         },
         {
-            "page": "Loris Lonardi",
-            "pageView": 2364
+            "page": "Cesare Togni",
+            "pageView": 3,
+            "total": 5480
         },
         {
-            "page": "Tiziano Quarella",
-            "pageView": 2126
-        },
-        {
-            "page": "Luigi Piacenza",
-            "pageView": 1542
+            "page": "Daniele Pietropolli",
+            "pageView": 3,
+            "total": 4139
         },
         {
             "page": "Debora Mascanzoni",
-            "pageView": 1473
+            "pageView": 2,
+            "total": 1474
+        },
+        {
+            "page": "Michela Brunelli",
+            "pageView": 2,
+            "total": 2783
+        },
+        {
+            "page": "Loris Lonardi",
+            "pageView": 2,
+            "total": 2365
+        },
+        {
+            "page": "Francesco Bellotti",
+            "pageView": 2,
+            "total": 3125
+        },
+        {
+            "page": "Roberta Filippozzi",
+            "pageView": 2,
+            "total": 3270
+        },
+        {
+            "page": "Tiziano Quarella",
+            "pageView": 2,
+            "total": 2126
+        },
+        {
+            "page": "Carlo Piccoli",
+            "pageView": 2,
+            "total": 2801
         },
         {
             "page": "Daiana Mascanzoni",
-            "pageView": 1238
+            "pageView": 2,
+            "total": 1240
+        },
+        {
+            "page": "Luigi Piacenza",
+            "pageView": 1,
+            "total": 1544
         },
         {
             "page": "Luigi Montresor",
-            "pageView": 1157
+            "pageView": 1,
+            "total": 1159
         },
         {
-            "page": "Alex Simoncelli",
-            "pageView": 699
-        },
-        {
-            "page": "Giulia Caliari",
-            "pageView": 361
-        },
-        {
-            "page": "Ilenia Sancassani",
-            "pageView": 144
-        },
-        {
-            "page": "Fabio Magrini",
-            "pageView": 104
+            "page": "Andrea Brighenti",
+            "pageView": 0,
+            "total": 11141
         },
         {
             "page": "Elena Nicolis",
-            "pageView": 69
+            "pageView": 0,
+            "total": 69
+        },
+        {
+            "page": "Giulia Caliari",
+            "pageView": 0,
+            "total": 364
+        },
+        {
+            "page": "Ilenia Sancassani",
+            "pageView": 0,
+            "total": 144
+        },
+        {
+            "page": "Alex Simoncelli",
+            "pageView": 0,
+            "total": 701
+        },
+        {
+            "page": "Fabio Magrini",
+            "pageView": 0,
+            "total": 104
         }
     ]
 }

@@ -3,219 +3,273 @@
     "people": [
         {
             "page": "Jacopone da Todi",
-            "pageView": 240396
+            "pageView": 143,
+            "total": 240480
         },
         {
             "page": "Nicola Cusano",
-            "pageView": 187962
+            "pageView": 121,
+            "total": 188008
         },
         {
             "page": "Giacomo Rossi Stuart",
-            "pageView": 155629
+            "pageView": 61,
+            "total": 155695
         },
         {
             "page": "Madre Speranza di Gesù",
-            "pageView": 93487
+            "pageView": 60,
+            "total": 93539
         },
         {
             "page": "Catiuscia Marini",
-            "pageView": 69095
+            "pageView": 25,
+            "total": 69130
         },
         {
             "page": "Patrizia Cavalli",
-            "pageView": 47529
-        },
-        {
-            "page": "Ennio Antonelli",
-            "pageView": 35721
+            "pageView": 24,
+            "total": 47597
         },
         {
             "page": "Bartolomeo d'Alviano",
-            "pageView": 35038
+            "pageView": 23,
+            "total": 35052
+        },
+        {
+            "page": "Ennio Antonelli",
+            "pageView": 21,
+            "total": 35732
         },
         {
             "page": "Papa Martino I",
-            "pageView": 31316
+            "pageView": 19,
+            "total": 31330
         },
         {
             "page": "Mario Castellacci",
-            "pageView": 23201
-        },
-        {
-            "page": "Filippo Benizi",
-            "pageView": 14401
+            "pageView": 14,
+            "total": 23222
         },
         {
             "page": "Ajmone Finestra",
-            "pageView": 13591
+            "pageView": 9,
+            "total": 13597
         },
         {
-            "page": "Matteuccia da Todi",
-            "pageView": 11461
+            "page": "Filippo Benizi",
+            "pageView": 8,
+            "total": 14405
         },
         {
             "page": "Ulderico Carpegna",
-            "pageView": 10924
-        },
-        {
-            "page": "Roberto Andreucci",
-            "pageView": 10713
+            "pageView": 7,
+            "total": 10926
         },
         {
             "page": "Paolo Rolli",
-            "pageView": 10075
+            "pageView": 6,
+            "total": 10087
         },
         {
-            "page": "Alberto Galassi",
-            "pageView": 9201
+            "page": "Matteuccia da Todi",
+            "pageView": 6,
+            "total": 11475
+        },
+        {
+            "page": "Roberto Andreucci",
+            "pageView": 6,
+            "total": 10725
         },
         {
             "page": "Benedetto Tuzia",
-            "pageView": 8977
+            "pageView": 6,
+            "total": 8980
         },
         {
             "page": "Roberto Bernardi",
-            "pageView": 8872
+            "pageView": 6,
+            "total": 8877
         },
         {
-            "page": "Francesco Grisi",
-            "pageView": 8750
-        },
-        {
-            "page": "Fortunato di Todi",
-            "pageView": 6626
-        },
-        {
-            "page": "Graziano Marini",
-            "pageView": 5724
-        },
-        {
-            "page": "Federico Gonzaga (da Bozzolo)",
-            "pageView": 5672
-        },
-        {
-            "page": "Federico Cesi (cardinale)",
-            "pageView": 5025
+            "page": "Alberto Galassi",
+            "pageView": 5,
+            "total": 9206
         },
         {
             "page": "Valentina Parasecolo",
-            "pageView": 4938
+            "pageView": 5,
+            "total": 4938
         },
         {
-            "page": "Luigi Morandi",
-            "pageView": 4464
+            "page": "Francesco Grisi",
+            "pageView": 4,
+            "total": 8755
+        },
+        {
+            "page": "Federico Gonzaga (da Bozzolo)",
+            "pageView": 4,
+            "total": 5676
+        },
+        {
+            "page": "Graziano Marini",
+            "pageView": 4,
+            "total": 5724
+        },
+        {
+            "page": "Fortunato di Todi",
+            "pageView": 4,
+            "total": 6630
         },
         {
             "page": "Decio Lucio Grandoni",
-            "pageView": 3798
+            "pageView": 3,
+            "total": 3798
         },
         {
-            "page": "Terenziano di Todi",
-            "pageView": 3737
+            "page": "Luigi Morandi",
+            "pageView": 3,
+            "total": 4466
         },
         {
-            "page": "Filippo Antonio Gualterio (cardinale)",
-            "pageView": 3711
-        },
-        {
-            "page": "Salvatore Todisco",
-            "pageView": 3636
-        },
-        {
-            "page": "Marcello Lante",
-            "pageView": 3338
-        },
-        {
-            "page": "Enrico Quattrini",
-            "pageView": 3000
-        },
-        {
-            "page": "Ludovico Racaniello",
-            "pageView": 2888
-        },
-        {
-            "page": "Domenico Cucci",
-            "pageView": 2771
-        },
-        {
-            "page": "Luzio Luzi",
-            "pageView": 2688
-        },
-        {
-            "page": "Carlo Urru",
-            "pageView": 2672
-        },
-        {
-            "page": "Bentivegna de' Bentivegni",
-            "pageView": 2624
-        },
-        {
-            "page": "Giovanni Battista Altieri (1589-1654)",
-            "pageView": 2596
+            "page": "Federico Cesi (cardinale)",
+            "pageView": 3,
+            "total": 5025
         },
         {
             "page": "Degna di Todi",
-            "pageView": 2590
+            "pageView": 2,
+            "total": 2591
         },
         {
             "page": "Giovanna Granieri",
-            "pageView": 2519
+            "pageView": 2,
+            "total": 2519
         },
         {
-            "page": "Giuseppe Ridolfi",
-            "pageView": 2129
+            "page": "Domenico Cucci",
+            "pageView": 2,
+            "total": 2771
         },
         {
-            "page": "Francesco Atti",
-            "pageView": 2105
+            "page": "Marcello Lante",
+            "pageView": 2,
+            "total": 3338
         },
         {
-            "page": "Lodovico Maschiella",
-            "pageView": 2023
-        },
-        {
-            "page": "Enrico Caporali",
-            "pageView": 1936
-        },
-        {
-            "page": "Luigi Mario Pizzinelli",
-            "pageView": 1716
-        },
-        {
-            "page": "Antonio Calvi",
-            "pageView": 1613
+            "page": "Luzio Luzi",
+            "pageView": 2,
+            "total": 2688
         },
         {
             "page": "Camillo Pennati",
-            "pageView": 1483
+            "pageView": 2,
+            "total": 1500
+        },
+        {
+            "page": "Giuseppe Ridolfi",
+            "pageView": 2,
+            "total": 2131
+        },
+        {
+            "page": "Francesco Atti",
+            "pageView": 2,
+            "total": 2105
+        },
+        {
+            "page": "Lodovico Maschiella",
+            "pageView": 2,
+            "total": 2023
         },
         {
             "page": "Rodolfo Fredi",
-            "pageView": 1387
+            "pageView": 2,
+            "total": 1388
         },
         {
-            "page": "Stefano Palosti de Verayneris",
-            "pageView": 1343
+            "page": "Salvatore Todisco",
+            "pageView": 2,
+            "total": 3637
+        },
+        {
+            "page": "Filippo Antonio Gualterio (cardinale)",
+            "pageView": 2,
+            "total": 3711
+        },
+        {
+            "page": "Enrico Quattrini",
+            "pageView": 2,
+            "total": 3000
+        },
+        {
+            "page": "Ludovico Racaniello",
+            "pageView": 2,
+            "total": 2888
         },
         {
             "page": "Angelo Cesi (vescovo 1530)",
-            "pageView": 1135
+            "pageView": 2,
+            "total": 1137
         },
         {
-            "page": "Enrico Dolci",
-            "pageView": 1100
+            "page": "Carlo Urru",
+            "pageView": 2,
+            "total": 2672
+        },
+        {
+            "page": "Bentivegna de' Bentivegni",
+            "pageView": 2,
+            "total": 2625
+        },
+        {
+            "page": "Giovanni Battista Altieri (1589-1654)",
+            "pageView": 2,
+            "total": 2597
+        },
+        {
+            "page": "Enrico Caporali",
+            "pageView": 2,
+            "total": 1937
+        },
+        {
+            "page": "Terenziano di Todi",
+            "pageView": 2,
+            "total": 3759
+        },
+        {
+            "page": "Luigi Mario Pizzinelli",
+            "pageView": 1.5,
+            "total": 1716
+        },
+        {
+            "page": "Antonio Calvi",
+            "pageView": 1,
+            "total": 1613
         },
         {
             "page": "Andrea de Aptis",
-            "pageView": 967
+            "pageView": 1,
+            "total": 967
+        },
+        {
+            "page": "Stefano Palosti de Verayneris",
+            "pageView": 1,
+            "total": 1343
+        },
+        {
+            "page": "Enrico Dolci",
+            "pageView": 1,
+            "total": 1100
         },
         {
             "page": "Luigi Carbonari (imprenditore)",
-            "pageView": 910
+            "pageView": 0,
+            "total": 911
         },
         {
             "page": "Lorenzo Leony",
-            "pageView": 187
+            "pageView": 0,
+            "total": 188
         }
     ]
 }

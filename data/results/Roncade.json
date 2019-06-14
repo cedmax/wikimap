@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Pietro Grosso",
-            "pageView": 9377
-        },
-        {
-            "page": "Domenico Moro",
-            "pageView": 9093
+            "pageView": 6,
+            "total": 9377
         },
         {
             "page": "Riccardo Selvatico",
-            "pageView": 8894
+            "pageView": 6,
+            "total": 8902
         },
         {
-            "page": "Carlo Menon",
-            "pageView": 5224
+            "page": "Domenico Moro",
+            "pageView": 5,
+            "total": 9098
         },
         {
             "page": "Vittorio Luigi Alfieri",
-            "pageView": 4474
+            "pageView": 3,
+            "total": 4475
         },
         {
             "page": "Rodolfo Cimenti",
-            "pageView": 3913
+            "pageView": 3,
+            "total": 3914
         },
         {
-            "page": "Italo Rizza",
-            "pageView": 1704
+            "page": "Carlo Menon",
+            "pageView": 3,
+            "total": 5226
         },
         {
             "page": "Erminio Favaro",
-            "pageView": 864
+            "pageView": 1,
+            "total": 864
+        },
+        {
+            "page": "Italo Rizza",
+            "pageView": 1,
+            "total": 1705
         }
     ]
 }

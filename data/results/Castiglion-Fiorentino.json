@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Roberto Benigni",
-            "pageView": 1350787
+            "pageView": 684,
+            "total": 1351366
         },
         {
             "page": "Alberto Castagna",
-            "pageView": 485086
+            "pageView": 247,
+            "total": 485351
         },
         {
             "page": "Fabrizio Meoni",
-            "pageView": 66579
+            "pageView": 28,
+            "total": 66607
         },
         {
             "page": "Emanuele Petri",
-            "pageView": 40868
+            "pageView": 19,
+            "total": 40877
         },
         {
             "page": "Corrado Viciani",
-            "pageView": 23854
+            "pageView": 15,
+            "total": 23862
         },
         {
             "page": "Michele Santucci",
-            "pageView": 12694
+            "pageView": 4,
+            "total": 12695
         },
         {
             "page": "Tommaso Porcacchi",
-            "pageView": 4875
-        },
-        {
-            "page": "Ludovico Racaniello",
-            "pageView": 2888
-        },
-        {
-            "page": "Raffaello Funghini",
-            "pageView": 2258
+            "pageView": 3,
+            "total": 4875
         },
         {
             "page": "Luciano Michetti Ricci",
-            "pageView": 2233
+            "pageView": 2,
+            "total": 2234
+        },
+        {
+            "page": "Ludovico Racaniello",
+            "pageView": 2,
+            "total": 2888
         },
         {
             "page": "Enzo Scatragli",
-            "pageView": 1308
+            "pageView": 2,
+            "total": 1308
+        },
+        {
+            "page": "Raffaello Funghini",
+            "pageView": 2,
+            "total": 2258
         }
     ]
 }

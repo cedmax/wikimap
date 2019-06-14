@@ -1,0 +1,27 @@
+{
+    "id": "place.14909417218541820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Valdarno",
+    "place_name": "San Giovanni Valdarno, Arezzo, Italy",
+    "bbox": [
+        11.493227,
+        43.522728,
+        11.555866,
+        43.594491
+    ],
+    "center": [
+        11.53278,
+        43.56444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53278,
+            43.56444
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13412726256795570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bisaccia",
+    "place_name": "Bisaccia, Avellino, Italy",
+    "bbox": [
+        15.294855,
+        40.945853,
+        15.439271,
+        41.080404
+    ],
+    "center": [
+        15.37556,
+        41.01306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.37556,
+            41.01306
+        ]
+    }
+}

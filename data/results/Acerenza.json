@@ -3,99 +3,123 @@
     "people": [
         {
             "page": "Papa Urbano VI",
-            "pageView": 65745
-        },
-        {
-            "page": "Giovanni Moro",
-            "pageView": 16758
+            "pageView": 41,
+            "total": 65780
         },
         {
             "page": "Corrado Ursi",
-            "pageView": 16739
+            "pageView": 11,
+            "total": 16742
         },
         {
             "page": "Giovanni Ricchiuti",
-            "pageView": 15883
+            "pageView": 9,
+            "total": 15887
         },
         {
             "page": "Francesco Sirufo",
-            "pageView": 8756
+            "pageView": 7,
+            "total": 8761
+        },
+        {
+            "page": "Giovanni Moro",
+            "pageView": 6,
+            "total": 16761
         },
         {
             "page": "Francesco Cuccarese",
-            "pageView": 7583
+            "pageView": 5,
+            "total": 7588
         },
         {
             "page": "Anton Ludovico Antinori",
-            "pageView": 6840
+            "pageView": 4,
+            "total": 6845
         },
         {
             "page": "Serafino Filangieri",
-            "pageView": 4236
-        },
-        {
-            "page": "Diomede Falconio",
-            "pageView": 3914
-        },
-        {
-            "page": "Giovanni Michele Saraceni",
-            "pageView": 3407
-        },
-        {
-            "page": "Giambattista Spinola (1615-1704)",
-            "pageView": 3153
-        },
-        {
-            "page": "Mariano d'Acerenza",
-            "pageView": 2967
-        },
-        {
-            "page": "Giovanni Domenico Spinola",
-            "pageView": 2918
-        },
-        {
-            "page": "Andrea Matteo Palmieri",
-            "pageView": 2703
-        },
-        {
-            "page": "Vincenzo Lanfranchi",
-            "pageView": 2516
-        },
-        {
-            "page": "Alfonso Mariconda",
-            "pageView": 2171
-        },
-        {
-            "page": "Giuseppe Chiummiento",
-            "pageView": 1959
+            "pageView": 3,
+            "total": 4239
         },
         {
             "page": "Domenico Picchinenna",
-            "pageView": 1766
+            "pageView": 3,
+            "total": 1769
         },
         {
-            "page": "Giovanni Trulles de Myra",
-            "pageView": 1659
+            "page": "Giovanni Domenico Spinola",
+            "pageView": 2,
+            "total": 2919
+        },
+        {
+            "page": "Alfonso Mariconda",
+            "pageView": 2,
+            "total": 2176
+        },
+        {
+            "page": "Diomede Falconio",
+            "pageView": 2,
+            "total": 3918
+        },
+        {
+            "page": "Giambattista Spinola (1615-1704)",
+            "pageView": 2,
+            "total": 3155
+        },
+        {
+            "page": "Giuseppe Chiummiento",
+            "pageView": 2,
+            "total": 1960
+        },
+        {
+            "page": "Mariano d'Acerenza",
+            "pageView": 2,
+            "total": 2968
+        },
+        {
+            "page": "Vincenzo Lanfranchi",
+            "pageView": 2,
+            "total": 2516
+        },
+        {
+            "page": "Andrea Matteo Palmieri",
+            "pageView": 2,
+            "total": 2703
+        },
+        {
+            "page": "Giovanni Michele Saraceni",
+            "pageView": 2,
+            "total": 3408
         },
         {
             "page": "Marino De Paulis",
-            "pageView": 1469
-        },
-        {
-            "page": "Gesualdo Nicola Loschirico",
-            "pageView": 1453
-        },
-        {
-            "page": "Giovanni Spilla",
-            "pageView": 1429
+            "pageView": 1,
+            "total": 1469
         },
         {
             "page": "Giusto di Acerenza",
-            "pageView": 1001
+            "pageView": 1,
+            "total": 1001
+        },
+        {
+            "page": "Giovanni Trulles de Myra",
+            "pageView": 1,
+            "total": 1661
+        },
+        {
+            "page": "Giovanni Spilla",
+            "pageView": 1,
+            "total": 1429
+        },
+        {
+            "page": "Gesualdo Nicola Loschirico",
+            "pageView": 1,
+            "total": 1454
         },
         {
             "page": "Porzia Montanaro",
-            "pageView": 756
+            "pageView": 0,
+            "total": 758
         }
     ]
 }

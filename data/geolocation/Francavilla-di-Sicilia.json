@@ -1,0 +1,27 @@
+{
+    "id": "place.13081469319226870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francavilla di Sicilia",
+    "place_name": "Francavilla di Sicilia, Messina, Italy",
+    "bbox": [
+        15.043391,
+        37.889315,
+        15.187422,
+        37.980005
+    ],
+    "center": [
+        15.13592,
+        37.90147
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.13592,
+            37.90147
+        ]
+    }
+}

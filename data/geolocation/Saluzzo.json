@@ -1,0 +1,27 @@
+{
+    "id": "place.9175367261109300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Saluzzo",
+    "place_name": "Saluzzo, Cuneo, Italy",
+    "bbox": [
+        7.43052,
+        44.607834,
+        7.548701,
+        44.759427
+    ],
+    "center": [
+        7.49056,
+        44.64528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.49056,
+            44.64528
+        ]
+    }
+}

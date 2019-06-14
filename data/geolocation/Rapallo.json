@@ -1,0 +1,27 @@
+{
+    "id": "place.13608230243926820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rapallo",
+    "place_name": "Rapallo, Genova, Italy",
+    "bbox": [
+        9.166037,
+        44.33435,
+        9.270044,
+        44.396808
+    ],
+    "center": [
+        9.23333,
+        44.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            44.35
+        ]
+    }
+}

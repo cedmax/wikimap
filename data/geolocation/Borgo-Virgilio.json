@@ -1,0 +1,27 @@
+{
+    "id": "place.15062138522239650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Virgilio",
+    "place_name": "Borgo Virgilio, Mantova, Italy",
+    "bbox": [
+        10.661063,
+        45.04029,
+        10.889558,
+        45.134493
+    ],
+    "center": [
+        10.75,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.75,
+            45.05
+        ]
+    }
+}

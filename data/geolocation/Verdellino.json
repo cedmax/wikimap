@@ -1,0 +1,27 @@
+{
+    "id": "place.15876306305476930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verdellino",
+    "place_name": "Verdellino, Bergamo, Italy",
+    "bbox": [
+        9.596364,
+        45.589434,
+        9.62398,
+        45.616871
+    ],
+    "center": [
+        9.60889,
+        45.60194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.60889,
+            45.60194
+        ]
+    }
+}

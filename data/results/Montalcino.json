@@ -3,63 +3,78 @@
     "people": [
         {
             "page": "Franco Biondi Santi",
-            "pageView": 16400
-        },
-        {
-            "page": "Antonio Buoncristiani",
-            "pageView": 15935
+            "pageView": 10,
+            "total": 16419
         },
         {
             "page": "Gaetano Bonicelli",
-            "pageView": 14849
+            "pageView": 9,
+            "total": 14868
+        },
+        {
+            "page": "Antonio Buoncristiani",
+            "pageView": 9,
+            "total": 15954
         },
         {
             "page": "Gobbo Saragiolo",
-            "pageView": 12896
+            "pageView": 5,
+            "total": 12900
         },
         {
             "page": "Giovan Battista Contini",
-            "pageView": 6758
-        },
-        {
-            "page": "Mario Jsmaele Castellano",
-            "pageView": 5975
+            "pageView": 4,
+            "total": 6760
         },
         {
             "page": "Agostino Fantastici",
-            "pageView": 4985
+            "pageView": 3,
+            "total": 4986
         },
         {
-            "page": "Giovanni Battista Belluzzi",
-            "pageView": 3763
-        },
-        {
-            "page": "Augusto Paolo Lojudice",
-            "pageView": 3006
+            "page": "Mario Jsmaele Castellano",
+            "pageView": 3,
+            "total": 5979
         },
         {
             "page": "Agostino Patrizi Piccolomini",
-            "pageView": 2581
+            "pageView": 2,
+            "total": 2604
+        },
+        {
+            "page": "Giovanni Battista Belluzzi",
+            "pageView": 2,
+            "total": 3765
         },
         {
             "page": "Mario Bandini Piccolomini",
-            "pageView": 2538
-        },
-        {
-            "page": "Antonio Bichi",
-            "pageView": 2381
-        },
-        {
-            "page": "Enrico Viti",
-            "pageView": 1938
+            "pageView": 2,
+            "total": 2542
         },
         {
             "page": "Federico Nomi",
-            "pageView": 1900
+            "pageView": 2,
+            "total": 1900
+        },
+        {
+            "page": "Antonio Bichi",
+            "pageView": 2,
+            "total": 2381
+        },
+        {
+            "page": "Enrico Viti",
+            "pageView": 1,
+            "total": 1940
         },
         {
             "page": "Pio Colombini",
-            "pageView": 1384
+            "pageView": 1,
+            "total": 1385
+        },
+        {
+            "page": "Augusto Paolo Lojudice",
+            "pageView": 0,
+            "total": 3044
         }
     ]
 }

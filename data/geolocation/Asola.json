@@ -1,0 +1,27 @@
+{
+    "id": "place.5965496187730780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asola",
+    "place_name": "Asola, Mantova, Italy",
+    "bbox": [
+        10.354703,
+        45.168795,
+        10.504951,
+        45.27392
+    ],
+    "center": [
+        10.41667,
+        45.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41667,
+            45.21667
+        ]
+    }
+}

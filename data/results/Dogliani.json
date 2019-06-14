@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Michele Ferrero",
-            "pageView": 675298
+            "pageView": 224.5,
+            "total": 675427
         },
         {
             "page": "Giulio Einaudi",
-            "pageView": 93384
-        },
-        {
-            "page": "Mario Einaudi",
-            "pageView": 9216
-        },
-        {
-            "page": "Giovanni Battista Borra",
-            "pageView": 4241
-        },
-        {
-            "page": "Giovanni Battista Schellino",
-            "pageView": 4184
+            "pageView": 53,
+            "total": 93442
         },
         {
             "page": "Piera Cillario",
-            "pageView": 3774
+            "pageView": 7,
+            "total": 3782
+        },
+        {
+            "page": "Mario Einaudi",
+            "pageView": 5,
+            "total": 9223
+        },
+        {
+            "page": "Giovanni Battista Borra",
+            "pageView": 3,
+            "total": 4243
         },
         {
             "page": "Ernesto Cappa",
-            "pageView": 3595
+            "pageView": 2,
+            "total": 3598
         },
         {
-            "page": "Celso Cesare Moreno",
-            "pageView": 2913
-        },
-        {
-            "page": "Giuseppe Gabetti (critico letterario)",
-            "pageView": 2344
-        },
-        {
-            "page": "Placido Cerri",
-            "pageView": 1663
+            "page": "Giovanni Battista Schellino",
+            "pageView": 2,
+            "total": 4185
         },
         {
             "page": "Giuseppe Ignazio Corte",
-            "pageView": 1289
+            "pageView": 2,
+            "total": 1290
+        },
+        {
+            "page": "Giuseppe Gabetti (critico letterario)",
+            "pageView": 2,
+            "total": 2348
+        },
+        {
+            "page": "Celso Cesare Moreno",
+            "pageView": 2,
+            "total": 2913
         },
         {
             "page": "Giovanni Tomatis",
-            "pageView": 1216
+            "pageView": 1,
+            "total": 1217
+        },
+        {
+            "page": "Placido Cerri",
+            "pageView": 1,
+            "total": 1663
         }
     ]
 }

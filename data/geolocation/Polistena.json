@@ -1,0 +1,27 @@
+{
+    "id": "place.1187024753060310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polistena",
+    "place_name": "Polistena, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.02457,
+        38.394395,
+        16.09412,
+        38.430358
+    ],
+    "center": [
+        16.06667,
+        38.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.06667,
+            38.4
+        ]
+    }
+}

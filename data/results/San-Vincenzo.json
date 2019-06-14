@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Walter Mazzarri",
-            "pageView": 565885
+            "pageView": 245,
+            "total": 566100
         },
         {
             "page": "Giampaolo Talani",
-            "pageView": 24387
+            "pageView": 11,
+            "total": 24393
         },
         {
             "page": "Loriano Cipriani",
-            "pageView": 9774
+            "pageView": 6,
+            "total": 9775
         },
         {
             "page": "Gino Cancellotti",
-            "pageView": 2380
+            "pageView": 2,
+            "total": 2382
         },
         {
             "page": "Fausto Giaccone",
-            "pageView": 119
+            "pageView": 0,
+            "total": 119
         }
     ]
 }

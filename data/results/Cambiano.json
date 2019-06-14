@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giacomo Grosso",
-            "pageView": 20934
+            "pageView": 12,
+            "total": 20940
         },
         {
             "page": "Mario Piovano",
-            "pageView": 12091
+            "pageView": 8,
+            "total": 12101
         },
         {
             "page": "Folco Portinari (saggista)",
-            "pageView": 6805
-        },
-        {
-            "page": "Lorenzo Martini",
-            "pageView": 4180
+            "pageView": 3,
+            "total": 6811
         },
         {
             "page": "Vincenzo Borgarello",
-            "pageView": 2676
+            "pageView": 2,
+            "total": 2677
         },
         {
             "page": "Graziella Ciaiolo",
-            "pageView": 2442
+            "pageView": 2,
+            "total": 2446
         },
         {
             "page": "Francesco Gaude",
-            "pageView": 1896
+            "pageView": 2,
+            "total": 1897
+        },
+        {
+            "page": "Lorenzo Martini",
+            "pageView": 2,
+            "total": 4184
         },
         {
             "page": "Piero Gribaudi",
-            "pageView": 1498
+            "pageView": 1,
+            "total": 1499
         }
     ]
 }

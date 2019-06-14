@@ -3,151 +3,188 @@
     "people": [
         {
             "page": "Lisa Gastoni",
-            "pageView": 204600
-        },
-        {
-            "page": "Ely Galleani",
-            "pageView": 71984
+            "pageView": 76,
+            "total": 204684
         },
         {
             "page": "Enrico Simonetti",
-            "pageView": 70140
+            "pageView": 32,
+            "total": 70164
+        },
+        {
+            "page": "Ely Galleani",
+            "pageView": 31,
+            "total": 72000
         },
         {
             "page": "Vittorio Ambrosio",
-            "pageView": 34915
-        },
-        {
-            "page": "Sergio Quinzio",
-            "pageView": 25921
+            "pageView": 22,
+            "total": 34945
         },
         {
             "page": "Luisella Berrino",
-            "pageView": 25099
+            "pageView": 16,
+            "total": 25137
         },
         {
-            "page": "Gibba",
-            "pageView": 17564
+            "page": "Sergio Quinzio",
+            "pageView": 16,
+            "total": 25941
         },
         {
             "page": "Mario Berrino",
-            "pageView": 17178
+            "pageView": 11,
+            "total": 17189
         },
         {
-            "page": "Ilario Calvo",
-            "pageView": 16601
+            "page": "Gibba",
+            "pageView": 9,
+            "total": 17569
         },
         {
             "page": "Luigi Gualco",
-            "pageView": 14198
-        },
-        {
-            "page": "Massimo Ienca",
-            "pageView": 11944
-        },
-        {
-            "page": "Ferenc Pinter",
-            "pageView": 11769
+            "pageView": 9,
+            "total": 14206
         },
         {
             "page": "Carlo Biotti",
-            "pageView": 9288
+            "pageView": 8,
+            "total": 9290
         },
         {
-            "page": "Mario Bonzano",
-            "pageView": 8268
+            "page": "Ferenc Pinter",
+            "pageView": 7,
+            "total": 11775
+        },
+        {
+            "page": "Ilario Calvo",
+            "pageView": 6,
+            "total": 16610
         },
         {
             "page": "Andrea Boscione",
-            "pageView": 7459
+            "pageView": 5,
+            "total": 7463
+        },
+        {
+            "page": "Mario Bonzano",
+            "pageView": 5,
+            "total": 8277
+        },
+        {
+            "page": "Massimo Ienca",
+            "pageView": 4,
+            "total": 11951
         },
         {
             "page": "Giulia Bogliolo Bruna",
-            "pageView": 3172
-        },
-        {
-            "page": "Ivo Brancaleoni",
-            "pageView": 2948
-        },
-        {
-            "page": "August Czartoryski",
-            "pageView": 2894
-        },
-        {
-            "page": "Antonio Negro (medico)",
-            "pageView": 2704
-        },
-        {
-            "page": "Leon Battista Gaburri",
-            "pageView": 2603
-        },
-        {
-            "page": "Daniele La Corte",
-            "pageView": 2459
-        },
-        {
-            "page": "Emanuele Boltri",
-            "pageView": 2203
-        },
-        {
-            "page": "Arrigo Fugassa",
-            "pageView": 2131
-        },
-        {
-            "page": "Marco Braghero",
-            "pageView": 2079
-        },
-        {
-            "page": "Stefano Martini",
-            "pageView": 1995
-        },
-        {
-            "page": "Max Onorari",
-            "pageView": 1755
-        },
-        {
-            "page": "Maria Teresa Cassini",
-            "pageView": 1667
-        },
-        {
-            "page": "Franco Rossi (hockeista su ghiaccio)",
-            "pageView": 1622
-        },
-        {
-            "page": "Giovanni Celesia di Vegliasco",
-            "pageView": 1600
-        },
-        {
-            "page": "Mario Fazio (giornalista)",
-            "pageView": 1548
-        },
-        {
-            "page": "Luigi Dodi (calciatore)",
-            "pageView": 1441
+            "pageView": 2,
+            "total": 3174
         },
         {
             "page": "Riccardo Scrivano",
-            "pageView": 1196
+            "pageView": 2,
+            "total": 1196
+        },
+        {
+            "page": "Marco Braghero",
+            "pageView": 2,
+            "total": 2079
+        },
+        {
+            "page": "August Czartoryski",
+            "pageView": 2,
+            "total": 2895
+        },
+        {
+            "page": "Antonio Negro (medico)",
+            "pageView": 2,
+            "total": 2705
+        },
+        {
+            "page": "Daniele La Corte",
+            "pageView": 2,
+            "total": 2461
+        },
+        {
+            "page": "Arrigo Fugassa",
+            "pageView": 2,
+            "total": 2132
+        },
+        {
+            "page": "Emanuele Boltri",
+            "pageView": 2,
+            "total": 2204
+        },
+        {
+            "page": "Leon Battista Gaburri",
+            "pageView": 2,
+            "total": 2607
+        },
+        {
+            "page": "Franco Rossi (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 1625
+        },
+        {
+            "page": "Stefano Martini",
+            "pageView": 2,
+            "total": 1997
+        },
+        {
+            "page": "Ivo Brancaleoni",
+            "pageView": 2,
+            "total": 2948
         },
         {
             "page": "Luciano Lanati",
-            "pageView": 1115
-        },
-        {
-            "page": "Zaccaria Treves",
-            "pageView": 1080
+            "pageView": 1,
+            "total": 1115
         },
         {
             "page": "David Leland (attore)",
-            "pageView": 1016
+            "pageView": 1,
+            "total": 1016
+        },
+        {
+            "page": "Zaccaria Treves",
+            "pageView": 1,
+            "total": 1081
+        },
+        {
+            "page": "Luigi Dodi (calciatore)",
+            "pageView": 1,
+            "total": 1443
+        },
+        {
+            "page": "Max Onorari",
+            "pageView": 1,
+            "total": 1756
+        },
+        {
+            "page": "Giovanni Celesia di Vegliasco",
+            "pageView": 1,
+            "total": 1600
+        },
+        {
+            "page": "Maria Teresa Cassini",
+            "pageView": 1,
+            "total": 1669
+        },
+        {
+            "page": "Mario Fazio (giornalista)",
+            "pageView": 1,
+            "total": 1548
         },
         {
             "page": "Agnes Börjesson",
-            "pageView": 584
+            "pageView": 0,
+            "total": 584
         },
         {
             "page": "Carlo Centurione Scotto (avvocato)",
-            "pageView": 444
+            "pageView": 0,
+            "total": 445
         }
     ]
 }

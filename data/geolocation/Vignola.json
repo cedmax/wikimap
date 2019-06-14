@@ -1,0 +1,27 @@
+{
+    "id": "place.9073508396407420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vignola",
+    "place_name": "Vignola, Modena, Italy",
+    "bbox": [
+        10.950905,
+        44.457337,
+        11.039829,
+        44.51059
+    ],
+    "center": [
+        11.00222,
+        44.48083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.00222,
+            44.48083
+        ]
+    }
+}

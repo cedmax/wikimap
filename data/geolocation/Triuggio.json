@@ -1,0 +1,27 @@
+{
+    "id": "place.15084133120071470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Triuggio",
+    "place_name": "Triuggio, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.252191,
+        45.647054,
+        9.298649,
+        45.686067
+    ],
+    "center": [
+        9.26667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.66667
+        ]
+    }
+}

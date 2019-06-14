@@ -1,0 +1,27 @@
+{
+    "id": "place.14123819037407780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sondalo",
+    "place_name": "Sondalo, Sondrio, Italy",
+    "bbox": [
+        10.265104,
+        46.29008,
+        10.476133,
+        46.390029
+    ],
+    "center": [
+        10.33333,
+        46.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.33333,
+            46.33333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11318577406677640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brisighella",
+    "place_name": "Brisighella, Ravenna, Italy",
+    "bbox": [
+        11.584239,
+        44.099445,
+        11.928945,
+        44.277962
+    ],
+    "center": [
+        11.76667,
+        44.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76667,
+            44.21667
+        ]
+    }
+}

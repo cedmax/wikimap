@@ -1,0 +1,27 @@
+{
+    "id": "place.13459454157451010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiari",
+    "place_name": "Chiari, Brescia, Italy",
+    "bbox": [
+        9.867047,
+        45.489513,
+        9.967546,
+        45.564645
+    ],
+    "center": [
+        9.88333,
+        45.51972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88333,
+            45.51972
+        ]
+    }
+}

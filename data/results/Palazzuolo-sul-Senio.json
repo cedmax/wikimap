@@ -2,28 +2,34 @@
     "name": "Palazzuolo sul Senio",
     "people": [
         {
+            "page": "Giovanni Nardi",
+            "pageView": 2,
+            "total": 1825
+        },
+        {
             "page": "Ernesto Caroli",
-            "pageView": 3104
+            "pageView": 2,
+            "total": 3110
         },
         {
             "page": "Fabrizio Fabbri (fumettista)",
-            "pageView": 2208
-        },
-        {
-            "page": "Giovanni Nardi",
-            "pageView": 1825
+            "pageView": 2,
+            "total": 2208
         },
         {
             "page": "Ezio Donatini",
-            "pageView": 1146
+            "pageView": 1,
+            "total": 1147
         },
         {
             "page": "Alvaro Lasi",
-            "pageView": 1090
+            "pageView": 1,
+            "total": 1091
         },
         {
             "page": "Libero Lossanti",
-            "pageView": 376
+            "pageView": 0,
+            "total": 379
         }
     ]
 }

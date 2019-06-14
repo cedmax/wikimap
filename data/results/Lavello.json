@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Corrado IV di Svevia",
-            "pageView": 78795
+            "pageView": 52,
+            "total": 78842
         },
         {
             "page": "Donato Carretta",
-            "pageView": 33478
-        },
-        {
-            "page": "Renata Attivissimo",
-            "pageView": 25281
+            "pageView": 15,
+            "total": 33500
         },
         {
             "page": "Marco Bisceglia",
-            "pageView": 21465
+            "pageView": 13,
+            "total": 21475
+        },
+        {
+            "page": "Renata Attivissimo",
+            "pageView": 11.5,
+            "total": 25295
         },
         {
             "page": "Angelo Tartaglia",
-            "pageView": 12133
+            "pageView": 8,
+            "total": 12142
         },
         {
             "page": "Francesco Antonio Pisicchio",
-            "pageView": 10308
+            "pageView": 6,
+            "total": 10334
         },
         {
             "page": "Sabino Altobello",
-            "pageView": 4985
-        },
-        {
-            "page": "Mauro Laus",
-            "pageView": 4604
-        },
-        {
-            "page": "Alberto Jacoviello",
-            "pageView": 3734
-        },
-        {
-            "page": "Mauro Pennacchio",
-            "pageView": 3014
+            "pageView": 3,
+            "total": 4988
         },
         {
             "page": "Giovanni Montano",
-            "pageView": 2019
+            "pageView": 2,
+            "total": 2022
         },
         {
-            "page": "Francesco Finiguerra",
-            "pageView": 1596
+            "page": "Alberto Jacoviello",
+            "pageView": 2,
+            "total": 3735
+        },
+        {
+            "page": "Mauro Pennacchio",
+            "pageView": 2,
+            "total": 3015
         },
         {
             "page": "Savino Cossidente",
-            "pageView": 1266
+            "pageView": 1,
+            "total": 1266
+        },
+        {
+            "page": "Francesco Finiguerra",
+            "pageView": 1,
+            "total": 1597
+        },
+        {
+            "page": "Mauro Laus",
+            "pageView": 0,
+            "total": 4612
         },
         {
             "page": "Pietro Prisco Guglielmucci",
-            "pageView": 299
+            "pageView": 0,
+            "total": 300
         }
     ]
 }

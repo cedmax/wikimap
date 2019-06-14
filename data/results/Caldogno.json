@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Roberto Baggio",
-            "pageView": 1966997
+            "pageView": 1023,
+            "total": 1968162
         },
         {
             "page": "Eddy Baggio",
-            "pageView": 104757
-        },
-        {
-            "page": "Elio Veller",
-            "pageView": 34374
+            "pageView": 58,
+            "total": 104819
         },
         {
             "page": "Marino Basso",
-            "pageView": 27716
+            "pageView": 15,
+            "total": 27723
+        },
+        {
+            "page": "Elio Veller",
+            "pageView": 15,
+            "total": 34389
         },
         {
             "page": "Dina Perbellini",
-            "pageView": 13639
+            "pageView": 7,
+            "total": 13644
         },
         {
             "page": "Marino Fontana",
-            "pageView": 2712
+            "pageView": 2,
+            "total": 2712
         }
     ]
 }

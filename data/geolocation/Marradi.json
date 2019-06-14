@@ -1,0 +1,27 @@
+{
+    "id": "place.15236703383795430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marradi",
+    "place_name": "Marradi, Firenze, Italy",
+    "bbox": [
+        11.498917,
+        43.990793,
+        11.753449,
+        44.12591
+    ],
+    "center": [
+        11.61667,
+        44.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            44.08333
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Renato Casarotto",
-            "pageView": 56416
+            "pageView": 33,
+            "total": 56462
         },
         {
             "page": "Bernardo Perin",
-            "pageView": 5053
+            "pageView": 3,
+            "total": 5056
         },
         {
             "page": "Romano Tumellero",
-            "pageView": 2511
+            "pageView": 2,
+            "total": 2512
         },
         {
             "page": "Alfredo Gregori",
-            "pageView": 1168
+            "pageView": 1,
+            "total": 1169
         },
         {
             "page": "Tullio Maruzzo",
-            "pageView": 1115
+            "pageView": 0,
+            "total": 1128
         }
     ]
 }

@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Giuseppe Piazzi",
-            "pageView": 28147
+            "pageView": 15,
+            "total": 28168
         },
         {
             "page": "Francesco Saverio Quadrio",
-            "pageView": 4141
+            "pageView": 3,
+            "total": 4145
         },
         {
             "page": "Libero Della Briotta",
-            "pageView": 3360
-        },
-        {
-            "page": "Paolo Camillo Landriani",
-            "pageView": 3262
+            "pageView": 2,
+            "total": 3364
         },
         {
             "page": "Enrico Guicciardi (senatore)",
-            "pageView": 2718
+            "pageView": 2,
+            "total": 2719
+        },
+        {
+            "page": "Paolo Camillo Landriani",
+            "pageView": 2,
+            "total": 3265
         },
         {
             "page": "Diego Pini",
-            "pageView": 2305
+            "pageView": 2,
+            "total": 2306
         }
     ]
 }

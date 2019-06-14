@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Aldo Bet",
-            "pageView": 47437
+            "pageView": 27,
+            "total": 47465
         },
         {
             "page": "Francesco Casagrande (calciatore)",
-            "pageView": 20269
+            "pageView": 13,
+            "total": 20287
         },
         {
             "page": "Domenico Cancian",
-            "pageView": 11464
+            "pageView": 7,
+            "total": 11468
         },
         {
             "page": "Bepi Ros",
-            "pageView": 9385
+            "pageView": 5,
+            "total": 9394
         },
         {
             "page": "Antonio Cancian",
-            "pageView": 6421
-        },
-        {
-            "page": "Gaudenzio Colla",
-            "pageView": 3789
+            "pageView": 4,
+            "total": 6424
         },
         {
             "page": "Luigi Candiani (architetto)",
-            "pageView": 2406
+            "pageView": 2,
+            "total": 2408
+        },
+        {
+            "page": "Gaudenzio Colla",
+            "pageView": 2,
+            "total": 3792
         },
         {
             "page": "Ernesto Ros",
-            "pageView": 2045
+            "pageView": 2,
+            "total": 2046
         },
         {
             "page": "Pietro Biffis",
-            "pageView": 1447
+            "pageView": 1,
+            "total": 1447
         }
     ]
 }

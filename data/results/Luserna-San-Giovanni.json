@@ -3,199 +3,248 @@
     "people": [
         {
             "page": "Davide Nicola",
-            "pageView": 316408
+            "pageView": 79.5,
+            "total": 316449
         },
         {
             "page": "Lucio Malan",
-            "pageView": 57273
-        },
-        {
-            "page": "Simona Sodini",
-            "pageView": 24313
+            "pageView": 26,
+            "total": 57337
         },
         {
             "page": "Federica Russo",
-            "pageView": 18632
+            "pageView": 11,
+            "total": 18665
         },
         {
             "page": "Enrico Morozzo Della Rocca",
-            "pageView": 14119
+            "pageView": 9,
+            "total": 14128
         },
         {
             "page": "Valentina Puglisi",
-            "pageView": 12299
+            "pageView": 7,
+            "total": 12329
         },
         {
             "page": "Fernando Cerchio",
-            "pageView": 11275
+            "pageView": 7,
+            "total": 11288
+        },
+        {
+            "page": "Simona Sodini",
+            "pageView": 6,
+            "total": 24326
         },
         {
             "page": "Achille Loria",
-            "pageView": 8170
+            "pageView": 5,
+            "total": 8171
         },
         {
             "page": "Tatiana Zorri",
-            "pageView": 6119
+            "pageView": 4,
+            "total": 6135
         },
         {
             "page": "Elisa Miniati",
-            "pageView": 5134
-        },
-        {
-            "page": "Silvia Pisano",
-            "pageView": 4713
-        },
-        {
-            "page": "Romina Pinna",
-            "pageView": 3854
-        },
-        {
-            "page": "Carlo Manfredi Luserna d'Angrogna",
-            "pageView": 3551
-        },
-        {
-            "page": "Alice Cama",
-            "pageView": 3105
-        },
-        {
-            "page": "Raffaella Barbieri",
-            "pageView": 2641
-        },
-        {
-            "page": "Giorgia Tudisco",
-            "pageView": 2526
-        },
-        {
-            "page": "Matilde Malatesta",
-            "pageView": 2403
-        },
-        {
-            "page": "Annalisa Favole",
-            "pageView": 2293
-        },
-        {
-            "page": "Erika Moretti",
-            "pageView": 2255
-        },
-        {
-            "page": "Silvia Vivirito",
-            "pageView": 2151
+            "pageView": 3,
+            "total": 5140
         },
         {
             "page": "Arthur Meille",
-            "pageView": 1943
-        },
-        {
-            "page": "Francesca Coluccio",
-            "pageView": 1939
-        },
-        {
-            "page": "Noemi Asteggiano",
-            "pageView": 1871
+            "pageView": 2,
+            "total": 1945
         },
         {
             "page": "Alessia D'Ancona",
-            "pageView": 1828
-        },
-        {
-            "page": "Veronica Cantoro",
-            "pageView": 1757
-        },
-        {
-            "page": "Bartolomeo Peyrot",
-            "pageView": 1739
-        },
-        {
-            "page": "Stefania Favole",
-            "pageView": 1729
-        },
-        {
-            "page": "Chiara Serafino",
-            "pageView": 1710
-        },
-        {
-            "page": "Federico Ghisi",
-            "pageView": 1679
-        },
-        {
-            "page": "Manuela Bosi",
-            "pageView": 1657
-        },
-        {
-            "page": "Jean Pierre Meille",
-            "pageView": 1624
-        },
-        {
-            "page": "Morena Spanu",
-            "pageView": 1619
-        },
-        {
-            "page": "Martino Durand Varese",
-            "pageView": 1593
-        },
-        {
-            "page": "Arturo Pascal",
-            "pageView": 1567
-        },
-        {
-            "page": "Giorgio Turin",
-            "pageView": 1507
-        },
-        {
-            "page": "Domenico Perrero",
-            "pageView": 1476
-        },
-        {
-            "page": "Carlotta Moscia",
-            "pageView": 1419
-        },
-        {
-            "page": "Francesca Mellano",
-            "pageView": 1377
+            "pageView": 2,
+            "total": 1829
         },
         {
             "page": "Alice Greppi",
-            "pageView": 1270
+            "pageView": 2,
+            "total": 1273
         },
         {
-            "page": "Roberto Jouvenal",
-            "pageView": 1235
+            "page": "Matilde Malatesta",
+            "pageView": 2,
+            "total": 2403
+        },
+        {
+            "page": "Francesca Mellano",
+            "pageView": 2,
+            "total": 1377
+        },
+        {
+            "page": "Erika Moretti",
+            "pageView": 2,
+            "total": 2256
+        },
+        {
+            "page": "Carlotta Moscia",
+            "pageView": 2,
+            "total": 1421
+        },
+        {
+            "page": "Romina Pinna",
+            "pageView": 2,
+            "total": 3857
+        },
+        {
+            "page": "Silvia Pisano",
+            "pageView": 2,
+            "total": 4728
+        },
+        {
+            "page": "Annalisa Favole",
+            "pageView": 2,
+            "total": 2295
+        },
+        {
+            "page": "Chiara Serafino",
+            "pageView": 2,
+            "total": 1711
+        },
+        {
+            "page": "Veronica Cantoro",
+            "pageView": 2,
+            "total": 1757
+        },
+        {
+            "page": "Giorgia Tudisco",
+            "pageView": 2,
+            "total": 2527
+        },
+        {
+            "page": "Silvia Vivirito",
+            "pageView": 2,
+            "total": 2151
+        },
+        {
+            "page": "Alice Cama",
+            "pageView": 2,
+            "total": 3110
+        },
+        {
+            "page": "Carlo Manfredi Luserna d'Angrogna",
+            "pageView": 2,
+            "total": 3552
+        },
+        {
+            "page": "Bartolomeo Peyrot",
+            "pageView": 2,
+            "total": 1741
+        },
+        {
+            "page": "Raffaella Barbieri",
+            "pageView": 2,
+            "total": 2646
         },
         {
             "page": "Erika Di Lascio",
-            "pageView": 1231
-        },
-        {
-            "page": "Sara Massarelli",
-            "pageView": 1200
-        },
-        {
-            "page": "Benedetta Mazzucchetti",
-            "pageView": 1118
-        },
-        {
-            "page": "Sonia Bianco",
-            "pageView": 1008
+            "pageView": 1,
+            "total": 1231
         },
         {
             "page": "Erica Falbo",
-            "pageView": 964
+            "pageView": 1,
+            "total": 964
         },
         {
-            "page": "Sara Tosetto",
-            "pageView": 860
+            "page": "Arturo Pascal",
+            "pageView": 1,
+            "total": 1567
+        },
+        {
+            "page": "Sara Massarelli",
+            "pageView": 1,
+            "total": 1200
+        },
+        {
+            "page": "Benedetta Mazzucchetti",
+            "pageView": 1,
+            "total": 1119
+        },
+        {
+            "page": "Federico Ghisi",
+            "pageView": 1,
+            "total": 1681
+        },
+        {
+            "page": "Giorgio Turin",
+            "pageView": 1,
+            "total": 1508
+        },
+        {
+            "page": "Francesca Coluccio",
+            "pageView": 1,
+            "total": 1941
+        },
+        {
+            "page": "Jean Pierre Meille",
+            "pageView": 1,
+            "total": 1624
+        },
+        {
+            "page": "Manuela Bosi",
+            "pageView": 1,
+            "total": 1658
+        },
+        {
+            "page": "Domenico Perrero",
+            "pageView": 1,
+            "total": 1476
         },
         {
             "page": "Vanessa Lavarone",
-            "pageView": 825
+            "pageView": 1,
+            "total": 826
         },
         {
-            "page": "Sergio Toja",
-            "pageView": 469
+            "page": "Sonia Bianco",
+            "pageView": 1,
+            "total": 1008
+        },
+        {
+            "page": "Martino Durand Varese",
+            "pageView": 1,
+            "total": 1593
+        },
+        {
+            "page": "Roberto Jouvenal",
+            "pageView": 1,
+            "total": 1236
+        },
+        {
+            "page": "Stefania Favole",
+            "pageView": 1,
+            "total": 1729
+        },
+        {
+            "page": "Morena Spanu",
+            "pageView": 1,
+            "total": 1619
+        },
+        {
+            "page": "Noemi Asteggiano",
+            "pageView": 1,
+            "total": 1871
+        },
+        {
+            "page": "Sara Tosetto",
+            "pageView": 1,
+            "total": 861
         },
         {
             "page": "Giulia Trapani",
-            "pageView": 227
+            "pageView": 0,
+            "total": 227
+        },
+        {
+            "page": "Sergio Toja",
+            "pageView": 0,
+            "total": 469
         }
     ]
 }

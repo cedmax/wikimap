@@ -3,59 +3,73 @@
     "people": [
         {
             "page": "Luigi Mastrangelo",
-            "pageView": 252945
+            "pageView": 59,
+            "total": 253010
         },
         {
             "page": "Michele Perniola",
-            "pageView": 60721
-        },
-        {
-            "page": "Antonella Palmisano",
-            "pageView": 29653
+            "pageView": 18,
+            "total": 60733
         },
         {
             "page": "Francesco Orlando (doppiatore)",
-            "pageView": 10639
+            "pageView": 7,
+            "total": 10645
+        },
+        {
+            "page": "Antonella Palmisano",
+            "pageView": 7,
+            "total": 29667
         },
         {
             "page": "Christian Caliandro",
-            "pageView": 4051
+            "pageView": 2,
+            "total": 4052
         },
         {
             "page": "Pietro Dalena",
-            "pageView": 3489
+            "pageView": 2,
+            "total": 3490
         },
         {
             "page": "Glicerio de Persona",
-            "pageView": 2286
-        },
-        {
-            "page": "Gaetano Semeraro",
-            "pageView": 1742
-        },
-        {
-            "page": "Oronzo Mario Scarano",
-            "pageView": 1506
-        },
-        {
-            "page": "Gervasio de Persona",
-            "pageView": 1242
+            "pageView": 2,
+            "total": 2288
         },
         {
             "page": "Biagio Antonio Copeti",
-            "pageView": 1197
+            "pageView": 1,
+            "total": 1197
         },
         {
             "page": "Pietro Modoliense",
-            "pageView": 721
+            "pageView": 1,
+            "total": 721
         },
         {
-            "page": "Michele Palmieri",
-            "pageView": 485
+            "page": "Gervasio de Persona",
+            "pageView": 1,
+            "total": 1242
+        },
+        {
+            "page": "Gaetano Semeraro",
+            "pageView": 1,
+            "total": 1743
+        },
+        {
+            "page": "Oronzo Mario Scarano",
+            "pageView": 1,
+            "total": 1507
         },
         {
             "page": "Pier Paolo Mastrilli",
-            "pageView": 306
+            "pageView": 0,
+            "total": 306
+        },
+        {
+            "page": "Michele Palmieri",
+            "pageView": 0,
+            "total": 486
         }
     ]
 }

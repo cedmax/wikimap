@@ -3,163 +3,203 @@
     "people": [
         {
             "page": "Anton Bernard",
-            "pageView": 5071
-        },
-        {
-            "page": "Andreas Bernard",
-            "pageView": 4610
-        },
-        {
-            "page": "Paolo Bustreo",
-            "pageView": 3947
-        },
-        {
-            "page": "Alex Caffi (hockeista su ghiaccio)",
-            "pageView": 3673
-        },
-        {
-            "page": "Luigi Lorenzetti",
-            "pageView": 3309
-        },
-        {
-            "page": "Nick Bonino",
-            "pageView": 3303
-        },
-        {
-            "page": "Dominic Perna",
-            "pageView": 3299
-        },
-        {
-            "page": "Armando Chelodi",
-            "pageView": 3221
-        },
-        {
-            "page": "Thomas Tragust",
-            "pageView": 2414
+            "pageView": 3,
+            "total": 5072
         },
         {
             "page": "Massimo Da Rin",
-            "pageView": 2366
+            "pageView": 2,
+            "total": 2371
         },
         {
-            "page": "Alex Frei",
-            "pageView": 2268
+            "page": "Luigi Lorenzetti",
+            "pageView": 2,
+            "total": 3310
         },
         {
-            "page": "Federico Gilmozzi",
-            "pageView": 2124
-        },
-        {
-            "page": "Enrico Chelodi",
-            "pageView": 1936
-        },
-        {
-            "page": "Enrico Dorigatti",
-            "pageView": 1780
-        },
-        {
-            "page": "Franz Josef Plankl",
-            "pageView": 1672
+            "page": "Andreas Bernard",
+            "pageView": 2,
+            "total": 4613
         },
         {
             "page": "Camillo Zancani",
-            "pageView": 1553
+            "pageView": 2,
+            "total": 1554
         },
         {
-            "page": "Stefano Margoni",
-            "pageView": 1509
+            "page": "Nick Bonino",
+            "pageView": 2,
+            "total": 3305
         },
         {
-            "page": "Martin Rizzi",
-            "pageView": 1455
+            "page": "Thomas Tragust",
+            "pageView": 2,
+            "total": 2414
         },
         {
-            "page": "Michael Sullmann",
-            "pageView": 1453
+            "page": "Dominic Perna",
+            "pageView": 2,
+            "total": 3302
         },
         {
-            "page": "Flavio Faggioni",
-            "pageView": 1448
+            "page": "Paolo Bustreo",
+            "pageView": 2,
+            "total": 3949
         },
         {
-            "page": "Peter Wunderer",
-            "pageView": 1418
+            "page": "Alex Caffi (hockeista su ghiaccio)",
+            "pageView": 2,
+            "total": 3675
         },
         {
-            "page": "Rudi Locatin",
-            "pageView": 1347
+            "page": "Federico Gilmozzi",
+            "pageView": 2,
+            "total": 2124
         },
         {
-            "page": "Michele Ciresa",
-            "pageView": 1326
+            "page": "Armando Chelodi",
+            "pageView": 2,
+            "total": 3226
         },
         {
-            "page": "Alexander Thaler",
-            "pageView": 1246
+            "page": "Enrico Chelodi",
+            "pageView": 2,
+            "total": 1938
         },
         {
-            "page": "Tuomo Harjula",
-            "pageView": 1179
-        },
-        {
-            "page": "Massimo Camin",
-            "pageView": 1169
-        },
-        {
-            "page": "Robert Wilson (hockeista su ghiaccio)",
-            "pageView": 1113
+            "page": "Alex Frei",
+            "pageView": 2,
+            "total": 2270
         },
         {
             "page": "Daniele Delladio",
-            "pageView": 1094
+            "pageView": 1,
+            "total": 1094
         },
         {
-            "page": "Karl Vaja",
-            "pageView": 1078
+            "page": "Rudi Locatin",
+            "pageView": 1,
+            "total": 1348
         },
         {
-            "page": "Daniel Morandell",
-            "pageView": 997
+            "page": "Flavio Faggioni",
+            "pageView": 1,
+            "total": 1449
         },
         {
-            "page": "Alexander Sullmann",
-            "pageView": 888
+            "page": "Michele Ciresa",
+            "pageView": 1,
+            "total": 1327
         },
         {
-            "page": "Omar Zanon",
-            "pageView": 847
-        },
-        {
-            "page": "Christian Willeit",
-            "pageView": 675
-        },
-        {
-            "page": "Sandro Canestrini",
-            "pageView": 660
+            "page": "Massimo Camin",
+            "pageView": 1,
+            "total": 1170
         },
         {
             "page": "Zdeněk Kudrna (hockeista su ghiaccio)",
-            "pageView": 645
+            "pageView": 1,
+            "total": 645
         },
         {
-            "page": "Luca Mattivi",
-            "pageView": 570
+            "page": "Tuomo Harjula",
+            "pageView": 1,
+            "total": 1179
+        },
+        {
+            "page": "Stefano Margoni",
+            "pageView": 1,
+            "total": 1509
+        },
+        {
+            "page": "Robert Wilson (hockeista su ghiaccio)",
+            "pageView": 1,
+            "total": 1113
+        },
+        {
+            "page": "Daniel Morandell",
+            "pageView": 1,
+            "total": 997
+        },
+        {
+            "page": "Karl Vaja",
+            "pageView": 1,
+            "total": 1081
+        },
+        {
+            "page": "Franz Josef Plankl",
+            "pageView": 1,
+            "total": 1673
+        },
+        {
+            "page": "Martin Rizzi",
+            "pageView": 1,
+            "total": 1455
+        },
+        {
+            "page": "Enrico Dorigatti",
+            "pageView": 1,
+            "total": 1780
+        },
+        {
+            "page": "Alexander Sullmann",
+            "pageView": 1,
+            "total": 889
+        },
+        {
+            "page": "Michael Sullmann",
+            "pageView": 1,
+            "total": 1453
+        },
+        {
+            "page": "Alexander Thaler",
+            "pageView": 1,
+            "total": 1247
+        },
+        {
+            "page": "Omar Zanon",
+            "pageView": 1,
+            "total": 847
+        },
+        {
+            "page": "Peter Wunderer",
+            "pageView": 1,
+            "total": 1418
+        },
+        {
+            "page": "Christian Willeit",
+            "pageView": 1,
+            "total": 675
         },
         {
             "page": "David Vrbata",
-            "pageView": 500
+            "pageView": 0,
+            "total": 500
         },
         {
             "page": "Jaroslav Brabec (hockeista su ghiaccio)",
-            "pageView": 319
+            "pageView": 0,
+            "total": 319
+        },
+        {
+            "page": "Sandro Canestrini",
+            "pageView": 0,
+            "total": 663
         },
         {
             "page": "Kamil Brabenec (hockeista su ghiaccio)",
-            "pageView": 316
+            "pageView": 0,
+            "total": 316
+        },
+        {
+            "page": "Luca Mattivi",
+            "pageView": 0,
+            "total": 571
         },
         {
             "page": "David Stricker",
-            "pageView": 223
+            "pageView": 0,
+            "total": 224
         }
     ]
 }

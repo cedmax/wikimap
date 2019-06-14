@@ -3,155 +3,193 @@
     "people": [
         {
             "page": "Alberto Paloschi",
-            "pageView": 614320
+            "pageView": 266,
+            "total": 614555
         },
         {
             "page": "Mauro Pagani",
-            "pageView": 231937
-        },
-        {
-            "page": "Mattia Mustacchio",
-            "pageView": 67794
+            "pageView": 113,
+            "total": 232082
         },
         {
             "page": "Alex Pinardi",
-            "pageView": 58007
+            "pageView": 34,
+            "total": 58022
+        },
+        {
+            "page": "Mattia Mustacchio",
+            "pageView": 31,
+            "total": 67830
         },
         {
             "page": "Luigi Scaglia",
-            "pageView": 46093
+            "pageView": 16,
+            "total": 46102
         },
         {
             "page": "Edoardo Lancini",
-            "pageView": 14755
+            "pageView": 10,
+            "total": 14771
         },
         {
             "page": "Tancredi Falletti di Barolo",
-            "pageView": 10660
+            "pageView": 7,
+            "total": 10662
         },
         {
             "page": "Stefano Vietti",
-            "pageView": 8269
+            "pageView": 5,
+            "total": 8270
         },
         {
             "page": "Luigi Martinelli",
-            "pageView": 7939
-        },
-        {
-            "page": "Battista Festa",
-            "pageView": 6286
+            "pageView": 5,
+            "total": 7946
         },
         {
             "page": "Silvana Mura",
-            "pageView": 6189
+            "pageView": 4,
+            "total": 6191
+        },
+        {
+            "page": "Battista Festa",
+            "pageView": 4,
+            "total": 6290
         },
         {
             "page": "Stefano Bono",
-            "pageView": 5776
-        },
-        {
-            "page": "Lodovico Mazzotti",
-            "pageView": 5328
-        },
-        {
-            "page": "Mara Galeazzi",
-            "pageView": 3916
+            "pageView": 4,
+            "total": 5782
         },
         {
             "page": "Davide Gozzini",
-            "pageView": 3834
+            "pageView": 3,
+            "total": 3843
         },
         {
-            "page": "Domenico Menna",
-            "pageView": 3113
+            "page": "Lodovico Mazzotti",
+            "pageView": 3,
+            "total": 5332
         },
         {
-            "page": "Bernardino Varisco",
-            "pageView": 2955
-        },
-        {
-            "page": "Giuseppe Tortelli",
-            "pageView": 2782
-        },
-        {
-            "page": "Stefano Antonio Morcelli",
-            "pageView": 2708
-        },
-        {
-            "page": "Claudio Corioni",
-            "pageView": 2486
-        },
-        {
-            "page": "Federico Palazzoli",
-            "pageView": 2348
-        },
-        {
-            "page": "Sergio Facchi",
-            "pageView": 2286
-        },
-        {
-            "page": "Giovanni Battista Rota",
-            "pageView": 2215
+            "page": "Mara Galeazzi",
+            "pageView": 3,
+            "total": 3919
         },
         {
             "page": "Romeo Bosetti",
-            "pageView": 2205
-        },
-        {
-            "page": "Clemente Zamara",
-            "pageView": 2170
-        },
-        {
-            "page": "Gabriele Rangone",
-            "pageView": 2029
-        },
-        {
-            "page": "Ferdinando Cavalli",
-            "pageView": 1968
+            "pageView": 2,
+            "total": 2205
         },
         {
             "page": "Carlo Capra (musicista)",
-            "pageView": 1924
+            "pageView": 2,
+            "total": 1924
         },
         {
-            "page": "Luigi Lorini",
-            "pageView": 1737
+            "page": "Giovanni Battista Rota",
+            "pageView": 2,
+            "total": 2215
         },
         {
-            "page": "Giovita Ravizza",
-            "pageView": 1672
+            "page": "Ferdinando Cavalli",
+            "pageView": 2,
+            "total": 1968
         },
         {
-            "page": "Angelo Bocchi",
-            "pageView": 1599
+            "page": "Gabriele Rangone",
+            "pageView": 2,
+            "total": 2030
         },
         {
-            "page": "Augusto Stella",
-            "pageView": 1567
+            "page": "Claudio Corioni",
+            "pageView": 2,
+            "total": 2487
         },
         {
-            "page": "Fausto Sabeo",
-            "pageView": 1530
+            "page": "Domenico Menna",
+            "pageView": 2,
+            "total": 3116
         },
         {
-            "page": "Giovanni Mazzotti Biancinelli",
-            "pageView": 1234
+            "page": "Sergio Facchi",
+            "pageView": 2,
+            "total": 2288
         },
         {
-            "page": "Nino Piccinelli",
-            "pageView": 1056
+            "page": "Bernardino Varisco",
+            "pageView": 2,
+            "total": 2956
         },
         {
-            "page": "Stefano Ghebelino",
-            "pageView": 889
+            "page": "Clemente Zamara",
+            "pageView": 2,
+            "total": 2170
+        },
+        {
+            "page": "Federico Palazzoli",
+            "pageView": 2,
+            "total": 2350
+        },
+        {
+            "page": "Giuseppe Tortelli",
+            "pageView": 2,
+            "total": 2784
+        },
+        {
+            "page": "Stefano Antonio Morcelli",
+            "pageView": 2,
+            "total": 2713
         },
         {
             "page": "Angelo Manzini",
-            "pageView": 731
+            "pageView": 1,
+            "total": 731
+        },
+        {
+            "page": "Giovita Ravizza",
+            "pageView": 1,
+            "total": 1674
+        },
+        {
+            "page": "Luigi Lorini",
+            "pageView": 1,
+            "total": 1737
+        },
+        {
+            "page": "Fausto Sabeo",
+            "pageView": 1,
+            "total": 1530
+        },
+        {
+            "page": "Stefano Ghebelino",
+            "pageView": 1,
+            "total": 889
+        },
+        {
+            "page": "Augusto Stella",
+            "pageView": 1,
+            "total": 1568
+        },
+        {
+            "page": "Angelo Bocchi",
+            "pageView": 1,
+            "total": 1599
+        },
+        {
+            "page": "Giovanni Mazzotti Biancinelli",
+            "pageView": 1,
+            "total": 1234
+        },
+        {
+            "page": "Nino Piccinelli",
+            "pageView": 0,
+            "total": 1061
         },
         {
             "page": "Andrea Garosio",
-            "pageView": 430
+            "pageView": 0,
+            "total": 436
         }
     ]
 }

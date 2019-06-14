@@ -2,20 +2,24 @@
     "name": "Lorenzago di Cadore",
     "people": [
         {
-            "page": "Giovanni De Donà",
-            "pageView": 4386
-        },
-        {
-            "page": "Bortolo Mainardi",
-            "pageView": 3611
+            "page": "Aldo De Vidal",
+            "pageView": 2,
+            "total": 1927
         },
         {
             "page": "Giuseppe Cadorin",
-            "pageView": 2574
+            "pageView": 2,
+            "total": 2574
         },
         {
-            "page": "Aldo De Vidal",
-            "pageView": 1926
+            "page": "Giovanni De Donà",
+            "pageView": 2,
+            "total": 4386
+        },
+        {
+            "page": "Bortolo Mainardi",
+            "pageView": 2,
+            "total": 3612
         }
     ]
 }

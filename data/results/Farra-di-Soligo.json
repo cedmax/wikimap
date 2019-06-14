@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Gherardo III da Camino",
-            "pageView": 11591
+            "pageView": 5,
+            "total": 11597
         },
         {
             "page": "Guido De Rosso",
-            "pageView": 7925
+            "pageView": 5,
+            "total": 7925
         },
         {
             "page": "Antonio De Rosso",
-            "pageView": 6286
+            "pageView": 4,
+            "total": 6289
         },
         {
             "page": "Graziano Girardi",
-            "pageView": 3096
+            "pageView": 2,
+            "total": 3099
         },
         {
             "page": "Mansueto Viezzer",
-            "pageView": 2419
+            "pageView": 2,
+            "total": 2420
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.11154592524917800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lesmo",
+    "place_name": "Lesmo, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.287699,
+        45.630675,
+        9.323846,
+        45.661849
+    ],
+    "center": [
+        9.31667,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.65
+        ]
+    }
+}

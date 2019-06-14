@@ -1,0 +1,29 @@
+{
+    "id": "place.12277231283987590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Terzo d'Aquileia",
+    "place_name": "Terzo d'Aquileia, Udine, Italy",
+    "matching_text": "Terzo di Aquileia",
+    "matching_place_name": "Terzo di Aquileia, Udine, Italy",
+    "bbox": [
+        13.250063,
+        45.750118,
+        13.372708,
+        45.81165
+    ],
+    "center": [
+        13.33333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.33333,
+            45.8
+        ]
+    }
+}

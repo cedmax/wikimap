@@ -1,0 +1,27 @@
+{
+    "id": "place.16488085040990220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tortorici",
+    "place_name": "Tortorici, Messina, Italy",
+    "bbox": [
+        14.783948,
+        37.926216,
+        14.880932,
+        38.058825
+    ],
+    "center": [
+        14.82417,
+        38.03083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.82417,
+            38.03083
+        ]
+    }
+}

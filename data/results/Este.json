@@ -3,223 +3,278 @@
     "people": [
         {
             "page": "Kevin Lasagna",
-            "pageView": 547833
+            "pageView": 164,
+            "total": 547975
         },
         {
             "page": "Emiliano Bonazzoli",
-            "pageView": 133667
+            "pageView": 68,
+            "total": 133942
         },
         {
             "page": "Rey Volpato",
-            "pageView": 53094
-        },
-        {
-            "page": "Pietro De Giorgio",
-            "pageView": 50780
-        },
-        {
-            "page": "Antonio Corradini",
-            "pageView": 46960
-        },
-        {
-            "page": "Nicola Zanini",
-            "pageView": 35529
-        },
-        {
-            "page": "Giorgio Sterchele",
-            "pageView": 33906
-        },
-        {
-            "page": "Daniel Adejo",
-            "pageView": 30087
+            "pageView": 30,
+            "total": 53112
         },
         {
             "page": "Andrea Beghetto",
-            "pageView": 24606
+            "pageView": 30,
+            "total": 24623
+        },
+        {
+            "page": "Antonio Corradini",
+            "pageView": 30,
+            "total": 46975
+        },
+        {
+            "page": "Giorgio Sterchele",
+            "pageView": 22,
+            "total": 33920
+        },
+        {
+            "page": "Pietro De Giorgio",
+            "pageView": 22,
+            "total": 50788
+        },
+        {
+            "page": "Nicola Zanini",
+            "pageView": 19,
+            "total": 35545
+        },
+        {
+            "page": "Daniel Adejo",
+            "pageView": 14,
+            "total": 30099
         },
         {
             "page": "Enrica Merlo",
-            "pageView": 23130
-        },
-        {
-            "page": "Francesca Businarolo",
-            "pageView": 17832
+            "pageView": 11,
+            "total": 23140
         },
         {
             "page": "Gaetano Callido",
-            "pageView": 16910
+            "pageView": 11,
+            "total": 16918
         },
         {
             "page": "Andrea Bergamo",
-            "pageView": 15780
+            "pageView": 10,
+            "total": 15789
         },
         {
             "page": "Azzo VIII d'Este",
-            "pageView": 14247
-        },
-        {
-            "page": "Denis André Dasoul",
-            "pageView": 12790
-        },
-        {
-            "page": "Liam Bertazzo",
-            "pageView": 10306
-        },
-        {
-            "page": "Obizzo I d'Este",
-            "pageView": 9269
-        },
-        {
-            "page": "Filippo Maria Bressan",
-            "pageView": 9215
-        },
-        {
-            "page": "Antonio Zanchi",
-            "pageView": 8859
-        },
-        {
-            "page": "Gianluca Zattarin",
-            "pageView": 8843
-        },
-        {
-            "page": "Concetto Pettinato",
-            "pageView": 8828
-        },
-        {
-            "page": "Roberto Furlan",
-            "pageView": 7619
-        },
-        {
-            "page": "Luciano Limena",
-            "pageView": 7594
-        },
-        {
-            "page": "Giuseppe Farinelli",
-            "pageView": 6748
-        },
-        {
-            "page": "Alessandro Prosdocimi",
-            "pageView": 6651
-        },
-        {
-            "page": "Paolo Deganello",
-            "pageView": 6220
-        },
-        {
-            "page": "Dan Thomassen",
-            "pageView": 6178
-        },
-        {
-            "page": "Giacomo Colombo (artista)",
-            "pageView": 5899
-        },
-        {
-            "page": "Omar Bertazzo",
-            "pageView": 5803
+            "pageView": 9,
+            "total": 14254
         },
         {
             "page": "Gianni Manfrin",
-            "pageView": 4926
+            "pageView": 6,
+            "total": 4930
         },
         {
-            "page": "Stefania Piazzo",
-            "pageView": 3886
+            "page": "Antonio Zanchi",
+            "pageView": 6,
+            "total": 8869
         },
         {
-            "page": "Silvio Barbieri",
-            "pageView": 3596
+            "page": "Obizzo I d'Este",
+            "pageView": 6,
+            "total": 9290
         },
         {
-            "page": "Lauro Pomaro",
-            "pageView": 3417
+            "page": "Francesca Businarolo",
+            "pageView": 6,
+            "total": 17856
         },
         {
-            "page": "Taddeo d'Este",
-            "pageView": 3391
+            "page": "Concetto Pettinato",
+            "pageView": 5,
+            "total": 8830
         },
         {
-            "page": "Mario Argenton",
-            "pageView": 3363
+            "page": "Luciano Limena",
+            "pageView": 5,
+            "total": 7596
         },
         {
-            "page": "Francesca Pattaro",
-            "pageView": 2695
+            "page": "Gianluca Zattarin",
+            "pageView": 5,
+            "total": 8847
         },
         {
-            "page": "Nicola Gennaro",
-            "pageView": 2474
+            "page": "Roberto Furlan",
+            "pageView": 5,
+            "total": 7623
         },
         {
-            "page": "Massimo Graziato",
-            "pageView": 2287
-        },
-        {
-            "page": "Claudio Casacci",
-            "pageView": 2278
-        },
-        {
-            "page": "Rino Guglielmo",
-            "pageView": 2259
-        },
-        {
-            "page": "Gino Cortelazzo",
-            "pageView": 2241
+            "page": "Liam Bertazzo",
+            "pageView": 5,
+            "total": 10308
         },
         {
             "page": "Piergiorgio Cortelazzo",
-            "pageView": 2101
+            "pageView": 5,
+            "total": 2126
+        },
+        {
+            "page": "Giacomo Colombo (artista)",
+            "pageView": 4,
+            "total": 5901
+        },
+        {
+            "page": "Dan Thomassen",
+            "pageView": 4,
+            "total": 6181
+        },
+        {
+            "page": "Paolo Deganello",
+            "pageView": 4,
+            "total": 6222
+        },
+        {
+            "page": "Filippo Maria Bressan",
+            "pageView": 4,
+            "total": 9222
+        },
+        {
+            "page": "Giuseppe Farinelli",
+            "pageView": 4,
+            "total": 6751
+        },
+        {
+            "page": "Stefania Piazzo",
+            "pageView": 3,
+            "total": 3888
+        },
+        {
+            "page": "Omar Bertazzo",
+            "pageView": 3,
+            "total": 5805
+        },
+        {
+            "page": "Denis André Dasoul",
+            "pageView": 3,
+            "total": 12791
+        },
+        {
+            "page": "Lauro Pomaro",
+            "pageView": 2,
+            "total": 3418
+        },
+        {
+            "page": "Rino Guglielmo",
+            "pageView": 2,
+            "total": 2260
         },
         {
             "page": "Bertoldo II d'Este",
-            "pageView": 2021
+            "pageView": 2,
+            "total": 2022
         },
         {
-            "page": "Nicolò Franco (vescovo)",
-            "pageView": 1923
+            "page": "Gino Cortelazzo",
+            "pageView": 2,
+            "total": 2241
         },
         {
-            "page": "Vincenzo Scarpa",
-            "pageView": 1648
+            "page": "Alessandro Prosdocimi",
+            "pageView": 2,
+            "total": 6654
+        },
+        {
+            "page": "Francesca Pattaro",
+            "pageView": 2,
+            "total": 2697
+        },
+        {
+            "page": "Claudio Casacci",
+            "pageView": 2,
+            "total": 2279
         },
         {
             "page": "Maria Cengia Sambo",
-            "pageView": 1603
+            "pageView": 2,
+            "total": 1605
         },
         {
-            "page": "Francesco Pavanello",
-            "pageView": 1279
+            "page": "Nicola Gennaro",
+            "pageView": 2,
+            "total": 2475
+        },
+        {
+            "page": "Massimo Graziato",
+            "pageView": 2,
+            "total": 2289
+        },
+        {
+            "page": "Mario Argenton",
+            "pageView": 2,
+            "total": 3370
+        },
+        {
+            "page": "Silvio Barbieri",
+            "pageView": 2,
+            "total": 3600
+        },
+        {
+            "page": "Taddeo d'Este",
+            "pageView": 2,
+            "total": 3395
         },
         {
             "page": "Mario Malagoli",
-            "pageView": 1192
+            "pageView": 1,
+            "total": 1192
+        },
+        {
+            "page": "Nicolò Franco (vescovo)",
+            "pageView": 1,
+            "total": 1923
+        },
+        {
+            "page": "Vincenzo Scarpa",
+            "pageView": 1,
+            "total": 1648
         },
         {
             "page": "Giovanni Pietro Varion",
-            "pageView": 1145
+            "pageView": 1,
+            "total": 1145
         },
         {
-            "page": "Domenico Coletti",
-            "pageView": 954
+            "page": "Francesco Pavanello",
+            "pageView": 1,
+            "total": 1280
         },
         {
             "page": "Antonio Guariento",
-            "pageView": 807
+            "pageView": 1,
+            "total": 808
         },
         {
-            "page": "Angelo Scarabello",
-            "pageView": 769
-        },
-        {
-            "page": "Alberto Riccoboni",
-            "pageView": 478
+            "page": "Domenico Coletti",
+            "pageView": 1,
+            "total": 954
         },
         {
             "page": "Franca Capetta",
-            "pageView": 391
+            "pageView": 0,
+            "total": 391
+        },
+        {
+            "page": "Alberto Riccoboni",
+            "pageView": 0,
+            "total": 490
+        },
+        {
+            "page": "Angelo Scarabello",
+            "pageView": 0,
+            "total": 769
         },
         {
             "page": "Gastone Parigi",
-            "pageView": 327
+            "pageView": 0,
+            "total": 329
         }
     ]
 }

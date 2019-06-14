@@ -1,0 +1,27 @@
+{
+    "id": "place.12525696560069220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brenzone sul Garda",
+    "place_name": "Brenzone sul Garda, Verona, Italy",
+    "bbox": [
+        10.692913,
+        45.654606,
+        10.832343,
+        45.741955
+    ],
+    "center": [
+        10.76667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76667,
+            45.7
+        ]
+    }
+}

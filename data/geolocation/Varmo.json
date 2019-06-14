@@ -1,0 +1,27 @@
+{
+    "id": "place.8971846952241680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varmo",
+    "place_name": "Varmo, Udine, Italy",
+    "bbox": [
+        12.948467,
+        45.823608,
+        13.041251,
+        45.923344
+    ],
+    "center": [
+        12.98333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98333,
+            45.88333
+        ]
+    }
+}

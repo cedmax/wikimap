@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Pier Francesco Guarguaglini",
-            "pageView": 12947
+            "pageView": 8,
+            "total": 12958
         },
         {
             "page": "Arsenio Frugoni",
-            "pageView": 7993
-        },
-        {
-            "page": "Maleno Malenotti",
-            "pageView": 5735
-        },
-        {
-            "page": "Gilla Vincenzo Gremigni",
-            "pageView": 5564
+            "pageView": 5,
+            "total": 7998
         },
         {
             "page": "Anelito Barontini",
-            "pageView": 3825
+            "pageView": 3,
+            "total": 3827
         },
         {
-            "page": "Cheikh Sarr",
-            "pageView": 3566
+            "page": "Gilla Vincenzo Gremigni",
+            "pageView": 3,
+            "total": 5566
         },
         {
-            "page": "Augusto Tiezzi",
-            "pageView": 1846
-        },
-        {
-            "page": "Ersilio Ambrogi",
-            "pageView": 1809
+            "page": "Maleno Malenotti",
+            "pageView": 3,
+            "total": 5738
         },
         {
             "page": "Aldo Matteotti",
-            "pageView": 1252
+            "pageView": 2,
+            "total": 1260
+        },
+        {
+            "page": "Cheikh Sarr",
+            "pageView": 2,
+            "total": 3566
+        },
+        {
+            "page": "Augusto Tiezzi",
+            "pageView": 2,
+            "total": 1848
+        },
+        {
+            "page": "Ersilio Ambrogi",
+            "pageView": 1.5,
+            "total": 1813
         }
     ]
 }

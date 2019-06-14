@@ -1,0 +1,27 @@
+{
+    "id": "place.4937574008131640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verbania",
+    "place_name": "Verbania, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.441959,
+        45.900794,
+        8.607416,
+        45.973215
+    ],
+    "center": [
+        8.53333,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.53333,
+            45.93333
+        ]
+    }
+}

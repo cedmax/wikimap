@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Fabio Enzo",
-            "pageView": 15800
+            "pageView": 10,
+            "total": 15805
         },
         {
             "page": "Beniamino Pizziol",
-            "pageView": 15776
+            "pageView": 10,
+            "total": 15781
         },
         {
             "page": "Giacomo Vianello",
-            "pageView": 6177
-        },
-        {
-            "page": "Danilo Mayer",
-            "pageView": 4745
+            "pageView": 4,
+            "total": 6178
         },
         {
             "page": "Bruno Mayer",
-            "pageView": 4661
+            "pageView": 3,
+            "total": 4664
+        },
+        {
+            "page": "Danilo Mayer",
+            "pageView": 3,
+            "total": 4748
         },
         {
             "page": "Almiro Bergamo",
-            "pageView": 1591
+            "pageView": 1,
+            "total": 1594
         },
         {
             "page": "Guido Santin",
-            "pageView": 1473
+            "pageView": 1,
+            "total": 1476
         }
     ]
 }

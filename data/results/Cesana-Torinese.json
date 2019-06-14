@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Francesco Chiaffredo Marini",
-            "pageView": 2152
+            "pageView": 2,
+            "total": 2153
         },
         {
             "page": "Alfredo Bouvier",
-            "pageView": 1117
+            "pageView": 1,
+            "total": 1120
         },
         {
             "page": "Luigi Sibille",
-            "pageView": 315
+            "pageView": 0,
+            "total": 315
         }
     ]
 }

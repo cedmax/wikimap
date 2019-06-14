@@ -1,0 +1,27 @@
+{
+    "id": "place.8489901554684920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quinto Vicentino",
+    "place_name": "Quinto Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.610285,
+        45.541961,
+        11.674613,
+        45.59593
+    ],
+    "center": [
+        11.61667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            45.56667
+        ]
+    }
+}

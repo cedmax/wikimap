@@ -1,0 +1,27 @@
+{
+    "id": "place.4796654526528530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca di Cambio",
+    "place_name": "Rocca di Cambio, L'Aquila, Italy",
+    "bbox": [
+        13.431263,
+        42.196204,
+        13.516702,
+        42.258323
+    ],
+    "center": [
+        13.49,
+        42.23722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.49,
+            42.23722
+        ]
+    }
+}

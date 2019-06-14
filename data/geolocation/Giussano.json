@@ -1,0 +1,27 @@
+{
+    "id": "place.12842836237913340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giussano",
+    "place_name": "Giussano, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.191895,
+        45.664458,
+        9.236531,
+        45.71779
+    ],
+    "center": [
+        9.21667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            45.7
+        ]
+    }
+}

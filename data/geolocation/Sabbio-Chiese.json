@@ -1,0 +1,27 @@
+{
+    "id": "place.5163090200402370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sabbio Chiese",
+    "place_name": "Sabbio Chiese, Brescia, Italy",
+    "bbox": [
+        10.404499,
+        45.615425,
+        10.47131,
+        45.674775
+    ],
+    "center": [
+        10.43333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            45.65
+        ]
+    }
+}

@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Felice Carena",
-            "pageView": 13295
-        },
-        {
-            "page": "Francesco Camusso",
-            "pageView": 7108
+            "pageView": 9,
+            "total": 13297
         },
         {
             "page": "Cesare Amè",
-            "pageView": 6975
+            "pageView": 4,
+            "total": 6981
         },
         {
             "page": "Domenico Berti",
-            "pageView": 6366
+            "pageView": 4,
+            "total": 6368
+        },
+        {
+            "page": "Francesco Camusso",
+            "pageView": 4,
+            "total": 7118
         },
         {
             "page": "Luigi Foscolo Benedetto",
-            "pageView": 5429
+            "pageView": 3,
+            "total": 5433
         },
         {
             "page": "Domenico Carutti",
-            "pageView": 3776
+            "pageView": 2,
+            "total": 3776
         },
         {
             "page": "Guido Canale",
-            "pageView": 1593
+            "pageView": 1,
+            "total": 1594
         },
         {
             "page": "Michele Levrino",
-            "pageView": 753
+            "pageView": 0,
+            "total": 755
         }
     ]
 }

@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Vito Roberto Palazzolo",
-            "pageView": 35001
-        },
-        {
-            "page": "Joseph Zerilli",
-            "pageView": 15160
-        },
-        {
-            "page": "Luigi Bommarito",
-            "pageView": 13956
+            "pageView": 19,
+            "total": 35044
         },
         {
             "page": "Julie (cantante 1948)",
-            "pageView": 6500
+            "pageView": 10,
+            "total": 6509
+        },
+        {
+            "page": "Luigi Bommarito",
+            "pageView": 9,
+            "total": 13959
+        },
+        {
+            "page": "Joseph Zerilli",
+            "pageView": 9,
+            "total": 15170
         },
         {
             "page": "Giuseppe Cataldo",
-            "pageView": 5099
+            "pageView": 3,
+            "total": 5102
         },
         {
             "page": "Gaetano Viviani",
-            "pageView": 2719
+            "pageView": 2,
+            "total": 2720
         }
     ]
 }

@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Calogero Vizzini",
-            "pageView": 103215
+            "pageView": 63,
+            "total": 103345
         },
         {
             "page": "Angelo Bruno",
-            "pageView": 25750
+            "pageView": 16,
+            "total": 25770
         },
         {
             "page": "Michele Pantaleone",
-            "pageView": 12314
+            "pageView": 8,
+            "total": 12324
         },
         {
             "page": "Ettore Cipolla",
-            "pageView": 4073
-        },
-        {
-            "page": "Giuseppe Vizzini",
-            "pageView": 3821
-        },
-        {
-            "page": "Salvatore Vizzini",
-            "pageView": 3589
-        },
-        {
-            "page": "Rosario Sferrazza",
-            "pageView": 3525
+            "pageView": 2,
+            "total": 4075
         },
         {
             "page": "Giovanni Mulè Bertòlo",
-            "pageView": 2301
+            "pageView": 2,
+            "total": 2301
+        },
+        {
+            "page": "Rosario Sferrazza",
+            "pageView": 2,
+            "total": 3525
         },
         {
             "page": "Vittorina Vivenza",
-            "pageView": 2014
+            "pageView": 2,
+            "total": 2014
+        },
+        {
+            "page": "Giuseppe Vizzini",
+            "pageView": 2,
+            "total": 3826
+        },
+        {
+            "page": "Salvatore Vizzini",
+            "pageView": 2,
+            "total": 3589
         }
     ]
 }

@@ -3,199 +3,248 @@
     "people": [
         {
             "page": "Giuseppe Sculli",
-            "pageView": 220477
+            "pageView": 120,
+            "total": 220572
         },
         {
             "page": "Fabio Ceravolo",
-            "pageView": 211921
+            "pageView": 78,
+            "total": 212018
         },
         {
             "page": "Antonio Pelle",
-            "pageView": 127998
+            "pageView": 41,
+            "total": 128097
         },
         {
             "page": "Salvatore Ferraro (1967)",
-            "pageView": 61345
+            "pageView": 28,
+            "total": 61385
         },
         {
             "page": "Fabio Caserta",
-            "pageView": 60872
+            "pageView": 28,
+            "total": 60916
         },
         {
             "page": "Enrico Guarna",
-            "pageView": 49330
+            "pageView": 24,
+            "total": 49344
         },
         {
             "page": "Francesco Cosenza",
-            "pageView": 47401
-        },
-        {
-            "page": "Alessandro Pellicori",
-            "pageView": 35086
+            "pageView": 23,
+            "total": 47462
         },
         {
             "page": "Giancarlo Maria Bregantini",
-            "pageView": 34100
+            "pageView": 20,
+            "total": 34126
         },
         {
             "page": "Francesco Fortugno",
-            "pageView": 32571
+            "pageView": 19,
+            "total": 32590
+        },
+        {
+            "page": "Alessandro Pellicori",
+            "pageView": 18,
+            "total": 35098
         },
         {
             "page": "Francesco Nirta",
-            "pageView": 23682
+            "pageView": 14,
+            "total": 23697
         },
         {
             "page": "Giuseppe Fiorini Morosini",
-            "pageView": 18106
+            "pageView": 11,
+            "total": 18109
         },
         {
             "page": "Angelo Mammì",
-            "pageView": 15348
+            "pageView": 10,
+            "total": 15351
         },
         {
             "page": "Francesco Vottari",
-            "pageView": 15199
+            "pageView": 8,
+            "total": 15216
         },
         {
             "page": "Francesco Oliva",
-            "pageView": 12066
+            "pageView": 7,
+            "total": 12072
         },
         {
             "page": "Anna Vita",
-            "pageView": 10887
-        },
-        {
-            "page": "Gabriele Martino",
-            "pageView": 9877
+            "pageView": 6,
+            "total": 10888
         },
         {
             "page": "Giovanni Luca Nirta",
-            "pageView": 9641
-        },
-        {
-            "page": "Maria Grazia Laganà",
-            "pageView": 9464
-        },
-        {
-            "page": "Antonio Ciliberti",
-            "pageView": 8893
+            "pageView": 5,
+            "total": 9651
         },
         {
             "page": "Pietro Armenise",
-            "pageView": 8620
+            "pageView": 5,
+            "total": 8628
+        },
+        {
+            "page": "Gabriele Martino",
+            "pageView": 5,
+            "total": 9891
         },
         {
             "page": "Timeo di Locri",
-            "pageView": 8352
+            "pageView": 5,
+            "total": 8356
         },
         {
-            "page": "Marco Iermanò",
-            "pageView": 8229
+            "page": "Maria Grazia Laganà",
+            "pageView": 5,
+            "total": 9469
         },
         {
             "page": "Rocco De Marco",
-            "pageView": 6816
+            "pageView": 4,
+            "total": 6819
         },
         {
             "page": "Stefano Dalla Costa",
-            "pageView": 5837
-        },
-        {
-            "page": "Vincenzo Grasso",
-            "pageView": 5770
-        },
-        {
-            "page": "Massimo De Solda",
-            "pageView": 5532
-        },
-        {
-            "page": "Leonardo Vitetti",
-            "pageView": 4869
-        },
-        {
-            "page": "Saverio Leotta",
-            "pageView": 4682
-        },
-        {
-            "page": "Mihály Vörös",
-            "pageView": 4057
+            "pageView": 4,
+            "total": 5841
         },
         {
             "page": "Cosimo Cordì",
-            "pageView": 3521
+            "pageView": 4,
+            "total": 3525
         },
         {
-            "page": "Cosimo Figliomeni",
-            "pageView": 3487
+            "page": "Marco Iermanò",
+            "pageView": 4,
+            "total": 8236
         },
         {
-            "page": "Mario Laganà",
-            "pageView": 3483
+            "page": "Antonio Ciliberti",
+            "pageView": 4,
+            "total": 8897
         },
         {
             "page": "Giuseppe Cataldo (criminale)",
-            "pageView": 3121
+            "pageView": 3,
+            "total": 3126
         },
         {
-            "page": "Giuseppe Salerno (calciatore)",
-            "pageView": 3064
+            "page": "Vincenzo Grasso",
+            "pageView": 3,
+            "total": 5770
         },
         {
-            "page": "Amedeo De Cia",
-            "pageView": 2843
+            "page": "Cosimo Figliomeni",
+            "pageView": 3,
+            "total": 3487
+        },
+        {
+            "page": "Saverio Leotta",
+            "pageView": 3,
+            "total": 4685
+        },
+        {
+            "page": "Mihály Vörös",
+            "pageView": 3,
+            "total": 4058
+        },
+        {
+            "page": "Massimo De Solda",
+            "pageView": 3,
+            "total": 5534
         },
         {
             "page": "Acrione",
-            "pageView": 2196
+            "pageView": 2,
+            "total": 2198
+        },
+        {
+            "page": "Amedeo De Cia",
+            "pageView": 2,
+            "total": 2848
+        },
+        {
+            "page": "Mario Laganà",
+            "pageView": 2,
+            "total": 3486
         },
         {
             "page": "Enzo Dolfin",
-            "pageView": 2185
+            "pageView": 2,
+            "total": 2186
         },
         {
-            "page": "Filippo Murdaca",
-            "pageView": 2012
-        },
-        {
-            "page": "Antonio di Gerace",
-            "pageView": 1760
-        },
-        {
-            "page": "Aldo Simoncello",
-            "pageView": 1647
-        },
-        {
-            "page": "Francesco Grazioli (calciatore)",
-            "pageView": 1587
-        },
-        {
-            "page": "Rita Commisso",
-            "pageView": 1462
-        },
-        {
-            "page": "Giuseppe Vitale (politico 1923)",
-            "pageView": 1378
-        },
-        {
-            "page": "Glauco di Locri",
-            "pageView": 1376
-        },
-        {
-            "page": "Umberto Ferraro",
-            "pageView": 1042
+            "page": "Giuseppe Salerno (calciatore)",
+            "pageView": 2,
+            "total": 3064
         },
         {
             "page": "Francesco Tortora",
-            "pageView": 764
+            "pageView": 2,
+            "total": 767
         },
         {
-            "page": "Saverio Asprea",
-            "pageView": 337
+            "page": "Antonio di Gerace",
+            "pageView": 2,
+            "total": 1768
+        },
+        {
+            "page": "Glauco di Locri",
+            "pageView": 2,
+            "total": 1378
+        },
+        {
+            "page": "Filippo Murdaca",
+            "pageView": 2,
+            "total": 2013
+        },
+        {
+            "page": "Leonardo Vitetti",
+            "pageView": 2,
+            "total": 4871
+        },
+        {
+            "page": "Giuseppe Vitale (politico 1923)",
+            "pageView": 1,
+            "total": 1378
+        },
+        {
+            "page": "Francesco Grazioli (calciatore)",
+            "pageView": 1,
+            "total": 1587
+        },
+        {
+            "page": "Aldo Simoncello",
+            "pageView": 1,
+            "total": 1648
+        },
+        {
+            "page": "Umberto Ferraro",
+            "pageView": 1,
+            "total": 1044
+        },
+        {
+            "page": "Rita Commisso",
+            "pageView": 1,
+            "total": 1462
         },
         {
             "page": "Domenico Serafino",
-            "pageView": 153
+            "pageView": 0,
+            "total": 154
+        },
+        {
+            "page": "Saverio Asprea",
+            "pageView": 0,
+            "total": 338
         }
     ]
 }

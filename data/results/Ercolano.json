@@ -3,187 +3,233 @@
     "people": [
         {
             "page": "Amadeo Bordiga",
-            "pageView": 91816
-        },
-        {
-            "page": "Gaetano Musella",
-            "pageView": 46702
+            "pageView": 59,
+            "total": 91895
         },
         {
             "page": "Salvatore Matrecano",
-            "pageView": 33653
+            "pageView": 21,
+            "total": 33667
+        },
+        {
+            "page": "Gaetano Musella",
+            "pageView": 18,
+            "total": 46708
         },
         {
             "page": "Ciro Pezzella",
-            "pageView": 28017
+            "pageView": 14,
+            "total": 28029
         },
         {
             "page": "Adriano Tilgher (filosofo)",
-            "pageView": 20275
+            "pageView": 13,
+            "total": 20280
         },
         {
             "page": "Alberto Savino",
-            "pageView": 14520
-        },
-        {
-            "page": "Oreste Vigorito",
-            "pageView": 14512
+            "pageView": 9,
+            "total": 14525
         },
         {
             "page": "Cataldo Montesanto",
-            "pageView": 14399
+            "pageView": 9,
+            "total": 14412
         },
         {
             "page": "Antonio Di Donna",
-            "pageView": 11253
+            "pageView": 7,
+            "total": 11278
         },
         {
             "page": "Gennaro Monaco",
-            "pageView": 10622
-        },
-        {
-            "page": "Graziano Landoni",
-            "pageView": 9804
+            "pageView": 6,
+            "total": 10636
         },
         {
             "page": "Marco Nonio Balbo",
-            "pageView": 8936
+            "pageView": 6,
+            "total": 8938
         },
         {
-            "page": "Eugenio Fantini",
-            "pageView": 8575
-        },
-        {
-            "page": "Salvatore Buoncammino",
-            "pageView": 8385
-        },
-        {
-            "page": "Alfonso Negro",
-            "pageView": 8356
-        },
-        {
-            "page": "Antonio Ciano",
-            "pageView": 8093
-        },
-        {
-            "page": "Viviano Guida",
-            "pageView": 7974
+            "page": "Graziano Landoni",
+            "pageView": 6,
+            "total": 9814
         },
         {
             "page": "Andrea Conte",
-            "pageView": 7802
+            "pageView": 5,
+            "total": 7803
         },
         {
-            "page": "Ciro Vigorito",
-            "pageView": 7425
+            "page": "Alfonso Negro",
+            "pageView": 5,
+            "total": 8360
         },
         {
-            "page": "Domenico Cuciniello",
-            "pageView": 7127
+            "page": "Antonio Ciano",
+            "pageView": 5,
+            "total": 8093
         },
         {
-            "page": "Antonio Crusco",
-            "pageView": 6623
+            "page": "Eugenio Fantini",
+            "pageView": 5,
+            "total": 8582
         },
         {
-            "page": "Marco De Gregorio",
-            "pageView": 6588
+            "page": "Viviano Guida",
+            "pageView": 5,
+            "total": 7977
         },
         {
-            "page": "Giuseppe Valsecchi",
-            "pageView": 6502
+            "page": "Salvatore Buoncammino",
+            "pageView": 5,
+            "total": 8392
         },
         {
             "page": "Luisa Bossa",
-            "pageView": 5925
+            "pageView": 4,
+            "total": 5926
+        },
+        {
+            "page": "Giuseppe Valsecchi",
+            "pageView": 4,
+            "total": 6504
+        },
+        {
+            "page": "Antonio Crusco",
+            "pageView": 4,
+            "total": 6626
+        },
+        {
+            "page": "Marco De Gregorio",
+            "pageView": 4,
+            "total": 6591
         },
         {
             "page": "Paolo Crucitti",
-            "pageView": 5393
-        },
-        {
-            "page": "Diego Calcagno",
-            "pageView": 5241
-        },
-        {
-            "page": "Jone Spartano",
-            "pageView": 4994
+            "pageView": 3,
+            "total": 5398
         },
         {
             "page": "Andrea Dalia",
-            "pageView": 4895
+            "pageView": 3,
+            "total": 4896
         },
         {
-            "page": "Fausto Rossano",
-            "pageView": 3663
+            "page": "Diego Calcagno",
+            "pageView": 3,
+            "total": 5244
         },
         {
-            "page": "Youssef Karam",
-            "pageView": 2808
-        },
-        {
-            "page": "Lorenzo Eula",
-            "pageView": 2762
+            "page": "Jone Spartano",
+            "pageView": 3,
+            "total": 4994
         },
         {
             "page": "Antonio Cua",
-            "pageView": 2729
-        },
-        {
-            "page": "Stefano Di Lucia",
-            "pageView": 2664
-        },
-        {
-            "page": "Guglielmo Roehrssen",
-            "pageView": 2544
-        },
-        {
-            "page": "Paolo Signorini (imprenditore)",
-            "pageView": 2463
-        },
-        {
-            "page": "Ciro Cuciniello",
-            "pageView": 2112
+            "pageView": 2,
+            "total": 2732
         },
         {
             "page": "Raffaello Tancredi",
-            "pageView": 1875
+            "pageView": 2,
+            "total": 1876
+        },
+        {
+            "page": "Stefano Di Lucia",
+            "pageView": 2,
+            "total": 2667
+        },
+        {
+            "page": "Ciro Cuciniello",
+            "pageView": 2,
+            "total": 2112
+        },
+        {
+            "page": "Domenico Cuciniello",
+            "pageView": 2,
+            "total": 7133
+        },
+        {
+            "page": "Paolo Signorini (imprenditore)",
+            "pageView": 2,
+            "total": 2463
+        },
+        {
+            "page": "Lorenzo Eula",
+            "pageView": 2,
+            "total": 2762
         },
         {
             "page": "Pietro Beccadelli di Bologna",
-            "pageView": 1839
+            "pageView": 2,
+            "total": 1839
         },
         {
-            "page": "Giuseppe Calcagno",
-            "pageView": 1654
+            "page": "Guglielmo Roehrssen",
+            "pageView": 2,
+            "total": 2546
+        },
+        {
+            "page": "Fausto Rossano",
+            "pageView": 2,
+            "total": 3666
+        },
+        {
+            "page": "Youssef Karam",
+            "pageView": 2,
+            "total": 2809
         },
         {
             "page": "Giuseppe Lopriore",
-            "pageView": 1516
-        },
-        {
-            "page": "Nicola Serino",
-            "pageView": 1232
-        },
-        {
-            "page": "Augusto De Martino",
-            "pageView": 1140
+            "pageView": 1,
+            "total": 1516
         },
         {
             "page": "Silvano Ridi",
-            "pageView": 956
+            "pageView": 1,
+            "total": 956
+        },
+        {
+            "page": "Nicola Serino",
+            "pageView": 1,
+            "total": 1232
+        },
+        {
+            "page": "Giuseppe Calcagno",
+            "pageView": 1,
+            "total": 1655
+        },
+        {
+            "page": "Augusto De Martino",
+            "pageView": 1,
+            "total": 1141
         },
         {
             "page": "Alfonso Stocchetti",
-            "pageView": 383
+            "pageView": 0,
+            "total": 385
         },
         {
             "page": "Michele Cristinzio",
-            "pageView": 288
+            "pageView": 0,
+            "total": 290
+        },
+        {
+            "page": "Oreste Vigorito",
+            "pageView": 0,
+            "total": 14551
+        },
+        {
+            "page": "Ciro Vigorito",
+            "pageView": 0,
+            "total": 7443
         },
         {
             "page": "Nicola De Martino (vescovo)",
-            "pageView": 192
+            "pageView": 0,
+            "total": 192
         }
     ]
 }

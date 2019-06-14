@@ -1,0 +1,27 @@
+{
+    "id": "place.9250699452636230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalromano",
+    "place_name": "Casalromano, Mantova, Italy",
+    "bbox": [
+        10.309083,
+        45.184045,
+        10.383423,
+        45.215408
+    ],
+    "center": [
+        10.36667,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.36667,
+            45.2
+        ]
+    }
+}

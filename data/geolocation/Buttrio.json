@@ -1,0 +1,27 @@
+{
+    "id": "place.4785925297916320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buttrio",
+    "place_name": "Buttrio, Udine, Italy",
+    "bbox": [
+        13.311449,
+        45.984736,
+        13.36409,
+        46.040562
+    ],
+    "center": [
+        13.33333,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.33333,
+            46.01667
+        ]
+    }
+}

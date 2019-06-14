@@ -3,187 +3,233 @@
     "people": [
         {
             "page": "Marco Basile",
-            "pageView": 93887
-        },
-        {
-            "page": "Corrado Confalonieri",
-            "pageView": 39229
+            "pageView": 35.5,
+            "total": 93968
         },
         {
             "page": "Antonio Staglianò",
-            "pageView": 35784
+            "pageView": 19,
+            "total": 35792
+        },
+        {
+            "page": "Corrado Confalonieri",
+            "pageView": 19,
+            "total": 39234
         },
         {
             "page": "Mariano Crociata",
-            "pageView": 21816
+            "pageView": 14,
+            "total": 21829
         },
         {
             "page": "Mariannina Coffa",
-            "pageView": 12997
+            "pageView": 7,
+            "total": 13001
         },
         {
             "page": "Ruggero Romano",
-            "pageView": 10987
-        },
-        {
-            "page": "Mimmo Fusco",
-            "pageView": 9747
+            "pageView": 7,
+            "total": 10995
         },
         {
             "page": "Giovanni Aurispa",
-            "pageView": 8063
-        },
-        {
-            "page": "Giuseppe Malandrino",
-            "pageView": 7208
-        },
-        {
-            "page": "Rocco Pirri",
-            "pageView": 7129
+            "pageView": 5,
+            "total": 8074
         },
         {
             "page": "Salvatore Nicolosi",
-            "pageView": 6761
+            "pageView": 4,
+            "total": 6767
+        },
+        {
+            "page": "Rocco Pirri",
+            "pageView": 4,
+            "total": 7134
         },
         {
             "page": "Vincenzo Sinatra",
-            "pageView": 6585
+            "pageView": 4,
+            "total": 6586
         },
         {
-            "page": "Guglielmo Buccheri",
-            "pageView": 5989
+            "page": "Mimmo Fusco",
+            "pageView": 4,
+            "total": 9747
         },
         {
             "page": "Vittorio Sgroi",
-            "pageView": 5961
+            "pageView": 4,
+            "total": 5965
         },
         {
-            "page": "Matteo Carnilivari",
-            "pageView": 5635
-        },
-        {
-            "page": "Guglielmo Giaquinta",
-            "pageView": 5101
-        },
-        {
-            "page": "Giuseppe Scala",
-            "pageView": 4920
-        },
-        {
-            "page": "Matteo Raeli",
-            "pageView": 4723
-        },
-        {
-            "page": "Francesco Bonfanti",
-            "pageView": 4401
-        },
-        {
-            "page": "Bruno Marziano",
-            "pageView": 4397
-        },
-        {
-            "page": "Luigi Ignazio Adorno",
-            "pageView": 3891
+            "page": "Giuseppe Malandrino",
+            "pageView": 4,
+            "total": 7212
         },
         {
             "page": "Alfonso Belfiore",
-            "pageView": 3889
+            "pageView": 3,
+            "total": 3894
         },
         {
-            "page": "Giuseppe Vizzini",
-            "pageView": 3821
+            "page": "Bruno Marziano",
+            "pageView": 3,
+            "total": 4397
         },
         {
-            "page": "Angelo Calabretta",
-            "pageView": 3655
+            "page": "Guglielmo Buccheri",
+            "pageView": 3,
+            "total": 5990
         },
         {
-            "page": "Corrado Maria Deodato Moncada",
-            "pageView": 3280
+            "page": "Matteo Carnilivari",
+            "pageView": 3,
+            "total": 5638
         },
         {
-            "page": "Francesco Paolo Labisi",
-            "pageView": 3195
+            "page": "Giuseppe Scala",
+            "pageView": 3,
+            "total": 4920
         },
         {
-            "page": "Corrado Avolio",
-            "pageView": 2990
-        },
-        {
-            "page": "Vincenzo Littara",
-            "pageView": 2145
-        },
-        {
-            "page": "Gaetano Di Giovanni",
-            "pageView": 2144
+            "page": "Matteo Raeli",
+            "pageView": 3,
+            "total": 4726
         },
         {
             "page": "Giovanni Blandini",
-            "pageView": 1797
+            "pageView": 3,
+            "total": 1799
         },
         {
-            "page": "Anna Maria Ciccone",
-            "pageView": 1720
+            "page": "Francesco Bonfanti",
+            "pageView": 3,
+            "total": 4404
         },
         {
-            "page": "Corrado Curcio",
-            "pageView": 1639
+            "page": "Guglielmo Giaquinta",
+            "pageView": 3,
+            "total": 5107
         },
         {
-            "page": "Ernesto D'Albergo",
-            "pageView": 1562
+            "page": "Vincenzo Littara",
+            "pageView": 2,
+            "total": 2148
         },
         {
-            "page": "Pietro Landolina",
-            "pageView": 1357
-        },
-        {
-            "page": "Corrado Tagliamonte",
-            "pageView": 1296
+            "page": "Corrado Avolio",
+            "pageView": 2,
+            "total": 2993
         },
         {
             "page": "Giovanni Battista Naselli",
-            "pageView": 1176
+            "pageView": 2,
+            "total": 1177
         },
         {
-            "page": "Gerardo Di Martino",
-            "pageView": 1089
+            "page": "Corrado Maria Deodato Moncada",
+            "pageView": 2,
+            "total": 3283
+        },
+        {
+            "page": "Giuseppe Vizzini",
+            "pageView": 2,
+            "total": 3826
+        },
+        {
+            "page": "Anna Maria Ciccone",
+            "pageView": 2,
+            "total": 1722
+        },
+        {
+            "page": "Luigi Ignazio Adorno",
+            "pageView": 2,
+            "total": 3891
         },
         {
             "page": "Corrado Terranova",
-            "pageView": 1077
+            "pageView": 2,
+            "total": 1077
         },
         {
             "page": "Giuseppe Menditto",
-            "pageView": 847
+            "pageView": 2,
+            "total": 847
+        },
+        {
+            "page": "Angelo Calabretta",
+            "pageView": 2,
+            "total": 3659
+        },
+        {
+            "page": "Gaetano Di Giovanni",
+            "pageView": 2,
+            "total": 2146
+        },
+        {
+            "page": "Francesco Paolo Labisi",
+            "pageView": 2,
+            "total": 3196
+        },
+        {
+            "page": "Ernesto D'Albergo",
+            "pageView": 1,
+            "total": 1563
+        },
+        {
+            "page": "Gerardo Di Martino",
+            "pageView": 1,
+            "total": 1089
+        },
+        {
+            "page": "Corrado Curcio",
+            "pageView": 1,
+            "total": 1640
+        },
+        {
+            "page": "Pietro Landolina",
+            "pageView": 1,
+            "total": 1358
+        },
+        {
+            "page": "Corrado Tagliamonte",
+            "pageView": 1,
+            "total": 1296
         },
         {
             "page": "Benedetto Lavecchia Guarnieri",
-            "pageView": 705
-        },
-        {
-            "page": "Mario Giuseppe Mirone",
-            "pageView": 704
-        },
-        {
-            "page": "Antonio Cassarino",
-            "pageView": 685
-        },
-        {
-            "page": "Antonio Morana",
-            "pageView": 648
+            "pageView": 0,
+            "total": 705
         },
         {
             "page": "Vincenzo Trigona, marchese di Canicarao",
-            "pageView": 293
+            "pageView": 0,
+            "total": 294
+        },
+        {
+            "page": "Mario Giuseppe Mirone",
+            "pageView": 0,
+            "total": 705
         },
         {
             "page": "Rinaldo Montoro e Landolina",
-            "pageView": 164
+            "pageView": 0,
+            "total": 165
+        },
+        {
+            "page": "Antonio Cassarino",
+            "pageView": 0,
+            "total": 685
+        },
+        {
+            "page": "Antonio Morana",
+            "pageView": 0,
+            "total": 649
         },
         {
             "page": "Template:Vescovi di Noto",
-            "pageView": 140
+            "pageView": 0,
+            "total": 140
         }
     ]
 }

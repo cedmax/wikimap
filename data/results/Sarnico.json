@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Alessio Boni",
-            "pageView": 746791
+            "pageView": 232,
+            "total": 747068
         },
         {
             "page": "Gianpaolo Bellini",
-            "pageView": 129469
+            "pageView": 40,
+            "total": 129505
         },
         {
             "page": "Nadir Minotti",
-            "pageView": 27059
-        },
-        {
-            "page": "Sara Loda",
-            "pageView": 24873
+            "pageView": 15,
+            "total": 27068
         },
         {
             "page": "Maurizio Gervasoni",
-            "pageView": 14432
+            "pageView": 9,
+            "total": 14444
+        },
+        {
+            "page": "Sara Loda",
+            "pageView": 8,
+            "total": 24879
         },
         {
             "page": "Piero Gardoni",
-            "pageView": 8820
+            "pageView": 5,
+            "total": 8821
         },
         {
             "page": "Angela Locatelli",
-            "pageView": 4477
+            "pageView": 3,
+            "total": 4487
         },
         {
             "page": "Simona Zani",
-            "pageView": 2272
-        },
-        {
-            "page": "Isacco Arcangeli",
-            "pageView": 1748
-        },
-        {
-            "page": "Giacinto Arcangeli",
-            "pageView": 1746
+            "pageView": 2,
+            "total": 2282
         },
         {
             "page": "Febo Arcangeli",
-            "pageView": 1678
+            "pageView": 1,
+            "total": 1679
+        },
+        {
+            "page": "Isacco Arcangeli",
+            "pageView": 1,
+            "total": 1748
+        },
+        {
+            "page": "Giacinto Arcangeli",
+            "pageView": 1,
+            "total": 1746
         }
     ]
 }

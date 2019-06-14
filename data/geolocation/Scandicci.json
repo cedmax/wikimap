@@ -1,0 +1,27 @@
+{
+    "id": "place.9849871511497790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scandicci",
+    "place_name": "Scandicci, Firenze, Italy",
+    "bbox": [
+        11.084338,
+        43.685354,
+        11.214159,
+        43.786158
+    ],
+    "center": [
+        11.18028,
+        43.75806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.18028,
+            43.75806
+        ]
+    }
+}

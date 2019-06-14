@@ -1,0 +1,27 @@
+{
+    "id": "place.11167391646419520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Legnano",
+    "place_name": "Legnano, Milano, Italy",
+    "bbox": [
+        8.865656,
+        45.567985,
+        8.946017,
+        45.623661
+    ],
+    "center": [
+        8.90889,
+        45.5969
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.90889,
+            45.5969
+        ]
+    }
+}

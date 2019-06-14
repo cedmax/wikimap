@@ -2,16 +2,19 @@
     "name": "San Vendemiano",
     "people": [
         {
-            "page": "Riccardo Perucolo",
-            "pageView": 3944
-        },
-        {
             "page": "Bruno Sartori",
-            "pageView": 3517
+            "pageView": 2,
+            "total": 3517
         },
         {
             "page": "Regina Dal Cin",
-            "pageView": 2591
+            "pageView": 2,
+            "total": 2591
+        },
+        {
+            "page": "Riccardo Perucolo",
+            "pageView": 2,
+            "total": 3945
         }
     ]
 }

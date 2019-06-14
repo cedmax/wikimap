@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Anita Ekberg",
-            "pageView": 236202
+            "pageView": 133,
+            "total": 236306
         },
         {
             "page": "Chiara Lubich",
-            "pageView": 104746
+            "pageView": 58,
+            "total": 104872
         },
         {
             "page": "Guido De Angelis",
-            "pageView": 44466
+            "pageView": 26,
+            "total": 44498
         },
         {
             "page": "Maurizio De Angelis",
-            "pageView": 43086
+            "pageView": 24,
+            "total": 43108
         },
         {
             "page": "Igino Giordani",
-            "pageView": 20487
+            "pageView": 13,
+            "total": 20500
         },
         {
             "page": "Mario Pavesi",
-            "pageView": 18705
+            "pageView": 12,
+            "total": 18713
         },
         {
             "page": "Mario Zelinotti",
-            "pageView": 16754
+            "pageView": 10,
+            "total": 16760
         },
         {
             "page": "Riccardo Lombardi (gesuita)",
-            "pageView": 15945
-        },
-        {
-            "page": "Lucia Ottobrini",
-            "pageView": 11955
-        },
-        {
-            "page": "Piero Pizzi Cannella",
-            "pageView": 10883
-        },
-        {
-            "page": "Augusto Gentilini",
-            "pageView": 10281
-        },
-        {
-            "page": "Eros Macchi",
-            "pageView": 9969
+            "pageView": 9,
+            "total": 15948
         },
         {
             "page": "Giulio Girardi",
-            "pageView": 9598
+            "pageView": 6,
+            "total": 9601
+        },
+        {
+            "page": "Piero Pizzi Cannella",
+            "pageView": 6,
+            "total": 10886
+        },
+        {
+            "page": "Augusto Gentilini",
+            "pageView": 6,
+            "total": 10283
+        },
+        {
+            "page": "Eros Macchi",
+            "pageView": 6,
+            "total": 9974
+        },
+        {
+            "page": "Lucia Ottobrini",
+            "pageView": 5,
+            "total": 11959
         },
         {
             "page": "Pasquale Foresi",
-            "pageView": 6225
+            "pageView": 4,
+            "total": 6228
         },
         {
             "page": "Carlo Moiso",
-            "pageView": 4357
-        },
-        {
-            "page": "Edoardo Perino",
-            "pageView": 3177
+            "pageView": 3,
+            "total": 4360
         },
         {
             "page": "Michele Stefano de Rossi",
-            "pageView": 2868
+            "pageView": 2,
+            "total": 2868
+        },
+        {
+            "page": "Edoardo Perino",
+            "pageView": 2,
+            "total": 3177
         },
         {
             "page": "Vincenzo Santucci",
-            "pageView": 2554
+            "pageView": 2,
+            "total": 2556
         },
         {
             "page": "Vincenzo Croce",
-            "pageView": 2497
-        },
-        {
-            "page": "Francesco Speranza (politico)",
-            "pageView": 1770
-        },
-        {
-            "page": "Domenico Tojetti",
-            "pageView": 1703
+            "pageView": 2,
+            "total": 2499
         },
         {
             "page": "Lionello Colicigno",
-            "pageView": 1177
+            "pageView": 1,
+            "total": 1177
+        },
+        {
+            "page": "Francesco Speranza (politico)",
+            "pageView": 1,
+            "total": 1770
+        },
+        {
+            "page": "Domenico Tojetti",
+            "pageView": 1,
+            "total": 1704
         },
         {
             "page": "Enzo Maria Dantini",
-            "pageView": 573
+            "pageView": 0,
+            "total": 579
         }
     ]
 }

@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Lavinia Longhi",
-            "pageView": 130405
+            "pageView": 63,
+            "total": 130437
         },
         {
             "page": "Luigi Sala",
-            "pageView": 42623
+            "pageView": 26,
+            "total": 42645
         },
         {
             "page": "Carlo Tagliabue",
-            "pageView": 8758
+            "pageView": 5,
+            "total": 8759
         },
         {
             "page": "Guido Cappellini",
-            "pageView": 6905
-        },
-        {
-            "page": "Angelo Romanò",
-            "pageView": 5530
+            "pageView": 4,
+            "total": 6916
         },
         {
             "page": "Rinaldo Donzelli",
-            "pageView": 5279
+            "pageView": 3,
+            "total": 5288
+        },
+        {
+            "page": "Angelo Romanò",
+            "pageView": 3,
+            "total": 5534
         },
         {
             "page": "Viviana Ballabio",
-            "pageView": 4404
-        },
-        {
-            "page": "Angelo Pagani",
-            "pageView": 2944
-        },
-        {
-            "page": "Flavio Anastasia",
-            "pageView": 2889
-        },
-        {
-            "page": "Davide Cerati",
-            "pageView": 2830
+            "pageView": 3,
+            "total": 4406
         },
         {
             "page": "Antonio Frigerio",
-            "pageView": 2624
+            "pageView": 2,
+            "total": 2629
         },
         {
             "page": "Egidio Crippa",
-            "pageView": 2252
+            "pageView": 2,
+            "total": 2254
         },
         {
-            "page": "Luchino Del Mayno",
-            "pageView": 2113
+            "page": "Angelo Pagani",
+            "pageView": 2,
+            "total": 2944
         },
         {
             "page": "Luigi Pozzi",
-            "pageView": 1858
+            "pageView": 2,
+            "total": 1859
+        },
+        {
+            "page": "Davide Cerati",
+            "pageView": 2,
+            "total": 2831
+        },
+        {
+            "page": "Flavio Anastasia",
+            "pageView": 2,
+            "total": 2891
+        },
+        {
+            "page": "Luchino Del Mayno",
+            "pageView": 2,
+            "total": 2114
         },
         {
             "page": "Ester Mauri",
-            "pageView": 1771
+            "pageView": 1,
+            "total": 1771
         },
         {
             "page": "Giulia Pasqualin",
-            "pageView": 1477
+            "pageView": 1,
+            "total": 1477
         },
         {
             "page": "Graziano e Claudio Cicogna",
-            "pageView": 1137
+            "pageView": 1,
+            "total": 1137
         },
         {
             "page": "Chantal Trezzi",
-            "pageView": 882
+            "pageView": 1,
+            "total": 882
         }
     ]
 }

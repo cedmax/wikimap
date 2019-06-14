@@ -1,0 +1,27 @@
+{
+    "id": "place.7122452037031370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spresiano",
+    "place_name": "Spresiano, Treviso, Italy",
+    "bbox": [
+        12.239142,
+        45.744826,
+        12.32082,
+        45.807212
+    ],
+    "center": [
+        12.25,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.25,
+            45.78333
+        ]
+    }
+}

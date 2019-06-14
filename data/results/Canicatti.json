@@ -3,131 +3,163 @@
     "people": [
         {
             "page": "Rosario Livatino",
-            "pageView": 250125
+            "pageView": 101,
+            "total": 250213
         },
         {
             "page": "Antonino Saetta",
-            "pageView": 64094
+            "pageView": 27,
+            "total": 64146
         },
         {
             "page": "Gioacchino La Lomia",
-            "pageView": 12177
+            "pageView": 7,
+            "total": 12181
         },
         {
             "page": "Agostino La Lomia",
-            "pageView": 5959
-        },
-        {
-            "page": "Vincenzo Lo Giudice",
-            "pageView": 5405
-        },
-        {
-            "page": "Angelo Ficarra",
-            "pageView": 5285
-        },
-        {
-            "page": "Antonino Sciascia",
-            "pageView": 5077
+            "pageView": 4,
+            "total": 5965
         },
         {
             "page": "Rosario Saro Vella",
-            "pageView": 4111
+            "pageView": 3,
+            "total": 4112
         },
         {
-            "page": "Giovanni Canova",
-            "pageView": 3550
+            "page": "Angelo Ficarra",
+            "pageView": 3,
+            "total": 5288
         },
         {
-            "page": "Ilaria Milazzo",
-            "pageView": 3323
+            "page": "Antonino Sciascia",
+            "pageView": 3,
+            "total": 5077
         },
         {
-            "page": "Carmelo Marchese Ragona",
-            "pageView": 3194
-        },
-        {
-            "page": "Angelo Brucculeri",
-            "pageView": 2866
-        },
-        {
-            "page": "Gaspare Giudice",
-            "pageView": 2863
-        },
-        {
-            "page": "Giuseppe Alaimo",
-            "pageView": 2741
-        },
-        {
-            "page": "Salvatore Galletti",
-            "pageView": 2610
-        },
-        {
-            "page": "Pietro Antonio Di Prima",
-            "pageView": 2499
-        },
-        {
-            "page": "Antonio Muratore",
-            "pageView": 2469
-        },
-        {
-            "page": "Vincenzo Macaluso",
-            "pageView": 2462
-        },
-        {
-            "page": "Peppi Paci",
-            "pageView": 2165
+            "page": "Vincenzo Lo Giudice",
+            "pageView": 3,
+            "total": 5410
         },
         {
             "page": "Domenico Cigna",
-            "pageView": 2087
+            "pageView": 2,
+            "total": 2087
+        },
+        {
+            "page": "Pietro Antonio Di Prima",
+            "pageView": 2,
+            "total": 2499
+        },
+        {
+            "page": "Salvatore Galletti",
+            "pageView": 2,
+            "total": 2610
+        },
+        {
+            "page": "Carmelo Marchese Ragona",
+            "pageView": 2,
+            "total": 3197
+        },
+        {
+            "page": "Giuseppe Alaimo",
+            "pageView": 2,
+            "total": 2741
         },
         {
             "page": "Alfonso Arena",
-            "pageView": 1979
+            "pageView": 2,
+            "total": 1981
         },
         {
-            "page": "Calogero Angelo Sacheli",
-            "pageView": 1807
+            "page": "Angelo Brucculeri",
+            "pageView": 2,
+            "total": 2867
         },
         {
-            "page": "Nazareno Vitali",
-            "pageView": 1718
+            "page": "Giovanni Canova",
+            "pageView": 2,
+            "total": 3552
         },
         {
-            "page": "Giovanni Ippolito",
-            "pageView": 1693
+            "page": "Vincenzo Macaluso",
+            "pageView": 2,
+            "total": 2464
+        },
+        {
+            "page": "Ilaria Milazzo",
+            "pageView": 2,
+            "total": 3326
+        },
+        {
+            "page": "Antonio Muratore",
+            "pageView": 2,
+            "total": 2470
+        },
+        {
+            "page": "Peppi Paci",
+            "pageView": 2,
+            "total": 2167
+        },
+        {
+            "page": "Gaspare Giudice",
+            "pageView": 2,
+            "total": 2883
         },
         {
             "page": "Matteo II Moncada",
-            "pageView": 1584
-        },
-        {
-            "page": "Salvatore Gangitano",
-            "pageView": 1528
-        },
-        {
-            "page": "Nino Ginex",
-            "pageView": 1400
+            "pageView": 1,
+            "total": 1585
         },
         {
             "page": "Arturo Maira",
-            "pageView": 1177
-        },
-        {
-            "page": "Salvatore Sanmartino",
-            "pageView": 1133
+            "pageView": 1,
+            "total": 1177
         },
         {
             "page": "Giuseppe Gugino",
-            "pageView": 902
+            "pageView": 1,
+            "total": 902
+        },
+        {
+            "page": "Nazareno Vitali",
+            "pageView": 1,
+            "total": 1718
+        },
+        {
+            "page": "Nino Ginex",
+            "pageView": 1,
+            "total": 1401
+        },
+        {
+            "page": "Calogero Angelo Sacheli",
+            "pageView": 1,
+            "total": 1808
+        },
+        {
+            "page": "Salvatore Gangitano",
+            "pageView": 1,
+            "total": 1528
+        },
+        {
+            "page": "Salvatore Sanmartino",
+            "pageView": 1,
+            "total": 1134
+        },
+        {
+            "page": "Giovanni Ippolito",
+            "pageView": 1,
+            "total": 1693
         },
         {
             "page": "Benedetto Lavecchia Guarnieri",
-            "pageView": 705
+            "pageView": 0,
+            "total": 705
         },
         {
             "page": "Vincenzo Alaimo",
-            "pageView": 316
+            "pageView": 0,
+            "total": 316
         }
     ]
 }

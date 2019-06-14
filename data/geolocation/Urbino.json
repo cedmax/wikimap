@@ -1,0 +1,27 @@
+{
+    "id": "place.10966101217892080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Urbino",
+    "place_name": "Urbino, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.435302,
+        43.660801,
+        12.774358,
+        43.840417
+    ],
+    "center": [
+        12.6372,
+        43.72524
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6372,
+            43.72524
+        ]
+    }
+}

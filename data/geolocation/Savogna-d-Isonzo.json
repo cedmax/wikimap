@@ -1,0 +1,27 @@
+{
+    "id": "place.5600481993446600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Savogna d'Isonzo",
+    "place_name": "Savogna d'Isonzo, Gorizia, Italy",
+    "bbox": [
+        13.541793,
+        45.863246,
+        13.614211,
+        45.918747
+    ],
+    "center": [
+        13.58333,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.58333,
+            45.91667
+        ]
+    }
+}

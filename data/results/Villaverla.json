@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Elia Dalla Costa",
-            "pageView": 41656
+            "pageView": 23,
+            "total": 41675
         },
         {
             "page": "Elisa Cella",
-            "pageView": 14544
+            "pageView": 7,
+            "total": 14557
         },
         {
             "page": "Laura Partenio",
-            "pageView": 14364
+            "pageView": 7,
+            "total": 14379
         },
         {
             "page": "Lucia Crisanti",
-            "pageView": 11965
+            "pageView": 6,
+            "total": 11975
         },
         {
             "page": "Mina Popović",
-            "pageView": 10346
+            "pageView": 5,
+            "total": 10354
         },
         {
             "page": "Laura Baggi",
-            "pageView": 6950
-        },
-        {
-            "page": "Veronica Bisconti",
-            "pageView": 6103
-        },
-        {
-            "page": "Katie Carter",
-            "pageView": 5549
+            "pageView": 4,
+            "total": 6960
         },
         {
             "page": "Silvia Fiori",
-            "pageView": 5225
+            "pageView": 4,
+            "total": 5265
         },
         {
             "page": "Antonio Mantiero",
-            "pageView": 4829
+            "pageView": 3,
+            "total": 4833
         },
         {
-            "page": "Francesco Verla",
-            "pageView": 3930
+            "page": "Veronica Bisconti",
+            "pageView": 3,
+            "total": 6108
         },
         {
-            "page": "Marilyn Strobbe",
-            "pageView": 3534
-        },
-        {
-            "page": "Arielle Wilson",
-            "pageView": 2803
-        },
-        {
-            "page": "Lora Kitipova",
-            "pageView": 2752
+            "page": "Katie Carter",
+            "pageView": 2,
+            "total": 5550
         },
         {
             "page": "Simona Ghisellini",
-            "pageView": 2585
+            "pageView": 2,
+            "total": 2585
+        },
+        {
+            "page": "Marilyn Strobbe",
+            "pageView": 2,
+            "total": 3538
+        },
+        {
+            "page": "Lora Kitipova",
+            "pageView": 2,
+            "total": 2756
+        },
+        {
+            "page": "Arielle Wilson",
+            "pageView": 2,
+            "total": 2804
+        },
+        {
+            "page": "Francesco Verla",
+            "pageView": 2,
+            "total": 3932
         },
         {
             "page": "Karolina Goliat",
-            "pageView": 1579
+            "pageView": 1,
+            "total": 1579
         },
         {
             "page": "Anselmo Bassani",
-            "pageView": 1348
+            "pageView": 1,
+            "total": 1350
         }
     ]
 }

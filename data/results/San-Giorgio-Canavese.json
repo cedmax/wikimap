@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Vittorio Jano",
-            "pageView": 65084
+            "pageView": 34,
+            "total": 65172
         },
         {
             "page": "Giorgio Orsolano",
-            "pageView": 25846
+            "pageView": 17,
+            "total": 25860
         },
         {
             "page": "Arrigo Miglio",
-            "pageView": 23118
+            "pageView": 14,
+            "total": 23123
         },
         {
             "page": "Carlo Botta",
-            "pageView": 16944
+            "pageView": 11,
+            "total": 16964
         },
         {
             "page": "Antonio Michela Zucco",
-            "pageView": 8735
+            "pageView": 5,
+            "total": 8762
         },
         {
             "page": "Teresa Belloc-Giorgi",
-            "pageView": 4776
-        },
-        {
-            "page": "Matteo Pescatore",
-            "pageView": 2609
+            "pageView": 3,
+            "total": 4777
         },
         {
             "page": "Giovanni Crisostomo Javèlli",
-            "pageView": 1827
+            "pageView": 2,
+            "total": 1827
         },
         {
             "page": "Marco Pechenino",
-            "pageView": 1503
+            "pageView": 2,
+            "total": 1503
+        },
+        {
+            "page": "Matteo Pescatore",
+            "pageView": 2,
+            "total": 2612
         }
     ]
 }

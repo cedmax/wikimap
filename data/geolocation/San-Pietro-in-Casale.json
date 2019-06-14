@@ -1,0 +1,27 @@
+{
+    "id": "place.11580821009491250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro in Casale",
+    "place_name": "San Pietro in Casale, Bologna, Italy",
+    "bbox": [
+        11.32554,
+        44.668036,
+        11.483253,
+        44.752973
+    ],
+    "center": [
+        11.4,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4,
+            44.7
+        ]
+    }
+}

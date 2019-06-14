@@ -1,0 +1,27 @@
+{
+    "id": "place.18428560307199320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mareno di Piave",
+    "place_name": "Mareno di Piave, Treviso, Italy",
+    "bbox": [
+        12.297367,
+        45.787979,
+        12.386917,
+        45.872329
+    ],
+    "center": [
+        12.352,
+        45.84088
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.352,
+            45.84088
+        ]
+    }
+}

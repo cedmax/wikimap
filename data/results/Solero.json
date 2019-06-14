@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Paolo Robotti",
-            "pageView": 11801
+            "pageView": 6,
+            "total": 11805
         },
         {
             "page": "Bruno di Segni",
-            "pageView": 8842
+            "pageView": 4,
+            "total": 8847
         },
         {
             "page": "Tullio Telmon",
-            "pageView": 4270
+            "pageView": 3,
+            "total": 4270
         },
         {
             "page": "Carlo Guasco",
-            "pageView": 3716
+            "pageView": 2,
+            "total": 3716
         },
         {
             "page": "Perpetuo Guasco",
-            "pageView": 2794
-        },
-        {
-            "page": "Bruno Pasino",
-            "pageView": 2376
-        },
-        {
-            "page": "Perpetuo di Tours",
-            "pageView": 2159
+            "pageView": 2,
+            "total": 2796
         },
         {
             "page": "Cesare Cristiani di Ravarano",
-            "pageView": 1889
+            "pageView": 2,
+            "total": 1889
         },
         {
-            "page": "Tancredi Tibaldi",
-            "pageView": 1582
+            "page": "Bruno Pasino",
+            "pageView": 2,
+            "total": 2377
         },
         {
-            "page": "Aleardo Nani",
-            "pageView": 1320
+            "page": "Perpetuo di Tours",
+            "pageView": 2,
+            "total": 2159
         },
         {
             "page": "Pietro Gallinotti",
-            "pageView": 1127
+            "pageView": 2,
+            "total": 1128
+        },
+        {
+            "page": "Tancredi Tibaldi",
+            "pageView": 1,
+            "total": 1582
+        },
+        {
+            "page": "Aleardo Nani",
+            "pageView": 1,
+            "total": 1321
         }
     ]
 }

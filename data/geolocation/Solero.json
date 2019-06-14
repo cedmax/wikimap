@@ -1,0 +1,27 @@
+{
+    "id": "place.9464619698641650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solero",
+    "place_name": "Solero, Alessandria, Italy",
+    "bbox": [
+        8.458269,
+        44.882851,
+        8.536371,
+        44.936848
+    ],
+    "center": [
+        8.50861,
+        44.91917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.50861,
+            44.91917
+        ]
+    }
+}

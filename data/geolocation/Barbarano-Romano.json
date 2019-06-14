@@ -1,0 +1,27 @@
+{
+    "id": "place.4485694962577920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barbarano Romano",
+    "place_name": "Barbarano Romano, Viterbo, Italy",
+    "bbox": [
+        12.023099,
+        42.214231,
+        12.121757,
+        42.280732
+    ],
+    "center": [
+        12.0675,
+        42.25028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0675,
+            42.25028
+        ]
+    }
+}

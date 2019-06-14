@@ -3,79 +3,98 @@
     "people": [
         {
             "page": "Stefano Rivetti di Val Cervo",
-            "pageView": 12239
+            "pageView": 7,
+            "total": 12246
         },
         {
             "page": "Costabile Carducci",
-            "pageView": 6803
+            "pageView": 4,
+            "total": 6803
         },
         {
             "page": "Giuseppe Reale",
-            "pageView": 5919
+            "pageView": 4,
+            "total": 5924
         },
         {
             "page": "Francesco Sisinni",
-            "pageView": 5613
-        },
-        {
-            "page": "Alessandro Mandarini",
-            "pageView": 5177
+            "pageView": 4,
+            "total": 5617
         },
         {
             "page": "Casimiro Gennari",
-            "pageView": 4091
+            "pageView": 3,
+            "total": 4092
+        },
+        {
+            "page": "Alessandro Mandarini",
+            "pageView": 3,
+            "total": 5180
         },
         {
             "page": "Vittorio Russo (italianista)",
-            "pageView": 3126
+            "pageView": 2,
+            "total": 3126
         },
         {
             "page": "Max Neuhaus",
-            "pageView": 2858
+            "pageView": 2,
+            "total": 2860
         },
         {
             "page": "Angelo Brando",
-            "pageView": 2541
-        },
-        {
-            "page": "Biagio Lammoglia",
-            "pageView": 2366
+            "pageView": 2,
+            "total": 2541
         },
         {
             "page": "Francesco Labanchi",
-            "pageView": 2066
-        },
-        {
-            "page": "Pasquale Epifanio Iannini",
-            "pageView": 2027
-        },
-        {
-            "page": "Giovanni Battista Labanchi",
-            "pageView": 1591
-        },
-        {
-            "page": "Onofrio Maria Gennari",
-            "pageView": 1383
+            "pageView": 2,
+            "total": 2066
         },
         {
             "page": "Raffaele Ginnari",
-            "pageView": 1288
-        },
-        {
-            "page": "Massimo Impieri",
-            "pageView": 937
+            "pageView": 1,
+            "total": 1288
         },
         {
             "page": "Ferdinando Vincenzo Giovanni Ginnari",
-            "pageView": 843
+            "pageView": 1,
+            "total": 843
+        },
+        {
+            "page": "Onofrio Maria Gennari",
+            "pageView": 1,
+            "total": 1383
+        },
+        {
+            "page": "Giovanni Battista Labanchi",
+            "pageView": 1,
+            "total": 1591
+        },
+        {
+            "page": "Biagio Lammoglia",
+            "pageView": 1,
+            "total": 2366
+        },
+        {
+            "page": "Pasquale Epifanio Iannini",
+            "pageView": 1,
+            "total": 2028
         },
         {
             "page": "Duilio Collutiis",
-            "pageView": 328
+            "pageView": 0,
+            "total": 328
         },
         {
             "page": "Francesco Ferdinando Sanseverino",
-            "pageView": 239
+            "pageView": 0,
+            "total": 240
+        },
+        {
+            "page": "Massimo Impieri",
+            "pageView": 0,
+            "total": 938
         }
     ]
 }

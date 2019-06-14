@@ -1,0 +1,27 @@
+{
+    "id": "place.3615521752383270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicoforte",
+    "place_name": "Vicoforte, Cuneo, Italy",
+    "bbox": [
+        7.833561,
+        44.327778,
+        7.902593,
+        44.393975
+    ],
+    "center": [
+        7.85,
+        44.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85,
+            44.36667
+        ]
+    }
+}

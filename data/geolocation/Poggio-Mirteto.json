@@ -1,0 +1,27 @@
+{
+    "id": "place.4588331785448560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio Mirteto",
+    "place_name": "Poggio Mirteto, Rieti, Italy",
+    "bbox": [
+        12.611361,
+        42.236455,
+        12.734521,
+        42.295331
+    ],
+    "center": [
+        12.68861,
+        42.26722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68861,
+            42.26722
+        ]
+    }
+}

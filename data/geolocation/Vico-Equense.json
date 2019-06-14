@@ -1,0 +1,27 @@
+{
+    "id": "place.4577100111444340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vico Equense",
+    "place_name": "Vico Equense, Napoli, Italy",
+    "bbox": [
+        14.4036,
+        40.616748,
+        14.501734,
+        40.683364
+    ],
+    "center": [
+        14.43333,
+        40.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.43333,
+            40.66667
+        ]
+    }
+}

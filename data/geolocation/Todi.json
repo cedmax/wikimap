@@ -1,0 +1,27 @@
+{
+    "id": "place.9919259208850430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Todi",
+    "place_name": "Todi, Perugia, Italy",
+    "bbox": [
+        12.289714,
+        42.673022,
+        12.509477,
+        42.886186
+    ],
+    "center": [
+        12.41667,
+        42.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            42.78333
+        ]
+    }
+}

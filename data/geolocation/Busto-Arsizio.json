@@ -1,0 +1,27 @@
+{
+    "id": "place.8532210370379010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Busto Arsizio",
+    "place_name": "Busto Arsizio, Varese, Italy",
+    "bbox": [
+        8.805224,
+        45.567678,
+        8.880097,
+        45.642693
+    ],
+    "center": [
+        8.8518,
+        45.61196
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8518,
+            45.61196
+        ]
+    }
+}

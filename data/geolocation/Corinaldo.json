@@ -1,0 +1,27 @@
+{
+    "id": "place.8612095527616170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corinaldo",
+    "place_name": "Corinaldo, Ancona, Italy",
+    "bbox": [
+        12.984313,
+        43.602372,
+        13.101807,
+        43.693155
+    ],
+    "center": [
+        13.0479,
+        43.6489
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.0479,
+            43.6489
+        ]
+    }
+}

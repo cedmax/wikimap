@@ -1,0 +1,27 @@
+{
+    "id": "place.10394871151476190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serravalle Scrivia",
+    "place_name": "Serravalle Scrivia, Alessandria, Italy",
+    "bbox": [
+        8.821278,
+        44.695332,
+        8.882669,
+        44.75819
+    ],
+    "center": [
+        8.86028,
+        44.7225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86028,
+            44.7225
+        ]
+    }
+}

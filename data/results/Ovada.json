@@ -2,84 +2,104 @@
     "name": "Ovada",
     "people": [
         {
-            "page": "Simone Barbato",
-            "pageView": 158777
+            "page": "Guido Alpa",
+            "pageView": 25.5,
+            "total": 61208
         },
         {
-            "page": "Guido Alpa",
-            "pageView": 61161
+            "page": "Simone Barbato",
+            "pageView": 20,
+            "total": 158794
         },
         {
             "page": "Paolo della Croce",
-            "pageView": 31540
+            "pageView": 16,
+            "total": 31559
         },
         {
             "page": "Gian Piero Alloisio",
-            "pageView": 18768
+            "pageView": 11,
+            "total": 18779
         },
         {
             "page": "Dino Crocco",
-            "pageView": 15290
-        },
-        {
-            "page": "Adriano Bausola",
-            "pageView": 8501
-        },
-        {
-            "page": "Liliana Bonfatti",
-            "pageView": 7028
-        },
-        {
-            "page": "Ubaldo Arata",
-            "pageView": 6637
-        },
-        {
-            "page": "Francesco Tortarolo",
-            "pageView": 5133
+            "pageView": 10,
+            "total": 15299
         },
         {
             "page": "Tommaso Percivale",
-            "pageView": 4557
+            "pageView": 5,
+            "total": 4580
         },
         {
-            "page": "Bartolomeo Marchelli",
-            "pageView": 3591
+            "page": "Adriano Bausola",
+            "pageView": 5,
+            "total": 8505
         },
         {
-            "page": "Giacomo Giuseppe Costa",
-            "pageView": 3187
+            "page": "Liliana Bonfatti",
+            "pageView": 4,
+            "total": 7030
         },
         {
-            "page": "Giancarlo Martini (ciclista)",
-            "pageView": 3187
+            "page": "Ubaldo Arata",
+            "pageView": 4,
+            "total": 6646
         },
         {
-            "page": "Wilma Massucco",
-            "pageView": 2628
-        },
-        {
-            "page": "Vincenzo Muricchio",
-            "pageView": 2286
+            "page": "Francesco Tortarolo",
+            "pageView": 3,
+            "total": 5134
         },
         {
             "page": "Dario Pratoverde",
-            "pageView": 2281
+            "pageView": 2,
+            "total": 2281
+        },
+        {
+            "page": "Giacomo Giuseppe Costa",
+            "pageView": 2,
+            "total": 3187
         },
         {
             "page": "Domenico Buffa",
-            "pageView": 2025
+            "pageView": 2,
+            "total": 2025
         },
         {
-            "page": "Giacomo Cannonero",
-            "pageView": 1654
+            "page": "Bartolomeo Marchelli",
+            "pageView": 2,
+            "total": 3594
+        },
+        {
+            "page": "Giancarlo Martini (ciclista)",
+            "pageView": 2,
+            "total": 3187
+        },
+        {
+            "page": "Wilma Massucco",
+            "pageView": 2,
+            "total": 2631
+        },
+        {
+            "page": "Vincenzo Muricchio",
+            "pageView": 2,
+            "total": 2287
         },
         {
             "page": "Emmanuele Borgatta",
-            "pageView": 1538
+            "pageView": 1,
+            "total": 1538
         },
         {
             "page": "Luigi Dagnino",
-            "pageView": 1364
+            "pageView": 1,
+            "total": 1365
+        },
+        {
+            "page": "Giacomo Cannonero",
+            "pageView": 1,
+            "total": 1656
         }
     ]
 }

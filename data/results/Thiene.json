@@ -2,268 +2,334 @@
     "name": "Thiene",
     "people": [
         {
-            "page": "Mauro Zironelli",
-            "pageView": 66916
-        },
-        {
             "page": "Luigi Meneghello",
-            "pageView": 55084
-        },
-        {
-            "page": "Marco Pozza",
-            "pageView": 52312
+            "pageView": 36,
+            "total": 55123
         },
         {
             "page": "Arturo Ferrarin",
-            "pageView": 42608
+            "pageView": 26,
+            "total": 42632
         },
         {
-            "page": "Davide Rigon",
-            "pageView": 31025
+            "page": "Marco Pozza",
+            "pageView": 22,
+            "total": 52324
+        },
+        {
+            "page": "Mauro Zironelli",
+            "pageView": 18,
+            "total": 67003
         },
         {
             "page": "Orlando Pizzolato",
-            "pageView": 30072
+            "pageView": 16,
+            "total": 30084
         },
         {
             "page": "Silvia Ziche",
-            "pageView": 24319
+            "pageView": 16,
+            "total": 24344
         },
         {
-            "page": "Marco Cunico",
-            "pageView": 15346
+            "page": "Davide Rigon",
+            "pageView": 16,
+            "total": 31068
         },
         {
             "page": "Stefano Ghirardello",
-            "pageView": 13912
+            "pageView": 9,
+            "total": 13925
         },
         {
-            "page": "Alberto Briaschi",
-            "pageView": 11935
-        },
-        {
-            "page": "Ugo Buzzolan",
-            "pageView": 9187
-        },
-        {
-            "page": "Thomas Ceccon",
-            "pageView": 7929
-        },
-        {
-            "page": "Fausto Borin",
-            "pageView": 7901
-        },
-        {
-            "page": "Sante Carollo",
-            "pageView": 7474
-        },
-        {
-            "page": "Franco Stella",
-            "pageView": 7398
-        },
-        {
-            "page": "Ennio Dal Bianco",
-            "pageView": 6176
-        },
-        {
-            "page": "Luigi Dall'Igna",
-            "pageView": 6002
-        },
-        {
-            "page": "Giacomo Chilesotti",
-            "pageView": 5608
-        },
-        {
-            "page": "Mario Tomy",
-            "pageView": 4630
-        },
-        {
-            "page": "Vittorio Mosele",
-            "pageView": 4625
-        },
-        {
-            "page": "Andrea Mazzacavallo",
-            "pageView": 4491
-        },
-        {
-            "page": "Silvia Ceccon",
-            "pageView": 4406
-        },
-        {
-            "page": "Silvano Chiumento",
-            "pageView": 4171
-        },
-        {
-            "page": "Andrea Ballarin",
-            "pageView": 4070
+            "page": "Marco Cunico",
+            "pageView": 9,
+            "total": 15352
         },
         {
             "page": "Pieraldo Dalle Carbonare",
-            "pageView": 4062
+            "pageView": 7,
+            "total": 4064
         },
         {
-            "page": "Filippo Busin",
-            "pageView": 4038
+            "page": "Alberto Briaschi",
+            "pageView": 7,
+            "total": 11948
         },
         {
-            "page": "Luigi Sardei",
-            "pageView": 3648
+            "page": "Ugo Buzzolan",
+            "pageView": 5,
+            "total": 9191
         },
         {
-            "page": "Enrico Crosato",
-            "pageView": 3526
+            "page": "Fausto Borin",
+            "pageView": 5,
+            "total": 7907
         },
         {
-            "page": "Pierluigi Bresciani",
-            "pageView": 3449
+            "page": "Ennio Dal Bianco",
+            "pageView": 4,
+            "total": 6178
         },
         {
-            "page": "Riccardo Brazzale",
-            "pageView": 3422
+            "page": "Franco Stella",
+            "pageView": 4,
+            "total": 7399
         },
         {
-            "page": "Gianluca Pianegonda",
-            "pageView": 3385
-        },
-        {
-            "page": "Sandro Brusamarello",
-            "pageView": 3320
-        },
-        {
-            "page": "Anna Rossi",
-            "pageView": 3298
-        },
-        {
-            "page": "Giovanni Savio",
-            "pageView": 3019
-        },
-        {
-            "page": "David Rossi (decoratore)",
-            "pageView": 2955
-        },
-        {
-            "page": "Francesco Bassani",
-            "pageView": 2849
-        },
-        {
-            "page": "Anita Muraro",
-            "pageView": 2651
-        },
-        {
-            "page": "Diego Nicoletti",
-            "pageView": 2501
-        },
-        {
-            "page": "Carlo Rosa (calciatore)",
-            "pageView": 2232
-        },
-        {
-            "page": "Giacinto Giovanni Ambrosi",
-            "pageView": 2170
+            "page": "Sante Carollo",
+            "pageView": 4,
+            "total": 7480
         },
         {
             "page": "Bianca Giulia Bardin",
-            "pageView": 2152
+            "pageView": 4,
+            "total": 2157
+        },
+        {
+            "page": "Andrea Ballarin",
+            "pageView": 3,
+            "total": 4071
+        },
+        {
+            "page": "David Rossi (decoratore)",
+            "pageView": 3,
+            "total": 2956
+        },
+        {
+            "page": "Silvano Chiumento",
+            "pageView": 3,
+            "total": 4172
+        },
+        {
+            "page": "Vittorio Mosele",
+            "pageView": 3,
+            "total": 4630
+        },
+        {
+            "page": "Andrea Mazzacavallo",
+            "pageView": 3,
+            "total": 4495
+        },
+        {
+            "page": "Filippo Busin",
+            "pageView": 3,
+            "total": 4038
+        },
+        {
+            "page": "Enrico Crosato",
+            "pageView": 3,
+            "total": 3528
+        },
+        {
+            "page": "Silvia Ceccon",
+            "pageView": 3,
+            "total": 4407
+        },
+        {
+            "page": "Mario Tomy",
+            "pageView": 3,
+            "total": 4634
+        },
+        {
+            "page": "Giacomo Chilesotti",
+            "pageView": 3,
+            "total": 5613
+        },
+        {
+            "page": "Luigi Sardei",
+            "pageView": 2,
+            "total": 3649
+        },
+        {
+            "page": "Carlo Rosa (calciatore)",
+            "pageView": 2,
+            "total": 2235
+        },
+        {
+            "page": "Pierluigi Bresciani",
+            "pageView": 2,
+            "total": 3449
+        },
+        {
+            "page": "Francesco Bassani",
+            "pageView": 2,
+            "total": 2851
+        },
+        {
+            "page": "Diego Nicoletti",
+            "pageView": 2,
+            "total": 2502
+        },
+        {
+            "page": "Sandro Brusamarello",
+            "pageView": 2,
+            "total": 3320
         },
         {
             "page": "Lorenzo Signorini",
-            "pageView": 2120
-        },
-        {
-            "page": "Mario Pais de Libera",
-            "pageView": 2028
-        },
-        {
-            "page": "Giuseppe Fabris",
-            "pageView": 1958
+            "pageView": 2,
+            "total": 2120
         },
         {
             "page": "Bruno Monti (calciatore)",
-            "pageView": 1852
+            "pageView": 2,
+            "total": 1852
         },
         {
-            "page": "Giovanni Fabris (calciatore)",
-            "pageView": 1731
+            "page": "Mario Pais de Libera",
+            "pageView": 2,
+            "total": 2029
         },
         {
-            "page": "Stefano Tedesco",
-            "pageView": 1643
+            "page": "Anita Muraro",
+            "pageView": 2,
+            "total": 2652
         },
         {
-            "page": "Elisabetta Priante",
-            "pageView": 1635
+            "page": "Gianluca Pianegonda",
+            "pageView": 2,
+            "total": 3386
         },
         {
-            "page": "Erica Caracciolo",
-            "pageView": 1594
+            "page": "Riccardo Brazzale",
+            "pageView": 2,
+            "total": 3424
         },
         {
-            "page": "Albano Negro",
-            "pageView": 1575
+            "page": "Giovanni Savio",
+            "pageView": 2,
+            "total": 3023
         },
         {
-            "page": "Emilio Pozzan",
-            "pageView": 1573
+            "page": "Giacinto Giovanni Ambrosi",
+            "pageView": 2,
+            "total": 2172
+        },
+        {
+            "page": "Anna Rossi",
+            "pageView": 2,
+            "total": 3301
+        },
+        {
+            "page": "Giuseppe Fabris",
+            "pageView": 2,
+            "total": 1958
         },
         {
             "page": "Gaetano Miglioranzi",
-            "pageView": 1563
-        },
-        {
-            "page": "Gaetano Costalonga",
-            "pageView": 1545
-        },
-        {
-            "page": "Stefano Sartori (sciatore)",
-            "pageView": 1437
-        },
-        {
-            "page": "Adriano Pigato",
-            "pageView": 1410
-        },
-        {
-            "page": "Valentino Foscarini",
-            "pageView": 1376
-        },
-        {
-            "page": "Antonio Busin",
-            "pageView": 1349
+            "pageView": 1,
+            "total": 1563
         },
         {
             "page": "Luigi Strobbe",
-            "pageView": 1332
+            "pageView": 1,
+            "total": 1332
+        },
+        {
+            "page": "Stefano Tedesco",
+            "pageView": 1,
+            "total": 1643
         },
         {
             "page": "Aldo Oriani",
-            "pageView": 1267
+            "pageView": 1,
+            "total": 1268
+        },
+        {
+            "page": "Giovanni Fabris (calciatore)",
+            "pageView": 1,
+            "total": 1731
+        },
+        {
+            "page": "Gaetano Costalonga",
+            "pageView": 1,
+            "total": 1545
+        },
+        {
+            "page": "Adriano Pigato",
+            "pageView": 1,
+            "total": 1412
+        },
+        {
+            "page": "Albano Negro",
+            "pageView": 1,
+            "total": 1578
+        },
+        {
+            "page": "Valentino Foscarini",
+            "pageView": 1,
+            "total": 1378
+        },
+        {
+            "page": "Emilio Pozzan",
+            "pageView": 1,
+            "total": 1573
+        },
+        {
+            "page": "Elisabetta Priante",
+            "pageView": 1,
+            "total": 1635
         },
         {
             "page": "Livio Gemo",
-            "pageView": 1122
+            "pageView": 1,
+            "total": 1122
+        },
+        {
+            "page": "Erica Caracciolo",
+            "pageView": 1,
+            "total": 1594
+        },
+        {
+            "page": "Antonio Busin",
+            "pageView": 1,
+            "total": 1349
         },
         {
             "page": "Valentino Sardei",
-            "pageView": 1001
+            "pageView": 1,
+            "total": 1001
         },
         {
-            "page": "Alan Karam",
-            "pageView": 460
-        },
-        {
-            "page": "Guido Miotto",
-            "pageView": 371
-        },
-        {
-            "page": "Franco Vanzo",
-            "pageView": 361
-        },
-        {
-            "page": "Giuseppe Balasso",
-            "pageView": 262
+            "page": "Stefano Sartori (sciatore)",
+            "pageView": 1,
+            "total": 1438
         },
         {
             "page": "Giovanni Battista Bendazzoli",
-            "pageView": 45
+            "pageView": 0,
+            "total": 45
+        },
+        {
+            "page": "Guido Miotto",
+            "pageView": 0,
+            "total": 371
+        },
+        {
+            "page": "Giuseppe Balasso",
+            "pageView": 0,
+            "total": 262
+        },
+        {
+            "page": "Luigi Dall'Igna",
+            "pageView": 0,
+            "total": 6033
+        },
+        {
+            "page": "Thomas Ceccon",
+            "pageView": 0,
+            "total": 7932
+        },
+        {
+            "page": "Alan Karam",
+            "pageView": 0,
+            "total": 463
+        },
+        {
+            "page": "Franco Vanzo",
+            "pageView": 0,
+            "total": 361
         }
     ]
 }

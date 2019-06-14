@@ -1,0 +1,27 @@
+{
+    "id": "place.12427395413900270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aquino",
+    "place_name": "Aquino, Frosinone, Italy",
+    "bbox": [
+        13.682015,
+        41.444559,
+        13.742258,
+        41.50854
+    ],
+    "center": [
+        13.7,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7,
+            41.5
+        ]
+    }
+}

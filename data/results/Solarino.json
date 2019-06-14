@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Colapesce (cantante)",
-            "pageView": 94048
+            "pageView": 51,
+            "total": 94119
         },
         {
             "page": "Giuseppe Gianni",
-            "pageView": 18838
-        },
-        {
-            "page": "Alfredo Mezio",
-            "pageView": 2489
+            "pageView": 8,
+            "total": 18848
         },
         {
             "page": "Paolo Calafiore",
-            "pageView": 2081
+            "pageView": 2,
+            "total": 2081
+        },
+        {
+            "page": "Alfredo Mezio",
+            "pageView": 2,
+            "total": 2490
         }
     ]
 }

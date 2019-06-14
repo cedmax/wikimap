@@ -1,0 +1,27 @@
+{
+    "id": "place.8278413539887410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Povegliano",
+    "place_name": "Povegliano, Treviso, Italy",
+    "bbox": [
+        12.152517,
+        45.736309,
+        12.230266,
+        45.77231
+    ],
+    "center": [
+        12.2,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2,
+            45.76667
+        ]
+    }
+}

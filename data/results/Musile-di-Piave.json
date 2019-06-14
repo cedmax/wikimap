@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Fulvio Ervas",
-            "pageView": 32077
+            "pageView": 17,
+            "total": 32090
         },
         {
             "page": "Tito Acerbo",
-            "pageView": 16030
+            "pageView": 10,
+            "total": 16038
         },
         {
             "page": "Leopoldo Pellas",
-            "pageView": 4550
+            "pageView": 3,
+            "total": 4555
         },
         {
             "page": "Vittorio Emanuele Bressanin",
-            "pageView": 3934
+            "pageView": 3,
+            "total": 3934
         },
         {
             "page": "Giancarlo Pivetta",
-            "pageView": 3931
-        },
-        {
-            "page": "Lisa Davanzo",
-            "pageView": 3191
-        },
-        {
-            "page": "Lucia Schiavinato",
-            "pageView": 2259
+            "pageView": 3,
+            "total": 3932
         },
         {
             "page": "Ottorino Tombolan Fava",
-            "pageView": 2131
+            "pageView": 2,
+            "total": 2133
+        },
+        {
+            "page": "Lisa Davanzo",
+            "pageView": 2,
+            "total": 3192
+        },
+        {
+            "page": "Lucia Schiavinato",
+            "pageView": 2,
+            "total": 2260
         },
         {
             "page": "Mauro Dal Sie",
-            "pageView": 2076
+            "pageView": 2,
+            "total": 2077
         },
         {
             "page": "Giuliano Pavanello",
-            "pageView": 66
+            "pageView": 0,
+            "total": 66
         },
         {
             "page": "Luigi Venturato",
-            "pageView": 39
+            "pageView": 0,
+            "total": 39
         }
     ]
 }

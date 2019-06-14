@@ -1,0 +1,27 @@
+{
+    "id": "place.11512224371831310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve di Cadore",
+    "place_name": "Pieve di Cadore, Belluno, Italy",
+    "bbox": [
+        12.268786,
+        46.351707,
+        12.46335,
+        46.472665
+    ],
+    "center": [
+        12.36667,
+        46.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.36667,
+            46.43333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13281701389267110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Severina",
+    "place_name": "Santa Severina, Crotone, Italy",
+    "bbox": [
+        16.844575,
+        39.107607,
+        16.988241,
+        39.193782
+    ],
+    "center": [
+        16.91667,
+        39.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.91667,
+            39.15
+        ]
+    }
+}

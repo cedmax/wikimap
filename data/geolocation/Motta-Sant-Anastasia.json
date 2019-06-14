@@ -1,0 +1,27 @@
+{
+    "id": "place.9621666365453620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta Sant'Anastasia",
+    "place_name": "Motta Sant'Anastasia, Catania, Italy",
+    "bbox": [
+        14.93405,
+        37.430401,
+        15.002811,
+        37.535964
+    ],
+    "center": [
+        14.96667,
+        37.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.96667,
+            37.5
+        ]
+    }
+}

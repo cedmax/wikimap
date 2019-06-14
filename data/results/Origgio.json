@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Carlo Airoldi",
-            "pageView": 52045
-        },
-        {
-            "page": "Gabriele Pennacchioli",
-            "pageView": 5184
+            "pageView": 13,
+            "total": 52062
         },
         {
             "page": "Pasquale Lombardi",
-            "pageView": 4650
+            "pageView": 3,
+            "total": 4653
+        },
+        {
+            "page": "Gabriele Pennacchioli",
+            "pageView": 3,
+            "total": 5190
         },
         {
             "page": "Paolo Castelnuovo",
-            "pageView": 2107
+            "pageView": 2,
+            "total": 2108
         }
     ]
 }

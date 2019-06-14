@@ -1,0 +1,27 @@
+{
+    "id": "place.5113481533760850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Contessa Entellina",
+    "place_name": "Contessa Entellina, Palermo, Italy",
+    "bbox": [
+        13.014017,
+        37.687169,
+        13.237116,
+        37.794365
+    ],
+    "center": [
+        13.18333,
+        37.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            37.73333
+        ]
+    }
+}

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Bartolomeo Ferracina",
-            "pageView": 5367
-        },
-        {
-            "page": "Mario Todesco",
-            "pageView": 3139
-        },
-        {
-            "page": "Aldo Bellò",
-            "pageView": 2993
+            "pageView": 3,
+            "total": 5371
         },
         {
             "page": "Andrea Secco",
-            "pageView": 1831
+            "pageView": 2,
+            "total": 1832
+        },
+        {
+            "page": "Aldo Bellò",
+            "pageView": 2,
+            "total": 2996
+        },
+        {
+            "page": "Mario Todesco",
+            "pageView": 2,
+            "total": 3140
         },
         {
             "page": "Fermo Zannoni",
-            "pageView": 1217
+            "pageView": 1,
+            "total": 1218
         }
     ]
 }

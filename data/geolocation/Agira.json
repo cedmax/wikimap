@@ -1,0 +1,27 @@
+{
+    "id": "place.14224072363356620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agira",
+    "place_name": "Agira, Enna, Italy",
+    "bbox": [
+        14.466189,
+        37.534673,
+        14.676048,
+        37.690999
+    ],
+    "center": [
+        14.51667,
+        37.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.51667,
+            37.65
+        ]
+    }
+}

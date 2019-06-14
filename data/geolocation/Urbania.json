@@ -1,0 +1,27 @@
+{
+    "id": "place.14611393620757390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Urbania",
+    "place_name": "Urbania, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.446912,
+        43.592982,
+        12.599201,
+        43.700639
+    ],
+    "center": [
+        12.52209,
+        43.66777
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.52209,
+            43.66777
+        ]
+    }
+}

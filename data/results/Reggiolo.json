@@ -3,51 +3,63 @@
     "people": [
         {
             "page": "Carlo Ancelotti",
-            "pageView": 2315257
+            "pageView": 946,
+            "total": 2316450
         },
         {
             "page": "Matilde di Canossa",
-            "pageView": 446865
+            "pageView": 281,
+            "total": 447055
         },
         {
             "page": "Maurizio Millenotti",
-            "pageView": 11361
+            "pageView": 7,
+            "total": 11369
         },
         {
             "page": "Luciano Soprani",
-            "pageView": 9550
-        },
-        {
-            "page": "Fiorenza Bassoli",
-            "pageView": 3757
-        },
-        {
-            "page": "Antonio Zerbini",
-            "pageView": 3362
-        },
-        {
-            "page": "Carlo Santachiara",
-            "pageView": 3286
-        },
-        {
-            "page": "Anna Trevisi",
-            "pageView": 3153
-        },
-        {
-            "page": "Gabriele Scappi",
-            "pageView": 2379
+            "pageView": 6,
+            "total": 9557
         },
         {
             "page": "Maurizio Fontanili",
-            "pageView": 2315
+            "pageView": 2,
+            "total": 2315
         },
         {
             "page": "Antonio Ruggero Maria Giorgi",
-            "pageView": 1645
+            "pageView": 2,
+            "total": 1646
+        },
+        {
+            "page": "Antonio Zerbini",
+            "pageView": 2,
+            "total": 3365
+        },
+        {
+            "page": "Carlo Santachiara",
+            "pageView": 2,
+            "total": 3288
+        },
+        {
+            "page": "Gabriele Scappi",
+            "pageView": 2,
+            "total": 2380
+        },
+        {
+            "page": "Fiorenza Bassoli",
+            "pageView": 2,
+            "total": 3762
+        },
+        {
+            "page": "Anna Trevisi",
+            "pageView": 2,
+            "total": 3154
         },
         {
             "page": "Alessio Bertolotti",
-            "pageView": 1181
+            "pageView": 1,
+            "total": 1182
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.16899219908172390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marino",
+    "place_name": "Marino, Roma, Italy",
+    "bbox": [
+        12.583143,
+        41.735953,
+        12.685848,
+        41.783955
+    ],
+    "center": [
+        12.66667,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            41.76667
+        ]
+    }
+}

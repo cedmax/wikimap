@@ -3,135 +3,168 @@
     "people": [
         {
             "page": "Domenico Calcagno",
-            "pageView": 30560
+            "pageView": 18,
+            "total": 30570
         },
         {
             "page": "Dante Lafranconi",
-            "pageView": 15619
+            "pageView": 9,
+            "total": 15626
         },
         {
             "page": "Giulio Sanguineti",
-            "pageView": 12720
-        },
-        {
-            "page": "Vittorio Lupi",
-            "pageView": 9346
-        },
-        {
-            "page": "Roberto Amadei",
-            "pageView": 7918
+            "pageView": 8,
+            "total": 12726
         },
         {
             "page": "Calogero Marino",
-            "pageView": 6699
+            "pageView": 7,
+            "total": 6711
         },
         {
-            "page": "Alessandro Riccardi di Netro",
-            "pageView": 5075
+            "page": "Vittorio Lupi",
+            "pageView": 5,
+            "total": 9348
         },
         {
-            "page": "Giuseppe Brignole",
-            "pageView": 4920
+            "page": "Roberto Amadei",
+            "pageView": 5,
+            "total": 7925
         },
         {
             "page": "Alessandro Ajmone Marsan",
-            "pageView": 4266
+            "pageView": 3,
+            "total": 4268
+        },
+        {
+            "page": "Giuseppe Brignole",
+            "pageView": 3,
+            "total": 4921
+        },
+        {
+            "page": "Alessandro Riccardi di Netro",
+            "pageView": 3,
+            "total": 5081
         },
         {
             "page": "Cesare Salvarezza",
-            "pageView": 3570
-        },
-        {
-            "page": "Paragorio da Noli",
-            "pageView": 2893
-        },
-        {
-            "page": "Antonio Ferrero",
-            "pageView": 2523
-        },
-        {
-            "page": "Franco Sibilla",
-            "pageView": 2411
-        },
-        {
-            "page": "Sinibaldo",
-            "pageView": 2356
-        },
-        {
-            "page": "Giuseppe Salvatore Scatti",
-            "pageView": 2352
-        },
-        {
-            "page": "Angelo Stefano Brusco",
-            "pageView": 2038
-        },
-        {
-            "page": "Stefano Martini",
-            "pageView": 1995
-        },
-        {
-            "page": "Antonio Maria Arduini",
-            "pageView": 1974
+            "pageView": 2,
+            "total": 3572
         },
         {
             "page": "Luchino",
-            "pageView": 1884
+            "pageView": 2,
+            "total": 1889
+        },
+        {
+            "page": "Antonio Maria Arduini",
+            "pageView": 2,
+            "total": 1977
+        },
+        {
+            "page": "Paragorio da Noli",
+            "pageView": 2,
+            "total": 2895
+        },
+        {
+            "page": "Angelo Stefano Brusco",
+            "pageView": 2,
+            "total": 2040
+        },
+        {
+            "page": "Antonio Ferrero",
+            "pageView": 2,
+            "total": 2524
+        },
+        {
+            "page": "Franco Sibilla",
+            "pageView": 2,
+            "total": 2412
         },
         {
             "page": "Amedeo d'Alba",
-            "pageView": 1367
+            "pageView": 2,
+            "total": 1371
         },
         {
-            "page": "Napoleone Fieschi",
-            "pageView": 1188
+            "page": "Giuseppe Salvatore Scatti",
+            "pageView": 2,
+            "total": 2354
         },
         {
-            "page": "Leonardo Trucco",
-            "pageView": 1085
+            "page": "Stefano Martini",
+            "pageView": 2,
+            "total": 1997
         },
         {
-            "page": "Guglielmo Contardi",
-            "pageView": 1076
-        },
-        {
-            "page": "Massimiliano Doria",
-            "pageView": 1046
-        },
-        {
-            "page": "Marco Giacinto Gandolfo",
-            "pageView": 984
-        },
-        {
-            "page": "Marco Vigerio (vescovo)",
-            "pageView": 938
-        },
-        {
-            "page": "Timoteo Berardi",
-            "pageView": 892
-        },
-        {
-            "page": "Pastore (vescovo di Noli)",
-            "pageView": 863
-        },
-        {
-            "page": "Filippo (vescovo di Noli)",
-            "pageView": 856
-        },
-        {
-            "page": "Ugolino (vescovo di Noli)",
-            "pageView": 789
-        },
-        {
-            "page": "Teodesco",
-            "pageView": 760
+            "page": "Sinibaldo",
+            "pageView": 2,
+            "total": 2360
         },
         {
             "page": "Nicolò (vescovo di Noli)",
-            "pageView": 738
+            "pageView": 1,
+            "total": 738
+        },
+        {
+            "page": "Pastore (vescovo di Noli)",
+            "pageView": 1,
+            "total": 863
+        },
+        {
+            "page": "Napoleone Fieschi",
+            "pageView": 1,
+            "total": 1188
+        },
+        {
+            "page": "Ugolino (vescovo di Noli)",
+            "pageView": 1,
+            "total": 789
+        },
+        {
+            "page": "Massimiliano Doria",
+            "pageView": 1,
+            "total": 1046
+        },
+        {
+            "page": "Marco Vigerio (vescovo)",
+            "pageView": 1,
+            "total": 938
+        },
+        {
+            "page": "Teodesco",
+            "pageView": 1,
+            "total": 760
+        },
+        {
+            "page": "Filippo (vescovo di Noli)",
+            "pageView": 1,
+            "total": 856
+        },
+        {
+            "page": "Marco Giacinto Gandolfo",
+            "pageView": 1,
+            "total": 984
+        },
+        {
+            "page": "Leonardo Trucco",
+            "pageView": 1,
+            "total": 1085
+        },
+        {
+            "page": "Guglielmo Contardi",
+            "pageView": 1,
+            "total": 1079
+        },
+        {
+            "page": "Timoteo Berardi",
+            "pageView": 1,
+            "total": 894
         },
         {
             "page": "Marco (vescovo)",
-            "pageView": 724
+            "pageView": 1,
+            "total": 724
         }
     ]
 }

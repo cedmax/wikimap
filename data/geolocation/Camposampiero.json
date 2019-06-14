@@ -1,0 +1,27 @@
+{
+    "id": "place.9939347880046140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camposampiero",
+    "place_name": "Camposampiero, Padova, Italy",
+    "bbox": [
+        11.905115,
+        45.543409,
+        11.994278,
+        45.604471
+    ],
+    "center": [
+        11.93333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            45.56667
+        ]
+    }
+}

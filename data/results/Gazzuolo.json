@@ -2,60 +2,74 @@
     "name": "Gazzuolo",
     "people": [
         {
-            "page": "Giovanni Nuvoletti",
-            "pageView": 44675
-        },
-        {
             "page": "Giulia Gonzaga",
-            "pageView": 32948
+            "pageView": 21,
+            "total": 32961
         },
         {
-            "page": "Ludovico Gonzaga (vescovo di Mantova)",
-            "pageView": 6615
+            "page": "Giovanni Nuvoletti",
+            "pageView": 20,
+            "total": 44698
         },
         {
             "page": "Paolo Giacometti",
-            "pageView": 6578
+            "pageView": 4,
+            "total": 6590
         },
         {
-            "page": "Ettore Bozzoli",
-            "pageView": 6002
+            "page": "Ludovico Gonzaga (vescovo di Mantova)",
+            "pageView": 4,
+            "total": 6617
         },
         {
             "page": "Francesco Gonzaga (1546-1620)",
-            "pageView": 5966
-        },
-        {
-            "page": "Antonia del Balzo (1461-1538)",
-            "pageView": 5593
-        },
-        {
-            "page": "Pirro Gonzaga",
-            "pageView": 5582
-        },
-        {
-            "page": "Carlo Gonzaga (1523-1555)",
-            "pageView": 5209
+            "pageView": 4,
+            "total": 5967
         },
         {
             "page": "Pier Jacopo Alari Bonacolsi",
-            "pageView": 4985
+            "pageView": 3,
+            "total": 4985
+        },
+        {
+            "page": "Pirro Gonzaga",
+            "pageView": 3,
+            "total": 5582
+        },
+        {
+            "page": "Antonia del Balzo (1461-1538)",
+            "pageView": 3,
+            "total": 5596
         },
         {
             "page": "Lucrezia Gonzaga",
-            "pageView": 4717
+            "pageView": 3,
+            "total": 4717
         },
         {
             "page": "Giuseppe Azzini",
-            "pageView": 4502
+            "pageView": 3,
+            "total": 4504
         },
         {
-            "page": "Renzo Zanazzi",
-            "pageView": 3419
+            "page": "Carlo Gonzaga (1523-1555)",
+            "pageView": 3,
+            "total": 5215
+        },
+        {
+            "page": "Ettore Bozzoli",
+            "pageView": 2,
+            "total": 6004
         },
         {
             "page": "Federico Gonzaga (da Gazzuolo)",
-            "pageView": 2302
+            "pageView": 2,
+            "total": 2303
+        },
+        {
+            "page": "Renzo Zanazzi",
+            "pageView": 2,
+            "total": 3422
         }
     ]
 }

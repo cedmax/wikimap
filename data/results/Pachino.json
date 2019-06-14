@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Vitaliano Brancati",
-            "pageView": 114665
+            "pageView": 70,
+            "total": 114734
         },
         {
             "page": "Cristian Baglieri",
-            "pageView": 11753
-        },
-        {
-            "page": "Giuseppe Malandrino",
-            "pageView": 7208
+            "pageView": 8,
+            "total": 11764
         },
         {
             "page": "Gian Paolo Cugno",
-            "pageView": 6211
+            "pageView": 4,
+            "total": 6212
+        },
+        {
+            "page": "Giuseppe Malandrino",
+            "pageView": 4,
+            "total": 7212
         },
         {
             "page": "Corrado Deodato",
-            "pageView": 2828
+            "pageView": 2,
+            "total": 2830
         },
         {
             "page": "Pietro Ferrara",
-            "pageView": 2200
+            "pageView": 2,
+            "total": 2202
         }
     ]
 }

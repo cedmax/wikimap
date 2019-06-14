@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Domenico Modugno",
-            "pageView": 1105504
-        },
-        {
-            "page": "Emanuele Scagliusi",
-            "pageView": 7076
+            "pageView": 528.5,
+            "total": 1105971
         },
         {
             "page": "Pompeo Sarnelli",
-            "pageView": 6854
-        },
-        {
-            "page": "Agostino Ciasca",
-            "pageView": 2624
+            "pageView": 4,
+            "total": 6859
         },
         {
             "page": "Fiorenzo Alfieri",
-            "pageView": 2365
+            "pageView": 4,
+            "total": 2370
         },
         {
-            "page": "Domenico Lomelo",
-            "pageView": 2191
-        },
-        {
-            "page": "Niccolò Radulovich",
-            "pageView": 2139
-        },
-        {
-            "page": "Vito Cosimo Basile",
-            "pageView": 2071
+            "page": "Emanuele Scagliusi",
+            "pageView": 3,
+            "total": 7082
         },
         {
             "page": "Fulvia Miani Perotti",
-            "pageView": 1572
+            "pageView": 2,
+            "total": 1572
+        },
+        {
+            "page": "Agostino Ciasca",
+            "pageView": 2,
+            "total": 2625
+        },
+        {
+            "page": "Domenico Lomelo",
+            "pageView": 2,
+            "total": 2193
+        },
+        {
+            "page": "Vito Cosimo Basile",
+            "pageView": 2,
+            "total": 2072
+        },
+        {
+            "page": "Niccolò Radulovich",
+            "pageView": 2,
+            "total": 2140
         },
         {
             "page": "Giuseppe Del Drago",
-            "pageView": 1540
+            "pageView": 1,
+            "total": 1540
         },
         {
             "page": "Patty L'Abbate",
-            "pageView": 340
+            "pageView": 0,
+            "total": 347
         }
     ]
 }

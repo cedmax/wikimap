@@ -1,0 +1,27 @@
+{
+    "id": "place.7860280996643160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peschiera del Garda",
+    "place_name": "Peschiera del Garda, Verona, Italy",
+    "bbox": [
+        10.62329,
+        45.415594,
+        10.716273,
+        45.465403
+    ],
+    "center": [
+        10.68861,
+        45.43861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68861,
+            45.43861
+        ]
+    }
+}

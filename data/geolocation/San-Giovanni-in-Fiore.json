@@ -1,0 +1,27 @@
+{
+    "id": "place.16919166506368330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni in Fiore",
+    "place_name": "San Giovanni in Fiore, Cosenza, Italy",
+    "bbox": [
+        16.490853,
+        39.189365,
+        16.778337,
+        39.377141
+    ],
+    "center": [
+        16.70028,
+        39.26417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.70028,
+            39.26417
+        ]
+    }
+}

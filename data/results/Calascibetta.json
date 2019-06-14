@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Pietro II di Sicilia",
-            "pageView": 19141
+            "pageView": 12,
+            "total": 19156
         },
         {
             "page": "Giuseppe D'Angelo",
-            "pageView": 8455
-        },
-        {
-            "page": "Giuseppe Giliberto",
-            "pageView": 2028
+            "pageView": 5,
+            "total": 8465
         },
         {
             "page": "Pietro Capizzi",
-            "pageView": 2017
+            "pageView": 2,
+            "total": 2017
+        },
+        {
+            "page": "Giuseppe Giliberto",
+            "pageView": 2,
+            "total": 2028
         },
         {
             "page": "Simone Napoli da Calascibetta",
-            "pageView": 776
+            "pageView": 0,
+            "total": 776
         }
     ]
 }

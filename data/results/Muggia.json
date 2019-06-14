@@ -2,64 +2,79 @@
     "name": "Muggia",
     "people": [
         {
-            "page": "Willer Bordon",
-            "pageView": 66070
-        },
-        {
             "page": "Vittorio Vidali",
-            "pageView": 42036
+            "pageView": 23,
+            "total": 42066
         },
         {
-            "page": "Marianna Pepe",
-            "pageView": 23595
+            "page": "Willer Bordon",
+            "pageView": 22,
+            "total": 66083
         },
         {
             "page": "Niccolò Giani",
-            "pageView": 17595
+            "pageView": 11,
+            "total": 17623
         },
         {
             "page": "Vasco Vascotto",
-            "pageView": 11326
-        },
-        {
-            "page": "Giovanni Conversini",
-            "pageView": 4809
+            "pageView": 6,
+            "total": 11334
         },
         {
             "page": "Villi Bossi",
-            "pageView": 4524
+            "pageView": 3,
+            "total": 4525
         },
         {
             "page": "Giovanni Cattai",
-            "pageView": 3994
+            "pageView": 3,
+            "total": 3997
+        },
+        {
+            "page": "Giovanni Conversini",
+            "pageView": 3,
+            "total": 4809
         },
         {
             "page": "Gianni Fenzi",
-            "pageView": 3197
-        },
-        {
-            "page": "Carlo Marin",
-            "pageView": 2713
+            "pageView": 2,
+            "total": 3197
         },
         {
             "page": "Enrico Costanzo",
-            "pageView": 2005
-        },
-        {
-            "page": "Alice Romagnoli",
-            "pageView": 1713
-        },
-        {
-            "page": "Giuseppe Tarlao",
-            "pageView": 1335
+            "pageView": 2,
+            "total": 2012
         },
         {
             "page": "Luigi Frausin",
-            "pageView": 1290
+            "pageView": 2,
+            "total": 1292
+        },
+        {
+            "page": "Marianna Pepe",
+            "pageView": 2,
+            "total": 23601
+        },
+        {
+            "page": "Carlo Marin",
+            "pageView": 2,
+            "total": 2717
+        },
+        {
+            "page": "Giuseppe Tarlao",
+            "pageView": 1,
+            "total": 1335
+        },
+        {
+            "page": "Alice Romagnoli",
+            "pageView": 1,
+            "total": 1715
         },
         {
             "page": "Natale Colarich",
-            "pageView": 868
+            "pageView": 1,
+            "total": 869
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.4048693094241590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vieste",
+    "place_name": "Vieste, Foggia, Italy",
+    "bbox": [
+        16.038385,
+        41.760573,
+        16.202101,
+        41.932521
+    ],
+    "center": [
+        16.16667,
+        41.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.16667,
+            41.88333
+        ]
+    }
+}

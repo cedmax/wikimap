@@ -1,0 +1,27 @@
+{
+    "id": "place.4792458649588500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Canzian d'Isonzo",
+    "place_name": "San Canzian d'Isonzo, Gorizia, Italy",
+    "bbox": [
+        13.419652,
+        45.731687,
+        13.528276,
+        45.826963
+    ],
+    "center": [
+        13.46667,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.46667,
+            45.8
+        ]
+    }
+}

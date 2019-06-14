@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Giovanni Valetti",
-            "pageView": 12242
+            "pageView": 6,
+            "total": 12252
         },
         {
             "page": "Domenico Della Rovere",
-            "pageView": 6499
-        },
-        {
-            "page": "Tony Mancino",
-            "pageView": 4926
+            "pageView": 4,
+            "total": 6503
         },
         {
             "page": "Luigi Ferrero (1941)",
-            "pageView": 4138
+            "pageView": 3,
+            "total": 4138
+        },
+        {
+            "page": "Tony Mancino",
+            "pageView": 3,
+            "total": 4927
         },
         {
             "page": "Vittorio Amedeo Gioanetti",
-            "pageView": 3192
+            "pageView": 2,
+            "total": 3193
         },
         {
             "page": "Cristoforo Della Rovere",
-            "pageView": 2536
+            "pageView": 2,
+            "total": 2538
         },
         {
             "page": "Giovanni Francesco Della Rovere",
-            "pageView": 1590
+            "pageView": 1,
+            "total": 1590
         },
         {
             "page": "Giovanni Ludovico Della Rovere",
-            "pageView": 1316
+            "pageView": 1,
+            "total": 1316
         },
         {
             "page": "Papiniano della Rovere",
-            "pageView": 1067
+            "pageView": 1,
+            "total": 1067
         }
     ]
 }

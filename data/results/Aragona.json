@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Giuseppe Scalia (politico)",
-            "pageView": 5825
-        },
-        {
-            "page": "Ferdinando d'Aragona (vescovo)",
-            "pageView": 5625
-        },
-        {
-            "page": "Violante d'Aragona e Sicilia",
-            "pageView": 4991
-        },
-        {
-            "page": "Lulama Musti De Gennaro",
-            "pageView": 3482
+            "pageView": 4,
+            "total": 5826
         },
         {
             "page": "Giovanni Marino",
-            "pageView": 3315
+            "pageView": 3,
+            "total": 3320
+        },
+        {
+            "page": "Ferdinando d'Aragona (vescovo)",
+            "pageView": 3,
+            "total": 5625
+        },
+        {
+            "page": "Violante d'Aragona e Sicilia",
+            "pageView": 3,
+            "total": 4996
+        },
+        {
+            "page": "Lulama Musti De Gennaro",
+            "pageView": 2,
+            "total": 3488
         },
         {
             "page": "Raphael Cotoner",
-            "pageView": 2451
+            "pageView": 2,
+            "total": 2452
         },
         {
             "page": "Martin Garzez",
-            "pageView": 2113
-        },
-        {
-            "page": "Edoardo Marino",
-            "pageView": 1698
+            "pageView": 1.5,
+            "total": 2114
         },
         {
             "page": "Diego Carrillo de Mendoza y Pimentel",
-            "pageView": 1512
-        },
-        {
-            "page": "Melchor de Navarra y Rocafull",
-            "pageView": 1505
-        },
-        {
-            "page": "Nuris Arias",
-            "pageView": 1477
+            "pageView": 1,
+            "total": 1513
         },
         {
             "page": "Chaïne Staelens",
-            "pageView": 1450
-        },
-        {
-            "page": "Nikolle Correa",
-            "pageView": 1300
+            "pageView": 1,
+            "total": 1450
         },
         {
             "page": "Guillen Rubio",
-            "pageView": 1192
+            "pageView": 1,
+            "total": 1193
         },
         {
             "page": "Calogero Licata",
-            "pageView": 1165
+            "pageView": 1,
+            "total": 1167
+        },
+        {
+            "page": "Edoardo Marino",
+            "pageView": 1,
+            "total": 1699
+        },
+        {
+            "page": "Nuris Arias",
+            "pageView": 1,
+            "total": 1478
+        },
+        {
+            "page": "Nikolle Correa",
+            "pageView": 1,
+            "total": 1300
+        },
+        {
+            "page": "Melchor de Navarra y Rocafull",
+            "pageView": 1,
+            "total": 1505
         },
         {
             "page": "Gautier Gómez de Luna",
-            "pageView": 591
+            "pageView": 0,
+            "total": 592
         }
     ]
 }

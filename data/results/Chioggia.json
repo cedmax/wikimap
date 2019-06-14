@@ -2,332 +2,414 @@
     "name": "Chioggia",
     "people": [
         {
-            "page": "Aldo Ballarin",
-            "pageView": 59576
-        },
-        {
             "page": "Domenico Penzo",
-            "pageView": 51071
+            "pageView": 32,
+            "total": 51095
         },
         {
             "page": "Bruno Maderna",
-            "pageView": 49089
+            "pageView": 28,
+            "total": 49106
         },
         {
-            "page": "Giorgio Boscolo",
-            "pageView": 42126
-        },
-        {
-            "page": "Dino Ballarin",
-            "pageView": 41222
+            "page": "Aldo Ballarin",
+            "pageView": 25,
+            "total": 59596
         },
         {
             "page": "Felice Casson",
-            "pageView": 33913
+            "pageView": 21,
+            "total": 33935
+        },
+        {
+            "page": "Dino Ballarin",
+            "pageView": 17,
+            "total": 41239
         },
         {
             "page": "Gioseffo Zarlino",
-            "pageView": 32229
+            "pageView": 17,
+            "total": 32243
         },
         {
             "page": "Andrea Tornielli",
-            "pageView": 29275
+            "pageView": 16,
+            "total": 29322
         },
         {
             "page": "Franco Cerilli",
-            "pageView": 23290
+            "pageView": 15,
+            "total": 23302
         },
         {
             "page": "Arianna Marchetti",
-            "pageView": 18113
-        },
-        {
-            "page": "Marco Bollesan",
-            "pageView": 14982
+            "pageView": 10,
+            "total": 18121
         },
         {
             "page": "Albertino Mussato",
-            "pageView": 13652
+            "pageView": 9,
+            "total": 13660
+        },
+        {
+            "page": "Marco Bollesan",
+            "pageView": 8,
+            "total": 14989
         },
         {
             "page": "Giovanni Dondi dell'Orologio",
-            "pageView": 11387
-        },
-        {
-            "page": "Niccolò Da Conti",
-            "pageView": 10064
-        },
-        {
-            "page": "Devis Boschiero",
-            "pageView": 9918
-        },
-        {
-            "page": "Dino De Antoni",
-            "pageView": 9798
-        },
-        {
-            "page": "Adriano Tessarollo",
-            "pageView": 9724
+            "pageView": 7,
+            "total": 11392
         },
         {
             "page": "Mario Ardizzon",
-            "pageView": 9582
+            "pageView": 6,
+            "total": 9585
         },
         {
-            "page": "Carlo De Bei",
-            "pageView": 9167
+            "page": "Niccolò Da Conti",
+            "pageView": 6,
+            "total": 10071
+        },
+        {
+            "page": "Adriano Tessarollo",
+            "pageView": 5,
+            "total": 9726
         },
         {
             "page": "Alfredo Magarotto",
-            "pageView": 7809
+            "pageView": 5,
+            "total": 7815
         },
         {
-            "page": "Sara Penzo",
-            "pageView": 7671
+            "page": "Giorgio Boscolo",
+            "pageView": 5,
+            "total": 42134
+        },
+        {
+            "page": "Dino De Antoni",
+            "pageView": 5,
+            "total": 9804
+        },
+        {
+            "page": "Devis Boschiero",
+            "pageView": 5,
+            "total": 9922
         },
         {
             "page": "Giovanni Croce",
-            "pageView": 6701
+            "pageView": 4,
+            "total": 6703
+        },
+        {
+            "page": "Sara Penzo",
+            "pageView": 4,
+            "total": 7684
+        },
+        {
+            "page": "Carlo De Bei",
+            "pageView": 4,
+            "total": 9170
         },
         {
             "page": "Ubaldo Spanio",
-            "pageView": 5622
-        },
-        {
-            "page": "Cristoforo Sabbadino",
-            "pageView": 5507
-        },
-        {
-            "page": "Natale Schiavoni",
-            "pageView": 5396
-        },
-        {
-            "page": "Romano Penzo",
-            "pageView": 5297
+            "pageView": 4,
+            "total": 5624
         },
         {
             "page": "Giuseppe Veronese",
-            "pageView": 5181
-        },
-        {
-            "page": "Mario Baratto",
-            "pageView": 5089
-        },
-        {
-            "page": "Angelo Daniel",
-            "pageView": 5050
-        },
-        {
-            "page": "Jacopo Dondi dell'Orologio",
-            "pageView": 4919
+            "pageView": 3,
+            "total": 5187
         },
         {
             "page": "Antonio Marinetti (pittore)",
-            "pageView": 4918
+            "pageView": 3,
+            "total": 4920
         },
         {
-            "page": "Luca Salvagno",
-            "pageView": 4690
-        },
-        {
-            "page": "Elena Gabrieli",
-            "pageView": 4378
+            "page": "Angelo Daniel",
+            "pageView": 3,
+            "total": 5053
         },
         {
             "page": "Aristide Cavallari",
-            "pageView": 4350
+            "pageView": 3,
+            "total": 4352
         },
         {
             "page": "Sennen Corrà",
-            "pageView": 4000
+            "pageView": 3,
+            "total": 4004
+        },
+        {
+            "page": "Elena Gabrieli",
+            "pageView": 3,
+            "total": 4379
+        },
+        {
+            "page": "Mario Baratto",
+            "pageView": 3,
+            "total": 5090
+        },
+        {
+            "page": "Natale Schiavoni",
+            "pageView": 3,
+            "total": 5399
         },
         {
             "page": "Eugenio Bonivento",
-            "pageView": 3782
+            "pageView": 3,
+            "total": 3783
         },
         {
-            "page": "Giuseppe Olivi (naturalista)",
-            "pageView": 3774
+            "page": "Luca Salvagno",
+            "pageView": 3,
+            "total": 4700
         },
         {
-            "page": "Paolo Quagliati",
-            "pageView": 3343
+            "page": "Cristoforo Sabbadino",
+            "pageView": 3,
+            "total": 5508
         },
         {
-            "page": "Stefano Domenico Sceriman",
-            "pageView": 3254
+            "page": "Romano Penzo",
+            "pageView": 3,
+            "total": 5299
         },
         {
-            "page": "Pietro Doria",
-            "pageView": 3190
-        },
-        {
-            "page": "Romano Voltolina",
-            "pageView": 3176
-        },
-        {
-            "page": "Riccardo Ravagnan",
-            "pageView": 3061
-        },
-        {
-            "page": "Francesco Schupfer",
-            "pageView": 2884
-        },
-        {
-            "page": "Salvino Chiereghin",
-            "pageView": 2838
-        },
-        {
-            "page": "Silvio Violante Iozzia",
-            "pageView": 2823
-        },
-        {
-            "page": "Poliuto Penzo",
-            "pageView": 2805
-        },
-        {
-            "page": "Gabriele Fiamma",
-            "pageView": 2766
-        },
-        {
-            "page": "Flavio Poli",
-            "pageView": 2731
+            "page": "Jacopo Dondi dell'Orologio",
+            "pageView": 3,
+            "total": 4921
         },
         {
             "page": "Giorgio Bozzato",
-            "pageView": 2687
-        },
-        {
-            "page": "Franco Lanza",
-            "pageView": 2680
-        },
-        {
-            "page": "Domenico Marchetti (calciatore)",
-            "pageView": 2517
-        },
-        {
-            "page": "Niccolò da Carrara",
-            "pageView": 2515
-        },
-        {
-            "page": "Pietro Calò",
-            "pageView": 2446
-        },
-        {
-            "page": "Alberto Frizziero",
-            "pageView": 2441
-        },
-        {
-            "page": "Giuseppe Buffi",
-            "pageView": 2342
+            "pageView": 2,
+            "total": 2690
         },
         {
             "page": "Stefano Andrea Renier",
-            "pageView": 2333
-        },
-        {
-            "page": "Antonio Grassi",
-            "pageView": 2228
-        },
-        {
-            "page": "Giacinto Giovanni Ambrosi",
-            "pageView": 2170
-        },
-        {
-            "page": "Carlo Zamporlini",
-            "pageView": 2119
-        },
-        {
-            "page": "Mario Merlin",
-            "pageView": 2091
+            "pageView": 2,
+            "total": 2334
         },
         {
             "page": "Giovanni Battista Piasentini",
-            "pageView": 2085
+            "pageView": 2,
+            "total": 2086
         },
         {
-            "page": "Renato Ballarin",
-            "pageView": 2006
+            "page": "Alberto Frizziero",
+            "pageView": 2,
+            "total": 2442
         },
         {
-            "page": "Jacopo Nacchianti",
-            "pageView": 1971
+            "page": "Niccolò da Carrara",
+            "pageView": 2,
+            "total": 2515
         },
         {
-            "page": "Roberto Dvornicich",
-            "pageView": 1938
+            "page": "Giuseppe Buffi",
+            "pageView": 2,
+            "total": 2342
         },
         {
-            "page": "Nicola Tiozzo",
-            "pageView": 1788
-        },
-        {
-            "page": "Stefano Frizziero",
-            "pageView": 1680
-        },
-        {
-            "page": "Francesco Andrea Grassi",
-            "pageView": 1654
-        },
-        {
-            "page": "Gabriele Dondi dall'Orologio",
-            "pageView": 1609
-        },
-        {
-            "page": "Marco Vianello (pallavolista)",
-            "pageView": 1488
-        },
-        {
-            "page": "Domenico Mezzadri",
-            "pageView": 1437
-        },
-        {
-            "page": "Ezio Bruno Caraceni",
-            "pageView": 1429
-        },
-        {
-            "page": "Luigi Taccheo",
-            "pageView": 1424
-        },
-        {
-            "page": "Angelo Fasolo",
-            "pageView": 1398
-        },
-        {
-            "page": "Benintendi Ravegnani",
-            "pageView": 1370
-        },
-        {
-            "page": "Giovanni Benedetto Civran",
-            "pageView": 1352
+            "page": "Giacinto Giovanni Ambrosi",
+            "pageView": 2,
+            "total": 2172
         },
         {
             "page": "Silvia Zennaro",
-            "pageView": 924
+            "pageView": 2,
+            "total": 924
+        },
+        {
+            "page": "Silvio Violante Iozzia",
+            "pageView": 2,
+            "total": 2825
+        },
+        {
+            "page": "Franco Lanza",
+            "pageView": 2,
+            "total": 2681
+        },
+        {
+            "page": "Pietro Doria",
+            "pageView": 2,
+            "total": 3191
+        },
+        {
+            "page": "Salvino Chiereghin",
+            "pageView": 2,
+            "total": 2838
+        },
+        {
+            "page": "Domenico Marchetti (calciatore)",
+            "pageView": 2,
+            "total": 2517
+        },
+        {
+            "page": "Carlo Zamporlini",
+            "pageView": 2,
+            "total": 2119
+        },
+        {
+            "page": "Mario Merlin",
+            "pageView": 2,
+            "total": 2091
+        },
+        {
+            "page": "Giuseppe Olivi (naturalista)",
+            "pageView": 2,
+            "total": 3775
+        },
+        {
+            "page": "Pietro Calò",
+            "pageView": 2,
+            "total": 2446
+        },
+        {
+            "page": "Romano Voltolina",
+            "pageView": 2,
+            "total": 3176
+        },
+        {
+            "page": "Renato Ballarin",
+            "pageView": 2,
+            "total": 2007
+        },
+        {
+            "page": "Flavio Poli",
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Paolo Quagliati",
+            "pageView": 2,
+            "total": 3343
+        },
+        {
+            "page": "Riccardo Ravagnan",
+            "pageView": 2,
+            "total": 3063
+        },
+        {
+            "page": "Gabriele Fiamma",
+            "pageView": 2,
+            "total": 2766
+        },
+        {
+            "page": "Antonio Grassi",
+            "pageView": 2,
+            "total": 2228
+        },
+        {
+            "page": "Stefano Domenico Sceriman",
+            "pageView": 2,
+            "total": 3255
+        },
+        {
+            "page": "Poliuto Penzo",
+            "pageView": 2,
+            "total": 2806
+        },
+        {
+            "page": "Nicola Tiozzo",
+            "pageView": 2,
+            "total": 1789
+        },
+        {
+            "page": "Francesco Schupfer",
+            "pageView": 2,
+            "total": 2886
+        },
+        {
+            "page": "Domenico Mezzadri",
+            "pageView": 1,
+            "total": 1439
+        },
+        {
+            "page": "Francesco Andrea Grassi",
+            "pageView": 1,
+            "total": 1654
+        },
+        {
+            "page": "Jacopo Nacchianti",
+            "pageView": 1,
+            "total": 1972
+        },
+        {
+            "page": "Angelo Fasolo",
+            "pageView": 1,
+            "total": 1398
+        },
+        {
+            "page": "Benintendi Ravegnani",
+            "pageView": 1,
+            "total": 1370
+        },
+        {
+            "page": "Marco Vianello (pallavolista)",
+            "pageView": 1,
+            "total": 1488
+        },
+        {
+            "page": "Stefano Frizziero",
+            "pageView": 1,
+            "total": 1682
         },
         {
             "page": "Angelo Canopeo",
-            "pageView": 907
+            "pageView": 1,
+            "total": 907
         },
         {
-            "page": "Eleonora Fersino",
-            "pageView": 686
+            "page": "Gabriele Dondi dall'Orologio",
+            "pageView": 1,
+            "total": 1611
+        },
+        {
+            "page": "Luigi Taccheo",
+            "pageView": 1,
+            "total": 1424
+        },
+        {
+            "page": "Giovanni Benedetto Civran",
+            "pageView": 1,
+            "total": 1354
         },
         {
             "page": "Michele Godino",
-            "pageView": 580
-        },
-        {
-            "page": "Jacopo De Foretti",
-            "pageView": 497
+            "pageView": 0,
+            "total": 580
         },
         {
             "page": "Vittorio Buratti",
-            "pageView": 393
+            "pageView": 0,
+            "total": 393
+        },
+        {
+            "page": "Jacopo De Foretti",
+            "pageView": 0,
+            "total": 498
+        },
+        {
+            "page": "Ezio Bruno Caraceni",
+            "pageView": 0,
+            "total": 1430
         },
         {
             "page": "Giovanni Morosini (vescovo)",
-            "pageView": 221
+            "pageView": 0,
+            "total": 222
+        },
+        {
+            "page": "Eleonora Fersino",
+            "pageView": 0,
+            "total": 704
+        },
+        {
+            "page": "Roberto Dvornicich",
+            "pageView": 0,
+            "total": 1942
         }
     ]
 }

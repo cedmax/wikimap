@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Giorgio La Pira",
-            "pageView": 224920
+            "pageView": 129,
+            "total": 225019
         },
         {
             "page": "Giorgio Demetrio Gallaro",
-            "pageView": 17069
+            "pageView": 10,
+            "total": 17075
         },
         {
             "page": "Alfredo Agosta",
-            "pageView": 9016
+            "pageView": 5,
+            "total": 9026
         },
         {
             "page": "Enzo Assenza",
-            "pageView": 5637
+            "pageView": 3,
+            "total": 5640
         },
         {
             "page": "Enrico Cavacchioli",
-            "pageView": 5137
-        },
-        {
-            "page": "Natale Amodeo",
-            "pageView": 2961
+            "pageView": 3,
+            "total": 5140
         },
         {
             "page": "Michele Tedeschi Rizzone",
-            "pageView": 2497
+            "pageView": 2,
+            "total": 2501
+        },
+        {
+            "page": "Natale Amodeo",
+            "pageView": 2,
+            "total": 2961
         },
         {
             "page": "Benedetto Ciaceri",
-            "pageView": 1227
+            "pageView": 1,
+            "total": 1227
         }
     ]
 }

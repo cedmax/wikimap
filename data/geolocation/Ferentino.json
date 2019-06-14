@@ -1,0 +1,27 @@
+{
+    "id": "place.10621711499839420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ferentino",
+    "place_name": "Ferentino, Frosinone, Italy",
+    "bbox": [
+        13.190738,
+        41.633113,
+        13.315478,
+        41.778387
+    ],
+    "center": [
+        13.25,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            41.68333
+        ]
+    }
+}

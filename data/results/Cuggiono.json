@@ -3,75 +3,93 @@
     "people": [
         {
             "page": "Angelo Branduardi",
-            "pageView": 401062
+            "pageView": 233,
+            "total": 401292
         },
         {
             "page": "Andrea Oldani",
-            "pageView": 85765
-        },
-        {
-            "page": "Massimo Garavaglia",
-            "pageView": 72006
-        },
-        {
-            "page": "Cristian Stellini",
-            "pageView": 45252
+            "pageView": 54,
+            "total": 85802
         },
         {
             "page": "Papa Urbano III",
-            "pageView": 34859
+            "pageView": 23,
+            "total": 34872
         },
         {
             "page": "Mariapia Garavaglia",
-            "pageView": 31736
+            "pageView": 19,
+            "total": 31753
+        },
+        {
+            "page": "Cristian Stellini",
+            "pageView": 17,
+            "total": 45279
         },
         {
             "page": "Roberto Maltagliati",
-            "pageView": 19372
+            "pageView": 12,
+            "total": 19383
         },
         {
-            "page": "Dino Lanaro (attore)",
-            "pageView": 18493
+            "page": "Massimo Garavaglia",
+            "pageView": 12,
+            "total": 72145
         },
         {
             "page": "Camilla (cantante)",
-            "pageView": 13581
+            "pageView": 9,
+            "total": 13589
+        },
+        {
+            "page": "Dino Lanaro (attore)",
+            "pageView": 9,
+            "total": 18497
         },
         {
             "page": "Giuseppe Calcaterra",
-            "pageView": 6408
+            "pageView": 4,
+            "total": 6411
         },
         {
             "page": "Flaminio Gualdoni",
-            "pageView": 5900
-        },
-        {
-            "page": "Marco Marzano",
-            "pageView": 5880
-        },
-        {
-            "page": "Carlo Garavaglia",
-            "pageView": 4192
+            "pageView": 4,
+            "total": 5904
         },
         {
             "page": "Pietro Bellora",
-            "pageView": 4045
+            "pageView": 3,
+            "total": 4046
+        },
+        {
+            "page": "Marco Marzano",
+            "pageView": 3,
+            "total": 5885
         },
         {
             "page": "Ercole Belloli",
-            "pageView": 2108
+            "pageView": 2,
+            "total": 2110
         },
         {
             "page": "Felice Calcaterra",
-            "pageView": 1867
+            "pageView": 2,
+            "total": 1867
+        },
+        {
+            "page": "Carlo Garavaglia",
+            "pageView": 2,
+            "total": 4192
         },
         {
             "page": "Giuseppe Camperio",
-            "pageView": 1269
+            "pageView": 1,
+            "total": 1269
         },
         {
             "page": "Pietro Paolo Mazzicchi",
-            "pageView": 854
+            "pageView": 1,
+            "total": 855
         }
     ]
 }

@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Andrea Mantegna",
-            "pageView": 407977
+            "pageView": 273.5,
+            "total": 408157
         },
         {
             "page": "Franco Luison",
-            "pageView": 40473
+            "pageView": 10,
+            "total": 40483
         },
         {
             "page": "Luigi Bottazzo",
-            "pageView": 6240
+            "pageView": 4,
+            "total": 6243
         },
         {
             "page": "Ugo Rosin",
-            "pageView": 5958
+            "pageView": 4,
+            "total": 5960
         },
         {
             "page": "Mario Zanon",
-            "pageView": 3239
-        },
-        {
-            "page": "Giampaolo Lampredi",
-            "pageView": 3156
-        },
-        {
-            "page": "Luigi Mainardi",
-            "pageView": 3055
-        },
-        {
-            "page": "Andrea Liberalotto",
-            "pageView": 2555
-        },
-        {
-            "page": "Giuseppe Marchetto (1921)",
-            "pageView": 1731
+            "pageView": 2,
+            "total": 3246
         },
         {
             "page": "Luigi Antonio Secco",
-            "pageView": 1374
+            "pageView": 2,
+            "total": 1377
+        },
+        {
+            "page": "Giampaolo Lampredi",
+            "pageView": 2,
+            "total": 3157
+        },
+        {
+            "page": "Andrea Liberalotto",
+            "pageView": 2,
+            "total": 2555
+        },
+        {
+            "page": "Luigi Mainardi",
+            "pageView": 2,
+            "total": 3057
+        },
+        {
+            "page": "Giuseppe Marchetto (1921)",
+            "pageView": 1,
+            "total": 1731
         },
         {
             "page": "Vincenzo Giaconi",
-            "pageView": 544
+            "pageView": 0,
+            "total": 544
         }
     ]
 }

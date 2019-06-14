@@ -1,0 +1,27 @@
+{
+    "id": "place.10640882177459190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Catanzaro",
+    "place_name": "Catanzaro, Catanzaro, Italy",
+    "bbox": [
+        16.539572,
+        38.815167,
+        16.6842,
+        38.967011
+    ],
+    "center": [
+        16.5875,
+        38.91
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.5875,
+            38.91
+        ]
+    }
+}

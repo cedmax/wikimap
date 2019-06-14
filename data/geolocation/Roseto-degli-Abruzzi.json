@@ -1,0 +1,27 @@
+{
+    "id": "place.5703470595672060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roseto degli Abruzzi",
+    "place_name": "Roseto degli Abruzzi, Teramo, Italy",
+    "bbox": [
+        13.918158,
+        42.630519,
+        14.038876,
+        42.740077
+    ],
+    "center": [
+        14.01667,
+        42.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.01667,
+            42.68333
+        ]
+    }
+}

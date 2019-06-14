@@ -1,0 +1,29 @@
+{
+    "id": "place.12200333515340560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corteolona e Genzone",
+    "place_name": "Corteolona e Genzone, Pavia, Italy",
+    "matching_text": "Corteolona",
+    "matching_place_name": "Corteolona, Pavia, Italy",
+    "bbox": [
+        9.331525,
+        45.140032,
+        9.390477,
+        45.193483
+    ],
+    "center": [
+        9.36667,
+        45.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            45.15
+        ]
+    }
+}

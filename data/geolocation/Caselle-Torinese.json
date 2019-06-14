@@ -1,0 +1,27 @@
+{
+    "id": "place.2037140811689050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caselle Torinese",
+    "place_name": "Caselle Torinese, Torino, Italy",
+    "bbox": [
+        7.602325,
+        45.142748,
+        7.718045,
+        45.198064
+    ],
+    "center": [
+        7.65,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65,
+            45.18333
+        ]
+    }
+}

@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Ernesto Almirante",
-            "pageView": 35404
-        },
-        {
-            "page": "Antonino Pagliaro",
-            "pageView": 26332
+            "pageView": 18,
+            "total": 35420
         },
         {
             "page": "Pietro Rampulla",
-            "pageView": 25996
+            "pageView": 13,
+            "total": 26015
+        },
+        {
+            "page": "Antonino Pagliaro",
+            "pageView": 12,
+            "total": 26347
         },
         {
             "page": "Raffaele Cantarella",
-            "pageView": 16655
+            "pageView": 10,
+            "total": 16669
         },
         {
             "page": "Antonino Lombardo (maresciallo)",
-            "pageView": 13995
-        },
-        {
-            "page": "Vincenzo Tusa",
-            "pageView": 12804
-        },
-        {
-            "page": "Sebastiano Rampulla",
-            "pageView": 10759
+            "pageView": 7,
+            "total": 14014
         },
         {
             "page": "Giuseppe Cocchiara",
-            "pageView": 10493
+            "pageView": 7,
+            "total": 10498
+        },
+        {
+            "page": "Sebastiano Rampulla",
+            "pageView": 6,
+            "total": 10761
         },
         {
             "page": "Antonio Pagliaro (giurista)",
-            "pageView": 8474
+            "pageView": 5,
+            "total": 8488
         },
         {
             "page": "Vincenzo Modica",
-            "pageView": 6580
+            "pageView": 4,
+            "total": 6585
+        },
+        {
+            "page": "Vincenzo Tusa",
+            "pageView": 4,
+            "total": 12811
         },
         {
             "page": "Tommaso Aversa",
-            "pageView": 5351
+            "pageView": 3,
+            "total": 5357
         },
         {
             "page": "Gaetano Testa",
-            "pageView": 3291
+            "pageView": 2,
+            "total": 3295
         },
         {
             "page": "Sebastiano Sanzarello",
-            "pageView": 3015
-        },
-        {
-            "page": "Vincenzo Madonia",
-            "pageView": 1635
-        },
-        {
-            "page": "Pasquale Azzolina",
-            "pageView": 1606
-        },
-        {
-            "page": "Luciano Pagliaro",
-            "pageView": 1523
+            "pageView": 2,
+            "total": 3016
         },
         {
             "page": "Noé Marullo",
-            "pageView": 1047
+            "pageView": 2,
+            "total": 1047
+        },
+        {
+            "page": "Pasquale Azzolina",
+            "pageView": 1,
+            "total": 1606
+        },
+        {
+            "page": "Luciano Pagliaro",
+            "pageView": 1,
+            "total": 1524
+        },
+        {
+            "page": "Vincenzo Madonia",
+            "pageView": 1,
+            "total": 1637
         }
     ]
 }

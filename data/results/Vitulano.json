@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Michele Capobianco",
-            "pageView": 6788
+            "pageView": 4,
+            "total": 6798
         },
         {
             "page": "Camillo Mazzella",
-            "pageView": 2632
-        },
-        {
-            "page": "Ernesto Mazzella",
-            "pageView": 1494
+            "pageView": 2,
+            "total": 2635
         },
         {
             "page": "Orazio Mazzella",
-            "pageView": 1293
+            "pageView": 2,
+            "total": 1295
+        },
+        {
+            "page": "Ernesto Mazzella",
+            "pageView": 1,
+            "total": 1494
         },
         {
             "page": "Paolo Mazzella",
-            "pageView": 929
+            "pageView": 1,
+            "total": 930
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.15536351326585000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola della Scala",
+    "place_name": "Isola della Scala, Verona, Italy",
+    "bbox": [
+        10.961088,
+        45.216638,
+        11.094275,
+        45.334689
+    ],
+    "center": [
+        11.13333,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            45.26667
+        ]
+    }
+}

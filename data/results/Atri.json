@@ -3,215 +3,268 @@
     "people": [
         {
             "page": "Jacopo Dezi",
-            "pageView": 173613
+            "pageView": 78,
+            "total": 173668
         },
         {
             "page": "Bruno Martella",
-            "pageView": 86248
-        },
-        {
-            "page": "Lorenzo Leuzzi",
-            "pageView": 25106
-        },
-        {
-            "page": "Michele Seccia",
-            "pageView": 24069
+            "pageView": 35,
+            "total": 86273
         },
         {
             "page": "Giulio Falcone",
-            "pageView": 21902
+            "pageView": 14,
+            "total": 21917
         },
         {
-            "page": "Giuseppe Stama",
-            "pageView": 15298
+            "page": "Lorenzo Leuzzi",
+            "pageView": 13,
+            "total": 25110
+        },
+        {
+            "page": "Michele Seccia",
+            "pageView": 12,
+            "total": 24083
         },
         {
             "page": "Andrea De Litio",
-            "pageView": 15169
-        },
-        {
-            "page": "Claudio Acquaviva",
-            "pageView": 10157
-        },
-        {
-            "page": "Paolo Rachini",
-            "pageView": 7674
-        },
-        {
-            "page": "Giulio Antonio I Acquaviva d'Aragona",
-            "pageView": 7652
-        },
-        {
-            "page": "Andrea Matteo III Acquaviva",
-            "pageView": 7479
-        },
-        {
-            "page": "Ernesto Terra",
-            "pageView": 7358
-        },
-        {
-            "page": "Gianfranco De Luca",
-            "pageView": 7297
-        },
-        {
-            "page": "Abele Conigli",
-            "pageView": 7100
-        },
-        {
-            "page": "Nicola Occhiocupo",
-            "pageView": 6577
-        },
-        {
-            "page": "Vincenzo D'Addario",
-            "pageView": 6487
-        },
-        {
-            "page": "Marco Stella",
-            "pageView": 6045
-        },
-        {
-            "page": "Giovanni Di Iacovo",
-            "pageView": 5698
-        },
-        {
-            "page": "Gilla Vincenzo Gremigni",
-            "pageView": 5564
-        },
-        {
-            "page": "Piero Coen",
-            "pageView": 5537
+            "pageView": 9,
+            "total": 15182
         },
         {
             "page": "Berardo Carboni",
-            "pageView": 5464
+            "pageView": 7,
+            "total": 5466
+        },
+        {
+            "page": "Claudio Acquaviva",
+            "pageView": 6,
+            "total": 10161
+        },
+        {
+            "page": "Paolo Rachini",
+            "pageView": 5,
+            "total": 7676
+        },
+        {
+            "page": "Giulio Antonio I Acquaviva d'Aragona",
+            "pageView": 5,
+            "total": 7659
+        },
+        {
+            "page": "Gianfranco De Luca",
+            "pageView": 5,
+            "total": 7303
+        },
+        {
+            "page": "Ernesto Terra",
+            "pageView": 4,
+            "total": 7366
+        },
+        {
+            "page": "Nicola Occhiocupo",
+            "pageView": 4,
+            "total": 6581
         },
         {
             "page": "Marco Timperi",
-            "pageView": 5285
+            "pageView": 4,
+            "total": 5288
         },
         {
-            "page": "Alessandro Donati",
-            "pageView": 4912
+            "page": "Abele Conigli",
+            "pageView": 4,
+            "total": 7104
+        },
+        {
+            "page": "Marco Stella",
+            "pageView": 4,
+            "total": 6049
+        },
+        {
+            "page": "Vincenzo D'Addario",
+            "pageView": 4,
+            "total": 6492
+        },
+        {
+            "page": "Andrea Matteo III Acquaviva",
+            "pageView": 4,
+            "total": 7481
+        },
+        {
+            "page": "Piero Coen",
+            "pageView": 3,
+            "total": 5540
         },
         {
             "page": "Rodolfo Acquaviva",
-            "pageView": 4798
+            "pageView": 3,
+            "total": 4803
         },
         {
-            "page": "Antonio Martini di Atri",
-            "pageView": 4392
+            "page": "Gilla Vincenzo Gremigni",
+            "pageView": 3,
+            "total": 5566
         },
         {
             "page": "Federico Pieri",
-            "pageView": 4198
+            "pageView": 3,
+            "total": 4201
         },
         {
-            "page": "Emilio Mattucci",
-            "pageView": 3875
+            "page": "Giovanni Di Iacovo",
+            "pageView": 3,
+            "total": 5701
         },
         {
-            "page": "Filippo Longo di Atri",
-            "pageView": 3738
+            "page": "Alessandro Donati",
+            "pageView": 3,
+            "total": 4913
         },
         {
-            "page": "David Londero",
-            "pageView": 3659
-        },
-        {
-            "page": "Ireneo Janni",
-            "pageView": 3523
-        },
-        {
-            "page": "Marco Venuto",
-            "pageView": 3464
-        },
-        {
-            "page": "Cantalicio",
-            "pageView": 3347
-        },
-        {
-            "page": "Troiano Odazi",
-            "pageView": 2852
-        },
-        {
-            "page": "Gennaro Auletta",
-            "pageView": 2452
-        },
-        {
-            "page": "Pietro Baiocchi",
-            "pageView": 2356
+            "page": "Antonio Martini di Atri",
+            "pageView": 3,
+            "total": 4396
         },
         {
             "page": "Aurelio Grue",
-            "pageView": 2349
+            "pageView": 2,
+            "total": 2351
+        },
+        {
+            "page": "David Londero",
+            "pageView": 2,
+            "total": 3659
+        },
+        {
+            "page": "Filippo Longo di Atri",
+            "pageView": 2,
+            "total": 3740
+        },
+        {
+            "page": "Giuseppe Stama",
+            "pageView": 2,
+            "total": 15301
         },
         {
             "page": "Marta Colaiocco",
-            "pageView": 2246
-        },
-        {
-            "page": "Lorenzo Di Marcantonio",
-            "pageView": 2170
-        },
-        {
-            "page": "Domenico Ricciconti",
-            "pageView": 2034
-        },
-        {
-            "page": "Francesco Martella",
-            "pageView": 2032
-        },
-        {
-            "page": "Adriano Fedri",
-            "pageView": 1921
+            "pageView": 2,
+            "total": 2246
         },
         {
             "page": "Jacopo Guidi",
-            "pageView": 1823
+            "pageView": 2,
+            "total": 1823
+        },
+        {
+            "page": "Pietro Baiocchi",
+            "pageView": 2,
+            "total": 2357
+        },
+        {
+            "page": "Cantalicio",
+            "pageView": 2,
+            "total": 3348
+        },
+        {
+            "page": "Troiano Odazi",
+            "pageView": 2,
+            "total": 2852
+        },
+        {
+            "page": "Emilio Mattucci",
+            "pageView": 2,
+            "total": 3877
+        },
+        {
+            "page": "Domenico Ricciconti",
+            "pageView": 2,
+            "total": 2035
         },
         {
             "page": "Francesco Ronci",
-            "pageView": 1800
+            "pageView": 2,
+            "total": 1800
         },
         {
-            "page": "Antonio Santarelli (teologo)",
-            "pageView": 1623
+            "page": "Ireneo Janni",
+            "pageView": 2,
+            "total": 3524
         },
         {
-            "page": "Barnaba Malaspina",
-            "pageView": 1559
+            "page": "Lorenzo Di Marcantonio",
+            "pageView": 2,
+            "total": 2174
         },
         {
-            "page": "Raffaele Piras",
-            "pageView": 1557
+            "page": "Francesco Martella",
+            "pageView": 2,
+            "total": 2032
         },
         {
-            "page": "Francesca Mannucci",
-            "pageView": 1545
+            "page": "Gennaro Auletta",
+            "pageView": 2,
+            "total": 2452
+        },
+        {
+            "page": "Adriano Fedri",
+            "pageView": 1,
+            "total": 1922
         },
         {
             "page": "Serafino Tamburelli",
-            "pageView": 1526
-        },
-        {
-            "page": "Mattia Martella",
-            "pageView": 1420
-        },
-        {
-            "page": "Peter Van Elswyk",
-            "pageView": 1334
+            "pageView": 1,
+            "total": 1526
         },
         {
             "page": "Giuseppe Prepositi",
-            "pageView": 1154
+            "pageView": 1,
+            "total": 1154
+        },
+        {
+            "page": "Mattia Martella",
+            "pageView": 1,
+            "total": 1420
+        },
+        {
+            "page": "Barnaba Malaspina",
+            "pageView": 1,
+            "total": 1561
+        },
+        {
+            "page": "Raffaele Piras",
+            "pageView": 1,
+            "total": 1558
+        },
+        {
+            "page": "Peter Van Elswyk",
+            "pageView": 1,
+            "total": 1343
+        },
+        {
+            "page": "Francesca Mannucci",
+            "pageView": 1,
+            "total": 1547
+        },
+        {
+            "page": "Antonio Santarelli (teologo)",
+            "pageView": 1,
+            "total": 1624
+        },
+        {
+            "page": "Marco Venuto",
+            "pageView": 0,
+            "total": 3467
         },
         {
             "page": "Gianluca Esposito",
-            "pageView": 825
+            "pageView": 0,
+            "total": 826
         },
         {
             "page": "Ennio Santucci",
-            "pageView": 362
+            "pageView": 0,
+            "total": 363
         }
     ]
 }

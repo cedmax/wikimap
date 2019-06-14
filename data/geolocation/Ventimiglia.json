@@ -1,0 +1,27 @@
+{
+    "id": "place.6492452181862720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ventimiglia",
+    "place_name": "Ventimiglia, Imperia, Italy",
+    "bbox": [
+        7.501804,
+        43.779472,
+        7.631187,
+        43.872709
+    ],
+    "center": [
+        7.60833,
+        43.79028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.60833,
+            43.79028
+        ]
+    }
+}

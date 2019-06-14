@@ -2,20 +2,24 @@
     "name": "Castro (Puglia)",
     "people": [
         {
+            "page": "Gian Bernardo Capreoli",
+            "pageView": 2,
+            "total": 1726
+        },
+        {
             "page": "Luca Antonio Resta",
-            "pageView": 1883
+            "pageView": 2,
+            "total": 1884
         },
         {
             "page": "Antonio Lazzari",
-            "pageView": 1750
-        },
-        {
-            "page": "Gian Bernardo Capreoli",
-            "pageView": 1725
+            "pageView": 1,
+            "total": 1750
         },
         {
             "page": "Annibale Sillano",
-            "pageView": 166
+            "pageView": 0,
+            "total": 166
         }
     ]
 }

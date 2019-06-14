@@ -1,0 +1,27 @@
+{
+    "id": "place.7889314888192250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Benevento",
+    "place_name": "Benevento, Benevento, Italy",
+    "bbox": [
+        14.709374,
+        41.090621,
+        14.869518,
+        41.224268
+    ],
+    "center": [
+        14.78333,
+        41.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78333,
+            41.13333
+        ]
+    }
+}

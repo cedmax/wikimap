@@ -1,0 +1,27 @@
+{
+    "id": "place.1567904160319530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Irsina",
+    "place_name": "Irsina, Matera, Italy",
+    "bbox": [
+        16.115194,
+        40.666352,
+        16.400484,
+        40.837809
+    ],
+    "center": [
+        16.23333,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.23333,
+            40.75
+        ]
+    }
+}

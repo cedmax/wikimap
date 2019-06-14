@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Mario Melis (politico)",
-            "pageView": 14309
+            "pageView": 8,
+            "total": 14317
         },
         {
             "page": "Áurea Cruz",
-            "pageView": 10666
+            "pageView": 5,
+            "total": 10670
         },
         {
             "page": "Francesca Mari",
-            "pageView": 9258
+            "pageView": 5,
+            "total": 9259
         },
         {
             "page": "Valeria Rosso",
-            "pageView": 6664
+            "pageView": 4,
+            "total": 6667
         },
         {
             "page": "Barbara De Luca",
-            "pageView": 4395
+            "pageView": 3,
+            "total": 4395
         },
         {
             "page": "Nataša Osmokrović",
-            "pageView": 4122
-        },
-        {
-            "page": "Sofia Arimattei",
-            "pageView": 3815
-        },
-        {
-            "page": "Elisa Muri",
-            "pageView": 3396
+            "pageView": 3,
+            "total": 4124
         },
         {
             "page": "Heather Bown",
-            "pageView": 3305
+            "pageView": 2,
+            "total": 3306
         },
         {
-            "page": "Giorgio Ladu",
-            "pageView": 3043
-        },
-        {
-            "page": "Ignazio Pirastu",
-            "pageView": 3025
+            "page": "Sofia Arimattei",
+            "pageView": 2,
+            "total": 3817
         },
         {
             "page": "Gelasio Floris",
-            "pageView": 2223
+            "pageView": 2,
+            "total": 2226
         },
         {
-            "page": "Elke Wijnhoven",
-            "pageView": 2221
-        },
-        {
-            "page": "Luigi Pirastu",
-            "pageView": 2200
+            "page": "Giorgio Ladu",
+            "pageView": 2,
+            "total": 3046
         },
         {
             "page": "Emanuele Virgilio",
-            "pageView": 2178
+            "pageView": 2,
+            "total": 2178
+        },
+        {
+            "page": "Ignazio Pirastu",
+            "pageView": 2,
+            "total": 3026
+        },
+        {
+            "page": "Elisa Muri",
+            "pageView": 2,
+            "total": 3398
+        },
+        {
+            "page": "Luigi Pirastu",
+            "pageView": 2,
+            "total": 2201
         },
         {
             "page": "Maurizio Pittau",
-            "pageView": 2132
+            "pageView": 2,
+            "total": 2132
+        },
+        {
+            "page": "Elke Wijnhoven",
+            "pageView": 2,
+            "total": 2222
         }
     ]
 }

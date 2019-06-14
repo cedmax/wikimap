@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Gianluigi Marianini",
-            "pageView": 29553
+            "pageView": 17,
+            "total": 29585
         },
         {
             "page": "Giuseppe Galliano",
-            "pageView": 24348
+            "pageView": 16,
+            "total": 24360
         },
         {
             "page": "Piero Dardanello",
-            "pageView": 10526
+            "pageView": 6,
+            "total": 10532
         },
         {
             "page": "Gianni Comino",
-            "pageView": 8012
-        },
-        {
-            "page": "Teobaldo Roggeri",
-            "pageView": 3785
+            "pageView": 5,
+            "total": 8019
         },
         {
             "page": "Ilario Roatta",
-            "pageView": 2649
+            "pageView": 2,
+            "total": 2650
+        },
+        {
+            "page": "Teobaldo Roggeri",
+            "pageView": 2,
+            "total": 3786
         }
     ]
 }

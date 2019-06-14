@@ -1,0 +1,27 @@
+{
+    "id": "place.5751650921254880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Custonaci",
+    "place_name": "Custonaci, Trapani, Italy",
+    "bbox": [
+        12.645249,
+        38.036257,
+        12.812267,
+        38.114665
+    ],
+    "center": [
+        12.67512,
+        38.07883
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.67512,
+            38.07883
+        ]
+    }
+}

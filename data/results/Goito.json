@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Sordello da Goito",
-            "pageView": 73612
+            "pageView": 47,
+            "total": 73622
         },
         {
             "page": "Ludovico III Gonzaga",
-            "pageView": 42985
+            "pageView": 28,
+            "total": 43004
         },
         {
             "page": "Niccolò Torielli",
-            "pageView": 34977
+            "pageView": 18,
+            "total": 34999
         },
         {
             "page": "Guglielmo Gonzaga",
-            "pageView": 24975
+            "pageView": 16,
+            "total": 24982
         },
         {
             "page": "Claudio Cipolla",
-            "pageView": 15417
+            "pageView": 14,
+            "total": 15455
         },
         {
             "page": "Francesco Frigeri",
-            "pageView": 10358
-        },
-        {
-            "page": "Pietro Marcazzan",
-            "pageView": 3695
-        },
-        {
-            "page": "Aristide Sarti",
-            "pageView": 3349
-        },
-        {
-            "page": "Flaminio Paleologo",
-            "pageView": 3037
-        },
-        {
-            "page": "Giuseppe Manarin",
-            "pageView": 2843
+            "pageView": 6,
+            "total": 10359
         },
         {
             "page": "Gino Bolognese",
-            "pageView": 2020
+            "pageView": 2,
+            "total": 2022
         },
         {
-            "page": "Sergio Banali",
-            "pageView": 1932
+            "page": "Giuseppe Manarin",
+            "pageView": 2,
+            "total": 2843
+        },
+        {
+            "page": "Aristide Sarti",
+            "pageView": 2,
+            "total": 3353
+        },
+        {
+            "page": "Flaminio Paleologo",
+            "pageView": 2,
+            "total": 3038
+        },
+        {
+            "page": "Pietro Marcazzan",
+            "pageView": 2,
+            "total": 3697
         },
         {
             "page": "Andrea da Goito",
-            "pageView": 1546
-        },
-        {
-            "page": "Luigi Garagna",
-            "pageView": 1535
+            "pageView": 2,
+            "total": 1548
         },
         {
             "page": "Giuseppe Ottonelli",
-            "pageView": 1323
+            "pageView": 1,
+            "total": 1323
         },
         {
             "page": "Francesco Scaini",
-            "pageView": 931
+            "pageView": 1,
+            "total": 932
+        },
+        {
+            "page": "Luigi Garagna",
+            "pageView": 1,
+            "total": 1536
+        },
+        {
+            "page": "Sergio Banali",
+            "pageView": 1,
+            "total": 1932
         },
         {
             "page": "Paolo Gibertoni",
-            "pageView": 619
+            "pageView": 0,
+            "total": 619
         }
     ]
 }

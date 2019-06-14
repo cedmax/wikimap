@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Marcello Bergamo",
-            "pageView": 5819
-        },
-        {
-            "page": "Eleonora Furlan",
-            "pageView": 3966
+            "pageView": 4,
+            "total": 5823
         },
         {
             "page": "Beppo Tonon",
-            "pageView": 3579
+            "pageView": 3,
+            "total": 3582
         },
         {
             "page": "Marino Corder",
-            "pageView": 2572
+            "pageView": 2,
+            "total": 2573
         },
         {
             "page": "Pietro Dal Pozzo",
-            "pageView": 2008
+            "pageView": 2,
+            "total": 2010
+        },
+        {
+            "page": "Eleonora Furlan",
+            "pageView": 2,
+            "total": 3969
         },
         {
             "page": "Michele Amorena",
-            "pageView": 1822
+            "pageView": 1,
+            "total": 1825
         }
     ]
 }

@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Ulderico Sacchella",
-            "pageView": 6477
-        },
-        {
-            "page": "Paolo Pedretti",
-            "pageView": 3001
+            "pageView": 4,
+            "total": 6484
         },
         {
             "page": "Simone da Orsenigo",
-            "pageView": 2590
+            "pageView": 3,
+            "total": 2590
+        },
+        {
+            "page": "Paolo Pedretti",
+            "pageView": 2,
+            "total": 3008
         },
         {
             "page": "Aldo Pifferi",
-            "pageView": 2032
+            "pageView": 2,
+            "total": 2034
         },
         {
             "page": "Pietro Baragiola",
-            "pageView": 173
+            "pageView": 0,
+            "total": 180
         }
     ]
 }

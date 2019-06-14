@@ -3,47 +3,58 @@
     "people": [
         {
             "page": "Fratelli Calvi",
-            "pageView": 17051
+            "pageView": 11,
+            "total": 17085
         },
         {
             "page": "Lucio Topatigh",
-            "pageView": 8814
-        },
-        {
-            "page": "Raffaele Stasi",
-            "pageView": 6001
+            "pageView": 5,
+            "total": 8819
         },
         {
             "page": "Gino Barbieri",
-            "pageView": 4376
-        },
-        {
-            "page": "Julio Bavastro",
-            "pageView": 4281
+            "pageView": 3,
+            "total": 4377
         },
         {
             "page": "Beniamino Schivo",
-            "pageView": 4153
+            "pageView": 3,
+            "total": 4156
+        },
+        {
+            "page": "Julio Bavastro",
+            "pageView": 3,
+            "total": 4283
+        },
+        {
+            "page": "Raffaele Stasi",
+            "pageView": 3,
+            "total": 6008
         },
         {
             "page": "Enzo Petraccone",
-            "pageView": 2518
-        },
-        {
-            "page": "Severino Rigoni",
-            "pageView": 1993
+            "pageView": 2,
+            "total": 2520
         },
         {
             "page": "Guido Maifreni",
-            "pageView": 1488
+            "pageView": 2,
+            "total": 1489
         },
         {
             "page": "Virginio Lunardi",
-            "pageView": 1267
+            "pageView": 1,
+            "total": 1267
+        },
+        {
+            "page": "Severino Rigoni",
+            "pageView": 1,
+            "total": 1995
         },
         {
             "page": "Giancarlo Gloder",
-            "pageView": 190
+            "pageView": 0,
+            "total": 191
         }
     ]
 }

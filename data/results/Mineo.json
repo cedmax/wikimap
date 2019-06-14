@@ -3,95 +3,118 @@
     "people": [
         {
             "page": "Luigi Capuana",
-            "pageView": 158351
+            "pageView": 104,
+            "total": 158557
         },
         {
             "page": "Giuseppe Bonaviri",
-            "pageView": 15242
+            "pageView": 9,
+            "total": 15263
         },
         {
             "page": "Erminio Criscione",
-            "pageView": 8153
+            "pageView": 5,
+            "total": 8162
         },
         {
             "page": "Modesto Sardo",
-            "pageView": 7175
+            "pageView": 4,
+            "total": 7184
         },
         {
             "page": "Gino Raya",
-            "pageView": 4439
-        },
-        {
-            "page": "Ludovico Buglio",
-            "pageView": 3206
-        },
-        {
-            "page": "Salvatore Greco dei Chiaramonte",
-            "pageView": 3165
-        },
-        {
-            "page": "Paolo Maura",
-            "pageView": 2653
-        },
-        {
-            "page": "Corrado Luigi Guzzanti",
-            "pageView": 2606
-        },
-        {
-            "page": "Luigi Ricceri",
-            "pageView": 2562
+            "pageView": 3,
+            "total": 4443
         },
         {
             "page": "Corrado Tamburino Merlini",
-            "pageView": 2295
+            "pageView": 2,
+            "total": 2297
+        },
+        {
+            "page": "Paolo Maura",
+            "pageView": 2,
+            "total": 2655
+        },
+        {
+            "page": "Ludovico Buglio",
+            "pageView": 2,
+            "total": 3206
+        },
+        {
+            "page": "Corrado Luigi Guzzanti",
+            "pageView": 2,
+            "total": 2608
         },
         {
             "page": "Antonio Albertini",
-            "pageView": 2255
-        },
-        {
-            "page": "Pietro Rizzo",
-            "pageView": 2238
-        },
-        {
-            "page": "Bennie Bonacio",
-            "pageView": 2022
+            "pageView": 2,
+            "total": 2255
         },
         {
             "page": "Placido Nigido",
-            "pageView": 1761
+            "pageView": 2,
+            "total": 1761
         },
         {
             "page": "Giuseppe Simili",
-            "pageView": 1717
+            "pageView": 2,
+            "total": 1718
         },
         {
-            "page": "Tommaso Blandino",
-            "pageView": 1486
+            "page": "Luigi Ricceri",
+            "pageView": 2,
+            "total": 2563
         },
         {
-            "page": "Benedetto Cirmeni",
-            "pageView": 1443
+            "page": "Pietro Rizzo",
+            "pageView": 2,
+            "total": 2238
+        },
+        {
+            "page": "Bennie Bonacio",
+            "pageView": 2,
+            "total": 2023
+        },
+        {
+            "page": "Salvatore Greco dei Chiaramonte",
+            "pageView": 2,
+            "total": 3168
         },
         {
             "page": "Orazio Capuana Yaluna",
-            "pageView": 1430
+            "pageView": 1,
+            "total": 1430
+        },
+        {
+            "page": "Benedetto Cirmeni",
+            "pageView": 1,
+            "total": 1443
         },
         {
             "page": "Croce Zimbone",
-            "pageView": 1409
+            "pageView": 1,
+            "total": 1410
         },
         {
             "page": "Antonio Maria Ayala",
-            "pageView": 1356
+            "pageView": 1,
+            "total": 1356
         },
         {
-            "page": "Adelaide Bernardini",
-            "pageView": 823
+            "page": "Tommaso Blandino",
+            "pageView": 1,
+            "total": 1486
         },
         {
             "page": "Luigi Sidoti",
-            "pageView": 631
+            "pageView": 0,
+            "total": 635
+        },
+        {
+            "page": "Adelaide Bernardini",
+            "pageView": 0,
+            "total": 823
         }
     ]
 }

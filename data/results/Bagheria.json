@@ -3,147 +3,183 @@
     "people": [
         {
             "page": "Giuseppe Tornatore",
-            "pageView": 824081
+            "pageView": 364,
+            "total": 824390
         },
         {
             "page": "Renato Guttuso",
-            "pageView": 374814
+            "pageView": 205,
+            "total": 375061
         },
         {
             "page": "Mario Prestifilippo",
-            "pageView": 92912
+            "pageView": 56,
+            "total": 93004
         },
         {
             "page": "Ferdinando Scianna",
-            "pageView": 67109
+            "pageView": 41,
+            "total": 67144
         },
         {
             "page": "Ignazio Buttitta",
-            "pageView": 46319
-        },
-        {
-            "page": "Pietro Giammanco",
-            "pageView": 42002
-        },
-        {
-            "page": "Orio Scaduto",
-            "pageView": 31603
+            "pageView": 28,
+            "total": 46334
         },
         {
             "page": "Joe Aiello",
-            "pageView": 29498
+            "pageView": 19,
+            "total": 29522
+        },
+        {
+            "page": "Orio Scaduto",
+            "pageView": 16,
+            "total": 31612
         },
         {
             "page": "Giuseppe Guttadauro",
-            "pageView": 25356
+            "pageView": 15,
+            "total": 25398
+        },
+        {
+            "page": "Pietro Giammanco",
+            "pageView": 14,
+            "total": 42048
         },
         {
             "page": "Francesco Alliata",
-            "pageView": 18866
+            "pageView": 10,
+            "total": 18874
         },
         {
             "page": "Antonino Buttitta",
-            "pageView": 17310
+            "pageView": 9,
+            "total": 17318
         },
         {
             "page": "Onofrio Tomaselli",
-            "pageView": 15398
+            "pageView": 7,
+            "total": 15423
         },
         {
             "page": "Maurilio Leto",
-            "pageView": 12241
-        },
-        {
-            "page": "Ciro Scianna",
-            "pageView": 8390
+            "pageView": 6,
+            "total": 12247
         },
         {
             "page": "Michelangelo Alfano",
-            "pageView": 7412
+            "pageView": 5,
+            "total": 7416
         },
         {
-            "page": "Silvestre Cuffaro",
-            "pageView": 7123
-        },
-        {
-            "page": "Mimmo Pintacuda",
-            "pageView": 5765
-        },
-        {
-            "page": "Salvatore Provino",
-            "pageView": 5259
-        },
-        {
-            "page": "Francesco Scaduto",
-            "pageView": 4233
-        },
-        {
-            "page": "Domenico Quattrociocchi",
-            "pageView": 4220
-        },
-        {
-            "page": "Giacomo Giardina",
-            "pageView": 4201
-        },
-        {
-            "page": "Giuseppe Bagnera",
-            "pageView": 4195
+            "page": "Ciro Scianna",
+            "pageView": 5,
+            "total": 8397
         },
         {
             "page": "Franco Lo Piparo",
-            "pageView": 3706
+            "pageView": 4,
+            "total": 3708
         },
         {
-            "page": "Giuseppe Cirincione",
-            "pageView": 3300
-        },
-        {
-            "page": "Nino Garajo",
-            "pageView": 2675
-        },
-        {
-            "page": "Rosario Spanò",
-            "pageView": 2494
-        },
-        {
-            "page": "Andrea Cuffaro",
-            "pageView": 2413
-        },
-        {
-            "page": "Margherita Gargano",
-            "pageView": 2039
-        },
-        {
-            "page": "Andrea Zangara",
-            "pageView": 1929
+            "page": "Silvestre Cuffaro",
+            "pageView": 4,
+            "total": 7125
         },
         {
             "page": "Vittoria Casa",
-            "pageView": 1826
+            "pageView": 4,
+            "total": 1832
         },
         {
-            "page": "Michelangelo Galioto",
-            "pageView": 1808
+            "page": "Giuseppe Bagnera",
+            "pageView": 3,
+            "total": 4197
         },
         {
-            "page": "Enrico Maria Alliata di Villafranca",
-            "pageView": 1756
+            "page": "Domenico Quattrociocchi",
+            "pageView": 3,
+            "total": 4222
         },
         {
-            "page": "Vincenzo Fuxa",
-            "pageView": 1716
+            "page": "Francesco Scaduto",
+            "pageView": 3,
+            "total": 4234
+        },
+        {
+            "page": "Mimmo Pintacuda",
+            "pageView": 3,
+            "total": 5768
+        },
+        {
+            "page": "Giacomo Giardina",
+            "pageView": 3,
+            "total": 4203
+        },
+        {
+            "page": "Salvatore Provino",
+            "pageView": 3,
+            "total": 5263
+        },
+        {
+            "page": "Margherita Gargano",
+            "pageView": 2,
+            "total": 2040
+        },
+        {
+            "page": "Giuseppe Cirincione",
+            "pageView": 2,
+            "total": 3302
+        },
+        {
+            "page": "Andrea Cuffaro",
+            "pageView": 2,
+            "total": 2413
+        },
+        {
+            "page": "Andrea Zangara",
+            "pageView": 2,
+            "total": 1930
+        },
+        {
+            "page": "Rosario Spanò",
+            "pageView": 2,
+            "total": 2494
         },
         {
             "page": "Tommaso Ticali",
-            "pageView": 1681
+            "pageView": 2,
+            "total": 1681
+        },
+        {
+            "page": "Nino Garajo",
+            "pageView": 2,
+            "total": 2675
+        },
+        {
+            "page": "Vincenzo Fuxa",
+            "pageView": 1,
+            "total": 1716
+        },
+        {
+            "page": "Michelangelo Galioto",
+            "pageView": 1,
+            "total": 1808
         },
         {
             "page": "Diego D'Amico",
-            "pageView": 1603
+            "pageView": 1,
+            "total": 1604
         },
         {
             "page": "Ignazio Mineo",
-            "pageView": 1581
+            "pageView": 1,
+            "total": 1583
+        },
+        {
+            "page": "Enrico Maria Alliata di Villafranca",
+            "pageView": 0,
+            "total": 1759
         }
     ]
 }

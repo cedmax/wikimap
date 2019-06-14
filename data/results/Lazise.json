@@ -2,36 +2,44 @@
     "name": "Lazise",
     "people": [
         {
+            "page": "Giovanni Rama",
+            "pageView": 3,
+            "total": 4095
+        },
+        {
             "page": "Luigi Gatti (compositore)",
-            "pageView": 4788
+            "pageView": 3,
+            "total": 4811
         },
         {
             "page": "Luciano Zerbini",
-            "pageView": 4162
-        },
-        {
-            "page": "Giovanni Rama",
-            "pageView": 4092
-        },
-        {
-            "page": "Franco Lolli",
-            "pageView": 3557
+            "pageView": 3,
+            "total": 4163
         },
         {
             "page": "Gottardo Aldighieri",
-            "pageView": 3378
+            "pageView": 2,
+            "total": 3379
         },
         {
-            "page": "Francesco Feliciano",
-            "pageView": 1486
-        },
-        {
-            "page": "Luigi Caldana",
-            "pageView": 1484
+            "page": "Franco Lolli",
+            "pageView": 2,
+            "total": 3560
         },
         {
             "page": "Roberto Zanetti (pianista)",
-            "pageView": 1477
+            "pageView": 2,
+            "total": 1479
+        },
+        {
+            "page": "Luigi Caldana",
+            "pageView": 1,
+            "total": 1484
+        },
+        {
+            "page": "Francesco Feliciano",
+            "pageView": 1,
+            "total": 1487
         }
     ]
 }

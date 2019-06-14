@@ -3,31 +3,38 @@
     "people": [
         {
             "page": "Simone Giusti",
-            "pageView": 16015
+            "pageView": 9,
+            "total": 16023
         },
         {
             "page": "Emilio Doveri",
-            "pageView": 6756
+            "pageView": 4,
+            "total": 6762
         },
         {
             "page": "Cesare Del Cancia",
-            "pageView": 3942
-        },
-        {
-            "page": "Gabriele Parenti",
-            "pageView": 3212
+            "pageView": 2,
+            "total": 3944
         },
         {
             "page": "Pietro Frediani",
-            "pageView": 2224
+            "pageView": 2,
+            "total": 2226
+        },
+        {
+            "page": "Gabriele Parenti",
+            "pageView": 2,
+            "total": 3214
         },
         {
             "page": "Domenico Vernagalli",
-            "pageView": 2097
+            "pageView": 2,
+            "total": 2098
         },
         {
             "page": "Corrado Parducci",
-            "pageView": 1318
+            "pageView": 1,
+            "total": 1319
         }
     ]
 }

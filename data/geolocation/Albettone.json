@@ -1,0 +1,27 @@
+{
+    "id": "place.9122063984165500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albettone",
+    "place_name": "Albettone, Vicenza, Italy",
+    "bbox": [
+        11.563527,
+        45.325096,
+        11.627693,
+        45.38888
+    ],
+    "center": [
+        11.58333,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58333,
+            45.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10882319215428420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponzone",
+    "place_name": "Ponzone, Alessandria, Italy",
+    "bbox": [
+        8.432096,
+        44.502757,
+        8.576731,
+        44.616458
+    ],
+    "center": [
+        8.46028,
+        44.58917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46028,
+            44.58917
+        ]
+    }
+}

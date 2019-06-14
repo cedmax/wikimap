@@ -1,0 +1,27 @@
+{
+    "id": "place.11248345033478620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ariano Irpino",
+    "place_name": "Ariano Irpino, Avellino, Italy",
+    "bbox": [
+        14.988776,
+        41.080347,
+        15.223706,
+        41.264686
+    ],
+    "center": [
+        15.08417,
+        41.14972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08417,
+            41.14972
+        ]
+    }
+}

@@ -3,39 +3,48 @@
     "people": [
         {
             "page": "Leonardo Sciascia",
-            "pageView": 666341
+            "pageView": 408.5,
+            "total": 666843
         },
         {
             "page": "Diego La Matina",
-            "pageView": 12341
-        },
-        {
-            "page": "Luigi Infantino",
-            "pageView": 9361
+            "pageView": 8,
+            "total": 12347
         },
         {
             "page": "Maurizio Di Gati",
-            "pageView": 9209
+            "pageView": 6,
+            "total": 9212
+        },
+        {
+            "page": "Luigi Infantino",
+            "pageView": 6,
+            "total": 9364
         },
         {
             "page": "Pietro D'Asaro",
-            "pageView": 4998
-        },
-        {
-            "page": "Vincenzo Milioto",
-            "pageView": 3409
+            "pageView": 3,
+            "total": 5001
         },
         {
             "page": "Alfonso Principato",
-            "pageView": 2949
-        },
-        {
-            "page": "Angelo Lauricella",
-            "pageView": 2631
+            "pageView": 2,
+            "total": 2950
         },
         {
             "page": "Angela Basarocco",
-            "pageView": 2090
+            "pageView": 2,
+            "total": 2091
+        },
+        {
+            "page": "Angelo Lauricella",
+            "pageView": 2,
+            "total": 2632
+        },
+        {
+            "page": "Vincenzo Milioto",
+            "pageView": 2,
+            "total": 3412
         }
     ]
 }

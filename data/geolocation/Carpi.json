@@ -1,0 +1,27 @@
+{
+    "id": "place.2357861896606130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpi",
+    "place_name": "Carpi, Modena, Italy",
+    "bbox": [
+        10.815159,
+        44.71333,
+        11.008417,
+        44.890564
+    ],
+    "center": [
+        10.885,
+        44.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.885,
+            44.78333
+        ]
+    }
+}

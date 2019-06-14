@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Franco Restivo",
-            "pageView": 21023
+            "pageView": 13,
+            "total": 21040
         },
         {
             "page": "Francesco Diana",
-            "pageView": 4861
+            "pageView": 3,
+            "total": 4867
         },
         {
             "page": "Orsino Orsini",
-            "pageView": 4857
-        },
-        {
-            "page": "Luigi Ragno",
-            "pageView": 3147
-        },
-        {
-            "page": "Filippo Romano",
-            "pageView": 3140
+            "pageView": 3,
+            "total": 4861
         },
         {
             "page": "Arturo Ferrara (tenore)",
-            "pageView": 2522
+            "pageView": 2,
+            "total": 2523
+        },
+        {
+            "page": "Luigi Ragno",
+            "pageView": 2,
+            "total": 3149
+        },
+        {
+            "page": "Filippo Romano",
+            "pageView": 2,
+            "total": 3141
         }
     ]
 }

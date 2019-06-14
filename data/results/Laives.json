@@ -2,52 +2,64 @@
     "name": "Laives",
     "people": [
         {
-            "page": "Denny Deanesi",
-            "pageView": 6300
-        },
-        {
             "page": "Ivan Bertuolo",
-            "pageView": 5474
+            "pageView": 4,
+            "total": 5476
         },
         {
-            "page": "Alex Trivellato",
-            "pageView": 3373
+            "page": "Denny Deanesi",
+            "pageView": 2,
+            "total": 6300
         },
         {
             "page": "Christian Timpone",
-            "pageView": 2818
+            "pageView": 2,
+            "total": 2818
         },
         {
             "page": "Alex Frei",
-            "pageView": 2268
+            "pageView": 2,
+            "total": 2270
         },
         {
-            "page": "Joachim Dalsass",
-            "pageView": 1576
-        },
-        {
-            "page": "Daniel Fabris",
-            "pageView": 1210
-        },
-        {
-            "page": "Johann Christoph von Liechtenstein-Kastelkorn",
-            "pageView": 1149
-        },
-        {
-            "page": "Maria Damian",
-            "pageView": 1036
-        },
-        {
-            "page": "Daniel Maffia",
-            "pageView": 786
+            "page": "Alex Trivellato",
+            "pageView": 2,
+            "total": 3376
         },
         {
             "page": "Franziska Stocker",
-            "pageView": 750
+            "pageView": 1,
+            "total": 750
         },
         {
             "page": "Tobias Ebner",
-            "pageView": 719
+            "pageView": 1,
+            "total": 721
+        },
+        {
+            "page": "Daniel Maffia",
+            "pageView": 1,
+            "total": 786
+        },
+        {
+            "page": "Joachim Dalsass",
+            "pageView": 1,
+            "total": 1576
+        },
+        {
+            "page": "Maria Damian",
+            "pageView": 1,
+            "total": 1038
+        },
+        {
+            "page": "Daniel Fabris",
+            "pageView": 1,
+            "total": 1210
+        },
+        {
+            "page": "Johann Christoph von Liechtenstein-Kastelkorn",
+            "pageView": 1,
+            "total": 1150
         }
     ]
 }

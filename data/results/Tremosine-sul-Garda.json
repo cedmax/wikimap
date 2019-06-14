@@ -3,15 +3,18 @@
     "people": [
         {
             "page": "Arturo Cozzaglio",
-            "pageView": 2304
+            "pageView": 2,
+            "total": 2304
         },
         {
             "page": "Claudio Caron",
-            "pageView": 1153
+            "pageView": 2,
+            "total": 1156
         },
         {
             "page": "Bonaventura Gerardi",
-            "pageView": 1150
+            "pageView": 1,
+            "total": 1151
         }
     ]
 }

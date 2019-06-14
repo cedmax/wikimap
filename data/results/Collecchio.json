@@ -3,43 +3,53 @@
     "people": [
         {
             "page": "Calisto Tanzi",
-            "pageView": 187050
+            "pageView": 117,
+            "total": 187183
         },
         {
             "page": "Gennaro Auricchio",
-            "pageView": 12972
-        },
-        {
-            "page": "Giuseppe Romanini",
-            "pageView": 5133
+            "pageView": 8,
+            "total": 12979
         },
         {
             "page": "Ettore Guatelli",
-            "pageView": 4773
+            "pageView": 3,
+            "total": 4774
+        },
+        {
+            "page": "Giuseppe Romanini",
+            "pageView": 3,
+            "total": 5135
         },
         {
             "page": "Domenico Galaverna",
-            "pageView": 2495
-        },
-        {
-            "page": "Renzo Merusi",
-            "pageView": 2389
-        },
-        {
-            "page": "Mara Colla",
-            "pageView": 2159
-        },
-        {
-            "page": "Ferdinando Rebecchi",
-            "pageView": 1613
-        },
-        {
-            "page": "Armando Belletti",
-            "pageView": 1239
+            "pageView": 2,
+            "total": 2497
         },
         {
             "page": "Bernardo de' Rossi (XIII secolo)",
-            "pageView": 917
+            "pageView": 2,
+            "total": 921
+        },
+        {
+            "page": "Mara Colla",
+            "pageView": 2,
+            "total": 2166
+        },
+        {
+            "page": "Renzo Merusi",
+            "pageView": 2,
+            "total": 2391
+        },
+        {
+            "page": "Armando Belletti",
+            "pageView": 1,
+            "total": 1240
+        },
+        {
+            "page": "Ferdinando Rebecchi",
+            "pageView": 1,
+            "total": 1614
         }
     ]
 }

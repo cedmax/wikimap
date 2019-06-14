@@ -1,0 +1,27 @@
+{
+    "id": "place.6041205879232580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sansepolcro",
+    "place_name": "Sansepolcro, Arezzo, Italy",
+    "bbox": [
+        12.046199,
+        43.52717,
+        12.214214,
+        43.653163
+    ],
+    "center": [
+        12.14389,
+        43.57556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.14389,
+            43.57556
+        ]
+    }
+}

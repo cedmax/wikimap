@@ -1,0 +1,27 @@
+{
+    "id": "place.12029157972850190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aidone",
+    "place_name": "Aidone, Enna, Italy",
+    "bbox": [
+        14.386594,
+        37.348586,
+        14.633697,
+        37.509386
+    ],
+    "center": [
+        14.45,
+        37.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.45,
+            37.41667
+        ]
+    }
+}

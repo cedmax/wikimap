@@ -3,23 +3,28 @@
     "people": [
         {
             "page": "Ernestino Ramella",
-            "pageView": 17092
-        },
-        {
-            "page": "Giorgio Boatti",
-            "pageView": 10914
+            "pageView": 10,
+            "total": 17094
         },
         {
             "page": "Carla Cantone",
-            "pageView": 9186
+            "pageView": 9,
+            "total": 9189
+        },
+        {
+            "page": "Giorgio Boatti",
+            "pageView": 7,
+            "total": 10919
         },
         {
             "page": "Luigi Picchi",
-            "pageView": 6336
+            "pageView": 4,
+            "total": 6338
         },
         {
             "page": "Luigi Brugnatelli",
-            "pageView": 2485
+            "pageView": 2,
+            "total": 2485
         }
     ]
 }

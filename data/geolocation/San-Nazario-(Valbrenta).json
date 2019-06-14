@@ -1,0 +1,27 @@
+{
+    "id": "place.11284934149625170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "San Nazario",
+    "place_name": "San Nazario, Vicenza, Italy",
+    "bbox": [
+        11.65911,
+        45.831487,
+        11.746938,
+        45.902663
+    ],
+    "center": [
+        11.68333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68333,
+            45.83333
+        ]
+    }
+}

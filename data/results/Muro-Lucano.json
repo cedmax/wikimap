@@ -3,103 +3,128 @@
     "people": [
         {
             "page": "Gerardo Maiella",
-            "pageView": 123814
+            "pageView": 59,
+            "total": 123870
         },
         {
             "page": "Giovanna I di Napoli",
-            "pageView": 81072
+            "pageView": 54,
+            "total": 81135
         },
         {
             "page": "Salvatore Ligorio",
-            "pageView": 24446
-        },
-        {
-            "page": "Agostino Superbo",
-            "pageView": 15507
+            "pageView": 11,
+            "total": 24454
         },
         {
             "page": "Alessio Ascalesi",
-            "pageView": 13344
+            "pageView": 9,
+            "total": 13355
         },
         {
             "page": "Joseph Stella",
-            "pageView": 11307
+            "pageView": 7,
+            "total": 11325
         },
         {
-            "page": "Antonio Rosario Mennonna",
-            "pageView": 6792
+            "page": "Agostino Superbo",
+            "pageView": 6,
+            "total": 15509
         },
         {
             "page": "Ennio Appignanesi",
-            "pageView": 6616
+            "pageView": 4,
+            "total": 6619
         },
         {
-            "page": "Gerardo Zaccardo",
-            "pageView": 4475
+            "page": "Antonio Rosario Mennonna",
+            "pageView": 4,
+            "total": 6801
         },
         {
             "page": "Salvatore Pagliuca",
-            "pageView": 4435
+            "pageView": 3,
+            "total": 4438
         },
         {
-            "page": "Aurelio Sorrentino",
-            "pageView": 3720
-        },
-        {
-            "page": "Flavio Orsini",
-            "pageView": 3549
-        },
-        {
-            "page": "Salvatore Capezio",
-            "pageView": 2920
-        },
-        {
-            "page": "Giovanni Carlo Coppola",
-            "pageView": 2850
-        },
-        {
-            "page": "Pasquale Quaremba",
-            "pageView": 2831
-        },
-        {
-            "page": "Matteo Guido Sperandeo",
-            "pageView": 2719
-        },
-        {
-            "page": "Enzo Petraccone",
-            "pageView": 2518
-        },
-        {
-            "page": "Giacomo Palombella",
-            "pageView": 2481
-        },
-        {
-            "page": "Achille Terracciano",
-            "pageView": 1940
+            "page": "Gerardo Zaccardo",
+            "pageView": 3,
+            "total": 4478
         },
         {
             "page": "Pietro Ignazio Marolda",
-            "pageView": 1831
+            "pageView": 2,
+            "total": 1833
+        },
+        {
+            "page": "Matteo Guido Sperandeo",
+            "pageView": 2,
+            "total": 2721
+        },
+        {
+            "page": "Salvatore Capezio",
+            "pageView": 2,
+            "total": 2923
+        },
+        {
+            "page": "Enzo Petraccone",
+            "pageView": 2,
+            "total": 2520
+        },
+        {
+            "page": "Pasquale Quaremba",
+            "pageView": 2,
+            "total": 2834
+        },
+        {
+            "page": "Achille Terracciano",
+            "pageView": 2,
+            "total": 1942
+        },
+        {
+            "page": "Aurelio Sorrentino",
+            "pageView": 2,
+            "total": 3723
+        },
+        {
+            "page": "Giacomo Palombella",
+            "pageView": 2,
+            "total": 2483
+        },
+        {
+            "page": "Giovanni Carlo Coppola",
+            "pageView": 2,
+            "total": 2852
+        },
+        {
+            "page": "Flavio Orsini",
+            "pageView": 2,
+            "total": 3550
         },
         {
             "page": "Pasquale Melucci",
-            "pageView": 1163
-        },
-        {
-            "page": "Umberto Luciano Altomare",
-            "pageView": 607
-        },
-        {
-            "page": "Vincenzo Maria Marolda",
-            "pageView": 578
-        },
-        {
-            "page": "Raffaele Capone",
-            "pageView": 252
+            "pageView": 1,
+            "total": 1163
         },
         {
             "page": "Carlo Gagliardi",
-            "pageView": 71
+            "pageView": 0,
+            "total": 72
+        },
+        {
+            "page": "Raffaele Capone",
+            "pageView": 0,
+            "total": 252
+        },
+        {
+            "page": "Vincenzo Maria Marolda",
+            "pageView": 0,
+            "total": 578
+        },
+        {
+            "page": "Umberto Luciano Altomare",
+            "pageView": 0,
+            "total": 607
         }
     ]
 }

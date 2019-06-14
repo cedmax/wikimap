@@ -3,67 +3,83 @@
     "people": [
         {
             "page": "Dore Della Lunga",
-            "pageView": 19858
+            "pageView": 9,
+            "total": 19869
         },
         {
             "page": "Paolo Fedeli",
-            "pageView": 8862
+            "pageView": 6,
+            "total": 8866
         },
         {
             "page": "Roberto Renzi (calciatore)",
-            "pageView": 7071
+            "pageView": 5,
+            "total": 7074
         },
         {
             "page": "Alessandra Casaccia",
-            "pageView": 6084
-        },
-        {
-            "page": "Giulia Domenichetti",
-            "pageView": 5884
-        },
-        {
-            "page": "Raffaele Girotti",
-            "pageView": 5059
-        },
-        {
-            "page": "Arturo Donaggio",
-            "pageView": 4820
-        },
-        {
-            "page": "Marcello Neri",
-            "pageView": 4707
+            "pageView": 4,
+            "total": 6089
         },
         {
             "page": "Massimo Mida",
-            "pageView": 4069
+            "pageView": 3,
+            "total": 4071
         },
         {
-            "page": "Aldo Turchetti",
-            "pageView": 2928
+            "page": "Giulia Domenichetti",
+            "pageView": 3,
+            "total": 5893
         },
         {
-            "page": "Pasquale Andreoli",
-            "pageView": 2738
+            "page": "Marcello Neri",
+            "pageView": 3,
+            "total": 4708
         },
         {
-            "page": "Emilio Rosini",
-            "pageView": 2665
+            "page": "Raffaele Girotti",
+            "pageView": 3,
+            "total": 5061
         },
         {
             "page": "Erika Ferrara",
-            "pageView": 2385
+            "pageView": 2,
+            "total": 2388
         },
         {
             "page": "Mariano Melonari",
-            "pageView": 1927
+            "pageView": 2,
+            "total": 1927
+        },
+        {
+            "page": "Pasquale Andreoli",
+            "pageView": 2,
+            "total": 2740
         },
         {
             "page": "Sofia Luciani",
-            "pageView": 1420
+            "pageView": 2,
+            "total": 1421
+        },
+        {
+            "page": "Emilio Rosini",
+            "pageView": 2,
+            "total": 2667
+        },
+        {
+            "page": "Aldo Turchetti",
+            "pageView": 2,
+            "total": 2931
+        },
+        {
+            "page": "Arturo Donaggio",
+            "pageView": 0,
+            "total": 4821
         },
         {
             "page": "Martina Mencaccini",
-            "pageView": 534
+            "pageView": 0,
+            "total": 535
         }
     ]
 }

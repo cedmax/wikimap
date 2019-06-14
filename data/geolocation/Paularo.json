@@ -1,0 +1,27 @@
+{
+    "id": "place.5673175802315450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paularo",
+    "place_name": "Paularo, Udine, Italy",
+    "bbox": [
+        13.054059,
+        46.474091,
+        13.202672,
+        46.601711
+    ],
+    "center": [
+        13.11667,
+        46.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11667,
+            46.53333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14427909324328840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agropoli",
+    "place_name": "Agropoli, Salerno, Italy",
+    "bbox": [
+        14.95357,
+        40.316629,
+        15.048921,
+        40.392696
+    ],
+    "center": [
+        14.98333,
+        40.35833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.98333,
+            40.35833
+        ]
+    }
+}

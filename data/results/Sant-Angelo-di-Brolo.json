@@ -3,27 +3,33 @@
     "people": [
         {
             "page": "Armando Saitta",
-            "pageView": 10580
+            "pageView": 7,
+            "total": 10583
         },
         {
             "page": "Emanuele Curcio",
-            "pageView": 5879
-        },
-        {
-            "page": "Achille Basile",
-            "pageView": 3262
-        },
-        {
-            "page": "Luigi Basile",
-            "pageView": 2627
-        },
-        {
-            "page": "Emanuele Basile (magistrato)",
-            "pageView": 2378
+            "pageView": 4,
+            "total": 5884
         },
         {
             "page": "Achille Saitta",
-            "pageView": 1934
+            "pageView": 2,
+            "total": 1935
+        },
+        {
+            "page": "Achille Basile",
+            "pageView": 2,
+            "total": 3263
+        },
+        {
+            "page": "Emanuele Basile (magistrato)",
+            "pageView": 2,
+            "total": 2379
+        },
+        {
+            "page": "Luigi Basile",
+            "pageView": 2,
+            "total": 2627
         }
     ]
 }

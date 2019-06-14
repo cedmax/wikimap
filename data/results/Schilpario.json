@@ -3,35 +3,43 @@
     "people": [
         {
             "page": "Angelo Mai",
-            "pageView": 41944
+            "pageView": 27,
+            "total": 41971
         },
         {
             "page": "Fabio Maj",
-            "pageView": 5242
-        },
-        {
-            "page": "Osvaldo Raineri",
-            "pageView": 2869
-        },
-        {
-            "page": "Giovanni Antonio Grassi",
-            "pageView": 1536
+            "pageView": 3,
+            "total": 5246
         },
         {
             "page": "Simon Pietro Grassi",
-            "pageView": 1066
+            "pageView": 2,
+            "total": 1067
         },
         {
-            "page": "Elisabetta Pizio",
-            "pageView": 449
+            "page": "Osvaldo Raineri",
+            "pageView": 2,
+            "total": 2871
+        },
+        {
+            "page": "Giovanni Antonio Grassi",
+            "pageView": 1,
+            "total": 1536
         },
         {
             "page": "Giulio Capitanio",
-            "pageView": 62
+            "pageView": 0,
+            "total": 62
         },
         {
             "page": "Pierantonio Clementi",
-            "pageView": 33
+            "pageView": 0,
+            "total": 33
+        },
+        {
+            "page": "Elisabetta Pizio",
+            "pageView": 0,
+            "total": 449
         }
     ]
 }

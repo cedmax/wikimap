@@ -1,0 +1,27 @@
+{
+    "id": "place.11035837446031320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Leggiuno",
+    "place_name": "Leggiuno, Varese, Italy",
+    "bbox": [
+        8.571222,
+        45.847677,
+        8.639135,
+        45.889769
+    ],
+    "center": [
+        8.6217,
+        45.875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.6217,
+            45.875
+        ]
+    }
+}

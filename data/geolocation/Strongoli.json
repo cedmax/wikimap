@@ -1,0 +1,27 @@
+{
+    "id": "place.4878975706546180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Strongoli",
+    "place_name": "Strongoli, Crotone, Italy",
+    "bbox": [
+        17.007874,
+        39.184622,
+        17.140914,
+        39.291084
+    ],
+    "center": [
+        17.06667,
+        39.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.06667,
+            39.26667
+        ]
+    }
+}

@@ -3,123 +3,153 @@
     "people": [
         {
             "page": "Augusto Zucchi",
-            "pageView": 94172
+            "pageView": 46,
+            "total": 94243
         },
         {
             "page": "Francesco Cilea",
-            "pageView": 72827
-        },
-        {
-            "page": "Alessandra Ghisleri",
-            "pageView": 64195
-        },
-        {
-            "page": "Pippo Delbono",
-            "pageView": 61669
-        },
-        {
-            "page": "Maurizio Turone",
-            "pageView": 56069
+            "pageView": 44,
+            "total": 72858
         },
         {
             "page": "Jacopo da Varazze",
-            "pageView": 52176
+            "pageView": 33,
+            "total": 52196
+        },
+        {
+            "page": "Pippo Delbono",
+            "pageView": 32,
+            "total": 61691
+        },
+        {
+            "page": "Maurizio Turone",
+            "pageView": 31,
+            "total": 56100
         },
         {
             "page": "Lelio Basso",
-            "pageView": 46893
+            "pageView": 28,
+            "total": 46923
         },
         {
             "page": "Ilaria Caprioglio",
-            "pageView": 30961
+            "pageView": 18,
+            "total": 30982
         },
         {
             "page": "Lanzerotto Malocello",
-            "pageView": 27519
+            "pageView": 17,
+            "total": 27528
+        },
+        {
+            "page": "Alessandra Ghisleri",
+            "pageView": 14,
+            "total": 64216
         },
         {
             "page": "Vittorio Mathieu",
-            "pageView": 12257
+            "pageView": 8,
+            "total": 12260
         },
         {
             "page": "Gaetano Negri",
-            "pageView": 7428
+            "pageView": 5,
+            "total": 7434
         },
         {
             "page": "Mario Morasso",
-            "pageView": 4881
-        },
-        {
-            "page": "Luciano Teneggi",
-            "pageView": 3603
-        },
-        {
-            "page": "Giovanni Battista Cerruti",
-            "pageView": 3479
-        },
-        {
-            "page": "Massimo Invrea",
-            "pageView": 3446
-        },
-        {
-            "page": "Dante Piani",
-            "pageView": 3387
+            "pageView": 3,
+            "total": 4883
         },
         {
             "page": "Marco Cravero",
-            "pageView": 3329
-        },
-        {
-            "page": "Giuseppe Recagno",
-            "pageView": 3053
-        },
-        {
-            "page": "Delfino Insolera",
-            "pageView": 2950
-        },
-        {
-            "page": "Enzo Rosa",
-            "pageView": 2887
-        },
-        {
-            "page": "Claudio Baglietto",
-            "pageView": 2807
+            "pageView": 2,
+            "total": 3329
         },
         {
             "page": "Giuseppe Olivieri",
-            "pageView": 2632
+            "pageView": 2,
+            "total": 2633
         },
         {
-            "page": "Bernardo Pizzorno",
-            "pageView": 2573
+            "page": "Luciano Teneggi",
+            "pageView": 2,
+            "total": 3603
         },
         {
             "page": "Giuseppe Damele",
-            "pageView": 2244
+            "pageView": 2,
+            "total": 2244
+        },
+        {
+            "page": "Giuseppe Recagno",
+            "pageView": 2,
+            "total": 3054
+        },
+        {
+            "page": "Dante Piani",
+            "pageView": 2,
+            "total": 3388
+        },
+        {
+            "page": "Enzo Rosa",
+            "pageView": 2,
+            "total": 2888
+        },
+        {
+            "page": "Bernardo Pizzorno",
+            "pageView": 2,
+            "total": 2575
         },
         {
             "page": "Luigi De Manincor",
-            "pageView": 1921
+            "pageView": 2,
+            "total": 1923
         },
         {
-            "page": "Agostino Farina",
-            "pageView": 1675
+            "page": "Claudio Baglietto",
+            "pageView": 2,
+            "total": 2808
         },
         {
-            "page": "Filippo Domenicali",
-            "pageView": 1672
+            "page": "Delfino Insolera",
+            "pageView": 2,
+            "total": 2954
+        },
+        {
+            "page": "Massimo Invrea",
+            "pageView": 2,
+            "total": 3447
+        },
+        {
+            "page": "Giovanni Battista Cerruti",
+            "pageView": 2,
+            "total": 3486
         },
         {
             "page": "Giovanni Gaggino",
-            "pageView": 1600
+            "pageView": 1,
+            "total": 1600
+        },
+        {
+            "page": "Filippo Domenicali",
+            "pageView": 1,
+            "total": 1672
+        },
+        {
+            "page": "Agostino Farina",
+            "pageView": 1,
+            "total": 1675
         },
         {
             "page": "Edoardo Travi",
-            "pageView": 1194
+            "pageView": 1,
+            "total": 1196
         },
         {
             "page": "Domenico Carattino",
-            "pageView": 101
+            "pageView": 0,
+            "total": 101
         }
     ]
 }

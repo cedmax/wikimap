@@ -3,19 +3,23 @@
     "people": [
         {
             "page": "Alessandro Maggiolini",
-            "pageView": 16445
+            "pageView": 10,
+            "total": 16459
         },
         {
             "page": "Luciano Magistrelli",
-            "pageView": 9326
-        },
-        {
-            "page": "Umberto Rotondi",
-            "pageView": 2441
+            "pageView": 6,
+            "total": 9332
         },
         {
             "page": "Camillo Girotti",
-            "pageView": 2411
+            "pageView": 2,
+            "total": 2413
+        },
+        {
+            "page": "Umberto Rotondi",
+            "pageView": 2,
+            "total": 2442
         }
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "id": "place.12150641881767550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Possagno",
+    "place_name": "Possagno, Treviso, Italy",
+    "bbox": [
+        11.827023,
+        45.840434,
+        11.894483,
+        45.901448
+    ],
+    "center": [
+        11.88333,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            45.85
+        ]
+    }
+}

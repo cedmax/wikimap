@@ -3,71 +3,88 @@
     "people": [
         {
             "page": "Valentino Mazzola",
-            "pageView": 435653
+            "pageView": 183,
+            "total": 435791
         },
         {
             "page": "Emilio De Bono",
-            "pageView": 132956
+            "pageView": 78.5,
+            "total": 133025
         },
         {
             "page": "Gianni Motta",
-            "pageView": 44005
-        },
-        {
-            "page": "Dario Passoni",
-            "pageView": 18229
+            "pageView": 22,
+            "total": 44026
         },
         {
             "page": "Corrado Fumagalli (conduttore televisivo)",
-            "pageView": 16704
+            "pageView": 19,
+            "total": 16728
         },
         {
-            "page": "Giuseppe Perrucchetti",
-            "pageView": 15886
+            "page": "Dario Passoni",
+            "pageView": 12,
+            "total": 18247
         },
         {
             "page": "Andrea Bonomi (calciatore)",
-            "pageView": 12307
+            "pageView": 10,
+            "total": 12309
+        },
+        {
+            "page": "Giuseppe Perrucchetti",
+            "pageView": 8,
+            "total": 15891
         },
         {
             "page": "Roberto Bergamaschi",
-            "pageView": 10763
-        },
-        {
-            "page": "Teresa Brambilla",
-            "pageView": 5404
-        },
-        {
-            "page": "Eugenio Brambilla",
-            "pageView": 4142
+            "pageView": 7,
+            "total": 10770
         },
         {
             "page": "Marietta Brambilla",
-            "pageView": 4048
+            "pageView": 3,
+            "total": 4049
+        },
+        {
+            "page": "Eugenio Brambilla",
+            "pageView": 3,
+            "total": 4143
+        },
+        {
+            "page": "Teresa Brambilla",
+            "pageView": 3,
+            "total": 5406
         },
         {
             "page": "Teresina Brambilla",
-            "pageView": 3693
-        },
-        {
-            "page": "Gianni Brusamolino",
-            "pageView": 3224
+            "pageView": 2,
+            "total": 3694
         },
         {
             "page": "Paolo Mentani",
-            "pageView": 2154
+            "pageView": 2,
+            "total": 2155
         },
         {
-            "page": "Teofano Ubaldo Stella",
-            "pageView": 1502
+            "page": "Gianni Brusamolino",
+            "pageView": 2,
+            "total": 3225
         },
         {
             "page": "Camillo Erba",
-            "pageView": 1296
+            "pageView": 1,
+            "total": 1296
+        },
+        {
+            "page": "Teofano Ubaldo Stella",
+            "pageView": 1,
+            "total": 1504
         },
         {
             "page": "Giuseppina Brambilla",
-            "pageView": 637
+            "pageView": 0,
+            "total": 638
         }
     ]
 }

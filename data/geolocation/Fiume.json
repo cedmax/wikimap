@@ -1,0 +1,21 @@
+{
+    "id": "poi.3418794011199",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.95,
+    "text": "Giume",
+    "place_name": "Giume, Via Casal Borsetti, 205, Ravenna, Italy",
+    "center": [
+        12.285538,
+        44.553723
+    ],
+    "geometry": {
+        "coordinates": [
+            12.285538,
+            44.553723
+        ],
+        "type": "Point"
+    }
+}

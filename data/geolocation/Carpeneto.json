@@ -1,0 +1,21 @@
+{
+    "id": "poi.2250562871716",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Carpeneto",
+    "place_name": "Carpeneto, Carpeneto, Alessandria 15071, Italy",
+    "center": [
+        8.605921500000001,
+        44.678435
+    ],
+    "geometry": {
+        "coordinates": [
+            8.605921500000001,
+            44.678435
+        ],
+        "type": "Point"
+    }
+}
