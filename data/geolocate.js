@@ -11,8 +11,8 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
     const data = cities[keys[i]];
     console.log(data.name);
     let geoData;
-    if (fs.existsSync(`geolocation/${keys[i]}.json`)) {
-      geoData = require(`geolocation/${keys[i]}.json`);
+    if (fs.existsSync(`./geolocation/${keys[i]}.json`)) {
+      geoData = require(`./geolocation/${keys[i]}.json`);
     } else {
       const { data: mapBoxData } = await axios.get(
         `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(
@@ -30,13 +30,13 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       );
     }
     try {
-      geo.properties = {
+      geoData.properties = {
         name: data.people[0].page,
         views: data.people[0].pageView,
         location: data.name,
       };
       if (data.people[0].pageView) {
-        results.push(geo);
+        results.push(geoData);
       }
     } catch (e) {
       console.log("######### FAILED");
