@@ -1,0 +1,27 @@
+{
+    "id": "place.8482667184999280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gavorrano",
+    "place_name": "Gavorrano, Grosseto, Italy",
+    "bbox": [
+        10.845442,
+        42.865788,
+        11.039384,
+        43.01396
+    ],
+    "center": [
+        10.90833,
+        42.925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.90833,
+            42.925
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10896281196553930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cisterna di Latina",
+    "place_name": "Cisterna di Latina, Latina, Italy",
+    "bbox": [
+        12.750944,
+        41.474402,
+        12.958018,
+        41.666453
+    ],
+    "center": [
+        12.83333,
+        41.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            41.6
+        ]
+    }
+}

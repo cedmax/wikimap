@@ -1,0 +1,27 @@
+{
+    "id": "place.11790134887392980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barengo",
+    "place_name": "Barengo, Novara, Italy",
+    "bbox": [
+        8.478265,
+        45.535803,
+        8.539635,
+        45.599084
+    ],
+    "center": [
+        8.51403,
+        45.57597
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.51403,
+            45.57597
+        ]
+    }
+}

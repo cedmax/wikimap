@@ -1,0 +1,27 @@
+{
+    "id": "place.15605653652431790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cattolica Eraclea",
+    "place_name": "Cattolica Eraclea, Agrigento, Italy",
+    "bbox": [
+        13.270151,
+        37.388614,
+        13.485904,
+        37.465036
+    ],
+    "center": [
+        13.39278,
+        37.44194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.39278,
+            37.44194
+        ]
+    }
+}

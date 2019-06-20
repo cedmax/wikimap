@@ -1,0 +1,27 @@
+{
+    "id": "place.11661454998165390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Boscoreale",
+    "place_name": "Boscoreale, Napoli, Italy",
+    "bbox": [
+        14.464098,
+        40.756621,
+        14.552515,
+        40.798378
+    ],
+    "center": [
+        14.475,
+        40.775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.475,
+            40.775
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6675562730897440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buscemi",
+    "place_name": "Buscemi, Siracusa, Italy",
+    "bbox": [
+        14.817214,
+        37.034933,
+        14.949539,
+        37.127797
+    ],
+    "center": [
+        14.86667,
+        37.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86667,
+            37.08333
+        ]
+    }
+}

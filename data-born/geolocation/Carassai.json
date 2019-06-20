@@ -1,0 +1,27 @@
+{
+    "id": "place.5018655617461020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carassai",
+    "place_name": "Carassai, Ascoli Piceno, Italy",
+    "bbox": [
+        13.6108,
+        43.006166,
+        13.714078,
+        43.049452
+    ],
+    "center": [
+        13.68373,
+        43.03218
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68373,
+            43.03218
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10453115406810260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossombrone",
+    "place_name": "Fossombrone, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.718969,
+        43.588597,
+        12.885563,
+        43.726809
+    ],
+    "center": [
+        12.80612,
+        43.68896
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.80612,
+            43.68896
+        ]
+    }
+}

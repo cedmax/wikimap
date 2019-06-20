@@ -1,0 +1,27 @@
+{
+    "id": "place.10994523358916320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ospedaletti",
+    "place_name": "Ospedaletti, Imperia, Italy",
+    "bbox": [
+        7.69522,
+        43.794751,
+        7.740422,
+        43.828608
+    ],
+    "center": [
+        7.71769,
+        43.80059
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.71769,
+            43.80059
+        ]
+    }
+}

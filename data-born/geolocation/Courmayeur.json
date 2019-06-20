@@ -1,0 +1,27 @@
+{
+    "id": "place.346263132225250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Courmayeur",
+    "place_name": "Courmayeur, Valle D'Aosta, Italy",
+    "bbox": [
+        6.801653,
+        45.740248,
+        7.101809,
+        45.922885
+    ],
+    "center": [
+        6.96667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.96667,
+            45.78333
+        ]
+    }
+}

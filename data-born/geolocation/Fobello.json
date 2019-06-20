@@ -1,0 +1,27 @@
+{
+    "id": "place.16086512937684520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fobello",
+    "place_name": "Fobello, Vercelli, Italy",
+    "bbox": [
+        8.083395,
+        45.879535,
+        8.177469,
+        45.933402
+    ],
+    "center": [
+        8.16667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16667,
+            45.88333
+        ]
+    }
+}

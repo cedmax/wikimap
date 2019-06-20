@@ -1,0 +1,27 @@
+{
+    "id": "place.6269153048962470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torri del Benaco",
+    "place_name": "Torri del Benaco, Verona, Italy",
+    "bbox": [
+        10.625604,
+        45.579303,
+        10.737086,
+        45.673745
+    ],
+    "center": [
+        10.68333,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68333,
+            45.61667
+        ]
+    }
+}

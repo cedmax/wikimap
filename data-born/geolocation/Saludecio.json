@@ -1,0 +1,27 @@
+{
+    "id": "place.5054052647401450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Saludecio",
+    "place_name": "Saludecio, Rimini, Italy",
+    "bbox": [
+        12.616548,
+        43.836794,
+        12.733992,
+        43.915854
+    ],
+    "center": [
+        12.66861,
+        43.87278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66861,
+            43.87278
+        ]
+    }
+}

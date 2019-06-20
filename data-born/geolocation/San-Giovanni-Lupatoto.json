@@ -1,0 +1,27 @@
+{
+    "id": "place.8243130866702610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Lupatoto",
+    "place_name": "San Giovanni Lupatoto, Verona, Italy",
+    "bbox": [
+        11.010725,
+        45.325523,
+        11.071706,
+        45.405344
+    ],
+    "center": [
+        11.03333,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            45.38333
+        ]
+    }
+}

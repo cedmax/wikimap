@@ -1,0 +1,27 @@
+{
+    "id": "place.9363276582907150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiaravalle Centrale",
+    "place_name": "Chiaravalle Centrale, Catanzaro, Italy",
+    "bbox": [
+        16.343215,
+        38.663784,
+        16.450417,
+        38.712799
+    ],
+    "center": [
+        16.4,
+        38.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.4,
+            38.68333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12622192431882240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arsiero",
+    "place_name": "Arsiero, Vicenza, Italy",
+    "bbox": [
+        11.249096,
+        45.798009,
+        11.377124,
+        45.894424
+    ],
+    "center": [
+        11.35,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.35,
+            45.8
+        ]
+    }
+}

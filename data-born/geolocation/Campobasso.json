@@ -1,0 +1,27 @@
+{
+    "id": "place.10903390560427510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campobasso",
+    "place_name": "Campobasso, Campobasso, Italy",
+    "bbox": [
+        14.581602,
+        41.528655,
+        14.727431,
+        41.61906
+    ],
+    "center": [
+        14.6684,
+        41.561
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.6684,
+            41.561
+        ]
+    }
+}

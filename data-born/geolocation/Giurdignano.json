@@ -1,0 +1,27 @@
+{
+    "id": "place.7336053952400450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giurdignano",
+    "place_name": "Giurdignano, Lecce, Italy",
+    "bbox": [
+        18.404968,
+        40.107131,
+        18.468392,
+        40.146822
+    ],
+    "center": [
+        18.43333,
+        40.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.43333,
+            40.11667
+        ]
+    }
+}

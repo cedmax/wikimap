@@ -1,0 +1,27 @@
+{
+    "id": "place.13259746196247560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano Belbo",
+    "place_name": "Santo Stefano Belbo, Cuneo, Italy",
+    "bbox": [
+        8.163621,
+        44.672963,
+        8.268975,
+        44.73234
+    ],
+    "center": [
+        8.23333,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.23333,
+            44.7
+        ]
+    }
+}

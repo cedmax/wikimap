@@ -1,0 +1,27 @@
+{
+    "id": "place.10942070300465800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Petralia Sottana",
+    "place_name": "Petralia Sottana, Palermo, Italy",
+    "bbox": [
+        13.898564,
+        37.58568,
+        14.110856,
+        37.911733
+    ],
+    "center": [
+        14.08333,
+        37.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.08333,
+            37.8
+        ]
+    }
+}

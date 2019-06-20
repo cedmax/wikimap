@@ -1,0 +1,27 @@
+{
+    "id": "place.12912811579677680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aci Sant'Antonio",
+    "place_name": "Aci Sant'Antonio, Catania, Italy",
+    "bbox": [
+        15.091929,
+        37.59354,
+        15.137198,
+        37.652225
+    ],
+    "center": [
+        15.11667,
+        37.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            37.6
+        ]
+    }
+}

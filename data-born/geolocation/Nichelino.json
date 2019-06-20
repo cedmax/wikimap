@@ -1,0 +1,27 @@
+{
+    "id": "place.14307673689832480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nichelino",
+    "place_name": "Nichelino, Torino, Italy",
+    "bbox": [
+        7.580034,
+        44.962941,
+        7.663042,
+        45.010743
+    ],
+    "center": [
+        7.65,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65,
+            45
+        ]
+    }
+}

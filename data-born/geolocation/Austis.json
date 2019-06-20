@@ -1,0 +1,27 @@
+{
+    "id": "place.2508480917120350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Austis",
+    "place_name": "Austis, Nuoro, Italy",
+    "bbox": [
+        9.015966,
+        40.037191,
+        9.118,
+        40.143725
+    ],
+    "center": [
+        9.08889,
+        40.07139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.08889,
+            40.07139
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2189547498899300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito Lo Capo",
+    "place_name": "San Vito Lo Capo, Trapani, Italy",
+    "bbox": [
+        12.710771,
+        38.057887,
+        12.811123,
+        38.189612
+    ],
+    "center": [
+        12.75,
+        38.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.75,
+            38.16667
+        ]
+    }
+}

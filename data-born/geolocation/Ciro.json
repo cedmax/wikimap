@@ -1,0 +1,27 @@
+{
+    "id": "place.19692366985506180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cirò",
+    "place_name": "Cirò, Crotone, Italy",
+    "bbox": [
+        16.97647,
+        39.327683,
+        17.099276,
+        39.439303
+    ],
+    "center": [
+        17.06667,
+        39.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.06667,
+            39.38333
+        ]
+    }
+}

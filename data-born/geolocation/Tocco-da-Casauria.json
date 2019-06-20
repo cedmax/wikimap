@@ -1,0 +1,27 @@
+{
+    "id": "place.11009891524801540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tocco da Casauria",
+    "place_name": "Tocco da Casauria, Pescara, Italy",
+    "bbox": [
+        13.864863,
+        42.158238,
+        13.945235,
+        42.233286
+    ],
+    "center": [
+        13.91667,
+        42.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91667,
+            42.21667
+        ]
+    }
+}

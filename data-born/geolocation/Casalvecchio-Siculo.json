@@ -1,0 +1,27 @@
+{
+    "id": "place.7145841307567720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalvecchio Siculo",
+    "place_name": "Casalvecchio Siculo, Messina, Italy",
+    "bbox": [
+        15.239306,
+        37.938106,
+        15.332152,
+        38.03201
+    ],
+    "center": [
+        15.32194,
+        37.9575
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.32194,
+            37.9575
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3820013639957460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nogaredo",
+    "place_name": "Nogaredo, Trento, Italy",
+    "bbox": [
+        11.004116,
+        45.895415,
+        11.034083,
+        45.918225
+    ],
+    "center": [
+        11.03333,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            45.91667
+        ]
+    }
+}

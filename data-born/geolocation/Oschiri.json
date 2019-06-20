@@ -1,0 +1,27 @@
+{
+    "id": "place.2614478582488130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oschiri",
+    "place_name": "Oschiri, Olbia-Tempio, Italy",
+    "bbox": [
+        9.00303,
+        40.646194,
+        9.225841,
+        40.832389
+    ],
+    "center": [
+        9.1,
+        40.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            40.71667
+        ]
+    }
+}

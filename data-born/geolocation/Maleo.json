@@ -1,0 +1,27 @@
+{
+    "id": "place.3217129765722670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maleo",
+    "place_name": "Maleo, Lodi, Italy",
+    "bbox": [
+        9.727273,
+        45.139008,
+        9.804897,
+        45.190758
+    ],
+    "center": [
+        9.7625,
+        45.16833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.7625,
+            45.16833
+        ]
+    }
+}

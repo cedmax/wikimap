@@ -1,0 +1,27 @@
+{
+    "id": "place.11576833183722170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spongano",
+    "place_name": "Spongano, Lecce, Italy",
+    "bbox": [
+        18.331933,
+        39.996035,
+        18.3834,
+        40.037148
+    ],
+    "center": [
+        18.36667,
+        40.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.36667,
+            40.01667
+        ]
+    }
+}

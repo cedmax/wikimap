@@ -1,0 +1,21 @@
+{
+    "id": "poi.3023657052624",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Contursi Terme",
+    "place_name": "Contursi Terme, Contursi Terme, Avigliano, Potenza 85021, Italy",
+    "center": [
+        15.72022,
+        40.725356
+    ],
+    "geometry": {
+        "coordinates": [
+            15.72022,
+            40.725356
+        ],
+        "type": "Point"
+    }
+}

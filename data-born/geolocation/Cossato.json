@@ -1,0 +1,27 @@
+{
+    "id": "place.7248962155393130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cossato",
+    "place_name": "Cossato, Biella, Italy",
+    "bbox": [
+        8.150395,
+        45.50979,
+        8.22094,
+        45.611177
+    ],
+    "center": [
+        8.1817,
+        45.5739
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.1817,
+            45.5739
+        ]
+    }
+}

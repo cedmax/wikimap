@@ -1,0 +1,29 @@
+{
+    "id": "place.13491073911910220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "San Lorenzo di Sebato - St. Lorenzen",
+    "place_name": "San Lorenzo di Sebato - St. Lorenzen, Bolzano, Italy",
+    "matching_text": "San Lorenzo di Sebato",
+    "matching_place_name": "San Lorenzo di Sebato, Bolzano, Italy",
+    "bbox": [
+        11.798125,
+        46.72999,
+        11.936785,
+        46.800912
+    ],
+    "center": [
+        11.9,
+        46.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9,
+            46.78333
+        ]
+    }
+}

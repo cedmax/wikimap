@@ -1,0 +1,27 @@
+{
+    "id": "place.13459353858151260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Patù",
+    "place_name": "Patù, Lecce, Italy",
+    "bbox": [
+        18.288862,
+        39.808304,
+        18.345731,
+        39.845554
+    ],
+    "center": [
+        18.33333,
+        39.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.33333,
+            39.85
+        ]
+    }
+}

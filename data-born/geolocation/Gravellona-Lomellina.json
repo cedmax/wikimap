@@ -1,0 +1,27 @@
+{
+    "id": "place.8592275745883480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gravellona Lomellina",
+    "place_name": "Gravellona Lomellina, Pavia, Italy",
+    "bbox": [
+        8.74213,
+        45.308251,
+        8.811709,
+        45.367495
+    ],
+    "center": [
+        8.76667,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            45.33333
+        ]
+    }
+}

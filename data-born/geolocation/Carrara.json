@@ -1,0 +1,27 @@
+{
+    "id": "place.7320756371008910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carrara",
+    "place_name": "Carrara, Massa-Carrara, Italy",
+    "bbox": [
+        10.01918,
+        44.026204,
+        10.171289,
+        44.130168
+    ],
+    "center": [
+        10.1,
+        44.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1,
+            44.08333
+        ]
+    }
+}

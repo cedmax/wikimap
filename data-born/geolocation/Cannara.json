@@ -1,0 +1,27 @@
+{
+    "id": "place.10062467679170090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cannara",
+    "place_name": "Cannara, Perugia, Italy",
+    "bbox": [
+        12.493465,
+        42.946524,
+        12.607159,
+        43.021156
+    ],
+    "center": [
+        12.58333,
+        43
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58333,
+            43
+        ]
+    }
+}

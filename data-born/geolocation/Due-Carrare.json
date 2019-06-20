@@ -1,0 +1,27 @@
+{
+    "id": "place.15873803762525700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Due Carrare",
+    "place_name": "Due Carrare, Padova, Italy",
+    "bbox": [
+        11.787919,
+        45.271565,
+        11.870818,
+        45.332198
+    ],
+    "center": [
+        11.83333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            45.28333
+        ]
+    }
+}

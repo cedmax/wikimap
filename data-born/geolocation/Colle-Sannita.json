@@ -1,0 +1,27 @@
+{
+    "id": "place.10836365847432830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colle Sannita",
+    "place_name": "Colle Sannita, Benevento, Italy",
+    "bbox": [
+        14.809158,
+        41.332816,
+        14.899205,
+        41.433032
+    ],
+    "center": [
+        14.83333,
+        41.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83333,
+            41.36667
+        ]
+    }
+}

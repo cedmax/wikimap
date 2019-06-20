@@ -1,0 +1,27 @@
+{
+    "id": "place.9524457818953200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montanaro",
+    "place_name": "Montanaro, Torino, Italy",
+    "bbox": [
+        7.809392,
+        45.205204,
+        7.885852,
+        45.2614
+    ],
+    "center": [
+        7.85,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85,
+            45.23333
+        ]
+    }
+}

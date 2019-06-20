@@ -1,0 +1,27 @@
+{
+    "id": "place.16578722305518320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cannobio",
+    "place_name": "Cannobio, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.593591,
+        46.009967,
+        8.721956,
+        46.12338
+    ],
+    "center": [
+        8.7,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            46.06667
+        ]
+    }
+}

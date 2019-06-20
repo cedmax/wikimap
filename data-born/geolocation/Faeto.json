@@ -1,0 +1,27 @@
+{
+    "id": "place.3852893487631900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Faeto",
+    "place_name": "Faeto, Foggia, Italy",
+    "bbox": [
+        15.126743,
+        41.28005,
+        15.211785,
+        41.365482
+    ],
+    "center": [
+        15.16045,
+        41.32489
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.16045,
+            41.32489
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10755244530311650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corropoli",
+    "place_name": "Corropoli, Teramo, Italy",
+    "bbox": [
+        13.817105,
+        42.793178,
+        13.90446,
+        42.851353
+    ],
+    "center": [
+        13.83333,
+        42.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83333,
+            42.83333
+        ]
+    }
+}

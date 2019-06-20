@@ -1,0 +1,27 @@
+{
+    "id": "place.8388806384221210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marco Evangelista",
+    "place_name": "San Marco Evangelista, Caserta, Italy",
+    "bbox": [
+        14.324757,
+        41.01809,
+        14.359131,
+        41.04575
+    ],
+    "center": [
+        14.33333,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.33333,
+            41.03333
+        ]
+    }
+}

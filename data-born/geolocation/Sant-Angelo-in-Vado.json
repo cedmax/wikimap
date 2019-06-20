@@ -1,0 +1,27 @@
+{
+    "id": "place.11739607401696470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo in Vado",
+    "place_name": "Sant'Angelo in Vado, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.349672,
+        43.600267,
+        12.467724,
+        43.707135
+    ],
+    "center": [
+        12.413,
+        43.66472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.413,
+            43.66472
+        ]
+    }
+}

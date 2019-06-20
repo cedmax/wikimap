@@ -1,0 +1,27 @@
+{
+    "id": "place.8127194151221070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carcare",
+    "place_name": "Carcare, Savona, Italy",
+    "bbox": [
+        8.262725,
+        44.326466,
+        8.318546,
+        44.367686
+    ],
+    "center": [
+        8.29063,
+        44.35789
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.29063,
+            44.35789
+        ]
+    }
+}

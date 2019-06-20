@@ -1,0 +1,27 @@
+{
+    "id": "place.7155601520118930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Suzzara",
+    "place_name": "Suzzara, Mantova, Italy",
+    "bbox": [
+        10.651673,
+        44.961668,
+        10.819882,
+        45.039853
+    ],
+    "center": [
+        10.74941,
+        44.99266
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.74941,
+            44.99266
+        ]
+    }
+}

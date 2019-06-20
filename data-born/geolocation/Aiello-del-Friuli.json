@@ -1,0 +1,27 @@
+{
+    "id": "place.6228842987508690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aiello del Friuli",
+    "place_name": "Aiello del Friuli, Udine, Italy",
+    "bbox": [
+        13.324011,
+        45.850622,
+        13.38279,
+        45.892366
+    ],
+    "center": [
+        13.36667,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36667,
+            45.86667
+        ]
+    }
+}

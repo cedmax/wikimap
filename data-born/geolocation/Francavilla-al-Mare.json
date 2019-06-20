@@ -1,0 +1,27 @@
+{
+    "id": "place.4858325849550500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francavilla al Mare",
+    "place_name": "Francavilla al Mare, Chieti, Italy",
+    "bbox": [
+        14.226939,
+        42.380513,
+        14.321642,
+        42.445337
+    ],
+    "center": [
+        14.29191,
+        42.41806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.29191,
+            42.41806
+        ]
+    }
+}

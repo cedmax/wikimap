@@ -1,0 +1,27 @@
+{
+    "id": "place.15567488677254820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sesto Calende",
+    "place_name": "Sesto Calende, Varese, Italy",
+    "bbox": [
+        8.577621,
+        45.710829,
+        8.678053,
+        45.777849
+    ],
+    "center": [
+        8.63333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            45.73333
+        ]
+    }
+}

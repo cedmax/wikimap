@@ -1,0 +1,27 @@
+{
+    "id": "place.15270153191813710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marina di Gioiosa Ionica",
+    "place_name": "Marina di Gioiosa Ionica, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.297572,
+        38.293784,
+        16.355128,
+        38.359407
+    ],
+    "center": [
+        16.33333,
+        38.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            38.3
+        ]
+    }
+}

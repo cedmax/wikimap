@@ -1,0 +1,27 @@
+{
+    "id": "place.5361905415253120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Neoneli",
+    "place_name": "Neoneli, Oristano, Italy",
+    "bbox": [
+        8.907002,
+        40.02435,
+        9.046617,
+        40.102981
+    ],
+    "center": [
+        8.94694,
+        40.06528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.94694,
+            40.06528
+        ]
+    }
+}

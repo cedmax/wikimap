@@ -1,0 +1,27 @@
+{
+    "id": "place.7085529671453630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rodì Milici",
+    "place_name": "Rodì Milici, Messina, Italy",
+    "bbox": [
+        15.137817,
+        38.003935,
+        15.233038,
+        38.125737
+    ],
+    "center": [
+        15.16667,
+        38.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.16667,
+            38.11667
+        ]
+    }
+}

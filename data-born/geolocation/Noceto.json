@@ -1,0 +1,27 @@
+{
+    "id": "place.6272511561167470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noceto",
+    "place_name": "Noceto, Parma, Italy",
+    "bbox": [
+        10.038693,
+        44.757025,
+        10.224031,
+        44.854536
+    ],
+    "center": [
+        10.18333,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            44.81667
+        ]
+    }
+}

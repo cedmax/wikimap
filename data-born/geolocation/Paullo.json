@@ -1,0 +1,27 @@
+{
+    "id": "place.10872128932934870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paullo",
+    "place_name": "Paullo, Milano, Italy",
+    "bbox": [
+        9.383185,
+        45.390731,
+        9.425535,
+        45.438202
+    ],
+    "center": [
+        9.4,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.41667
+        ]
+    }
+}

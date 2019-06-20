@@ -1,0 +1,27 @@
+{
+    "id": "place.8509486859962690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gissi",
+    "place_name": "Gissi, Chieti, Italy",
+    "bbox": [
+        14.523422,
+        41.997178,
+        14.61671,
+        42.089681
+    ],
+    "center": [
+        14.55,
+        42.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            42.01667
+        ]
+    }
+}

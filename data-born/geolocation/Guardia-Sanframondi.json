@@ -1,0 +1,27 @@
+{
+    "id": "place.7185384840294390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guardia Sanframondi",
+    "place_name": "Guardia Sanframondi, Benevento, Italy",
+    "bbox": [
+        14.560315,
+        41.207446,
+        14.611538,
+        41.277396
+    ],
+    "center": [
+        14.6,
+        41.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.6,
+            41.25
+        ]
+    }
+}

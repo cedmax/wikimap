@@ -1,0 +1,27 @@
+{
+    "id": "place.12182722310410030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isnello",
+    "place_name": "Isnello, Palermo, Italy",
+    "bbox": [
+        13.962313,
+        37.867711,
+        14.059513,
+        37.954599
+    ],
+    "center": [
+        14.010913,
+        37.911155
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.010913,
+            37.911155
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10372813724739920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zerbo",
+    "place_name": "Zerbo, Pavia, Italy",
+    "bbox": [
+        9.381913,
+        45.092451,
+        9.421814,
+        45.121274
+    ],
+    "center": [
+        9.4,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.11667
+        ]
+    }
+}

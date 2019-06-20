@@ -1,0 +1,27 @@
+{
+    "id": "place.3073655752257890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viterbo",
+    "place_name": "Viterbo, Viterbo, Italy",
+    "bbox": [
+        11.903917,
+        42.297025,
+        12.226818,
+        42.58728
+    ],
+    "center": [
+        12.10417,
+        42.41861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.10417,
+            42.41861
+        ]
+    }
+}

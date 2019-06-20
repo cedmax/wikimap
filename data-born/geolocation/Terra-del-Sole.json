@@ -1,0 +1,21 @@
+{
+    "id": "poi.3358664499484",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Terra del Sole",
+    "place_name": "Terra del Sole, Castrocaro Terme e Terra del Sole, Forli'-Cesena 47011, Italy",
+    "center": [
+        11.96007,
+        44.185317
+    ],
+    "geometry": {
+        "coordinates": [
+            11.96007,
+            44.185317
+        ],
+        "type": "Point"
+    }
+}

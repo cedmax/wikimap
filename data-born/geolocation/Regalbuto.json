@@ -1,0 +1,27 @@
+{
+    "id": "place.9280100213070600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Regalbuto",
+    "place_name": "Regalbuto, Enna, Italy",
+    "bbox": [
+        14.542343,
+        37.564248,
+        14.750457,
+        37.735966
+    ],
+    "center": [
+        14.63333,
+        37.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            37.65
+        ]
+    }
+}

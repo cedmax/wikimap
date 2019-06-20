@@ -1,0 +1,27 @@
+{
+    "id": "place.12013864208745320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siracusa",
+    "place_name": "Siracusa, Siracusa, Italy",
+    "bbox": [
+        15.083315,
+        36.947825,
+        15.336823,
+        37.116384
+    ],
+    "center": [
+        15.28333,
+        37.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.28333,
+            37.08333
+        ]
+    }
+}

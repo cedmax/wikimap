@@ -1,0 +1,27 @@
+{
+    "id": "place.13986604743782080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel di Casio",
+    "place_name": "Castel di Casio, Bologna, Italy",
+    "bbox": [
+        10.973863,
+        44.096522,
+        11.066002,
+        44.208221
+    ],
+    "center": [
+        11.03333,
+        44.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            44.16667
+        ]
+    }
+}

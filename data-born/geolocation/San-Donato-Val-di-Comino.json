@@ -1,0 +1,27 @@
+{
+    "id": "place.13377530430312110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Donato Val di Comino",
+    "place_name": "San Donato Val di Comino, Frosinone, Italy",
+    "bbox": [
+        13.76992,
+        41.676127,
+        13.856782,
+        41.754304
+    ],
+    "center": [
+        13.81667,
+        41.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81667,
+            41.7
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6511435702387810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grottaferrata",
+    "place_name": "Grottaferrata, Roma, Italy",
+    "bbox": [
+        12.636245,
+        41.754781,
+        12.728868,
+        41.80921
+    ],
+    "center": [
+        12.66667,
+        41.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            41.8
+        ]
+    }
+}

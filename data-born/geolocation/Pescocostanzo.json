@@ -1,0 +1,27 @@
+{
+    "id": "place.12501033669837070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescocostanzo",
+    "place_name": "Pescocostanzo, L'Aquila, Italy",
+    "bbox": [
+        13.998084,
+        41.866527,
+        14.126925,
+        41.967143
+    ],
+    "center": [
+        14.06639,
+        41.88722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.06639,
+            41.88722
+        ]
+    }
+}

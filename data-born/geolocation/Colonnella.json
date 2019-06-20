@@ -1,0 +1,27 @@
+{
+    "id": "place.9176123048481950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colonnella",
+    "place_name": "Colonnella, Teramo, Italy",
+    "bbox": [
+        13.83455,
+        42.831611,
+        13.908305,
+        42.891438
+    ],
+    "center": [
+        13.86987,
+        42.8723
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86987,
+            42.8723
+        ]
+    }
+}

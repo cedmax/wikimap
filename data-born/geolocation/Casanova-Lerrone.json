@@ -1,0 +1,27 @@
+{
+    "id": "place.15723966691427860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casanova Lerrone",
+    "place_name": "Casanova Lerrone, Savona, Italy",
+    "bbox": [
+        7.977481,
+        44.009675,
+        8.079758,
+        44.057012
+    ],
+    "center": [
+        8.04842,
+        44.03167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.04842,
+            44.03167
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5170969942365600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civita d'Antino",
+    "place_name": "Civita d'Antino, L'Aquila, Italy",
+    "bbox": [
+        13.435208,
+        41.851809,
+        13.516501,
+        41.918133
+    ],
+    "center": [
+        13.4725,
+        41.88667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4725,
+            41.88667
+        ]
+    }
+}

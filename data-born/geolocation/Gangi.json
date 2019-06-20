@@ -1,0 +1,27 @@
+{
+    "id": "place.14679252467112180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gangi",
+    "place_name": "Gangi, Palermo, Italy",
+    "bbox": [
+        14.151703,
+        37.669764,
+        14.295088,
+        37.82704
+    ],
+    "center": [
+        14.2,
+        37.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.2,
+            37.8
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12786211757485760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teolo",
+    "place_name": "Teolo, Padova, Italy",
+    "bbox": [
+        11.651024,
+        45.316304,
+        11.76837,
+        45.395453
+    ],
+    "center": [
+        11.66667,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            45.35
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6833379383932050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montelabbate",
+    "place_name": "Montelabbate, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.745417,
+        43.801953,
+        12.822916,
+        43.877431
+    ],
+    "center": [
+        12.7909,
+        43.84893
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.7909,
+            43.84893
+        ]
+    }
+}

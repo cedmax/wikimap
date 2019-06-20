@@ -1,0 +1,27 @@
+{
+    "id": "place.4136133267951800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sauze d'Oulx",
+    "place_name": "Sauze d'Oulx, Torino, Italy",
+    "bbox": [
+        6.837498,
+        44.993242,
+        6.903862,
+        45.040026
+    ],
+    "center": [
+        6.85806,
+        45.02667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.85806,
+            45.02667
+        ]
+    }
+}

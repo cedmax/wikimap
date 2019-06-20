@@ -1,0 +1,27 @@
+{
+    "id": "place.8348255871920870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pievepelago",
+    "place_name": "Pievepelago, Modena, Italy",
+    "bbox": [
+        10.51041,
+        44.114139,
+        10.632441,
+        44.241732
+    ],
+    "center": [
+        10.6225,
+        44.20556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6225,
+            44.20556
+        ]
+    }
+}

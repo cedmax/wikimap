@@ -1,0 +1,27 @@
+{
+    "id": "place.18034922555506720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzolo Acreide",
+    "place_name": "Palazzolo Acreide, Siracusa, Italy",
+    "bbox": [
+        14.84846,
+        37.008984,
+        15.095503,
+        37.113572
+    ],
+    "center": [
+        14.9,
+        37.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.9,
+            37.06667
+        ]
+    }
+}

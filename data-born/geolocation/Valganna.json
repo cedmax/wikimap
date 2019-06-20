@@ -1,0 +1,27 @@
+{
+    "id": "place.14942101187882080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valganna",
+    "place_name": "Valganna, Varese, Italy",
+    "bbox": [
+        8.799636,
+        45.871603,
+        8.849784,
+        45.929585
+    ],
+    "center": [
+        8.83333,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.93333
+        ]
+    }
+}

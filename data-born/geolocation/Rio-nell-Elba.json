@@ -1,0 +1,27 @@
+{
+    "id": "place.7693573860364060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rio nell'Elba",
+    "place_name": "Rio nell'Elba, Livorno, Italy",
+    "bbox": [
+        10.358528,
+        42.789082,
+        10.418406,
+        42.84778
+    ],
+    "center": [
+        10.4,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4,
+            42.81667
+        ]
+    }
+}

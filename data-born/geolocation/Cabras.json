@@ -1,0 +1,27 @@
+{
+    "id": "place.13237556450495770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cabras",
+    "place_name": "Cabras, Oristano, Italy",
+    "bbox": [
+        8.275075,
+        39.857973,
+        8.57299,
+        39.998478
+    ],
+    "center": [
+        8.53028,
+        39.93056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.53028,
+            39.93056
+        ]
+    }
+}

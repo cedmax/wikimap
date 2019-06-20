@@ -1,0 +1,27 @@
+{
+    "id": "place.5570541695369910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Val di Nizza",
+    "place_name": "Val di Nizza, Pavia, Italy",
+    "bbox": [
+        9.137683,
+        44.838169,
+        9.218022,
+        44.903526
+    ],
+    "center": [
+        9.16667,
+        44.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            44.88333
+        ]
+    }
+}

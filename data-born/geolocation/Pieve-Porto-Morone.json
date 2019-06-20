@@ -1,0 +1,27 @@
+{
+    "id": "place.1827921580441720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve Porto Morone",
+    "place_name": "Pieve Porto Morone, Pavia, Italy",
+    "bbox": [
+        9.411615,
+        45.091554,
+        9.506663,
+        45.130027
+    ],
+    "center": [
+        9.43694,
+        45.11028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43694,
+            45.11028
+        ]
+    }
+}

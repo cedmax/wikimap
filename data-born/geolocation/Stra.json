@@ -1,0 +1,21 @@
+{
+    "id": "poi.2688649599374",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "STRA",
+    "place_name": "STRA, Via Marosticana, 229, Dueville, Vicenza 36031, Italy",
+    "center": [
+        11.57418,
+        45.6393
+    ],
+    "geometry": {
+        "coordinates": [
+            11.57418,
+            45.6393
+        ],
+        "type": "Point"
+    }
+}

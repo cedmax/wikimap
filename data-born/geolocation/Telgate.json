@@ -1,0 +1,27 @@
+{
+    "id": "place.15256239344448200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Telgate",
+    "place_name": "Telgate, Bergamo, Italy",
+    "bbox": [
+        9.83243,
+        45.602577,
+        9.869319,
+        45.636768
+    ],
+    "center": [
+        9.85,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            45.63333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13976525627670430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spinazzola",
+    "place_name": "Spinazzola, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        15.972402,
+        40.897593,
+        16.267362,
+        41.028035
+    ],
+    "center": [
+        16.08333,
+        40.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            40.96667
+        ]
+    }
+}

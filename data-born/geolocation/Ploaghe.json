@@ -1,0 +1,27 @@
+{
+    "id": "place.16603681258575880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ploaghe",
+    "place_name": "Ploaghe, Sassari, Italy",
+    "bbox": [
+        8.682703,
+        40.607277,
+        8.83333,
+        40.73982
+    ],
+    "center": [
+        8.74528,
+        40.66444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.74528,
+            40.66444
+        ]
+    }
+}

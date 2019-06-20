@@ -1,0 +1,27 @@
+{
+    "id": "place.7597086609560080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Miane",
+    "place_name": "Miane, Treviso, Italy",
+    "bbox": [
+        12.038728,
+        45.904577,
+        12.137242,
+        45.982032
+    ],
+    "center": [
+        12.1,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            45.95
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17635454390887420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Minturno",
+    "place_name": "Minturno, Latina, Italy",
+    "bbox": [
+        13.686592,
+        41.223237,
+        13.789762,
+        41.31154
+    ],
+    "center": [
+        13.75,
+        41.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75,
+            41.26667
+        ]
+    }
+}

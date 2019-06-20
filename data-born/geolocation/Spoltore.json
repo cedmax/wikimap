@@ -1,0 +1,27 @@
+{
+    "id": "place.18205951662060910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spoltore",
+    "place_name": "Spoltore, Pescara, Italy",
+    "bbox": [
+        14.087737,
+        42.404771,
+        14.194322,
+        42.46892
+    ],
+    "center": [
+        14.13333,
+        42.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.13333,
+            42.45
+        ]
+    }
+}

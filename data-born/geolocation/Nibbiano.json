@@ -1,0 +1,27 @@
+{
+    "id": "place.10969548166477100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nibbiano",
+    "place_name": "Nibbiano, Piacenza, Italy",
+    "bbox": [
+        9.277636,
+        44.875881,
+        9.432058,
+        44.972286
+    ],
+    "center": [
+        9.33333,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            44.9
+        ]
+    }
+}

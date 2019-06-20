@@ -1,0 +1,27 @@
+{
+    "id": "place.10586628759239650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Medicina",
+    "place_name": "Medicina, Bologna, Italy",
+    "bbox": [
+        11.530679,
+        44.44448,
+        11.775186,
+        44.584312
+    ],
+    "center": [
+        11.63333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63333,
+            44.48333
+        ]
+    }
+}

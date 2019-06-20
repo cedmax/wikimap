@@ -1,0 +1,27 @@
+{
+    "id": "place.7816891419699750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria la Longa",
+    "place_name": "Santa Maria la Longa, Udine, Italy",
+    "bbox": [
+        13.254285,
+        45.909868,
+        13.323883,
+        45.981552
+    ],
+    "center": [
+        13.29,
+        45.93361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29,
+            45.93361
+        ]
+    }
+}

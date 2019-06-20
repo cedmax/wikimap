@@ -1,0 +1,27 @@
+{
+    "id": "place.4308157811707420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pinarolo Po",
+    "place_name": "Pinarolo Po, Pavia, Italy",
+    "bbox": [
+        9.139957,
+        45.050178,
+        9.203124,
+        45.107634
+    ],
+    "center": [
+        9.2,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            45.06667
+        ]
+    }
+}

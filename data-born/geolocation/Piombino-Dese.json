@@ -1,0 +1,27 @@
+{
+    "id": "place.15328205503361930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piombino Dese",
+    "place_name": "Piombino Dese, Padova, Italy",
+    "bbox": [
+        11.965266,
+        45.58346,
+        12.088015,
+        45.647158
+    ],
+    "center": [
+        12.024718,
+        45.615616
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.024718,
+            45.615616
+        ]
+    }
+}

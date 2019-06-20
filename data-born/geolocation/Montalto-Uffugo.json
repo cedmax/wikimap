@@ -1,0 +1,27 @@
+{
+    "id": "place.6758387444064650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalto Uffugo",
+    "place_name": "Montalto Uffugo, Cosenza, Italy",
+    "bbox": [
+        16.08435,
+        39.344369,
+        16.259146,
+        39.443075
+    ],
+    "center": [
+        16.15,
+        39.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            39.4
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5364665214316670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carbone",
+    "place_name": "Carbone, Potenza, Italy",
+    "bbox": [
+        16.017571,
+        40.098816,
+        16.136074,
+        40.166399
+    ],
+    "center": [
+        16.08333,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            40.13333
+        ]
+    }
+}

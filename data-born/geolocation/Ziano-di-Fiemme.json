@@ -1,0 +1,27 @@
+{
+    "id": "place.7402046031654480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ziano di Fiemme",
+    "place_name": "Ziano di Fiemme, Trento, Italy",
+    "bbox": [
+        11.548759,
+        46.219188,
+        11.625261,
+        46.326844
+    ],
+    "center": [
+        11.56667,
+        46.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            46.28333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13068316030611310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barni",
+    "place_name": "Barni, Como, Italy",
+    "bbox": [
+        9.245031,
+        45.895026,
+        9.285651,
+        45.921004
+    ],
+    "center": [
+        9.26667,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.91667
+        ]
+    }
+}

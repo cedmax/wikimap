@@ -1,0 +1,21 @@
+{
+    "id": "poi.1906965562002",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Poli",
+    "place_name": "Poli, Via Resia, Bolzano - Bozen, Bolzano 39100, Italy",
+    "center": [
+        11.315009,
+        46.491557
+    ],
+    "geometry": {
+        "coordinates": [
+            11.315009,
+            46.491557
+        ],
+        "type": "Point"
+    }
+}

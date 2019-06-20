@@ -1,0 +1,27 @@
+{
+    "id": "place.10498160177030380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gadoni",
+    "place_name": "Gadoni, Nuoro, Italy",
+    "bbox": [
+        9.12849,
+        39.825469,
+        9.2132,
+        39.934708
+    ],
+    "center": [
+        9.18333,
+        39.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            39.91667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10020200403632300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Luino",
+    "place_name": "Luino, Varese, Italy",
+    "bbox": [
+        8.710084,
+        45.968475,
+        8.790117,
+        46.031928
+    ],
+    "center": [
+        8.75,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.75,
+            46
+        ]
+    }
+}

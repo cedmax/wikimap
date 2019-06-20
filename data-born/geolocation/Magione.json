@@ -1,0 +1,27 @@
+{
+    "id": "place.2078778036604810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magione",
+    "place_name": "Magione, Perugia, Italy",
+    "bbox": [
+        12.120253,
+        43.051607,
+        12.300534,
+        43.226429
+    ],
+    "center": [
+        12.2,
+        43.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2,
+            43.15
+        ]
+    }
+}

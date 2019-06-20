@@ -1,0 +1,29 @@
+{
+    "id": "place.16681165211369430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Cermes - Tscherms",
+    "place_name": "Cermes - Tscherms, Bolzano, Italy",
+    "matching_text": "Cermes",
+    "matching_place_name": "Cermes, Bolzano, Italy",
+    "bbox": [
+        11.093207,
+        46.623657,
+        11.173604,
+        46.641554
+    ],
+    "center": [
+        11.15,
+        46.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.15,
+            46.63333
+        ]
+    }
+}

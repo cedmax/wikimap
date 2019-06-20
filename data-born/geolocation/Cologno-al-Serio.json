@@ -1,0 +1,27 @@
+{
+    "id": "place.12336949984044060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cologno al Serio",
+    "place_name": "Cologno al Serio, Bergamo, Italy",
+    "bbox": [
+        9.678121,
+        45.550628,
+        9.745244,
+        45.599356
+    ],
+    "center": [
+        9.7,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.7,
+            45.58333
+        ]
+    }
+}

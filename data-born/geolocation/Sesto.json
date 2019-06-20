@@ -1,0 +1,21 @@
+{
+    "id": "poi.3393024241324",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sesto",
+    "place_name": "Sesto, Piazza Buenos Aires, 3, Roma, Roma 00198, Italy",
+    "center": [
+        12.500351,
+        41.918005
+    ],
+    "geometry": {
+        "coordinates": [
+            12.500351,
+            41.918005
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12063062647503560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bardolino",
+    "place_name": "Bardolino, Verona, Italy",
+    "bbox": [
+        10.632383,
+        45.491554,
+        10.788246,
+        45.571093
+    ],
+    "center": [
+        10.72139,
+        45.55167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.72139,
+            45.55167
+        ]
+    }
+}

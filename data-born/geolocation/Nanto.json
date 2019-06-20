@@ -1,0 +1,27 @@
+{
+    "id": "place.8216553837090420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nanto",
+    "place_name": "Nanto, Vicenza, Italy",
+    "bbox": [
+        11.536844,
+        45.400549,
+        11.645321,
+        45.453289
+    ],
+    "center": [
+        11.58333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58333,
+            45.43333
+        ]
+    }
+}

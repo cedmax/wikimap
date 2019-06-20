@@ -1,0 +1,21 @@
+{
+    "id": "poi.738734375121",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Castel Sant'Angelo",
+    "place_name": "Castel Sant'Angelo, Lungotevere Castello, Roma, Roma 00193, Italy",
+    "center": [
+        12.46632971875,
+        41.902831125
+    ],
+    "geometry": {
+        "coordinates": [
+            12.46632971875,
+            41.902831125
+        ],
+        "type": "Point"
+    }
+}

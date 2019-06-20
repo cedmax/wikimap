@@ -1,0 +1,27 @@
+{
+    "id": "place.6206688817986050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oppido Mamertina",
+    "place_name": "Oppido Mamertina, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.919574,
+        38.221335,
+        16.042492,
+        38.367483
+    ],
+    "center": [
+        15.98333,
+        38.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            38.3
+        ]
+    }
+}

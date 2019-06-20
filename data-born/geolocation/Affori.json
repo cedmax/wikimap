@@ -1,0 +1,21 @@
+{
+    "id": "poi.1949915162854",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9,
+    "text": "Bar Affori",
+    "place_name": "Bar Affori, Milano, Milano 20161, Italy",
+    "center": [
+        9.171161,
+        45.517065
+    ],
+    "geometry": {
+        "coordinates": [
+            9.171161,
+            45.517065
+        ],
+        "type": "Point"
+    }
+}

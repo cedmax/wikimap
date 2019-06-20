@@ -1,0 +1,27 @@
+{
+    "id": "place.13923624631752310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gambatesa",
+    "place_name": "Gambatesa, Campobasso, Italy",
+    "bbox": [
+        14.85238,
+        41.460419,
+        14.953997,
+        41.564212
+    ],
+    "center": [
+        14.91667,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91667,
+            41.5
+        ]
+    }
+}

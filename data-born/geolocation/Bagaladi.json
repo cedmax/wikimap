@@ -1,0 +1,27 @@
+{
+    "id": "place.15360524579722080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagaladi",
+    "place_name": "Bagaladi, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.77999,
+        38.007697,
+        15.875606,
+        38.116883
+    ],
+    "center": [
+        15.81667,
+        38.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.81667,
+            38.03333
+        ]
+    }
+}

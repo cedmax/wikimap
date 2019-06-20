@@ -1,0 +1,27 @@
+{
+    "id": "place.8707809617953310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigarano Mainarda",
+    "place_name": "Vigarano Mainarda, Ferrara, Italy",
+    "bbox": [
+        11.442015,
+        44.800583,
+        11.545063,
+        44.909035
+    ],
+    "center": [
+        11.5,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            44.85
+        ]
+    }
+}

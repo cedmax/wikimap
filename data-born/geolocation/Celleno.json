@@ -1,0 +1,27 @@
+{
+    "id": "place.7065309707501240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Celleno",
+    "place_name": "Celleno, Viterbo, Italy",
+    "bbox": [
+        12.09091,
+        42.526968,
+        12.161561,
+        42.582739
+    ],
+    "center": [
+        12.13722,
+        42.56083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13722,
+            42.56083
+        ]
+    }
+}

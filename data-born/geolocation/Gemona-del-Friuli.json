@@ -1,0 +1,27 @@
+{
+    "id": "place.13961964665726320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gemona del Friuli",
+    "place_name": "Gemona del Friuli, Udine, Italy",
+    "bbox": [
+        13.092398,
+        46.239124,
+        13.247221,
+        46.325541
+    ],
+    "center": [
+        13.13333,
+        46.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            46.28333
+        ]
+    }
+}

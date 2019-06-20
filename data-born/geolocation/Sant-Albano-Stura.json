@@ -1,0 +1,27 @@
+{
+    "id": "place.14817798004700370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Albano Stura",
+    "place_name": "Sant'Albano Stura, Cuneo, Italy",
+    "bbox": [
+        7.672221,
+        44.458889,
+        7.775956,
+        44.539115
+    ],
+    "center": [
+        7.71667,
+        44.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.71667,
+            44.51667
+        ]
+    }
+}

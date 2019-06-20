@@ -1,0 +1,27 @@
+{
+    "id": "place.9514116148099140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brusson",
+    "place_name": "Brusson, Valle D'Aosta, Italy",
+    "bbox": [
+        7.671752,
+        45.716116,
+        7.823389,
+        45.800033
+    ],
+    "center": [
+        7.73333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.73333,
+            45.76667
+        ]
+    }
+}

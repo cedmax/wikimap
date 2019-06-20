@@ -1,0 +1,27 @@
+{
+    "id": "place.8811970961460500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campomorone",
+    "place_name": "Campomorone, Genova, Italy",
+    "bbox": [
+        8.82128,
+        44.504731,
+        8.905991,
+        44.566231
+    ],
+    "center": [
+        8.8918,
+        44.50689
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8918,
+            44.50689
+        ]
+    }
+}

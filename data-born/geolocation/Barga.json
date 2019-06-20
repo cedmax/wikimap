@@ -1,0 +1,21 @@
+{
+    "id": "poi.1425929142866",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Barga",
+    "place_name": "Barga, Barga, Lucca 55051, Italy",
+    "center": [
+        10.482416,
+        44.074201
+    ],
+    "geometry": {
+        "coordinates": [
+            10.482416,
+            44.074201
+        ],
+        "type": "Point"
+    }
+}

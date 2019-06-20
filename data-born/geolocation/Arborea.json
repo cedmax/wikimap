@@ -1,0 +1,27 @@
+{
+    "id": "place.4977036582957340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arborea",
+    "place_name": "Arborea, Oristano, Italy",
+    "bbox": [
+        8.503809,
+        39.706247,
+        8.645961,
+        39.830335
+    ],
+    "center": [
+        8.58129,
+        39.77276
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.58129,
+            39.77276
+        ]
+    }
+}

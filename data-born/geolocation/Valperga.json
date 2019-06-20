@@ -1,0 +1,27 @@
+{
+    "id": "place.9737228946995620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valperga",
+    "place_name": "Valperga, Torino, Italy",
+    "bbox": [
+        7.601725,
+        45.342639,
+        7.695646,
+        45.386308
+    ],
+    "center": [
+        7.65,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65,
+            45.36667
+        ]
+    }
+}

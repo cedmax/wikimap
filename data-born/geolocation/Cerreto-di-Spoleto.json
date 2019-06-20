@@ -1,0 +1,27 @@
+{
+    "id": "place.16168232696582990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerreto di Spoleto",
+    "place_name": "Cerreto di Spoleto, Perugia, Italy",
+    "bbox": [
+        12.84964,
+        42.745238,
+        12.976717,
+        42.87459
+    ],
+    "center": [
+        12.91667,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.91667,
+            42.81667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6845000728057900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galliera",
+    "place_name": "Galliera, Bologna, Italy",
+    "bbox": [
+        11.349804,
+        44.722382,
+        11.518645,
+        44.778346
+    ],
+    "center": [
+        11.4,
+        44.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4,
+            44.75
+        ]
+    }
+}

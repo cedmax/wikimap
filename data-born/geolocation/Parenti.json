@@ -1,0 +1,27 @@
+{
+    "id": "place.11439524537911970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parenti",
+    "place_name": "Parenti, Cosenza, Italy",
+    "bbox": [
+        16.385372,
+        39.130351,
+        16.529022,
+        39.194186
+    ],
+    "center": [
+        16.41667,
+        39.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.41667,
+            39.16667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4647174410107070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collelongo",
+    "place_name": "Collelongo, L'Aquila, Italy",
+    "bbox": [
+        13.510113,
+        41.842266,
+        13.6358,
+        41.932144
+    ],
+    "center": [
+        13.58583,
+        41.88778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.58583,
+            41.88778
+        ]
+    }
+}

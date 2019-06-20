@@ -1,0 +1,27 @@
+{
+    "id": "place.5026992586965060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altare",
+    "place_name": "Altare, Savona, Italy",
+    "bbox": [
+        8.314525,
+        44.2844,
+        8.35744,
+        44.349743
+    ],
+    "center": [
+        8.344,
+        44.3362
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.344,
+            44.3362
+        ]
+    }
+}

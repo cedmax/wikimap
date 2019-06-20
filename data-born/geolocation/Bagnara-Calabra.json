@@ -1,0 +1,27 @@
+{
+    "id": "place.12865065745626560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnara Calabra",
+    "place_name": "Bagnara Calabra, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.770397,
+        38.250624,
+        15.858253,
+        38.315121
+    ],
+    "center": [
+        15.81667,
+        38.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.81667,
+            38.28333
+        ]
+    }
+}

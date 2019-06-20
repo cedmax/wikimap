@@ -1,0 +1,27 @@
+{
+    "id": "place.6334080273469670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valentano",
+    "place_name": "Valentano, Viterbo, Italy",
+    "bbox": [
+        11.7348,
+        42.53877,
+        11.845992,
+        42.6397
+    ],
+    "center": [
+        11.82694,
+        42.56528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.82694,
+            42.56528
+        ]
+    }
+}

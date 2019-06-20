@@ -1,0 +1,27 @@
+{
+    "id": "place.8021100074554140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Recanati",
+    "place_name": "Recanati, Macerata, Italy",
+    "bbox": [
+        13.438734,
+        43.352838,
+        13.641476,
+        43.447238
+    ],
+    "center": [
+        13.55253,
+        43.39855
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.55253,
+            43.39855
+        ]
+    }
+}

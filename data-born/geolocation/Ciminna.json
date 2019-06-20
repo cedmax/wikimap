@@ -1,0 +1,27 @@
+{
+    "id": "place.11046561715772890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ciminna",
+    "place_name": "Ciminna, Palermo, Italy",
+    "bbox": [
+        13.495662,
+        37.837719,
+        13.614803,
+        37.923998
+    ],
+    "center": [
+        13.56667,
+        37.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56667,
+            37.9
+        ]
+    }
+}

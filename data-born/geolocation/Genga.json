@@ -1,0 +1,27 @@
+{
+    "id": "place.9666553360633310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genga",
+    "place_name": "Genga, Ancona, Italy",
+    "bbox": [
+        12.866666,
+        43.369994,
+        12.9998,
+        43.483366
+    ],
+    "center": [
+        12.93556,
+        43.43048
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93556,
+            43.43048
+        ]
+    }
+}

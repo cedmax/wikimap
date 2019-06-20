@@ -1,0 +1,27 @@
+{
+    "id": "place.14517274751743370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bitritto",
+    "place_name": "Bitritto, Bari, Italy",
+    "bbox": [
+        16.798969,
+        41.005633,
+        16.846203,
+        41.069119
+    ],
+    "center": [
+        16.83333,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.83333,
+            41.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4018907986411230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lavagna",
+    "place_name": "Lavagna, Genova, Italy",
+    "bbox": [
+        9.332771,
+        44.283643,
+        9.407417,
+        44.324343
+    ],
+    "center": [
+        9.34472,
+        44.30722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.34472,
+            44.30722
+        ]
+    }
+}

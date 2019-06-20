@@ -1,0 +1,27 @@
+{
+    "id": "place.4670954235794630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casier",
+    "place_name": "Casier, Treviso, Italy",
+    "bbox": [
+        12.239564,
+        45.606082,
+        12.307145,
+        45.648153
+    ],
+    "center": [
+        12.29528,
+        45.64361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.29528,
+            45.64361
+        ]
+    }
+}

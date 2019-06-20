@@ -1,0 +1,27 @@
+{
+    "id": "place.10169790813276730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dignano",
+    "place_name": "Dignano, Udine, Italy",
+    "bbox": [
+        12.915388,
+        46.060458,
+        12.986309,
+        46.130355
+    ],
+    "center": [
+        12.93333,
+        46.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            46.08333
+        ]
+    }
+}

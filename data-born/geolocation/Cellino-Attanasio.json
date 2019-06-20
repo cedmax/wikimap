@@ -1,0 +1,27 @@
+{
+    "id": "place.9614167470225580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellino Attanasio",
+    "place_name": "Cellino Attanasio, Teramo, Italy",
+    "bbox": [
+        13.804744,
+        42.545802,
+        13.91397,
+        42.621668
+    ],
+    "center": [
+        13.86667,
+        42.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86667,
+            42.58333
+        ]
+    }
+}

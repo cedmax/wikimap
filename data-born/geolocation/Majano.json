@@ -1,0 +1,27 @@
+{
+    "id": "place.991373502970160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Majano",
+    "place_name": "Majano, Udine, Italy",
+    "bbox": [
+        13.02281,
+        46.154134,
+        13.107632,
+        46.219369
+    ],
+    "center": [
+        13.06667,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.06667,
+            46.18333
+        ]
+    }
+}

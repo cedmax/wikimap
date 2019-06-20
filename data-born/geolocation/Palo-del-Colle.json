@@ -1,0 +1,27 @@
+{
+    "id": "place.10773804710169810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palo del Colle",
+    "place_name": "Palo del Colle, Bari, Italy",
+    "bbox": [
+        16.565036,
+        40.995977,
+        16.742701,
+        41.08733
+    ],
+    "center": [
+        16.7,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.7,
+            41.05
+        ]
+    }
+}

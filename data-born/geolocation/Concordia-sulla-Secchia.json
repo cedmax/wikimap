@@ -1,0 +1,27 @@
+{
+    "id": "place.10965234133964880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Concordia sulla Secchia",
+    "place_name": "Concordia sulla Secchia, Modena, Italy",
+    "bbox": [
+        10.945537,
+        44.879197,
+        11.064114,
+        44.954937
+    ],
+    "center": [
+        10.98256,
+        44.91238
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.98256,
+            44.91238
+        ]
+    }
+}

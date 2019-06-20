@@ -1,0 +1,21 @@
+{
+    "id": "address.619010173",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.8714285714285714,
+    "text": "via Cardolo",
+    "place_name": "via Cardolo, 04011 Aprilia Latina, Italy",
+    "center": [
+        12.579743,
+        41.571496
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.579743,
+            41.571496
+        ]
+    }
+}

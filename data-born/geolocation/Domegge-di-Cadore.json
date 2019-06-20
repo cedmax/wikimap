@@ -1,0 +1,27 @@
+{
+    "id": "place.16734098313225870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Domegge di Cadore",
+    "place_name": "Domegge di Cadore, Belluno, Italy",
+    "bbox": [
+        12.368356,
+        46.388494,
+        12.498984,
+        46.509819
+    ],
+    "center": [
+        12.41667,
+        46.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            46.46667
+        ]
+    }
+}

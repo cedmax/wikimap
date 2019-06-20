@@ -1,0 +1,27 @@
+{
+    "id": "place.12242328119841230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pernumia",
+    "place_name": "Pernumia, Padova, Italy",
+    "bbox": [
+        11.772954,
+        45.240247,
+        11.849468,
+        45.287872
+    ],
+    "center": [
+        11.78333,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            45.26667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4484606365044470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noale",
+    "place_name": "Noale, Venezia, Italy",
+    "bbox": [
+        12.031768,
+        45.528755,
+        12.113077,
+        45.577611
+    ],
+    "center": [
+        12.06667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.06667,
+            45.55
+        ]
+    }
+}

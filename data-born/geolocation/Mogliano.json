@@ -1,0 +1,27 @@
+{
+    "id": "place.6372084920907980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mogliano",
+    "place_name": "Mogliano, Macerata, Italy",
+    "bbox": [
+        13.435165,
+        43.163282,
+        13.528555,
+        43.21639
+    ],
+    "center": [
+        13.4808,
+        43.1859
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4808,
+            43.1859
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9084350259240130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Broni",
+    "place_name": "Broni, Pavia, Italy",
+    "bbox": [
+        9.209734,
+        45.039201,
+        9.281109,
+        45.11059
+    ],
+    "center": [
+        9.26111,
+        45.06194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26111,
+            45.06194
+        ]
+    }
+}

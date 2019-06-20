@@ -1,0 +1,29 @@
+{
+    "id": "place.5554323886020900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Fiè allo Sciliar - Voels am Schlern",
+    "place_name": "Fiè allo Sciliar - Voels am Schlern, Bolzano, Italy",
+    "matching_text": "Fiè allo Sciliar",
+    "matching_place_name": "Fiè allo Sciliar, Bolzano, Italy",
+    "bbox": [
+        11.448137,
+        46.473964,
+        11.607405,
+        46.549922
+    ],
+    "center": [
+        11.5,
+        46.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            46.51667
+        ]
+    }
+}

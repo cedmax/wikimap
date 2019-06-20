@@ -1,0 +1,27 @@
+{
+    "id": "place.7944272381500560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forno di Zoldo",
+    "place_name": "Forno di Zoldo, Belluno, Italy",
+    "bbox": [
+        12.110536,
+        46.283609,
+        12.268905,
+        46.388772
+    ],
+    "center": [
+        12.18333,
+        46.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.18333,
+            46.35
+        ]
+    }
+}

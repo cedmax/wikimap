@@ -1,0 +1,21 @@
+{
+    "id": "address.97717744",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9722222222222222,
+    "text": "Scarpera",
+    "place_name": "Scarpera, 37015 Sant'Ambrogio di Valpolicella Verona, Italy",
+    "center": [
+        10.839833,
+        45.564924
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.839833,
+            45.564924
+        ]
+    }
+}

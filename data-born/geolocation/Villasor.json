@@ -1,0 +1,27 @@
+{
+    "id": "place.8773656528101230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villasor",
+    "place_name": "Villasor, Cagliari, Italy",
+    "bbox": [
+        8.78122,
+        39.334288,
+        9.009614,
+        39.422241
+    ],
+    "center": [
+        8.93333,
+        39.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            39.38333
+        ]
+    }
+}

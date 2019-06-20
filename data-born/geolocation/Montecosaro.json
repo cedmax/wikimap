@@ -1,0 +1,27 @@
+{
+    "id": "place.6224501989350990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecosaro",
+    "place_name": "Montecosaro, Macerata, Italy",
+    "bbox": [
+        13.604278,
+        43.267815,
+        13.657966,
+        43.34174
+    ],
+    "center": [
+        13.63537,
+        43.31691
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.63537,
+            43.31691
+        ]
+    }
+}

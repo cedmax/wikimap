@@ -1,0 +1,27 @@
+{
+    "id": "place.1784777770532040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acerno",
+    "place_name": "Acerno, Salerno, Italy",
+    "bbox": [
+        15.003293,
+        40.696254,
+        15.14553,
+        40.781517
+    ],
+    "center": [
+        15.05,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.05,
+            40.75
+        ]
+    }
+}

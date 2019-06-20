@@ -1,0 +1,27 @@
+{
+    "id": "place.9484210191903920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casola Valsenio",
+    "place_name": "Casola Valsenio, Ravenna, Italy",
+    "bbox": [
+        11.525194,
+        44.152389,
+        11.69647,
+        44.257802
+    ],
+    "center": [
+        11.61667,
+        44.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            44.21667
+        ]
+    }
+}

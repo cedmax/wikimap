@@ -1,0 +1,27 @@
+{
+    "id": "place.19201891366488470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romentino",
+    "place_name": "Romentino, Novara, Italy",
+    "bbox": [
+        8.698809,
+        45.442928,
+        8.793209,
+        45.48438
+    ],
+    "center": [
+        8.71667,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71667,
+            45.46667
+        ]
+    }
+}

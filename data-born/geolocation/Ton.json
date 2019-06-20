@@ -1,0 +1,27 @@
+{
+    "id": "place.4936621152865940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ton",
+    "place_name": "Ton, Trento, Italy",
+    "bbox": [
+        11.0588,
+        46.231214,
+        11.138777,
+        46.289938
+    ],
+    "center": [
+        11.08333,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08333,
+            46.26667
+        ]
+    }
+}

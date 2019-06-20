@@ -1,0 +1,27 @@
+{
+    "id": "place.3395337957172890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio Ionico",
+    "place_name": "San Giorgio Ionico, Taranto, Italy",
+    "bbox": [
+        17.333121,
+        40.438569,
+        17.400831,
+        40.499388
+    ],
+    "center": [
+        17.3787,
+        40.4566
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.3787,
+            40.4566
+        ]
+    }
+}

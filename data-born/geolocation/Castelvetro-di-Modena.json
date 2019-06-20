@@ -1,0 +1,27 @@
+{
+    "id": "place.16711698073014030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelvetro di Modena",
+    "place_name": "Castelvetro di Modena, Modena, Italy",
+    "bbox": [
+        10.876618,
+        44.454447,
+        10.990498,
+        44.543627
+    ],
+    "center": [
+        10.94722,
+        44.50667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.94722,
+            44.50667
+        ]
+    }
+}

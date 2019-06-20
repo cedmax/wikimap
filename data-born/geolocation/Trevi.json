@@ -1,0 +1,27 @@
+{
+    "id": "place.5518866669445840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trevi",
+    "place_name": "Trevi, Perugia, Italy",
+    "bbox": [
+        12.6904,
+        42.833587,
+        12.828284,
+        42.933083
+    ],
+    "center": [
+        12.76167,
+        42.89333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76167,
+            42.89333
+        ]
+    }
+}

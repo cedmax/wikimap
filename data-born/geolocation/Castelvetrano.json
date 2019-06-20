@@ -1,0 +1,27 @@
+{
+    "id": "place.3136028898251730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelvetrano",
+    "place_name": "Castelvetrano, Trapani, Italy",
+    "bbox": [
+        12.714115,
+        37.576996,
+        12.917244,
+        37.751903
+    ],
+    "center": [
+        12.79167,
+        37.67861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.79167,
+            37.67861
+        ]
+    }
+}

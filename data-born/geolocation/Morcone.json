@@ -1,0 +1,27 @@
+{
+    "id": "place.8764812999382480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morcone",
+    "place_name": "Morcone, Benevento, Italy",
+    "bbox": [
+        14.601363,
+        41.301687,
+        14.786285,
+        41.411313
+    ],
+    "center": [
+        14.66667,
+        41.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.66667,
+            41.33333
+        ]
+    }
+}

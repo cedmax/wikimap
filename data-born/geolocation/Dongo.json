@@ -1,0 +1,27 @@
+{
+    "id": "place.4148349735594030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dongo",
+    "place_name": "Dongo, Como, Italy",
+    "bbox": [
+        9.233137,
+        46.110242,
+        9.308346,
+        46.139494
+    ],
+    "center": [
+        9.28333,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28333,
+            46.13333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9918912271453670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castronovo di Sicilia",
+    "place_name": "Castronovo di Sicilia, Palermo, Italy",
+    "bbox": [
+        13.454192,
+        37.635031,
+        13.744996,
+        37.77241
+    ],
+    "center": [
+        13.6,
+        37.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6,
+            37.66667
+        ]
+    }
+}

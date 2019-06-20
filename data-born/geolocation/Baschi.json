@@ -1,0 +1,27 @@
+{
+    "id": "place.17252203820631570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baschi",
+    "place_name": "Baschi, Terni, Italy",
+    "bbox": [
+        12.195534,
+        42.650806,
+        12.376987,
+        42.753015
+    ],
+    "center": [
+        12.21667,
+        42.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21667,
+            42.66667
+        ]
+    }
+}

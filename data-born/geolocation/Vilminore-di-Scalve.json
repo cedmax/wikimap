@@ -1,0 +1,27 @@
+{
+    "id": "place.3845724807703730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vilminore di Scalve",
+    "place_name": "Vilminore di Scalve, Bergamo, Italy",
+    "bbox": [
+        10.015578,
+        45.969726,
+        10.122878,
+        46.055082
+    ],
+    "center": [
+        10.1,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1,
+            46
+        ]
+    }
+}

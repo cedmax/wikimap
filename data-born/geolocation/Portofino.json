@@ -1,0 +1,21 @@
+{
+    "id": "poi.833223655780",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Portofino",
+    "place_name": "Portofino, Portofino, Genova 16034, Italy",
+    "center": [
+        9.202096,
+        44.306755
+    ],
+    "geometry": {
+        "coordinates": [
+            9.202096,
+            44.306755
+        ],
+        "type": "Point"
+    }
+}

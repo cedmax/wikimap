@@ -1,0 +1,27 @@
+{
+    "id": "place.14503610626557400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Margherita di Belice",
+    "place_name": "Santa Margherita di Belice, Agrigento, Italy",
+    "bbox": [
+        12.965019,
+        37.636374,
+        13.080016,
+        37.74253
+    ],
+    "center": [
+        13.02111,
+        37.69278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.02111,
+            37.69278
+        ]
+    }
+}

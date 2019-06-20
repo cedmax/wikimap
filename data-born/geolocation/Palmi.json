@@ -1,0 +1,27 @@
+{
+    "id": "place.4665874901857700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palmi",
+    "place_name": "Palmi, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.830749,
+        38.332716,
+        15.908997,
+        38.42185
+    ],
+    "center": [
+        15.85,
+        38.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.85,
+            38.36667
+        ]
+    }
+}

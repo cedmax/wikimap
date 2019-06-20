@@ -1,0 +1,27 @@
+{
+    "id": "place.16092935536683230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sinnai",
+    "place_name": "Sinnai, Cagliari, Italy",
+    "bbox": [
+        9.183403,
+        39.12191,
+        9.477526,
+        39.423346
+    ],
+    "center": [
+        9.2,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            39.3
+        ]
+    }
+}

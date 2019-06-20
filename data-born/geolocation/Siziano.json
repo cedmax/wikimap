@@ -1,0 +1,27 @@
+{
+    "id": "place.13290119116899270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siziano",
+    "place_name": "Siziano, Pavia, Italy",
+    "bbox": [
+        9.183898,
+        45.283467,
+        9.249002,
+        45.335649
+    ],
+    "center": [
+        9.2,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            45.31667
+        ]
+    }
+}

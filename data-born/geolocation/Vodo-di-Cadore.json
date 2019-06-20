@@ -1,0 +1,29 @@
+{
+    "id": "place.13108026130259030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vodo Cadore",
+    "place_name": "Vodo Cadore, Belluno, Italy",
+    "matching_text": "Vodo di Cadore",
+    "matching_place_name": "Vodo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.134914,
+        46.373777,
+        12.296165,
+        46.452354
+    ],
+    "center": [
+        12.25,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.25,
+            46.41667
+        ]
+    }
+}

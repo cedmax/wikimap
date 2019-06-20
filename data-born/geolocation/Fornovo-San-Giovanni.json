@@ -1,0 +1,27 @@
+{
+    "id": "place.8991082336335330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fornovo San Giovanni",
+    "place_name": "Fornovo San Giovanni, Bergamo, Italy",
+    "bbox": [
+        9.666139,
+        45.476199,
+        9.72377,
+        45.506137
+    ],
+    "center": [
+        9.6773,
+        45.4968
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6773,
+            45.4968
+        ]
+    }
+}

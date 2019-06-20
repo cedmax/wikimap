@@ -1,0 +1,27 @@
+{
+    "id": "place.8327945795428220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Antonio Abate",
+    "place_name": "Sant'Antonio Abate, Salerno, Italy",
+    "bbox": [
+        14.517893,
+        40.705497,
+        14.565386,
+        40.740298
+    ],
+    "center": [
+        14.55,
+        40.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            40.73333
+        ]
+    }
+}

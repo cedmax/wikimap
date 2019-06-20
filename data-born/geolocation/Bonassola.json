@@ -1,0 +1,27 @@
+{
+    "id": "place.6396387999423740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bonassola",
+    "place_name": "Bonassola, La Spezia, Italy",
+    "bbox": [
+        9.560896,
+        44.172106,
+        9.603067,
+        44.215894
+    ],
+    "center": [
+        9.58409,
+        44.18344
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58409,
+            44.18344
+        ]
+    }
+}

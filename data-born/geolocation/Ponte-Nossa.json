@@ -1,0 +1,27 @@
+{
+    "id": "place.7193322542958090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte Nossa",
+    "place_name": "Ponte Nossa, Bergamo, Italy",
+    "bbox": [
+        9.863765,
+        45.848704,
+        9.908167,
+        45.873839
+    ],
+    "center": [
+        9.88333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88333,
+            45.86667
+        ]
+    }
+}

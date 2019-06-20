@@ -1,0 +1,27 @@
+{
+    "id": "place.3263846409809470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Simeri Crichi",
+    "place_name": "Simeri Crichi, Catanzaro, Italy",
+    "bbox": [
+        16.621364,
+        38.849736,
+        16.711273,
+        38.96674
+    ],
+    "center": [
+        16.65,
+        38.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.65,
+            38.95
+        ]
+    }
+}

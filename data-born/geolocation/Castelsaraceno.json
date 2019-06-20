@@ -1,0 +1,27 @@
+{
+    "id": "place.5290221606461140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelsaraceno",
+    "place_name": "Castelsaraceno, Potenza, Italy",
+    "bbox": [
+        15.917685,
+        40.112096,
+        16.035217,
+        40.209511
+    ],
+    "center": [
+        15.98333,
+        40.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            40.16667
+        ]
+    }
+}

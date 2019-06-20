@@ -1,0 +1,27 @@
+{
+    "id": "place.10906118791814380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pizzo",
+    "place_name": "Pizzo, Vibo Valentia, Italy",
+    "bbox": [
+        16.146737,
+        38.706829,
+        16.2324,
+        38.811963
+    ],
+    "center": [
+        16.16667,
+        38.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.16667,
+            38.73333
+        ]
+    }
+}

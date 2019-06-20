@@ -1,0 +1,27 @@
+{
+    "id": "place.9485972307157040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Antegnate",
+    "place_name": "Antegnate, Bergamo, Italy",
+    "bbox": [
+        9.765257,
+        45.470057,
+        9.829602,
+        45.502251
+    ],
+    "center": [
+        9.78889,
+        45.48528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78889,
+            45.48528
+        ]
+    }
+}

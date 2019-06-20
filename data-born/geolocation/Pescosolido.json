@@ -1,0 +1,27 @@
+{
+    "id": "place.2159684050474730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescosolido",
+    "place_name": "Pescosolido, Frosinone, Italy",
+    "bbox": [
+        13.613628,
+        41.72958,
+        13.707968,
+        41.811093
+    ],
+    "center": [
+        13.6575,
+        41.74917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6575,
+            41.74917
+        ]
+    }
+}

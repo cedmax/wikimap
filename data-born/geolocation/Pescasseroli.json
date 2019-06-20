@@ -1,0 +1,27 @@
+{
+    "id": "place.12925522855374050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescasseroli",
+    "place_name": "Pescasseroli, L'Aquila, Italy",
+    "bbox": [
+        13.72913,
+        41.742566,
+        13.856341,
+        41.880289
+    ],
+    "center": [
+        13.78972,
+        41.805
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.78972,
+            41.805
+        ]
+    }
+}

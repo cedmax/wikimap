@@ -1,0 +1,27 @@
+{
+    "id": "place.12154175247821800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ittiri",
+    "place_name": "Ittiri, Sassari, Italy",
+    "bbox": [
+        8.479968,
+        40.527661,
+        8.641573,
+        40.647584
+    ],
+    "center": [
+        8.57028,
+        40.60833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.57028,
+            40.60833
+        ]
+    }
+}

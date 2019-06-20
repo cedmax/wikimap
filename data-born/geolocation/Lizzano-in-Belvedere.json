@@ -1,0 +1,27 @@
+{
+    "id": "place.4022130009646520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lizzano in Belvedere",
+    "place_name": "Lizzano in Belvedere, Bologna, Italy",
+    "bbox": [
+        10.803583,
+        44.097886,
+        10.936637,
+        44.232123
+    ],
+    "center": [
+        10.9,
+        44.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.9,
+            44.16667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6035133622287840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo San Lorenzo",
+    "place_name": "Borgo San Lorenzo, Firenze, Italy",
+    "bbox": [
+        11.306896,
+        43.869938,
+        11.53454,
+        44.063684
+    ],
+    "center": [
+        11.38561,
+        43.95548
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38561,
+            43.95548
+        ]
+    }
+}

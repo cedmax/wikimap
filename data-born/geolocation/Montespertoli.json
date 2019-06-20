@@ -1,0 +1,27 @@
+{
+    "id": "place.13419693732607810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montespertoli",
+    "place_name": "Montespertoli, Firenze, Italy",
+    "bbox": [
+        10.970673,
+        43.585284,
+        11.163523,
+        43.708448
+    ],
+    "center": [
+        11.08333,
+        43.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08333,
+            43.65
+        ]
+    }
+}

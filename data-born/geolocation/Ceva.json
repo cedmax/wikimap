@@ -1,0 +1,27 @@
+{
+    "id": "place.15917851470060230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceva",
+    "place_name": "Ceva, Cuneo, Italy",
+    "bbox": [
+        7.979811,
+        44.337699,
+        8.079367,
+        44.413771
+    ],
+    "center": [
+        8.03333,
+        44.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.03333,
+            44.38333
+        ]
+    }
+}

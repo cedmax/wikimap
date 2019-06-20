@@ -1,0 +1,27 @@
+{
+    "id": "place.8549387782676690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gambassi Terme",
+    "place_name": "Gambassi Terme, Firenze, Italy",
+    "bbox": [
+        10.851207,
+        43.451859,
+        11.034286,
+        43.5923
+    ],
+    "center": [
+        10.95,
+        43.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.95,
+            43.53333
+        ]
+    }
+}

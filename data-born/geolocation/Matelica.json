@@ -1,0 +1,27 @@
+{
+    "id": "place.14209443361255360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Matelica",
+    "place_name": "Matelica, Macerata, Italy",
+    "bbox": [
+        12.952855,
+        43.207612,
+        13.089239,
+        43.335749
+    ],
+    "center": [
+        13.00959,
+        43.25659
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.00959,
+            43.25659
+        ]
+    }
+}

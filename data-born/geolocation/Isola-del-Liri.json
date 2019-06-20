@@ -1,0 +1,21 @@
+{
+    "id": "poi.2585570389985",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Isola Del Liri",
+    "place_name": "Isola Del Liri, Isola del Liri, Frosinone 03036, Italy",
+    "center": [
+        13.573861,
+        41.678496
+    ],
+    "geometry": {
+        "coordinates": [
+            13.573861,
+            41.678496
+        ],
+        "type": "Point"
+    }
+}

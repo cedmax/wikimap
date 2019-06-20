@@ -1,0 +1,27 @@
+{
+    "id": "place.8026986936625440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montenero di Bisaccia",
+    "place_name": "Montenero di Bisaccia, Campobasso, Italy",
+    "bbox": [
+        14.713326,
+        41.915591,
+        14.866943,
+        42.071346
+    ],
+    "center": [
+        14.78333,
+        41.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78333,
+            41.95
+        ]
+    }
+}

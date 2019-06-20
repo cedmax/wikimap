@@ -1,0 +1,27 @@
+{
+    "id": "place.16244329156335990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lizzanello",
+    "place_name": "Lizzanello, Lecce, Italy",
+    "bbox": [
+        18.197119,
+        40.275919,
+        18.265323,
+        40.353237
+    ],
+    "center": [
+        18.21667,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.21667,
+            40.3
+        ]
+    }
+}

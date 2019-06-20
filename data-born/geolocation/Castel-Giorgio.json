@@ -1,0 +1,27 @@
+{
+    "id": "place.5711500527430350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Giorgio",
+    "place_name": "Castel Giorgio, Terni, Italy",
+    "bbox": [
+        11.926336,
+        42.661986,
+        12.030778,
+        42.738541
+    ],
+    "center": [
+        11.98333,
+        42.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98333,
+            42.7
+        ]
+    }
+}

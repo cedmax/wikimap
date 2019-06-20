@@ -1,0 +1,27 @@
+{
+    "id": "place.2582274054133080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronciglione",
+    "place_name": "Ronciglione, Viterbo, Italy",
+    "bbox": [
+        12.120663,
+        42.248954,
+        12.305159,
+        42.325101
+    ],
+    "center": [
+        12.21472,
+        42.28944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21472,
+            42.28944
+        ]
+    }
+}

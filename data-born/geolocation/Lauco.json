@@ -1,0 +1,27 @@
+{
+    "id": "place.15348863533157600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lauco",
+    "place_name": "Lauco, Udine, Italy",
+    "bbox": [
+        12.876099,
+        46.415301,
+        12.977389,
+        46.48233
+    ],
+    "center": [
+        12.93333,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            46.41667
+        ]
+    }
+}

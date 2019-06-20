@@ -1,0 +1,27 @@
+{
+    "id": "place.8197258884872400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trecate",
+    "place_name": "Trecate, Novara, Italy",
+    "bbox": [
+        8.669105,
+        45.397841,
+        8.812866,
+        45.461043
+    ],
+    "center": [
+        8.73333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            45.43333
+        ]
+    }
+}

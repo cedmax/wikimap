@@ -1,0 +1,27 @@
+{
+    "id": "place.17196646210606990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ovada",
+    "place_name": "Ovada, Alessandria, Italy",
+    "bbox": [
+        8.599569,
+        44.578734,
+        8.672396,
+        44.667477
+    ],
+    "center": [
+        8.64639,
+        44.63917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.64639,
+            44.63917
+        ]
+    }
+}

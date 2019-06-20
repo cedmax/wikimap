@@ -1,0 +1,27 @@
+{
+    "id": "place.4683953926849290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brusciano",
+    "place_name": "Brusciano, Napoli, Italy",
+    "bbox": [
+        14.412265,
+        40.903119,
+        14.434574,
+        40.950808
+    ],
+    "center": [
+        14.41667,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.41667,
+            40.91667
+        ]
+    }
+}

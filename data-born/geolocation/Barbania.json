@@ -1,0 +1,27 @@
+{
+    "id": "place.14508011239378500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barbania",
+    "place_name": "Barbania, Torino, Italy",
+    "bbox": [
+        7.584822,
+        45.280387,
+        7.660257,
+        45.30852
+    ],
+    "center": [
+        7.63333,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63333,
+            45.3
+        ]
+    }
+}

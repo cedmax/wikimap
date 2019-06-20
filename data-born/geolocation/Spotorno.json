@@ -1,0 +1,27 @@
+{
+    "id": "place.10663463008621370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spotorno",
+    "place_name": "Spotorno, Savona, Italy",
+    "bbox": [
+        8.370149,
+        44.217372,
+        8.436485,
+        44.245636
+    ],
+    "center": [
+        8.4192,
+        44.22711
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4192,
+            44.22711
+        ]
+    }
+}

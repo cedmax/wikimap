@@ -1,0 +1,27 @@
+{
+    "id": "place.4604628586374040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morrone del Sannio",
+    "place_name": "Morrone del Sannio, Campobasso, Italy",
+    "bbox": [
+        14.732063,
+        41.654715,
+        14.813982,
+        41.773872
+    ],
+    "center": [
+        14.77944,
+        41.71139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.77944,
+            41.71139
+        ]
+    }
+}

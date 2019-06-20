@@ -1,0 +1,27 @@
+{
+    "id": "place.15384657279603630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vincenzo Valle Roveto",
+    "place_name": "San Vincenzo Valle Roveto, L'Aquila, Italy",
+    "bbox": [
+        13.471372,
+        41.779718,
+        13.582473,
+        41.877561
+    ],
+    "center": [
+        13.53667,
+        41.84639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53667,
+            41.84639
+        ]
+    }
+}

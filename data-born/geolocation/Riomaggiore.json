@@ -1,0 +1,21 @@
+{
+    "id": "poi.824633720957",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Riomaggiore",
+    "place_name": "Riomaggiore, Località Stazione, Riomaggiore, La Spezia 19017, Italy",
+    "center": [
+        9.737289828125,
+        44.1000193125
+    ],
+    "geometry": {
+        "coordinates": [
+            9.737289828125,
+            44.1000193125
+        ],
+        "type": "Point"
+    }
+}

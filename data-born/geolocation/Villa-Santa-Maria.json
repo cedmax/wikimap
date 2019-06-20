@@ -1,0 +1,21 @@
+{
+    "id": "poi.2894808033537",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Villa Santa Maria",
+    "place_name": "Villa Santa Maria, Via Angilla Vecchia, 27, Potenza, Potenza 85100, Italy",
+    "center": [
+        15.804306,
+        40.643205
+    ],
+    "geometry": {
+        "coordinates": [
+            15.804306,
+            40.643205
+        ],
+        "type": "Point"
+    }
+}

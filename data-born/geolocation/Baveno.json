@@ -1,0 +1,27 @@
+{
+    "id": "place.9530329845534270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baveno",
+    "place_name": "Baveno, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.455994,
+        45.893444,
+        8.539308,
+        45.936402
+    ],
+    "center": [
+        8.5,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.5,
+            45.9
+        ]
+    }
+}

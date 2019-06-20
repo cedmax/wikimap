@@ -1,0 +1,27 @@
+{
+    "id": "place.3733225811727860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vescovato",
+    "place_name": "Vescovato, Cremona, Italy",
+    "bbox": [
+        10.135649,
+        45.134799,
+        10.201682,
+        45.191013
+    ],
+    "center": [
+        10.16667,
+        45.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.16667,
+            45.16667
+        ]
+    }
+}

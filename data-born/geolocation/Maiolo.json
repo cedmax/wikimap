@@ -1,0 +1,27 @@
+{
+    "id": "place.12958037931004300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maiolo",
+    "place_name": "Maiolo, Rimini, Italy",
+    "bbox": [
+        12.276662,
+        43.846159,
+        12.352917,
+        43.91772
+    ],
+    "center": [
+        12.30939,
+        43.87404
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.30939,
+            43.87404
+        ]
+    }
+}

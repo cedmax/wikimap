@@ -1,0 +1,27 @@
+{
+    "id": "place.14022485251645540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteroni d'Arbia",
+    "place_name": "Monteroni d'Arbia, Siena, Italy",
+    "bbox": [
+        11.292681,
+        43.157824,
+        11.47543,
+        43.27428
+    ],
+    "center": [
+        11.41667,
+        43.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.41667,
+            43.23333
+        ]
+    }
+}

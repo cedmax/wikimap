@@ -1,0 +1,27 @@
+{
+    "id": "place.13290399692797210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Missanello",
+    "place_name": "Missanello, Potenza, Italy",
+    "bbox": [
+        16.137689,
+        40.260938,
+        16.195214,
+        40.338754
+    ],
+    "center": [
+        16.16667,
+        40.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.16667,
+            40.28333
+        ]
+    }
+}

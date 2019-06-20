@@ -1,0 +1,27 @@
+{
+    "id": "place.12882948287764160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Assoro",
+    "place_name": "Assoro, Enna, Italy",
+    "bbox": [
+        14.389555,
+        37.488313,
+        14.539273,
+        37.659974
+    ],
+    "center": [
+        14.4222,
+        37.6244
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4222,
+            37.6244
+        ]
+    }
+}

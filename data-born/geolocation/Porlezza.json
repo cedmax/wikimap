@@ -1,0 +1,27 @@
+{
+    "id": "place.14018456477653080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porlezza",
+    "place_name": "Porlezza, Como, Italy",
+    "bbox": [
+        9.079182,
+        46.000624,
+        9.161002,
+        46.055853
+    ],
+    "center": [
+        9.13333,
+        46.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            46.03333
+        ]
+    }
+}

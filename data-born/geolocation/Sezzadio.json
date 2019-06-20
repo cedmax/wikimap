@@ -1,0 +1,21 @@
+{
+    "id": "poi.687194768792",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sezzadio",
+    "place_name": "Sezzadio, Sezzadio, Alessandria 15079, Italy",
+    "center": [
+        8.58249,
+        44.782522
+    ],
+    "geometry": {
+        "coordinates": [
+            8.58249,
+            44.782522
+        ],
+        "type": "Point"
+    }
+}

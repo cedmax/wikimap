@@ -1,0 +1,27 @@
+{
+    "id": "place.14190376025376180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terni",
+    "place_name": "Terni, Terni, Italy",
+    "bbox": [
+        12.54296,
+        42.500554,
+        12.787607,
+        42.675472
+    ],
+    "center": [
+        12.65,
+        42.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            42.56667
+        ]
+    }
+}

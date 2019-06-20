@@ -1,0 +1,21 @@
+{
+    "id": "poi.60129543443",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Campodolcino",
+    "place_name": "Campodolcino, Campodolcino, Sondrio 23021, Italy",
+    "center": [
+        9.352266499999999,
+        46.4039035
+    ],
+    "geometry": {
+        "coordinates": [
+            9.352266499999999,
+            46.4039035
+        ],
+        "type": "Point"
+    }
+}

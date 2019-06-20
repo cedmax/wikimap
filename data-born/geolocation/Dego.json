@@ -1,0 +1,27 @@
+{
+    "id": "place.19206695891990240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dego",
+    "place_name": "Dego, Savona, Italy",
+    "bbox": [
+        8.195617,
+        44.401074,
+        8.396449,
+        44.494817
+    ],
+    "center": [
+        8.31098,
+        44.44932
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31098,
+            44.44932
+        ]
+    }
+}

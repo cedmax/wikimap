@@ -1,0 +1,27 @@
+{
+    "id": "place.12889525244157260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mompeo",
+    "place_name": "Mompeo, Rieti, Italy",
+    "bbox": [
+        12.731552,
+        42.240106,
+        12.797342,
+        42.285138
+    ],
+    "center": [
+        12.7518,
+        42.249
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.7518,
+            42.249
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4175972511248500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ghedi",
+    "place_name": "Ghedi, Brescia, Italy",
+    "bbox": [
+        10.220362,
+        45.326243,
+        10.321397,
+        45.46268
+    ],
+    "center": [
+        10.2803,
+        45.402
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.2803,
+            45.402
+        ]
+    }
+}

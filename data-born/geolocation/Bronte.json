@@ -1,0 +1,27 @@
+{
+    "id": "place.10867063571998810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bronte",
+    "place_name": "Bronte, Catania, Italy",
+    "bbox": [
+        14.714423,
+        37.710609,
+        14.994247,
+        37.952963
+    ],
+    "center": [
+        14.83333,
+        37.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83333,
+            37.8
+        ]
+    }
+}

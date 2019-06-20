@@ -1,0 +1,27 @@
+{
+    "id": "place.2744102676020370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lusiana",
+    "place_name": "Lusiana, Vicenza, Italy",
+    "bbox": [
+        11.525693,
+        45.764553,
+        11.601747,
+        45.838123
+    ],
+    "center": [
+        11.56667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            45.78333
+        ]
+    }
+}

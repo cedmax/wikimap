@@ -1,0 +1,27 @@
+{
+    "id": "place.10446853122700470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sedilo",
+    "place_name": "Sedilo, Oristano, Italy",
+    "bbox": [
+        8.87252,
+        40.135195,
+        9.017216,
+        40.217928
+    ],
+    "center": [
+        8.91917,
+        40.17417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91917,
+            40.17417
+        ]
+    }
+}

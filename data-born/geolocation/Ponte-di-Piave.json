@@ -1,0 +1,27 @@
+{
+    "id": "place.13400566296581460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte di Piave",
+    "place_name": "Ponte di Piave, Treviso, Italy",
+    "bbox": [
+        12.395421,
+        45.704679,
+        12.538584,
+        45.761617
+    ],
+    "center": [
+        12.46667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.46667,
+            45.71667
+        ]
+    }
+}

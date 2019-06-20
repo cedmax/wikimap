@@ -1,0 +1,27 @@
+{
+    "id": "place.10561252767522840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tempio Pausania",
+    "place_name": "Tempio Pausania, Olbia-Tempio, Italy",
+    "bbox": [
+        8.987994,
+        40.80038,
+        9.317619,
+        41.172729
+    ],
+    "center": [
+        9.1,
+        40.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            40.9
+        ]
+    }
+}

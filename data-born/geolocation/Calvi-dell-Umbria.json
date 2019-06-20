@@ -1,0 +1,27 @@
+{
+    "id": "place.9502608382390620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calvi dell'Umbria",
+    "place_name": "Calvi dell'Umbria, Terni, Italy",
+    "bbox": [
+        12.479862,
+        42.364881,
+        12.615163,
+        42.43502
+    ],
+    "center": [
+        12.5687,
+        42.4041
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5687,
+            42.4041
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9609982477834060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alberobello",
+    "place_name": "Alberobello, Bari, Italy",
+    "bbox": [
+        17.185408,
+        40.756545,
+        17.310691,
+        40.825933
+    ],
+    "center": [
+        17.23746,
+        40.78406
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.23746,
+            40.78406
+        ]
+    }
+}

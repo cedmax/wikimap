@@ -1,0 +1,27 @@
+{
+    "id": "place.9119730592756830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agata Bolognese",
+    "place_name": "Sant'Agata Bolognese, Bologna, Italy",
+    "bbox": [
+        11.07799,
+        44.628484,
+        11.183398,
+        44.702108
+    ],
+    "center": [
+        11.13333,
+        44.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            44.66667
+        ]
+    }
+}

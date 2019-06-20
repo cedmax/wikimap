@@ -1,0 +1,27 @@
+{
+    "id": "place.2557792420210750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seveso",
+    "place_name": "Seveso, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.107843,
+        45.634982,
+        9.17734,
+        45.657439
+    ],
+    "center": [
+        9.1387,
+        45.6474
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1387,
+            45.6474
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14896364764934510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limosano",
+    "place_name": "Limosano, Campobasso, Italy",
+    "bbox": [
+        14.584294,
+        41.639207,
+        14.664669,
+        41.725559
+    ],
+    "center": [
+        14.61667,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61667,
+            41.68333
+        ]
+    }
+}

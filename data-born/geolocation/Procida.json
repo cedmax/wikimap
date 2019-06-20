@@ -1,0 +1,27 @@
+{
+    "id": "place.12787909743749840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Procida",
+    "place_name": "Procida, Napoli, Italy",
+    "bbox": [
+        13.990579,
+        40.738968,
+        14.037299,
+        40.770775
+    ],
+    "center": [
+        14.03333,
+        40.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.03333,
+            40.76667
+        ]
+    }
+}

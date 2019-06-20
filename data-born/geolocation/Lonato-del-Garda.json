@@ -1,0 +1,27 @@
+{
+    "id": "place.4635888156394780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lonato del Garda",
+    "place_name": "Lonato del Garda, Brescia, Italy",
+    "bbox": [
+        10.44043,
+        45.380999,
+        10.602315,
+        45.507157
+    ],
+    "center": [
+        10.48333,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.48333,
+            45.46667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6562354636050950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Gregorio nelle Alpi",
+    "place_name": "San Gregorio nelle Alpi, Belluno, Italy",
+    "bbox": [
+        12.00055,
+        46.088111,
+        12.065567,
+        46.166526
+    ],
+    "center": [
+        12.03333,
+        46.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            46.1
+        ]
+    }
+}

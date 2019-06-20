@@ -1,0 +1,29 @@
+{
+    "id": "place.3048280158761130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Godiasco Salice Terme",
+    "place_name": "Godiasco Salice Terme, Pavia, Italy",
+    "matching_text": "Godiasco",
+    "matching_place_name": "Godiasco, Pavia, Italy",
+    "bbox": [
+        9.017888,
+        44.862349,
+        9.112594,
+        44.917809
+    ],
+    "center": [
+        9.05,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.05,
+            44.9
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.443653645",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Castelceriolo",
+    "place_name": "via Castelceriolo, 15122 Alessandria Alessandria, Italy",
+    "center": [
+        8.726274,
+        44.894085
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.726274,
+            44.894085
+        ]
+    }
+}

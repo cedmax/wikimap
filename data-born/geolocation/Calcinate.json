@@ -1,0 +1,27 @@
+{
+    "id": "place.10172342908995510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calcinate",
+    "place_name": "Calcinate, Bergamo, Italy",
+    "bbox": [
+        9.74893,
+        45.596197,
+        9.826829,
+        45.646712
+    ],
+    "center": [
+        9.8003,
+        45.6212
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.8003,
+            45.6212
+        ]
+    }
+}

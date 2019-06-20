@@ -1,0 +1,27 @@
+{
+    "id": "place.14547121214423850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiuppano",
+    "place_name": "Chiuppano, Vicenza, Italy",
+    "bbox": [
+        11.446794,
+        45.750034,
+        11.498676,
+        45.771179
+    ],
+    "center": [
+        11.46667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46667,
+            45.76667
+        ]
+    }
+}

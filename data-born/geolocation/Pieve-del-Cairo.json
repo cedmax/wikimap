@@ -1,0 +1,27 @@
+{
+    "id": "place.13048709333590730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve del Cairo",
+    "place_name": "Pieve del Cairo, Alessandria, Italy",
+    "bbox": [
+        8.763971,
+        45.020971,
+        8.866515,
+        45.088362
+    ],
+    "center": [
+        8.8,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8,
+            45.03333
+        ]
+    }
+}

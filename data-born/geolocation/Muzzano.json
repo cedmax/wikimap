@@ -1,0 +1,27 @@
+{
+    "id": "place.2531243759650910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Muzzano",
+    "place_name": "Muzzano, Biella, Italy",
+    "bbox": [
+        7.918093,
+        45.549397,
+        8.007218,
+        45.594362
+    ],
+    "center": [
+        7.9889,
+        45.5608
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9889,
+            45.5608
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14829636105875810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castroreale",
+    "place_name": "Castroreale, Messina, Italy",
+    "bbox": [
+        15.177375,
+        38.006281,
+        15.270921,
+        38.129825
+    ],
+    "center": [
+        15.21667,
+        38.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.21667,
+            38.1
+        ]
+    }
+}

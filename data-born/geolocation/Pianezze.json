@@ -1,0 +1,27 @@
+{
+    "id": "place.7295166271044680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianezze",
+    "place_name": "Pianezze, Vicenza, Italy",
+    "bbox": [
+        11.620129,
+        45.715056,
+        11.652822,
+        45.751215
+    ],
+    "center": [
+        11.63333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63333,
+            45.73333
+        ]
+    }
+}

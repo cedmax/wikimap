@@ -1,0 +1,27 @@
+{
+    "id": "place.4180381675511910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca di Neto",
+    "place_name": "Rocca di Neto, Crotone, Italy",
+    "bbox": [
+        16.932435,
+        39.163514,
+        17.09368,
+        39.218157
+    ],
+    "center": [
+        17.00417,
+        39.18833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.00417,
+            39.18833
+        ]
+    }
+}

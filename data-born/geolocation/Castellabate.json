@@ -1,0 +1,27 @@
+{
+    "id": "place.622165692362950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellabate",
+    "place_name": "Castellabate, Salerno, Italy",
+    "bbox": [
+        14.900103,
+        40.228204,
+        15.006118,
+        40.337489
+    ],
+    "center": [
+        14.95167,
+        40.27917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.95167,
+            40.27917
+        ]
+    }
+}

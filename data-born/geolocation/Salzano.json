@@ -1,0 +1,27 @@
+{
+    "id": "place.11766068460170530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salzano",
+    "place_name": "Salzano, Venezia, Italy",
+    "bbox": [
+        12.074271,
+        45.511006,
+        12.143389,
+        45.557455
+    ],
+    "center": [
+        12.11667,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            45.53333
+        ]
+    }
+}

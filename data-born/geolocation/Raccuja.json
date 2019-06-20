@@ -1,0 +1,27 @@
+{
+    "id": "place.14397052315685330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Raccuja",
+    "place_name": "Raccuja, Messina, Italy",
+    "bbox": [
+        14.881832,
+        37.980446,
+        14.962137,
+        38.071869
+    ],
+    "center": [
+        14.91061,
+        38.05559
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91061,
+            38.05559
+        ]
+    }
+}

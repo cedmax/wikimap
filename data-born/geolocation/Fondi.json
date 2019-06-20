@@ -1,0 +1,27 @@
+{
+    "id": "place.13274377065016560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fondi",
+    "place_name": "Fondi, Latina, Italy",
+    "bbox": [
+        13.281408,
+        41.273254,
+        13.51335,
+        41.403811
+    ],
+    "center": [
+        13.41667,
+        41.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.41667,
+            41.35
+        ]
+    }
+}

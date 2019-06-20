@@ -1,0 +1,27 @@
+{
+    "id": "place.11336725940219090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quartu Sant'Elena",
+    "place_name": "Quartu Sant'Elena, Cagliari, Italy",
+    "bbox": [
+        9.15161,
+        39.162308,
+        9.398205,
+        39.263633
+    ],
+    "center": [
+        9.18333,
+        39.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            39.23333
+        ]
+    }
+}

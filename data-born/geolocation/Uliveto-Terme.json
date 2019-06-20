@@ -1,0 +1,21 @@
+{
+    "id": "poi.3255585217440",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6428571428571428,
+    "text": "L'Uliveto",
+    "place_name": "L'Uliveto, Località Camposoprano, 19, Moneglia, Genova 16030, Italy",
+    "center": [
+        9.49734,
+        44.25298
+    ],
+    "geometry": {
+        "coordinates": [
+            9.49734,
+            44.25298
+        ],
+        "type": "Point"
+    }
+}

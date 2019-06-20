@@ -1,0 +1,27 @@
+{
+    "id": "place.17772898902235680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monopoli",
+    "place_name": "Monopoli, Bari, Italy",
+    "bbox": [
+        17.188343,
+        40.819286,
+        17.389385,
+        40.979616
+    ],
+    "center": [
+        17.3,
+        40.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.3,
+            40.95
+        ]
+    }
+}

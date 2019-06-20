@@ -1,0 +1,27 @@
+{
+    "id": "place.10283845629356170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnoli Irpino",
+    "place_name": "Bagnoli Irpino, Avellino, Italy",
+    "bbox": [
+        15.044198,
+        40.759738,
+        15.158639,
+        40.85892
+    ],
+    "center": [
+        15.07333,
+        40.83417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.07333,
+            40.83417
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2453002764025290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magenta",
+    "place_name": "Magenta, Milano, Italy",
+    "bbox": [
+        8.817123,
+        45.419839,
+        8.907406,
+        45.482926
+    ],
+    "center": [
+        8.88333,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88333,
+            45.46667
+        ]
+    }
+}

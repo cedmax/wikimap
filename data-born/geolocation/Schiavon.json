@@ -1,0 +1,27 @@
+{
+    "id": "place.9311769891826220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Schiavon",
+    "place_name": "Schiavon, Vicenza, Italy",
+    "bbox": [
+        11.620588,
+        45.66418,
+        11.672529,
+        45.703474
+    ],
+    "center": [
+        11.65,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.65,
+            45.7
+        ]
+    }
+}

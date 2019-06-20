@@ -1,0 +1,27 @@
+{
+    "id": "place.6867841999434780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montesarchio",
+    "place_name": "Montesarchio, Benevento, Italy",
+    "bbox": [
+        14.61096,
+        41.042444,
+        14.707581,
+        41.099556
+    ],
+    "center": [
+        14.63333,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            41.06667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3155845332810310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piegaro",
+    "place_name": "Piegaro, Perugia, Italy",
+    "bbox": [
+        12.05044,
+        42.933295,
+        12.26514,
+        43.012037
+    ],
+    "center": [
+        12.08333,
+        42.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08333,
+            42.96667
+        ]
+    }
+}

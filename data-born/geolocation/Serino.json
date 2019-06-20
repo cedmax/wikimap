@@ -1,0 +1,27 @@
+{
+    "id": "place.9410464299421680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serino",
+    "place_name": "Serino, Avellino, Italy",
+    "bbox": [
+        14.820611,
+        40.787433,
+        14.973492,
+        40.876866
+    ],
+    "center": [
+        14.875,
+        40.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.875,
+            40.85
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2190433342799",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Colonna",
+    "place_name": "Colonna, Colonna, Roma 00030, Italy",
+    "center": [
+        12.751404,
+        41.8334725
+    ],
+    "geometry": {
+        "coordinates": [
+            12.751404,
+            41.8334725
+        ],
+        "type": "Point"
+    }
+}

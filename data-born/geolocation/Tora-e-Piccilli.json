@@ -1,0 +1,27 @@
+{
+    "id": "place.6691386730647420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tora e Piccilli",
+    "place_name": "Tora e Piccilli, Caserta, Italy",
+    "bbox": [
+        14.001816,
+        41.321464,
+        14.065097,
+        41.365267
+    ],
+    "center": [
+        14.01667,
+        41.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.01667,
+            41.33333
+        ]
+    }
+}

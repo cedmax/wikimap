@@ -1,0 +1,27 @@
+{
+    "id": "place.7549345486453270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Langhirano",
+    "place_name": "Langhirano, Parma, Italy",
+    "bbox": [
+        10.167176,
+        44.554243,
+        10.308316,
+        44.691244
+    ],
+    "center": [
+        10.26667,
+        44.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.26667,
+            44.61667
+        ]
+    }
+}

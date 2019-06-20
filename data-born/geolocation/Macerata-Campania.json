@@ -1,0 +1,27 @@
+{
+    "id": "place.14126572892178770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Macerata Campania",
+    "place_name": "Macerata Campania, Caserta, Italy",
+    "bbox": [
+        14.241362,
+        41.03654,
+        14.299903,
+        41.069239
+    ],
+    "center": [
+        14.26667,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.26667,
+            41.06667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9574039316512070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.5,
+    "text": "Mirabello",
+    "place_name": "Mirabello, Ferrara, Italy",
+    "bbox": [
+        11.407578,
+        44.798373,
+        11.488161,
+        44.840944
+    ],
+    "center": [
+        11.46111,
+        44.82722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46111,
+            44.82722
+        ]
+    }
+}

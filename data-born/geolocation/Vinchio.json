@@ -1,0 +1,27 @@
+{
+    "id": "place.13938410732471900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vinchio",
+    "place_name": "Vinchio, Asti, Italy",
+    "bbox": [
+        8.297171,
+        44.782263,
+        8.342212,
+        44.828469
+    ],
+    "center": [
+        8.32194,
+        44.81194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.32194,
+            44.81194
+        ]
+    }
+}

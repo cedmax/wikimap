@@ -1,0 +1,27 @@
+{
+    "id": "place.9286768910968880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sasso di Castalda",
+    "place_name": "Sasso di Castalda, Potenza, Italy",
+    "bbox": [
+        15.643366,
+        40.443788,
+        15.749501,
+        40.525122
+    ],
+    "center": [
+        15.68333,
+        40.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.68333,
+            40.48333
+        ]
+    }
+}

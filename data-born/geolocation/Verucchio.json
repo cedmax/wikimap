@@ -1,0 +1,27 @@
+{
+    "id": "place.13574122831673640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verucchio",
+    "place_name": "Verucchio, Rimini, Italy",
+    "bbox": [
+        12.389442,
+        43.891439,
+        12.46298,
+        44.031392
+    ],
+    "center": [
+        12.4215,
+        43.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4215,
+            43.98333
+        ]
+    }
+}

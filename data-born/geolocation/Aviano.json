@@ -1,0 +1,27 @@
+{
+    "id": "place.11671566691596050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aviano",
+    "place_name": "Aviano, Pordenone, Italy",
+    "bbox": [
+        12.48864,
+        46.018967,
+        12.67851,
+        46.147724
+    ],
+    "center": [
+        12.58333,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58333,
+            46.06667
+        ]
+    }
+}

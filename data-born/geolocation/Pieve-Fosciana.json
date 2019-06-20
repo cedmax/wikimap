@@ -1,0 +1,27 @@
+{
+    "id": "place.9470289738705090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve Fosciana",
+    "place_name": "Pieve Fosciana, Lucca, Italy",
+    "bbox": [
+        10.369894,
+        44.112323,
+        10.524808,
+        44.177416
+    ],
+    "center": [
+        10.41194,
+        44.13278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41194,
+            44.13278
+        ]
+    }
+}

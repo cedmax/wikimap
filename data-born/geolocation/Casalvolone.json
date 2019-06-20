@@ -1,0 +1,27 @@
+{
+    "id": "place.3767197120026450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalvolone",
+    "place_name": "Casalvolone, Novara, Italy",
+    "bbox": [
+        8.429168,
+        45.378022,
+        8.508503,
+        45.419099
+    ],
+    "center": [
+        8.46667,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            45.4
+        ]
+    }
+}

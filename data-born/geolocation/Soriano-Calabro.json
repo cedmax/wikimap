@@ -1,0 +1,27 @@
+{
+    "id": "place.12306535599370060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soriano Calabro",
+    "place_name": "Soriano Calabro, Vibo Valentia, Italy",
+    "bbox": [
+        16.168789,
+        38.594859,
+        16.254275,
+        38.640741
+    ],
+    "center": [
+        16.23333,
+        38.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.23333,
+            38.6
+        ]
+    }
+}

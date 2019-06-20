@@ -1,0 +1,27 @@
+{
+    "id": "place.7404693844952150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiampo",
+    "place_name": "Chiampo, Vicenza, Italy",
+    "bbox": [
+        11.242393,
+        45.509608,
+        11.31653,
+        45.584236
+    ],
+    "center": [
+        11.28333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            45.55
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11759142346614650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Foggia",
+    "place_name": "Foggia, Foggia, Italy",
+    "bbox": [
+        15.428833,
+        41.330413,
+        15.788758,
+        41.611933
+    ],
+    "center": [
+        15.56667,
+        41.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.56667,
+            41.46667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13085140437195380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montescaglioso",
+    "place_name": "Montescaglioso, Matera, Italy",
+    "bbox": [
+        16.580569,
+        40.39918,
+        16.750282,
+        40.600519
+    ],
+    "center": [
+        16.66667,
+        40.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.66667,
+            40.55
+        ]
+    }
+}

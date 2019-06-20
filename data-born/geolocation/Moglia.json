@@ -1,0 +1,27 @@
+{
+    "id": "place.17251304636705720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moglia",
+    "place_name": "Moglia, Mantova, Italy",
+    "bbox": [
+        10.875311,
+        44.911922,
+        10.972007,
+        44.992715
+    ],
+    "center": [
+        10.91667,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91667,
+            44.93333
+        ]
+    }
+}

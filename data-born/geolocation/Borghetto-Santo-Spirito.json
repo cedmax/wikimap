@@ -1,0 +1,27 @@
+{
+    "id": "place.18009541386936980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borghetto Santo Spirito",
+    "place_name": "Borghetto Santo Spirito, Savona, Italy",
+    "bbox": [
+        8.197598,
+        44.10289,
+        8.2497,
+        44.131097
+    ],
+    "center": [
+        8.24136,
+        44.10905
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.24136,
+            44.10905
+        ]
+    }
+}

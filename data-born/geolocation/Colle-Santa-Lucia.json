@@ -1,0 +1,27 @@
+{
+    "id": "place.13800588036036040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colle Santa Lucia",
+    "place_name": "Colle Santa Lucia, Belluno, Italy",
+    "bbox": [
+        11.983213,
+        46.437857,
+        12.054792,
+        46.50179
+    ],
+    "center": [
+        12.01667,
+        46.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.01667,
+            46.45
+        ]
+    }
+}

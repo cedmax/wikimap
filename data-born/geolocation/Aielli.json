@@ -1,0 +1,27 @@
+{
+    "id": "place.7153939125341030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aielli",
+    "place_name": "Aielli, L'Aquila, Italy",
+    "bbox": [
+        13.547495,
+        42.009429,
+        13.624044,
+        42.129696
+    ],
+    "center": [
+        13.59139,
+        42.08167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.59139,
+            42.08167
+        ]
+    }
+}

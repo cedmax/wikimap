@@ -1,0 +1,27 @@
+{
+    "id": "place.14268049145492490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lentate sul Seveso",
+    "place_name": "Lentate sul Seveso, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.088676,
+        45.652285,
+        9.154003,
+        45.696861
+    ],
+    "center": [
+        9.11667,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            45.68333
+        ]
+    }
+}

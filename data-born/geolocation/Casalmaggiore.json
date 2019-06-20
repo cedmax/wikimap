@@ -1,0 +1,27 @@
+{
+    "id": "place.17843679157410990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalmaggiore",
+    "place_name": "Casalmaggiore, Cremona, Italy",
+    "bbox": [
+        10.381644,
+        44.935604,
+        10.596792,
+        45.043554
+    ],
+    "center": [
+        10.41472,
+        44.98583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41472,
+            44.98583
+        ]
+    }
+}

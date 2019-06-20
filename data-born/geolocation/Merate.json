@@ -1,0 +1,27 @@
+{
+    "id": "place.13506497064172130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Merate",
+    "place_name": "Merate, Lecco, Italy",
+    "bbox": [
+        9.392573,
+        45.673093,
+        9.442491,
+        45.723971
+    ],
+    "center": [
+        9.43333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43333,
+            45.7
+        ]
+    }
+}

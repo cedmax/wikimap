@@ -1,0 +1,27 @@
+{
+    "id": "place.7196252805596850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paderno Franciacorta",
+    "place_name": "Paderno Franciacorta, Brescia, Italy",
+    "bbox": [
+        10.067823,
+        45.5656,
+        10.104138,
+        45.597149
+    ],
+    "center": [
+        10.0775,
+        45.58889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.0775,
+            45.58889
+        ]
+    }
+}

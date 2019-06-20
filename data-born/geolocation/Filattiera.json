@@ -1,0 +1,27 @@
+{
+    "id": "place.10649353537455850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filattiera",
+    "place_name": "Filattiera, Massa-Carrara, Italy",
+    "bbox": [
+        9.89915,
+        44.313114,
+        10.016578,
+        44.40424
+    ],
+    "center": [
+        9.93333,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            44.33333
+        ]
+    }
+}

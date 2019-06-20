@@ -1,0 +1,27 @@
+{
+    "id": "place.12199398161884890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Lucia del Mela",
+    "place_name": "Santa Lucia del Mela, Messina, Italy",
+    "bbox": [
+        15.256118,
+        38.028117,
+        15.365875,
+        38.170045
+    ],
+    "center": [
+        15.28333,
+        38.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.28333,
+            38.15
+        ]
+    }
+}

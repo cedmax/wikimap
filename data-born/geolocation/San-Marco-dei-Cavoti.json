@@ -1,0 +1,27 @@
+{
+    "id": "place.4733927651814260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marco dei Cavoti",
+    "place_name": "San Marco dei Cavoti, Benevento, Italy",
+    "bbox": [
+        14.829554,
+        41.258767,
+        14.917784,
+        41.368884
+    ],
+    "center": [
+        14.88056,
+        41.31083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88056,
+            41.31083
+        ]
+    }
+}

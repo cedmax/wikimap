@@ -1,0 +1,27 @@
+{
+    "id": "place.3108236135569070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paesana",
+    "place_name": "Paesana, Cuneo, Italy",
+    "bbox": [
+        7.200255,
+        44.618763,
+        7.30827,
+        44.717372
+    ],
+    "center": [
+        7.28333,
+        44.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.28333,
+            44.68333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9276102106476000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronco Scrivia",
+    "place_name": "Ronco Scrivia, Genova, Italy",
+    "bbox": [
+        8.89228,
+        44.571827,
+        9.003532,
+        44.630279
+    ],
+    "center": [
+        8.95517,
+        44.60821
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.95517,
+            44.60821
+        ]
+    }
+}

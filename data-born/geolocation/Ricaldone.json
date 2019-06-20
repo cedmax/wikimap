@@ -1,0 +1,27 @@
+{
+    "id": "place.5656885492224970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ricaldone",
+    "place_name": "Ricaldone, Alessandria, Italy",
+    "bbox": [
+        8.451422,
+        44.702364,
+        8.505146,
+        44.783128
+    ],
+    "center": [
+        8.46917,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46917,
+            44.73333
+        ]
+    }
+}

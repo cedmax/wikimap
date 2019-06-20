@@ -1,0 +1,21 @@
+{
+    "id": "address.990143625",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Curon Venosta",
+    "place_name": "via Curon Venosta, 00124 Roma Roma, Italy",
+    "center": [
+        12.367177,
+        41.73486
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.367177,
+            41.73486
+        ]
+    }
+}

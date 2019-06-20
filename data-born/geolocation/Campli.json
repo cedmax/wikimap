@@ -1,0 +1,27 @@
+{
+    "id": "place.14701781870833000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campli",
+    "place_name": "Campli, Teramo, Italy",
+    "bbox": [
+        13.60151,
+        42.695126,
+        13.786865,
+        42.786744
+    ],
+    "center": [
+        13.68609,
+        42.72613
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68609,
+            42.72613
+        ]
+    }
+}

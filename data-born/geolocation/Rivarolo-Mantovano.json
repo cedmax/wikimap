@@ -1,0 +1,27 @@
+{
+    "id": "place.10591334592009440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivarolo Mantovano",
+    "place_name": "Rivarolo Mantovano, Mantova, Italy",
+    "bbox": [
+        10.411143,
+        45.041204,
+        10.494769,
+        45.093388
+    ],
+    "center": [
+        10.43333,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            45.06667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15631807567278990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cuorgnè",
+    "place_name": "Cuorgnè, Torino, Italy",
+    "bbox": [
+        7.580953,
+        45.378529,
+        7.675364,
+        45.429038
+    ],
+    "center": [
+        7.65,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65,
+            45.38333
+        ]
+    }
+}

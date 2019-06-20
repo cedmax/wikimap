@@ -1,0 +1,21 @@
+{
+    "id": "poi.566935683807",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Porretta Terme",
+    "place_name": "Porretta Terme, Alto Reno Terme, Bologna 40046, Italy",
+    "center": [
+        10.976389,
+        44.155499
+    ],
+    "geometry": {
+        "coordinates": [
+            10.976389,
+            44.155499
+        ],
+        "type": "Point"
+    }
+}

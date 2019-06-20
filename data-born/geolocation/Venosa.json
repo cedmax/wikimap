@@ -1,0 +1,27 @@
+{
+    "id": "place.15090522798480530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venosa",
+    "place_name": "Venosa, Potenza, Italy",
+    "bbox": [
+        15.73537,
+        40.913671,
+        15.977368,
+        41.09128
+    ],
+    "center": [
+        15.81667,
+        40.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.81667,
+            40.96667
+        ]
+    }
+}

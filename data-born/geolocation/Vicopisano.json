@@ -1,0 +1,27 @@
+{
+    "id": "place.11469596601420790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicopisano",
+    "place_name": "Vicopisano, Pisa, Italy",
+    "bbox": [
+        10.496317,
+        43.67444,
+        10.618378,
+        43.722166
+    ],
+    "center": [
+        10.58333,
+        43.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.58333,
+            43.68333
+        ]
+    }
+}

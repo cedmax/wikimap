@@ -1,0 +1,27 @@
+{
+    "id": "place.12134845991974260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerea",
+    "place_name": "Cerea, Verona, Italy",
+    "bbox": [
+        11.145785,
+        45.08311,
+        11.275563,
+        45.237681
+    ],
+    "center": [
+        11.21661,
+        45.18936
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.21661,
+            45.18936
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12188542315016220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Tossignano",
+    "place_name": "Borgo Tossignano, Bologna, Italy",
+    "bbox": [
+        11.556026,
+        44.238927,
+        11.665859,
+        44.303388
+    ],
+    "center": [
+        11.58333,
+        44.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58333,
+            44.28333
+        ]
+    }
+}

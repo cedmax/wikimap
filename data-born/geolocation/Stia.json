@@ -1,0 +1,21 @@
+{
+    "id": "poi.3006477119010",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Stia",
+    "place_name": "Stia, Stia, Pratovecchio Stia, Arezzo 52017, Italy",
+    "center": [
+        11.708787000000001,
+        43.799009
+    ],
+    "geometry": {
+        "coordinates": [
+            11.708787000000001,
+            43.799009
+        ],
+        "type": "Point"
+    }
+}

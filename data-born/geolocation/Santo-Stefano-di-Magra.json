@@ -1,0 +1,27 @@
+{
+    "id": "place.15435099302438880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano di Magra",
+    "place_name": "Santo Stefano di Magra, La Spezia, Italy",
+    "bbox": [
+        9.895101,
+        44.128375,
+        9.959249,
+        44.170927
+    ],
+    "center": [
+        9.91513,
+        44.16248
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.91513,
+            44.16248
+        ]
+    }
+}

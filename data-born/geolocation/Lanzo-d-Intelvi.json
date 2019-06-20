@@ -1,0 +1,27 @@
+{
+    "id": "place.14527245510443670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lanzo d'Intelvi",
+    "place_name": "Lanzo d'Intelvi, Como, Italy",
+    "bbox": [
+        8.988258,
+        45.950988,
+        9.057013,
+        45.994523
+    ],
+    "center": [
+        9.03333,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.98333
+        ]
+    }
+}

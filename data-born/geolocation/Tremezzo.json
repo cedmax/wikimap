@@ -1,0 +1,21 @@
+{
+    "id": "address.1741579550",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.875,
+    "text": "Contrada Tramezzo",
+    "place_name": "Contrada Tramezzo, 71045 Orta Nova Foggia, Italy",
+    "center": [
+        15.781136,
+        41.356854
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.781136,
+            41.356854
+        ]
+    }
+}

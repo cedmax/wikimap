@@ -1,0 +1,27 @@
+{
+    "id": "place.4741421454603110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Faicchio",
+    "place_name": "Faicchio, Benevento, Italy",
+    "bbox": [
+        14.417131,
+        41.220493,
+        14.530288,
+        41.300961
+    ],
+    "center": [
+        14.48333,
+        41.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48333,
+            41.28333
+        ]
+    }
+}

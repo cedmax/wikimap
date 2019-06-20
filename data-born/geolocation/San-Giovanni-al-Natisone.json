@@ -1,0 +1,27 @@
+{
+    "id": "place.11578230606317630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni al Natisone",
+    "place_name": "San Giovanni al Natisone, Udine, Italy",
+    "bbox": [
+        13.372626,
+        45.931402,
+        13.443151,
+        45.999205
+    ],
+    "center": [
+        13.4,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            45.98333
+        ]
+    }
+}

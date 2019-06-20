@@ -1,0 +1,27 @@
+{
+    "id": "place.18806920053436820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteprandone",
+    "place_name": "Monteprandone, Ascoli Piceno, Italy",
+    "bbox": [
+        13.798227,
+        42.882409,
+        13.889841,
+        42.937644
+    ],
+    "center": [
+        13.83552,
+        42.92026
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83552,
+            42.92026
+        ]
+    }
+}

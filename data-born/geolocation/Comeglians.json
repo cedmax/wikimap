@@ -1,0 +1,27 @@
+{
+    "id": "place.5315372130158050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comeglians",
+    "place_name": "Comeglians, Udine, Italy",
+    "bbox": [
+        12.834758,
+        46.500353,
+        12.918395,
+        46.571778
+    ],
+    "center": [
+        12.88333,
+        46.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88333,
+            46.51667
+        ]
+    }
+}

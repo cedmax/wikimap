@@ -1,0 +1,27 @@
+{
+    "id": "place.11596599459922550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Talla",
+    "place_name": "Talla, Arezzo, Italy",
+    "bbox": [
+        11.686162,
+        43.556382,
+        11.829803,
+        43.643078
+    ],
+    "center": [
+        11.78806,
+        43.60278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78806,
+            43.60278
+        ]
+    }
+}

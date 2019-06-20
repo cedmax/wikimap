@@ -1,0 +1,27 @@
+{
+    "id": "place.2008009651098010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castano Primo",
+    "place_name": "Castano Primo, Milano, Italy",
+    "bbox": [
+        8.710304,
+        45.52308,
+        8.809775,
+        45.57344
+    ],
+    "center": [
+        8.76667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            45.55
+        ]
+    }
+}

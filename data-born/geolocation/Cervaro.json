@@ -1,0 +1,27 @@
+{
+    "id": "place.9742794904040020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cervaro",
+    "place_name": "Cervaro, Frosinone, Italy",
+    "bbox": [
+        13.840983,
+        41.43337,
+        13.956444,
+        41.51567
+    ],
+    "center": [
+        13.9,
+        41.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.9,
+            41.48333
+        ]
+    }
+}

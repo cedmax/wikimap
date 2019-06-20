@@ -1,0 +1,27 @@
+{
+    "id": "place.7261951747561130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carate Brianza",
+    "place_name": "Carate Brianza, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.211325,
+        45.651631,
+        9.261294,
+        45.700117
+    ],
+    "center": [
+        9.23333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            45.68333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7202486738470690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oliena",
+    "place_name": "Oliena, Nuoro, Italy",
+    "bbox": [
+        9.341085,
+        40.210609,
+        9.530939,
+        40.376129
+    ],
+    "center": [
+        9.4,
+        40.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            40.26667
+        ]
+    }
+}

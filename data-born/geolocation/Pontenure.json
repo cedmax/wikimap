@@ -1,0 +1,27 @@
+{
+    "id": "place.9538977386934260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontenure",
+    "place_name": "Pontenure, Piacenza, Italy",
+    "bbox": [
+        9.754027,
+        44.941951,
+        9.841362,
+        45.035435
+    ],
+    "center": [
+        9.78333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78333,
+            45
+        ]
+    }
+}

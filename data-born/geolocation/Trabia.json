@@ -1,0 +1,27 @@
+{
+    "id": "place.15761976636330010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trabia",
+    "place_name": "Trabia, Palermo, Italy",
+    "bbox": [
+        13.583077,
+        37.956074,
+        13.674542,
+        38.020562
+    ],
+    "center": [
+        13.65,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.65,
+            38
+        ]
+    }
+}

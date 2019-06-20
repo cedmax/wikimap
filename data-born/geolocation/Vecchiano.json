@@ -1,0 +1,27 @@
+{
+    "id": "place.4467973498989990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vecchiano",
+    "place_name": "Vecchiano, Pisa, Italy",
+    "bbox": [
+        10.25802,
+        43.743736,
+        10.418875,
+        43.829762
+    ],
+    "center": [
+        10.38333,
+        43.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.38333,
+            43.78333
+        ]
+    }
+}

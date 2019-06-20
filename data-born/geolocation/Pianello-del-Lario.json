@@ -1,0 +1,21 @@
+{
+    "id": "poi.2860448287886",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Pianello Del Lario",
+    "place_name": "Pianello Del Lario, Pianello del Lario, Como 22010, Italy",
+    "center": [
+        9.275748,
+        46.099565
+    ],
+    "geometry": {
+        "coordinates": [
+            9.275748,
+            46.099565
+        ],
+        "type": "Point"
+    }
+}

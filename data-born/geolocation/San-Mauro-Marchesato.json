@@ -1,0 +1,27 @@
+{
+    "id": "place.16933766053117620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Mauro Marchesato",
+    "place_name": "San Mauro Marchesato, Crotone, Italy",
+    "bbox": [
+        16.880361,
+        39.053742,
+        16.988976,
+        39.12312
+    ],
+    "center": [
+        16.91667,
+        39.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.91667,
+            39.1
+        ]
+    }
+}

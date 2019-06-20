@@ -1,0 +1,27 @@
+{
+    "id": "place.10720590243945060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fosdinovo",
+    "place_name": "Fosdinovo, Massa-Carrara, Italy",
+    "bbox": [
+        9.97566,
+        44.09263,
+        10.09639,
+        44.180981
+    ],
+    "center": [
+        10.01667,
+        44.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01667,
+            44.13333
+        ]
+    }
+}

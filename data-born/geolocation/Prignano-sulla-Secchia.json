@@ -1,0 +1,27 @@
+{
+    "id": "place.11537696440912590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Prignano sulla Secchia",
+    "place_name": "Prignano sulla Secchia, Modena, Italy",
+    "bbox": [
+        10.621264,
+        44.393924,
+        10.794112,
+        44.502516
+    ],
+    "center": [
+        10.69083,
+        44.43694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.69083,
+            44.43694
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2929167700559",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Santa Luce",
+    "place_name": "Santa Luce, Santa Luce, Santa Luce, Pisa 56040, Italy",
+    "center": [
+        10.491439,
+        43.437872
+    ],
+    "geometry": {
+        "coordinates": [
+            10.491439,
+            43.437872
+        ],
+        "type": "Point"
+    }
+}

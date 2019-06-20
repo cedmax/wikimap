@@ -1,0 +1,27 @@
+{
+    "id": "place.14221415372036310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Diano Marina",
+    "place_name": "Diano Marina, Imperia, Italy",
+    "bbox": [
+        8.048236,
+        43.890348,
+        8.093977,
+        43.925024
+    ],
+    "center": [
+        8.08202,
+        43.90993
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.08202,
+            43.90993
+        ]
+    }
+}

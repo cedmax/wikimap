@@ -1,0 +1,27 @@
+{
+    "id": "place.5693166760477470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnovo di Sotto",
+    "place_name": "Castelnovo di Sotto, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.528927,
+        44.789763,
+        10.628003,
+        44.876998
+    ],
+    "center": [
+        10.56667,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.56667,
+            44.81667
+        ]
+    }
+}

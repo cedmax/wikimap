@@ -1,0 +1,27 @@
+{
+    "id": "place.9918612427524770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteleone di Puglia",
+    "place_name": "Monteleone di Puglia, Foggia, Italy",
+    "bbox": [
+        15.208392,
+        41.113615,
+        15.290793,
+        41.198813
+    ],
+    "center": [
+        15.26667,
+        41.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            41.16667
+        ]
+    }
+}

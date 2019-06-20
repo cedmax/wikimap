@@ -1,0 +1,27 @@
+{
+    "id": "place.10875281623580840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pace del Mela",
+    "place_name": "Pace del Mela, Messina, Italy",
+    "bbox": [
+        15.283929,
+        38.160427,
+        15.324823,
+        38.21196
+    ],
+    "center": [
+        15.3,
+        38.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.3,
+            38.18333
+        ]
+    }
+}

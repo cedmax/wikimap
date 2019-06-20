@@ -1,0 +1,27 @@
+{
+    "id": "place.11785325907285120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellarano",
+    "place_name": "Castellarano, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.653526,
+        44.468833,
+        10.764326,
+        44.57074
+    ],
+    "center": [
+        10.73389,
+        44.51389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73389,
+            44.51389
+        ]
+    }
+}

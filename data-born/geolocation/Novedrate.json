@@ -1,0 +1,27 @@
+{
+    "id": "place.6730477760215110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novedrate",
+    "place_name": "Novedrate, Como, Italy",
+    "bbox": [
+        9.116903,
+        45.68974,
+        9.150401,
+        45.708786
+    ],
+    "center": [
+        9.1207,
+        45.6981
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1207,
+            45.6981
+        ]
+    }
+}

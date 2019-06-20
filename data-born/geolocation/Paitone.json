@@ -1,0 +1,27 @@
+{
+    "id": "place.9630939371509850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paitone",
+    "place_name": "Paitone, Brescia, Italy",
+    "bbox": [
+        10.381772,
+        45.546274,
+        10.414536,
+        45.593097
+    ],
+    "center": [
+        10.4,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4,
+            45.55
+        ]
+    }
+}

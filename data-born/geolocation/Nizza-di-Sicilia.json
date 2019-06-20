@@ -1,0 +1,27 @@
+{
+    "id": "place.3670531016034170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nizza di Sicilia",
+    "place_name": "Nizza di Sicilia, Messina, Italy",
+    "bbox": [
+        15.319417,
+        37.983314,
+        15.417287,
+        38.047702
+    ],
+    "center": [
+        15.41278,
+        37.99472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.41278,
+            37.99472
+        ]
+    }
+}

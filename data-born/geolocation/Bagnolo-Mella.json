@@ -1,0 +1,21 @@
+{
+    "id": "poi.2783138834126",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Stazione Bagnolo Mella",
+    "place_name": "Stazione Bagnolo Mella, Viale Stazione, Bagnolo Mella, Brescia 25021, Italy",
+    "center": [
+        10.18545675,
+        45.428464875
+    ],
+    "geometry": {
+        "coordinates": [
+            10.18545675,
+            45.428464875
+        ],
+        "type": "Point"
+    }
+}

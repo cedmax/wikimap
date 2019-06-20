@@ -1,0 +1,21 @@
+{
+    "id": "poi.2860448267047",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Dolceacqua",
+    "place_name": "Dolceacqua, via Giacomo Pala, 4, Olbia, Olbia-Tempio 07026, Italy",
+    "center": [
+        9.499262,
+        40.924301
+    ],
+    "geometry": {
+        "coordinates": [
+            9.499262,
+            40.924301
+        ],
+        "type": "Point"
+    }
+}

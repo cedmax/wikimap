@@ -1,0 +1,27 @@
+{
+    "id": "place.15886336422404170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bianco",
+    "place_name": "Bianco, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.099362,
+        38.022998,
+        16.159501,
+        38.113424
+    ],
+    "center": [
+        16.15,
+        38.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            38.08333
+        ]
+    }
+}

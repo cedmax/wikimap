@@ -1,0 +1,29 @@
+{
+    "id": "place.14168279513470610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Valdaora - Olang",
+    "place_name": "Valdaora - Olang, Bolzano, Italy",
+    "matching_text": "Valdaora",
+    "matching_place_name": "Valdaora, Bolzano, Italy",
+    "bbox": [
+        11.957786,
+        46.704279,
+        12.083896,
+        46.775234
+    ],
+    "center": [
+        12.03333,
+        46.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            46.76667
+        ]
+    }
+}

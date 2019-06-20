@@ -1,0 +1,27 @@
+{
+    "id": "place.13225601395071300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lodi Vecchio",
+    "place_name": "Lodi Vecchio, Lodi, Italy",
+    "bbox": [
+        9.376781,
+        45.278529,
+        9.455474,
+        45.322867
+    ],
+    "center": [
+        9.41861,
+        45.30333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41861,
+            45.30333
+        ]
+    }
+}

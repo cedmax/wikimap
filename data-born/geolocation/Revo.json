@@ -1,0 +1,27 @@
+{
+    "id": "place.10459222974168490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Revò",
+    "place_name": "Revò, Trento, Italy",
+    "bbox": [
+        11.032719,
+        46.373358,
+        11.071872,
+        46.449616
+    ],
+    "center": [
+        11.06667,
+        46.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.06667,
+            46.38333
+        ]
+    }
+}

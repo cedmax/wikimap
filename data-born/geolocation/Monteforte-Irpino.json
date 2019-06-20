@@ -1,0 +1,27 @@
+{
+    "id": "place.12279603451190200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteforte Irpino",
+    "place_name": "Monteforte Irpino, Avellino, Italy",
+    "bbox": [
+        14.654296,
+        40.871433,
+        14.768499,
+        40.932019
+    ],
+    "center": [
+        14.71944,
+        40.89278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.71944,
+            40.89278
+        ]
+    }
+}

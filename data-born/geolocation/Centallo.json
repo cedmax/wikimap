@@ -1,0 +1,27 @@
+{
+    "id": "place.9186193914632130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Centallo",
+    "place_name": "Centallo, Cuneo, Italy",
+    "bbox": [
+        7.547867,
+        44.440932,
+        7.643994,
+        44.52983
+    ],
+    "center": [
+        7.58333,
+        44.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.58333,
+            44.5
+        ]
+    }
+}

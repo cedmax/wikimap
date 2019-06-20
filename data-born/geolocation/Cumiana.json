@@ -1,0 +1,27 @@
+{
+    "id": "place.16320133231195010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cumiana",
+    "place_name": "Cumiana, Torino, Italy",
+    "bbox": [
+        7.289447,
+        44.925087,
+        7.473754,
+        45.008144
+    ],
+    "center": [
+        7.36667,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.36667,
+            44.98333
+        ]
+    }
+}

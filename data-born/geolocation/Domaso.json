@@ -1,0 +1,27 @@
+{
+    "id": "place.8606297695082140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Domaso",
+    "place_name": "Domaso, Como, Italy",
+    "bbox": [
+        9.29733,
+        46.133389,
+        9.356329,
+        46.164307
+    ],
+    "center": [
+        9.33333,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            46.15
+        ]
+    }
+}

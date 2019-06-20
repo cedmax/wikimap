@@ -1,0 +1,27 @@
+{
+    "id": "place.5315991390842710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceglie Messapica",
+    "place_name": "Ceglie Messapica, Brindisi, Italy",
+    "bbox": [
+        17.417837,
+        40.594831,
+        17.635321,
+        40.696559
+    ],
+    "center": [
+        17.51667,
+        40.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.51667,
+            40.65
+        ]
+    }
+}

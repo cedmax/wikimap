@@ -1,0 +1,27 @@
+{
+    "id": "place.14530317136854060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montegabbione",
+    "place_name": "Montegabbione, Terni, Italy",
+    "bbox": [
+        12.066963,
+        42.874353,
+        12.178339,
+        42.942785
+    ],
+    "center": [
+        12.08333,
+        42.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08333,
+            42.91667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10497251241393710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Longiano",
+    "place_name": "Longiano, Forli'-Cesena, Italy",
+    "bbox": [
+        12.31034,
+        44.0528,
+        12.373938,
+        44.110713
+    ],
+    "center": [
+        12.33333,
+        44.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33333,
+            44.08333
+        ]
+    }
+}

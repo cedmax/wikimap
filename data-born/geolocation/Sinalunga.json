@@ -1,0 +1,27 @@
+{
+    "id": "place.10554461552095680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sinalunga",
+    "place_name": "Sinalunga, Siena, Italy",
+    "bbox": [
+        11.662007,
+        43.175869,
+        11.843536,
+        43.285684
+    ],
+    "center": [
+        11.73333,
+        43.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.73333,
+            43.21667
+        ]
+    }
+}

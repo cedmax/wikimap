@@ -1,0 +1,27 @@
+{
+    "id": "place.10827406339519630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orciano di Pesaro",
+    "place_name": "Orciano di Pesaro, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.886546,
+        43.677658,
+        13.021727,
+        43.728682
+    ],
+    "center": [
+        12.9655,
+        43.68887
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9655,
+            43.68887
+        ]
+    }
+}

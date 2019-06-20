@@ -1,0 +1,27 @@
+{
+    "id": "place.9876786328749640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pallagorio",
+    "place_name": "Pallagorio, Crotone, Italy",
+    "bbox": [
+        16.838761,
+        39.26514,
+        16.960006,
+        39.359814
+    ],
+    "center": [
+        16.9,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.9,
+            39.3
+        ]
+    }
+}

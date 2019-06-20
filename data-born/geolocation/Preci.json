@@ -1,0 +1,27 @@
+{
+    "id": "place.7275834415792020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Preci",
+    "place_name": "Preci, Perugia, Italy",
+    "bbox": [
+        12.960009,
+        42.814296,
+        13.112749,
+        42.920119
+    ],
+    "center": [
+        13.03333,
+        42.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03333,
+            42.88333
+        ]
+    }
+}

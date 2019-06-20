@@ -1,0 +1,27 @@
+{
+    "id": "place.7790123146052620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comano",
+    "place_name": "Comano, Massa-Carrara, Italy",
+    "bbox": [
+        10.074151,
+        44.268612,
+        10.203749,
+        44.354535
+    ],
+    "center": [
+        10.13333,
+        44.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            44.28333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2491081067147",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Roccastrada",
+    "place_name": "Roccastrada, Roccastrada, Roccastrada, Grosseto 58036, Italy",
+    "center": [
+        11.167721499999999,
+        43.009457999999995
+    ],
+    "geometry": {
+        "coordinates": [
+            11.167721499999999,
+            43.009457999999995
+        ],
+        "type": "Point"
+    }
+}

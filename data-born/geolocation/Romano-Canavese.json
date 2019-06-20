@@ -1,0 +1,27 @@
+{
+    "id": "place.5281299262734310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romano Canavese",
+    "place_name": "Romano Canavese, Torino, Italy",
+    "bbox": [
+        7.849594,
+        45.372399,
+        7.903218,
+        45.426864
+    ],
+    "center": [
+        7.8675,
+        45.38944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.8675,
+            45.38944
+        ]
+    }
+}

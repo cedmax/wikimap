@@ -1,0 +1,21 @@
+{
+    "id": "poi.1915555430091",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Alì Terme",
+    "place_name": "Alì Terme, Alì Terme, Messina 98021, Italy",
+    "center": [
+        15.423116,
+        38.0043705
+    ],
+    "geometry": {
+        "coordinates": [
+            15.423116,
+            38.0043705
+        ],
+        "type": "Point"
+    }
+}

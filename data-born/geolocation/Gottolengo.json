@@ -1,0 +1,27 @@
+{
+    "id": "place.4551979540921050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gottolengo",
+    "place_name": "Gottolengo, Brescia, Italy",
+    "bbox": [
+        10.235467,
+        45.26503,
+        10.310052,
+        45.353037
+    ],
+    "center": [
+        10.2734,
+        45.2928
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.2734,
+            45.2928
+        ]
+    }
+}

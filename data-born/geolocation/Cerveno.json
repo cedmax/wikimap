@@ -1,0 +1,27 @@
+{
+    "id": "place.6024626937634720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerveno",
+    "place_name": "Cerveno, Brescia, Italy",
+    "bbox": [
+        10.225856,
+        45.970146,
+        10.343887,
+        46.056792
+    ],
+    "center": [
+        10.32667,
+        46.00333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.32667,
+            46.00333
+        ]
+    }
+}

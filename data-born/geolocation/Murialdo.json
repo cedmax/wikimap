@@ -1,0 +1,27 @@
+{
+    "id": "place.19267703017814920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Murialdo",
+    "place_name": "Murialdo, Savona, Italy",
+    "bbox": [
+        8.092927,
+        44.267719,
+        8.199749,
+        44.335299
+    ],
+    "center": [
+        8.16131,
+        44.31617
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16131,
+            44.31617
+        ]
+    }
+}

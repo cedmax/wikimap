@@ -1,0 +1,27 @@
+{
+    "id": "place.6396361181060680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lendinara",
+    "place_name": "Lendinara, Rovigo, Italy",
+    "bbox": [
+        11.516094,
+        45.036794,
+        11.647869,
+        45.124385
+    ],
+    "center": [
+        11.60056,
+        45.085
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.60056,
+            45.085
+        ]
+    }
+}

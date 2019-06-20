@@ -1,0 +1,21 @@
+{
+    "id": "poi.816043787780",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Conzano",
+    "place_name": "Conzano, Conzano, Alessandria 15030, Italy",
+    "center": [
+        8.4553815,
+        45.020480750000004
+    ],
+    "geometry": {
+        "coordinates": [
+            8.4553815,
+            45.020480750000004
+        ],
+        "type": "Point"
+    }
+}

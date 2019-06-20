@@ -1,0 +1,27 @@
+{
+    "id": "place.11425737404326950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Uscio",
+    "place_name": "Uscio, Genova, Italy",
+    "bbox": [
+        9.130013,
+        44.398751,
+        9.184243,
+        44.438654
+    ],
+    "center": [
+        9.16296,
+        44.4132
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16296,
+            44.4132
+        ]
+    }
+}

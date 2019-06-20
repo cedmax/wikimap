@@ -1,0 +1,27 @@
+{
+    "id": "place.10775057933278440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caraffa di Catanzaro",
+    "place_name": "Caraffa di Catanzaro, Catanzaro, Italy",
+    "bbox": [
+        16.44696,
+        38.855108,
+        16.563054,
+        38.902826
+    ],
+    "center": [
+        16.48333,
+        38.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.48333,
+            38.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13508816031667400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belvedere di Spinello",
+    "place_name": "Belvedere di Spinello, Crotone, Italy",
+    "bbox": [
+        16.869904,
+        39.173618,
+        16.965183,
+        39.242414
+    ],
+    "center": [
+        16.89233,
+        39.20674
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.89233,
+            39.20674
+        ]
+    }
+}

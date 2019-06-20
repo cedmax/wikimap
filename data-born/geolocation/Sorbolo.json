@@ -1,0 +1,27 @@
+{
+    "id": "place.17349730421296400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorbolo",
+    "place_name": "Sorbolo, Parma, Italy",
+    "bbox": [
+        10.383189,
+        44.819276,
+        10.490308,
+        44.911146
+    ],
+    "center": [
+        10.45,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.45,
+            44.85
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13376614706711620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gioiosa Ionica",
+    "place_name": "Gioiosa Ionica, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.280732,
+        38.312042,
+        16.353034,
+        38.402664
+    ],
+    "center": [
+        16.3,
+        38.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            38.33333
+        ]
+    }
+}

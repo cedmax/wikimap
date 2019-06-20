@@ -1,0 +1,21 @@
+{
+    "id": "poi.3281355088208",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "La Valle",
+    "place_name": "La Valle, Via Ca' Tommasini, Coriano, Rimini 47853, Italy",
+    "center": [
+        12.613808,
+        43.980167
+    ],
+    "geometry": {
+        "coordinates": [
+            12.613808,
+            43.980167
+        ],
+        "type": "Point"
+    }
+}

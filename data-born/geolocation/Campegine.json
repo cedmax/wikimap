@@ -1,0 +1,27 @@
+{
+    "id": "place.15938556110252380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campegine",
+    "place_name": "Campegine, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.483085,
+        44.756735,
+        10.576299,
+        44.799376
+    ],
+    "center": [
+        10.53278,
+        44.78444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.53278,
+            44.78444
+        ]
+    }
+}

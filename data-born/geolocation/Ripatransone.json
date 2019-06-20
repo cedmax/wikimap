@@ -1,0 +1,27 @@
+{
+    "id": "place.11359675735234120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ripatransone",
+    "place_name": "Ripatransone, Ascoli Piceno, Italy",
+    "bbox": [
+        13.684035,
+        42.940552,
+        13.829561,
+        43.035184
+    ],
+    "center": [
+        13.76249,
+        43.00022
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76249,
+            43.00022
+        ]
+    }
+}

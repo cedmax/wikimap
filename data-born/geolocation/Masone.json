@@ -1,0 +1,27 @@
+{
+    "id": "place.13726009467810890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Masone",
+    "place_name": "Masone, Genova, Italy",
+    "bbox": [
+        8.663274,
+        44.479455,
+        8.773985,
+        44.530012
+    ],
+    "center": [
+        8.71195,
+        44.50356
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71195,
+            44.50356
+        ]
+    }
+}

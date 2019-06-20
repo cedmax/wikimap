@@ -1,0 +1,29 @@
+{
+    "id": "place.12412789237739530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Sarentino - Sarntal",
+    "place_name": "Sarentino - Sarntal, Bolzano, Italy",
+    "matching_text": "Sarentino",
+    "matching_place_name": "Sarentino, Bolzano, Italy",
+    "bbox": [
+        11.272896,
+        46.568894,
+        11.51231,
+        46.820344
+    ],
+    "center": [
+        11.35624,
+        46.64351
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.35624,
+            46.64351
+        ]
+    }
+}

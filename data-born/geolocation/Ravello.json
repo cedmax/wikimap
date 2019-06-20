@@ -1,0 +1,27 @@
+{
+    "id": "place.13893526491297690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ravello",
+    "place_name": "Ravello, Salerno, Italy",
+    "bbox": [
+        14.576368,
+        40.636341,
+        14.62566,
+        40.690151
+    ],
+    "center": [
+        14.61667,
+        40.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61667,
+            40.65
+        ]
+    }
+}

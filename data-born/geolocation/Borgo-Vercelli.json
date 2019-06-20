@@ -1,0 +1,27 @@
+{
+    "id": "place.12066419200399850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Vercelli",
+    "place_name": "Borgo Vercelli, Vercelli, Italy",
+    "bbox": [
+        8.421019,
+        45.334899,
+        8.499644,
+        45.384301
+    ],
+    "center": [
+        8.46667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            45.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18140988746684890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallicano",
+    "place_name": "Gallicano, Lucca, Italy",
+    "bbox": [
+        10.387266,
+        44.014685,
+        10.494143,
+        44.074062
+    ],
+    "center": [
+        10.43333,
+        44.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            44.06667
+        ]
+    }
+}

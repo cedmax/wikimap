@@ -1,0 +1,27 @@
+{
+    "id": "place.12240340486585280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grancona",
+    "place_name": "Grancona, Vicenza, Italy",
+    "bbox": [
+        11.436937,
+        45.395004,
+        11.485465,
+        45.445482
+    ],
+    "center": [
+        11.45,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.41667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11184881430715430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quinto di Treviso",
+    "place_name": "Quinto di Treviso, Treviso, Italy",
+    "bbox": [
+        12.119279,
+        45.614446,
+        12.192569,
+        45.66984
+    ],
+    "center": [
+        12.16667,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.16667,
+            45.65
+        ]
+    }
+}

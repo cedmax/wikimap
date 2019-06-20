@@ -1,0 +1,27 @@
+{
+    "id": "place.7270267423280120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponti sul Mincio",
+    "place_name": "Ponti sul Mincio, Mantova, Italy",
+    "bbox": [
+        10.654307,
+        45.39089,
+        10.71839,
+        45.428334
+    ],
+    "center": [
+        10.7,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7,
+            45.38333
+        ]
+    }
+}

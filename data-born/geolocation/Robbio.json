@@ -1,0 +1,27 @@
+{
+    "id": "place.11926207751540210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Robbio",
+    "place_name": "Robbio, Pavia, Italy",
+    "bbox": [
+        8.55908,
+        45.269205,
+        8.663353,
+        45.338547
+    ],
+    "center": [
+        8.59222,
+        45.29139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.59222,
+            45.29139
+        ]
+    }
+}

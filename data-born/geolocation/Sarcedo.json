@@ -1,0 +1,27 @@
+{
+    "id": "place.14993777634133800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarcedo",
+    "place_name": "Sarcedo, Vicenza, Italy",
+    "bbox": [
+        11.494784,
+        45.654524,
+        11.55153,
+        45.723111
+    ],
+    "center": [
+        11.53333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.7
+        ]
+    }
+}

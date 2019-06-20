@@ -1,0 +1,27 @@
+{
+    "id": "place.13036522934873480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivolta d'Adda",
+    "place_name": "Rivolta d'Adda, Cremona, Italy",
+    "bbox": [
+        9.480344,
+        45.418625,
+        9.550021,
+        45.504309
+    ],
+    "center": [
+        9.51667,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.51667,
+            45.46667
+        ]
+    }
+}

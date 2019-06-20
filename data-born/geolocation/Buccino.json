@@ -1,0 +1,27 @@
+{
+    "id": "place.3397787299189580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buccino",
+    "place_name": "Buccino, Salerno, Italy",
+    "bbox": [
+        15.307306,
+        40.576105,
+        15.426671,
+        40.711195
+    ],
+    "center": [
+        15.38333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38333,
+            40.63333
+        ]
+    }
+}

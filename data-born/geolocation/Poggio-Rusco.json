@@ -1,0 +1,27 @@
+{
+    "id": "place.10518828018334380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio Rusco",
+    "place_name": "Poggio Rusco, Mantova, Italy",
+    "bbox": [
+        11.089015,
+        44.933184,
+        11.216172,
+        44.994835
+    ],
+    "center": [
+        11.11917,
+        44.9775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11917,
+            44.9775
+        ]
+    }
+}

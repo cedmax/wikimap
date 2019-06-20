@@ -1,0 +1,29 @@
+{
+    "id": "place.12696729598067480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Silandro - Schlanders",
+    "place_name": "Silandro - Schlanders, Bolzano, Italy",
+    "matching_text": "Silandro",
+    "matching_place_name": "Silandro, Bolzano, Italy",
+    "bbox": [
+        10.693874,
+        46.562314,
+        10.833092,
+        46.7284
+    ],
+    "center": [
+        10.78333,
+        46.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.78333,
+            46.63333
+        ]
+    }
+}

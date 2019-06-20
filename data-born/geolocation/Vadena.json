@@ -1,0 +1,29 @@
+{
+    "id": "place.8590791047904490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vadena - Pfatten",
+    "place_name": "Vadena - Pfatten, Bolzano, Italy",
+    "matching_text": "Vadena",
+    "matching_place_name": "Vadena, Bolzano, Italy",
+    "bbox": [
+        11.260285,
+        46.346176,
+        11.325622,
+        46.44872
+    ],
+    "center": [
+        11.3,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3,
+            46.41667
+        ]
+    }
+}

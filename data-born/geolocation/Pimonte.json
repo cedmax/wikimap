@@ -1,0 +1,27 @@
+{
+    "id": "place.10465933084741680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pimonte",
+    "place_name": "Pimonte, Napoli, Italy",
+    "bbox": [
+        14.49026,
+        40.645533,
+        14.555632,
+        40.687552
+    ],
+    "center": [
+        14.5125,
+        40.67361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5125,
+            40.67361
+        ]
+    }
+}

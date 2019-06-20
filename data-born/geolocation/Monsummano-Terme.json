@@ -1,0 +1,27 @@
+{
+    "id": "place.17783008061545210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monsummano Terme",
+    "place_name": "Monsummano Terme, Pistoia, Italy",
+    "bbox": [
+        10.790614,
+        43.817769,
+        10.87215,
+        43.890293
+    ],
+    "center": [
+        10.81667,
+        43.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            43.86667
+        ]
+    }
+}

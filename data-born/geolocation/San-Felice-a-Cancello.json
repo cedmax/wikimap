@@ -1,0 +1,27 @@
+{
+    "id": "place.3933805697226040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Felice a Cancello",
+    "place_name": "San Felice a Cancello, Caserta, Italy",
+    "bbox": [
+        14.405234,
+        40.980728,
+        14.534103,
+        41.024969
+    ],
+    "center": [
+        14.42083,
+        40.99333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.42083,
+            40.99333
+        ]
+    }
+}

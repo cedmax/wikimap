@@ -1,0 +1,27 @@
+{
+    "id": "place.3360413090433680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mombaroccio",
+    "place_name": "Mombaroccio, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.821714,
+        43.777273,
+        12.911889,
+        43.835818
+    ],
+    "center": [
+        12.85513,
+        43.79693
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.85513,
+            43.79693
+        ]
+    }
+}

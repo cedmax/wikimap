@@ -1,0 +1,27 @@
+{
+    "id": "place.6154236435249440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valenza",
+    "place_name": "Valenza, Alessandria, Italy",
+    "bbox": [
+        8.555858,
+        44.973151,
+        8.705683,
+        45.063285
+    ],
+    "center": [
+        8.6425,
+        45.015
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.6425,
+            45.015
+        ]
+    }
+}

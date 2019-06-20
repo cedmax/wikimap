@@ -1,0 +1,27 @@
+{
+    "id": "place.8311108716186820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spadafora",
+    "place_name": "Spadafora, Messina, Italy",
+    "bbox": [
+        15.371422,
+        38.179312,
+        15.411688,
+        38.229404
+    ],
+    "center": [
+        15.38333,
+        38.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38333,
+            38.23333
+        ]
+    }
+}

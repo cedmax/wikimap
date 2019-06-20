@@ -1,0 +1,27 @@
+{
+    "id": "place.8116454072956570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montopoli di Sabina",
+    "place_name": "Montopoli di Sabina, Rieti, Italy",
+    "bbox": [
+        12.608724,
+        42.169188,
+        12.72441,
+        42.284884
+    ],
+    "center": [
+        12.68333,
+        42.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68333,
+            42.25
+        ]
+    }
+}

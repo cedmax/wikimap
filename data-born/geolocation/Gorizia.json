@@ -1,0 +1,27 @@
+{
+    "id": "place.9157895507118530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gorizia",
+    "place_name": "Gorizia, Gorizia, Italy",
+    "bbox": [
+        13.548503,
+        45.906406,
+        13.643075,
+        45.989101
+    ],
+    "center": [
+        13.6193,
+        45.9352
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6193,
+            45.9352
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4639250483828860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scorrano",
+    "place_name": "Scorrano, Lecce, Italy",
+    "bbox": [
+        18.23226,
+        40.039239,
+        18.323166,
+        40.11244
+    ],
+    "center": [
+        18.3,
+        40.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.3,
+            40.1
+        ]
+    }
+}

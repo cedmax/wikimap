@@ -1,0 +1,27 @@
+{
+    "id": "place.10814012117944210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Toscolano-Maderno",
+    "place_name": "Toscolano-Maderno, Brescia, Italy",
+    "bbox": [
+        10.532268,
+        45.610295,
+        10.675872,
+        45.701823
+    ],
+    "center": [
+        10.6076,
+        45.63977
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6076,
+            45.63977
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16231410451032760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Maurizio Canavese",
+    "place_name": "San Maurizio Canavese, Torino, Italy",
+    "bbox": [
+        7.593515,
+        45.180486,
+        7.68798,
+        45.229965
+    ],
+    "center": [
+        7.63052,
+        45.21705
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.63052,
+            45.21705
+        ]
+    }
+}

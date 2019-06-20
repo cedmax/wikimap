@@ -1,0 +1,27 @@
+{
+    "id": "place.6334754804975530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maruggio",
+    "place_name": "Maruggio, Taranto, Italy",
+    "bbox": [
+        17.502299,
+        40.294515,
+        17.61047,
+        40.360289
+    ],
+    "center": [
+        17.57361,
+        40.32278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.57361,
+            40.32278
+        ]
+    }
+}

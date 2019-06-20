@@ -1,0 +1,27 @@
+{
+    "id": "place.11494673990616270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosolini",
+    "place_name": "Rosolini, Siracusa, Italy",
+    "bbox": [
+        14.836242,
+        36.798054,
+        14.978703,
+        36.975937
+    ],
+    "center": [
+        14.95,
+        36.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.95,
+            36.81667
+        ]
+    }
+}

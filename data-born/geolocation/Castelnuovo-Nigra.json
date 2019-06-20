@@ -1,0 +1,27 @@
+{
+    "id": "place.5733514233577160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Nigra",
+    "place_name": "Castelnuovo Nigra, Torino, Italy",
+    "bbox": [
+        7.636418,
+        45.409719,
+        7.720917,
+        45.504514
+    ],
+    "center": [
+        7.7,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7,
+            45.43333
+        ]
+    }
+}

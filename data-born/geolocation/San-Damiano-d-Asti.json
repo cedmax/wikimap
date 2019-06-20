@@ -1,0 +1,27 @@
+{
+    "id": "place.705693485588140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Damiano d'Asti",
+    "place_name": "San Damiano d'Asti, Asti, Italy",
+    "bbox": [
+        8.004731,
+        44.799668,
+        8.102324,
+        44.893818
+    ],
+    "center": [
+        8.06472,
+        44.83444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06472,
+            44.83444
+        ]
+    }
+}

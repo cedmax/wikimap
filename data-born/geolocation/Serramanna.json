@@ -1,0 +1,27 @@
+{
+    "id": "place.10504482983840920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serramanna",
+    "place_name": "Serramanna, Medio Campidano, Italy",
+    "bbox": [
+        8.826286,
+        39.397737,
+        8.978757,
+        39.485247
+    ],
+    "center": [
+        8.92167,
+        39.42278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.92167,
+            39.42278
+        ]
+    }
+}

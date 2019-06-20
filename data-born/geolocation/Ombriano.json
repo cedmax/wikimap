@@ -1,0 +1,21 @@
+{
+    "id": "address.1417209717",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Ombriano",
+    "place_name": "via Ombriano, 23823 Colico Lecco, Italy",
+    "center": [
+        9.407186,
+        46.138507
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.407186,
+            46.138507
+        ]
+    }
+}

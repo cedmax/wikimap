@@ -1,0 +1,27 @@
+{
+    "id": "place.7290811510157530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nepi",
+    "place_name": "Nepi, Viterbo, Italy",
+    "bbox": [
+        12.271918,
+        42.14534,
+        12.400989,
+        42.296976
+    ],
+    "center": [
+        12.34639,
+        42.24361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.34639,
+            42.24361
+        ]
+    }
+}

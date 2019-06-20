@@ -1,0 +1,27 @@
+{
+    "id": "place.8974073207407510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bresso",
+    "place_name": "Bresso, Milano, Italy",
+    "bbox": [
+        9.179313,
+        45.527149,
+        9.210427,
+        45.546058
+    ],
+    "center": [
+        9.18333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.53333
+        ]
+    }
+}

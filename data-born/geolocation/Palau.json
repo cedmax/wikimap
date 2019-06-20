@@ -1,0 +1,27 @@
+{
+    "id": "place.3080233736225210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palau",
+    "place_name": "Palau, Olbia-Tempio, Italy",
+    "bbox": [
+        9.306599,
+        41.126483,
+        9.424203,
+        41.207253
+    ],
+    "center": [
+        9.38333,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38333,
+            41.18333
+        ]
+    }
+}

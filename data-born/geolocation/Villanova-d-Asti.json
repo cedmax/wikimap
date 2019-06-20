@@ -1,0 +1,27 @@
+{
+    "id": "place.17754306501938040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova d'Asti",
+    "place_name": "Villanova d'Asti, Asti, Italy",
+    "bbox": [
+        7.883205,
+        44.912348,
+        7.994337,
+        44.994154
+    ],
+    "center": [
+        7.93833,
+        44.94278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93833,
+            44.94278
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14168143813185250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cambiago",
+    "place_name": "Cambiago, Milano, Italy",
+    "bbox": [
+        9.391644,
+        45.557594,
+        9.450036,
+        45.586219
+    ],
+    "center": [
+        9.41667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41667,
+            45.56667
+        ]
+    }
+}

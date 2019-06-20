@@ -1,0 +1,27 @@
+{
+    "id": "place.10044647322444900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altissimo",
+    "place_name": "Altissimo, Vicenza, Italy",
+    "bbox": [
+        11.216801,
+        45.589921,
+        11.283644,
+        45.657401
+    ],
+    "center": [
+        11.25083,
+        45.61472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.25083,
+            45.61472
+        ]
+    }
+}

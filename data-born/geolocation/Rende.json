@@ -1,0 +1,27 @@
+{
+    "id": "place.7722099850761740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rende",
+    "place_name": "Rende, Cosenza, Italy",
+    "bbox": [
+        16.13136,
+        39.298805,
+        16.264084,
+        39.401046
+    ],
+    "center": [
+        16.18333,
+        39.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.18333,
+            39.33333
+        ]
+    }
+}

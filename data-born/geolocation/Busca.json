@@ -1,0 +1,27 @@
+{
+    "id": "place.8566916027072510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Busca",
+    "place_name": "Busca, Cuneo, Italy",
+    "bbox": [
+        7.356872,
+        44.462156,
+        7.528796,
+        44.553872
+    ],
+    "center": [
+        7.46667,
+        44.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.46667,
+            44.51667
+        ]
+    }
+}

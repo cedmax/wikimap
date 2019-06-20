@@ -1,0 +1,27 @@
+{
+    "id": "place.14436834303863930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comacchio",
+    "place_name": "Comacchio, Ferrara, Italy",
+    "bbox": [
+        11.958784,
+        44.613544,
+        12.285584,
+        44.820759
+    ],
+    "center": [
+        12.18333,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.18333,
+            44.7
+        ]
+    }
+}

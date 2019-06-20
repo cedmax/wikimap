@@ -1,0 +1,21 @@
+{
+    "id": "poi.2860448286334",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Zugliano",
+    "place_name": "Zugliano, Pozzuolo del Friuli, Udine 33050, Italy",
+    "center": [
+        13.212293,
+        46.017029
+    ],
+    "geometry": {
+        "coordinates": [
+            13.212293,
+            46.017029
+        ],
+        "type": "Point"
+    }
+}

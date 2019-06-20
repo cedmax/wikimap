@@ -1,0 +1,27 @@
+{
+    "id": "place.9567629050536000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valmadrera",
+    "place_name": "Valmadrera, Lecco, Italy",
+    "bbox": [
+        9.317791,
+        45.8344,
+        9.377884,
+        45.870706
+    ],
+    "center": [
+        9.35824,
+        45.84628
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35824,
+            45.84628
+        ]
+    }
+}

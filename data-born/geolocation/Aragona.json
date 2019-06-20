@@ -1,0 +1,27 @@
+{
+    "id": "place.11938738767616390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aragona",
+    "place_name": "Aragona, Agrigento, Italy",
+    "bbox": [
+        13.56001,
+        37.351662,
+        13.663385,
+        37.487105
+    ],
+    "center": [
+        13.61894,
+        37.40738
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.61894,
+            37.40738
+        ]
+    }
+}

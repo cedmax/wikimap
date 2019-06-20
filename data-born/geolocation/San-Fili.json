@@ -1,0 +1,27 @@
+{
+    "id": "place.16210259058838570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Fili",
+    "place_name": "San Fili, Cosenza, Italy",
+    "bbox": [
+        16.096932,
+        39.298021,
+        16.165169,
+        39.361038
+    ],
+    "center": [
+        16.15,
+        39.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            39.33333
+        ]
+    }
+}

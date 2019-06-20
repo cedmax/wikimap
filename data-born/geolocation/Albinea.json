@@ -1,0 +1,27 @@
+{
+    "id": "place.12717215778321680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albinea",
+    "place_name": "Albinea, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.564354,
+        44.569624,
+        10.662817,
+        44.646154
+    ],
+    "center": [
+        10.6,
+        44.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            44.61667
+        ]
+    }
+}

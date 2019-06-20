@@ -1,0 +1,21 @@
+{
+    "id": "poi.3195455694615",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Esino Lario",
+    "place_name": "Esino Lario, Esino Lario, Lecco 23825, Italy",
+    "center": [
+        9.333656999999999,
+        45.994096500000005
+    ],
+    "geometry": {
+        "coordinates": [
+            9.333656999999999,
+            45.994096500000005
+        ],
+        "type": "Point"
+    }
+}

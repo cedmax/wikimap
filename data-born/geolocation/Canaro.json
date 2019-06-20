@@ -1,0 +1,27 @@
+{
+    "id": "place.7567965038737700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canaro",
+    "place_name": "Canaro, Rovigo, Italy",
+    "bbox": [
+        11.631542,
+        44.90714,
+        11.744136,
+        44.974325
+    ],
+    "center": [
+        11.66667,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            44.93333
+        ]
+    }
+}

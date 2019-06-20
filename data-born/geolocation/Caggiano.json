@@ -1,0 +1,27 @@
+{
+    "id": "place.8620081469140280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caggiano",
+    "place_name": "Caggiano, Salerno, Italy",
+    "bbox": [
+        15.441313,
+        40.522078,
+        15.544887,
+        40.59392
+    ],
+    "center": [
+        15.5,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.5,
+            40.56667
+        ]
+    }
+}

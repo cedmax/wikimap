@@ -1,0 +1,27 @@
+{
+    "id": "place.15572813965965820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.475,
+    "text": "Aulla",
+    "place_name": "Aulla, Massa-Carrara, Italy",
+    "bbox": [
+        9.892329,
+        44.162613,
+        10.063398,
+        44.251353
+    ],
+    "center": [
+        9.96667,
+        44.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96667,
+            44.21667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12256123639240030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valsavarenche",
+    "place_name": "Valsavarenche, Valle D'Aosta, Italy",
+    "bbox": [
+        7.137277,
+        45.470903,
+        7.285283,
+        45.652736
+    ],
+    "center": [
+        7.2078,
+        45.5922
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.2078,
+            45.5922
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17609379939180530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bardineto",
+    "place_name": "Bardineto, Savona, Italy",
+    "bbox": [
+        8.087298,
+        44.163417,
+        8.188795,
+        44.216523
+    ],
+    "center": [
+        8.12914,
+        44.19209
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.12914,
+            44.19209
+        ]
+    }
+}

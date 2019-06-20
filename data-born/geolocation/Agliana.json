@@ -1,0 +1,27 @@
+{
+    "id": "place.10393791319848100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agliana",
+    "place_name": "Agliana, Pistoia, Italy",
+    "bbox": [
+        10.978966,
+        43.869694,
+        11.024971,
+        43.921625
+    ],
+    "center": [
+        11,
+        43.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11,
+            43.9
+        ]
+    }
+}

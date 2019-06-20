@@ -1,0 +1,27 @@
+{
+    "id": "place.9493103628612540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cittareale",
+    "place_name": "Cittareale, Rieti, Italy",
+    "bbox": [
+        13.102136,
+        42.537664,
+        13.192794,
+        42.65964
+    ],
+    "center": [
+        13.16667,
+        42.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.16667,
+            42.61667
+        ]
+    }
+}

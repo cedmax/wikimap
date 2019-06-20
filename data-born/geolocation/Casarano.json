@@ -1,0 +1,27 @@
+{
+    "id": "place.3351861319084590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casarano",
+    "place_name": "Casarano, Lecce, Italy",
+    "bbox": [
+        18.12369,
+        39.98055,
+        18.221148,
+        40.063264
+    ],
+    "center": [
+        18.16667,
+        40.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.16667,
+            40.01667
+        ]
+    }
+}

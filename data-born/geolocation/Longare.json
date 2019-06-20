@@ -1,0 +1,21 @@
+{
+    "id": "poi.1520418422919",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Longare",
+    "place_name": "Longare, Longare, Vicenza 36023, Italy",
+    "center": [
+        11.607308,
+        45.4780175
+    ],
+    "geometry": {
+        "coordinates": [
+            11.607308,
+            45.4780175
+        ],
+        "type": "Point"
+    }
+}

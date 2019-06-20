@@ -1,0 +1,21 @@
+{
+    "id": "poi.1932735309270",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Carignano",
+    "place_name": "Carignano, Piazza Carignano, Genova, Genova 16128, Italy",
+    "center": [
+        8.938575499999999,
+        44.401520500000004
+    ],
+    "geometry": {
+        "coordinates": [
+            8.938575499999999,
+            44.401520500000004
+        ],
+        "type": "Point"
+    }
+}

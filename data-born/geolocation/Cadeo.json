@@ -1,0 +1,27 @@
+{
+    "id": "place.889249780306870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cadeo",
+    "place_name": "Cadeo, Piacenza, Italy",
+    "bbox": [
+        9.808634,
+        44.933225,
+        9.900258,
+        45.016556
+    ],
+    "center": [
+        9.83333,
+        44.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.83333,
+            44.96667
+        ]
+    }
+}

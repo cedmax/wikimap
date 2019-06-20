@@ -1,0 +1,21 @@
+{
+    "id": "poi.2723009328771",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9,
+    "text": "Stazione Cavi di Lavagna",
+    "place_name": "Stazione Cavi di Lavagna, Via Aurelia 53, Lavagna, Genova 16033, Italy",
+    "center": [
+        9.372483,
+        44.293503
+    ],
+    "geometry": {
+        "coordinates": [
+            9.372483,
+            44.293503
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12744572449097860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vedelago",
+    "place_name": "Vedelago, Treviso, Italy",
+    "bbox": [
+        11.949952,
+        45.638275,
+        12.077496,
+        45.734174
+    ],
+    "center": [
+        12.01667,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.01667,
+            45.68333
+        ]
+    }
+}

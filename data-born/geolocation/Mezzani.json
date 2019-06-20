@@ -1,0 +1,27 @@
+{
+    "id": "place.9039840077923250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzani",
+    "place_name": "Mezzani, Parma, Italy",
+    "bbox": [
+        10.387715,
+        44.880045,
+        10.502682,
+        44.960033
+    ],
+    "center": [
+        10.43333,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            44.91667
+        ]
+    }
+}

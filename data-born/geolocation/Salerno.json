@@ -1,0 +1,27 @@
+{
+    "id": "place.10857452551327970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salerno",
+    "place_name": "Salerno, Salerno, Italy",
+    "bbox": [
+        14.734356,
+        40.625625,
+        14.874218,
+        40.726927
+    ],
+    "center": [
+        14.75972,
+        40.68056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.75972,
+            40.68056
+        ]
+    }
+}

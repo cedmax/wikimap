@@ -1,0 +1,27 @@
+{
+    "id": "place.10424093849849770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giuliano di Roma",
+    "place_name": "Giuliano di Roma, Frosinone, Italy",
+    "bbox": [
+        13.198529,
+        41.508547,
+        13.305711,
+        41.585302
+    ],
+    "center": [
+        13.28333,
+        41.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.28333,
+            41.53333
+        ]
+    }
+}

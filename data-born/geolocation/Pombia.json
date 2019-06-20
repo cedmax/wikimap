@@ -1,0 +1,27 @@
+{
+    "id": "place.14972629278987790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pombia",
+    "place_name": "Pombia, Novara, Italy",
+    "bbox": [
+        8.60693,
+        45.63211,
+        8.689032,
+        45.66068
+    ],
+    "center": [
+        8.63333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            45.65
+        ]
+    }
+}

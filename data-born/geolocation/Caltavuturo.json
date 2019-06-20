@@ -1,0 +1,27 @@
+{
+    "id": "place.13519968097500520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caltavuturo",
+    "place_name": "Caltavuturo, Palermo, Italy",
+    "bbox": [
+        13.861755,
+        37.702156,
+        13.973445,
+        37.865941
+    ],
+    "center": [
+        13.88333,
+        37.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88333,
+            37.81667
+        ]
+    }
+}

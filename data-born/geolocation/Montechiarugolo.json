@@ -1,0 +1,27 @@
+{
+    "id": "place.7895214298779040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montechiarugolo",
+    "place_name": "Montechiarugolo, Parma, Italy",
+    "bbox": [
+        10.331199,
+        44.665938,
+        10.447752,
+        44.748361
+    ],
+    "center": [
+        10.42242,
+        44.69339
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.42242,
+            44.69339
+        ]
+    }
+}

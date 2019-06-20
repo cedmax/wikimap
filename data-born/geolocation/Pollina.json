@@ -1,0 +1,27 @@
+{
+    "id": "place.13700886101272450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pollina",
+    "place_name": "Pollina, Palermo, Italy",
+    "bbox": [
+        14.056917,
+        37.956184,
+        14.180091,
+        38.029917
+    ],
+    "center": [
+        14.15,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.15,
+            38
+        ]
+    }
+}

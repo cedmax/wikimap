@@ -1,0 +1,27 @@
+{
+    "id": "place.10474503639991400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Liscia",
+    "place_name": "Liscia, Chieti, Italy",
+    "bbox": [
+        14.524259,
+        41.938214,
+        14.580485,
+        41.965426
+    ],
+    "center": [
+        14.55532,
+        41.95524
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55532,
+            41.95524
+        ]
+    }
+}

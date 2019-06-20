@@ -1,0 +1,27 @@
+{
+    "id": "place.4237988301787930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romano d'Ezzelino",
+    "place_name": "Romano d'Ezzelino, Vicenza, Italy",
+    "bbox": [
+        11.733672,
+        45.742585,
+        11.808707,
+        45.845716
+    ],
+    "center": [
+        11.77778,
+        45.77333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.77778,
+            45.77333
+        ]
+    }
+}

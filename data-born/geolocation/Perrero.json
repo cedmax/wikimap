@@ -1,0 +1,27 @@
+{
+    "id": "place.16198062548080480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perrero",
+    "place_name": "Perrero, Torino, Italy",
+    "bbox": [
+        7.075316,
+        44.85952,
+        7.186663,
+        44.976597
+    ],
+    "center": [
+        7.11667,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.11667,
+            44.93333
+        ]
+    }
+}

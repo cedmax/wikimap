@@ -1,0 +1,27 @@
+{
+    "id": "place.19005743628191460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Putifigari",
+    "place_name": "Putifigari, Sassari, Italy",
+    "bbox": [
+        8.391198,
+        40.523256,
+        8.498859,
+        40.620372
+    ],
+    "center": [
+        8.4602,
+        40.56151
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4602,
+            40.56151
+        ]
+    }
+}

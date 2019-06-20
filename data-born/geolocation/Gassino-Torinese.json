@@ -1,0 +1,27 @@
+{
+    "id": "place.8967432308665060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gassino Torinese",
+    "place_name": "Gassino Torinese, Torino, Italy",
+    "bbox": [
+        7.802242,
+        45.077671,
+        7.87431,
+        45.154637
+    ],
+    "center": [
+        7.81667,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.81667,
+            45.13333
+        ]
+    }
+}

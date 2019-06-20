@@ -1,0 +1,27 @@
+{
+    "id": "place.9625286844556160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santhià",
+    "place_name": "Santhià, Vercelli, Italy",
+    "bbox": [
+        8.122815,
+        45.343964,
+        8.273437,
+        45.42881
+    ],
+    "center": [
+        8.16667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16667,
+            45.36667
+        ]
+    }
+}

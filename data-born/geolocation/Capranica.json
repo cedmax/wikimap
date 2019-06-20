@@ -1,0 +1,21 @@
+{
+    "id": "poi.1735166854261",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Capranica",
+    "place_name": "Capranica, Via in Aquiro, 104, Roma, Roma 00186, Italy",
+    "center": [
+        12.477855,
+        41.900107
+    ],
+    "geometry": {
+        "coordinates": [
+            12.477855,
+            41.900107
+        ],
+        "type": "Point"
+    }
+}

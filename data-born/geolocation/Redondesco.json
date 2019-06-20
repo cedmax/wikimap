@@ -1,0 +1,27 @@
+{
+    "id": "place.13857052772904020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Redondesco",
+    "place_name": "Redondesco, Mantova, Italy",
+    "bbox": [
+        10.487256,
+        45.145738,
+        10.551314,
+        45.207035
+    ],
+    "center": [
+        10.51667,
+        45.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51667,
+            45.16667
+        ]
+    }
+}

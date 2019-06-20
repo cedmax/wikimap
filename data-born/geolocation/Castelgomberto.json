@@ -1,0 +1,27 @@
+{
+    "id": "place.6517575468858090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelgomberto",
+    "place_name": "Castelgomberto, Vicenza, Italy",
+    "bbox": [
+        11.37643,
+        45.558627,
+        11.427532,
+        45.616842
+    ],
+    "center": [
+        11.4,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4,
+            45.58333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9184331629495320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mele",
+    "place_name": "Mele, Genova, Italy",
+    "bbox": [
+        8.707551,
+        44.442162,
+        8.784291,
+        44.489467
+    ],
+    "center": [
+        8.74794,
+        44.4455
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.74794,
+            44.4455
+        ]
+    }
+}

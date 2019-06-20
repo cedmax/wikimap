@@ -1,0 +1,27 @@
+{
+    "id": "place.11491623759961690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francolise",
+    "place_name": "Francolise, Caserta, Italy",
+    "bbox": [
+        14.016414,
+        41.108141,
+        14.098502,
+        41.215618
+    ],
+    "center": [
+        14.05,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.05,
+            41.18333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4224914365759700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sospiro",
+    "place_name": "Sospiro, Cremona, Italy",
+    "bbox": [
+        10.122409,
+        45.076726,
+        10.19839,
+        45.137639
+    ],
+    "center": [
+        10.15,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.15,
+            45.1
+        ]
+    }
+}

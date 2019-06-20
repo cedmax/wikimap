@@ -1,0 +1,27 @@
+{
+    "id": "place.8365198845212690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campochiaro",
+    "place_name": "Campochiaro, Campobasso, Italy",
+    "bbox": [
+        14.426274,
+        41.403034,
+        14.557377,
+        41.495812
+    ],
+    "center": [
+        14.51667,
+        41.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.51667,
+            41.45
+        ]
+    }
+}

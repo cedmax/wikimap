@@ -1,0 +1,27 @@
+{
+    "id": "place.16989559205884950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusano di San Domenico",
+    "place_name": "Chiusano di San Domenico, Avellino, Italy",
+    "bbox": [
+        14.897252,
+        40.898039,
+        14.972642,
+        40.961167
+    ],
+    "center": [
+        14.91722,
+        40.93417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91722,
+            40.93417
+        ]
+    }
+}

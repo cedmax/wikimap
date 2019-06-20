@@ -1,0 +1,27 @@
+{
+    "id": "place.11120959467184990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiavenna",
+    "place_name": "Chiavenna, Sondrio, Italy",
+    "bbox": [
+        9.373601,
+        46.303192,
+        9.437608,
+        46.356275
+    ],
+    "center": [
+        9.4,
+        46.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            46.31667
+        ]
+    }
+}

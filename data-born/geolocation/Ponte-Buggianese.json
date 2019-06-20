@@ -1,0 +1,27 @@
+{
+    "id": "place.4224359444143060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte Buggianese",
+    "place_name": "Ponte Buggianese, Pistoia, Italy",
+    "bbox": [
+        10.726226,
+        43.798683,
+        10.816016,
+        43.860762
+    ],
+    "center": [
+        10.7475,
+        43.84083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7475,
+            43.84083
+        ]
+    }
+}

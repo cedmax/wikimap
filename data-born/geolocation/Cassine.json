@@ -1,0 +1,27 @@
+{
+    "id": "place.15145207698710860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassine",
+    "place_name": "Cassine, Alessandria, Italy",
+    "bbox": [
+        8.482185,
+        44.712028,
+        8.569266,
+        44.795671
+    ],
+    "center": [
+        8.52889,
+        44.75083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.52889,
+            44.75083
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1662106959204310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Salvatore Monferrato",
+    "place_name": "San Salvatore Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.516368,
+        44.973615,
+        8.600252,
+        45.033344
+    ],
+    "center": [
+        8.56694,
+        44.995
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56694,
+            44.995
+        ]
+    }
+}

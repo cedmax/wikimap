@@ -1,0 +1,27 @@
+{
+    "id": "place.6681387271862500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Antimo",
+    "place_name": "Sant'Antimo, Napoli, Italy",
+    "bbox": [
+        14.214471,
+        40.928534,
+        14.252342,
+        40.958737
+    ],
+    "center": [
+        14.23476,
+        40.94223
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.23476,
+            40.94223
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12523823737431490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Refrontolo",
+    "place_name": "Refrontolo, Treviso, Italy",
+    "bbox": [
+        12.189854,
+        45.878637,
+        12.235383,
+        45.945101
+    ],
+    "center": [
+        12.2,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2,
+            45.91667
+        ]
+    }
+}

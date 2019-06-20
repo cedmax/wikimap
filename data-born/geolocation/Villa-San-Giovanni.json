@@ -1,0 +1,27 @@
+{
+    "id": "place.4694449990985440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa San Giovanni",
+    "place_name": "Villa San Giovanni, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.628536,
+        38.201939,
+        15.718408,
+        38.248052
+    ],
+    "center": [
+        15.63333,
+        38.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.63333,
+            38.21667
+        ]
+    }
+}

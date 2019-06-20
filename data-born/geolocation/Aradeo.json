@@ -1,0 +1,27 @@
+{
+    "id": "place.7144370321106800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aradeo",
+    "place_name": "Aradeo, Lecce, Italy",
+    "bbox": [
+        18.117077,
+        40.110578,
+        18.154366,
+        40.159744
+    ],
+    "center": [
+        18.13333,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.13333,
+            40.13333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1512086892784810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piove di Sacco",
+    "place_name": "Piove di Sacco, Padova, Italy",
+    "bbox": [
+        12.003727,
+        45.254016,
+        12.11393,
+        45.332877
+    ],
+    "center": [
+        12.03778,
+        45.29833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03778,
+            45.29833
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7046646653684110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Apricena",
+    "place_name": "Apricena, Foggia, Italy",
+    "bbox": [
+        15.307537,
+        41.696774,
+        15.562928,
+        41.849879
+    ],
+    "center": [
+        15.43333,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.43333,
+            41.76667
+        ]
+    }
+}

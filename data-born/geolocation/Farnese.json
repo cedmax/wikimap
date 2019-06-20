@@ -1,0 +1,27 @@
+{
+    "id": "place.14340682348289290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Farnese",
+    "place_name": "Farnese, Viterbo, Italy",
+    "bbox": [
+        11.665777,
+        42.521262,
+        11.777629,
+        42.61087
+    ],
+    "center": [
+        11.72639,
+        42.55028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.72639,
+            42.55028
+        ]
+    }
+}

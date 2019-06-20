@@ -1,0 +1,21 @@
+{
+    "id": "poi.2963527481471",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Colì",
+    "place_name": "Colì, Cutrofiano, Lecce 73020, Italy",
+    "center": [
+        18.209843,
+        40.140309
+    ],
+    "geometry": {
+        "coordinates": [
+            18.209843,
+            40.140309
+        ],
+        "type": "Point"
+    }
+}

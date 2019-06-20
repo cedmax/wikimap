@@ -1,0 +1,27 @@
+{
+    "id": "place.6739491737938720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mulazzo",
+    "place_name": "Mulazzo, Massa-Carrara, Italy",
+    "bbox": [
+        9.813317,
+        44.251535,
+        9.954071,
+        44.340202
+    ],
+    "center": [
+        9.89056,
+        44.31694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.89056,
+            44.31694
+        ]
+    }
+}

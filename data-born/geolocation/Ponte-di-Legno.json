@@ -1,0 +1,27 @@
+{
+    "id": "place.11835237571655020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte di Legno",
+    "place_name": "Ponte di Legno, Brescia, Italy",
+    "bbox": [
+        10.432328,
+        46.182767,
+        10.586023,
+        46.354805
+    ],
+    "center": [
+        10.50944,
+        46.25944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.50944,
+            46.25944
+        ]
+    }
+}

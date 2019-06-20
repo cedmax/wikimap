@@ -1,0 +1,27 @@
+{
+    "id": "place.2081778752884130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Padula",
+    "place_name": "Padula, Salerno, Italy",
+    "bbox": [
+        15.605095,
+        40.280802,
+        15.721,
+        40.397951
+    ],
+    "center": [
+        15.66667,
+        40.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.66667,
+            40.33333
+        ]
+    }
+}

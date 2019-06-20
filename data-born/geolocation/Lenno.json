@@ -1,0 +1,21 @@
+{
+    "id": "poi.1305670058016",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.95,
+    "text": "Tenno",
+    "place_name": "Tenno, Tenno, Trento 38060, Italy",
+    "center": [
+        10.8320615,
+        45.9189135
+    ],
+    "geometry": {
+        "coordinates": [
+            10.8320615,
+            45.9189135
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4404785160669640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giugliano in Campania",
+    "place_name": "Giugliano in Campania, Napoli, Italy",
+    "bbox": [
+        14.020714,
+        40.87246,
+        14.223332,
+        40.97914
+    ],
+    "center": [
+        14.19557,
+        40.93188
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.19557,
+            40.93188
+        ]
+    }
+}

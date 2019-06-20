@@ -1,0 +1,27 @@
+{
+    "id": "place.4103287235556120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moimacco",
+    "place_name": "Moimacco, Udine, Italy",
+    "bbox": [
+        13.335291,
+        46.076339,
+        13.405741,
+        46.110897
+    ],
+    "center": [
+        13.38333,
+        46.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38333,
+            46.1
+        ]
+    }
+}

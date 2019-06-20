@@ -1,0 +1,27 @@
+{
+    "id": "place.15385545960145540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novara di Sicilia",
+    "place_name": "Novara di Sicilia, Messina, Italy",
+    "bbox": [
+        15.084615,
+        37.971978,
+        15.169239,
+        38.073983
+    ],
+    "center": [
+        15.13333,
+        38.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.13333,
+            38.01667
+        ]
+    }
+}

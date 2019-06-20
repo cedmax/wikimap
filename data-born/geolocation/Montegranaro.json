@@ -1,0 +1,27 @@
+{
+    "id": "place.15621073456758350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montegranaro",
+    "place_name": "Montegranaro, Fermo, Italy",
+    "bbox": [
+        13.596119,
+        43.200184,
+        13.660091,
+        43.273272
+    ],
+    "center": [
+        13.6322,
+        43.23322
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6322,
+            43.23322
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8221128347476740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camerata Cornello",
+    "place_name": "Camerata Cornello, Bergamo, Italy",
+    "bbox": [
+        9.614575,
+        45.891898,
+        9.667635,
+        45.936449
+    ],
+    "center": [
+        9.65,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65,
+            45.9
+        ]
+    }
+}

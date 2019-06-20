@@ -1,0 +1,27 @@
+{
+    "id": "place.18273886731736110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crodo",
+    "place_name": "Crodo, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.193165,
+        46.194247,
+        8.389572,
+        46.292484
+    ],
+    "center": [
+        8.32417,
+        46.2225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.32417,
+            46.2225
+        ]
+    }
+}

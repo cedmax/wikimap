@@ -1,0 +1,21 @@
+{
+    "id": "address.1567775281",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Bolzaneto",
+    "place_name": "via Bolzaneto, 16162 Genova Genova, Italy",
+    "center": [
+        8.902632,
+        44.458008
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.902632,
+            44.458008
+        ]
+    }
+}

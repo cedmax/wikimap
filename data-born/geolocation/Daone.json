@@ -1,0 +1,29 @@
+{
+    "id": "place.10373872994249050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdaone",
+    "place_name": "Valdaone, Trento, Italy",
+    "matching_text": "Daone",
+    "matching_place_name": "Daone, Trento, Italy",
+    "bbox": [
+        10.45212,
+        45.924283,
+        10.658526,
+        46.148712
+    ],
+    "center": [
+        10.61667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.61667,
+            45.95
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9688426771888280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laurino",
+    "place_name": "Laurino, Salerno, Italy",
+    "bbox": [
+        15.274645,
+        40.228891,
+        15.422238,
+        40.397881
+    ],
+    "center": [
+        15.33333,
+        40.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.33333,
+            40.33333
+        ]
+    }
+}

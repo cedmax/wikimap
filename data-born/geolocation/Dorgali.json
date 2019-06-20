@@ -1,0 +1,27 @@
+{
+    "id": "place.8913822166543340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dorgali",
+    "place_name": "Dorgali, Nuoro, Italy",
+    "bbox": [
+        9.411414,
+        40.18635,
+        9.677724,
+        40.403531
+    ],
+    "center": [
+        9.58333,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58333,
+            40.3
+        ]
+    }
+}

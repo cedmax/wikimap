@@ -1,0 +1,27 @@
+{
+    "id": "place.8518941707005760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lomello",
+    "place_name": "Lomello, Pavia, Italy",
+    "bbox": [
+        8.752091,
+        45.091583,
+        8.833097,
+        45.150124
+    ],
+    "center": [
+        8.7973,
+        45.122
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7973,
+            45.122
+        ]
+    }
+}

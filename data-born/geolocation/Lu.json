@@ -1,0 +1,27 @@
+{
+    "id": "place.7894920903383000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lu",
+    "place_name": "Lu, Alessandria, Italy",
+    "bbox": [
+        8.451514,
+        44.978452,
+        8.527434,
+        45.042452
+    ],
+    "center": [
+        8.48583,
+        45.0025
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48583,
+            45.0025
+        ]
+    }
+}

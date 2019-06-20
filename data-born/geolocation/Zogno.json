@@ -1,0 +1,27 @@
+{
+    "id": "place.5590992989754510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zogno",
+    "place_name": "Zogno, Bergamo, Italy",
+    "bbox": [
+        9.624594,
+        45.763747,
+        9.731315,
+        45.829243
+    ],
+    "center": [
+        9.66556,
+        45.79389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.66556,
+            45.79389
+        ]
+    }
+}

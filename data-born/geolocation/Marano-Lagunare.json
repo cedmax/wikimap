@@ -1,0 +1,27 @@
+{
+    "id": "place.11978462544751250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marano Lagunare",
+    "place_name": "Marano Lagunare, Udine, Italy",
+    "bbox": [
+        13.064381,
+        45.690101,
+        13.255402,
+        45.772443
+    ],
+    "center": [
+        13.16667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.16667,
+            45.76667
+        ]
+    }
+}

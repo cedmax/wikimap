@@ -1,0 +1,27 @@
+{
+    "id": "place.17259711352398420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dolianova",
+    "place_name": "Dolianova, Cagliari, Italy",
+    "bbox": [
+        9.1311,
+        39.342659,
+        9.281285,
+        39.468693
+    ],
+    "center": [
+        9.18333,
+        39.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            39.38333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17324894058143700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre Pallavicina",
+    "place_name": "Torre Pallavicina, Bergamo, Italy",
+    "bbox": [
+        9.82775,
+        45.428106,
+        9.890473,
+        45.465952
+    ],
+    "center": [
+        9.86667,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            45.45
+        ]
+    }
+}

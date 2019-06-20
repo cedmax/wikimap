@@ -1,0 +1,27 @@
+{
+    "id": "place.5272325281637140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rodi Garganico",
+    "place_name": "Rodi Garganico, Foggia, Italy",
+    "bbox": [
+        15.819043,
+        41.90851,
+        15.933679,
+        41.934431
+    ],
+    "center": [
+        15.876361,
+        41.9214705
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.876361,
+            41.9214705
+        ]
+    }
+}

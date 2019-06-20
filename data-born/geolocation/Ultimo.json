@@ -1,0 +1,21 @@
+{
+    "id": "poi.2619930116771",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ultimo",
+    "place_name": "Ultimo, Via Carlo Cattaneo 7, Varese, Varese 21100, Italy",
+    "center": [
+        8.825649,
+        45.821049
+    ],
+    "geometry": {
+        "coordinates": [
+            8.825649,
+            45.821049
+        ],
+        "type": "Point"
+    }
+}

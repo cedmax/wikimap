@@ -1,0 +1,27 @@
+{
+    "id": "place.9348431535210080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Prospero",
+    "place_name": "San Prospero, Modena, Italy",
+    "bbox": [
+        10.98262,
+        44.749119,
+        11.0866,
+        44.82416
+    ],
+    "center": [
+        11.0221,
+        44.78967
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.0221,
+            44.78967
+        ]
+    }
+}

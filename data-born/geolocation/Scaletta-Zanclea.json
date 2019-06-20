@@ -1,0 +1,27 @@
+{
+    "id": "place.11635603991418760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scaletta Zanclea",
+    "place_name": "Scaletta Zanclea, Messina, Italy",
+    "bbox": [
+        15.438894,
+        38.038913,
+        15.477461,
+        38.065079
+    ],
+    "center": [
+        15.46278,
+        38.04472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.46278,
+            38.04472
+        ]
+    }
+}

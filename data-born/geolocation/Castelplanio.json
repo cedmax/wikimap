@@ -1,0 +1,27 @@
+{
+    "id": "place.11702918049119840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelplanio",
+    "place_name": "Castelplanio, Ancona, Italy",
+    "bbox": [
+        13.067175,
+        43.478226,
+        13.149853,
+        43.539823
+    ],
+    "center": [
+        13.08094,
+        43.49448
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08094,
+            43.49448
+        ]
+    }
+}

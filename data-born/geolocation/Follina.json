@@ -1,0 +1,27 @@
+{
+    "id": "place.15985823027660740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Follina",
+    "place_name": "Follina, Treviso, Italy",
+    "bbox": [
+        12.090639,
+        45.919285,
+        12.169219,
+        46.003742
+    ],
+    "center": [
+        12.11667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            45.95
+        ]
+    }
+}

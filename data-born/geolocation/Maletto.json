@@ -1,0 +1,27 @@
+{
+    "id": "place.14635598609603840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maletto",
+    "place_name": "Maletto, Catania, Italy",
+    "bbox": [
+        14.852108,
+        37.751751,
+        14.994247,
+        37.846858
+    ],
+    "center": [
+        14.86667,
+        37.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86667,
+            37.83333
+        ]
+    }
+}

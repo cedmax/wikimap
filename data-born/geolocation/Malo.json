@@ -1,0 +1,27 @@
+{
+    "id": "place.16014400542199430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Malo",
+    "place_name": "Malo, Vicenza, Italy",
+    "bbox": [
+        11.381169,
+        45.615804,
+        11.478974,
+        45.684738
+    ],
+    "center": [
+        11.41667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.41667,
+            45.66667
+        ]
+    }
+}

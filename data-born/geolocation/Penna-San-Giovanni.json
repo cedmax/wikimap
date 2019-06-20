@@ -1,0 +1,27 @@
+{
+    "id": "place.16290516964204460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Penna San Giovanni",
+    "place_name": "Penna San Giovanni, Macerata, Italy",
+    "bbox": [
+        13.378681,
+        43.032219,
+        13.484223,
+        43.084745
+    ],
+    "center": [
+        13.42325,
+        43.05597
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.42325,
+            43.05597
+        ]
+    }
+}

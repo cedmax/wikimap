@@ -1,0 +1,27 @@
+{
+    "id": "place.12841843678854330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orsara Bormida",
+    "place_name": "Orsara Bormida, Alessandria, Italy",
+    "bbox": [
+        8.548728,
+        44.673458,
+        8.579689,
+        44.70221
+    ],
+    "center": [
+        8.5625,
+        44.69028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.5625,
+            44.69028
+        ]
+    }
+}

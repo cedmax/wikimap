@@ -1,0 +1,27 @@
+{
+    "id": "place.7122912347743850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valbrevenna",
+    "place_name": "Valbrevenna, Genova, Italy",
+    "bbox": [
+        9.018049,
+        44.530532,
+        9.153179,
+        44.581815
+    ],
+    "center": [
+        9.06558,
+        44.55664
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06558,
+            44.55664
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5025632866905420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brancaleone",
+    "place_name": "Brancaleone, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.033838,
+        37.925441,
+        16.116418,
+        38.007426
+    ],
+    "center": [
+        16.10111,
+        37.96389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.10111,
+            37.96389
+        ]
+    }
+}

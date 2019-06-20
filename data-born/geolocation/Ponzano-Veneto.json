@@ -1,0 +1,27 @@
+{
+    "id": "place.8689444074834590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponzano Veneto",
+    "place_name": "Ponzano Veneto, Treviso, Italy",
+    "bbox": [
+        12.147362,
+        45.698907,
+        12.239531,
+        45.745168
+    ],
+    "center": [
+        12.21667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21667,
+            45.71667
+        ]
+    }
+}

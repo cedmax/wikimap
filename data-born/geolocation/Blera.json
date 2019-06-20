@@ -1,0 +1,23 @@
+{
+    "id": "poi.3143916099753",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "diocesi di Blera",
+    "place_name": "diocesi di Blera, Blera, Viterbo 01010, Italy",
+    "matching_text": "Blera",
+    "matching_place_name": "Blera, Blera, Viterbo 01010, Italy",
+    "center": [
+        12.025638,
+        42.2752875
+    ],
+    "geometry": {
+        "coordinates": [
+            12.025638,
+            42.2752875
+        ],
+        "type": "Point"
+    }
+}

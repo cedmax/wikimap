@@ -1,0 +1,21 @@
+{
+    "id": "poi.2156073615808",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Varese Ligure",
+    "place_name": "Varese Ligure, Varese Ligure, La Spezia 19028, Italy",
+    "center": [
+        9.594034749999999,
+        44.3769725
+    ],
+    "geometry": {
+        "coordinates": [
+            9.594034749999999,
+            44.3769725
+        ],
+        "type": "Point"
+    }
+}

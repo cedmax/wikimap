@@ -1,0 +1,27 @@
+{
+    "id": "place.11292395994879150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Giberto",
+    "place_name": "Monte Giberto, Fermo, Italy",
+    "bbox": [
+        13.59597,
+        43.074331,
+        13.653326,
+        43.121664
+    ],
+    "center": [
+        13.6308,
+        43.0913
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6308,
+            43.0913
+        ]
+    }
+}

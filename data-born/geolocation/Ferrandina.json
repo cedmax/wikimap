@@ -1,0 +1,27 @@
+{
+    "id": "place.6929762467712790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ferrandina",
+    "place_name": "Ferrandina, Matera, Italy",
+    "bbox": [
+        16.339058,
+        40.378528,
+        16.530238,
+        40.583941
+    ],
+    "center": [
+        16.45,
+        40.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.45,
+            40.5
+        ]
+    }
+}

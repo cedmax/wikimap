@@ -1,0 +1,27 @@
+{
+    "id": "place.8252470779482010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Antignano",
+    "place_name": "Antignano, Asti, Italy",
+    "bbox": [
+        8.101786,
+        44.822248,
+        8.180738,
+        44.8532
+    ],
+    "center": [
+        8.13611,
+        44.84639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.13611,
+            44.84639
+        ]
+    }
+}

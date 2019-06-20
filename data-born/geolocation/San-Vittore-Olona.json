@@ -1,0 +1,27 @@
+{
+    "id": "place.9151230947772320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vittore Olona",
+    "place_name": "San Vittore Olona, Milano, Italy",
+    "bbox": [
+        8.927297,
+        45.571563,
+        8.964214,
+        45.59384
+    ],
+    "center": [
+        8.93333,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45.58333
+        ]
+    }
+}

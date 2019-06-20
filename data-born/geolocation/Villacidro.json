@@ -1,0 +1,27 @@
+{
+    "id": "place.9522952361331880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villacidro",
+    "place_name": "Villacidro, Medio Campidano, Italy",
+    "bbox": [
+        8.61731,
+        39.37493,
+        8.833498,
+        39.514869
+    ],
+    "center": [
+        8.73333,
+        39.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            39.45
+        ]
+    }
+}

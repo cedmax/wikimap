@@ -1,0 +1,27 @@
+{
+    "id": "place.15461238683350220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avella",
+    "place_name": "Avella, Avellino, Italy",
+    "bbox": [
+        14.573567,
+        40.934026,
+        14.681045,
+        41.004658
+    ],
+    "center": [
+        14.60139,
+        40.96
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.60139,
+            40.96
+        ]
+    }
+}

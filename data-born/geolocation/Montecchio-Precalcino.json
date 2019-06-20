@@ -1,0 +1,27 @@
+{
+    "id": "place.9172338528176100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecchio Precalcino",
+    "place_name": "Montecchio Precalcino, Vicenza, Italy",
+    "bbox": [
+        11.512894,
+        45.648784,
+        11.578828,
+        45.689745
+    ],
+    "center": [
+        11.56667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            45.66667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9821202938800820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Coreno Ausonio",
+    "place_name": "Coreno Ausonio, Frosinone, Italy",
+    "bbox": [
+        13.75207,
+        41.30181,
+        13.823004,
+        41.372758
+    ],
+    "center": [
+        13.77667,
+        41.34306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.77667,
+            41.34306
+        ]
+    }
+}

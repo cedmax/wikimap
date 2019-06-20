@@ -1,0 +1,27 @@
+{
+    "id": "place.12298186605744960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Besnate",
+    "place_name": "Besnate, Varese, Italy",
+    "bbox": [
+        8.742025,
+        45.68463,
+        8.780956,
+        45.718143
+    ],
+    "center": [
+        8.76667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            45.7
+        ]
+    }
+}

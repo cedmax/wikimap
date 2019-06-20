@@ -1,0 +1,27 @@
+{
+    "id": "place.8996092662835850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agerola",
+    "place_name": "Agerola, Napoli, Italy",
+    "bbox": [
+        14.509637,
+        40.620751,
+        14.580323,
+        40.671912
+    ],
+    "center": [
+        14.55,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            40.63333
+        ]
+    }
+}

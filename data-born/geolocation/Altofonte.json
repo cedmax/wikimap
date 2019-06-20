@@ -1,0 +1,27 @@
+{
+    "id": "place.12895859029232680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altofonte",
+    "place_name": "Altofonte, Palermo, Italy",
+    "bbox": [
+        13.269773,
+        37.992127,
+        13.359184,
+        38.066902
+    ],
+    "center": [
+        13.3,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.3,
+            38.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14689883750036860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpignano Sesia",
+    "place_name": "Carpignano Sesia, Novara, Italy",
+    "bbox": [
+        8.397591,
+        45.515087,
+        8.449307,
+        45.568663
+    ],
+    "center": [
+        8.43333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43333,
+            45.53333
+        ]
+    }
+}

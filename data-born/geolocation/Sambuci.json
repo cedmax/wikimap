@@ -1,0 +1,27 @@
+{
+    "id": "place.7339480800431150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sambuci",
+    "place_name": "Sambuci, Roma, Italy",
+    "bbox": [
+        12.910669,
+        41.969188,
+        12.962725,
+        42.011613
+    ],
+    "center": [
+        12.93333,
+        41.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            41.98333
+        ]
+    }
+}

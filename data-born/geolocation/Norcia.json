@@ -1,0 +1,27 @@
+{
+    "id": "place.11183242879371860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Norcia",
+    "place_name": "Norcia, Perugia, Italy",
+    "bbox": [
+        12.948402,
+        42.653766,
+        13.263429,
+        42.889113
+    ],
+    "center": [
+        13.09389,
+        42.79333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.09389,
+            42.79333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13592218938416910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peveragno",
+    "place_name": "Peveragno, Cuneo, Italy",
+    "bbox": [
+        7.577213,
+        44.240124,
+        7.658708,
+        44.378814
+    ],
+    "center": [
+        7.61667,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61667,
+            44.33333
+        ]
+    }
+}

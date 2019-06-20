@@ -1,0 +1,27 @@
+{
+    "id": "place.18046755395375700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vito d'Asio",
+    "place_name": "Vito d'Asio, Pordenone, Italy",
+    "bbox": [
+        12.90226,
+        46.209024,
+        12.990241,
+        46.346371
+    ],
+    "center": [
+        12.93333,
+        46.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            46.23333
+        ]
+    }
+}

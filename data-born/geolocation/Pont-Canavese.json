@@ -1,0 +1,27 @@
+{
+    "id": "place.7307473336952820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pont-Canavese",
+    "place_name": "Pont-Canavese, Torino, Italy",
+    "bbox": [
+        7.541751,
+        45.409035,
+        7.631323,
+        45.464302
+    ],
+    "center": [
+        7.6,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6,
+            45.41667
+        ]
+    }
+}

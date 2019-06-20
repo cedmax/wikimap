@@ -1,0 +1,27 @@
+{
+    "id": "place.8339533376181110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Linguaglossa",
+    "place_name": "Linguaglossa, Catania, Italy",
+    "bbox": [
+        15.008396,
+        37.764564,
+        15.174998,
+        37.868812
+    ],
+    "center": [
+        15.14194,
+        37.84278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.14194,
+            37.84278
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10244799875553450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Atessa",
+    "place_name": "Atessa, Chieti, Italy",
+    "bbox": [
+        14.356919,
+        41.983784,
+        14.5528,
+        42.16092
+    ],
+    "center": [
+        14.45,
+        42.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.45,
+            42.06667
+        ]
+    }
+}

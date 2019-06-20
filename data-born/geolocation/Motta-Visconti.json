@@ -1,0 +1,27 @@
+{
+    "id": "place.6113495039029660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta Visconti",
+    "place_name": "Motta Visconti, Milano, Italy",
+    "bbox": [
+        8.959211,
+        45.264864,
+        9.01923,
+        45.30176
+    ],
+    "center": [
+        9,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            45.28333
+        ]
+    }
+}

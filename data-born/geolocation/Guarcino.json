@@ -1,0 +1,27 @@
+{
+    "id": "place.12683653538545360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guarcino",
+    "place_name": "Guarcino, Frosinone, Italy",
+    "bbox": [
+        13.254751,
+        41.769212,
+        13.372084,
+        41.84326
+    ],
+    "center": [
+        13.31667,
+        41.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31667,
+            41.8
+        ]
+    }
+}

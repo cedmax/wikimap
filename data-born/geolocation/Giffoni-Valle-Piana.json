@@ -1,0 +1,27 @@
+{
+    "id": "place.7657961780471860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giffoni Valle Piana",
+    "place_name": "Giffoni Valle Piana, Salerno, Italy",
+    "bbox": [
+        14.867457,
+        40.651535,
+        15.009122,
+        40.810246
+    ],
+    "center": [
+        14.93333,
+        40.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.93333,
+            40.71667
+        ]
+    }
+}

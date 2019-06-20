@@ -1,0 +1,27 @@
+{
+    "id": "place.11616334888980780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bornasco",
+    "place_name": "Bornasco, Pavia, Italy",
+    "bbox": [
+        9.175541,
+        45.236697,
+        9.240621,
+        45.298192
+    ],
+    "center": [
+        9.21667,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            45.26667
+        ]
+    }
+}

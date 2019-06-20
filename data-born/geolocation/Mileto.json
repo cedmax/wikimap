@@ -1,0 +1,27 @@
+{
+    "id": "place.7582366414516690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mileto",
+    "place_name": "Mileto, Vibo Valentia, Italy",
+    "bbox": [
+        16.036947,
+        38.543991,
+        16.138876,
+        38.622423
+    ],
+    "center": [
+        16.06667,
+        38.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.06667,
+            38.61667
+        ]
+    }
+}

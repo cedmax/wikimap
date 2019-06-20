@@ -1,0 +1,27 @@
+{
+    "id": "place.3865425618064610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Faedis",
+    "place_name": "Faedis, Udine, Italy",
+    "bbox": [
+        13.315389,
+        46.10964,
+        13.423265,
+        46.214655
+    ],
+    "center": [
+        13.35,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.35,
+            46.15
+        ]
+    }
+}

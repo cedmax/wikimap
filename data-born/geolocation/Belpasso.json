@@ -1,0 +1,27 @@
+{
+    "id": "place.6099757530972420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belpasso",
+    "place_name": "Belpasso, Catania, Italy",
+    "bbox": [
+        14.842302,
+        37.405779,
+        15.018695,
+        37.751751
+    ],
+    "center": [
+        14.98333,
+        37.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.98333,
+            37.58333
+        ]
+    }
+}

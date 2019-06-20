@@ -1,0 +1,27 @@
+{
+    "id": "place.16742675111382380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Songavazzo",
+    "place_name": "Songavazzo, Bergamo, Italy",
+    "bbox": [
+        9.979579,
+        45.84969,
+        10.087846,
+        45.890143
+    ],
+    "center": [
+        9.98333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            45.88333
+        ]
+    }
+}

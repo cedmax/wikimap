@@ -1,0 +1,27 @@
+{
+    "id": "place.5947971774815140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canale d'Agordo",
+    "place_name": "Canale d'Agordo, Belluno, Italy",
+    "bbox": [
+        11.826677,
+        46.269892,
+        11.932802,
+        46.401882
+    ],
+    "center": [
+        11.91444,
+        46.36056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91444,
+            46.36056
+        ]
+    }
+}

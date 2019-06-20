@@ -1,0 +1,27 @@
+{
+    "id": "place.14793969135287700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Filippo del Mela",
+    "place_name": "San Filippo del Mela, Messina, Italy",
+    "bbox": [
+        15.254241,
+        38.161747,
+        15.293698,
+        38.207388
+    ],
+    "center": [
+        15.26667,
+        38.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            38.16667
+        ]
+    }
+}

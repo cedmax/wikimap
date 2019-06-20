@@ -1,0 +1,21 @@
+{
+    "id": "poi.2637109931576",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Salussola",
+    "place_name": "Salussola, Salussola, Biella 13885, Italy",
+    "center": [
+        8.1116955,
+        45.446642499999996
+    ],
+    "geometry": {
+        "coordinates": [
+            8.1116955,
+            45.446642499999996
+        ],
+        "type": "Point"
+    }
+}

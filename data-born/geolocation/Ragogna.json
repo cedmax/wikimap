@@ -1,0 +1,27 @@
+{
+    "id": "place.4760954319507520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ragogna",
+    "place_name": "Ragogna, Udine, Italy",
+    "bbox": [
+        12.946103,
+        46.148693,
+        13.018148,
+        46.205625
+    ],
+    "center": [
+        12.98333,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98333,
+            46.18333
+        ]
+    }
+}

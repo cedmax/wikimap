@@ -1,0 +1,27 @@
+{
+    "id": "place.15536239255367500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salemi",
+    "place_name": "Salemi, Trapani, Italy",
+    "bbox": [
+        12.667213,
+        37.738929,
+        12.88149,
+        37.900326
+    ],
+    "center": [
+        12.8,
+        37.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            37.81667
+        ]
+    }
+}

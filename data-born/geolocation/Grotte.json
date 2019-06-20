@@ -1,0 +1,27 @@
+{
+    "id": "place.7998236052664580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grotte",
+    "place_name": "Grotte, Agrigento, Italy",
+    "bbox": [
+        13.649402,
+        37.375165,
+        13.730579,
+        37.460887
+    ],
+    "center": [
+        13.70111,
+        37.40583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.70111,
+            37.40583
+        ]
+    }
+}

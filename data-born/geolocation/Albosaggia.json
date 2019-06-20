@@ -1,0 +1,27 @@
+{
+    "id": "place.18167221222888230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albosaggia",
+    "place_name": "Albosaggia, Sondrio, Italy",
+    "bbox": [
+        9.82778,
+        46.04905,
+        9.898894,
+        46.16317
+    ],
+    "center": [
+        9.85,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            46.15
+        ]
+    }
+}

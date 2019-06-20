@@ -1,0 +1,27 @@
+{
+    "id": "place.13228058139724230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morfasso",
+    "place_name": "Morfasso, Piacenza, Italy",
+    "bbox": [
+        9.652461,
+        44.671212,
+        9.79818,
+        44.786928
+    ],
+    "center": [
+        9.7,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.7,
+            44.71667
+        ]
+    }
+}

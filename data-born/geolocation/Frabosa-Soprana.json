@@ -1,0 +1,21 @@
+{
+    "id": "poi.68719477081",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Frabosa Soprana",
+    "place_name": "Frabosa Soprana, Frabosa Soprana, Cuneo 12082, Italy",
+    "center": [
+        7.806886,
+        44.287158500000004
+    ],
+    "geometry": {
+        "coordinates": [
+            7.806886,
+            44.287158500000004
+        ],
+        "type": "Point"
+    }
+}

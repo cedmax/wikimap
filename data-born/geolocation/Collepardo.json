@@ -1,0 +1,27 @@
+{
+    "id": "place.10497343768175550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collepardo",
+    "place_name": "Collepardo, Frosinone, Italy",
+    "bbox": [
+        13.356866,
+        41.745461,
+        13.448106,
+        41.798308
+    ],
+    "center": [
+        13.36667,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36667,
+            41.76667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14344984241394850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pattada",
+    "place_name": "Pattada, Sassari, Italy",
+    "bbox": [
+        9.047306,
+        40.511096,
+        9.196143,
+        40.673146
+    ],
+    "center": [
+        9.11,
+        40.58222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11,
+            40.58222
+        ]
+    }
+}

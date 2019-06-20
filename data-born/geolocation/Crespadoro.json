@@ -1,0 +1,27 @@
+{
+    "id": "place.7272204594748210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crespadoro",
+    "place_name": "Crespadoro, Vicenza, Italy",
+    "bbox": [
+        11.138922,
+        45.608843,
+        11.233799,
+        45.695752
+    ],
+    "center": [
+        11.22611,
+        45.61917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.22611,
+            45.61917
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8665954744118860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta Santa Lucia",
+    "place_name": "Motta Santa Lucia, Cosenza, Italy",
+    "bbox": [
+        16.251608,
+        39.042501,
+        16.35051,
+        39.112244
+    ],
+    "center": [
+        16.3,
+        39.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            39.1
+        ]
+    }
+}

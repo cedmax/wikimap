@@ -1,0 +1,27 @@
+{
+    "id": "place.9939341762607410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Telve",
+    "place_name": "Telve, Trento, Italy",
+    "bbox": [
+        11.371854,
+        46.056106,
+        11.527538,
+        46.185656
+    ],
+    "center": [
+        11.48333,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48333,
+            46.06667
+        ]
+    }
+}

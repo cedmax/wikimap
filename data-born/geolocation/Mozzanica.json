@@ -1,0 +1,27 @@
+{
+    "id": "place.8776737822229360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mozzanica",
+    "place_name": "Mozzanica, Bergamo, Italy",
+    "bbox": [
+        9.671433,
+        45.44111,
+        9.716333,
+        45.493711
+    ],
+    "center": [
+        9.69222,
+        45.47639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.69222,
+            45.47639
+        ]
+    }
+}

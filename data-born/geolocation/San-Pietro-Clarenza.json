@@ -1,0 +1,27 @@
+{
+    "id": "place.4815638340984780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro Clarenza",
+    "place_name": "San Pietro Clarenza, Catania, Italy",
+    "bbox": [
+        15.010061,
+        37.54918,
+        15.038094,
+        37.583423
+    ],
+    "center": [
+        15.01667,
+        37.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            37.56667
+        ]
+    }
+}

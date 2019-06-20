@@ -1,0 +1,27 @@
+{
+    "id": "place.14818012443065540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cisternino",
+    "place_name": "Cisternino, Brindisi, Italy",
+    "bbox": [
+        17.350047,
+        40.713359,
+        17.498132,
+        40.799084
+    ],
+    "center": [
+        17.41667,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.41667,
+            40.75
+        ]
+    }
+}

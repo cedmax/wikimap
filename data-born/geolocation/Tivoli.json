@@ -1,0 +1,27 @@
+{
+    "id": "place.13746922461023000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tivoli",
+    "place_name": "Tivoli, Roma, Italy",
+    "bbox": [
+        12.689675,
+        41.916536,
+        12.847794,
+        42.005925
+    ],
+    "center": [
+        12.8,
+        41.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            41.96667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12396012474446810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerenzia",
+    "place_name": "Cerenzia, Crotone, Italy",
+    "bbox": [
+        16.768244,
+        39.232078,
+        16.855715,
+        39.280397
+    ],
+    "center": [
+        16.78333,
+        39.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.25
+        ]
+    }
+}

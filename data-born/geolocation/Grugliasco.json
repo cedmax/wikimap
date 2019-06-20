@@ -1,0 +1,27 @@
+{
+    "id": "place.8020104847362210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grugliasco",
+    "place_name": "Grugliasco, Torino, Italy",
+    "bbox": [
+        7.555011,
+        45.033797,
+        7.625189,
+        45.071051
+    ],
+    "center": [
+        7.57861,
+        45.06889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.57861,
+            45.06889
+        ]
+    }
+}

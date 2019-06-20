@@ -1,0 +1,27 @@
+{
+    "id": "place.14514560770357130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montelupo Fiorentino",
+    "place_name": "Montelupo Fiorentino, Firenze, Italy",
+    "bbox": [
+        10.976425,
+        43.693061,
+        11.068719,
+        43.767705
+    ],
+    "center": [
+        11.01667,
+        43.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            43.73333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17255575061392950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calice al Cornoviglio",
+    "place_name": "Calice al Cornoviglio, La Spezia, Italy",
+    "bbox": [
+        9.798165,
+        44.193419,
+        9.874389,
+        44.281642
+    ],
+    "center": [
+        9.83639,
+        44.24306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.83639,
+            44.24306
+        ]
+    }
+}

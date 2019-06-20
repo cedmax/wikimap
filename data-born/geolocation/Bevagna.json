@@ -1,0 +1,27 @@
+{
+    "id": "place.5811998507317880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bevagna",
+    "place_name": "Bevagna, Perugia, Italy",
+    "bbox": [
+        12.518262,
+        42.899505,
+        12.639856,
+        42.99003
+    ],
+    "center": [
+        12.61667,
+        42.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            42.93333
+        ]
+    }
+}

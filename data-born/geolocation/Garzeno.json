@@ -1,0 +1,27 @@
+{
+    "id": "place.10103855833230710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Garzeno",
+    "place_name": "Garzeno, Como, Italy",
+    "bbox": [
+        9.141809,
+        46.096962,
+        9.259228,
+        46.158871
+    ],
+    "center": [
+        9.25,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.25,
+            46.13333
+        ]
+    }
+}

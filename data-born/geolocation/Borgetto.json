@@ -1,0 +1,27 @@
+{
+    "id": "place.12049416052875070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgetto",
+    "place_name": "Borgetto, Palermo, Italy",
+    "bbox": [
+        13.120906,
+        38.008456,
+        13.199588,
+        38.07597
+    ],
+    "center": [
+        13.15,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.15,
+            38.05
+        ]
+    }
+}

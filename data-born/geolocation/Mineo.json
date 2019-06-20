@@ -1,0 +1,27 @@
+{
+    "id": "place.16544892988629140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mineo",
+    "place_name": "Mineo, Catania, Italy",
+    "bbox": [
+        14.489755,
+        37.205513,
+        14.75693,
+        37.387476
+    ],
+    "center": [
+        14.69106,
+        37.26636
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.69106,
+            37.26636
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17152705732966190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianiga",
+    "place_name": "Pianiga, Venezia, Italy",
+    "bbox": [
+        11.976472,
+        45.429312,
+        12.095054,
+        45.476421
+    ],
+    "center": [
+        12.008,
+        45.4583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.008,
+            45.4583
+        ]
+    }
+}

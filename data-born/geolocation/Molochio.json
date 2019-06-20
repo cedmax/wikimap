@@ -1,0 +1,27 @@
+{
+    "id": "place.2222302130245720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Molochio",
+    "place_name": "Molochio, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.011095,
+        38.257682,
+        16.111127,
+        38.344447
+    ],
+    "center": [
+        16.03333,
+        38.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.03333,
+            38.31667
+        ]
+    }
+}

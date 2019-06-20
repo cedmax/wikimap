@@ -1,0 +1,27 @@
+{
+    "id": "place.7372663055071280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgosatollo",
+    "place_name": "Borgosatollo, Brescia, Italy",
+    "bbox": [
+        10.213327,
+        45.461464,
+        10.260399,
+        45.501592
+    ],
+    "center": [
+        10.24,
+        45.47611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.24,
+            45.47611
+        ]
+    }
+}

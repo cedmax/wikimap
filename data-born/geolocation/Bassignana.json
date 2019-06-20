@@ -1,0 +1,27 @@
+{
+    "id": "place.10015411833626730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bassignana",
+    "place_name": "Bassignana, Alessandria, Italy",
+    "bbox": [
+        8.682277,
+        44.973116,
+        8.817876,
+        45.038717
+    ],
+    "center": [
+        8.73194,
+        45.00222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73194,
+            45.00222
+        ]
+    }
+}

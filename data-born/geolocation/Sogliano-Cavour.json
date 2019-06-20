@@ -1,0 +1,27 @@
+{
+    "id": "place.10651893221159890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sogliano Cavour",
+    "place_name": "Sogliano Cavour, Lecce, Italy",
+    "bbox": [
+        18.182195,
+        40.134976,
+        18.224323,
+        40.158246
+    ],
+    "center": [
+        18.2,
+        40.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.2,
+            40.15
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4484787212088650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Occhieppo Inferiore",
+    "place_name": "Occhieppo Inferiore, Biella, Italy",
+    "bbox": [
+        8.010229,
+        45.528265,
+        8.034618,
+        45.558947
+    ],
+    "center": [
+        8.0224235,
+        45.543606
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.0224235,
+            45.543606
+        ]
+    }
+}

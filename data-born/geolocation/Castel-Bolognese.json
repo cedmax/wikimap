@@ -1,0 +1,27 @@
+{
+    "id": "place.6594550366870150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Bolognese",
+    "place_name": "Castel Bolognese, Ravenna, Italy",
+    "bbox": [
+        11.7362,
+        44.286119,
+        11.848582,
+        44.364249
+    ],
+    "center": [
+        11.8,
+        44.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            44.31667
+        ]
+    }
+}

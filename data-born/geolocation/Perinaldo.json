@@ -1,0 +1,27 @@
+{
+    "id": "place.7119710609278290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perinaldo",
+    "place_name": "Perinaldo, Imperia, Italy",
+    "bbox": [
+        7.647145,
+        43.830512,
+        7.724051,
+        43.880097
+    ],
+    "center": [
+        7.67435,
+        43.86693
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.67435,
+            43.86693
+        ]
+    }
+}

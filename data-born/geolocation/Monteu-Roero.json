@@ -1,0 +1,27 @@
+{
+    "id": "place.14221790531066740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteu Roero",
+    "place_name": "Monteu Roero, Cuneo, Italy",
+    "bbox": [
+        7.849046,
+        44.760647,
+        7.993171,
+        44.829885
+    ],
+    "center": [
+        7.93333,
+        44.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93333,
+            44.78333
+        ]
+    }
+}

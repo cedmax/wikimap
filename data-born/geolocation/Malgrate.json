@@ -1,0 +1,27 @@
+{
+    "id": "place.12951039599326870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Malgrate",
+    "place_name": "Malgrate, Lecco, Italy",
+    "bbox": [
+        9.36736,
+        45.83963,
+        9.392773,
+        45.855637
+    ],
+    "center": [
+        9.4,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.85
+        ]
+    }
+}

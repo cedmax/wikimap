@@ -1,0 +1,27 @@
+{
+    "id": "place.11530097906717640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiamignano",
+    "place_name": "Fiamignano, Rieti, Italy",
+    "bbox": [
+        13.080242,
+        42.228788,
+        13.235058,
+        42.369121
+    ],
+    "center": [
+        13.13333,
+        42.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            42.26667
+        ]
+    }
+}

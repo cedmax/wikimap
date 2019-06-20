@@ -1,0 +1,27 @@
+{
+    "id": "place.4010972211864980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Resana",
+    "place_name": "Resana, Treviso, Italy",
+    "bbox": [
+        11.924134,
+        45.608094,
+        12.015975,
+        45.664117
+    ],
+    "center": [
+        11.95,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95,
+            45.63333
+        ]
+    }
+}

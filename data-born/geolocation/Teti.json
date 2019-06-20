@@ -1,0 +1,27 @@
+{
+    "id": "place.8553723050347790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teti",
+    "place_name": "Teti, Nuoro, Italy",
+    "bbox": [
+        9.047601,
+        40.062218,
+        9.137935,
+        40.160832
+    ],
+    "center": [
+        9.11667,
+        40.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            40.1
+        ]
+    }
+}

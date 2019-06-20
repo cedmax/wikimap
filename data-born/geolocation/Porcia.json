@@ -1,0 +1,27 @@
+{
+    "id": "place.10115992952931560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porcia",
+    "place_name": "Porcia, Pordenone, Italy",
+    "bbox": [
+        12.554065,
+        45.904436,
+        12.647094,
+        45.988517
+    ],
+    "center": [
+        12.61667,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            45.96667
+        ]
+    }
+}

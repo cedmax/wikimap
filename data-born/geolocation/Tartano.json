@@ -1,0 +1,27 @@
+{
+    "id": "place.11049506417857060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tartano",
+    "place_name": "Tartano, Sondrio, Italy",
+    "bbox": [
+        9.64148,
+        46.053944,
+        9.746346,
+        46.152473
+    ],
+    "center": [
+        9.68333,
+        46.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68333,
+            46.11667
+        ]
+    }
+}

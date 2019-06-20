@@ -1,0 +1,27 @@
+{
+    "id": "place.8541739376551720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Veroli",
+    "place_name": "Veroli, Frosinone, Italy",
+    "bbox": [
+        13.363811,
+        41.635862,
+        13.521606,
+        41.803515
+    ],
+    "center": [
+        13.41667,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.41667,
+            41.68333
+        ]
+    }
+}

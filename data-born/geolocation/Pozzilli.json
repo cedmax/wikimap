@@ -1,0 +1,27 @@
+{
+    "id": "place.3263225420666460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzilli",
+    "place_name": "Pozzilli, Isernia, Italy",
+    "bbox": [
+        14.005448,
+        41.483181,
+        14.127183,
+        41.542239
+    ],
+    "center": [
+        14.06667,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.06667,
+            41.51667
+        ]
+    }
+}

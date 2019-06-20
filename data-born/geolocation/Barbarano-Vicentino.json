@@ -1,0 +1,27 @@
+{
+    "id": "place.2837717312645640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barbarano Vicentino",
+    "place_name": "Barbarano Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.507578,
+        45.372877,
+        11.620798,
+        45.444436
+    ],
+    "center": [
+        11.53333,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.41667
+        ]
+    }
+}

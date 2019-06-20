@@ -1,0 +1,27 @@
+{
+    "id": "place.13228922084917030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Leno",
+    "place_name": "Leno, Brescia, Italy",
+    "bbox": [
+        10.163021,
+        45.311472,
+        10.269268,
+        45.410612
+    ],
+    "center": [
+        10.21667,
+        45.37028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21667,
+            45.37028
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12734529212583040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Talmassons",
+    "place_name": "Talmassons, Udine, Italy",
+    "bbox": [
+        13.060769,
+        45.869715,
+        13.166575,
+        45.9497
+    ],
+    "center": [
+        13.11667,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11667,
+            45.93333
+        ]
+    }
+}

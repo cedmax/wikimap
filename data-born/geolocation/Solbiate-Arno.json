@@ -1,0 +1,27 @@
+{
+    "id": "place.3201238699676410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solbiate Arno",
+    "place_name": "Solbiate Arno, Varese, Italy",
+    "bbox": [
+        8.804286,
+        45.707706,
+        8.827726,
+        45.730994
+    ],
+    "center": [
+        8.81667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81667,
+            45.71667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12332662793763250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villadose",
+    "place_name": "Villadose, Rovigo, Italy",
+    "bbox": [
+        11.855355,
+        45.054257,
+        11.967971,
+        45.108537
+    ],
+    "center": [
+        11.9,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9,
+            45.06667
+        ]
+    }
+}

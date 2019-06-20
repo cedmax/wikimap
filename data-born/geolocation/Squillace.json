@@ -1,0 +1,27 @@
+{
+    "id": "place.15364180593174850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Squillace",
+    "place_name": "Squillace, Catanzaro, Italy",
+    "bbox": [
+        16.466965,
+        38.763324,
+        16.586676,
+        38.817269
+    ],
+    "center": [
+        16.51667,
+        38.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.51667,
+            38.78333
+        ]
+    }
+}

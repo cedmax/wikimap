@@ -1,0 +1,27 @@
+{
+    "id": "place.8759628787529290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poirino",
+    "place_name": "Poirino, Torino, Italy",
+    "bbox": [
+        7.786046,
+        44.832792,
+        7.901549,
+        44.95995
+    ],
+    "center": [
+        7.85,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85,
+            44.91667
+        ]
+    }
+}

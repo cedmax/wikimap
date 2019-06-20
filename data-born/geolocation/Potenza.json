@@ -1,0 +1,27 @@
+{
+    "id": "place.1172219322946830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Potenza",
+    "place_name": "Potenza, Potenza, Italy",
+    "bbox": [
+        15.707702,
+        40.578955,
+        15.904019,
+        40.740367
+    ],
+    "center": [
+        15.8,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.8,
+            40.63333
+        ]
+    }
+}

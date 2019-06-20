@@ -1,0 +1,27 @@
+{
+    "id": "place.7592944512281180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colognola ai Colli",
+    "place_name": "Colognola ai Colli, Verona, Italy",
+    "bbox": [
+        11.143506,
+        45.399735,
+        11.232422,
+        45.44778
+    ],
+    "center": [
+        11.2,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            45.43333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10747356903733840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melara",
+    "place_name": "Melara, Rovigo, Italy",
+    "bbox": [
+        11.172878,
+        45.047541,
+        11.234595,
+        45.109362
+    ],
+    "center": [
+        11.2,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            45.06667
+        ]
+    }
+}

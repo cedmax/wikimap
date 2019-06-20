@@ -1,0 +1,27 @@
+{
+    "id": "place.10112037374099290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefalcione",
+    "place_name": "Montefalcione, Avellino, Italy",
+    "bbox": [
+        14.85602,
+        40.946282,
+        14.915517,
+        40.991093
+    ],
+    "center": [
+        14.88472,
+        40.9625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88472,
+            40.9625
+        ]
+    }
+}

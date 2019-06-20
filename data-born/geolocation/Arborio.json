@@ -1,0 +1,27 @@
+{
+    "id": "place.5434784060682840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arborio",
+    "place_name": "Arborio, Vercelli, Italy",
+    "bbox": [
+        8.340303,
+        45.466721,
+        8.414044,
+        45.517339
+    ],
+    "center": [
+        8.38333,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.38333,
+            45.5
+        ]
+    }
+}

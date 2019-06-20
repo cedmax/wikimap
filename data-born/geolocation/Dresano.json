@@ -1,0 +1,27 @@
+{
+    "id": "place.12935352013082230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dresano",
+    "place_name": "Dresano, Milano, Italy",
+    "bbox": [
+        9.350131,
+        45.364559,
+        9.379221,
+        45.387455
+    ],
+    "center": [
+        9.36667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            45.36667
+        ]
+    }
+}

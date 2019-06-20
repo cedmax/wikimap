@@ -1,0 +1,21 @@
+{
+    "id": "poi.94489281639",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Amiternum",
+    "place_name": "Amiternum, SS 80, Pizzoli, L'Aquila 67017, Italy",
+    "center": [
+        13.305767499999998,
+        42.400667
+    ],
+    "geometry": {
+        "coordinates": [
+            13.305767499999998,
+            42.400667
+        ],
+        "type": "Point"
+    }
+}

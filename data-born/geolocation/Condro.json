@@ -1,0 +1,27 @@
+{
+    "id": "place.6423041665250810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Condrò",
+    "place_name": "Condrò, Messina, Italy",
+    "bbox": [
+        15.317325,
+        38.143314,
+        15.346904,
+        38.198351
+    ],
+    "center": [
+        15.33333,
+        38.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.33333,
+            38.16667
+        ]
+    }
+}

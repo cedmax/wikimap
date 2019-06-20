@@ -1,0 +1,27 @@
+{
+    "id": "place.6093503432240020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monticello Conte Otto",
+    "place_name": "Monticello Conte Otto, Vicenza, Italy",
+    "bbox": [
+        11.560742,
+        45.579359,
+        11.600192,
+        45.624073
+    ],
+    "center": [
+        11.58333,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58333,
+            45.6
+        ]
+    }
+}

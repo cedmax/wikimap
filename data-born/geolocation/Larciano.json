@@ -1,0 +1,27 @@
+{
+    "id": "place.1635455976350870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Larciano",
+    "place_name": "Larciano, Pistoia, Italy",
+    "bbox": [
+        10.809802,
+        43.788422,
+        10.906551,
+        43.867554
+    ],
+    "center": [
+        10.88333,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.88333,
+            43.81667
+        ]
+    }
+}

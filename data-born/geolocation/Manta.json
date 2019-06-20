@@ -1,0 +1,21 @@
+{
+    "id": "poi.1030792151753",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Manta",
+    "place_name": "Manta, Via al Castello, 14, Manta, Cuneo 12030, Italy",
+    "center": [
+        7.483718437499999,
+        44.6153126875
+    ],
+    "geometry": {
+        "coordinates": [
+            7.483718437499999,
+            44.6153126875
+        ],
+        "type": "Point"
+    }
+}

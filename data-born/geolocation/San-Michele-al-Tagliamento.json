@@ -1,0 +1,27 @@
+{
+    "id": "place.3680372372361150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Michele al Tagliamento",
+    "place_name": "San Michele al Tagliamento, Venezia, Italy",
+    "bbox": [
+        12.936684,
+        45.624953,
+        13.100119,
+        45.847419
+    ],
+    "center": [
+        12.99528,
+        45.76361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.99528,
+            45.76361
+        ]
+    }
+}

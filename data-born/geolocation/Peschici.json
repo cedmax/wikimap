@@ -1,0 +1,27 @@
+{
+    "id": "place.18380850358108560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peschici",
+    "place_name": "Peschici, Foggia, Italy",
+    "bbox": [
+        15.989738,
+        41.855364,
+        16.094069,
+        41.94995
+    ],
+    "center": [
+        16.01667,
+        41.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.01667,
+            41.95
+        ]
+    }
+}

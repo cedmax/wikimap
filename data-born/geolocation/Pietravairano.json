@@ -1,0 +1,27 @@
+{
+    "id": "place.6828851856872020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietravairano",
+    "place_name": "Pietravairano, Caserta, Italy",
+    "bbox": [
+        14.145164,
+        41.291281,
+        14.23123,
+        41.360576
+    ],
+    "center": [
+        14.16667,
+        41.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.16667,
+            41.33333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.49051752",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Le Castella",
+    "place_name": "via Le Castella, 88841 Isola di Capo Rizzuto Crotone, Italy",
+    "center": [
+        17.089921,
+        38.955775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.089921,
+            38.955775
+        ]
+    }
+}

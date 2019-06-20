@@ -1,0 +1,27 @@
+{
+    "id": "place.12267233804067060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giacomo delle Segnate",
+    "place_name": "San Giacomo delle Segnate, Mantova, Italy",
+    "bbox": [
+        10.966697,
+        44.941903,
+        11.055974,
+        44.991902
+    ],
+    "center": [
+        11.03366,
+        44.97142
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03366,
+            44.97142
+        ]
+    }
+}

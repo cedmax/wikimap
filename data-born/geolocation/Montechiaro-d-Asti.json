@@ -1,0 +1,27 @@
+{
+    "id": "place.13183018182013990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montechiaro d'Asti",
+    "place_name": "Montechiaro d'Asti, Asti, Italy",
+    "bbox": [
+        8.094508,
+        44.985669,
+        8.137321,
+        45.032514
+    ],
+    "center": [
+        8.1125,
+        45.00833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.1125,
+            45.00833
+        ]
+    }
+}

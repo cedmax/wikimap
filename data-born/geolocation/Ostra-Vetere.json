@@ -1,0 +1,27 @@
+{
+    "id": "place.4084404799344880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostra Vetere",
+    "place_name": "Ostra Vetere, Ancona, Italy",
+    "bbox": [
+        13.020918,
+        43.575029,
+        13.119925,
+        43.629772
+    ],
+    "center": [
+        13.05726,
+        43.60371
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.05726,
+            43.60371
+        ]
+    }
+}

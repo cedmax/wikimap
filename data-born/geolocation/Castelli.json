@@ -1,0 +1,27 @@
+{
+    "id": "place.15267069691818090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelli",
+    "place_name": "Castelli, Teramo, Italy",
+    "bbox": [
+        13.680881,
+        42.441419,
+        13.771789,
+        42.528273
+    ],
+    "center": [
+        13.7125,
+        42.48889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7125,
+            42.48889
+        ]
+    }
+}

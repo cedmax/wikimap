@@ -1,0 +1,27 @@
+{
+    "id": "place.17212956270684870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solza",
+    "place_name": "Solza, Bergamo, Italy",
+    "bbox": [
+        9.477124,
+        45.673019,
+        9.5004,
+        45.683252
+    ],
+    "center": [
+        9.48333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.48333,
+            45.68333
+        ]
+    }
+}

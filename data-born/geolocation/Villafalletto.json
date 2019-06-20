@@ -1,0 +1,27 @@
+{
+    "id": "place.10153214651263270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafalletto",
+    "place_name": "Villafalletto, Cuneo, Italy",
+    "bbox": [
+        7.511442,
+        44.521686,
+        7.590089,
+        44.592965
+    ],
+    "center": [
+        7.53333,
+        44.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.53333,
+            44.55
+        ]
+    }
+}

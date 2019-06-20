@@ -1,0 +1,27 @@
+{
+    "id": "place.2085940733525430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Farra d'Alpago",
+    "place_name": "Farra d'Alpago, Belluno, Italy",
+    "bbox": [
+        12.302592,
+        46.05846,
+        12.418267,
+        46.134887
+    ],
+    "center": [
+        12.36667,
+        46.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.36667,
+            46.11667
+        ]
+    }
+}

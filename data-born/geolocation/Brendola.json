@@ -1,0 +1,27 @@
+{
+    "id": "place.10756134132357420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brendola",
+    "place_name": "Brendola, Vicenza, Italy",
+    "bbox": [
+        11.412658,
+        45.43438,
+        11.494902,
+        45.490695
+    ],
+    "center": [
+        11.45,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.46667
+        ]
+    }
+}

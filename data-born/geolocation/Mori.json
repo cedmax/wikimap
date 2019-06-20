@@ -1,0 +1,27 @@
+{
+    "id": "place.10521719410422560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mori",
+    "place_name": "Mori, Trento, Italy",
+    "bbox": [
+        10.895807,
+        45.820845,
+        11.009409,
+        45.898565
+    ],
+    "center": [
+        10.9817,
+        45.8513
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.9817,
+            45.8513
+        ]
+    }
+}

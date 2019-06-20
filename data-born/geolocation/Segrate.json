@@ -1,0 +1,27 @@
+{
+    "id": "place.7192665404316270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Segrate",
+    "place_name": "Segrate, Milano, Italy",
+    "bbox": [
+        9.258424,
+        45.455391,
+        9.313502,
+        45.510014
+    ],
+    "center": [
+        9.29533,
+        45.48997
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.29533,
+            45.48997
+        ]
+    }
+}

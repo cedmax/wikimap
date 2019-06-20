@@ -1,0 +1,27 @@
+{
+    "id": "place.9703616882821990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigo di Fassa",
+    "place_name": "Vigo di Fassa, Trento, Italy",
+    "bbox": [
+        11.592914,
+        46.378231,
+        11.704121,
+        46.438651
+    ],
+    "center": [
+        11.66667,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            46.41667
+        ]
+    }
+}

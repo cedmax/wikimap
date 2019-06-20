@@ -1,0 +1,27 @@
+{
+    "id": "place.6097689270367170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quiliano",
+    "place_name": "Quiliano, Savona, Italy",
+    "bbox": [
+        8.318848,
+        44.253044,
+        8.442128,
+        44.336226
+    ],
+    "center": [
+        8.41031,
+        44.29311
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.41031,
+            44.29311
+        ]
+    }
+}

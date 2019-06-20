@@ -1,0 +1,27 @@
+{
+    "id": "place.5847316780378710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassano all'Ionio",
+    "place_name": "Cassano all'Ionio, Cosenza, Italy",
+    "bbox": [
+        16.28287,
+        39.699503,
+        16.530185,
+        39.817277
+    ],
+    "center": [
+        16.3182,
+        39.783
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3182,
+            39.783
+        ]
+    }
+}

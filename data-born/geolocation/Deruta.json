@@ -1,0 +1,27 @@
+{
+    "id": "place.13976916633315970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Deruta",
+    "place_name": "Deruta, Perugia, Italy",
+    "bbox": [
+        12.362349,
+        42.93008,
+        12.477419,
+        43.023625
+    ],
+    "center": [
+        12.41667,
+        42.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            42.98333
+        ]
+    }
+}

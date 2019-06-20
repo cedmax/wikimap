@@ -1,0 +1,27 @@
+{
+    "id": "place.10948360402566770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cappella Maggiore",
+    "place_name": "Cappella Maggiore, Treviso, Italy",
+    "bbox": [
+        12.32051,
+        45.958471,
+        12.377432,
+        46.001931
+    ],
+    "center": [
+        12.36667,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.36667,
+            45.96667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3155234218996270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sedegliano",
+    "place_name": "Sedegliano, Udine, Italy",
+    "bbox": [
+        12.910129,
+        45.982048,
+        13.021422,
+        46.052171
+    ],
+    "center": [
+        12.97472,
+        46.01389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.97472,
+            46.01389
+        ]
+    }
+}

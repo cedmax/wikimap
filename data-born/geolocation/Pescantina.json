@@ -1,0 +1,27 @@
+{
+    "id": "place.3668280853284470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescantina",
+    "place_name": "Pescantina, Verona, Italy",
+    "bbox": [
+        10.808772,
+        45.468926,
+        10.927911,
+        45.511928
+    ],
+    "center": [
+        10.86667,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.86667,
+            45.48333
+        ]
+    }
+}

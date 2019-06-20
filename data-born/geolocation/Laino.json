@@ -1,0 +1,27 @@
+{
+    "id": "place.10454866276543200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laino",
+    "place_name": "Laino, Como, Italy",
+    "bbox": [
+        9.069463,
+        45.972059,
+        9.135084,
+        45.994218
+    ],
+    "center": [
+        9.08333,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.08333,
+            45.96667
+        ]
+    }
+}

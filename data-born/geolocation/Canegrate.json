@@ -1,0 +1,27 @@
+{
+    "id": "place.5135632895713210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canegrate",
+    "place_name": "Canegrate, Milano, Italy",
+    "bbox": [
+        8.903853,
+        45.548652,
+        8.947502,
+        45.584244
+    ],
+    "center": [
+        8.93333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45.56667
+        ]
+    }
+}

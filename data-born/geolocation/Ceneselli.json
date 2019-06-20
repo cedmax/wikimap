@@ -1,0 +1,27 @@
+{
+    "id": "place.6782794564239060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceneselli",
+    "place_name": "Ceneselli, Rovigo, Italy",
+    "bbox": [
+        11.336831,
+        44.988852,
+        11.430996,
+        45.05712
+    ],
+    "center": [
+        11.36667,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.36667,
+            45.01667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15012386946443800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Ambrogio di Valpolicella",
+    "place_name": "Sant'Ambrogio di Valpolicella, Verona, Italy",
+    "bbox": [
+        10.80342,
+        45.504411,
+        10.869781,
+        45.582535
+    ],
+    "center": [
+        10.83333,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.83333,
+            45.51667
+        ]
+    }
+}

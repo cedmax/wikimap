@@ -1,0 +1,27 @@
+{
+    "id": "place.17265822620506310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecassiano",
+    "place_name": "Montecassiano, Macerata, Italy",
+    "bbox": [
+        13.388053,
+        43.33192,
+        13.484604,
+        43.389429
+    ],
+    "center": [
+        13.43585,
+        43.3637
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43585,
+            43.3637
+        ]
+    }
+}

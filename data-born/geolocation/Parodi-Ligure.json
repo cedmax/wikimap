@@ -1,0 +1,27 @@
+{
+    "id": "place.12210343127511200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parodi Ligure",
+    "place_name": "Parodi Ligure, Alessandria, Italy",
+    "bbox": [
+        8.731335,
+        44.652394,
+        8.790767,
+        44.690734
+    ],
+    "center": [
+        8.75972,
+        44.67083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.75972,
+            44.67083
+        ]
+    }
+}

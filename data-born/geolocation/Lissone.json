@@ -1,0 +1,27 @@
+{
+    "id": "place.8538338807613710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lissone",
+    "place_name": "Lissone, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.220933,
+        45.596424,
+        9.264449,
+        45.642384
+    ],
+    "center": [
+        9.25,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.25,
+            45.61667
+        ]
+    }
+}

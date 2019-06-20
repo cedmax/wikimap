@@ -1,0 +1,27 @@
+{
+    "id": "place.4507352244902940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fasano",
+    "place_name": "Fasano, Brindisi, Italy",
+    "bbox": [
+        17.29606,
+        40.760176,
+        17.515466,
+        40.892068
+    ],
+    "center": [
+        17.36667,
+        40.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.36667,
+            40.83333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4671259541118040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sala Bolognese",
+    "place_name": "Sala Bolognese, Bologna, Italy",
+    "bbox": [
+        11.223635,
+        44.576066,
+        11.323076,
+        44.683476
+    ],
+    "center": [
+        11.27611,
+        44.63028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.27611,
+            44.63028
+        ]
+    }
+}

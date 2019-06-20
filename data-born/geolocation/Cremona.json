@@ -1,0 +1,27 @@
+{
+    "id": "place.5205073070055510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cremona",
+    "place_name": "Cremona, Cremona, Italy",
+    "bbox": [
+        9.942433,
+        45.089379,
+        10.109616,
+        45.183692
+    ],
+    "center": [
+        10.03333,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.03333,
+            45.13333
+        ]
+    }
+}

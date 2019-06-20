@@ -1,0 +1,27 @@
+{
+    "id": "place.14416348163541850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lerici",
+    "place_name": "Lerici, La Spezia, Italy",
+    "bbox": [
+        9.878267,
+        44.047121,
+        9.965896,
+        44.101043
+    ],
+    "center": [
+        9.9111,
+        44.07626
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9111,
+            44.07626
+        ]
+    }
+}

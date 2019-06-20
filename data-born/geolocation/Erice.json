@@ -1,0 +1,27 @@
+{
+    "id": "place.8607825443321610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Erice",
+    "place_name": "Erice, Trapani, Italy",
+    "bbox": [
+        12.53282,
+        37.954877,
+        12.732795,
+        38.070567
+    ],
+    "center": [
+        12.5875,
+        38.0375
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5875,
+            38.0375
+        ]
+    }
+}

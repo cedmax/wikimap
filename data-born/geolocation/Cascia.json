@@ -1,0 +1,27 @@
+{
+    "id": "place.15630007407606510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cascia",
+    "place_name": "Cascia, Perugia, Italy",
+    "bbox": [
+        12.94582,
+        42.622995,
+        13.161717,
+        42.784413
+    ],
+    "center": [
+        13.01667,
+        42.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            42.71667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7652784626303400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rimini",
+    "place_name": "Rimini, Rimini, Italy",
+    "bbox": [
+        12.43911,
+        43.969201,
+        12.632616,
+        44.115426
+    ],
+    "center": [
+        12.5685,
+        44.0595
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5685,
+            44.0595
+        ]
+    }
+}

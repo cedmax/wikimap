@@ -1,0 +1,27 @@
+{
+    "id": "place.4858487981110490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alluvioni Cambiò",
+    "place_name": "Alluvioni Cambiò, Alessandria, Italy",
+    "bbox": [
+        8.725536,
+        44.972625,
+        8.823048,
+        45.015357
+    ],
+    "center": [
+        8.77639,
+        44.99667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.77639,
+            44.99667
+        ]
+    }
+}

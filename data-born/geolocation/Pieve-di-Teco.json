@@ -1,0 +1,27 @@
+{
+    "id": "place.9504947230729280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve di Teco",
+    "place_name": "Pieve di Teco, Imperia, Italy",
+    "bbox": [
+        7.841467,
+        43.997,
+        7.953582,
+        44.103234
+    ],
+    "center": [
+        7.916,
+        44.048
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.916,
+            44.048
+        ]
+    }
+}

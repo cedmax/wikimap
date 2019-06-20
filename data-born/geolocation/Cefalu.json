@@ -1,0 +1,27 @@
+{
+    "id": "place.3804688073963440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cefalù",
+    "place_name": "Cefalù, Palermo, Italy",
+    "bbox": [
+        13.933581,
+        37.946522,
+        14.104465,
+        38.041551
+    ],
+    "center": [
+        14.02206,
+        38.03948
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.02206,
+            38.03948
+        ]
+    }
+}

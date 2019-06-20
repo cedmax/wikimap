@@ -1,0 +1,27 @@
+{
+    "id": "place.4226974751062240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bucchianico",
+    "place_name": "Bucchianico, Chieti, Italy",
+    "bbox": [
+        14.121383,
+        42.26797,
+        14.220886,
+        42.347954
+    ],
+    "center": [
+        14.18056,
+        42.30436
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18056,
+            42.30436
+        ]
+    }
+}

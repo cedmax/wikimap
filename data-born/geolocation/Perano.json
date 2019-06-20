@@ -1,0 +1,27 @@
+{
+    "id": "place.5611417491100300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perano",
+    "place_name": "Perano, Chieti, Italy",
+    "bbox": [
+        14.36535,
+        42.094263,
+        14.419578,
+        42.123228
+    ],
+    "center": [
+        14.4,
+        42.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4,
+            42.1
+        ]
+    }
+}

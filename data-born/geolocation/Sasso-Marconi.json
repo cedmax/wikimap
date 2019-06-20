@@ -1,0 +1,27 @@
+{
+    "id": "place.9243096160408170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sasso Marconi",
+    "place_name": "Sasso Marconi, Bologna, Italy",
+    "bbox": [
+        11.159053,
+        44.334922,
+        11.333377,
+        44.461239
+    ],
+    "center": [
+        11.25,
+        44.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.25,
+            44.4
+        ]
+    }
+}

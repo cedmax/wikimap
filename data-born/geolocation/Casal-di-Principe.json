@@ -1,0 +1,27 @@
+{
+    "id": "place.12865546309415720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casal di Principe",
+    "place_name": "Casal di Principe, Caserta, Italy",
+    "bbox": [
+        14.079239,
+        40.997391,
+        14.149415,
+        41.048916
+    ],
+    "center": [
+        14.13194,
+        41.01083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.13194,
+            41.01083
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "place.12475842272195820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Puegnago sul Garda",
+    "place_name": "Puegnago sul Garda, Brescia, Italy",
+    "matching_text": "Puegnago del Garda",
+    "matching_place_name": "Puegnago del Garda, Brescia, Italy",
+    "bbox": [
+        10.481343,
+        45.554687,
+        10.543414,
+        45.587585
+    ],
+    "center": [
+        10.51,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51,
+            45.56667
+        ]
+    }
+}

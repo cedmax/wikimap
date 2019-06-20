@@ -1,0 +1,27 @@
+{
+    "id": "place.8791125160861660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnoregio",
+    "place_name": "Bagnoregio, Viterbo, Italy",
+    "bbox": [
+        12.010709,
+        42.575763,
+        12.177201,
+        42.649397
+    ],
+    "center": [
+        12.08917,
+        42.63
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08917,
+            42.63
+        ]
+    }
+}

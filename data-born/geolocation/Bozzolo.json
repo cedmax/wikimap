@@ -1,0 +1,27 @@
+{
+    "id": "place.6322607691710190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bozzolo",
+    "place_name": "Bozzolo, Mantova, Italy",
+    "bbox": [
+        10.45707,
+        45.075192,
+        10.517518,
+        45.132499
+    ],
+    "center": [
+        10.48333,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.48333,
+            45.1
+        ]
+    }
+}

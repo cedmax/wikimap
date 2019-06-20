@@ -1,0 +1,27 @@
+{
+    "id": "place.5589528107421470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mandanici",
+    "place_name": "Mandanici, Messina, Italy",
+    "bbox": [
+        15.304469,
+        37.989855,
+        15.351428,
+        38.038252
+    ],
+    "center": [
+        15.31694,
+        38.00333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.31694,
+            38.00333
+        ]
+    }
+}

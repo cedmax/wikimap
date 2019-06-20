@@ -1,0 +1,27 @@
+{
+    "id": "place.15723096759654580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vaiano",
+    "place_name": "Vaiano, Prato, Italy",
+    "bbox": [
+        11.081784,
+        43.914229,
+        11.175446,
+        43.982531
+    ],
+    "center": [
+        11.11667,
+        43.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            43.96667
+        ]
+    }
+}

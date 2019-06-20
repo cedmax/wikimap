@@ -1,0 +1,27 @@
+{
+    "id": "place.5500282216274120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ventotene",
+    "place_name": "Ventotene, Latina, Italy",
+    "bbox": [
+        13.409098,
+        40.78514,
+        13.45904,
+        40.803702
+    ],
+    "center": [
+        13.43333,
+        40.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43333,
+            40.8
+        ]
+    }
+}

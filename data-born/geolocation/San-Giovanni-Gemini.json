@@ -1,0 +1,27 @@
+{
+    "id": "place.9686937965712200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Gemini",
+    "place_name": "San Giovanni Gemini, Agrigento, Italy",
+    "bbox": [
+        13.603371,
+        37.590081,
+        13.693495,
+        37.647885
+    ],
+    "center": [
+        13.64167,
+        37.62917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.64167,
+            37.62917
+        ]
+    }
+}

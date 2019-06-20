@@ -1,0 +1,21 @@
+{
+    "id": "poi.2448131370438",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Uta",
+    "place_name": "Uta, Uta, Cagliari 09010, Italy",
+    "center": [
+        8.9525985,
+        39.291154500000005
+    ],
+    "geometry": {
+        "coordinates": [
+            8.9525985,
+            39.291154500000005
+        ],
+        "type": "Point"
+    }
+}

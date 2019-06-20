@@ -1,0 +1,27 @@
+{
+    "id": "place.17140453937552440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Argelato",
+    "place_name": "Argelato, Bologna, Italy",
+    "bbox": [
+        11.282668,
+        44.579188,
+        11.388735,
+        44.674749
+    ],
+    "center": [
+        11.34861,
+        44.6425
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.34861,
+            44.6425
+        ]
+    }
+}

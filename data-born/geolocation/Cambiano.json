@@ -1,0 +1,27 @@
+{
+    "id": "place.11709437237788830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cambiano",
+    "place_name": "Cambiano, Torino, Italy",
+    "bbox": [
+        7.720549,
+        44.936089,
+        7.796545,
+        45.01149
+    ],
+    "center": [
+        7.77444,
+        44.97111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.77444,
+            44.97111
+        ]
+    }
+}

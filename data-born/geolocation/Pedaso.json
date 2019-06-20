@@ -1,0 +1,27 @@
+{
+    "id": "place.6900382451500200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pedaso",
+    "place_name": "Pedaso, Fermo, Italy",
+    "bbox": [
+        13.821768,
+        43.078428,
+        13.847235,
+        43.104023
+    ],
+    "center": [
+        13.84093,
+        43.09737
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84093,
+            43.09737
+        ]
+    }
+}

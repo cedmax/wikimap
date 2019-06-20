@@ -1,0 +1,27 @@
+{
+    "id": "place.18664214407476300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceranesi",
+    "place_name": "Ceranesi, Genova, Italy",
+    "bbox": [
+        8.789463,
+        44.472553,
+        8.897178,
+        44.541854
+    ],
+    "center": [
+        8.88396,
+        44.50835
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88396,
+            44.50835
+        ]
+    }
+}

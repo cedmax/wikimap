@@ -1,0 +1,27 @@
+{
+    "id": "place.4716564818837180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vivaro",
+    "place_name": "Vivaro, Pordenone, Italy",
+    "bbox": [
+        12.730539,
+        46.032172,
+        12.816624,
+        46.132646
+    ],
+    "center": [
+        12.78333,
+        46.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.78333,
+            46.08333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11922781827495260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Graniti",
+    "place_name": "Graniti, Messina, Italy",
+    "bbox": [
+        15.196016,
+        37.86132,
+        15.23211,
+        37.920509
+    ],
+    "center": [
+        15.21667,
+        37.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.21667,
+            37.88333
+        ]
+    }
+}

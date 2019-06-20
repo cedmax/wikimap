@@ -1,0 +1,27 @@
+{
+    "id": "place.3475334638997840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bisacquino",
+    "place_name": "Bisacquino, Palermo, Italy",
+    "bbox": [
+        13.122498,
+        37.624786,
+        13.312255,
+        37.809852
+    ],
+    "center": [
+        13.25,
+        37.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            37.7
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7970085761710190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Croce del Sannio",
+    "place_name": "Santa Croce del Sannio, Benevento, Italy",
+    "bbox": [
+        14.709363,
+        41.368635,
+        14.770337,
+        41.417127
+    ],
+    "center": [
+        14.71667,
+        41.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.71667,
+            41.38333
+        ]
+    }
+}

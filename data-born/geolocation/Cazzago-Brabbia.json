@@ -1,0 +1,27 @@
+{
+    "id": "place.5840606361022540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cazzago Brabbia",
+    "place_name": "Cazzago Brabbia, Varese, Italy",
+    "bbox": [
+        8.711612,
+        45.789805,
+        8.746793,
+        45.816557
+    ],
+    "center": [
+        8.73333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            45.8
+        ]
+    }
+}

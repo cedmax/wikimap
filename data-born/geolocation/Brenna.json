@@ -1,0 +1,27 @@
+{
+    "id": "place.11433979298257070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brenna",
+    "place_name": "Brenna, Como, Italy",
+    "bbox": [
+        9.16945,
+        45.724717,
+        9.197394,
+        45.754581
+    ],
+    "center": [
+        9.18333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.75
+        ]
+    }
+}

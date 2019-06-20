@@ -1,0 +1,27 @@
+{
+    "id": "place.11404901086000180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piedimonte Etneo",
+    "place_name": "Piedimonte Etneo, Catania, Italy",
+    "bbox": [
+        15.017722,
+        37.761508,
+        15.196326,
+        37.839579
+    ],
+    "center": [
+        15.17917,
+        37.80667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.17917,
+            37.80667
+        ]
+    }
+}

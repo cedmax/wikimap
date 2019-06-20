@@ -1,0 +1,27 @@
+{
+    "id": "place.9825819874243500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cologna Veneta",
+    "place_name": "Cologna Veneta, Verona, Italy",
+    "bbox": [
+        11.326806,
+        45.278826,
+        11.471451,
+        45.341048
+    ],
+    "center": [
+        11.38333,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38333,
+            45.31667
+        ]
+    }
+}

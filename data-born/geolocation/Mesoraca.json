@@ -1,0 +1,27 @@
+{
+    "id": "place.6277791573866150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mesoraca",
+    "place_name": "Mesoraca, Crotone, Italy",
+    "bbox": [
+        16.638514,
+        38.955611,
+        16.924262,
+        39.135962
+    ],
+    "center": [
+        16.78333,
+        39.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.08333
+        ]
+    }
+}

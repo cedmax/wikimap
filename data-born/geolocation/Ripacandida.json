@@ -1,0 +1,27 @@
+{
+    "id": "place.15561488929052040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ripacandida",
+    "place_name": "Ripacandida, Potenza, Italy",
+    "bbox": [
+        15.678681,
+        40.855614,
+        15.76933,
+        40.933315
+    ],
+    "center": [
+        15.72556,
+        40.91278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.72556,
+            40.91278
+        ]
+    }
+}

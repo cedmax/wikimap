@@ -1,0 +1,27 @@
+{
+    "id": "place.15260494250610990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Golasecca",
+    "place_name": "Golasecca, Varese, Italy",
+    "bbox": [
+        8.64221,
+        45.681025,
+        8.688383,
+        45.713225
+    ],
+    "center": [
+        8.65,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.65,
+            45.7
+        ]
+    }
+}

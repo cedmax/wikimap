@@ -1,0 +1,27 @@
+{
+    "id": "place.9943081730435750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Boscotrecase",
+    "place_name": "Boscotrecase, Napoli, Italy",
+    "bbox": [
+        14.426763,
+        40.760622,
+        14.472667,
+        40.821108
+    ],
+    "center": [
+        14.46667,
+        40.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.46667,
+            40.78333
+        ]
+    }
+}

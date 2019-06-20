@@ -1,0 +1,27 @@
+{
+    "id": "place.7950585229142960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vezzano Ligure",
+    "place_name": "Vezzano Ligure, La Spezia, Italy",
+    "bbox": [
+        9.842481,
+        44.12089,
+        9.937024,
+        44.173141
+    ],
+    "center": [
+        9.88492,
+        44.14119
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88492,
+            44.14119
+        ]
+    }
+}

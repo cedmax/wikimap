@@ -1,0 +1,27 @@
+{
+    "id": "place.7281964476714730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Balmuccia",
+    "place_name": "Balmuccia, Vercelli, Italy",
+    "bbox": [
+        8.105674,
+        45.79731,
+        8.167144,
+        45.84746
+    ],
+    "center": [
+        8.13333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.13333,
+            45.81667
+        ]
+    }
+}

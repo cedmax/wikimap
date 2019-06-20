@@ -1,0 +1,27 @@
+{
+    "id": "place.3572598656599920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pachino",
+    "place_name": "Pachino, Siracusa, Italy",
+    "bbox": [
+        15.001173,
+        36.655882,
+        15.134552,
+        36.742774
+    ],
+    "center": [
+        15.1,
+        36.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            36.71667
+        ]
+    }
+}

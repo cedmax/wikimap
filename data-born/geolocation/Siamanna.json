@@ -1,0 +1,27 @@
+{
+    "id": "place.5587423326527160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siamanna",
+    "place_name": "Siamanna, Oristano, Italy",
+    "bbox": [
+        8.715268,
+        39.889747,
+        8.840605,
+        39.933579
+    ],
+    "center": [
+        8.7625,
+        39.91935
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7625,
+            39.91935
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11090593499531580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calendasco",
+    "place_name": "Calendasco, Piacenza, Italy",
+    "bbox": [
+        9.533059,
+        45.056005,
+        9.677846,
+        45.137494
+    ],
+    "center": [
+        9.6,
+        45.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6,
+            45.08333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15771762855772590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cantalice",
+    "place_name": "Cantalice, Rieti, Italy",
+    "bbox": [
+        12.863392,
+        42.444989,
+        12.994325,
+        42.517867
+    ],
+    "center": [
+        12.9,
+        42.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9,
+            42.46667
+        ]
+    }
+}

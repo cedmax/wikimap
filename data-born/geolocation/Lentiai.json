@@ -1,0 +1,27 @@
+{
+    "id": "place.12571367559302360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lentiai",
+    "place_name": "Lentiai, Belluno, Italy",
+    "bbox": [
+        11.973912,
+        45.961733,
+        12.051801,
+        46.05827
+    ],
+    "center": [
+        12.02159,
+        46.04484
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.02159,
+            46.04484
+        ]
+    }
+}

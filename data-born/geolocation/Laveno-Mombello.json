@@ -1,0 +1,27 @@
+{
+    "id": "place.11580227327476850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laveno-Mombello",
+    "place_name": "Laveno-Mombello, Varese, Italy",
+    "bbox": [
+        8.568719,
+        45.88051,
+        8.647082,
+        45.939277
+    ],
+    "center": [
+        8.62036,
+        45.90888
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.62036,
+            45.90888
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15038337112060590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tarvisio",
+    "place_name": "Tarvisio, Udine, Italy",
+    "bbox": [
+        13.478627,
+        46.383059,
+        13.71755,
+        46.554054
+    ],
+    "center": [
+        13.56667,
+        46.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56667,
+            46.5
+        ]
+    }
+}

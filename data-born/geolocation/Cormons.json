@@ -1,0 +1,27 @@
+{
+    "id": "place.4597280379915900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cormons",
+    "place_name": "Cormons, Gorizia, Italy",
+    "bbox": [
+        13.419535,
+        45.92088,
+        13.526437,
+        45.988292
+    ],
+    "center": [
+        13.46667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.46667,
+            45.95
+        ]
+    }
+}

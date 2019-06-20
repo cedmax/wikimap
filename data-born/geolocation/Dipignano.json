@@ -1,0 +1,27 @@
+{
+    "id": "place.8565284008730370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dipignano",
+    "place_name": "Dipignano, Cosenza, Italy",
+    "bbox": [
+        16.212284,
+        39.195426,
+        16.273367,
+        39.288582
+    ],
+    "center": [
+        16.25,
+        39.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.25,
+            39.23333
+        ]
+    }
+}

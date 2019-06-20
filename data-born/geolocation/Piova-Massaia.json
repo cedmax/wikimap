@@ -1,0 +1,21 @@
+{
+    "id": "poi.1176821040180",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Piovà Massaia",
+    "place_name": "Piovà Massaia, Piazza, Cocconato, Asti 14023, Italy",
+    "center": [
+        8.03815,
+        45.083825
+    ],
+    "geometry": {
+        "coordinates": [
+            8.03815,
+            45.083825
+        ],
+        "type": "Point"
+    }
+}

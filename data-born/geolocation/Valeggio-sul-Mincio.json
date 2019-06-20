@@ -1,0 +1,27 @@
+{
+    "id": "place.17668408930904420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valeggio sul Mincio",
+    "place_name": "Valeggio sul Mincio, Verona, Italy",
+    "bbox": [
+        10.684858,
+        45.287099,
+        10.791825,
+        45.421832
+    ],
+    "center": [
+        10.73333,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            45.35
+        ]
+    }
+}

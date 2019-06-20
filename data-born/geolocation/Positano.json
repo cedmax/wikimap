@@ -1,0 +1,27 @@
+{
+    "id": "place.8007867548314400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Positano",
+    "place_name": "Positano, Salerno, Italy",
+    "bbox": [
+        14.462349,
+        40.619578,
+        14.517729,
+        40.647971
+    ],
+    "center": [
+        14.48194,
+        40.62778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48194,
+            40.62778
+        ]
+    }
+}

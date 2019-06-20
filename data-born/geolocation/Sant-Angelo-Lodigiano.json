@@ -1,0 +1,27 @@
+{
+    "id": "place.10263959373777910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo Lodigiano",
+    "place_name": "Sant'Angelo Lodigiano, Lodi, Italy",
+    "bbox": [
+        9.361975,
+        45.194591,
+        9.440663,
+        45.264783
+    ],
+    "center": [
+        9.40972,
+        45.23889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.40972,
+            45.23889
+        ]
+    }
+}

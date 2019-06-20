@@ -1,0 +1,27 @@
+{
+    "id": "place.11922670091204470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casagiove",
+    "place_name": "Casagiove, Caserta, Italy",
+    "bbox": [
+        14.287101,
+        41.063053,
+        14.32125,
+        41.107039
+    ],
+    "center": [
+        14.3086,
+        41.0757
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3086,
+            41.0757
+        ]
+    }
+}

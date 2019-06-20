@@ -1,0 +1,27 @@
+{
+    "id": "place.12748321825319650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campobello di Mazara",
+    "place_name": "Campobello di Mazara, Trapani, Italy",
+    "bbox": [
+        12.653751,
+        37.559571,
+        12.773731,
+        37.662254
+    ],
+    "center": [
+        12.75,
+        37.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.75,
+            37.63333
+        ]
+    }
+}

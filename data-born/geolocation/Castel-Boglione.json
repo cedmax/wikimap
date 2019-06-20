@@ -1,0 +1,27 @@
+{
+    "id": "place.5198959132689080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Boglione",
+    "place_name": "Castel Boglione, Asti, Italy",
+    "bbox": [
+        8.350757,
+        44.706904,
+        8.401232,
+        44.752228
+    ],
+    "center": [
+        8.38111,
+        44.72278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.38111,
+            44.72278
+        ]
+    }
+}

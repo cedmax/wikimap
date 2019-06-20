@@ -1,0 +1,27 @@
+{
+    "id": "place.7290849693308830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Turbigo",
+    "place_name": "Turbigo, Milano, Italy",
+    "bbox": [
+        8.712252,
+        45.505922,
+        8.760656,
+        45.543771
+    ],
+    "center": [
+        8.73333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            45.53333
+        ]
+    }
+}

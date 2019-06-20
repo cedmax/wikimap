@@ -1,0 +1,27 @@
+{
+    "id": "place.14117757975646810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve Santo Stefano",
+    "place_name": "Pieve Santo Stefano, Arezzo, Italy",
+    "bbox": [
+        11.973783,
+        43.591426,
+        12.167393,
+        43.766549
+    ],
+    "center": [
+        12.04222,
+        43.6725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.04222,
+            43.6725
+        ]
+    }
+}

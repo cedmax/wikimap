@@ -1,0 +1,27 @@
+{
+    "id": "place.13527177919820270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maratea",
+    "place_name": "Maratea, Potenza, Italy",
+    "bbox": [
+        15.644874,
+        39.923195,
+        15.790397,
+        40.054724
+    ],
+    "center": [
+        15.71667,
+        40
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.71667,
+            40
+        ]
+    }
+}

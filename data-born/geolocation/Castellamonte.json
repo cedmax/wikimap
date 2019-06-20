@@ -1,0 +1,27 @@
+{
+    "id": "place.6946485478780220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellamonte",
+    "place_name": "Castellamonte, Torino, Italy",
+    "bbox": [
+        7.665982,
+        45.35176,
+        7.803482,
+        45.50302
+    ],
+    "center": [
+        7.71056,
+        45.38194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.71056,
+            45.38194
+        ]
+    }
+}

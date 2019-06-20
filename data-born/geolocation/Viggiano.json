@@ -1,0 +1,27 @@
+{
+    "id": "place.10501817347165490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viggiano",
+    "place_name": "Viggiano, Potenza, Italy",
+    "bbox": [
+        15.837241,
+        40.306733,
+        15.967777,
+        40.410615
+    ],
+    "center": [
+        15.9,
+        40.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.9,
+            40.33333
+        ]
+    }
+}

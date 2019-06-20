@@ -1,0 +1,27 @@
+{
+    "id": "place.15680574536965420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forlimpopoli",
+    "place_name": "Forlimpopoli, Forli'-Cesena, Italy",
+    "bbox": [
+        12.086869,
+        44.157535,
+        12.169938,
+        44.217002
+    ],
+    "center": [
+        12.13333,
+        44.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            44.18333
+        ]
+    }
+}

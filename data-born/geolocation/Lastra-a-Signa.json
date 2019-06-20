@@ -1,0 +1,27 @@
+{
+    "id": "place.6313385594383450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lastra a Signa",
+    "place_name": "Lastra a Signa, Firenze, Italy",
+    "bbox": [
+        11.028667,
+        43.703187,
+        11.134466,
+        43.782398
+    ],
+    "center": [
+        11.1,
+        43.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.1,
+            43.76667
+        ]
+    }
+}

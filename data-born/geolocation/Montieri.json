@@ -1,0 +1,27 @@
+{
+    "id": "place.10132624847557390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montieri",
+    "place_name": "Montieri, Grosseto, Italy",
+    "bbox": [
+        10.909686,
+        43.036541,
+        11.091639,
+        43.188306
+    ],
+    "center": [
+        11.01667,
+        43.13111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            43.13111
+        ]
+    }
+}

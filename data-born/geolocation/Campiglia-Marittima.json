@@ -1,0 +1,21 @@
+{
+    "id": "poi.283467841538",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Campiglia Marittima",
+    "place_name": "Campiglia Marittima, Campiglia Marittima, Livorno 57021, Italy",
+    "center": [
+        10.6156835,
+        43.059888
+    ],
+    "geometry": {
+        "coordinates": [
+            10.6156835,
+            43.059888
+        ],
+        "type": "Point"
+    }
+}

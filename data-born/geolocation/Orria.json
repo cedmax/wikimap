@@ -1,0 +1,27 @@
+{
+    "id": "place.7690096299536210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orria",
+    "place_name": "Orria, Salerno, Italy",
+    "bbox": [
+        15.148781,
+        40.264777,
+        15.228119,
+        40.331523
+    ],
+    "center": [
+        15.16667,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.16667,
+            40.3
+        ]
+    }
+}

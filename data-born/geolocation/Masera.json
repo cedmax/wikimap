@@ -1,0 +1,27 @@
+{
+    "id": "place.2709996867029710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Masera",
+    "place_name": "Masera, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.301818,
+        46.115467,
+        8.425281,
+        46.181401
+    ],
+    "center": [
+        8.3,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.3,
+            46.16667
+        ]
+    }
+}

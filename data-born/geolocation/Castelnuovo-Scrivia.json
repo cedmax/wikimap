@@ -1,0 +1,27 @@
+{
+    "id": "place.6153548982665960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Scrivia",
+    "place_name": "Castelnuovo Scrivia, Alessandria, Italy",
+    "bbox": [
+        8.835416,
+        44.930305,
+        8.926119,
+        45.018677
+    ],
+    "center": [
+        8.88222,
+        44.98139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88222,
+            44.98139
+        ]
+    }
+}

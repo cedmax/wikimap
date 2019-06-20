@@ -1,0 +1,27 @@
+{
+    "id": "place.6360307672580280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Arsenio",
+    "place_name": "Sant'Arsenio, Salerno, Italy",
+    "bbox": [
+        15.422906,
+        40.413805,
+        15.540696,
+        40.493868
+    ],
+    "center": [
+        15.48333,
+        40.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.48333,
+            40.46667
+        ]
+    }
+}

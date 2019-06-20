@@ -1,0 +1,27 @@
+{
+    "id": "place.17487482696420140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alessano",
+    "place_name": "Alessano, Lecce, Italy",
+    "bbox": [
+        18.279823,
+        39.858868,
+        18.395051,
+        39.923829
+    ],
+    "center": [
+        18.33333,
+        39.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.33333,
+            39.88333
+        ]
+    }
+}

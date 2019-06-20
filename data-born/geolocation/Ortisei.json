@@ -1,0 +1,29 @@
+{
+    "id": "place.6911281852487450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Ortisei - St. Ulrich",
+    "place_name": "Ortisei - St. Ulrich, Bolzano, Italy",
+    "matching_text": "Ortisei",
+    "matching_place_name": "Ortisei, Bolzano, Italy",
+    "bbox": [
+        11.642055,
+        46.564827,
+        11.727057,
+        46.617025
+    ],
+    "center": [
+        11.66667,
+        46.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            46.56667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.2085488620",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Sampierdarena",
+    "place_name": "via Sampierdarena, 16149 Genova Genova, Italy",
+    "center": [
+        8.891436,
+        44.40946
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.891436,
+            44.40946
+        ]
+    }
+}

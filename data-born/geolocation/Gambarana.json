@@ -1,0 +1,27 @@
+{
+    "id": "place.11767985148912980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gambarana",
+    "place_name": "Gambarana, Pavia, Italy",
+    "bbox": [
+        8.737815,
+        45.019611,
+        8.79864,
+        45.065538
+    ],
+    "center": [
+        8.76667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            45.03333
+        ]
+    }
+}

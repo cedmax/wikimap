@@ -1,0 +1,21 @@
+{
+    "id": "poi.1924145364867",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cetara",
+    "place_name": "Cetara, Cetara, Salerno 84010, Italy",
+    "center": [
+        14.701435,
+        40.647143
+    ],
+    "geometry": {
+        "coordinates": [
+            14.701435,
+            40.647143
+        ],
+        "type": "Point"
+    }
+}

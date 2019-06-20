@@ -1,0 +1,27 @@
+{
+    "id": "place.5052935416096130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pederobba",
+    "place_name": "Pederobba, Treviso, Italy",
+    "bbox": [
+        11.913389,
+        45.839915,
+        12.037139,
+        45.895502
+    ],
+    "center": [
+        11.9475,
+        45.87389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9475,
+            45.87389
+        ]
+    }
+}

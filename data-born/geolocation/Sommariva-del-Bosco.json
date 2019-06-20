@@ -1,0 +1,27 @@
+{
+    "id": "place.7141849133265320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sommariva del Bosco",
+    "place_name": "Sommariva del Bosco, Cuneo, Italy",
+    "bbox": [
+        7.731707,
+        44.730676,
+        7.839711,
+        44.818458
+    ],
+    "center": [
+        7.78333,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            44.76667
+        ]
+    }
+}

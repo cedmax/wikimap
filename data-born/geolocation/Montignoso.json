@@ -1,0 +1,27 @@
+{
+    "id": "place.4379514987229780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montignoso",
+    "place_name": "Montignoso, Massa-Carrara, Italy",
+    "bbox": [
+        10.137098,
+        43.975838,
+        10.206696,
+        44.039149
+    ],
+    "center": [
+        10.16667,
+        44.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.16667,
+            44.01667
+        ]
+    }
+}

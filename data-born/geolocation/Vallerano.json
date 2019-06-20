@@ -1,0 +1,27 @@
+{
+    "id": "place.11145088649209850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallerano",
+    "place_name": "Vallerano, Viterbo, Italy",
+    "bbox": [
+        12.215418,
+        42.348351,
+        12.296032,
+        42.40298
+    ],
+    "center": [
+        12.26417,
+        42.385
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.26417,
+            42.385
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5892533982445700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cantiano",
+    "place_name": "Cantiano, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.543456,
+        43.416881,
+        12.715469,
+        43.517102
+    ],
+    "center": [
+        12.62853,
+        43.47258
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.62853,
+            43.47258
+        ]
+    }
+}

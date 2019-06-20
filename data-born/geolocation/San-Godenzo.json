@@ -1,0 +1,27 @@
+{
+    "id": "place.7188185718270140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Godenzo",
+    "place_name": "San Godenzo, Firenze, Italy",
+    "bbox": [
+        11.552741,
+        43.87271,
+        11.719139,
+        43.998448
+    ],
+    "center": [
+        11.61667,
+        43.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            43.91667
+        ]
+    }
+}

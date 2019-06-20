@@ -1,0 +1,27 @@
+{
+    "id": "place.8510852168107400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Donà di Piave",
+    "place_name": "San Donà di Piave, Venezia, Italy",
+    "bbox": [
+        12.524571,
+        45.554712,
+        12.660536,
+        45.697457
+    ],
+    "center": [
+        12.56414,
+        45.62976
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.56414,
+            45.62976
+        ]
+    }
+}

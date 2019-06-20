@@ -1,0 +1,27 @@
+{
+    "id": "place.672797237813570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Boves",
+    "place_name": "Boves, Cuneo, Italy",
+    "bbox": [
+        7.504166,
+        44.235532,
+        7.602561,
+        44.361705
+    ],
+    "center": [
+        7.55,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.55,
+            44.33333
+        ]
+    }
+}

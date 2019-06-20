@@ -1,0 +1,27 @@
+{
+    "id": "place.7962804217811030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colletorto",
+    "place_name": "Colletorto, Campobasso, Italy",
+    "bbox": [
+        14.931764,
+        41.621493,
+        15.047863,
+        41.682725
+    ],
+    "center": [
+        14.97417,
+        41.66389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.97417,
+            41.66389
+        ]
+    }
+}

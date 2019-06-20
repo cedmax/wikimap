@@ -1,0 +1,27 @@
+{
+    "id": "place.16054117647417100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Usini",
+    "place_name": "Usini, Sassari, Italy",
+    "bbox": [
+        8.466099,
+        40.625085,
+        8.594444,
+        40.692559
+    ],
+    "center": [
+        8.54083,
+        40.66333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.54083,
+            40.66333
+        ]
+    }
+}

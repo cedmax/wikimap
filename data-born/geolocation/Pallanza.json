@@ -1,0 +1,21 @@
+{
+    "id": "poi.2800318741790",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.96875,
+    "text": "Pallanca",
+    "place_name": "Pallanca, Corso Cuneo, 10, Ventimiglia, Imperia 18039, Italy",
+    "center": [
+        7.59078,
+        43.844896
+    ],
+    "geometry": {
+        "coordinates": [
+            7.59078,
+            43.844896
+        ],
+        "type": "Point"
+    }
+}

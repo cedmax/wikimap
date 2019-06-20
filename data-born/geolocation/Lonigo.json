@@ -1,0 +1,27 @@
+{
+    "id": "place.8677074149031720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lonigo",
+    "place_name": "Lonigo, Vicenza, Italy",
+    "bbox": [
+        11.330898,
+        45.336123,
+        11.455872,
+        45.438026
+    ],
+    "center": [
+        11.38333,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38333,
+            45.38333
+        ]
+    }
+}

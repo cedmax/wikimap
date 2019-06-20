@@ -1,0 +1,27 @@
+{
+    "id": "place.8989924296802240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chivasso",
+    "place_name": "Chivasso, Torino, Italy",
+    "bbox": [
+        7.832449,
+        45.172443,
+        7.957449,
+        45.251854
+    ],
+    "center": [
+        7.88333,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.88333,
+            45.18333
+        ]
+    }
+}

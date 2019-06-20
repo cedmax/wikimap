@@ -1,0 +1,27 @@
+{
+    "id": "place.3604946322152160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelluccio Superiore",
+    "place_name": "Castelluccio Superiore, Potenza, Italy",
+    "bbox": [
+        15.921246,
+        39.991066,
+        16.014802,
+        40.055256
+    ],
+    "center": [
+        15.98333,
+        40.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            40.01667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6404804786439230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Balsorano",
+    "place_name": "Balsorano, L'Aquila, Italy",
+    "bbox": [
+        13.520642,
+        41.754073,
+        13.643405,
+        41.850714
+    ],
+    "center": [
+        13.56083,
+        41.81083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56083,
+            41.81083
+        ]
+    }
+}

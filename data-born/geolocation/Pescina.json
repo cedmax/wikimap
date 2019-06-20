@@ -1,0 +1,27 @@
+{
+    "id": "place.5931635112051410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescina",
+    "place_name": "Pescina, L'Aquila, Italy",
+    "bbox": [
+        13.551971,
+        41.971442,
+        13.707344,
+        42.063671
+    ],
+    "center": [
+        13.65889,
+        42.02639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.65889,
+            42.02639
+        ]
+    }
+}

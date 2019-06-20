@@ -1,0 +1,29 @@
+{
+    "id": "place.10389304527136130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Nova Ponente - Deutschnofen",
+    "place_name": "Nova Ponente - Deutschnofen, Bolzano, Italy",
+    "matching_text": "Nova Ponente",
+    "matching_place_name": "Nova Ponente, Bolzano, Italy",
+    "bbox": [
+        11.339729,
+        46.344755,
+        11.564163,
+        46.459772
+    ],
+    "center": [
+        11.43333,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43333,
+            46.41667
+        ]
+    }
+}

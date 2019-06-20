@@ -1,0 +1,27 @@
+{
+    "id": "place.15818442555520650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frasso Telesino",
+    "place_name": "Frasso Telesino, Benevento, Italy",
+    "bbox": [
+        14.479491,
+        41.125524,
+        14.578693,
+        41.17032
+    ],
+    "center": [
+        14.53333,
+        41.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            41.15
+        ]
+    }
+}

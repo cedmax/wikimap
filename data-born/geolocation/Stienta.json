@@ -1,0 +1,27 @@
+{
+    "id": "place.15430679038486250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stienta",
+    "place_name": "Stienta, Rovigo, Italy",
+    "bbox": [
+        11.486761,
+        44.929204,
+        11.567545,
+        44.9835
+    ],
+    "center": [
+        11.55,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55,
+            44.93333
+        ]
+    }
+}

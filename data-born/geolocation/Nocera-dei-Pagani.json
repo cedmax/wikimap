@@ -1,0 +1,21 @@
+{
+    "id": "address.1809066749",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.6499999999999999,
+    "text": "via Dei Pagans",
+    "place_name": "via Dei Pagans, 33080 Erto e Casso Pordenone, Italy",
+    "center": [
+        12.381753,
+        46.279278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.381753,
+            46.279278
+        ]
+    }
+}

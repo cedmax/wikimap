@@ -1,0 +1,21 @@
+{
+    "id": "address.1580051044",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Prato Allo Stelvio",
+    "place_name": "via Prato Allo Stelvio, 00124 Roma Roma, Italy",
+    "center": [
+        12.359223,
+        41.730066
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.359223,
+            41.730066
+        ]
+    }
+}

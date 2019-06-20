@@ -1,0 +1,21 @@
+{
+    "id": "poi.3341484585373",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Samassi",
+    "place_name": "Samassi, Samassi, Medio Campidano 09030, Italy",
+    "center": [
+        8.904784750000001,
+        39.481018750000004
+    ],
+    "geometry": {
+        "coordinates": [
+            8.904784750000001,
+            39.481018750000004
+        ],
+        "type": "Point"
+    }
+}

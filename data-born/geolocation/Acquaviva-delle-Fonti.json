@@ -1,0 +1,27 @@
+{
+    "id": "place.8140926373339340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acquaviva delle Fonti",
+    "place_name": "Acquaviva delle Fonti, Bari, Italy",
+    "bbox": [
+        16.771082,
+        40.753127,
+        16.910326,
+        40.973246
+    ],
+    "center": [
+        16.85,
+        40.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.85,
+            40.9
+        ]
+    }
+}

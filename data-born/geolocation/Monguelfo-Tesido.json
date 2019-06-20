@@ -1,0 +1,29 @@
+{
+    "id": "place.14499460666199540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Monguelfo-Tesido- Welsberg-Taisten",
+    "place_name": "Monguelfo-Tesido- Welsberg-Taisten, Bolzano, Italy",
+    "matching_text": "Monguelfo-Tesido",
+    "matching_place_name": "Monguelfo-Tesido, Bolzano, Italy",
+    "bbox": [
+        12.064056,
+        46.728935,
+        12.180938,
+        46.831731
+    ],
+    "center": [
+        12.11667,
+        46.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            46.75
+        ]
+    }
+}

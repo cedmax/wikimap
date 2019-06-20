@@ -1,0 +1,27 @@
+{
+    "id": "place.12194315237969610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Airola",
+    "place_name": "Airola, Benevento, Italy",
+    "bbox": [
+        14.524269,
+        41.041205,
+        14.597673,
+        41.074033
+    ],
+    "center": [
+        14.56667,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.56667,
+            41.06667
+        ]
+    }
+}

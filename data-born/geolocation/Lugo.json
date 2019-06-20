@@ -1,0 +1,27 @@
+{
+    "id": "place.13505252682059070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lugo",
+    "place_name": "Lugo, Ravenna, Italy",
+    "bbox": [
+        11.836388,
+        44.393508,
+        11.98663,
+        44.559174
+    ],
+    "center": [
+        11.91667,
+        44.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91667,
+            44.41667
+        ]
+    }
+}

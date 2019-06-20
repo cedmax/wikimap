@@ -1,0 +1,27 @@
+{
+    "id": "place.6111994163044710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Reggello",
+    "place_name": "Reggello, Firenze, Italy",
+    "bbox": [
+        11.449205,
+        43.626039,
+        11.611914,
+        43.768125
+    ],
+    "center": [
+        11.53333,
+        43.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            43.68333
+        ]
+    }
+}

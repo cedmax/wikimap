@@ -1,0 +1,27 @@
+{
+    "id": "place.10033071058825470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgosesia",
+    "place_name": "Borgosesia, Vercelli, Italy",
+    "bbox": [
+        8.180197,
+        45.694154,
+        8.320132,
+        45.776905
+    ],
+    "center": [
+        8.27639,
+        45.71694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.27639,
+            45.71694
+        ]
+    }
+}

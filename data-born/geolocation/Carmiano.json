@@ -1,0 +1,27 @@
+{
+    "id": "place.7805389540172870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carmiano",
+    "place_name": "Carmiano, Lecce, Italy",
+    "bbox": [
+        18.000074,
+        40.316198,
+        18.077979,
+        40.373343
+    ],
+    "center": [
+        18.0461,
+        40.3461
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.0461,
+            40.3461
+        ]
+    }
+}

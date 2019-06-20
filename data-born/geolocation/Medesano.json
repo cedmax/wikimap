@@ -1,0 +1,27 @@
+{
+    "id": "place.16508673310370330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Medesano",
+    "place_name": "Medesano, Parma, Italy",
+    "bbox": [
+        9.982142,
+        44.690828,
+        10.182943,
+        44.782482
+    ],
+    "center": [
+        10.14031,
+        44.75678
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.14031,
+            44.75678
+        ]
+    }
+}

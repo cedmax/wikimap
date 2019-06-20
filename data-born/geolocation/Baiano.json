@@ -1,0 +1,27 @@
+{
+    "id": "place.6905286003987060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baiano",
+    "place_name": "Baiano, Avellino, Italy",
+    "bbox": [
+        14.607855,
+        40.912667,
+        14.661197,
+        40.973336
+    ],
+    "center": [
+        14.6175,
+        40.95361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.6175,
+            40.95361
+        ]
+    }
+}

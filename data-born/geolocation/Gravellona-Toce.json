@@ -1,0 +1,27 @@
+{
+    "id": "place.6407645804673280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gravellona Toce",
+    "place_name": "Gravellona Toce, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.404158,
+        45.890864,
+        8.459917,
+        45.954941
+    ],
+    "center": [
+        8.43333,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43333,
+            45.93333
+        ]
+    }
+}

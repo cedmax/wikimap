@@ -1,0 +1,27 @@
+{
+    "id": "place.12250570060128750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bolsena",
+    "place_name": "Bolsena, Viterbo, Italy",
+    "bbox": [
+        11.92141,
+        42.585583,
+        12.030363,
+        42.684478
+    ],
+    "center": [
+        11.98583,
+        42.64472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98583,
+            42.64472
+        ]
+    }
+}

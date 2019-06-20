@@ -1,0 +1,27 @@
+{
+    "id": "place.13503589439769800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melicuccà",
+    "place_name": "Melicuccà, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.838469,
+        38.266779,
+        15.896564,
+        38.322661
+    ],
+    "center": [
+        15.88333,
+        38.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.88333,
+            38.3
+        ]
+    }
+}

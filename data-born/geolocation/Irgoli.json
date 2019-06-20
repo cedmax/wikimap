@@ -1,0 +1,27 @@
+{
+    "id": "place.7973508286964710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Irgoli",
+    "place_name": "Irgoli, Nuoro, Italy",
+    "bbox": [
+        9.58335,
+        40.396629,
+        9.721399,
+        40.511658
+    ],
+    "center": [
+        9.63333,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.63333,
+            40.41667
+        ]
+    }
+}

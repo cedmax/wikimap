@@ -1,0 +1,27 @@
+{
+    "id": "place.15590792731048120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellole",
+    "place_name": "Cellole, Caserta, Italy",
+    "bbox": [
+        13.776004,
+        41.156698,
+        13.879903,
+        41.236033
+    ],
+    "center": [
+        13.85,
+        41.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85,
+            41.2
+        ]
+    }
+}

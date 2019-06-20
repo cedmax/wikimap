@@ -1,0 +1,27 @@
+{
+    "id": "place.3747949873775700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belforte del Chienti",
+    "place_name": "Belforte del Chienti, Macerata, Italy",
+    "bbox": [
+        13.209858,
+        43.1417,
+        13.27621,
+        43.18456
+    ],
+    "center": [
+        13.23746,
+        43.16417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23746,
+            43.16417
+        ]
+    }
+}

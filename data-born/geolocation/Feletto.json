@@ -1,0 +1,27 @@
+{
+    "id": "place.15760388388968430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Feletto",
+    "place_name": "Feletto, Torino, Italy",
+    "bbox": [
+        7.73451,
+        45.275344,
+        7.784152,
+        45.313044
+    ],
+    "center": [
+        7.75,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.75,
+            45.3
+        ]
+    }
+}

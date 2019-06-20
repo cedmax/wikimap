@@ -1,0 +1,27 @@
+{
+    "id": "place.7064178398199080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oliveto Citra",
+    "place_name": "Oliveto Citra, Salerno, Italy",
+    "bbox": [
+        15.16844,
+        40.658368,
+        15.253797,
+        40.720031
+    ],
+    "center": [
+        15.23111,
+        40.68944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.23111,
+            40.68944
+        ]
+    }
+}

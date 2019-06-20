@@ -1,0 +1,27 @@
+{
+    "id": "place.7296228846697000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seneghe",
+    "place_name": "Seneghe, Oristano, Italy",
+    "bbox": [
+        8.518776,
+        40.03977,
+        8.654186,
+        40.124869
+    ],
+    "center": [
+        8.61306,
+        40.08028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.61306,
+            40.08028
+        ]
+    }
+}

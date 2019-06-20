@@ -1,0 +1,27 @@
+{
+    "id": "place.8317435392161840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Modena",
+    "place_name": "Modena, Modena, Italy",
+    "bbox": [
+        10.782109,
+        44.562784,
+        11.01064,
+        44.72608
+    ],
+    "center": [
+        10.92572,
+        44.64582
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.92572,
+            44.64582
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5664892775097860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorrento",
+    "place_name": "Sorrento, Napoli, Italy",
+    "bbox": [
+        14.346604,
+        40.58268,
+        14.410044,
+        40.634507
+    ],
+    "center": [
+        14.37361,
+        40.62778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.37361,
+            40.62778
+        ]
+    }
+}

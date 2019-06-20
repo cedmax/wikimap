@@ -1,0 +1,27 @@
+{
+    "id": "place.14730939209743890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caivano",
+    "place_name": "Caivano, Napoli, Italy",
+    "bbox": [
+        14.289617,
+        40.934758,
+        14.357692,
+        41.004451
+    ],
+    "center": [
+        14.3,
+        40.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3,
+            40.95
+        ]
+    }
+}

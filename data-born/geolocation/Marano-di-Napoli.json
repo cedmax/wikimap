@@ -1,0 +1,27 @@
+{
+    "id": "place.4045578464707850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marano di Napoli",
+    "place_name": "Marano di Napoli, Napoli, Italy",
+    "bbox": [
+        14.119923,
+        40.867807,
+        14.20532,
+        40.910658
+    ],
+    "center": [
+        14.18333,
+        40.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18333,
+            40.9
+        ]
+    }
+}

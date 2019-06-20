@@ -1,0 +1,27 @@
+{
+    "id": "place.8782630106232250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrocielo",
+    "place_name": "Castrocielo, Frosinone, Italy",
+    "bbox": [
+        13.644282,
+        41.475461,
+        13.743543,
+        41.54646
+    ],
+    "center": [
+        13.7,
+        41.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7,
+            41.53333
+        ]
+    }
+}

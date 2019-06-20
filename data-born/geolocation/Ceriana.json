@@ -1,0 +1,27 @@
+{
+    "id": "place.8678363385951160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceriana",
+    "place_name": "Ceriana, Imperia, Italy",
+    "bbox": [
+        7.72635,
+        43.847839,
+        7.814148,
+        43.915546
+    ],
+    "center": [
+        7.7746,
+        43.87906
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7746,
+            43.87906
+        ]
+    }
+}

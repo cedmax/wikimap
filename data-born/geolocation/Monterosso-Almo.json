@@ -1,0 +1,27 @@
+{
+    "id": "place.16587828965867450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterosso Almo",
+    "place_name": "Monterosso Almo, Ragusa, Italy",
+    "bbox": [
+        14.667231,
+        37.02052,
+        14.798647,
+        37.126913
+    ],
+    "center": [
+        14.76667,
+        37.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.76667,
+            37.1
+        ]
+    }
+}

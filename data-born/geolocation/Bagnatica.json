@@ -1,0 +1,27 @@
+{
+    "id": "place.16348113662190750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnatica",
+    "place_name": "Bagnatica, Bergamo, Italy",
+    "bbox": [
+        9.74345,
+        45.640601,
+        9.789135,
+        45.673062
+    ],
+    "center": [
+        9.78111,
+        45.66194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78111,
+            45.66194
+        ]
+    }
+}

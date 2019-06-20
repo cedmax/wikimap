@@ -1,0 +1,27 @@
+{
+    "id": "place.8635321589618630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallarate",
+    "place_name": "Gallarate, Varese, Italy",
+    "bbox": [
+        8.753821,
+        45.631125,
+        8.832531,
+        45.690465
+    ],
+    "center": [
+        8.7914,
+        45.6649
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7914,
+            45.6649
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8990828484435790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Budrio",
+    "place_name": "Budrio, Bologna, Italy",
+    "bbox": [
+        11.459122,
+        44.482095,
+        11.630785,
+        44.646389
+    ],
+    "center": [
+        11.53439,
+        44.53745
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53439,
+            44.53745
+        ]
+    }
+}

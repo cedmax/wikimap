@@ -1,0 +1,27 @@
+{
+    "id": "place.10697042485041450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fabrica di Roma",
+    "place_name": "Fabrica di Roma, Viterbo, Italy",
+    "bbox": [
+        12.268181,
+        42.282392,
+        12.38788,
+        42.360094
+    ],
+    "center": [
+        12.30028,
+        42.33472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.30028,
+            42.33472
+        ]
+    }
+}

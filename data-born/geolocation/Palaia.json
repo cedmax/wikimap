@@ -1,0 +1,21 @@
+{
+    "id": "poi.1434519078413",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Palaia",
+    "place_name": "Palaia, Via della rocca, Palaia, Pisa 56036, Italy",
+    "center": [
+        10.771422000000001,
+        43.60539075
+    ],
+    "geometry": {
+        "coordinates": [
+            10.771422000000001,
+            43.60539075
+        ],
+        "type": "Point"
+    }
+}

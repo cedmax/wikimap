@@ -1,0 +1,27 @@
+{
+    "id": "place.13748072891393290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zeri",
+    "place_name": "Zeri, Massa-Carrara, Italy",
+    "bbox": [
+        9.686616,
+        44.282443,
+        9.850863,
+        44.390449
+    ],
+    "center": [
+        9.76667,
+        44.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76667,
+            44.35
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14784354974864730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lugo di Vicenza",
+    "place_name": "Lugo di Vicenza, Vicenza, Italy",
+    "bbox": [
+        11.497062,
+        45.739499,
+        11.550781,
+        45.815476
+    ],
+    "center": [
+        11.53333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.75
+        ]
+    }
+}

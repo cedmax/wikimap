@@ -1,0 +1,27 @@
+{
+    "id": "place.13245990403195270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gazoldo degli Ippoliti",
+    "place_name": "Gazoldo degli Ippoliti, Mantova, Italy",
+    "bbox": [
+        10.532814,
+        45.175197,
+        10.599645,
+        45.215207
+    ],
+    "center": [
+        10.58333,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.58333,
+            45.2
+        ]
+    }
+}

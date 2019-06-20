@@ -1,0 +1,27 @@
+{
+    "id": "place.4655386219438470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Settimo Torinese",
+    "place_name": "Settimo Torinese, Torino, Italy",
+    "bbox": [
+        7.714944,
+        45.111347,
+        7.831609,
+        45.174872
+    ],
+    "center": [
+        7.76667,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.76667,
+            45.13333
+        ]
+    }
+}

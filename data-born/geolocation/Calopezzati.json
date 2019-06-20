@@ -1,0 +1,27 @@
+{
+    "id": "place.7778621742313850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calopezzati",
+    "place_name": "Calopezzati, Cosenza, Italy",
+    "bbox": [
+        16.743932,
+        39.533811,
+        16.833853,
+        39.587931
+    ],
+    "center": [
+        16.8,
+        39.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.8,
+            39.56667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8941747321208330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Menaggio",
+    "place_name": "Menaggio, Como, Italy",
+    "bbox": [
+        9.19802,
+        46.004841,
+        9.269615,
+        46.042481
+    ],
+    "center": [
+        9.23333,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            46.01667
+        ]
+    }
+}

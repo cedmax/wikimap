@@ -1,0 +1,27 @@
+{
+    "id": "place.5496290313313280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vignate",
+    "place_name": "Vignate, Milano, Italy",
+    "bbox": [
+        9.347686,
+        45.476568,
+        9.407276,
+        45.513745
+    ],
+    "center": [
+        9.36667,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            45.5
+        ]
+    }
+}

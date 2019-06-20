@@ -1,0 +1,27 @@
+{
+    "id": "place.6640068428487850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valfabbrica",
+    "place_name": "Valfabbrica, Perugia, Italy",
+    "bbox": [
+        12.552314,
+        43.128246,
+        12.714086,
+        43.240183
+    ],
+    "center": [
+        12.6,
+        43.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6,
+            43.16667
+        ]
+    }
+}

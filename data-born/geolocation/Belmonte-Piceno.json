@@ -1,0 +1,27 @@
+{
+    "id": "place.9213284186162570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belmonte Piceno",
+    "place_name": "Belmonte Piceno, Fermo, Italy",
+    "bbox": [
+        13.514235,
+        43.073425,
+        13.577897,
+        43.10762
+    ],
+    "center": [
+        13.53888,
+        43.0915
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53888,
+            43.0915
+        ]
+    }
+}

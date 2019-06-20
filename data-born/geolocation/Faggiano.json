@@ -1,0 +1,27 @@
+{
+    "id": "place.5364327322735010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Faggiano",
+    "place_name": "Faggiano, Taranto, Italy",
+    "bbox": [
+        17.340588,
+        40.379466,
+        17.413054,
+        40.447857
+    ],
+    "center": [
+        17.38333,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.38333,
+            40.41667
+        ]
+    }
+}

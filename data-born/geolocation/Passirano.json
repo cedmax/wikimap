@@ -1,0 +1,27 @@
+{
+    "id": "place.11542684872626400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Passirano",
+    "place_name": "Passirano, Brescia, Italy",
+    "bbox": [
+        10.025562,
+        45.562396,
+        10.089864,
+        45.622477
+    ],
+    "center": [
+        10.06667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.06667,
+            45.6
+        ]
+    }
+}

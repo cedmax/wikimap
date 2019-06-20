@@ -1,0 +1,27 @@
+{
+    "id": "place.12408496051390630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nole",
+    "place_name": "Nole, Torino, Italy",
+    "bbox": [
+        7.537931,
+        45.209924,
+        7.586153,
+        45.286128
+    ],
+    "center": [
+        7.5731,
+        45.2413
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.5731,
+            45.2413
+        ]
+    }
+}

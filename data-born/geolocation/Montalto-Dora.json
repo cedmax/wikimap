@@ -1,0 +1,27 @@
+{
+    "id": "place.12522354628800030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalto Dora",
+    "place_name": "Montalto Dora, Torino, Italy",
+    "bbox": [
+        7.837869,
+        45.47755,
+        7.887354,
+        45.506874
+    ],
+    "center": [
+        7.86667,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            45.48333
+        ]
+    }
+}

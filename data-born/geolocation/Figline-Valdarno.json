@@ -1,0 +1,21 @@
+{
+    "id": "address.1740693852",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Figline Valdarno",
+    "place_name": "via Figline Valdarno, 00189 Roma Roma, Italy",
+    "center": [
+        12.454178,
+        41.965137
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.454178,
+            41.965137
+        ]
+    }
+}

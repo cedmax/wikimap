@@ -1,0 +1,21 @@
+{
+    "id": "poi.3032246950311",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Parghelia",
+    "place_name": "Parghelia, Parghelia, Vibo Valentia 89861, Italy",
+    "center": [
+        15.919394,
+        38.6826425
+    ],
+    "geometry": {
+        "coordinates": [
+            15.919394,
+            38.6826425
+        ],
+        "type": "Point"
+    }
+}

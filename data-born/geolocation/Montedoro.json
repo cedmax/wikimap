@@ -1,0 +1,27 @@
+{
+    "id": "place.5618608862121150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montedoro",
+    "place_name": "Montedoro, Caltanissetta, Italy",
+    "bbox": [
+        13.802587,
+        37.431061,
+        13.853598,
+        37.477802
+    ],
+    "center": [
+        13.81667,
+        37.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81667,
+            37.45
+        ]
+    }
+}

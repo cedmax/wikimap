@@ -1,0 +1,27 @@
+{
+    "id": "place.18918330073440960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montevago",
+    "place_name": "Montevago, Agrigento, Italy",
+    "bbox": [
+        12.893826,
+        37.657212,
+        12.995359,
+        37.72862
+    ],
+    "center": [
+        12.98667,
+        37.70333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98667,
+            37.70333
+        ]
+    }
+}

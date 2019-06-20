@@ -1,0 +1,27 @@
+{
+    "id": "place.18945431754053160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Masserano",
+    "place_name": "Masserano, Biella, Italy",
+    "bbox": [
+        8.197633,
+        45.516826,
+        8.291821,
+        45.614928
+    ],
+    "center": [
+        8.22194,
+        45.59528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.22194,
+            45.59528
+        ]
+    }
+}

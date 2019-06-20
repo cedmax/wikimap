@@ -1,0 +1,27 @@
+{
+    "id": "place.10015153702170340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torrice",
+    "place_name": "Torrice, Frosinone, Italy",
+    "bbox": [
+        13.369791,
+        41.599415,
+        13.430359,
+        41.654288
+    ],
+    "center": [
+        13.4,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            41.63333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.3332894678546",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Stilo",
+    "place_name": "Stilo, Via Carducci 17, Pedrengo, Bergamo 24066, Italy",
+    "center": [
+        9.746017,
+        45.69514
+    ],
+    "geometry": {
+        "coordinates": [
+            9.746017,
+            45.69514
+        ],
+        "type": "Point"
+    }
+}

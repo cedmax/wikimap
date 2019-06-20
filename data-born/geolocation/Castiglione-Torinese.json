@@ -1,0 +1,27 @@
+{
+    "id": "place.15542349480346160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione Torinese",
+    "place_name": "Castiglione Torinese, Torino, Italy",
+    "bbox": [
+        7.772931,
+        45.08303,
+        7.82492,
+        45.141177
+    ],
+    "center": [
+        7.81667,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.81667,
+            45.11667
+        ]
+    }
+}

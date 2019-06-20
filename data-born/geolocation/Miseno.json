@@ -1,0 +1,21 @@
+{
+    "id": "poi.2628520028559",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Miseno",
+    "place_name": "Miseno, Bacoli, Napoli 80070, Italy",
+    "center": [
+        14.079565,
+        40.787716
+    ],
+    "geometry": {
+        "coordinates": [
+            14.079565,
+            40.787716
+        ],
+        "type": "Point"
+    }
+}

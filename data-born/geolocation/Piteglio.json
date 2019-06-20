@@ -1,0 +1,27 @@
+{
+    "id": "place.3255951473329130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piteglio",
+    "place_name": "Piteglio, Pistoia, Italy",
+    "bbox": [
+        10.718454,
+        43.970196,
+        10.814104,
+        44.081278
+    ],
+    "center": [
+        10.76667,
+        44.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76667,
+            44.03333
+        ]
+    }
+}

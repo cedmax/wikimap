@@ -1,0 +1,27 @@
+{
+    "id": "place.9847890147197110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colle Umberto",
+    "place_name": "Colle Umberto, Treviso, Italy",
+    "bbox": [
+        12.321344,
+        45.923629,
+        12.377134,
+        45.966518
+    ],
+    "center": [
+        12.35,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.35,
+            45.95
+        ]
+    }
+}

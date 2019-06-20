@@ -1,0 +1,27 @@
+{
+    "id": "place.16190498479553610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genova",
+    "place_name": "Genova, Genova, Italy",
+    "bbox": [
+        8.666106,
+        44.378679,
+        9.095798,
+        44.519801
+    ],
+    "center": [
+        8.93398,
+        44.40719
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93398,
+            44.40719
+        ]
+    }
+}

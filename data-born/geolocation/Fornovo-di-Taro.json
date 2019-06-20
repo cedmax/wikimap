@@ -1,0 +1,27 @@
+{
+    "id": "place.10750975470772430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fornovo di Taro",
+    "place_name": "Fornovo di Taro, Parma, Italy",
+    "bbox": [
+        10.020596,
+        44.62141,
+        10.186913,
+        44.713329
+    ],
+    "center": [
+        10.1,
+        44.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1,
+            44.68333
+        ]
+    }
+}

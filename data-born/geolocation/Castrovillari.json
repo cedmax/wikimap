@@ -1,0 +1,27 @@
+{
+    "id": "place.17378779413300000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrovillari",
+    "place_name": "Castrovillari, Cosenza, Italy",
+    "bbox": [
+        16.174175,
+        39.71026,
+        16.299612,
+        39.908387
+    ],
+    "center": [
+        16.2,
+        39.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2,
+            39.81667
+        ]
+    }
+}

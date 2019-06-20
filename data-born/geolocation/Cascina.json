@@ -1,0 +1,27 @@
+{
+    "id": "place.8228239358106800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cascina",
+    "place_name": "Cascina, Pisa, Italy",
+    "bbox": [
+        10.4096,
+        43.617318,
+        10.578186,
+        43.72204
+    ],
+    "center": [
+        10.50395,
+        43.6843
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.50395,
+            43.6843
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11787517904707950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrolibero",
+    "place_name": "Castrolibero, Cosenza, Italy",
+    "bbox": [
+        16.183872,
+        39.289551,
+        16.234002,
+        39.328354
+    ],
+    "center": [
+        16.2,
+        39.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2,
+            39.31667
+        ]
+    }
+}

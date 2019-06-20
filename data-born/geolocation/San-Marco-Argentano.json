@@ -1,0 +1,27 @@
+{
+    "id": "place.11905772338599130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marco Argentano",
+    "place_name": "San Marco Argentano, Cosenza, Italy",
+    "bbox": [
+        16.072341,
+        39.527893,
+        16.246716,
+        39.644446
+    ],
+    "center": [
+        16.11667,
+        39.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.11667,
+            39.55
+        ]
+    }
+}

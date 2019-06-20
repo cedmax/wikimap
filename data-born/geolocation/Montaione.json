@@ -1,0 +1,27 @@
+{
+    "id": "place.7065216368784520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montaione",
+    "place_name": "Montaione, Firenze, Italy",
+    "bbox": [
+        10.821836,
+        43.487087,
+        10.948815,
+        43.629282
+    ],
+    "center": [
+        10.91167,
+        43.55333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91167,
+            43.55333
+        ]
+    }
+}

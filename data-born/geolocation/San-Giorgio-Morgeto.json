@@ -1,0 +1,27 @@
+{
+    "id": "place.14243540217441510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio Morgeto",
+    "place_name": "San Giorgio Morgeto, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.067514,
+        38.336586,
+        16.174921,
+        38.403631
+    ],
+    "center": [
+        16.1,
+        38.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.1,
+            38.38333
+        ]
+    }
+}

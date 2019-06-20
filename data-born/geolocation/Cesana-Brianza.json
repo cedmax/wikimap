@@ -1,0 +1,27 @@
+{
+    "id": "place.11666062142779680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesana Brianza",
+    "place_name": "Cesana Brianza, Lecco, Italy",
+    "bbox": [
+        9.285056,
+        45.803765,
+        9.31604,
+        45.8377
+    ],
+    "center": [
+        9.3,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3,
+            45.81667
+        ]
+    }
+}

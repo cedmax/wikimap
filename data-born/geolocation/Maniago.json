@@ -1,0 +1,27 @@
+{
+    "id": "place.12457874696297680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maniago",
+    "place_name": "Maniago, Pordenone, Italy",
+    "bbox": [
+        12.639079,
+        46.077441,
+        12.785498,
+        46.197255
+    ],
+    "center": [
+        12.71667,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            46.16667
+        ]
+    }
+}

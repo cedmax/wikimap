@@ -1,0 +1,27 @@
+{
+    "id": "place.5663047972738470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sannicandro di Bari",
+    "place_name": "Sannicandro di Bari, Bari, Italy",
+    "bbox": [
+        16.710378,
+        40.920026,
+        16.846252,
+        41.027947
+    ],
+    "center": [
+        16.8,
+        41
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.8,
+            41
+        ]
+    }
+}

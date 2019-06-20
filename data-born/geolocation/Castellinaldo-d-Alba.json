@@ -1,0 +1,27 @@
+{
+    "id": "place.6770355178839550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellinaldo d'Alba",
+    "place_name": "Castellinaldo d'Alba, Cuneo, Italy",
+    "bbox": [
+        8.011936,
+        44.760122,
+        8.055766,
+        44.795057
+    ],
+    "center": [
+        8.03333,
+        44.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.03333,
+            44.78333
+        ]
+    }
+}

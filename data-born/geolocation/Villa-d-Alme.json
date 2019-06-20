@@ -1,0 +1,27 @@
+{
+    "id": "place.4580304777102500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa d'Almè",
+    "place_name": "Villa d'Almè, Bergamo, Italy",
+    "bbox": [
+        9.603167,
+        45.738017,
+        9.642638,
+        45.766761
+    ],
+    "center": [
+        9.61667,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61667,
+            45.75
+        ]
+    }
+}

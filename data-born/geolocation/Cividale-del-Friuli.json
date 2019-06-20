@@ -1,0 +1,27 @@
+{
+    "id": "place.9073446889948810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cividale del Friuli",
+    "place_name": "Cividale del Friuli, Udine, Italy",
+    "bbox": [
+        13.383939,
+        46.016487,
+        13.506795,
+        46.130403
+    ],
+    "center": [
+        13.435,
+        46.0905
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.435,
+            46.0905
+        ]
+    }
+}

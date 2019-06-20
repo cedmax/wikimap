@@ -1,0 +1,27 @@
+{
+    "id": "place.9241949620539930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piancastagnaio",
+    "place_name": "Piancastagnaio, Siena, Italy",
+    "bbox": [
+        11.622521,
+        42.785595,
+        11.769897,
+        42.864026
+    ],
+    "center": [
+        11.68333,
+        42.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68333,
+            42.85
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13861838417005470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seravezza",
+    "place_name": "Seravezza, Lucca, Italy",
+    "bbox": [
+        10.171574,
+        43.966656,
+        10.267043,
+        44.071761
+    ],
+    "center": [
+        10.23333,
+        44
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23333,
+            44
+        ]
+    }
+}

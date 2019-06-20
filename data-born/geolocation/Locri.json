@@ -1,0 +1,27 @@
+{
+    "id": "place.17726571503885770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Locri",
+    "place_name": "Locri, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.195322,
+        38.204205,
+        16.281943,
+        38.267298
+    ],
+    "center": [
+        16.26667,
+        38.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.26667,
+            38.23333
+        ]
+    }
+}

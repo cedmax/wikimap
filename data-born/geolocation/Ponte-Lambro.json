@@ -1,0 +1,27 @@
+{
+    "id": "place.4199957490096480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte Lambro",
+    "place_name": "Ponte Lambro, Como, Italy",
+    "bbox": [
+        9.204423,
+        45.816847,
+        9.237576,
+        45.840644
+    ],
+    "center": [
+        9.23333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            45.83333
+        ]
+    }
+}

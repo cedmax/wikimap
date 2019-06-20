@@ -1,0 +1,27 @@
+{
+    "id": "place.17684319147179780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cutro",
+    "place_name": "Cutro, Crotone, Italy",
+    "bbox": [
+        16.891315,
+        38.927925,
+        17.085527,
+        39.091222
+    ],
+    "center": [
+        16.98194,
+        39.03417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.98194,
+            39.03417
+        ]
+    }
+}

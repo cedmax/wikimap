@@ -1,0 +1,27 @@
+{
+    "id": "place.5926307746603830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gargnano",
+    "place_name": "Gargnano, Brescia, Italy",
+    "bbox": [
+        10.533546,
+        45.655774,
+        10.725716,
+        45.751972
+    ],
+    "center": [
+        10.66667,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66667,
+            45.68333
+        ]
+    }
+}

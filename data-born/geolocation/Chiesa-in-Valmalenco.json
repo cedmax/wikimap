@@ -1,0 +1,27 @@
+{
+    "id": "place.10282391565440250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiesa in Valmalenco",
+    "place_name": "Chiesa in Valmalenco, Sondrio, Italy",
+    "bbox": [
+        9.714451,
+        46.239601,
+        9.88372,
+        46.351964
+    ],
+    "center": [
+        9.85,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            46.26667
+        ]
+    }
+}

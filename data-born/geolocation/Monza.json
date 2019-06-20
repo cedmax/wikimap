@@ -1,0 +1,27 @@
+{
+    "id": "place.4719985569596590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monza",
+    "place_name": "Monza, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.22702,
+        45.553289,
+        9.324497,
+        45.632281
+    ],
+    "center": [
+        9.27361,
+        45.58472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.27361,
+            45.58472
+        ]
+    }
+}

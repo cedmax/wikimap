@@ -1,0 +1,27 @@
+{
+    "id": "place.7863275201116230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casola di Napoli",
+    "place_name": "Casola di Napoli, Napoli, Italy",
+    "bbox": [
+        14.517547,
+        40.68968,
+        14.561085,
+        40.706233
+    ],
+    "center": [
+        14.5276,
+        40.6969
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5276,
+            40.6969
+        ]
+    }
+}

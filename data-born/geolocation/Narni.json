@@ -1,0 +1,27 @@
+{
+    "id": "place.2574321804870510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Narni",
+    "place_name": "Narni, Terni, Italy",
+    "bbox": [
+        12.411111,
+        42.421238,
+        12.614632,
+        42.600567
+    ],
+    "center": [
+        12.51667,
+        42.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.51667,
+            42.51667
+        ]
+    }
+}

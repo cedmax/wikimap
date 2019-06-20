@@ -1,0 +1,27 @@
+{
+    "id": "place.7330519492291830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alano di Piave",
+    "place_name": "Alano di Piave, Belluno, Italy",
+    "bbox": [
+        11.824727,
+        45.880758,
+        11.948577,
+        45.938735
+    ],
+    "center": [
+        11.90778,
+        45.90722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.90778,
+            45.90722
+        ]
+    }
+}

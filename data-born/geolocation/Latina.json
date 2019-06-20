@@ -1,0 +1,27 @@
+{
+    "id": "place.9655345382285630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Latina",
+    "place_name": "Latina, Latina, Italy",
+    "bbox": [
+        12.72046,
+        41.383414,
+        13.024506,
+        41.561969
+    ],
+    "center": [
+        12.9037,
+        41.4676
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9037,
+            41.4676
+        ]
+    }
+}

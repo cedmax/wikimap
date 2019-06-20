@@ -1,0 +1,27 @@
+{
+    "id": "place.5798144749462630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torremaggiore",
+    "place_name": "Torremaggiore, Foggia, Italy",
+    "bbox": [
+        15.101357,
+        41.568547,
+        15.356623,
+        41.76202
+    ],
+    "center": [
+        15.28333,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.28333,
+            41.68333
+        ]
+    }
+}

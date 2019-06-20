@@ -1,0 +1,27 @@
+{
+    "id": "place.10192918012986460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Severo",
+    "place_name": "San Severo, Foggia, Italy",
+    "bbox": [
+        15.296062,
+        41.543391,
+        15.605866,
+        41.774621
+    ],
+    "center": [
+        15.37928,
+        41.69511
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.37928,
+            41.69511
+        ]
+    }
+}

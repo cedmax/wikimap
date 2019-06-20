@@ -1,0 +1,27 @@
+{
+    "id": "place.6110208001659110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lapedona",
+    "place_name": "Lapedona, Fermo, Italy",
+    "bbox": [
+        13.745484,
+        43.077104,
+        13.815617,
+        43.130897
+    ],
+    "center": [
+        13.77276,
+        43.10977
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.77276,
+            43.10977
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13692827294262860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roure",
+    "place_name": "Roure, Torino, Italy",
+    "bbox": [
+        7.054579,
+        44.959918,
+        7.182348,
+        45.067376
+    ],
+    "center": [
+        7.13333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.13333,
+            45
+        ]
+    }
+}

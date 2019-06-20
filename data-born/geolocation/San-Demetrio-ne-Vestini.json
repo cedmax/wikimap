@@ -1,0 +1,27 @@
+{
+    "id": "place.11521850907189570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Demetrio ne' Vestini",
+    "place_name": "San Demetrio ne' Vestini, L'Aquila, Italy",
+    "bbox": [
+        13.529026,
+        42.240926,
+        13.586192,
+        42.309982
+    ],
+    "center": [
+        13.55611,
+        42.29056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.55611,
+            42.29056
+        ]
+    }
+}

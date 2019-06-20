@@ -1,0 +1,27 @@
+{
+    "id": "place.8501087252862870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterosso Grana",
+    "place_name": "Monterosso Grana, Cuneo, Italy",
+    "bbox": [
+        7.235124,
+        44.354992,
+        7.349886,
+        44.432261
+    ],
+    "center": [
+        7.31667,
+        44.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.31667,
+            44.41667
+        ]
+    }
+}

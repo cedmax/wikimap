@@ -1,0 +1,27 @@
+{
+    "id": "place.8590746670577150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arquata Scrivia",
+    "place_name": "Arquata Scrivia, Alessandria, Italy",
+    "bbox": [
+        8.854641,
+        44.640697,
+        8.931266,
+        44.705973
+    ],
+    "center": [
+        8.88167,
+        44.6925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88167,
+            44.6925
+        ]
+    }
+}

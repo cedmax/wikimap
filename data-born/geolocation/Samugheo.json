@@ -1,0 +1,27 @@
+{
+    "id": "place.9573183644341960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Samugheo",
+    "place_name": "Samugheo, Oristano, Italy",
+    "bbox": [
+        8.878189,
+        39.887521,
+        9.017541,
+        39.996123
+    ],
+    "center": [
+        8.95,
+        39.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.95,
+            39.95
+        ]
+    }
+}

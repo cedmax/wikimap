@@ -1,0 +1,27 @@
+{
+    "id": "place.9109825468116960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Sant'Elpidio",
+    "place_name": "Porto Sant'Elpidio, Fermo, Italy",
+    "bbox": [
+        13.712515,
+        43.229564,
+        13.778582,
+        43.295905
+    ],
+    "center": [
+        13.75853,
+        43.25864
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75853,
+            43.25864
+        ]
+    }
+}

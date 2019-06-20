@@ -1,0 +1,27 @@
+{
+    "id": "place.10112525340632230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Reggiolo",
+    "place_name": "Reggiolo, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.723872,
+        44.881413,
+        10.877252,
+        44.943928
+    ],
+    "center": [
+        10.81667,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            44.91667
+        ]
+    }
+}

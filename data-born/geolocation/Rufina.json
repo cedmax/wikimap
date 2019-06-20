@@ -1,0 +1,27 @@
+{
+    "id": "place.12108945849352590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rufina",
+    "place_name": "Rufina, Firenze, Italy",
+    "bbox": [
+        11.460534,
+        43.779885,
+        11.60556,
+        43.865964
+    ],
+    "center": [
+        11.48333,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48333,
+            43.81667
+        ]
+    }
+}

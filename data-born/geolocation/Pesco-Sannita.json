@@ -1,0 +1,27 @@
+{
+    "id": "place.14156300103748210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pesco Sannita",
+    "place_name": "Pesco Sannita, Benevento, Italy",
+    "bbox": [
+        14.78849,
+        41.19398,
+        14.862713,
+        41.280705
+    ],
+    "center": [
+        14.81667,
+        41.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.81667,
+            41.23333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12880423588291290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albenga",
+    "place_name": "Albenga, Savona, Italy",
+    "bbox": [
+        8.098803,
+        44.022526,
+        8.230001,
+        44.101063
+    ],
+    "center": [
+        8.21302,
+        44.04911
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.21302,
+            44.04911
+        ]
+    }
+}

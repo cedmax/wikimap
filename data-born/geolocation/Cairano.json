@@ -1,0 +1,27 @@
+{
+    "id": "place.4532290600201110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cairano",
+    "place_name": "Cairano, Avellino, Italy",
+    "bbox": [
+        15.339887,
+        40.875894,
+        15.405435,
+        40.914713
+    ],
+    "center": [
+        15.37111,
+        40.89778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.37111,
+            40.89778
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6322763833810840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tigliole",
+    "place_name": "Tigliole, Asti, Italy",
+    "bbox": [
+        8.042545,
+        44.862911,
+        8.120682,
+        44.900923
+    ],
+    "center": [
+        8.07778,
+        44.88722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.07778,
+            44.88722
+        ]
+    }
+}

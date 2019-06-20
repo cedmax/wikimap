@@ -1,0 +1,21 @@
+{
+    "id": "poi.2602750243750",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Falcone",
+    "place_name": "Falcone, Via della Meloria, 53, Roma, Roma 00136, Italy",
+    "center": [
+        12.446031,
+        41.90715
+    ],
+    "geometry": {
+        "coordinates": [
+            12.446031,
+            41.90715
+        ],
+        "type": "Point"
+    }
+}

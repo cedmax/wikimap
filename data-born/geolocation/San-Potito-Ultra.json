@@ -1,0 +1,27 @@
+{
+    "id": "place.11646856777420190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Potito Ultra",
+    "place_name": "San Potito Ultra, Avellino, Italy",
+    "bbox": [
+        14.837344,
+        40.917563,
+        14.879124,
+        40.939214
+    ],
+    "center": [
+        14.86667,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86667,
+            40.93333
+        ]
+    }
+}

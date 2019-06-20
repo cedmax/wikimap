@@ -1,0 +1,27 @@
+{
+    "id": "place.10655626504497390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavallasca",
+    "place_name": "Cavallasca, Como, Italy",
+    "bbox": [
+        9.016133,
+        45.803864,
+        9.0423,
+        45.822641
+    ],
+    "center": [
+        9.03333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.81667
+        ]
+    }
+}

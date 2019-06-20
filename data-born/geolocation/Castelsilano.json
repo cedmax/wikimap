@@ -1,0 +1,27 @@
+{
+    "id": "place.5456887308687950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelsilano",
+    "place_name": "Castelsilano, Crotone, Italy",
+    "bbox": [
+        16.751275,
+        39.192187,
+        16.903292,
+        39.295123
+    ],
+    "center": [
+        16.76667,
+        39.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.76667,
+            39.26667
+        ]
+    }
+}

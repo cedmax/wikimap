@@ -1,0 +1,27 @@
+{
+    "id": "place.9893776709467420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Presicce",
+    "place_name": "Presicce, Lecce, Italy",
+    "bbox": [
+        18.201264,
+        39.857064,
+        18.297673,
+        39.919646
+    ],
+    "center": [
+        18.26667,
+        39.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.26667,
+            39.9
+        ]
+    }
+}

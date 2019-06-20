@@ -1,0 +1,27 @@
+{
+    "id": "place.5722994357219280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nago-Torbole",
+    "place_name": "Nago-Torbole, Trento, Italy",
+    "bbox": [
+        10.837876,
+        45.805577,
+        10.919353,
+        45.88781
+    ],
+    "center": [
+        10.89111,
+        45.87583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.89111,
+            45.87583
+        ]
+    }
+}

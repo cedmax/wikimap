@@ -1,0 +1,27 @@
+{
+    "id": "place.6773057269844350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Conselve",
+    "place_name": "Conselve, Padova, Italy",
+    "bbox": [
+        11.837496,
+        45.200621,
+        11.930234,
+        45.256649
+    ],
+    "center": [
+        11.86667,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            45.23333
+        ]
+    }
+}

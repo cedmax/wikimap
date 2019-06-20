@@ -1,0 +1,27 @@
+{
+    "id": "place.4915054909877540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Martino Buon Albergo",
+    "place_name": "San Martino Buon Albergo, Verona, Italy",
+    "bbox": [
+        11.05746,
+        45.378805,
+        11.143403,
+        45.476105
+    ],
+    "center": [
+        11.1,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.1,
+            45.41667
+        ]
+    }
+}

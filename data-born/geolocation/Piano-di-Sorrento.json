@@ -1,0 +1,27 @@
+{
+    "id": "place.14898853575644940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piano di Sorrento",
+    "place_name": "Piano di Sorrento, Napoli, Italy",
+    "bbox": [
+        14.399604,
+        40.609741,
+        14.449384,
+        40.643835
+    ],
+    "center": [
+        14.41111,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.41111,
+            40.63333
+        ]
+    }
+}

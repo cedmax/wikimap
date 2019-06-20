@@ -1,0 +1,27 @@
+{
+    "id": "place.14513923480977350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Leni",
+    "place_name": "Leni, Messina, Italy",
+    "bbox": [
+        14.795883,
+        38.53803,
+        14.849255,
+        38.569677
+    ],
+    "center": [
+        14.83333,
+        38.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83333,
+            38.55
+        ]
+    }
+}

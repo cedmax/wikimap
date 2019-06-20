@@ -1,0 +1,27 @@
+{
+    "id": "place.9036434258406940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria Capua Vetere",
+    "place_name": "Santa Maria Capua Vetere, Caserta, Italy",
+    "bbox": [
+        14.220433,
+        41.031443,
+        14.269931,
+        41.102815
+    ],
+    "center": [
+        14.25,
+        41.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.25,
+            41.08333
+        ]
+    }
+}

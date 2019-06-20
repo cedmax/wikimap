@@ -1,0 +1,27 @@
+{
+    "id": "place.9083059374619730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maddaloni",
+    "place_name": "Maddaloni, Caserta, Italy",
+    "bbox": [
+        14.341881,
+        41.000014,
+        14.448949,
+        41.059361
+    ],
+    "center": [
+        14.38333,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.38333,
+            41.03333
+        ]
+    }
+}

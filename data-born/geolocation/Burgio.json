@@ -1,0 +1,27 @@
+{
+    "id": "place.10258745926125680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Burgio",
+    "place_name": "Burgio, Agrigento, Italy",
+    "bbox": [
+        13.250885,
+        37.583583,
+        13.351702,
+        37.662344
+    ],
+    "center": [
+        13.29078,
+        37.59853
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29078,
+            37.59853
+        ]
+    }
+}

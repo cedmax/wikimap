@@ -1,0 +1,27 @@
+{
+    "id": "place.588724238222790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Berardenga",
+    "place_name": "Castelnuovo Berardenga, Siena, Italy",
+    "bbox": [
+        11.304685,
+        43.295056,
+        11.601201,
+        43.429183
+    ],
+    "center": [
+        11.50417,
+        43.34722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.50417,
+            43.34722
+        ]
+    }
+}

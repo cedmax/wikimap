@@ -1,0 +1,27 @@
+{
+    "id": "place.8484987362405690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galatina",
+    "place_name": "Galatina, Lecce, Italy",
+    "bbox": [
+        18.069134,
+        40.136907,
+        18.215715,
+        40.250456
+    ],
+    "center": [
+        18.16667,
+        40.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.16667,
+            40.16667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.532493694",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "Viale Sestri Ponente",
+    "place_name": "Viale Sestri Ponente, 00054 Fiumicino Roma, Italy",
+    "center": [
+        12.193431,
+        41.859164
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.193431,
+            41.859164
+        ]
+    }
+}

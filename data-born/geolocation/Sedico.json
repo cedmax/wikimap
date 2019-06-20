@@ -1,0 +1,27 @@
+{
+    "id": "place.9747243189156750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sedico",
+    "place_name": "Sedico, Belluno, Italy",
+    "bbox": [
+        12.05552,
+        46.076726,
+        12.191919,
+        46.266463
+    ],
+    "center": [
+        12.1,
+        46.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            46.11667
+        ]
+    }
+}

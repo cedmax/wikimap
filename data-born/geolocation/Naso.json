@@ -1,0 +1,27 @@
+{
+    "id": "place.8462343241914890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Naso",
+    "place_name": "Naso, Messina, Italy",
+    "bbox": [
+        14.72405,
+        38.086729,
+        14.812217,
+        38.156513
+    ],
+    "center": [
+        14.78778,
+        38.12417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78778,
+            38.12417
+        ]
+    }
+}

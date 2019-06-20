@@ -1,0 +1,27 @@
+{
+    "id": "place.6751069333035680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre Orsaia",
+    "place_name": "Torre Orsaia, Salerno, Italy",
+    "bbox": [
+        15.455882,
+        40.090292,
+        15.511627,
+        40.179042
+    ],
+    "center": [
+        15.46667,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.46667,
+            40.13333
+        ]
+    }
+}

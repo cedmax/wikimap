@@ -1,0 +1,27 @@
+{
+    "id": "place.14084139649255910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vaglio Basilicata",
+    "place_name": "Vaglio Basilicata, Potenza, Italy",
+    "bbox": [
+        15.8692,
+        40.637668,
+        15.982149,
+        40.701981
+    ],
+    "center": [
+        15.89606,
+        40.67515
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.89606,
+            40.67515
+        ]
+    }
+}

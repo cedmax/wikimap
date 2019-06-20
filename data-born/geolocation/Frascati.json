@@ -1,0 +1,27 @@
+{
+    "id": "place.3068231559716120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frascati",
+    "place_name": "Frascati, Roma, Italy",
+    "bbox": [
+        12.626205,
+        41.79628,
+        12.704476,
+        41.851931
+    ],
+    "center": [
+        12.68333,
+        41.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68333,
+            41.81667
+        ]
+    }
+}

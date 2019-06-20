@@ -1,0 +1,27 @@
+{
+    "id": "place.8038107725562830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Conegliano",
+    "place_name": "Conegliano, Treviso, Italy",
+    "bbox": [
+        12.247192,
+        45.860254,
+        12.333188,
+        45.947472
+    ],
+    "center": [
+        12.29694,
+        45.88722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.29694,
+            45.88722
+        ]
+    }
+}

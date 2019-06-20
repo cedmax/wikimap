@@ -1,0 +1,27 @@
+{
+    "id": "place.12433714371687790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lei",
+    "place_name": "Lei, Nuoro, Italy",
+    "bbox": [
+        8.867768,
+        40.268584,
+        8.956568,
+        40.345789
+    ],
+    "center": [
+        8.91889,
+        40.30556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91889,
+            40.30556
+        ]
+    }
+}

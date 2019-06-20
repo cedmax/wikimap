@@ -1,0 +1,27 @@
+{
+    "id": "place.8866472843345750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallecorsa",
+    "place_name": "Vallecorsa, Frosinone, Italy",
+    "bbox": [
+        13.349399,
+        41.396857,
+        13.439264,
+        41.475986
+    ],
+    "center": [
+        13.4,
+        41.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            41.45
+        ]
+    }
+}

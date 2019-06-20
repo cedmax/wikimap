@@ -1,0 +1,27 @@
+{
+    "id": "place.6935963244543390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Colombano al Lambro",
+    "place_name": "San Colombano al Lambro, Milano, Italy",
+    "bbox": [
+        9.437436,
+        45.161392,
+        9.531918,
+        45.201852
+    ],
+    "center": [
+        9.48333,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.48333,
+            45.18333
+        ]
+    }
+}

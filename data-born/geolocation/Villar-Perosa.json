@@ -1,0 +1,27 @@
+{
+    "id": "place.11437038355368370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villar Perosa",
+    "place_name": "Villar Perosa, Torino, Italy",
+    "bbox": [
+        7.235307,
+        44.892064,
+        7.279062,
+        44.946291
+    ],
+    "center": [
+        7.25,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.25,
+            44.91667
+        ]
+    }
+}

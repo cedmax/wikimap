@@ -1,0 +1,27 @@
+{
+    "id": "place.15172974706799820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterubbiano",
+    "place_name": "Monterubbiano, Fermo, Italy",
+    "bbox": [
+        13.677957,
+        43.049509,
+        13.773772,
+        43.125197
+    ],
+    "center": [
+        13.7168,
+        43.08535
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7168,
+            43.08535
+        ]
+    }
+}

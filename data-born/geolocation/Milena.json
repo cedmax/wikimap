@@ -1,0 +1,27 @@
+{
+    "id": "place.7949014521076400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Milena",
+    "place_name": "Milena, Caltanissetta, Italy",
+    "bbox": [
+        13.706827,
+        37.426811,
+        13.772662,
+        37.487711
+    ],
+    "center": [
+        13.73333,
+        37.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.73333,
+            37.46667
+        ]
+    }
+}

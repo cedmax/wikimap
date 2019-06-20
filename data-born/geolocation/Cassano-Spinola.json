@@ -1,0 +1,27 @@
+{
+    "id": "place.13164940621727370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassano Spinola",
+    "place_name": "Cassano Spinola, Alessandria, Italy",
+    "bbox": [
+        8.842816,
+        44.743046,
+        8.888832,
+        44.797576
+    ],
+    "center": [
+        8.86611,
+        44.76778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86611,
+            44.76778
+        ]
+    }
+}

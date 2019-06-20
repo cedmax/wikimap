@@ -1,0 +1,27 @@
+{
+    "id": "place.9830832420797140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Desio",
+    "place_name": "Desio, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.174815,
+        45.596106,
+        9.23492,
+        45.636315
+    ],
+    "center": [
+        9.21667,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            45.61667
+        ]
+    }
+}

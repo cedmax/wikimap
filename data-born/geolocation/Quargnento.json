@@ -1,0 +1,27 @@
+{
+    "id": "place.12331503720825550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quargnento",
+    "place_name": "Quargnento, Alessandria, Italy",
+    "bbox": [
+        8.4353,
+        44.918575,
+        8.538961,
+        44.985145
+    ],
+    "center": [
+        8.48806,
+        44.94583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48806,
+            44.94583
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3585992619430960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aiello Calabro",
+    "place_name": "Aiello Calabro, Cosenza, Italy",
+    "bbox": [
+        16.116891,
+        39.076971,
+        16.218968,
+        39.15648
+    ],
+    "center": [
+        16.16667,
+        39.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.16667,
+            39.11667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.1162381437",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Mestre",
+    "place_name": "via Mestre, 81033 Casal di Principe Caserta, Italy",
+    "center": [
+        14.114571,
+        41.011936
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.114571,
+            41.011936
+        ]
+    }
+}

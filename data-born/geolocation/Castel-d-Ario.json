@@ -1,0 +1,27 @@
+{
+    "id": "place.13325720450970600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel d'Ario",
+    "place_name": "Castel d'Ario, Mantova, Italy",
+    "bbox": [
+        10.934353,
+        45.13774,
+        10.998904,
+        45.206677
+    ],
+    "center": [
+        10.97556,
+        45.18889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.97556,
+            45.18889
+        ]
+    }
+}

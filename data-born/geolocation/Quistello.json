@@ -1,0 +1,21 @@
+{
+    "id": "poi.2448131380230",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Quistello",
+    "place_name": "Quistello, Quistello, Mantova 46026, Italy",
+    "center": [
+        10.9835695,
+        45.015997
+    ],
+    "geometry": {
+        "coordinates": [
+            10.9835695,
+            45.015997
+        ],
+        "type": "Point"
+    }
+}

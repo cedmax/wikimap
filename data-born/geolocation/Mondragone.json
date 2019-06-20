@@ -1,0 +1,27 @@
+{
+    "id": "place.13876009692621980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mondragone",
+    "place_name": "Mondragone, Caserta, Italy",
+    "bbox": [
+        13.852585,
+        41.046023,
+        13.986174,
+        41.163669
+    ],
+    "center": [
+        13.882595,
+        41.113542
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.882595,
+            41.113542
+        ]
+    }
+}

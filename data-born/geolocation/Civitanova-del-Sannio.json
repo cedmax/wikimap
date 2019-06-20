@@ -1,0 +1,27 @@
+{
+    "id": "place.6345798661831460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civitanova del Sannio",
+    "place_name": "Civitanova del Sannio, Isernia, Italy",
+    "bbox": [
+        14.359576,
+        41.622353,
+        14.503881,
+        41.76308
+    ],
+    "center": [
+        14.4,
+        41.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4,
+            41.66667
+        ]
+    }
+}

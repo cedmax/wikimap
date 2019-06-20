@@ -1,0 +1,27 @@
+{
+    "id": "place.13187629733012370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zevio",
+    "place_name": "Zevio, Verona, Italy",
+    "bbox": [
+        11.037811,
+        45.327239,
+        11.194065,
+        45.402495
+    ],
+    "center": [
+        11.13028,
+        45.37278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13028,
+            45.37278
+        ]
+    }
+}

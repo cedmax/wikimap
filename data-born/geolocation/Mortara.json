@@ -1,0 +1,27 @@
+{
+    "id": "place.16313037753817050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mortara",
+    "place_name": "Mortara, Pavia, Italy",
+    "bbox": [
+        8.682626,
+        45.209287,
+        8.80504,
+        45.28466
+    ],
+    "center": [
+        8.75,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.75,
+            45.25
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8270068502824000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quingentole",
+    "place_name": "Quingentole, Mantova, Italy",
+    "bbox": [
+        11.002812,
+        45.006381,
+        11.079888,
+        45.062122
+    ],
+    "center": [
+        11.04358,
+        45.03832
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.04358,
+            45.03832
+        ]
+    }
+}

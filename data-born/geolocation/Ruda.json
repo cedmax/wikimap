@@ -1,0 +1,27 @@
+{
+    "id": "place.6679267634056790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ruda",
+    "place_name": "Ruda, Udine, Italy",
+    "bbox": [
+        13.337753,
+        45.808544,
+        13.429039,
+        45.859091
+    ],
+    "center": [
+        13.4,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            45.83333
+        ]
+    }
+}

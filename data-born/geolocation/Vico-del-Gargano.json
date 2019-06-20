@@ -1,0 +1,27 @@
+{
+    "id": "place.15510752937422540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vico del Gargano",
+    "place_name": "Vico del Gargano, Foggia, Italy",
+    "bbox": [
+        15.91498,
+        41.807761,
+        16.063609,
+        41.945176
+    ],
+    "center": [
+        15.95639,
+        41.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.95639,
+            41.85
+        ]
+    }
+}

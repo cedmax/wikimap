@@ -1,0 +1,27 @@
+{
+    "id": "place.11545735417439790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caccuri",
+    "place_name": "Caccuri, Crotone, Italy",
+    "bbox": [
+        16.747271,
+        39.169564,
+        16.868185,
+        39.265853
+    ],
+    "center": [
+        16.78333,
+        39.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.23333
+        ]
+    }
+}

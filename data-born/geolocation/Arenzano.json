@@ -1,0 +1,27 @@
+{
+    "id": "place.3702140551757070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arenzano",
+    "place_name": "Arenzano, Genova, Italy",
+    "bbox": [
+        8.628073,
+        44.389823,
+        8.708947,
+        44.450729
+    ],
+    "center": [
+        8.68271,
+        44.40353
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.68271,
+            44.40353
+        ]
+    }
+}

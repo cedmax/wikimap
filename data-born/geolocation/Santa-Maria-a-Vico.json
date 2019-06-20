@@ -1,0 +1,27 @@
+{
+    "id": "place.13445264783299820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria a Vico",
+    "place_name": "Santa Maria a Vico, Caserta, Italy",
+    "bbox": [
+        14.442263,
+        41.013015,
+        14.492189,
+        41.051769
+    ],
+    "center": [
+        14.48333,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48333,
+            41.03333
+        ]
+    }
+}

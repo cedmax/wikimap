@@ -1,0 +1,27 @@
+{
+    "id": "place.8974242877171650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Turriaco",
+    "place_name": "Turriaco, Gorizia, Italy",
+    "bbox": [
+        13.426664,
+        45.808336,
+        13.463078,
+        45.834541
+    ],
+    "center": [
+        13.4422,
+        45.8225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4422,
+            45.8225
+        ]
+    }
+}

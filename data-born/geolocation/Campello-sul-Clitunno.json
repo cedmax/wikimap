@@ -1,0 +1,27 @@
+{
+    "id": "place.13700592391954110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campello sul Clitunno",
+    "place_name": "Campello sul Clitunno, Perugia, Italy",
+    "bbox": [
+        12.748457,
+        42.808246,
+        12.888548,
+        42.884146
+    ],
+    "center": [
+        12.76667,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76667,
+            42.81667
+        ]
+    }
+}

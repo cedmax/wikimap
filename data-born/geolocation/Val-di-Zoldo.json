@@ -1,0 +1,21 @@
+{
+    "id": "poi.3384434282704",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.5833333333333333,
+    "text": "Taverna Di Poldo",
+    "place_name": "Taverna Di Poldo, Viale Petrarca 15, Empoli, Firenze 50053, Italy",
+    "center": [
+        10.957947,
+        43.721447
+    ],
+    "geometry": {
+        "coordinates": [
+            10.957947,
+            43.721447
+        ],
+        "type": "Point"
+    }
+}

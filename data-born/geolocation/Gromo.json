@@ -1,0 +1,27 @@
+{
+    "id": "place.4073547476465320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gromo",
+    "place_name": "Gromo, Bergamo, Italy",
+    "bbox": [
+        9.917507,
+        45.953315,
+        10.023227,
+        45.994162
+    ],
+    "center": [
+        9.9275,
+        45.96444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9275,
+            45.96444
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2231281908931350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marsciano",
+    "place_name": "Marsciano, Perugia, Italy",
+    "bbox": [
+        12.20358,
+        42.877534,
+        12.401954,
+        43.04374
+    ],
+    "center": [
+        12.33333,
+        42.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33333,
+            42.91667
+        ]
+    }
+}

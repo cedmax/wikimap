@@ -1,0 +1,27 @@
+{
+    "id": "place.13044394180695730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossalta di Portogruaro",
+    "place_name": "Fossalta di Portogruaro, Venezia, Italy",
+    "bbox": [
+        12.860554,
+        45.73577,
+        12.969889,
+        45.820603
+    ],
+    "center": [
+        12.91667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.91667,
+            45.78333
+        ]
+    }
+}

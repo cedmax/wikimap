@@ -1,0 +1,21 @@
+{
+    "id": "address.1232465840",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Crescenzago",
+    "place_name": "via Crescenzago, 20099 Sesto San Giovanni Milano, Italy",
+    "center": [
+        9.242022,
+        45.520842
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.242022,
+            45.520842
+        ]
+    }
+}

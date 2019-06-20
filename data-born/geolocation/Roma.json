@@ -1,0 +1,27 @@
+{
+    "id": "place.9045806458813870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roma",
+    "place_name": "Roma, Roma, Italy",
+    "bbox": [
+        12.234478,
+        41.65548,
+        12.855979,
+        42.140911
+    ],
+    "center": [
+        12.48278,
+        41.89306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48278,
+            41.89306
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.1178985732",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9166666666666665,
+    "text": "via Barbiana",
+    "place_name": "via Barbiana, 48010 Cotignola Ravenna, Italy",
+    "center": [
+        11.903399,
+        44.358331
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.903399,
+            44.358331
+        ]
+    }
+}

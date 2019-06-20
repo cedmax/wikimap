@@ -1,0 +1,27 @@
+{
+    "id": "place.15582758386262280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colzate",
+    "place_name": "Colzate, Bergamo, Italy",
+    "bbox": [
+        9.790052,
+        45.810315,
+        9.865775,
+        45.848072
+    ],
+    "center": [
+        9.86667,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            45.81667
+        ]
+    }
+}

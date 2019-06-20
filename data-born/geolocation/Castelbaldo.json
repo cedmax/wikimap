@@ -1,0 +1,27 @@
+{
+    "id": "place.10944161892615080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelbaldo",
+    "place_name": "Castelbaldo, Padova, Italy",
+    "bbox": [
+        11.416999,
+        45.108942,
+        11.492442,
+        45.152951
+    ],
+    "center": [
+        11.45139,
+        45.12194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45139,
+            45.12194
+        ]
+    }
+}

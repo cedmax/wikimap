@@ -1,0 +1,21 @@
+{
+    "id": "poi.2216203132315",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Spezzano Albanese",
+    "place_name": "Spezzano Albanese, Spezzano Albanese, Cosenza 87019, Italy",
+    "center": [
+        16.3098365,
+        39.6683675
+    ],
+    "geometry": {
+        "coordinates": [
+            16.3098365,
+            39.6683675
+        ],
+        "type": "Point"
+    }
+}

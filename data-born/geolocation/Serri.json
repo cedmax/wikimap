@@ -1,0 +1,27 @@
+{
+    "id": "place.7974401529583790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serri",
+    "place_name": "Serri, Cagliari, Italy",
+    "bbox": [
+        9.101718,
+        39.663546,
+        9.178025,
+        39.737983
+    ],
+    "center": [
+        9.1447,
+        39.70141
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1447,
+            39.70141
+        ]
+    }
+}

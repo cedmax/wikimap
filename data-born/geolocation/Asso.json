@@ -1,0 +1,27 @@
+{
+    "id": "place.13016634341325930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asso",
+    "place_name": "Asso, Como, Italy",
+    "bbox": [
+        9.243433,
+        45.846486,
+        9.286732,
+        45.887856
+    ],
+    "center": [
+        9.26667,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.86667
+        ]
+    }
+}

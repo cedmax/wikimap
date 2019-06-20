@@ -1,0 +1,27 @@
+{
+    "id": "place.6082607504681140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpineti",
+    "place_name": "Carpineti, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.456167,
+        44.404038,
+        10.604659,
+        44.503466
+    ],
+    "center": [
+        10.52056,
+        44.45667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.52056,
+            44.45667
+        ]
+    }
+}

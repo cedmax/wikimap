@@ -1,0 +1,27 @@
+{
+    "id": "place.5020751142500190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Osini",
+    "place_name": "Osini, Ogliastra, Italy",
+    "bbox": [
+        9.427592,
+        39.6021,
+        9.622614,
+        39.855121
+    ],
+    "center": [
+        9.4962,
+        39.8227
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4962,
+            39.8227
+        ]
+    }
+}

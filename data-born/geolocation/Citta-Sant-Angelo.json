@@ -1,0 +1,27 @@
+{
+    "id": "place.15117722185770220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Città Sant'Angelo",
+    "place_name": "Città Sant'Angelo, Pescara, Italy",
+    "bbox": [
+        13.99051,
+        42.478053,
+        14.152125,
+        42.544133
+    ],
+    "center": [
+        14.05,
+        42.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.05,
+            42.51667
+        ]
+    }
+}

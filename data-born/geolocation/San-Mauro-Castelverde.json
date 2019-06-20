@@ -1,0 +1,27 @@
+{
+    "id": "place.13224266840479070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Mauro Castelverde",
+    "place_name": "San Mauro Castelverde, Palermo, Italy",
+    "bbox": [
+        14.139496,
+        37.846505,
+        14.292746,
+        38.020335
+    ],
+    "center": [
+        14.19056,
+        37.91444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.19056,
+            37.91444
+        ]
+    }
+}

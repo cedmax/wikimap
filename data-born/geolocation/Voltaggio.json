@@ -1,0 +1,27 @@
+{
+    "id": "place.10224396234355720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Voltaggio",
+    "place_name": "Voltaggio, Alessandria, Italy",
+    "bbox": [
+        8.796666,
+        44.550427,
+        8.905577,
+        44.645807
+    ],
+    "center": [
+        8.84417,
+        44.62278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.84417,
+            44.62278
+        ]
+    }
+}

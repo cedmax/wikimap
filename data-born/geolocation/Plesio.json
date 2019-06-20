@@ -1,0 +1,27 @@
+{
+    "id": "place.13240130549825230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Plesio",
+    "place_name": "Plesio, Como, Italy",
+    "bbox": [
+        9.187434,
+        46.030529,
+        9.244967,
+        46.100021
+    ],
+    "center": [
+        9.22556,
+        46.04944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.22556,
+            46.04944
+        ]
+    }
+}

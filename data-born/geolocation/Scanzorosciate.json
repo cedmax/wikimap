@@ -1,0 +1,27 @@
+{
+    "id": "place.2284427212981900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scanzorosciate",
+    "place_name": "Scanzorosciate, Bergamo, Italy",
+    "bbox": [
+        9.722003,
+        45.698586,
+        9.800841,
+        45.728626
+    ],
+    "center": [
+        9.73583,
+        45.71139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.73583,
+            45.71139
+        ]
+    }
+}

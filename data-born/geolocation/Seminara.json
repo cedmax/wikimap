@@ -1,0 +1,27 @@
+{
+    "id": "place.4916188813447750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seminara",
+    "place_name": "Seminara, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.825022,
+        38.305981,
+        15.924139,
+        38.382833
+    ],
+    "center": [
+        15.86667,
+        38.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.86667,
+            38.33333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7474599566609470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Burgos",
+    "place_name": "Burgos, Sassari, Italy",
+    "bbox": [
+        8.924004,
+        40.363982,
+        9.050741,
+        40.435584
+    ],
+    "center": [
+        8.99444,
+        40.39139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.99444,
+            40.39139
+        ]
+    }
+}

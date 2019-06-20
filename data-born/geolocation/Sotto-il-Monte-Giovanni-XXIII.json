@@ -1,0 +1,27 @@
+{
+    "id": "place.8037011962611170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sotto il Monte Giovanni XXIII",
+    "place_name": "Sotto il Monte Giovanni XXIII, Bergamo, Italy",
+    "bbox": [
+        9.48983,
+        45.690821,
+        9.531386,
+        45.721142
+    ],
+    "center": [
+        9.49917,
+        45.70722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.49917,
+            45.70722
+        ]
+    }
+}

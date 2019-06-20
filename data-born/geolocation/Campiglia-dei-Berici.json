@@ -1,0 +1,27 @@
+{
+    "id": "place.9135662399586810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campiglia dei Berici",
+    "place_name": "Campiglia dei Berici, Vicenza, Italy",
+    "bbox": [
+        11.523522,
+        45.310301,
+        11.567834,
+        45.352099
+    ],
+    "center": [
+        11.53333,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.33333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12661563628018920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nocera Terinese",
+    "place_name": "Nocera Terinese, Catanzaro, Italy",
+    "bbox": [
+        16.094259,
+        39.004674,
+        16.232356,
+        39.058954
+    ],
+    "center": [
+        16.15,
+        39.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            39.03333
+        ]
+    }
+}

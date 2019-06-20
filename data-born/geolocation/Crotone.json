@@ -1,0 +1,27 @@
+{
+    "id": "place.623620910872840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crotone",
+    "place_name": "Crotone, Crotone, Italy",
+    "bbox": [
+        17.000018,
+        38.999375,
+        17.206217,
+        39.21536
+    ],
+    "center": [
+        17.11667,
+        39.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.11667,
+            39.08333
+        ]
+    }
+}

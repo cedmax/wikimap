@@ -1,0 +1,27 @@
+{
+    "id": "place.8818395038755620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collecchio",
+    "place_name": "Collecchio, Parma, Italy",
+    "bbox": [
+        10.1207,
+        44.689932,
+        10.286976,
+        44.805107
+    ],
+    "center": [
+        10.21569,
+        44.75269
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21569,
+            44.75269
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14703431180654650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fermignano",
+    "place_name": "Fermignano, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.585538,
+        43.631389,
+        12.761495,
+        43.699792
+    ],
+    "center": [
+        12.64504,
+        43.67662
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.64504,
+            43.67662
+        ]
+    }
+}

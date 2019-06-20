@@ -1,0 +1,27 @@
+{
+    "id": "place.5421187386513120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capaccio",
+    "place_name": "Capaccio, Salerno, Italy",
+    "bbox": [
+        14.942855,
+        40.378955,
+        15.11356,
+        40.508432
+    ],
+    "center": [
+        15.08333,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08333,
+            40.41667
+        ]
+    }
+}

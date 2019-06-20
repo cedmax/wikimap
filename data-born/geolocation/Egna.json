@@ -1,0 +1,29 @@
+{
+    "id": "place.3754288932683910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Egna - Neumarkt",
+    "place_name": "Egna - Neumarkt, Bolzano, Italy",
+    "matching_text": "Egna",
+    "matching_place_name": "Egna, Bolzano, Italy",
+    "bbox": [
+        11.226406,
+        46.255594,
+        11.311136,
+        46.333339
+    ],
+    "center": [
+        11.26667,
+        46.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.26667,
+            46.31667
+        ]
+    }
+}

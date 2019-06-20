@@ -1,0 +1,27 @@
+{
+    "id": "place.7209513590716210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bra",
+    "place_name": "Bra, Cuneo, Italy",
+    "bbox": [
+        7.756447,
+        44.665935,
+        7.915647,
+        44.747655
+    ],
+    "center": [
+        7.85,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85,
+            44.7
+        ]
+    }
+}

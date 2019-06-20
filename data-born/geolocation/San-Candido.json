@@ -1,0 +1,23 @@
+{
+    "id": "poi.2499670979942",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "stazione di San Candido",
+    "place_name": "stazione di San Candido, San Candido - Innichen, Bolzano 39038, Italy",
+    "matching_text": "San Candido",
+    "matching_place_name": "San Candido, San Candido - Innichen, Bolzano 39038, Italy",
+    "center": [
+        12.2722935,
+        46.732373499999994
+    ],
+    "geometry": {
+        "coordinates": [
+            12.2722935,
+            46.732373499999994
+        ],
+        "type": "Point"
+    }
+}

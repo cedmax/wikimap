@@ -1,0 +1,27 @@
+{
+    "id": "place.14920850783838730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte San Giovanni Campano",
+    "place_name": "Monte San Giovanni Campano, Frosinone, Italy",
+    "bbox": [
+        13.487425,
+        41.588304,
+        13.56178,
+        41.762483
+    ],
+    "center": [
+        13.51667,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.51667,
+            41.63333
+        ]
+    }
+}

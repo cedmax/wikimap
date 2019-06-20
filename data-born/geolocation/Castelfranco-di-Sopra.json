@@ -1,0 +1,27 @@
+{
+    "id": "place.12081748527701250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6527777777777777,
+    "text": "Castelfranci",
+    "place_name": "Castelfranci, Avellino, Italy",
+    "bbox": [
+        15.036407,
+        40.897166,
+        15.084409,
+        40.951362
+    ],
+    "center": [
+        15.04417,
+        40.93222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.04417,
+            40.93222
+        ]
+    }
+}

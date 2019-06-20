@@ -1,0 +1,27 @@
+{
+    "id": "place.10401168794518240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lampedusa e Linosa",
+    "place_name": "Lampedusa e Linosa, Agrigento, Italy",
+    "bbox": [
+        12.320421,
+        35.492957,
+        12.883589,
+        35.875838
+    ],
+    "center": [
+        12.60306,
+        35.50306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.60306,
+            35.50306
+        ]
+    }
+}

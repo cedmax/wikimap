@@ -1,0 +1,27 @@
+{
+    "id": "place.5946576228801310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tirano",
+    "place_name": "Tirano, Sondrio, Italy",
+    "bbox": [
+        10.132426,
+        46.17952,
+        10.227039,
+        46.258276
+    ],
+    "center": [
+        10.16889,
+        46.21639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.16889,
+            46.21639
+        ]
+    }
+}

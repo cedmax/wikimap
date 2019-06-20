@@ -1,0 +1,27 @@
+{
+    "id": "place.7398659494699730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fusignano",
+    "place_name": "Fusignano, Ravenna, Italy",
+    "bbox": [
+        11.925385,
+        44.452328,
+        12.048601,
+        44.507166
+    ],
+    "center": [
+        11.95,
+        44.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95,
+            44.46667
+        ]
+    }
+}

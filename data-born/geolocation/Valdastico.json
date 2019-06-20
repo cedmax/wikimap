@@ -1,0 +1,27 @@
+{
+    "id": "place.1755364513243150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdastico",
+    "place_name": "Valdastico, Vicenza, Italy",
+    "bbox": [
+        11.309176,
+        45.835681,
+        11.408377,
+        45.928832
+    ],
+    "center": [
+        11.36667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.36667,
+            45.88333
+        ]
+    }
+}

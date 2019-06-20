@@ -1,0 +1,27 @@
+{
+    "id": "place.10785317306860690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gatteo",
+    "place_name": "Gatteo, Forli'-Cesena, Italy",
+    "bbox": [
+        12.364499,
+        44.099934,
+        12.443353,
+        44.17373
+    ],
+    "center": [
+        12.38333,
+        44.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38333,
+            44.1
+        ]
+    }
+}

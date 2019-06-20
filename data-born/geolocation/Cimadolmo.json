@@ -1,0 +1,27 @@
+{
+    "id": "place.1420380727591380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cimadolmo",
+    "place_name": "Cimadolmo, Treviso, Italy",
+    "bbox": [
+        12.313446,
+        45.75224,
+        12.400757,
+        45.805503
+    ],
+    "center": [
+        12.36667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.36667,
+            45.78333
+        ]
+    }
+}

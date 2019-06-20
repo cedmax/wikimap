@@ -1,0 +1,27 @@
+{
+    "id": "place.12869967026401510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelmauro",
+    "place_name": "Castelmauro, Campobasso, Italy",
+    "bbox": [
+        14.63231,
+        41.794643,
+        14.765467,
+        41.872383
+    ],
+    "center": [
+        14.71667,
+        41.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.71667,
+            41.83333
+        ]
+    }
+}

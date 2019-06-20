@@ -1,0 +1,27 @@
+{
+    "id": "place.9375463652862440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cabella Ligure",
+    "place_name": "Cabella Ligure, Alessandria, Italy",
+    "bbox": [
+        9.073097,
+        44.62144,
+        9.20657,
+        44.701509
+    ],
+    "center": [
+        9.09667,
+        44.67472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.09667,
+            44.67472
+        ]
+    }
+}

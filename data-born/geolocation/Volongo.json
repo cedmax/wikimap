@@ -1,0 +1,27 @@
+{
+    "id": "place.10392711711362590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volongo",
+    "place_name": "Volongo, Cremona, Italy",
+    "bbox": [
+        10.282788,
+        45.186346,
+        10.321138,
+        45.225366
+    ],
+    "center": [
+        10.30167,
+        45.21139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.30167,
+            45.21139
+        ]
+    }
+}

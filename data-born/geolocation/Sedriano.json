@@ -1,0 +1,27 @@
+{
+    "id": "place.15073667810005150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sedriano",
+    "place_name": "Sedriano, Milano, Italy",
+    "bbox": [
+        8.957233,
+        45.462013,
+        8.993503,
+        45.505798
+    ],
+    "center": [
+        8.96667,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.96667,
+            45.48333
+        ]
+    }
+}

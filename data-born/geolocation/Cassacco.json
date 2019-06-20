@@ -1,0 +1,27 @@
+{
+    "id": "place.7364765907561110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassacco",
+    "place_name": "Cassacco, Udine, Italy",
+    "bbox": [
+        13.159163,
+        46.160013,
+        13.214484,
+        46.205895
+    ],
+    "center": [
+        13.18333,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            46.16667
+        ]
+    }
+}

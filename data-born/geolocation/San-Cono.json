@@ -1,0 +1,21 @@
+{
+    "id": "poi.3058016790810",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "San Cono",
+    "place_name": "San Cono, Via Buon Gesù, Rho, Milano 20017, Italy",
+    "center": [
+        9.040211,
+        45.525261
+    ],
+    "geometry": {
+        "coordinates": [
+            9.040211,
+            45.525261
+        ],
+        "type": "Point"
+    }
+}

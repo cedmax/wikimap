@@ -1,0 +1,27 @@
+{
+    "id": "place.8597256494282360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pignola",
+    "place_name": "Pignola, Potenza, Italy",
+    "bbox": [
+        15.723965,
+        40.541274,
+        15.862002,
+        40.615221
+    ],
+    "center": [
+        15.78333,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.78333,
+            40.56667
+        ]
+    }
+}

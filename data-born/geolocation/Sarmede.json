@@ -1,0 +1,27 @@
+{
+    "id": "place.8055481841219180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarmede",
+    "place_name": "Sarmede, Treviso, Italy",
+    "bbox": [
+        12.365325,
+        45.959283,
+        12.415229,
+        46.022558
+    ],
+    "center": [
+        12.38528,
+        45.9775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38528,
+            45.9775
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17882243090175990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lagosanto",
+    "place_name": "Lagosanto, Ferrara, Italy",
+    "bbox": [
+        12.097906,
+        44.733423,
+        12.180916,
+        44.809663
+    ],
+    "center": [
+        12.13333,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            44.76667
+        ]
+    }
+}

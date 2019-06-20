@@ -1,0 +1,27 @@
+{
+    "id": "place.19130152634126750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agata del Bianco",
+    "place_name": "Sant'Agata del Bianco, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.999798,
+        38.044922,
+        16.091503,
+        38.107713
+    ],
+    "center": [
+        16.08333,
+        38.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            38.1
+        ]
+    }
+}

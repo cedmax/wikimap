@@ -1,0 +1,27 @@
+{
+    "id": "place.14122796892512900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cupramontana",
+    "place_name": "Cupramontana, Ancona, Italy",
+    "bbox": [
+        13.061059,
+        43.416641,
+        13.180168,
+        43.480251
+    ],
+    "center": [
+        13.11737,
+        43.44598
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11737,
+            43.44598
+        ]
+    }
+}

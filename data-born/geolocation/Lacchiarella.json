@@ -1,0 +1,27 @@
+{
+    "id": "place.1528038540680600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lacchiarella",
+    "place_name": "Lacchiarella, Milano, Italy",
+    "bbox": [
+        9.111991,
+        45.289241,
+        9.203288,
+        45.349299
+    ],
+    "center": [
+        9.14,
+        45.325
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.14,
+            45.325
+        ]
+    }
+}

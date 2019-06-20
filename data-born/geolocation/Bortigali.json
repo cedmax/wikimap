@@ -1,0 +1,27 @@
+{
+    "id": "place.14961003555391860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bortigali",
+    "place_name": "Bortigali, Nuoro, Italy",
+    "bbox": [
+        8.758924,
+        40.240273,
+        8.890685,
+        40.363283
+    ],
+    "center": [
+        8.83333,
+        40.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            40.28333
+        ]
+    }
+}

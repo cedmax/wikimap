@@ -1,0 +1,27 @@
+{
+    "id": "place.13547996319859210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Polo dei Cavalieri",
+    "place_name": "San Polo dei Cavalieri, Roma, Italy",
+    "bbox": [
+        12.759202,
+        41.98727,
+        12.876276,
+        42.097593
+    ],
+    "center": [
+        12.83333,
+        42.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            42.01667
+        ]
+    }
+}

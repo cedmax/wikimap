@@ -1,0 +1,27 @@
+{
+    "id": "place.8140556522402220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magisano",
+    "place_name": "Magisano, Catanzaro, Italy",
+    "bbox": [
+        16.605473,
+        38.985851,
+        16.675931,
+        39.070671
+    ],
+    "center": [
+        16.63333,
+        39.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.63333,
+            39.01667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9329898436668550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola delle Femmine",
+    "place_name": "Isola delle Femmine, Palermo, Italy",
+    "bbox": [
+        13.234044,
+        38.177201,
+        13.259254,
+        38.21236
+    ],
+    "center": [
+        13.25,
+        38.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            38.2
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16921786689949330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casei Gerola",
+    "place_name": "Casei Gerola, Pavia, Italy",
+    "bbox": [
+        8.897956,
+        44.981173,
+        8.971261,
+        45.05517
+    ],
+    "center": [
+        8.93333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45
+        ]
+    }
+}

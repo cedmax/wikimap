@@ -1,0 +1,27 @@
+{
+    "id": "place.11199115377991390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mongiuffi Melia",
+    "place_name": "Mongiuffi Melia, Messina, Italy",
+    "bbox": [
+        15.222688,
+        37.879959,
+        15.289302,
+        37.935418
+    ],
+    "center": [
+        15.26667,
+        37.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            37.9
+        ]
+    }
+}

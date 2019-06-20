@@ -1,0 +1,27 @@
+{
+    "id": "place.3471871994230120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palanzano",
+    "place_name": "Palanzano, Parma, Italy",
+    "bbox": [
+        10.130358,
+        44.380387,
+        10.304359,
+        44.491608
+    ],
+    "center": [
+        10.2,
+        44.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.2,
+            44.43333
+        ]
+    }
+}

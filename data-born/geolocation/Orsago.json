@@ -1,0 +1,27 @@
+{
+    "id": "place.9069138252816400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orsago",
+    "place_name": "Orsago, Treviso, Italy",
+    "bbox": [
+        12.406239,
+        45.897107,
+        12.484451,
+        45.941146
+    ],
+    "center": [
+        12.41667,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            45.93333
+        ]
+    }
+}

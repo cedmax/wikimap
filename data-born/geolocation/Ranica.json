@@ -1,0 +1,27 @@
+{
+    "id": "place.11955356631023200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ranica",
+    "place_name": "Ranica, Bergamo, Italy",
+    "bbox": [
+        9.691854,
+        45.710432,
+        9.727698,
+        45.746199
+    ],
+    "center": [
+        9.71667,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.71667,
+            45.73333
+        ]
+    }
+}

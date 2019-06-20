@@ -1,0 +1,27 @@
+{
+    "id": "place.4802665353230210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccalumera",
+    "place_name": "Roccalumera, Messina, Italy",
+    "bbox": [
+        15.343458,
+        37.963811,
+        15.404568,
+        38.01542
+    ],
+    "center": [
+        15.39,
+        37.97056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.39,
+            37.97056
+        ]
+    }
+}

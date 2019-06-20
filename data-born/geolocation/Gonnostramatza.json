@@ -1,0 +1,27 @@
+{
+    "id": "place.15360893840790440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gonnostramatza",
+    "place_name": "Gonnostramatza, Oristano, Italy",
+    "bbox": [
+        8.7846,
+        39.6545,
+        8.865761,
+        39.697296
+    ],
+    "center": [
+        8.83333,
+        39.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            39.68333
+        ]
+    }
+}

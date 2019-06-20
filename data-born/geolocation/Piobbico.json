@@ -1,0 +1,27 @@
+{
+    "id": "place.12586667679594260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piobbico",
+    "place_name": "Piobbico, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.443661,
+        43.546152,
+        12.582205,
+        43.621527
+    ],
+    "center": [
+        12.5098,
+        43.58797
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5098,
+            43.58797
+        ]
+    }
+}

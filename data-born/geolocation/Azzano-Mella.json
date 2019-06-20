@@ -1,0 +1,27 @@
+{
+    "id": "place.11978741395612520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Azzano Mella",
+    "place_name": "Azzano Mella, Brescia, Italy",
+    "bbox": [
+        10.087029,
+        45.43624,
+        10.132757,
+        45.497772
+    ],
+    "center": [
+        10.11667,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.11667,
+            45.45
+        ]
+    }
+}

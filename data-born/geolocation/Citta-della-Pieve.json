@@ -1,0 +1,27 @@
+{
+    "id": "place.9591509699357260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Città della Pieve",
+    "place_name": "Città della Pieve, Perugia, Italy",
+    "bbox": [
+        11.932881,
+        42.86184,
+        12.063033,
+        43.023516
+    ],
+    "center": [
+        12.00778,
+        42.95389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.00778,
+            42.95389
+        ]
+    }
+}

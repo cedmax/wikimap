@@ -1,0 +1,27 @@
+{
+    "id": "place.5323326968929760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castri di Lecce",
+    "place_name": "Castri di Lecce, Lecce, Italy",
+    "bbox": [
+        18.23638,
+        40.25506,
+        18.29595,
+        40.301462
+    ],
+    "center": [
+        18.26667,
+        40.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.26667,
+            40.26667
+        ]
+    }
+}

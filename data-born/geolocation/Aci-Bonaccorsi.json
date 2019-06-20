@@ -1,0 +1,27 @@
+{
+    "id": "place.11443692166671360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aci Bonaccorsi",
+    "place_name": "Aci Bonaccorsi, Catania, Italy",
+    "bbox": [
+        15.099094,
+        37.585885,
+        15.115342,
+        37.606282
+    ],
+    "center": [
+        15.10951,
+        37.59552
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.10951,
+            37.59552
+        ]
+    }
+}

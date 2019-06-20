@@ -1,0 +1,27 @@
+{
+    "id": "place.8891303532781040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sonnino",
+    "place_name": "Sonnino, Latina, Italy",
+    "bbox": [
+        13.182473,
+        41.355658,
+        13.306439,
+        41.447874
+    ],
+    "center": [
+        13.23333,
+        41.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23333,
+            41.41667
+        ]
+    }
+}

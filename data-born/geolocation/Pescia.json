@@ -1,0 +1,27 @@
+{
+    "id": "place.10310478394600130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescia",
+    "place_name": "Pescia, Pistoia, Italy",
+    "bbox": [
+        10.647913,
+        43.851849,
+        10.755191,
+        44.026546
+    ],
+    "center": [
+        10.68333,
+        43.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68333,
+            43.9
+        ]
+    }
+}

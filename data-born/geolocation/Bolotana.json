@@ -1,0 +1,27 @@
+{
+    "id": "place.7357942476109330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bolotana",
+    "place_name": "Bolotana, Nuoro, Italy",
+    "bbox": [
+        8.841966,
+        40.236844,
+        9.031606,
+        40.405633
+    ],
+    "center": [
+        8.9575,
+        40.32889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9575,
+            40.32889
+        ]
+    }
+}

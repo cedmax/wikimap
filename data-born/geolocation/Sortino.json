@@ -1,0 +1,27 @@
+{
+    "id": "place.8646380192308100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sortino",
+    "place_name": "Sortino, Siracusa, Italy",
+    "bbox": [
+        14.952786,
+        37.095569,
+        15.133676,
+        37.184624
+    ],
+    "center": [
+        15.03333,
+        37.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.03333,
+            37.16667
+        ]
+    }
+}

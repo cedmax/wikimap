@@ -1,0 +1,27 @@
+{
+    "id": "place.9904266149500250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sassello",
+    "place_name": "Sassello, Savona, Italy",
+    "bbox": [
+        8.431994,
+        44.4277,
+        8.67048,
+        44.521872
+    ],
+    "center": [
+        8.4901,
+        44.479
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4901,
+            44.479
+        ]
+    }
+}

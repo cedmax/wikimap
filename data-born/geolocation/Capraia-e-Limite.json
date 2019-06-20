@@ -1,0 +1,27 @@
+{
+    "id": "place.9382617303985960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capraia e Limite",
+    "place_name": "Capraia e Limite, Firenze, Italy",
+    "bbox": [
+        10.959441,
+        43.732144,
+        11.034384,
+        43.785163
+    ],
+    "center": [
+        10.98333,
+        43.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.98333,
+            43.75
+        ]
+    }
+}

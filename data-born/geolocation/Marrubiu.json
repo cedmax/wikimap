@@ -1,0 +1,27 @@
+{
+    "id": "place.4556112241148370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marrubiu",
+    "place_name": "Marrubiu, Oristano, Italy",
+    "bbox": [
+        8.602551,
+        39.730113,
+        8.743009,
+        39.82128
+    ],
+    "center": [
+        8.63333,
+        39.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            39.75
+        ]
+    }
+}

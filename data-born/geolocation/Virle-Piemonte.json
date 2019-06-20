@@ -1,0 +1,27 @@
+{
+    "id": "place.8231764649863720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Virle Piemonte",
+    "place_name": "Virle Piemonte, Torino, Italy",
+    "bbox": [
+        7.5457,
+        44.84344,
+        7.606859,
+        44.880305
+    ],
+    "center": [
+        7.56667,
+        44.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.56667,
+            44.86667
+        ]
+    }
+}

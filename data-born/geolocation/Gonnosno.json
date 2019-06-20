@@ -1,0 +1,27 @@
+{
+    "id": "place.13839713723791910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gonnosnò",
+    "place_name": "Gonnosnò, Oristano, Italy",
+    "bbox": [
+        8.845147,
+        39.734947,
+        8.893249,
+        39.78776
+    ],
+    "center": [
+        8.8724,
+        39.76055
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8724,
+            39.76055
+        ]
+    }
+}

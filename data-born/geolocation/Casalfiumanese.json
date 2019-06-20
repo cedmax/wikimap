@@ -1,0 +1,27 @@
+{
+    "id": "place.7071179777300540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalfiumanese",
+    "place_name": "Casalfiumanese, Bologna, Italy",
+    "bbox": [
+        11.430017,
+        44.220819,
+        11.640694,
+        44.358958
+    ],
+    "center": [
+        11.63333,
+        44.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63333,
+            44.3
+        ]
+    }
+}

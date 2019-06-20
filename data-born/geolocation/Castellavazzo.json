@@ -1,0 +1,21 @@
+{
+    "id": "address.1631167446",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Castellavazzo",
+    "place_name": "via Castellavazzo, 33080 Vajont Pordenone, Italy",
+    "center": [
+        12.693759499999999,
+        46.1477495
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.693759499999999,
+            46.1477495
+        ]
+    }
+}

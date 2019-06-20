@@ -1,0 +1,27 @@
+{
+    "id": "place.8435939159315210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bono",
+    "place_name": "Bono, Sassari, Italy",
+    "bbox": [
+        8.935657,
+        40.349832,
+        9.148701,
+        40.489328
+    ],
+    "center": [
+        9.02861,
+        40.41528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.02861,
+            40.41528
+        ]
+    }
+}

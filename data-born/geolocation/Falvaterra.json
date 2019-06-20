@@ -1,0 +1,27 @@
+{
+    "id": "place.9582100410897230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Falvaterra",
+    "place_name": "Falvaterra, Frosinone, Italy",
+    "bbox": [
+        13.48575,
+        41.479869,
+        13.547245,
+        41.520541
+    ],
+    "center": [
+        13.52389,
+        41.50472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.52389,
+            41.50472
+        ]
+    }
+}

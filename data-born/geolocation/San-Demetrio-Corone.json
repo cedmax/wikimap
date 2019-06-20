@@ -1,0 +1,27 @@
+{
+    "id": "place.4383893632332340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Demetrio Corone",
+    "place_name": "San Demetrio Corone, Cosenza, Italy",
+    "bbox": [
+        16.322495,
+        39.546377,
+        16.421343,
+        39.647256
+    ],
+    "center": [
+        16.36667,
+        39.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.36667,
+            39.56667
+        ]
+    }
+}

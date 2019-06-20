@@ -1,0 +1,27 @@
+{
+    "id": "place.11383796640986350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galatone",
+    "place_name": "Galatone, Lecce, Italy",
+    "bbox": [
+        17.998373,
+        40.103025,
+        18.115464,
+        40.193616
+    ],
+    "center": [
+        18.06667,
+        40.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.06667,
+            40.15
+        ]
+    }
+}

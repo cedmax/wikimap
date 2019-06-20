@@ -1,0 +1,27 @@
+{
+    "id": "place.2584612325119260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sartirana Lomellina",
+    "place_name": "Sartirana Lomellina, Pavia, Italy",
+    "bbox": [
+        8.613596,
+        45.074424,
+        8.712249,
+        45.137902
+    ],
+    "center": [
+        8.66528,
+        45.11556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66528,
+            45.11556
+        ]
+    }
+}

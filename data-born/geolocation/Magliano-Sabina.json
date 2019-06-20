@@ -1,0 +1,27 @@
+{
+    "id": "place.6540898053312760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magliano Sabina",
+    "place_name": "Magliano Sabina, Rieti, Italy",
+    "bbox": [
+        12.438514,
+        42.294845,
+        12.526894,
+        42.403211
+    ],
+    "center": [
+        12.48333,
+        42.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48333,
+            42.36667
+        ]
+    }
+}

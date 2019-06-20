@@ -1,0 +1,27 @@
+{
+    "id": "place.11371699375733660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oria",
+    "place_name": "Oria, Brindisi, Italy",
+    "bbox": [
+        17.582077,
+        40.438764,
+        17.731639,
+        40.560611
+    ],
+    "center": [
+        17.63333,
+        40.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.63333,
+            40.5
+        ]
+    }
+}

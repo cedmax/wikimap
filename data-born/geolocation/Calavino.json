@@ -1,0 +1,27 @@
+{
+    "id": "place.17133497294716410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.96875,
+    "text": "Caravino",
+    "place_name": "Caravino, Torino, Italy",
+    "bbox": [
+        7.9127,
+        45.377157,
+        7.992207,
+        45.420137
+    ],
+    "center": [
+        7.96667,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.96667,
+            45.4
+        ]
+    }
+}

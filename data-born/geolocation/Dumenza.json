@@ -1,0 +1,27 @@
+{
+    "id": "place.9404161755624000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dumenza",
+    "place_name": "Dumenza, Varese, Italy",
+    "bbox": [
+        8.764067,
+        45.999892,
+        8.829973,
+        46.061863
+    ],
+    "center": [
+        8.78333,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            46.01667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10408766743031880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Supersano",
+    "place_name": "Supersano, Lecce, Italy",
+    "bbox": [
+        18.195261,
+        39.992938,
+        18.308825,
+        40.073805
+    ],
+    "center": [
+        18.25,
+        40.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.25,
+            40.01667
+        ]
+    }
+}

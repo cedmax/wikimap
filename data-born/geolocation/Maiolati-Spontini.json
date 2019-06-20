@@ -1,0 +1,27 @@
+{
+    "id": "place.15035896874305550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maiolati Spontini",
+    "place_name": "Maiolati Spontini, Ancona, Italy",
+    "bbox": [
+        13.075161,
+        43.463061,
+        13.175197,
+        43.533814
+    ],
+    "center": [
+        13.11919,
+        43.47718
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11919,
+            43.47718
+        ]
+    }
+}

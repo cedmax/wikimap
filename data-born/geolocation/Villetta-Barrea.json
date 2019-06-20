@@ -1,0 +1,27 @@
+{
+    "id": "place.6758400831924370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villetta Barrea",
+    "place_name": "Villetta Barrea, L'Aquila, Italy",
+    "bbox": [
+        13.909707,
+        41.768453,
+        13.957876,
+        41.832378
+    ],
+    "center": [
+        13.93944,
+        41.77667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93944,
+            41.77667
+        ]
+    }
+}

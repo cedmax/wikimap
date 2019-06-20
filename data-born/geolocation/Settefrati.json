@@ -1,0 +1,27 @@
+{
+    "id": "place.9163978917868090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Settefrati",
+    "place_name": "Settefrati, Frosinone, Italy",
+    "bbox": [
+        13.81586,
+        41.643948,
+        13.910053,
+        41.734969
+    ],
+    "center": [
+        13.85,
+        41.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85,
+            41.66667
+        ]
+    }
+}

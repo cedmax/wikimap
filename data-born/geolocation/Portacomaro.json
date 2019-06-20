@@ -1,0 +1,21 @@
+{
+    "id": "poi.2156073648062",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Portacomaro",
+    "place_name": "Portacomaro, Portacomaro, Asti 14037, Italy",
+    "center": [
+        8.247614,
+        44.966287
+    ],
+    "geometry": {
+        "coordinates": [
+            8.247614,
+            44.966287
+        ],
+        "type": "Point"
+    }
+}

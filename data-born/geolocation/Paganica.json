@@ -1,0 +1,21 @@
+{
+    "id": "poi.2138893760609",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9,
+    "text": "Piazza Paganica",
+    "place_name": "Piazza Paganica, Roma, Roma 00186, Italy",
+    "center": [
+        12.477417,
+        41.894156
+    ],
+    "geometry": {
+        "coordinates": [
+            12.477417,
+            41.894156
+        ],
+        "type": "Point"
+    }
+}

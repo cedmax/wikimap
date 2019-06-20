@@ -1,0 +1,23 @@
+{
+    "id": "poi.3109556328800",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "chiesa della Maddalena",
+    "place_name": "chiesa della Maddalena, Campo della Maddalena, Venezia, Venezia 30121, Italy",
+    "matching_text": "La Maddalena",
+    "matching_place_name": "La Maddalena, Campo della Maddalena, Venezia, Venezia 30121, Italy",
+    "center": [
+        12.3311065,
+        45.442944499999996
+    ],
+    "geometry": {
+        "coordinates": [
+            12.3311065,
+            45.442944499999996
+        ],
+        "type": "Point"
+    }
+}

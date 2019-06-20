@@ -1,0 +1,27 @@
+{
+    "id": "place.6904358322080300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesana Torinese",
+    "place_name": "Cesana Torinese, Torino, Italy",
+    "bbox": [
+        6.737338,
+        44.844019,
+        6.931705,
+        45.014304
+    ],
+    "center": [
+        6.8,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.8,
+            44.95
+        ]
+    }
+}

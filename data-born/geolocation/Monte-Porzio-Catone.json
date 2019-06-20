@@ -1,0 +1,27 @@
+{
+    "id": "place.11275137987015720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Porzio Catone",
+    "place_name": "Monte Porzio Catone, Roma, Italy",
+    "bbox": [
+        12.685322,
+        41.797785,
+        12.727428,
+        41.840202
+    ],
+    "center": [
+        12.71667,
+        41.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            41.81667
+        ]
+    }
+}

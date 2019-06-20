@@ -1,0 +1,27 @@
+{
+    "id": "place.7756890789765950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brindisi",
+    "place_name": "Brindisi, Brindisi, Italy",
+    "bbox": [
+        17.732222,
+        40.477914,
+        18.045346,
+        40.712876
+    ],
+    "center": [
+        17.94583,
+        40.63833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.94583,
+            40.63833
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2104533988428",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Acqualagna",
+    "place_name": "Acqualagna, Acqualagna, Acqualagna, Pesaro E Urbino 61041, Italy",
+    "center": [
+        12.6716995,
+        43.616845
+    ],
+    "geometry": {
+        "coordinates": [
+            12.6716995,
+            43.616845
+        ],
+        "type": "Point"
+    }
+}

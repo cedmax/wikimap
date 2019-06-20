@@ -1,0 +1,21 @@
+{
+    "id": "poi.2482491105878",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Piadena",
+    "place_name": "Piadena, Piadena, Cremona 26034, Italy",
+    "center": [
+        10.370124,
+        45.1278605
+    ],
+    "geometry": {
+        "coordinates": [
+            10.370124,
+            45.1278605
+        ],
+        "type": "Point"
+    }
+}

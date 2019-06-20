@@ -1,0 +1,27 @@
+{
+    "id": "place.6133841655776840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelmassa",
+    "place_name": "Castelmassa, Rovigo, Italy",
+    "bbox": [
+        11.300171,
+        44.994802,
+        11.361166,
+        45.046854
+    ],
+    "center": [
+        11.31667,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            45.01667
+        ]
+    }
+}

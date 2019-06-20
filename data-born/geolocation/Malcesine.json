@@ -1,0 +1,27 @@
+{
+    "id": "place.16386939452681790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Malcesine",
+    "place_name": "Malcesine, Verona, Italy",
+    "bbox": [
+        10.76061,
+        45.705806,
+        10.887808,
+        45.833647
+    ],
+    "center": [
+        10.81667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            45.76667
+        ]
+    }
+}

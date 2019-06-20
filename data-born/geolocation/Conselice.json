@@ -1,0 +1,27 @@
+{
+    "id": "place.9436348302659650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Conselice",
+    "place_name": "Conselice, Ravenna, Italy",
+    "bbox": [
+        11.778756,
+        44.468681,
+        11.915606,
+        44.579622
+    ],
+    "center": [
+        11.83333,
+        44.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            44.51667
+        ]
+    }
+}

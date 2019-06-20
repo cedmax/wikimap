@@ -1,0 +1,27 @@
+{
+    "id": "place.12306266833452170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noepoli",
+    "place_name": "Noepoli, Potenza, Italy",
+    "bbox": [
+        16.24865,
+        40.049204,
+        16.398197,
+        40.17629
+    ],
+    "center": [
+        16.33333,
+        40.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            40.08333
+        ]
+    }
+}

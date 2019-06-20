@@ -1,0 +1,21 @@
+{
+    "id": "poi.2473901248033",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Pastena",
+    "place_name": "Pastena, Via Medaglie d'Oro, Salerno, Salerno 84132, Italy",
+    "center": [
+        14.80192,
+        40.665763
+    ],
+    "geometry": {
+        "coordinates": [
+            14.80192,
+            40.665763
+        ],
+        "type": "Point"
+    }
+}

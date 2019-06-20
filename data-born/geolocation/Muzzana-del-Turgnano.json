@@ -1,0 +1,27 @@
+{
+    "id": "place.6831218843289120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Muzzana del Turgnano",
+    "place_name": "Muzzana del Turgnano, Udine, Italy",
+    "bbox": [
+        13.106616,
+        45.763022,
+        13.161695,
+        45.855822
+    ],
+    "center": [
+        13.13333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            45.81667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.19785337993340410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Triggiano",
+    "place_name": "Triggiano, Bari, Italy",
+    "bbox": [
+        16.899784,
+        41.044024,
+        16.98068,
+        41.093969
+    ],
+    "center": [
+        16.91667,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.91667,
+            41.06667
+        ]
+    }
+}

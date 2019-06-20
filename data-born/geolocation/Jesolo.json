@@ -1,0 +1,27 @@
+{
+    "id": "place.10870869681935310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Jesolo",
+    "place_name": "Jesolo, Venezia, Italy",
+    "bbox": [
+        12.52628,
+        45.478119,
+        12.756079,
+        45.591562
+    ],
+    "center": [
+        12.64475,
+        45.53311
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.64475,
+            45.53311
+        ]
+    }
+}

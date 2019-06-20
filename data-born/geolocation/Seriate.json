@@ -1,0 +1,27 @@
+{
+    "id": "place.5893025608637430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seriate",
+    "place_name": "Seriate, Bergamo, Italy",
+    "bbox": [
+        9.700443,
+        45.630986,
+        9.758486,
+        45.694623
+    ],
+    "center": [
+        9.71778,
+        45.68472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.71778,
+            45.68472
+        ]
+    }
+}

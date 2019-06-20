@@ -1,0 +1,27 @@
+{
+    "id": "place.5204729955430970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Muggiò",
+    "place_name": "Muggiò, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.209532,
+        45.569684,
+        9.242514,
+        45.60271
+    ],
+    "center": [
+        9.23333,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            45.6
+        ]
+    }
+}

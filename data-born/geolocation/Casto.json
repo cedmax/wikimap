@@ -1,0 +1,27 @@
+{
+    "id": "place.11671233469454420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casto",
+    "place_name": "Casto, Brescia, Italy",
+    "bbox": [
+        10.251544,
+        45.660887,
+        10.365167,
+        45.72582
+    ],
+    "center": [
+        10.31667,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.31667,
+            45.7
+        ]
+    }
+}

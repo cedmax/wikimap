@@ -1,0 +1,27 @@
+{
+    "id": "place.3920800492514070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Livinallongo del Col di Lana",
+    "place_name": "Livinallongo del Col di Lana, Belluno, Italy",
+    "bbox": [
+        11.810916,
+        46.455397,
+        12.028291,
+        46.545095
+    ],
+    "center": [
+        11.95,
+        46.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95,
+            46.48333
+        ]
+    }
+}

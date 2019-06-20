@@ -1,0 +1,27 @@
+{
+    "id": "place.4303641391266400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Benedetto Po",
+    "place_name": "San Benedetto Po, Mantova, Italy",
+    "bbox": [
+        10.836314,
+        44.962638,
+        11.006721,
+        45.078753
+    ],
+    "center": [
+        10.91667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91667,
+            45.03333
+        ]
+    }
+}

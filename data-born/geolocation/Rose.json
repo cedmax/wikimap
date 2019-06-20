@@ -1,0 +1,27 @@
+{
+    "id": "place.6044495772511160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rose",
+    "place_name": "Rose, Cosenza, Italy",
+    "bbox": [
+        16.255279,
+        39.373306,
+        16.405165,
+        39.422468
+    ],
+    "center": [
+        16.28333,
+        39.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            39.4
+        ]
+    }
+}

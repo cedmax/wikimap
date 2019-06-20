@@ -1,0 +1,27 @@
+{
+    "id": "place.6832566129970060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cologno Monzese",
+    "place_name": "Cologno Monzese, Milano, Italy",
+    "bbox": [
+        9.259034,
+        45.515123,
+        9.309291,
+        45.551006
+    ],
+    "center": [
+        9.27827,
+        45.52861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.27827,
+            45.52861
+        ]
+    }
+}

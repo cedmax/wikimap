@@ -1,0 +1,21 @@
+{
+    "id": "poi.2259152879257",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Arzana",
+    "place_name": "Arzana, Arzana, Ogliastra 08040, Italy",
+    "center": [
+        9.520667,
+        39.91808
+    ],
+    "geometry": {
+        "coordinates": [
+            9.520667,
+            39.91808
+        ],
+        "type": "Point"
+    }
+}

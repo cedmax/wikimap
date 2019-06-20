@@ -1,0 +1,27 @@
+{
+    "id": "place.11477949844133620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Sofia d'Epiro",
+    "place_name": "Santa Sofia d'Epiro, Cosenza, Italy",
+    "bbox": [
+        16.252908,
+        39.537486,
+        16.361871,
+        39.612359
+    ],
+    "center": [
+        16.33333,
+        39.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.55
+        ]
+    }
+}

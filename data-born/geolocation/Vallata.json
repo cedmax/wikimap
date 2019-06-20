@@ -1,0 +1,27 @@
+{
+    "id": "place.7431167238067420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallata",
+    "place_name": "Vallata, Avellino, Italy",
+    "bbox": [
+        15.236511,
+        40.988637,
+        15.337799,
+        41.078601
+    ],
+    "center": [
+        15.25,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.25,
+            41.03333
+        ]
+    }
+}

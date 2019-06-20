@@ -1,0 +1,27 @@
+{
+    "id": "place.13817125575123760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vedano al Lambro",
+    "place_name": "Vedano al Lambro, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.258612,
+        45.602834,
+        9.279559,
+        45.622742
+    ],
+    "center": [
+        9.27291,
+        45.61029
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.27291,
+            45.61029
+        ]
+    }
+}

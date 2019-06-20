@@ -1,0 +1,27 @@
+{
+    "id": "place.8354793247944370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verzuolo",
+    "place_name": "Verzuolo, Cuneo, Italy",
+    "bbox": [
+        7.427498,
+        44.572174,
+        7.56049,
+        44.621073
+    ],
+    "center": [
+        7.48333,
+        44.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48333,
+            44.6
+        ]
+    }
+}

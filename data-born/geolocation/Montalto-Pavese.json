@@ -1,0 +1,21 @@
+{
+    "id": "poi.1365799600133",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Montalto Pavese",
+    "place_name": "Montalto Pavese, Montalto Pavese, Pavia 27040, Italy",
+    "center": [
+        9.211354499999999,
+        44.97847
+    ],
+    "geometry": {
+        "coordinates": [
+            9.211354499999999,
+            44.97847
+        ],
+        "type": "Point"
+    }
+}

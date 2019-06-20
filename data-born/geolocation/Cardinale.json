@@ -1,0 +1,21 @@
+{
+    "id": "poi.3384434234145",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cardinale",
+    "place_name": "Cardinale, Via Belfiore, 9, Milano, Milano 20145, Italy",
+    "center": [
+        9.157905,
+        45.467474
+    ],
+    "geometry": {
+        "coordinates": [
+            9.157905,
+            45.467474
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7543638970575330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bistagno",
+    "place_name": "Bistagno, Alessandria, Italy",
+    "bbox": [
+        8.34679,
+        44.642939,
+        8.40756,
+        44.696031
+    ],
+    "center": [
+        8.37139,
+        44.66111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.37139,
+            44.66111
+        ]
+    }
+}

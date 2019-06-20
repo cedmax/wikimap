@@ -1,0 +1,27 @@
+{
+    "id": "place.8803936123500390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nova Milanese",
+    "place_name": "Nova Milanese, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.174197,
+        45.575856,
+        9.213841,
+        45.60267
+    ],
+    "center": [
+        9.2,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            45.58333
+        ]
+    }
+}

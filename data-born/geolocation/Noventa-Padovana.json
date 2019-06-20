@@ -1,0 +1,27 @@
+{
+    "id": "place.9750126563044260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noventa Padovana",
+    "place_name": "Noventa Padovana, Padova, Italy",
+    "bbox": [
+        11.93268,
+        45.403108,
+        12.004233,
+        45.423456
+    ],
+    "center": [
+        11.95194,
+        45.41528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95194,
+            45.41528
+        ]
+    }
+}

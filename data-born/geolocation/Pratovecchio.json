@@ -1,0 +1,21 @@
+{
+    "id": "address.652335749",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Pratovecchio",
+    "place_name": "via Pratovecchio, 50053 Empoli Firenze, Italy",
+    "center": [
+        10.930402,
+        43.71916
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.930402,
+            43.71916
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9095997419268960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piandimeleto",
+    "place_name": "Piandimeleto, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.308704,
+        43.703587,
+        12.482255,
+        43.793833
+    ],
+    "center": [
+        12.41278,
+        43.7242
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41278,
+            43.7242
+        ]
+    }
+}

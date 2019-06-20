@@ -1,0 +1,27 @@
+{
+    "id": "place.5798985380139240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivarolo Canavese",
+    "place_name": "Rivarolo Canavese, Torino, Italy",
+    "bbox": [
+        7.701624,
+        45.249832,
+        7.756365,
+        45.35549
+    ],
+    "center": [
+        7.71667,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.71667,
+            45.33333
+        ]
+    }
+}

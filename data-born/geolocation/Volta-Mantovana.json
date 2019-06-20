@@ -1,0 +1,27 @@
+{
+    "id": "place.8232433673821000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volta Mantovana",
+    "place_name": "Volta Mantovana, Mantova, Italy",
+    "bbox": [
+        10.609989,
+        45.279691,
+        10.723339,
+        45.353982
+    ],
+    "center": [
+        10.65944,
+        45.31944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.65944,
+            45.31944
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10897067683822590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grottaglie",
+    "place_name": "Grottaglie, Taranto, Italy",
+    "bbox": [
+        17.320854,
+        40.460895,
+        17.488116,
+        40.606788
+    ],
+    "center": [
+        17.43333,
+        40.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.43333,
+            40.53333
+        ]
+    }
+}

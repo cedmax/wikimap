@@ -1,0 +1,27 @@
+{
+    "id": "place.7240210925097280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Macerata",
+    "place_name": "Macerata, Macerata, Italy",
+    "bbox": [
+        13.37842,
+        43.250714,
+        13.534559,
+        43.360211
+    ],
+    "center": [
+        13.4533,
+        43.30025
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4533,
+            43.30025
+        ]
+    }
+}

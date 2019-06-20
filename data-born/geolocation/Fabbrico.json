@@ -1,0 +1,27 @@
+{
+    "id": "place.12272653055522270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fabbrico",
+    "place_name": "Fabbrico, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.772623,
+        44.850277,
+        10.850103,
+        44.902779
+    ],
+    "center": [
+        10.8,
+        44.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.8,
+            44.86667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13059849799484940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorso",
+    "place_name": "Sorso, Sassari, Italy",
+    "bbox": [
+        8.464894,
+        40.771471,
+        8.665703,
+        40.878329
+    ],
+    "center": [
+        8.57722,
+        40.79833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.57722,
+            40.79833
+        ]
+    }
+}

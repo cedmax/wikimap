@@ -1,0 +1,27 @@
+{
+    "id": "place.10183876249451880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro di Morubio",
+    "place_name": "San Pietro di Morubio, Verona, Italy",
+    "bbox": [
+        11.159644,
+        45.216613,
+        11.242194,
+        45.259636
+    ],
+    "center": [
+        11.23333,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            45.25
+        ]
+    }
+}

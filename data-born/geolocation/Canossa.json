@@ -1,0 +1,21 @@
+{
+    "id": "poi.3264175162612",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Canossa",
+    "place_name": "Canossa, Canossa, Reggio Nell'Emilia 42026, Italy",
+    "center": [
+        10.455298249999998,
+        44.57497525
+    ],
+    "geometry": {
+        "coordinates": [
+            10.455298249999998,
+            44.57497525
+        ],
+        "type": "Point"
+    }
+}

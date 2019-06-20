@@ -1,0 +1,27 @@
+{
+    "id": "place.10110200223318650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tresivio",
+    "place_name": "Tresivio, Sondrio, Italy",
+    "bbox": [
+        9.932538,
+        46.163465,
+        9.968563,
+        46.236758
+    ],
+    "center": [
+        9.95,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            46.16667
+        ]
+    }
+}

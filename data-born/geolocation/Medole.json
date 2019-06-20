@@ -1,0 +1,27 @@
+{
+    "id": "place.10528746239441180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Medole",
+    "place_name": "Medole, Mantova, Italy",
+    "bbox": [
+        10.47655,
+        45.284276,
+        10.557631,
+        45.361964
+    ],
+    "center": [
+        10.51667,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51667,
+            45.33333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14335625932473120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quinzano d'Oglio",
+    "place_name": "Quinzano d'Oglio, Brescia, Italy",
+    "bbox": [
+        9.96891,
+        45.284479,
+        10.046464,
+        45.341453
+    ],
+    "center": [
+        9.98333,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            45.31667
+        ]
+    }
+}

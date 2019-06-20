@@ -1,0 +1,27 @@
+{
+    "id": "place.9635776664477880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cigognola",
+    "place_name": "Cigognola, Pavia, Italy",
+    "bbox": [
+        9.225763,
+        45.020659,
+        9.270594,
+        45.056005
+    ],
+    "center": [
+        9.23333,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            45.03333
+        ]
+    }
+}

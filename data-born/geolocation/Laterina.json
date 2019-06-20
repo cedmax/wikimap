@@ -1,0 +1,27 @@
+{
+    "id": "place.11411305588056130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laterina",
+    "place_name": "Laterina, Arezzo, Italy",
+    "bbox": [
+        11.659626,
+        43.475706,
+        11.754486,
+        43.529883
+    ],
+    "center": [
+        11.71917,
+        43.50917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71917,
+            43.50917
+        ]
+    }
+}

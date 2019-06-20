@@ -1,0 +1,27 @@
+{
+    "id": "place.5161166156030450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova Monferrato",
+    "place_name": "Villanova Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.44106,
+        45.161712,
+        8.507505,
+        45.204445
+    ],
+    "center": [
+        8.48028,
+        45.18389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48028,
+            45.18389
+        ]
+    }
+}

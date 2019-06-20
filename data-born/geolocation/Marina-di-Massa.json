@@ -1,0 +1,21 @@
+{
+    "id": "address.1233104267",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Marina Di Massa",
+    "place_name": "via Marina Di Massa, 73100 Lecce Lecce, Italy",
+    "center": [
+        18.153948,
+        40.482491
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.153948,
+            40.482491
+        ]
+    }
+}

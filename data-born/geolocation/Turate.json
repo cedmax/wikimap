@@ -1,0 +1,27 @@
+{
+    "id": "place.10720045156981840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Turate",
+    "place_name": "Turate, Como, Italy",
+    "bbox": [
+        8.978171,
+        45.64373,
+        9.029028,
+        45.680784
+    ],
+    "center": [
+        9,
+        45.65833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            45.65833
+        ]
+    }
+}

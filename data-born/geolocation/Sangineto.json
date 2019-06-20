@@ -1,0 +1,27 @@
+{
+    "id": "place.11598918626367740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sangineto",
+    "place_name": "Sangineto, Cosenza, Italy",
+    "bbox": [
+        15.860297,
+        39.576459,
+        15.955691,
+        39.642168
+    ],
+    "center": [
+        15.91417,
+        39.60417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.91417,
+            39.60417
+        ]
+    }
+}

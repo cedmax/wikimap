@@ -1,0 +1,21 @@
+{
+    "id": "poi.3393024190187",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Thiesi",
+    "place_name": "Thiesi, piazza caduti sul lavoro, Thiesi, Sassari 07047, Italy",
+    "center": [
+        8.71914225,
+        40.52407325
+    ],
+    "geometry": {
+        "coordinates": [
+            8.71914225,
+            40.52407325
+        ],
+        "type": "Point"
+    }
+}

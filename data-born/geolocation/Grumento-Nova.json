@@ -1,0 +1,27 @@
+{
+    "id": "place.6222494097043830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grumento Nova",
+    "place_name": "Grumento Nova, Potenza, Italy",
+    "bbox": [
+        15.801113,
+        40.259244,
+        15.961111,
+        40.334854
+    ],
+    "center": [
+        15.88972,
+        40.28389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.88972,
+            40.28389
+        ]
+    }
+}

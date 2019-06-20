@@ -1,0 +1,27 @@
+{
+    "id": "place.4718042287858270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fontana Liri",
+    "place_name": "Fontana Liri, Frosinone, Italy",
+    "bbox": [
+        13.538983,
+        41.601156,
+        13.608197,
+        41.641131
+    ],
+    "center": [
+        13.55,
+        41.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.55,
+            41.61667
+        ]
+    }
+}

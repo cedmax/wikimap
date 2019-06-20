@@ -1,0 +1,27 @@
+{
+    "id": "place.16783205529945760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronago",
+    "place_name": "Ronago, Como, Italy",
+    "bbox": [
+        8.970049,
+        45.821673,
+        8.997782,
+        45.83857
+    ],
+    "center": [
+        8.98333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.98333,
+            45.83333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9347633086044220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova Tulo",
+    "place_name": "Villanova Tulo, Cagliari, Italy",
+    "bbox": [
+        9.158669,
+        39.749837,
+        9.234806,
+        39.83249
+    ],
+    "center": [
+        9.21667,
+        39.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            39.78333
+        ]
+    }
+}

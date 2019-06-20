@@ -1,0 +1,27 @@
+{
+    "id": "place.2276013549857530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agugliano",
+    "place_name": "Agugliano, Ancona, Italy",
+    "bbox": [
+        13.318197,
+        43.534805,
+        13.404562,
+        43.578745
+    ],
+    "center": [
+        13.38601,
+        43.54344
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38601,
+            43.54344
+        ]
+    }
+}

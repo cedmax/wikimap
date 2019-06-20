@@ -1,0 +1,21 @@
+{
+    "id": "poi.2826088535773",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "S.I.S.S.A.",
+    "place_name": "S.I.S.S.A., via Bonomea, 265, Trieste, Trieste 34136, Italy",
+    "center": [
+        13.774912,
+        45.679589
+    ],
+    "geometry": {
+        "coordinates": [
+            13.774912,
+            45.679589
+        ],
+        "type": "Point"
+    }
+}

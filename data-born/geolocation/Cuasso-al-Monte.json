@@ -1,0 +1,27 @@
+{
+    "id": "place.13478718148712900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cuasso al Monte",
+    "place_name": "Cuasso al Monte, Varese, Italy",
+    "bbox": [
+        8.837221,
+        45.882568,
+        8.897565,
+        45.935581
+    ],
+    "center": [
+        8.86667,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86667,
+            45.86667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18073487568556620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Subbiano",
+    "place_name": "Subbiano, Arezzo, Italy",
+    "bbox": [
+        11.83897,
+        43.537545,
+        11.96837,
+        43.650024
+    ],
+    "center": [
+        11.87222,
+        43.58
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.87222,
+            43.58
+        ]
+    }
+}

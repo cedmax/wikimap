@@ -1,0 +1,27 @@
+{
+    "id": "place.8181108953558180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzolombardo",
+    "place_name": "Mezzolombardo, Trento, Italy",
+    "bbox": [
+        11.063293,
+        46.177702,
+        11.118517,
+        46.231252
+    ],
+    "center": [
+        11.09778,
+        46.20972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.09778,
+            46.20972
+        ]
+    }
+}

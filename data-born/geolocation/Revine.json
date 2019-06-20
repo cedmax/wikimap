@@ -1,0 +1,21 @@
+{
+    "id": "poi.1855425872083",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9583333333333333,
+    "text": "Reginè",
+    "place_name": "Reginè, isola E1, Napoli, Napoli 80143, Italy",
+    "center": [
+        14.284603,
+        40.857735
+    ],
+    "geometry": {
+        "coordinates": [
+            14.284603,
+            40.857735
+        ],
+        "type": "Point"
+    }
+}

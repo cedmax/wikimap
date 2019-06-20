@@ -1,0 +1,27 @@
+{
+    "id": "place.2727013387049060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acquanegra sul Chiese",
+    "place_name": "Acquanegra sul Chiese, Mantova, Italy",
+    "bbox": [
+        10.401247,
+        45.125856,
+        10.526022,
+        45.187532
+    ],
+    "center": [
+        10.43333,
+        45.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            45.16667
+        ]
+    }
+}

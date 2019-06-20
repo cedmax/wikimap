@@ -1,0 +1,27 @@
+{
+    "id": "place.15780706344898900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scarlino",
+    "place_name": "Scarlino, Grosseto, Italy",
+    "bbox": [
+        10.768458,
+        42.842627,
+        10.89348,
+        42.963718
+    ],
+    "center": [
+        10.85083,
+        42.90806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85083,
+            42.90806
+        ]
+    }
+}

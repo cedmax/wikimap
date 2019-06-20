@@ -1,0 +1,27 @@
+{
+    "id": "place.9680236394033480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roè Volciano",
+    "place_name": "Roè Volciano, Brescia, Italy",
+    "bbox": [
+        10.472819,
+        45.600719,
+        10.523983,
+        45.635676
+    ],
+    "center": [
+        10.5,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.5,
+            45.63333
+        ]
+    }
+}

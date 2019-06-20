@@ -1,0 +1,27 @@
+{
+    "id": "place.8167149674050360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albidona",
+    "place_name": "Albidona, Cosenza, Italy",
+    "bbox": [
+        16.404024,
+        39.87647,
+        16.577646,
+        39.962028
+    ],
+    "center": [
+        16.47,
+        39.9242
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.47,
+            39.9242
+        ]
+    }
+}

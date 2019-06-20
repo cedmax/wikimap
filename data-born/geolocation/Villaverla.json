@@ -1,0 +1,27 @@
+{
+    "id": "place.8661490044365110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villaverla",
+    "place_name": "Villaverla, Vicenza, Italy",
+    "bbox": [
+        11.452928,
+        45.617438,
+        11.533686,
+        45.672606
+    ],
+    "center": [
+        11.5,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            45.65
+        ]
+    }
+}

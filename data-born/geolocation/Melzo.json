@@ -1,0 +1,27 @@
+{
+    "id": "place.14747033794566760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melzo",
+    "place_name": "Melzo, Milano, Italy",
+    "bbox": [
+        9.395295,
+        45.482244,
+        9.452174,
+        45.51551
+    ],
+    "center": [
+        9.41667,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41667,
+            45.5
+        ]
+    }
+}

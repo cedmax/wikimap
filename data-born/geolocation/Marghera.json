@@ -1,0 +1,21 @@
+{
+    "id": "poi.3161096009777",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.96875,
+    "text": "Maghèra",
+    "place_name": "Maghèra, Perugia, Perugia 06132, Italy",
+    "center": [
+        12.341753,
+        43.07389
+    ],
+    "geometry": {
+        "coordinates": [
+            12.341753,
+            43.07389
+        ],
+        "type": "Point"
+    }
+}

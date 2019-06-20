@@ -1,0 +1,27 @@
+{
+    "id": "place.11479125363177240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Foiano della Chiana",
+    "place_name": "Foiano della Chiana, Arezzo, Italy",
+    "bbox": [
+        11.773199,
+        43.220696,
+        11.841592,
+        43.304667
+    ],
+    "center": [
+        11.81639,
+        43.25667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81639,
+            43.25667
+        ]
+    }
+}

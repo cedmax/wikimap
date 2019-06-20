@@ -1,0 +1,27 @@
+{
+    "id": "place.4151145781211980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostellato",
+    "place_name": "Ostellato, Ferrara, Italy",
+    "bbox": [
+        11.821142,
+        44.666877,
+        12.120368,
+        44.78905
+    ],
+    "center": [
+        11.93333,
+        44.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            44.75
+        ]
+    }
+}

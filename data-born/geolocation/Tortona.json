@@ -1,0 +1,27 @@
+{
+    "id": "place.8962267930062030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tortona",
+    "place_name": "Tortona, Alessandria, Italy",
+    "bbox": [
+        8.779678,
+        44.811365,
+        8.909944,
+        44.956565
+    ],
+    "center": [
+        8.86556,
+        44.89417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86556,
+            44.89417
+        ]
+    }
+}

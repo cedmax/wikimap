@@ -1,0 +1,27 @@
+{
+    "id": "place.1324258697646570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Florinas",
+    "place_name": "Florinas, Sassari, Italy",
+    "bbox": [
+        8.605642,
+        40.587153,
+        8.707599,
+        40.671544
+    ],
+    "center": [
+        8.66667,
+        40.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            40.65
+        ]
+    }
+}

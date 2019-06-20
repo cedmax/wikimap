@@ -1,0 +1,27 @@
+{
+    "id": "place.13221756534004350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgomaro",
+    "place_name": "Borgomaro, Imperia, Italy",
+    "bbox": [
+        7.861123,
+        43.952014,
+        7.971094,
+        44.004521
+    ],
+    "center": [
+        7.9448,
+        43.97552
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9448,
+            43.97552
+        ]
+    }
+}

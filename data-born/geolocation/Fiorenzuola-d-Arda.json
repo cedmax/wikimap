@@ -1,0 +1,27 @@
+{
+    "id": "place.12031575950572130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiorenzuola d'Arda",
+    "place_name": "Fiorenzuola d'Arda, Piacenza, Italy",
+    "bbox": [
+        9.844325,
+        44.892144,
+        9.975989,
+        44.983806
+    ],
+    "center": [
+        9.9,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9,
+            44.93333
+        ]
+    }
+}

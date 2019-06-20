@@ -1,0 +1,27 @@
+{
+    "id": "place.13137568153644560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varedo",
+    "place_name": "Varedo, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.142794,
+        45.58808,
+        9.188581,
+        45.609346
+    ],
+    "center": [
+        9.16667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            45.6
+        ]
+    }
+}

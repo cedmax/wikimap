@@ -1,0 +1,27 @@
+{
+    "id": "place.9895728288348180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morciano di Romagna",
+    "place_name": "Morciano di Romagna, Rimini, Italy",
+    "bbox": [
+        12.618893,
+        43.898402,
+        12.680063,
+        43.929887
+    ],
+    "center": [
+        12.65,
+        43.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            43.91667
+        ]
+    }
+}

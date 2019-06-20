@@ -1,0 +1,27 @@
+{
+    "id": "place.7918073558515240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Argenta",
+    "place_name": "Argenta, Ferrara, Italy",
+    "bbox": [
+        11.614703,
+        44.545474,
+        12.164477,
+        44.728085
+    ],
+    "center": [
+        11.83639,
+        44.61306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83639,
+            44.61306
+        ]
+    }
+}

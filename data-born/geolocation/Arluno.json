@@ -1,0 +1,27 @@
+{
+    "id": "place.9754713927353850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arluno",
+    "place_name": "Arluno, Milano, Italy",
+    "bbox": [
+        8.915173,
+        45.485763,
+        8.982373,
+        45.528165
+    ],
+    "center": [
+        8.93333,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45.5
+        ]
+    }
+}

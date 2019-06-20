@@ -1,0 +1,27 @@
+{
+    "id": "place.9076435926458580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Partanna",
+    "place_name": "Partanna, Trapani, Italy",
+    "bbox": [
+        12.829445,
+        37.667844,
+        12.961322,
+        37.768083
+    ],
+    "center": [
+        12.88944,
+        37.72889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88944,
+            37.72889
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5922104564773270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manerba del Garda",
+    "place_name": "Manerba del Garda, Brescia, Italy",
+    "bbox": [
+        10.525419,
+        45.528641,
+        10.633801,
+        45.575924
+    ],
+    "center": [
+        10.55139,
+        45.54972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55139,
+            45.54972
+        ]
+    }
+}

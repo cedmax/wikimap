@@ -1,0 +1,27 @@
+{
+    "id": "place.2731883181519130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riccò del Golfo di Spezia",
+    "place_name": "Riccò del Golfo di Spezia, La Spezia, Italy",
+    "bbox": [
+        9.714125,
+        44.106225,
+        9.813193,
+        44.176957
+    ],
+    "center": [
+        9.76854,
+        44.16161
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76854,
+            44.16161
+        ]
+    }
+}

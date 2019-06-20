@@ -1,0 +1,27 @@
+{
+    "id": "place.6484936252890030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valmorea",
+    "place_name": "Valmorea, Como, Italy",
+    "bbox": [
+        8.916875,
+        45.806481,
+        8.947974,
+        45.829772
+    ],
+    "center": [
+        8.93333,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45.81667
+        ]
+    }
+}

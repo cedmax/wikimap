@@ -1,0 +1,27 @@
+{
+    "id": "place.3255790301655300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Felice sul Panaro",
+    "place_name": "San Felice sul Panaro, Modena, Italy",
+    "bbox": [
+        11.08599,
+        44.803572,
+        11.223958,
+        44.886729
+    ],
+    "center": [
+        11.14361,
+        44.8341
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.14361,
+            44.8341
+        ]
+    }
+}

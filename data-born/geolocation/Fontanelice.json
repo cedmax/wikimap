@@ -1,0 +1,27 @@
+{
+    "id": "place.9493512586991710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fontanelice",
+    "place_name": "Fontanelice, Bologna, Italy",
+    "bbox": [
+        11.493261,
+        44.216978,
+        11.601673,
+        44.295609
+    ],
+    "center": [
+        11.56667,
+        44.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            44.26667
+        ]
+    }
+}

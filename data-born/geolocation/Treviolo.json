@@ -1,0 +1,27 @@
+{
+    "id": "place.11409945806084630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Treviolo",
+    "place_name": "Treviolo, Bergamo, Italy",
+    "bbox": [
+        9.576104,
+        45.656603,
+        9.637994,
+        45.689203
+    ],
+    "center": [
+        9.61556,
+        45.67278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61556,
+            45.67278
+        ]
+    }
+}

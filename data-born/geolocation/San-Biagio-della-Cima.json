@@ -1,0 +1,27 @@
+{
+    "id": "place.9871449485900410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Biagio della Cima",
+    "place_name": "San Biagio della Cima, Imperia, Italy",
+    "bbox": [
+        7.633455,
+        43.803508,
+        7.665259,
+        43.845978
+    ],
+    "center": [
+        7.64965,
+        43.81859
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.64965,
+            43.81859
+        ]
+    }
+}

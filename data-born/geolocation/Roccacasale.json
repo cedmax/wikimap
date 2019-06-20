@@ -1,0 +1,27 @@
+{
+    "id": "place.8479462437251520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccacasale",
+    "place_name": "Roccacasale, L'Aquila, Italy",
+    "bbox": [
+        13.858618,
+        42.104308,
+        13.926176,
+        42.158129
+    ],
+    "center": [
+        13.88889,
+        42.12389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88889,
+            42.12389
+        ]
+    }
+}

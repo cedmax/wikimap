@@ -1,0 +1,27 @@
+{
+    "id": "place.9841145341324010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Angera",
+    "place_name": "Angera, Varese, Italy",
+    "bbox": [
+        8.552757,
+        45.751644,
+        8.645653,
+        45.793697
+    ],
+    "center": [
+        8.58333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.58333,
+            45.76667
+        ]
+    }
+}

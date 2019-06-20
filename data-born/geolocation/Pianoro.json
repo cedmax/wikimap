@@ -1,0 +1,27 @@
+{
+    "id": "place.10449354762203720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianoro",
+    "place_name": "Pianoro, Bologna, Italy",
+    "bbox": [
+        11.276836,
+        44.307913,
+        11.427657,
+        44.446849
+    ],
+    "center": [
+        11.33333,
+        44.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.33333,
+            44.38333
+        ]
+    }
+}

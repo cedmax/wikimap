@@ -1,0 +1,27 @@
+{
+    "id": "place.10568241210108430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riolo Terme",
+    "place_name": "Riolo Terme, Ravenna, Italy",
+    "bbox": [
+        11.629063,
+        44.24364,
+        11.76619,
+        44.316847
+    ],
+    "center": [
+        11.73333,
+        44.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.73333,
+            44.28333
+        ]
+    }
+}

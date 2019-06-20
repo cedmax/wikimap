@@ -1,0 +1,27 @@
+{
+    "id": "place.10815473059669630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Val di Taro",
+    "place_name": "Borgo Val di Taro, Parma, Italy",
+    "bbox": [
+        9.698087,
+        44.407022,
+        9.910067,
+        44.566038
+    ],
+    "center": [
+        9.76667,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76667,
+            44.48333
+        ]
+    }
+}

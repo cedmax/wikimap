@@ -1,0 +1,27 @@
+{
+    "id": "place.10183068968680570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Caterina dello Ionio",
+    "place_name": "Santa Caterina dello Ionio, Catanzaro, Italy",
+    "bbox": [
+        16.423327,
+        38.503494,
+        16.578503,
+        38.565475
+    ],
+    "center": [
+        16.51667,
+        38.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.51667,
+            38.53333
+        ]
+    }
+}

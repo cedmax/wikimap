@@ -1,0 +1,27 @@
+{
+    "id": "place.13426345382645500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rio Marina",
+    "place_name": "Rio Marina, Livorno, Italy",
+    "bbox": [
+        10.390055,
+        42.772596,
+        10.444207,
+        42.872787
+    ],
+    "center": [
+        10.41667,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41667,
+            42.81667
+        ]
+    }
+}

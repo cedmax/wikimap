@@ -1,0 +1,27 @@
+{
+    "id": "place.11328221409145230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orbassano",
+    "place_name": "Orbassano, Torino, Italy",
+    "bbox": [
+        7.515228,
+        44.978464,
+        7.598053,
+        45.042946
+    ],
+    "center": [
+        7.53333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.53333,
+            45
+        ]
+    }
+}

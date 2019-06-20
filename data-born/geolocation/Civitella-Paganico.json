@@ -1,0 +1,27 @@
+{
+    "id": "place.16920899248386690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civitella Paganico",
+    "place_name": "Civitella Paganico, Grosseto, Italy",
+    "bbox": [
+        11.187889,
+        42.908015,
+        11.381319,
+        43.091234
+    ],
+    "center": [
+        11.28167,
+        42.995
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28167,
+            42.995
+        ]
+    }
+}

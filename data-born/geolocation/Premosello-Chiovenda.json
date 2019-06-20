@@ -1,0 +1,27 @@
+{
+    "id": "place.5091738644148790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Premosello-Chiovenda",
+    "place_name": "Premosello-Chiovenda, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.31088,
+        45.984729,
+        8.419828,
+        46.053915
+    ],
+    "center": [
+        8.33333,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.33333,
+            46
+        ]
+    }
+}

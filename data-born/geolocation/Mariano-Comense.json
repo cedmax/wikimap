@@ -1,0 +1,27 @@
+{
+    "id": "place.14547292080004890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mariano Comense",
+    "place_name": "Mariano Comense, Como, Italy",
+    "bbox": [
+        9.146915,
+        45.665607,
+        9.198557,
+        45.726473
+    ],
+    "center": [
+        9.18333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.7
+        ]
+    }
+}

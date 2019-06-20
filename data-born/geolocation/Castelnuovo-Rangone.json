@@ -1,0 +1,27 @@
+{
+    "id": "place.15350693289158440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Rangone",
+    "place_name": "Castelnuovo Rangone, Modena, Italy",
+    "bbox": [
+        10.879318,
+        44.533877,
+        10.974188,
+        44.59413
+    ],
+    "center": [
+        10.93583,
+        44.55194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.93583,
+            44.55194
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7436191893997130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riesi",
+    "place_name": "Riesi, Caltanissetta, Italy",
+    "bbox": [
+        14.019946,
+        37.246749,
+        14.154415,
+        37.345142
+    ],
+    "center": [
+        14.08333,
+        37.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.08333,
+            37.28333
+        ]
+    }
+}

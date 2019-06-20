@@ -1,0 +1,27 @@
+{
+    "id": "place.7453685961228540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Jerzu",
+    "place_name": "Jerzu, Ogliastra, Italy",
+    "bbox": [
+        9.460521,
+        39.572761,
+        9.614015,
+        39.813201
+    ],
+    "center": [
+        9.51667,
+        39.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.51667,
+            39.78333
+        ]
+    }
+}

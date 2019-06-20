@@ -1,0 +1,27 @@
+{
+    "id": "place.8948347077053540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moltrasio",
+    "place_name": "Moltrasio, Como, Italy",
+    "bbox": [
+        9.077249,
+        45.846741,
+        9.112234,
+        45.900337
+    ],
+    "center": [
+        9.1,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            45.86667
+        ]
+    }
+}

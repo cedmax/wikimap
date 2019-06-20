@@ -1,0 +1,27 @@
+{
+    "id": "place.6820538276785280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grotteria",
+    "place_name": "Grotteria, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.235648,
+        38.290429,
+        16.32556,
+        38.447848
+    ],
+    "center": [
+        16.2725,
+        38.35389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2725,
+            38.35389
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7086875055928310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aggius",
+    "place_name": "Aggius, Olbia-Tempio, Italy",
+    "bbox": [
+        8.861894,
+        40.909816,
+        9.08974,
+        41.065239
+    ],
+    "center": [
+        9.06443,
+        40.92948
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06443,
+            40.92948
+        ]
+    }
+}

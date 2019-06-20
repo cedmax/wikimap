@@ -1,0 +1,27 @@
+{
+    "id": "place.14963112248126390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavaglio d'Agogna",
+    "place_name": "Cavaglio d'Agogna, Novara, Italy",
+    "bbox": [
+        8.451559,
+        45.580861,
+        8.49807,
+        45.631388
+    ],
+    "center": [
+        8.48333,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48333,
+            45.61667
+        ]
+    }
+}

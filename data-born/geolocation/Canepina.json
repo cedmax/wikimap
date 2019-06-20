@@ -1,0 +1,27 @@
+{
+    "id": "place.12294250030926260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canepina",
+    "place_name": "Canepina, Viterbo, Italy",
+    "bbox": [
+        12.173253,
+        42.348612,
+        12.249689,
+        42.401419
+    ],
+    "center": [
+        12.23278,
+        42.38306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23278,
+            42.38306
+        ]
+    }
+}

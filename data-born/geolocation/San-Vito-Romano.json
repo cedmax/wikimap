@@ -1,0 +1,27 @@
+{
+    "id": "place.5526162924694180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito Romano",
+    "place_name": "San Vito Romano, Roma, Italy",
+    "bbox": [
+        12.953222,
+        41.859752,
+        13.002039,
+        41.903173
+    ],
+    "center": [
+        12.98333,
+        41.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98333,
+            41.88333
+        ]
+    }
+}

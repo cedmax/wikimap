@@ -1,0 +1,27 @@
+{
+    "id": "place.16824904052673610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpenedolo",
+    "place_name": "Carpenedolo, Brescia, Italy",
+    "bbox": [
+        10.397431,
+        45.320321,
+        10.470817,
+        45.383732
+    ],
+    "center": [
+        10.4323,
+        45.3654
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4323,
+            45.3654
+        ]
+    }
+}

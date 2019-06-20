@@ -1,0 +1,27 @@
+{
+    "id": "place.8601751091963000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Miglionico",
+    "place_name": "Miglionico, Matera, Italy",
+    "bbox": [
+        16.420101,
+        40.528057,
+        16.5916,
+        40.623034
+    ],
+    "center": [
+        16.5,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.5,
+            40.56667
+        ]
+    }
+}

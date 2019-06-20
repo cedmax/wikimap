@@ -1,0 +1,27 @@
+{
+    "id": "place.10285534120350840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altopascio",
+    "place_name": "Altopascio, Lucca, Italy",
+    "bbox": [
+        10.630022,
+        43.786026,
+        10.72832,
+        43.848095
+    ],
+    "center": [
+        10.67472,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.67472,
+            43.81667
+        ]
+    }
+}

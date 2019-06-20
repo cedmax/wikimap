@@ -1,0 +1,27 @@
+{
+    "id": "place.8270003463374590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cossignano",
+    "place_name": "Cossignano, Ascoli Piceno, Italy",
+    "bbox": [
+        13.65548,
+        42.96269,
+        13.717151,
+        43.007195
+    ],
+    "center": [
+        13.68808,
+        42.98399
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68808,
+            42.98399
+        ]
+    }
+}

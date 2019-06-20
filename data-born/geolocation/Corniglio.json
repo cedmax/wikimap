@@ -1,0 +1,27 @@
+{
+    "id": "place.16097829742512370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corniglio",
+    "place_name": "Corniglio, Parma, Italy",
+    "bbox": [
+        9.968573,
+        44.372538,
+        10.192404,
+        44.57205
+    ],
+    "center": [
+        10.08333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.08333,
+            44.48333
+        ]
+    }
+}

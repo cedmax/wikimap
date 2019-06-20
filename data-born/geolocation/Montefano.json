@@ -1,0 +1,27 @@
+{
+    "id": "place.13743623291313700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefano",
+    "place_name": "Montefano, Macerata, Italy",
+    "bbox": [
+        13.356007,
+        43.376112,
+        13.481428,
+        43.447179
+    ],
+    "center": [
+        13.43868,
+        43.4116
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43868,
+            43.4116
+        ]
+    }
+}

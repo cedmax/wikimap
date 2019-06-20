@@ -1,0 +1,21 @@
+{
+    "id": "poi.2216203202497",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Santa Giustina",
+    "place_name": "Santa Giustina, Padova, Padova 35123, Italy",
+    "center": [
+        11.878807,
+        45.397022
+    ],
+    "geometry": {
+        "coordinates": [
+            11.878807,
+            45.397022
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14037016097806630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ameglia",
+    "place_name": "Ameglia, La Spezia, Italy",
+    "bbox": [
+        9.941096,
+        44.035379,
+        9.999273,
+        44.080718
+    ],
+    "center": [
+        9.95754,
+        44.06726
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95754,
+            44.06726
+        ]
+    }
+}

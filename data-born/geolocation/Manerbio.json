@@ -1,0 +1,27 @@
+{
+    "id": "place.8349204008815390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manerbio",
+    "place_name": "Manerbio, Brescia, Italy",
+    "bbox": [
+        10.101347,
+        45.312807,
+        10.182144,
+        45.391202
+    ],
+    "center": [
+        10.13333,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            45.36667
+        ]
+    }
+}

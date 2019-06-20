@@ -1,0 +1,27 @@
+{
+    "id": "place.10678920674964610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova Mondovì",
+    "place_name": "Villanova Mondovì, Cuneo, Italy",
+    "bbox": [
+        7.713802,
+        44.324648,
+        7.792986,
+        44.396027
+    ],
+    "center": [
+        7.76667,
+        44.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.76667,
+            44.35
+        ]
+    }
+}

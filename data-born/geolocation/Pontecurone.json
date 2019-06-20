@@ -1,0 +1,27 @@
+{
+    "id": "place.8044212718681680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontecurone",
+    "place_name": "Pontecurone, Alessandria, Italy",
+    "bbox": [
+        8.900033,
+        44.924952,
+        8.980408,
+        44.987766
+    ],
+    "center": [
+        8.935,
+        44.96111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.935,
+            44.96111
+        ]
+    }
+}

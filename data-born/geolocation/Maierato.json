@@ -1,0 +1,27 @@
+{
+    "id": "place.13286831541523870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maierato",
+    "place_name": "Maierato, Vibo Valentia, Italy",
+    "bbox": [
+        16.153288,
+        38.69745,
+        16.279579,
+        38.761796
+    ],
+    "center": [
+        16.2,
+        38.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2,
+            38.7
+        ]
+    }
+}

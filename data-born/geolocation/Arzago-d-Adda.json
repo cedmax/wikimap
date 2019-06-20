@@ -1,0 +1,27 @@
+{
+    "id": "place.14498147918643680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arzago d'Adda",
+    "place_name": "Arzago d'Adda, Bergamo, Italy",
+    "bbox": [
+        9.54056,
+        45.459205,
+        9.590924,
+        45.488714
+    ],
+    "center": [
+        9.56333,
+        45.48194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56333,
+            45.48194
+        ]
+    }
+}

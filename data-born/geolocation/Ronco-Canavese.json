@@ -1,0 +1,27 @@
+{
+    "id": "place.9200211817913600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronco Canavese",
+    "place_name": "Ronco Canavese, Torino, Italy",
+    "bbox": [
+        7.375509,
+        45.456278,
+        7.616492,
+        45.55539
+    ],
+    "center": [
+        7.55,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.55,
+            45.5
+        ]
+    }
+}

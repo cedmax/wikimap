@@ -1,0 +1,27 @@
+{
+    "id": "place.16617633527726350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olzai",
+    "place_name": "Olzai, Nuoro, Italy",
+    "bbox": [
+        8.998203,
+        40.124659,
+        9.167973,
+        40.208869
+    ],
+    "center": [
+        9.14778,
+        40.1825
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.14778,
+            40.1825
+        ]
+    }
+}

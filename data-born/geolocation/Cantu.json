@@ -1,0 +1,27 @@
+{
+    "id": "place.16867675369688840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cantù",
+    "place_name": "Cantù, Como, Italy",
+    "bbox": [
+        9.095357,
+        45.707525,
+        9.173319,
+        45.767844
+    ],
+    "center": [
+        9.13333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.73333
+        ]
+    }
+}

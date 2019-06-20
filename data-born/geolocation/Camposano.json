@@ -1,0 +1,27 @@
+{
+    "id": "place.9164704614848460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camposano",
+    "place_name": "Camposano, Napoli, Italy",
+    "bbox": [
+        14.50305,
+        40.942044,
+        14.541341,
+        40.962571
+    ],
+    "center": [
+        14.53333,
+        40.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            40.95
+        ]
+    }
+}

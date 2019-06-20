@@ -1,0 +1,27 @@
+{
+    "id": "place.9566393191521830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maranello",
+    "place_name": "Maranello, Modena, Italy",
+    "bbox": [
+        10.82052,
+        44.45881,
+        10.913611,
+        44.547311
+    ],
+    "center": [
+        10.86639,
+        44.52556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.86639,
+            44.52556
+        ]
+    }
+}

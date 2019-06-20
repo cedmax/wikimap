@@ -1,0 +1,27 @@
+{
+    "id": "place.8602889294464680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro al Natisone",
+    "place_name": "San Pietro al Natisone, Udine, Italy",
+    "bbox": [
+        13.449629,
+        46.09458,
+        13.536399,
+        46.179836
+    ],
+    "center": [
+        13.48722,
+        46.13
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.48722,
+            46.13
+        ]
+    }
+}

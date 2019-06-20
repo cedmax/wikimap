@@ -1,0 +1,27 @@
+{
+    "id": "place.13065399418915440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bollate",
+    "place_name": "Bollate, Milano, Italy",
+    "bbox": [
+        9.081188,
+        45.530486,
+        9.149465,
+        45.568933
+    ],
+    "center": [
+        9.11667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            45.55
+        ]
+    }
+}

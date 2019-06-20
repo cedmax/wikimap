@@ -1,0 +1,27 @@
+{
+    "id": "place.12027822085053320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spello",
+    "place_name": "Spello, Perugia, Italy",
+    "bbox": [
+        12.591808,
+        42.963914,
+        12.728469,
+        43.058171
+    ],
+    "center": [
+        12.66667,
+        42.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            42.98333
+        ]
+    }
+}

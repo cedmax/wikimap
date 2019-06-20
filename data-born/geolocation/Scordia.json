@@ -1,0 +1,27 @@
+{
+    "id": "place.6379804496301760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scordia",
+    "place_name": "Scordia, Catania, Italy",
+    "bbox": [
+        14.814874,
+        37.279543,
+        14.8923,
+        37.324954
+    ],
+    "center": [
+        14.85,
+        37.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85,
+            37.3
+        ]
+    }
+}

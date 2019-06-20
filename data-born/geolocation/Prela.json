@@ -1,0 +1,27 @@
+{
+    "id": "place.12505870271174520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Prelà",
+    "place_name": "Prelà, Imperia, Italy",
+    "bbox": [
+        7.875331,
+        43.917118,
+        7.949727,
+        43.953154
+    ],
+    "center": [
+        7.9093,
+        43.92382
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9093,
+            43.92382
+        ]
+    }
+}

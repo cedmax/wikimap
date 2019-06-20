@@ -1,0 +1,27 @@
+{
+    "id": "place.5647195389032040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vittorio Veneto",
+    "place_name": "Vittorio Veneto, Treviso, Italy",
+    "bbox": [
+        12.244109,
+        45.913012,
+        12.362,
+        46.082378
+    ],
+    "center": [
+        12.3,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3,
+            45.98333
+        ]
+    }
+}

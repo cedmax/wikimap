@@ -1,0 +1,27 @@
+{
+    "id": "place.7787171523194240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagni di Lucca",
+    "place_name": "Bagni di Lucca, Lucca, Italy",
+    "bbox": [
+        10.539753,
+        43.953187,
+        10.738118,
+        44.118337
+    ],
+    "center": [
+        10.57944,
+        44.00944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.57944,
+            44.00944
+        ]
+    }
+}

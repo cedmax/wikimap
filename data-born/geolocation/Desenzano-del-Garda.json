@@ -1,0 +1,27 @@
+{
+    "id": "place.2957885898410450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Desenzano del Garda",
+    "place_name": "Desenzano del Garda, Brescia, Italy",
+    "bbox": [
+        10.502063,
+        45.396792,
+        10.627514,
+        45.489106
+    ],
+    "center": [
+        10.535,
+        45.46889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.535,
+            45.46889
+        ]
+    }
+}

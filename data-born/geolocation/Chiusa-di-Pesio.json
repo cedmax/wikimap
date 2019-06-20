@@ -1,0 +1,27 @@
+{
+    "id": "place.1943748042872930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusa di Pesio",
+    "place_name": "Chiusa di Pesio, Cuneo, Italy",
+    "bbox": [
+        7.603614,
+        44.172505,
+        7.715822,
+        44.375538
+    ],
+    "center": [
+        7.68333,
+        44.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.68333,
+            44.31667
+        ]
+    }
+}

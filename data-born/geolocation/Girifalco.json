@@ -1,0 +1,27 @@
+{
+    "id": "place.16836901963424160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Girifalco",
+    "place_name": "Girifalco, Catanzaro, Italy",
+    "bbox": [
+        16.381124,
+        38.752387,
+        16.487244,
+        38.849577
+    ],
+    "center": [
+        16.43333,
+        38.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.43333,
+            38.81667
+        ]
+    }
+}

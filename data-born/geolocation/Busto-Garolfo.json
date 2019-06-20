@@ -1,0 +1,27 @@
+{
+    "id": "place.6371184651326650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Busto Garolfo",
+    "place_name": "Busto Garolfo, Milano, Italy",
+    "bbox": [
+        8.844915,
+        45.524107,
+        8.918796,
+        45.560545
+    ],
+    "center": [
+        8.88667,
+        45.54778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88667,
+            45.54778
+        ]
+    }
+}

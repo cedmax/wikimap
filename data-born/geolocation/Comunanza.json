@@ -1,0 +1,27 @@
+{
+    "id": "place.11991563684790050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comunanza",
+    "place_name": "Comunanza, Ascoli Piceno, Italy",
+    "bbox": [
+        13.359983,
+        42.86083,
+        13.459931,
+        42.977601
+    ],
+    "center": [
+        13.41457,
+        42.95724
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.41457,
+            42.95724
+        ]
+    }
+}

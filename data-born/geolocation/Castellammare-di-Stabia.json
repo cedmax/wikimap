@@ -1,0 +1,27 @@
+{
+    "id": "place.9231706152517790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellammare di Stabia",
+    "place_name": "Castellammare di Stabia, Napoli, Italy",
+    "bbox": [
+        14.442112,
+        40.664255,
+        14.50204,
+        40.741898
+    ],
+    "center": [
+        14.48333,
+        40.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48333,
+            40.7
+        ]
+    }
+}

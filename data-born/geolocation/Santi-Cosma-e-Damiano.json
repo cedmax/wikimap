@@ -1,0 +1,27 @@
+{
+    "id": "place.11669963356519260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santi Cosma e Damiano",
+    "place_name": "Santi Cosma e Damiano, Latina, Italy",
+    "bbox": [
+        13.76312,
+        41.241013,
+        13.840387,
+        41.322345
+    ],
+    "center": [
+        13.81667,
+        41.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81667,
+            41.3
+        ]
+    }
+}

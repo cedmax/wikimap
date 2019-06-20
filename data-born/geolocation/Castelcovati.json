@@ -1,0 +1,27 @@
+{
+    "id": "place.8742597736213270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelcovati",
+    "place_name": "Castelcovati, Brescia, Italy",
+    "bbox": [
+        9.921292,
+        45.485148,
+        9.966133,
+        45.512588
+    ],
+    "center": [
+        9.95,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            45.5
+        ]
+    }
+}

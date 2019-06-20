@@ -1,0 +1,27 @@
+{
+    "id": "place.7131766893555340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Candia Lomellina",
+    "place_name": "Candia Lomellina, Pavia, Italy",
+    "bbox": [
+        8.542895,
+        45.145997,
+        8.628422,
+        45.20897
+    ],
+    "center": [
+        8.6,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.6,
+            45.18333
+        ]
+    }
+}

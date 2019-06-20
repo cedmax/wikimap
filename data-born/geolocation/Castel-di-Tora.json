@@ -1,0 +1,27 @@
+{
+    "id": "place.4258809275616150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel di Tora",
+    "place_name": "Castel di Tora, Rieti, Italy",
+    "bbox": [
+        12.938608,
+        42.175103,
+        13.003979,
+        42.234173
+    ],
+    "center": [
+        12.96359,
+        42.21493
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96359,
+            42.21493
+        ]
+    }
+}

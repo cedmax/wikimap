@@ -1,0 +1,27 @@
+{
+    "id": "place.6877693719706340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tarano",
+    "place_name": "Tarano, Rieti, Italy",
+    "bbox": [
+        12.54149,
+        42.31043,
+        12.614627,
+        42.362677
+    ],
+    "center": [
+        12.6,
+        42.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6,
+            42.35
+        ]
+    }
+}

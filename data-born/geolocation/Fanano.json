@@ -1,0 +1,27 @@
+{
+    "id": "place.6154662419645290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fanano",
+    "place_name": "Fanano, Modena, Italy",
+    "bbox": [
+        10.700642,
+        44.11539,
+        10.860904,
+        44.250881
+    ],
+    "center": [
+        10.7966,
+        44.21245
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7966,
+            44.21245
+        ]
+    }
+}

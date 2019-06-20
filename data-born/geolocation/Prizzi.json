@@ -1,0 +1,21 @@
+{
+    "id": "poi.1288490189140",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Prizzi",
+    "place_name": "Prizzi, Prizzi, Palermo 90038, Italy",
+    "center": [
+        13.434602750000002,
+        37.721259875
+    ],
+    "geometry": {
+        "coordinates": [
+            13.434602750000002,
+            37.721259875
+        ],
+        "type": "Point"
+    }
+}

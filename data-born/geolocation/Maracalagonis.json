@@ -1,0 +1,27 @@
+{
+    "id": "place.9352943289539240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maracalagonis",
+    "place_name": "Maracalagonis, Cagliari, Italy",
+    "bbox": [
+        9.206408,
+        39.141134,
+        9.487121,
+        39.302155
+    ],
+    "center": [
+        9.23333,
+        39.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.23333,
+            39.28333
+        ]
+    }
+}

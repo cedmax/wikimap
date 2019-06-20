@@ -1,0 +1,27 @@
+{
+    "id": "place.5669660079322450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vazzola",
+    "place_name": "Vazzola, Treviso, Italy",
+    "bbox": [
+        12.320638,
+        45.800905,
+        12.436058,
+        45.859174
+    ],
+    "center": [
+        12.38333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38333,
+            45.83333
+        ]
+    }
+}

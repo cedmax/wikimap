@@ -1,0 +1,27 @@
+{
+    "id": "place.12829285177747420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pojana Maggiore",
+    "place_name": "Pojana Maggiore, Vicenza, Italy",
+    "bbox": [
+        11.462639,
+        45.258433,
+        11.565653,
+        45.326745
+    ],
+    "center": [
+        11.5,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            45.28333
+        ]
+    }
+}

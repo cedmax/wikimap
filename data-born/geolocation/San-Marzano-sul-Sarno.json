@@ -1,0 +1,27 @@
+{
+    "id": "place.6208048321850060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marzano sul Sarno",
+    "place_name": "San Marzano sul Sarno, Salerno, Italy",
+    "bbox": [
+        14.561086,
+        40.763128,
+        14.600993,
+        40.785194
+    ],
+    "center": [
+        14.5817,
+        40.7749
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5817,
+            40.7749
+        ]
+    }
+}

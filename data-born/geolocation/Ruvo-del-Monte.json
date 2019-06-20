@@ -1,0 +1,27 @@
+{
+    "id": "place.9664153062589380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ruvo del Monte",
+    "place_name": "Ruvo del Monte, Potenza, Italy",
+    "bbox": [
+        15.493278,
+        40.833964,
+        15.603363,
+        40.919099
+    ],
+    "center": [
+        15.54,
+        40.84722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.54,
+            40.84722
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13501701173238690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tornolo",
+    "place_name": "Tornolo, Parma, Italy",
+    "bbox": [
+        9.438407,
+        44.409282,
+        9.6609,
+        44.491892
+    ],
+    "center": [
+        9.63333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.63333,
+            44.48333
+        ]
+    }
+}

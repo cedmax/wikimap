@@ -1,0 +1,27 @@
+{
+    "id": "place.7089138890343430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vanzago",
+    "place_name": "Vanzago, Milano, Italy",
+    "bbox": [
+        8.960756,
+        45.504766,
+        9.010135,
+        45.534124
+    ],
+    "center": [
+        9,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            45.53333
+        ]
+    }
+}

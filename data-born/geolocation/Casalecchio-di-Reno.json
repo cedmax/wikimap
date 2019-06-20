@@ -1,0 +1,27 @@
+{
+    "id": "place.12966543006655100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalecchio di Reno",
+    "place_name": "Casalecchio di Reno, Bologna, Italy",
+    "bbox": [
+        11.232559,
+        44.448748,
+        11.297105,
+        44.494259
+    ],
+    "center": [
+        11.28333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            44.48333
+        ]
+    }
+}

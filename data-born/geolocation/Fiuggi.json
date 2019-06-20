@@ -1,0 +1,27 @@
+{
+    "id": "place.13539405684629850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiuggi",
+    "place_name": "Fiuggi, Frosinone, Italy",
+    "bbox": [
+        13.174805,
+        41.766524,
+        13.260588,
+        41.839161
+    ],
+    "center": [
+        13.21667,
+        41.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21667,
+            41.8
+        ]
+    }
+}

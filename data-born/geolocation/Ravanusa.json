@@ -1,0 +1,27 @@
+{
+    "id": "place.6457783926084940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ravanusa",
+    "place_name": "Ravanusa, Agrigento, Italy",
+    "bbox": [
+        13.932993,
+        37.188866,
+        14.031583,
+        37.295061
+    ],
+    "center": [
+        13.96972,
+        37.26778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.96972,
+            37.26778
+        ]
+    }
+}

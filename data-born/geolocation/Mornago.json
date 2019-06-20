@@ -1,0 +1,27 @@
+{
+    "id": "place.10407473022190340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mornago",
+    "place_name": "Mornago, Varese, Italy",
+    "bbox": [
+        8.723716,
+        45.711329,
+        8.780358,
+        45.761693
+    ],
+    "center": [
+        8.75,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.75,
+            45.75
+        ]
+    }
+}

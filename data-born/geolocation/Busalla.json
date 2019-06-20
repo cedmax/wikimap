@@ -1,0 +1,27 @@
+{
+    "id": "place.10656175589335950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Busalla",
+    "place_name": "Busalla, Genova, Italy",
+    "bbox": [
+        8.91756,
+        44.557187,
+        9.014805,
+        44.618403
+    ],
+    "center": [
+        8.94534,
+        44.57104
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.94534,
+            44.57104
+        ]
+    }
+}

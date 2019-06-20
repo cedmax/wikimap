@@ -1,0 +1,27 @@
+{
+    "id": "place.17703015481252030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigevano",
+    "place_name": "Vigevano, Pavia, Italy",
+    "bbox": [
+        8.787198,
+        45.260695,
+        8.9831,
+        45.354787
+    ],
+    "center": [
+        8.86667,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86667,
+            45.31667
+        ]
+    }
+}

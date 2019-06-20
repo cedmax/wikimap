@@ -1,0 +1,27 @@
+{
+    "id": "place.6054013005129800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietraperzia",
+    "place_name": "Pietraperzia, Enna, Italy",
+    "bbox": [
+        14.05686,
+        37.331786,
+        14.203685,
+        37.481219
+    ],
+    "center": [
+        14.13333,
+        37.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.13333,
+            37.4
+        ]
+    }
+}

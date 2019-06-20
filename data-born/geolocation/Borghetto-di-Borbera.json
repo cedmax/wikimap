@@ -1,0 +1,27 @@
+{
+    "id": "place.841975058922920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borghetto di Borbera",
+    "place_name": "Borghetto di Borbera, Alessandria, Italy",
+    "bbox": [
+        8.905821,
+        44.701581,
+        9.02598,
+        44.773478
+    ],
+    "center": [
+        8.94444,
+        44.73028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.94444,
+            44.73028
+        ]
+    }
+}

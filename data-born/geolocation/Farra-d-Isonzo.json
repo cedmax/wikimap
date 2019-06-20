@@ -1,0 +1,27 @@
+{
+    "id": "place.6317210817088670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Farra d'Isonzo",
+    "place_name": "Farra d'Isonzo, Gorizia, Italy",
+    "bbox": [
+        13.500368,
+        45.88983,
+        13.562803,
+        45.921834
+    ],
+    "center": [
+        13.51667,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.51667,
+            45.9
+        ]
+    }
+}

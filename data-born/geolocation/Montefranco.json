@@ -1,0 +1,27 @@
+{
+    "id": "place.15370147686237490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefranco",
+    "place_name": "Montefranco, Terni, Italy",
+    "bbox": [
+        12.72615,
+        42.5814,
+        12.781086,
+        42.621873
+    ],
+    "center": [
+        12.76667,
+        42.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76667,
+            42.6
+        ]
+    }
+}

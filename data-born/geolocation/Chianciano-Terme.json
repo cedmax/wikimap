@@ -1,0 +1,27 @@
+{
+    "id": "place.16601372739547420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chianciano Terme",
+    "place_name": "Chianciano Terme, Siena, Italy",
+    "bbox": [
+        11.766177,
+        43.001395,
+        11.899836,
+        43.071345
+    ],
+    "center": [
+        11.83333,
+        43.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            43.06667
+        ]
+    }
+}

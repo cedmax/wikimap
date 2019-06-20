@@ -1,0 +1,27 @@
+{
+    "id": "place.11191776047709010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gimigliano",
+    "place_name": "Gimigliano, Catanzaro, Italy",
+    "bbox": [
+        16.431934,
+        38.942411,
+        16.579983,
+        39.033637
+    ],
+    "center": [
+        16.53333,
+        38.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.53333,
+            38.96667
+        ]
+    }
+}

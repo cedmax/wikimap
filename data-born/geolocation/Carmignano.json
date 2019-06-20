@@ -1,0 +1,27 @@
+{
+    "id": "place.14326899741296700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carmignano",
+    "place_name": "Carmignano, Prato, Italy",
+    "bbox": [
+        10.963913,
+        43.758873,
+        11.079354,
+        43.840871
+    ],
+    "center": [
+        11.01667,
+        43.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            43.81667
+        ]
+    }
+}

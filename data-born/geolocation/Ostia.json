@@ -1,0 +1,21 @@
+{
+    "id": "poi.2551210639018",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.95,
+    "text": "O'scià",
+    "place_name": "O'scià, Lampedusa e Linosa, Agrigento 92010, Italy",
+    "center": [
+        12.607006,
+        35.523493
+    ],
+    "geometry": {
+        "coordinates": [
+            12.607006,
+            35.523493
+        ],
+        "type": "Point"
+    }
+}

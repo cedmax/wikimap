@@ -1,0 +1,27 @@
+{
+    "id": "place.12938620675413700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro Vernotico",
+    "place_name": "San Pietro Vernotico, Brindisi, Italy",
+    "bbox": [
+        17.956177,
+        40.462198,
+        18.073208,
+        40.558478
+    ],
+    "center": [
+        18.05,
+        40.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.48333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9725283338902530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soresina",
+    "place_name": "Soresina, Cremona, Italy",
+    "bbox": [
+        9.807255,
+        45.254042,
+        9.889997,
+        45.329296
+    ],
+    "center": [
+        9.85,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            45.3
+        ]
+    }
+}

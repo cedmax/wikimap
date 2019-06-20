@@ -1,0 +1,27 @@
+{
+    "id": "place.7021846756552720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trisobbio",
+    "place_name": "Trisobbio, Alessandria, Italy",
+    "bbox": [
+        8.56483,
+        44.63824,
+        8.613734,
+        44.682933
+    ],
+    "center": [
+        8.58722,
+        44.6625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.58722,
+            44.6625
+        ]
+    }
+}

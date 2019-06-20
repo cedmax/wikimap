@@ -1,0 +1,27 @@
+{
+    "id": "place.19736141387490250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salice Salentino",
+    "place_name": "Salice Salentino, Lecce, Italy",
+    "bbox": [
+        17.798869,
+        40.34998,
+        17.998492,
+        40.406389
+    ],
+    "center": [
+        17.96667,
+        40.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.96667,
+            40.38333
+        ]
+    }
+}

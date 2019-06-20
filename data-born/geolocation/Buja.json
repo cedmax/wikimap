@@ -1,0 +1,27 @@
+{
+    "id": "place.8466327410330180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buja",
+    "place_name": "Buja, Udine, Italy",
+    "bbox": [
+        13.069655,
+        46.181625,
+        13.15007,
+        46.245785
+    ],
+    "center": [
+        13.13333,
+        46.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            46.21667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11947848089568350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Revello",
+    "place_name": "Revello, Cuneo, Italy",
+    "bbox": [
+        7.356537,
+        44.611301,
+        7.462941,
+        44.736788
+    ],
+    "center": [
+        7.38333,
+        44.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.38333,
+            44.65
+        ]
+    }
+}

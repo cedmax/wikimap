@@ -1,0 +1,27 @@
+{
+    "id": "place.14125348354204610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vezzano sul Crostolo",
+    "place_name": "Vezzano sul Crostolo, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.470335,
+        44.534692,
+        10.570918,
+        44.613663
+    ],
+    "center": [
+        10.55,
+        44.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            44.6
+        ]
+    }
+}

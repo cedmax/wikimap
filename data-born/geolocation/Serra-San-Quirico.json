@@ -1,0 +1,27 @@
+{
+    "id": "place.16561363090458540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serra San Quirico",
+    "place_name": "Serra San Quirico, Ancona, Italy",
+    "bbox": [
+        12.972921,
+        43.380951,
+        13.09269,
+        43.482139
+    ],
+    "center": [
+        13.01521,
+        43.44765
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01521,
+            43.44765
+        ]
+    }
+}

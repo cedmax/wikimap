@@ -1,0 +1,21 @@
+{
+    "id": "address.125920265",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.875,
+    "text": "via Feligara",
+    "place_name": "via Feligara, 48013 Brisighella Ravenna, Italy",
+    "center": [
+        11.867946,
+        44.220023
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.867946,
+            44.220023
+        ]
+    }
+}

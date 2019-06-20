@@ -1,0 +1,27 @@
+{
+    "id": "place.11671956495970810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cuccaro Vetere",
+    "place_name": "Cuccaro Vetere, Salerno, Italy",
+    "bbox": [
+        15.270182,
+        40.149098,
+        15.346537,
+        40.207397
+    ],
+    "center": [
+        15.31667,
+        40.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.31667,
+            40.16667
+        ]
+    }
+}

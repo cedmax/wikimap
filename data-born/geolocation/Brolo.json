@@ -1,0 +1,27 @@
+{
+    "id": "place.6798488136416770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brolo",
+    "place_name": "Brolo, Messina, Italy",
+    "bbox": [
+        14.809268,
+        38.125667,
+        14.858716,
+        38.162469
+    ],
+    "center": [
+        14.83333,
+        38.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83333,
+            38.15
+        ]
+    }
+}

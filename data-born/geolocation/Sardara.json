@@ -1,0 +1,27 @@
+{
+    "id": "place.12350506445938590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sardara",
+    "place_name": "Sardara, Medio Campidano, Italy",
+    "bbox": [
+        8.743195,
+        39.57014,
+        8.880309,
+        39.649432
+    ],
+    "center": [
+        8.83333,
+        39.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            39.61667
+        ]
+    }
+}

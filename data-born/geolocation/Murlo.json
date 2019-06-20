@@ -1,0 +1,27 @@
+{
+    "id": "place.10691001486326860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Murlo",
+    "place_name": "Murlo, Siena, Italy",
+    "bbox": [
+        11.276084,
+        43.079704,
+        11.430825,
+        43.221782
+    ],
+    "center": [
+        11.39222,
+        43.17111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.39222,
+            43.17111
+        ]
+    }
+}

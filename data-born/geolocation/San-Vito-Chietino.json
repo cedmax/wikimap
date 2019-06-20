@@ -1,0 +1,27 @@
+{
+    "id": "place.14172286405155080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito Chietino",
+    "place_name": "San Vito Chietino, Chieti, Italy",
+    "bbox": [
+        14.394154,
+        42.272984,
+        14.47568,
+        42.313421
+    ],
+    "center": [
+        14.45,
+        42.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.45,
+            42.3
+        ]
+    }
+}

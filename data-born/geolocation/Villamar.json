@@ -1,0 +1,27 @@
+{
+    "id": "place.4672040668962930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villamar",
+    "place_name": "Villamar, Medio Campidano, Italy",
+    "bbox": [
+        8.921018,
+        39.583535,
+        9.025701,
+        39.657134
+    ],
+    "center": [
+        8.96004,
+        39.61997
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.96004,
+            39.61997
+        ]
+    }
+}

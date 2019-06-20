@@ -1,0 +1,27 @@
+{
+    "id": "place.11452956926303490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calvagese della Riviera",
+    "place_name": "Calvagese della Riviera, Brescia, Italy",
+    "bbox": [
+        10.427147,
+        45.506293,
+        10.487382,
+        45.550634
+    ],
+    "center": [
+        10.4425,
+        45.53417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4425,
+            45.53417
+        ]
+    }
+}

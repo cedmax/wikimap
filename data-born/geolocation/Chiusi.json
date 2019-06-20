@@ -1,0 +1,27 @@
+{
+    "id": "place.13943251532263690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusi",
+    "place_name": "Chiusi, Siena, Italy",
+    "bbox": [
+        11.856884,
+        42.976144,
+        11.982547,
+        43.075388
+    ],
+    "center": [
+        11.95,
+        43.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.95,
+            43.01667
+        ]
+    }
+}

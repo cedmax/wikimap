@@ -1,0 +1,27 @@
+{
+    "id": "place.8672344813962670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avigliana",
+    "place_name": "Avigliana, Torino, Italy",
+    "bbox": [
+        7.348177,
+        45.043021,
+        7.438546,
+        45.101793
+    ],
+    "center": [
+        7.39611,
+        45.07944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.39611,
+            45.07944
+        ]
+    }
+}

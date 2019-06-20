@@ -1,0 +1,27 @@
+{
+    "id": "place.11324606561087580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nembro",
+    "place_name": "Nembro, Bergamo, Italy",
+    "bbox": [
+        9.722648,
+        45.720055,
+        9.790597,
+        45.786506
+    ],
+    "center": [
+        9.75944,
+        45.74389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.75944,
+            45.74389
+        ]
+    }
+}

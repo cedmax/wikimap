@@ -1,0 +1,27 @@
+{
+    "id": "place.10633802920480650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brugnera",
+    "place_name": "Brugnera, Pordenone, Italy",
+    "bbox": [
+        12.507311,
+        45.860947,
+        12.599026,
+        45.941973
+    ],
+    "center": [
+        12.53333,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.53333,
+            45.9
+        ]
+    }
+}

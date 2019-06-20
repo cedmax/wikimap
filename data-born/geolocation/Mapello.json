@@ -1,0 +1,27 @@
+{
+    "id": "place.8179917555343370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mapello",
+    "place_name": "Mapello, Bergamo, Italy",
+    "bbox": [
+        9.516016,
+        45.690705,
+        9.565782,
+        45.726851
+    ],
+    "center": [
+        9.54778,
+        45.70889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.54778,
+            45.70889
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6857217962784020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melito Irpino",
+    "place_name": "Melito Irpino, Avellino, Italy",
+    "bbox": [
+        15.002965,
+        41.077294,
+        15.065606,
+        41.140668
+    ],
+    "center": [
+        15.05333,
+        41.10417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.05333,
+            41.10417
+        ]
+    }
+}

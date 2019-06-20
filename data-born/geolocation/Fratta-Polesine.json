@@ -1,0 +1,27 @@
+{
+    "id": "place.15957352626507060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fratta Polesine",
+    "place_name": "Fratta Polesine, Rovigo, Italy",
+    "bbox": [
+        11.586167,
+        44.99441,
+        11.673405,
+        45.053185
+    ],
+    "center": [
+        11.65,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.65,
+            45.03333
+        ]
+    }
+}

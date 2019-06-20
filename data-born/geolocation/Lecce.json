@@ -1,0 +1,27 @@
+{
+    "id": "place.5775119719753680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lecce",
+    "place_name": "Lecce, Lecce, Italy",
+    "bbox": [
+        18.050449,
+        40.312588,
+        18.307302,
+        40.507131
+    ],
+    "center": [
+        18.16914,
+        40.35201
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.16914,
+            40.35201
+        ]
+    }
+}

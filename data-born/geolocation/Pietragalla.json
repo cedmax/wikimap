@@ -1,0 +1,27 @@
+{
+    "id": "place.11093594257833100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietragalla",
+    "place_name": "Pietragalla, Potenza, Italy",
+    "bbox": [
+        15.789149,
+        40.701714,
+        15.921786,
+        40.792543
+    ],
+    "center": [
+        15.88333,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.88333,
+            40.75
+        ]
+    }
+}

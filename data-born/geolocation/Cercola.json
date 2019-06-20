@@ -1,0 +1,27 @@
+{
+    "id": "place.12129123562447460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cercola",
+    "place_name": "Cercola, Napoli, Italy",
+    "bbox": [
+        14.346406,
+        40.846715,
+        14.374884,
+        40.876847
+    ],
+    "center": [
+        14.35,
+        40.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.35,
+            40.86667
+        ]
+    }
+}

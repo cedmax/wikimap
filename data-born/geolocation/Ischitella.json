@@ -1,0 +1,27 @@
+{
+    "id": "place.7120406022561800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ischitella",
+    "place_name": "Ischitella, Foggia, Italy",
+    "bbox": [
+        15.737666,
+        41.83677,
+        15.933537,
+        41.922346
+    ],
+    "center": [
+        15.9,
+        41.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.9,
+            41.9
+        ]
+    }
+}

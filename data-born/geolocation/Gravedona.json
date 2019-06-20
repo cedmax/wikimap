@@ -1,0 +1,21 @@
+{
+    "id": "address.1221882166",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Gravedona",
+    "place_name": "via Gravedona, 00166 Roma Roma, Italy",
+    "center": [
+        12.378864,
+        41.954749
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.378864,
+            41.954749
+        ]
+    }
+}

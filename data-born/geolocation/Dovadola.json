@@ -1,0 +1,27 @@
+{
+    "id": "place.4702846633808810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dovadola",
+    "place_name": "Dovadola, Forli'-Cesena, Italy",
+    "bbox": [
+        11.831709,
+        44.075839,
+        11.915318,
+        44.170794
+    ],
+    "center": [
+        11.88333,
+        44.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            44.11667
+        ]
+    }
+}

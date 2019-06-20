@@ -1,0 +1,27 @@
+{
+    "id": "place.11248200168937820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Greccio",
+    "place_name": "Greccio, Rieti, Italy",
+    "bbox": [
+        12.725468,
+        42.429923,
+        12.787013,
+        42.470246
+    ],
+    "center": [
+        12.75,
+        42.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.75,
+            42.45
+        ]
+    }
+}

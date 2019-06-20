@@ -1,0 +1,21 @@
+{
+    "id": "poi.3272765091088",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Vernasca",
+    "place_name": "Vernasca, Vernasca, Piacenza 29010, Italy",
+    "center": [
+        9.8318105,
+        44.79961425
+    ],
+    "geometry": {
+        "coordinates": [
+            9.8318105,
+            44.79961425
+        ],
+        "type": "Point"
+    }
+}

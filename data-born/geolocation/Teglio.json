@@ -1,0 +1,27 @@
+{
+    "id": "place.880078576499010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teglio",
+    "place_name": "Teglio, Sondrio, Italy",
+    "bbox": [
+        10.006951,
+        46.050845,
+        10.1849,
+        46.227731
+    ],
+    "center": [
+        10.06667,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.06667,
+            46.16667
+        ]
+    }
+}

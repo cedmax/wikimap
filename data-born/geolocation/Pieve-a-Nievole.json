@@ -1,0 +1,27 @@
+{
+    "id": "place.8784237094090120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve a Nievole",
+    "place_name": "Pieve a Nievole, Pistoia, Italy",
+    "bbox": [
+        10.772293,
+        43.830466,
+        10.815549,
+        43.906621
+    ],
+    "center": [
+        10.81667,
+        43.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.81667,
+            43.86667
+        ]
+    }
+}

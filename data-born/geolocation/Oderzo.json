@@ -1,0 +1,27 @@
+{
+    "id": "place.8866619917096380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oderzo",
+    "place_name": "Oderzo, Treviso, Italy",
+    "bbox": [
+        12.434814,
+        45.74,
+        12.553852,
+        45.815343
+    ],
+    "center": [
+        12.49278,
+        45.78083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.49278,
+            45.78083
+        ]
+    }
+}

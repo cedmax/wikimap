@@ -1,0 +1,27 @@
+{
+    "id": "place.12456233435647900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio La Molara",
+    "place_name": "San Giorgio La Molara, Benevento, Italy",
+    "bbox": [
+        14.886823,
+        41.213441,
+        15.037739,
+        41.319994
+    ],
+    "center": [
+        14.91667,
+        41.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91667,
+            41.26667
+        ]
+    }
+}

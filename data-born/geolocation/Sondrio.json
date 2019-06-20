@@ -1,0 +1,27 @@
+{
+    "id": "place.12211862002341660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sondrio",
+    "place_name": "Sondrio, Sondrio, Italy",
+    "bbox": [
+        9.823881,
+        46.157861,
+        9.898237,
+        46.204144
+    ],
+    "center": [
+        9.87,
+        46.16972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.87,
+            46.16972
+        ]
+    }
+}

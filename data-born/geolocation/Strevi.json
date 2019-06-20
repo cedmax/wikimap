@@ -1,0 +1,27 @@
+{
+    "id": "place.13839493929619060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Strevi",
+    "place_name": "Strevi, Alessandria, Italy",
+    "bbox": [
+        8.484735,
+        44.674613,
+        8.553659,
+        44.719317
+    ],
+    "center": [
+        8.52278,
+        44.69917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.52278,
+            44.69917
+        ]
+    }
+}

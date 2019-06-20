@@ -1,0 +1,27 @@
+{
+    "id": "place.10473378448379570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccaforzata",
+    "place_name": "Roccaforzata, Taranto, Italy",
+    "bbox": [
+        17.369276,
+        40.422345,
+        17.435457,
+        40.456103
+    ],
+    "center": [
+        17.4,
+        40.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.4,
+            40.43333
+        ]
+    }
+}

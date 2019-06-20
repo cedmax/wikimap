@@ -1,0 +1,27 @@
+{
+    "id": "place.13847164950296970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cartoceto",
+    "place_name": "Cartoceto, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.861938,
+        43.755422,
+        12.976533,
+        43.809528
+    ],
+    "center": [
+        12.8832,
+        43.7643
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8832,
+            43.7643
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13186041847421180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santadi",
+    "place_name": "Santadi, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.678585,
+        39.028896,
+        8.853275,
+        39.12951
+    ],
+    "center": [
+        8.71667,
+        39.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71667,
+            39.1
+        ]
+    }
+}

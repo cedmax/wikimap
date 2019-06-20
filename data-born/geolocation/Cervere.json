@@ -1,0 +1,27 @@
+{
+    "id": "place.2382553526099190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cervere",
+    "place_name": "Cervere, Cuneo, Italy",
+    "bbox": [
+        7.711783,
+        44.602652,
+        7.812042,
+        44.650874
+    ],
+    "center": [
+        7.78333,
+        44.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            44.63333
+        ]
+    }
+}

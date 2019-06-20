@@ -1,0 +1,27 @@
+{
+    "id": "place.16474932693933190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceccano",
+    "place_name": "Ceccano, Frosinone, Italy",
+    "bbox": [
+        13.283088,
+        41.514227,
+        13.381661,
+        41.618467
+    ],
+    "center": [
+        13.33333,
+        41.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.33333,
+            41.56667
+        ]
+    }
+}

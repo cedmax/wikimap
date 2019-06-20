@@ -1,0 +1,27 @@
+{
+    "id": "place.10806317076244230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sala Biellese",
+    "place_name": "Sala Biellese, Biella, Italy",
+    "bbox": [
+        7.920568,
+        45.495296,
+        7.987494,
+        45.521781
+    ],
+    "center": [
+        7.95,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95,
+            45.5
+        ]
+    }
+}

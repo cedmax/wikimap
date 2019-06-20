@@ -1,0 +1,27 @@
+{
+    "id": "place.17907715922145910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Teresa di Riva",
+    "place_name": "Santa Teresa di Riva, Messina, Italy",
+    "bbox": [
+        15.299149,
+        37.931561,
+        15.379927,
+        37.984361
+    ],
+    "center": [
+        15.3625,
+        37.94
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.3625,
+            37.94
+        ]
+    }
+}

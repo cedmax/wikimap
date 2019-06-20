@@ -1,0 +1,27 @@
+{
+    "id": "place.8717540120944970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Abriola",
+    "place_name": "Abriola, Potenza, Italy",
+    "bbox": [
+        15.711046,
+        40.470183,
+        15.876128,
+        40.569938
+    ],
+    "center": [
+        15.78333,
+        40.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.78333,
+            40.51667
+        ]
+    }
+}

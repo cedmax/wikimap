@@ -1,0 +1,27 @@
+{
+    "id": "place.6289701859898670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Gavino Monreale",
+    "place_name": "San Gavino Monreale, Medio Campidano, Italy",
+    "bbox": [
+        8.707261,
+        39.503983,
+        8.855635,
+        39.597876
+    ],
+    "center": [
+        8.8,
+        39.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8,
+            39.55
+        ]
+    }
+}

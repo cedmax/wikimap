@@ -1,0 +1,27 @@
+{
+    "id": "place.11502849295142870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellatica",
+    "place_name": "Cellatica, Brescia, Italy",
+    "bbox": [
+        10.15981,
+        45.553558,
+        10.199046,
+        45.595738
+    ],
+    "center": [
+        10.18333,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            45.58333
+        ]
+    }
+}

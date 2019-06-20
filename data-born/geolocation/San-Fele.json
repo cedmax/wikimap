@@ -1,0 +1,27 @@
+{
+    "id": "place.15228843346252660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Fele",
+    "place_name": "San Fele, Potenza, Italy",
+    "bbox": [
+        15.467606,
+        40.765245,
+        15.684681,
+        40.878097
+    ],
+    "center": [
+        15.53333,
+        40.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.53333,
+            40.81667
+        ]
+    }
+}

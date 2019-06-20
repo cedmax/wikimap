@@ -1,0 +1,27 @@
+{
+    "id": "place.4102309100357870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Travedona-Monate",
+    "place_name": "Travedona-Monate, Varese, Italy",
+    "bbox": [
+        8.639976,
+        45.788376,
+        8.701046,
+        45.820724
+    ],
+    "center": [
+        8.66667,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            45.8
+        ]
+    }
+}

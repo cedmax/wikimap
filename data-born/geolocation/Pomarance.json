@@ -1,0 +1,27 @@
+{
+    "id": "place.7446697686837540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pomarance",
+    "place_name": "Pomarance, Pisa, Italy",
+    "bbox": [
+        10.722058,
+        43.141842,
+        10.952408,
+        43.355843
+    ],
+    "center": [
+        10.87361,
+        43.29972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.87361,
+            43.29972
+        ]
+    }
+}

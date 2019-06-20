@@ -1,0 +1,27 @@
+{
+    "id": "place.10565739225537610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Daniele del Friuli",
+    "place_name": "San Daniele del Friuli, Udine, Italy",
+    "bbox": [
+        12.942696,
+        46.119641,
+        13.062961,
+        46.219585
+    ],
+    "center": [
+        13.01667,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            46.15
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4531917470325750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zagarise",
+    "place_name": "Zagarise, Catanzaro, Italy",
+    "bbox": [
+        16.613549,
+        38.926035,
+        16.731769,
+        39.1436
+    ],
+    "center": [
+        16.66667,
+        39
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.66667,
+            39
+        ]
+    }
+}

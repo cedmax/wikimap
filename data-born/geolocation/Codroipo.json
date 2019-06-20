@@ -1,0 +1,27 @@
+{
+    "id": "place.5304599116018160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Codroipo",
+    "place_name": "Codroipo, Udine, Italy",
+    "bbox": [
+        12.902734,
+        45.90029,
+        13.050312,
+        46.009087
+    ],
+    "center": [
+        12.97739,
+        45.96142
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.97739,
+            45.96142
+        ]
+    }
+}

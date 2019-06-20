@@ -1,0 +1,27 @@
+{
+    "id": "place.8887181356819610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Armungia",
+    "place_name": "Armungia, Cagliari, Italy",
+    "bbox": [
+        9.340069,
+        39.498745,
+        9.48801,
+        39.582612
+    ],
+    "center": [
+        9.38333,
+        39.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38333,
+            39.51667
+        ]
+    }
+}

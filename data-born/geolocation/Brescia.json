@@ -1,0 +1,27 @@
+{
+    "id": "place.4700470299937240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brescia",
+    "place_name": "Brescia, Brescia, Italy",
+    "bbox": [
+        10.146692,
+        45.480626,
+        10.300311,
+        45.589673
+    ],
+    "center": [
+        10.22028,
+        45.53889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.22028,
+            45.53889
+        ]
+    }
+}

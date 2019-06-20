@@ -1,0 +1,27 @@
+{
+    "id": "place.1777527260565290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Donato Milanese",
+    "place_name": "San Donato Milanese, Milano, Italy",
+    "bbox": [
+        9.216232,
+        45.389687,
+        9.301542,
+        45.437573
+    ],
+    "center": [
+        9.26667,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.41667
+        ]
+    }
+}

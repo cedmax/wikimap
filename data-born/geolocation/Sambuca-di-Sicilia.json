@@ -1,0 +1,27 @@
+{
+    "id": "place.1882162092149660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sambuca di Sicilia",
+    "place_name": "Sambuca di Sicilia, Agrigento, Italy",
+    "bbox": [
+        13.003589,
+        37.61148,
+        13.215232,
+        37.700945
+    ],
+    "center": [
+        13.11111,
+        37.64778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11111,
+            37.64778
+        ]
+    }
+}

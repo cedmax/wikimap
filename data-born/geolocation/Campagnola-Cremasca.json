@@ -1,0 +1,27 @@
+{
+    "id": "place.14186104574950780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campagnola Cremasca",
+    "place_name": "Campagnola Cremasca, Cremona, Italy",
+    "bbox": [
+        9.657324,
+        45.387497,
+        9.684536,
+        45.417077
+    ],
+    "center": [
+        9.66667,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.66667,
+            45.4
+        ]
+    }
+}

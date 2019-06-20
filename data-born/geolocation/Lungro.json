@@ -1,0 +1,27 @@
+{
+    "id": "place.9122084893069790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lungro",
+    "place_name": "Lungro, Cosenza, Italy",
+    "bbox": [
+        16.025256,
+        39.697384,
+        16.165963,
+        39.787509
+    ],
+    "center": [
+        16.12586,
+        39.73772
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.12586,
+            39.73772
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15684006200212820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mirandola",
+    "place_name": "Mirandola, Modena, Italy",
+    "bbox": [
+        10.996702,
+        44.843297,
+        11.260137,
+        44.962904
+    ],
+    "center": [
+        11.06603,
+        44.88727
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.06603,
+            44.88727
+        ]
+    }
+}

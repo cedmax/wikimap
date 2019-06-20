@@ -1,0 +1,27 @@
+{
+    "id": "place.11279034608772270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stazzema",
+    "place_name": "Stazzema, Lucca, Italy",
+    "bbox": [
+        10.236088,
+        43.956498,
+        10.376701,
+        44.078111
+    ],
+    "center": [
+        10.31056,
+        43.99306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.31056,
+            43.99306
+        ]
+    }
+}

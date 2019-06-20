@@ -1,0 +1,27 @@
+{
+    "id": "place.14644932589668580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cordignano",
+    "place_name": "Cordignano, Treviso, Italy",
+    "bbox": [
+        12.359938,
+        45.912811,
+        12.486511,
+        46.019779
+    ],
+    "center": [
+        12.41667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            45.95
+        ]
+    }
+}

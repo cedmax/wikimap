@@ -1,0 +1,27 @@
+{
+    "id": "place.6067418764706500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Angrogna",
+    "place_name": "Angrogna, Torino, Italy",
+    "bbox": [
+        7.103684,
+        44.825649,
+        7.256989,
+        44.893115
+    ],
+    "center": [
+        7.21667,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.21667,
+            44.85
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10516765950946400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelvenere",
+    "place_name": "Castelvenere, Benevento, Italy",
+    "bbox": [
+        14.522673,
+        41.210708,
+        14.582494,
+        41.255244
+    ],
+    "center": [
+        14.55,
+        41.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            41.23333
+        ]
+    }
+}

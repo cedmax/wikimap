@@ -1,0 +1,27 @@
+{
+    "id": "place.9943614248666390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca San Casciano",
+    "place_name": "Rocca San Casciano, Forli'-Cesena, Italy",
+    "bbox": [
+        11.787742,
+        44.01267,
+        11.911694,
+        44.112981
+    ],
+    "center": [
+        11.85,
+        44.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.85,
+            44.06667
+        ]
+    }
+}

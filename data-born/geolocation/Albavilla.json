@@ -1,0 +1,27 @@
+{
+    "id": "place.7808520824223810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albavilla",
+    "place_name": "Albavilla, Como, Italy",
+    "bbox": [
+        9.165003,
+        45.783079,
+        9.213081,
+        45.837746
+    ],
+    "center": [
+        9.18333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.8
+        ]
+    }
+}

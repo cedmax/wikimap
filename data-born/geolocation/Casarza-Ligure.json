@@ -1,0 +1,27 @@
+{
+    "id": "place.5603778960659390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casarza Ligure",
+    "place_name": "Casarza Ligure, Genova, Italy",
+    "bbox": [
+        9.433429,
+        44.252197,
+        9.522608,
+        44.326763
+    ],
+    "center": [
+        9.45342,
+        44.27472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.45342,
+            44.27472
+        ]
+    }
+}

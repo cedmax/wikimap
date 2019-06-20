@@ -1,0 +1,27 @@
+{
+    "id": "place.7507522296372590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belforte all'Isauro",
+    "place_name": "Belforte all'Isauro, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.335158,
+        43.683141,
+        12.39916,
+        43.739156
+    ],
+    "center": [
+        12.37573,
+        43.717
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.37573,
+            43.717
+        ]
+    }
+}

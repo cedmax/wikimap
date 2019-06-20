@@ -1,0 +1,27 @@
+{
+    "id": "place.9869258123894670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesano Maderno",
+    "place_name": "Cesano Maderno, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.108166,
+        45.614498,
+        9.190526,
+        45.643626
+    ],
+    "center": [
+        9.14722,
+        45.62722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.14722,
+            45.62722
+        ]
+    }
+}

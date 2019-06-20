@@ -1,0 +1,27 @@
+{
+    "id": "place.11493593810293200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loano",
+    "place_name": "Loano, Savona, Italy",
+    "bbox": [
+        8.187727,
+        44.116532,
+        8.27208,
+        44.177279
+    ],
+    "center": [
+        8.25982,
+        44.129
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.25982,
+            44.129
+        ]
+    }
+}

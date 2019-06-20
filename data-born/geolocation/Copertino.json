@@ -1,0 +1,27 @@
+{
+    "id": "place.9311738907432090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Copertino",
+    "place_name": "Copertino, Lecce, Italy",
+    "bbox": [
+        17.984555,
+        40.220493,
+        18.108562,
+        40.318415
+    ],
+    "center": [
+        18.05,
+        40.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.26667
+        ]
+    }
+}

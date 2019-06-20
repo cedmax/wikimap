@@ -1,0 +1,27 @@
+{
+    "id": "place.10830260868336980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Binasco",
+    "place_name": "Binasco, Milano, Italy",
+    "bbox": [
+        9.083013,
+        45.320667,
+        9.125289,
+        45.340201
+    ],
+    "center": [
+        9.1,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            45.33333
+        ]
+    }
+}

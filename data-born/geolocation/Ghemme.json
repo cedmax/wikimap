@@ -1,0 +1,27 @@
+{
+    "id": "place.15602192112359940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ghemme",
+    "place_name": "Ghemme, Novara, Italy",
+    "bbox": [
+        8.391316,
+        45.561092,
+        8.464705,
+        45.631021
+    ],
+    "center": [
+        8.41667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.41667,
+            45.6
+        ]
+    }
+}

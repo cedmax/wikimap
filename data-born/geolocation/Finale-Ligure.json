@@ -1,0 +1,27 @@
+{
+    "id": "place.9261779628325160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Finale Ligure",
+    "place_name": "Finale Ligure, Savona, Italy",
+    "bbox": [
+        8.277193,
+        44.159889,
+        8.415424,
+        44.219739
+    ],
+    "center": [
+        8.34354,
+        44.16907
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.34354,
+            44.16907
+        ]
+    }
+}

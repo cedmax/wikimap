@@ -1,0 +1,27 @@
+{
+    "id": "place.2578070998224620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campertogno",
+    "place_name": "Campertogno, Vercelli, Italy",
+    "bbox": [
+        7.918905,
+        45.755244,
+        8.06875,
+        45.815754
+    ],
+    "center": [
+        8.03333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.03333,
+            45.8
+        ]
+    }
+}

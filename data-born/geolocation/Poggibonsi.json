@@ -1,0 +1,27 @@
+{
+    "id": "place.11008363024517010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggibonsi",
+    "place_name": "Poggibonsi, Siena, Italy",
+    "bbox": [
+        11.087691,
+        43.40152,
+        11.22392,
+        43.522872
+    ],
+    "center": [
+        11.15,
+        43.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.15,
+            43.46667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15507859509810870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelmezzano",
+    "place_name": "Castelmezzano, Potenza, Italy",
+    "bbox": [
+        15.98354,
+        40.486912,
+        16.056723,
+        40.572597
+    ],
+    "center": [
+        16.05,
+        40.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.05,
+            40.53333
+        ]
+    }
+}

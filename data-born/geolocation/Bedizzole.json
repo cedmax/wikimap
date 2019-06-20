@@ -1,0 +1,27 @@
+{
+    "id": "place.13320797909404540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bedizzole",
+    "place_name": "Bedizzole, Brescia, Italy",
+    "bbox": [
+        10.369149,
+        45.470865,
+        10.464058,
+        45.527044
+    ],
+    "center": [
+        10.41667,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.41667,
+            45.51667
+        ]
+    }
+}

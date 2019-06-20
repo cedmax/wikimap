@@ -1,0 +1,27 @@
+{
+    "id": "place.6999640052845810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Posta",
+    "place_name": "Posta, Rieti, Italy",
+    "bbox": [
+        13.009197,
+        42.456024,
+        13.160798,
+        42.584028
+    ],
+    "center": [
+        13.1,
+        42.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1,
+            42.51667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6414880109892250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Leffe",
+    "place_name": "Leffe, Bergamo, Italy",
+    "bbox": [
+        9.859321,
+        45.776127,
+        9.904827,
+        45.803983
+    ],
+    "center": [
+        9.8855,
+        45.8007
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.8855,
+            45.8007
+        ]
+    }
+}

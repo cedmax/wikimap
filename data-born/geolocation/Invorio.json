@@ -1,0 +1,27 @@
+{
+    "id": "place.6011612423885480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Invorio",
+    "place_name": "Invorio, Novara, Italy",
+    "bbox": [
+        8.450434,
+        45.725318,
+        8.509681,
+        45.787106
+    ],
+    "center": [
+        8.48333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48333,
+            45.75
+        ]
+    }
+}

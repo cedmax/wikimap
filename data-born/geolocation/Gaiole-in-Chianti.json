@@ -1,0 +1,27 @@
+{
+    "id": "place.10478967929662170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gaiole in Chianti",
+    "place_name": "Gaiole in Chianti, Siena, Italy",
+    "bbox": [
+        11.355023,
+        43.355217,
+        11.549766,
+        43.512713
+    ],
+    "center": [
+        11.43333,
+        43.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43333,
+            43.46667
+        ]
+    }
+}

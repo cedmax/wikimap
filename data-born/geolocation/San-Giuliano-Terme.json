@@ -1,0 +1,27 @@
+{
+    "id": "place.11821332049844810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giuliano Terme",
+    "place_name": "San Giuliano Terme, Pisa, Italy",
+    "bbox": [
+        10.267658,
+        43.697979,
+        10.50554,
+        43.834073
+    ],
+    "center": [
+        10.44139,
+        43.7625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.44139,
+            43.7625
+        ]
+    }
+}

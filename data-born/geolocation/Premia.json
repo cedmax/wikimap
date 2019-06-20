@@ -1,0 +1,27 @@
+{
+    "id": "place.11702316213352100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Premia",
+    "place_name": "Premia, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.273317,
+        46.248015,
+        8.443705,
+        46.368199
+    ],
+    "center": [
+        8.33333,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.33333,
+            46.26667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5090184819422080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallinfreda",
+    "place_name": "Vallinfreda, Roma, Italy",
+    "bbox": [
+        12.948506,
+        42.072849,
+        13.02395,
+        42.11971
+    ],
+    "center": [
+        12.96667,
+        42.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96667,
+            42.08333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4406537890806750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccella Ionica",
+    "place_name": "Roccella Ionica, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.301781,
+        38.304732,
+        16.442284,
+        38.433158
+    ],
+    "center": [
+        16.4,
+        38.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.4,
+            38.31667
+        ]
+    }
+}

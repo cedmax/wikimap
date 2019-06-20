@@ -1,0 +1,21 @@
+{
+    "id": "poi.2216203206400",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Savelli",
+    "place_name": "Savelli, Piazza Sant'Uffizio 5, Roma, Roma 00193, Italy",
+    "center": [
+        12.456635,
+        41.9008
+    ],
+    "geometry": {
+        "coordinates": [
+            12.456635,
+            41.9008
+        ],
+        "type": "Point"
+    }
+}

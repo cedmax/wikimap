@@ -1,0 +1,27 @@
+{
+    "id": "place.6939382653437510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Concorezzo",
+    "place_name": "Concorezzo, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.312297,
+        45.572438,
+        9.357096,
+        45.610216
+    ],
+    "center": [
+        9.33333,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.6
+        ]
+    }
+}

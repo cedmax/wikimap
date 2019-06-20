@@ -1,0 +1,27 @@
+{
+    "id": "place.13567747615670020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alagna Valsesia",
+    "place_name": "Alagna Valsesia, Vercelli, Italy",
+    "bbox": [
+        7.861676,
+        45.820193,
+        7.974001,
+        45.927423
+    ],
+    "center": [
+        7.93722,
+        45.85389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93722,
+            45.85389
+        ]
+    }
+}

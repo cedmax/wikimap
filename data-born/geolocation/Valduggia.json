@@ -1,0 +1,27 @@
+{
+    "id": "place.9965471892158260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valduggia",
+    "place_name": "Valduggia, Vercelli, Italy",
+    "bbox": [
+        8.307549,
+        45.696334,
+        8.392104,
+        45.775558
+    ],
+    "center": [
+        8.33333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.33333,
+            45.73333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17958328459795260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spilinga",
+    "place_name": "Spilinga, Vibo Valentia, Italy",
+    "bbox": [
+        15.883557,
+        38.593408,
+        15.96025,
+        38.635051
+    ],
+    "center": [
+        15.9,
+        38.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.9,
+            38.61667
+        ]
+    }
+}

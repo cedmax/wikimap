@@ -1,0 +1,27 @@
+{
+    "id": "place.1331535749480170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cornedo Vicentino",
+    "place_name": "Cornedo Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.308387,
+        45.585618,
+        11.404927,
+        45.650131
+    ],
+    "center": [
+        11.35,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.35,
+            45.61667
+        ]
+    }
+}

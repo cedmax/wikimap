@@ -1,0 +1,27 @@
+{
+    "id": "place.12660862459859580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronchi dei Legionari",
+    "place_name": "Ronchi dei Legionari, Gorizia, Italy",
+    "bbox": [
+        13.469095,
+        45.809255,
+        13.557513,
+        45.853204
+    ],
+    "center": [
+        13.5,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5,
+            45.83333
+        ]
+    }
+}

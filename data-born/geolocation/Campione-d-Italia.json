@@ -1,0 +1,27 @@
+{
+    "id": "place.6480202102532889",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campione d'Italia",
+    "place_name": "Campione d'Italia, Como, Italy",
+    "bbox": [
+        8.958588,
+        45.961656,
+        8.979322,
+        45.984111
+    ],
+    "center": [
+        8.97083,
+        45.97083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.97083,
+            45.97083
+        ]
+    }
+}

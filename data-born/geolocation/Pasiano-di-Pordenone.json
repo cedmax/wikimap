@@ -1,0 +1,27 @@
+{
+    "id": "place.12390515327132210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pasiano di Pordenone",
+    "place_name": "Pasiano di Pordenone, Pordenone, Italy",
+    "bbox": [
+        12.567311,
+        45.809239,
+        12.67174,
+        45.906089
+    ],
+    "center": [
+        12.63333,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.63333,
+            45.85
+        ]
+    }
+}

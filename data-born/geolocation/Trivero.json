@@ -1,0 +1,27 @@
+{
+    "id": "place.9069176849762170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trivero",
+    "place_name": "Trivero, Biella, Italy",
+    "bbox": [
+        8.076929,
+        45.638001,
+        8.213762,
+        45.738848
+    ],
+    "center": [
+        8.16667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16667,
+            45.66667
+        ]
+    }
+}

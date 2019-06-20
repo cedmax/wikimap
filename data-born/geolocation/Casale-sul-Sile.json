@@ -1,0 +1,27 @@
+{
+    "id": "place.12483910975642070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casale sul Sile",
+    "place_name": "Casale sul Sile, Treviso, Italy",
+    "bbox": [
+        12.264193,
+        45.573879,
+        12.360645,
+        45.637097
+    ],
+    "center": [
+        12.3243,
+        45.5988
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3243,
+            45.5988
+        ]
+    }
+}

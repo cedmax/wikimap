@@ -1,0 +1,21 @@
+{
+    "id": "poi.2379411915092",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Calasetta",
+    "place_name": "Calasetta, Calasetta, Carbonia-Iglesias 09011, Italy",
+    "center": [
+        8.36862975,
+        39.108763499999995
+    ],
+    "geometry": {
+        "coordinates": [
+            8.36862975,
+            39.108763499999995
+        ],
+        "type": "Point"
+    }
+}

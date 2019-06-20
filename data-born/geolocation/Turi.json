@@ -1,0 +1,27 @@
+{
+    "id": "place.6685503225718460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Turi",
+    "place_name": "Turi, Bari, Italy",
+    "bbox": [
+        16.960626,
+        40.845309,
+        17.06228,
+        40.957916
+    ],
+    "center": [
+        17.01667,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.01667,
+            40.91667
+        ]
+    }
+}

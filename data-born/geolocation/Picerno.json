@@ -1,0 +1,27 @@
+{
+    "id": "place.7503462417595290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Picerno",
+    "place_name": "Picerno, Potenza, Italy",
+    "bbox": [
+        15.560125,
+        40.593958,
+        15.714908,
+        40.68459
+    ],
+    "center": [
+        15.63333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.63333,
+            40.63333
+        ]
+    }
+}

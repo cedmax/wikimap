@@ -1,0 +1,27 @@
+{
+    "id": "place.6326976240785050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Foligno",
+    "place_name": "Foligno, Perugia, Italy",
+    "bbox": [
+        12.612071,
+        42.904277,
+        12.951198,
+        43.071963
+    ],
+    "center": [
+        12.70333,
+        42.95611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.70333,
+            42.95611
+        ]
+    }
+}

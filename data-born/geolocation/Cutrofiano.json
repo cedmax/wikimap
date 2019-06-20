@@ -1,0 +1,27 @@
+{
+    "id": "place.8983905472606160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cutrofiano",
+    "place_name": "Cutrofiano, Lecce, Italy",
+    "bbox": [
+        18.136699,
+        40.055289,
+        18.253139,
+        40.150184
+    ],
+    "center": [
+        18.2,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.2,
+            40.13333
+        ]
+    }
+}

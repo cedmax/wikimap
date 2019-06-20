@@ -1,0 +1,21 @@
+{
+    "id": "address.1154748800",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.875,
+    "text": "via Romaore",
+    "place_name": "via Romaore, 08034 Laconi Oristano, Italy",
+    "center": [
+        9.050704,
+        39.852697
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.050704,
+            39.852697
+        ]
+    }
+}

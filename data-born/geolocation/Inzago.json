@@ -1,0 +1,27 @@
+{
+    "id": "place.5738080926808680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Inzago",
+    "place_name": "Inzago, Milano, Italy",
+    "bbox": [
+        9.448441,
+        45.518769,
+        9.508939,
+        45.562157
+    ],
+    "center": [
+        9.48333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.48333,
+            45.53333
+        ]
+    }
+}

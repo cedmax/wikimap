@@ -1,0 +1,27 @@
+{
+    "id": "place.11364046731070220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montone",
+    "place_name": "Montone, Perugia, Italy",
+    "bbox": [
+        12.289699,
+        43.315487,
+        12.423941,
+        43.431245
+    ],
+    "center": [
+        12.32722,
+        43.36222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.32722,
+            43.36222
+        ]
+    }
+}

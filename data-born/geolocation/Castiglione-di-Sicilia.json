@@ -1,0 +1,27 @@
+{
+    "id": "place.12120957509844990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione di Sicilia",
+    "place_name": "Castiglione di Sicilia, Catania, Italy",
+    "bbox": [
+        14.994247,
+        37.751751,
+        15.226962,
+        37.905759
+    ],
+    "center": [
+        15.1225,
+        37.88278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1225,
+            37.88278
+        ]
+    }
+}

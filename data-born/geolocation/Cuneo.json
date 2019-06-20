@@ -1,0 +1,27 @@
+{
+    "id": "place.13883936841446860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cuneo",
+    "place_name": "Cuneo, Cuneo, Italy",
+    "bbox": [
+        7.474786,
+        44.347118,
+        7.64052,
+        44.489723
+    ],
+    "center": [
+        7.55,
+        44.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.55,
+            44.38333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10380536245926650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corvino San Quirico",
+    "place_name": "Corvino San Quirico, Pavia, Italy",
+    "bbox": [
+        9.132354,
+        45.000206,
+        9.171451,
+        45.036039
+    ],
+    "center": [
+        9.1625,
+        45.01056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1625,
+            45.01056
+        ]
+    }
+}

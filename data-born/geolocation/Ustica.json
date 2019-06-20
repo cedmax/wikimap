@@ -1,0 +1,27 @@
+{
+    "id": "place.5350811218988880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ustica",
+    "place_name": "Ustica, Palermo, Italy",
+    "bbox": [
+        13.152604,
+        38.690796,
+        13.200903,
+        38.720422
+    ],
+    "center": [
+        13.18333,
+        38.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            38.71667
+        ]
+    }
+}

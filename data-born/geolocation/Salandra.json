@@ -1,0 +1,27 @@
+{
+    "id": "place.13381961320451940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salandra",
+    "place_name": "Salandra, Matera, Italy",
+    "bbox": [
+        16.261982,
+        40.466653,
+        16.371836,
+        40.594667
+    ],
+    "center": [
+        16.31667,
+        40.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.31667,
+            40.53333
+        ]
+    }
+}

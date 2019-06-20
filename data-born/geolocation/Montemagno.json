@@ -1,0 +1,27 @@
+{
+    "id": "place.6120741870659010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montemagno",
+    "place_name": "Montemagno, Asti, Italy",
+    "bbox": [
+        8.303575,
+        44.940154,
+        8.357632,
+        45.001717
+    ],
+    "center": [
+        8.32639,
+        44.98389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.32639,
+            44.98389
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9902894421815150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brunate",
+    "place_name": "Brunate, Como, Italy",
+    "bbox": [
+        9.083932,
+        45.811606,
+        9.115096,
+        45.82815
+    ],
+    "center": [
+        9.1,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            45.81667
+        ]
+    }
+}

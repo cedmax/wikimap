@@ -1,0 +1,27 @@
+{
+    "id": "place.15368312740925860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stintino",
+    "place_name": "Stintino, Sassari, Italy",
+    "bbox": [
+        8.176321,
+        40.815567,
+        8.277361,
+        40.97173
+    ],
+    "center": [
+        8.22764,
+        40.9378
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.22764,
+            40.9378
+        ]
+    }
+}

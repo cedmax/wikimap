@@ -1,0 +1,27 @@
+{
+    "id": "place.2888302178759100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meolo",
+    "place_name": "Meolo, Venezia, Italy",
+    "bbox": [
+        12.424283,
+        45.57176,
+        12.504599,
+        45.645002
+    ],
+    "center": [
+        12.4559,
+        45.6203
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4559,
+            45.6203
+        ]
+    }
+}

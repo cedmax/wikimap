@@ -1,0 +1,27 @@
+{
+    "id": "place.10777396549762940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poppi",
+    "place_name": "Poppi, Arezzo, Italy",
+    "bbox": [
+        11.693237,
+        43.668685,
+        11.914536,
+        43.827864
+    ],
+    "center": [
+        11.76167,
+        43.73583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76167,
+            43.73583
+        ]
+    }
+}

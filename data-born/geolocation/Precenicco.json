@@ -1,0 +1,27 @@
+{
+    "id": "place.9494313909548630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Precenicco",
+    "place_name": "Precenicco, Udine, Italy",
+    "bbox": [
+        13.02715,
+        45.711176,
+        13.092228,
+        45.802734
+    ],
+    "center": [
+        13.08333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08333,
+            45.8
+        ]
+    }
+}

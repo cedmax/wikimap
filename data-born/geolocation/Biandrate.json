@@ -1,0 +1,27 @@
+{
+    "id": "place.5098792095749550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Biandrate",
+    "place_name": "Biandrate, Novara, Italy",
+    "bbox": [
+        8.434495,
+        45.424353,
+        8.516492,
+        45.467743
+    ],
+    "center": [
+        8.46667,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            45.45
+        ]
+    }
+}

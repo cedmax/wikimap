@@ -1,0 +1,27 @@
+{
+    "id": "place.11569098265859260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sciacca",
+    "place_name": "Sciacca, Agrigento, Italy",
+    "bbox": [
+        12.990751,
+        37.464011,
+        13.224939,
+        37.634255
+    ],
+    "center": [
+        13.08889,
+        37.50917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08889,
+            37.50917
+        ]
+    }
+}

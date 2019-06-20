@@ -1,0 +1,27 @@
+{
+    "id": "place.13889265992993550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camogli",
+    "place_name": "Camogli, Genova, Italy",
+    "bbox": [
+        9.145027,
+        44.308371,
+        9.193865,
+        44.357621
+    ],
+    "center": [
+        9.15576,
+        44.3484
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15576,
+            44.3484
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17109278135450470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borbona",
+    "place_name": "Borbona, Rieti, Italy",
+    "bbox": [
+        13.093091,
+        42.444387,
+        13.178001,
+        42.533748
+    ],
+    "center": [
+        13.13333,
+        42.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            42.51667
+        ]
+    }
+}

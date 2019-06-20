@@ -1,0 +1,27 @@
+{
+    "id": "place.4169803193629340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piraino",
+    "place_name": "Piraino, Messina, Italy",
+    "bbox": [
+        14.836668,
+        38.130651,
+        14.905029,
+        38.172542
+    ],
+    "center": [
+        14.86111,
+        38.16167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.86111,
+            38.16167
+        ]
+    }
+}

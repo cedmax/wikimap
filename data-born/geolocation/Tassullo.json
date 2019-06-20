@@ -1,0 +1,21 @@
+{
+    "id": "address.495862919",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Tassullo",
+    "place_name": "via Tassullo, 00124 Roma Roma, Italy",
+    "center": [
+        12.35546,
+        41.721657
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.35546,
+            41.721657
+        ]
+    }
+}

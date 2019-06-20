@@ -1,0 +1,27 @@
+{
+    "id": "place.5308815534186560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Greci",
+    "place_name": "Greci, Avellino, Italy",
+    "bbox": [
+        15.132276,
+        41.229017,
+        15.220811,
+        41.286517
+    ],
+    "center": [
+        15.17,
+        41.25278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.17,
+            41.25278
+        ]
+    }
+}

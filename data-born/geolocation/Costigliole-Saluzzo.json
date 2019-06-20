@@ -1,0 +1,27 @@
+{
+    "id": "place.7763025070179680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costigliole Saluzzo",
+    "place_name": "Costigliole Saluzzo, Cuneo, Italy",
+    "bbox": [
+        7.449848,
+        44.541169,
+        7.527781,
+        44.583902
+    ],
+    "center": [
+        7.48333,
+        44.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48333,
+            44.56667
+        ]
+    }
+}

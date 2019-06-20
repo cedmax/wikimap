@@ -1,0 +1,27 @@
+{
+    "id": "place.7835174440654110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca Grimalda",
+    "place_name": "Rocca Grimalda, Alessandria, Italy",
+    "bbox": [
+        8.606813,
+        44.659829,
+        8.671538,
+        44.714612
+    ],
+    "center": [
+        8.64944,
+        44.6725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.64944,
+            44.6725
+        ]
+    }
+}

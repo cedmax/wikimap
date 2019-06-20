@@ -1,0 +1,27 @@
+{
+    "id": "place.1461904603584170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzolo dello Stella",
+    "place_name": "Palazzolo dello Stella, Udine, Italy",
+    "bbox": [
+        13.02142,
+        45.73395,
+        13.12476,
+        45.831208
+    ],
+    "center": [
+        13.08333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08333,
+            45.8
+        ]
+    }
+}

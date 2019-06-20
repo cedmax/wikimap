@@ -1,0 +1,27 @@
+{
+    "id": "place.7334817800941660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ivrea",
+    "place_name": "Ivrea, Torino, Italy",
+    "bbox": [
+        7.842627,
+        45.413251,
+        7.930721,
+        45.49
+    ],
+    "center": [
+        7.87472,
+        45.46222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.87472,
+            45.46222
+        ]
+    }
+}

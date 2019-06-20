@@ -1,0 +1,27 @@
+{
+    "id": "place.6027347475798650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Alessio Siculo",
+    "place_name": "Sant'Alessio Siculo, Messina, Italy",
+    "bbox": [
+        15.302804,
+        37.909335,
+        15.357469,
+        37.938141
+    ],
+    "center": [
+        15.34694,
+        37.92167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.34694,
+            37.92167
+        ]
+    }
+}

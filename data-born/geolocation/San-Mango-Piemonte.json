@@ -1,0 +1,27 @@
+{
+    "id": "place.7887308876448310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Mango Piemonte",
+    "place_name": "San Mango Piemonte, Salerno, Italy",
+    "bbox": [
+        14.822159,
+        40.682224,
+        14.856713,
+        40.726652
+    ],
+    "center": [
+        14.83333,
+        40.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.83333,
+            40.7
+        ]
+    }
+}

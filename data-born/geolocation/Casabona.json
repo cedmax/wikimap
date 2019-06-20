@@ -1,0 +1,27 @@
+{
+    "id": "place.10522686394405600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casabona",
+    "place_name": "Casabona, Crotone, Italy",
+    "bbox": [
+        16.889113,
+        39.195982,
+        17.016112,
+        39.290412
+    ],
+    "center": [
+        16.95,
+        39.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.95,
+            39.25
+        ]
+    }
+}

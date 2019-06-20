@@ -1,0 +1,27 @@
+{
+    "id": "place.17962970706522570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fuscaldo",
+    "place_name": "Fuscaldo, Cosenza, Italy",
+    "bbox": [
+        15.992202,
+        39.384709,
+        16.087426,
+        39.485998
+    ],
+    "center": [
+        16.03333,
+        39.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.03333,
+            39.41667
+        ]
+    }
+}

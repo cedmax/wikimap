@@ -1,0 +1,27 @@
+{
+    "id": "place.5431007230150450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orosei",
+    "place_name": "Orosei, Nuoro, Italy",
+    "bbox": [
+        9.645052,
+        40.329917,
+        9.809257,
+        40.477314
+    ],
+    "center": [
+        9.69417,
+        40.37972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.69417,
+            40.37972
+        ]
+    }
+}

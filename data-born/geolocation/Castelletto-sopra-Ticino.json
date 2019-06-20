@@ -1,0 +1,27 @@
+{
+    "id": "place.14048116513394480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelletto sopra Ticino",
+    "place_name": "Castelletto sopra Ticino, Novara, Italy",
+    "bbox": [
+        8.574961,
+        45.684617,
+        8.655189,
+        45.731897
+    ],
+    "center": [
+        8.63333,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            45.71667
+        ]
+    }
+}

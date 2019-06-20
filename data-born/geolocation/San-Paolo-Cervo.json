@@ -1,0 +1,27 @@
+{
+    "id": "place.16408445234763650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "San Paolo",
+    "place_name": "San Paolo, Brescia, Italy",
+    "bbox": [
+        9.990695,
+        45.347849,
+        10.073388,
+        45.397385
+    ],
+    "center": [
+        10.02361,
+        45.37167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.02361,
+            45.37167
+        ]
+    }
+}

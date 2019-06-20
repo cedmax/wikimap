@@ -1,0 +1,27 @@
+{
+    "id": "place.2244914932871730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agrate Brianza",
+    "place_name": "Agrate Brianza, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.319269,
+        45.55873,
+        9.403179,
+        45.59059
+    ],
+    "center": [
+        9.35222,
+        45.57833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35222,
+            45.57833
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15061640647309010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Martignana di Po",
+    "place_name": "Martignana di Po, Cremona, Italy",
+    "bbox": [
+        10.360566,
+        44.96491,
+        10.390049,
+        45.044156
+    ],
+    "center": [
+        10.36667,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.36667,
+            45
+        ]
+    }
+}

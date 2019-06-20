@@ -1,0 +1,27 @@
+{
+    "id": "place.2831613807151290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Germano Vercellese",
+    "place_name": "San Germano Vercellese, Vercelli, Italy",
+    "bbox": [
+        8.210531,
+        45.327705,
+        8.317784,
+        45.386102
+    ],
+    "center": [
+        8.25,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.25,
+            45.35
+        ]
+    }
+}

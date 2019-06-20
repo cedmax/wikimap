@@ -1,0 +1,27 @@
+{
+    "id": "place.3890427152639910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Giarre",
+    "place_name": "Giarre, Catania, Italy",
+    "bbox": [
+        15.118836,
+        37.678681,
+        15.20067,
+        37.748472
+    ],
+    "center": [
+        15.18444,
+        37.72972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.18444,
+            37.72972
+        ]
+    }
+}

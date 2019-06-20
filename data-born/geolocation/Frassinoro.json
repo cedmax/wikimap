@@ -1,0 +1,21 @@
+{
+    "id": "poi.1116691497655",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Frassinoro",
+    "place_name": "Frassinoro, Frassinoro, Modena 41044, Italy",
+    "center": [
+        10.57174225,
+        44.29545125
+    ],
+    "geometry": {
+        "coordinates": [
+            10.57174225,
+            44.29545125
+        ],
+        "type": "Point"
+    }
+}

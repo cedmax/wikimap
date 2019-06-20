@@ -1,0 +1,27 @@
+{
+    "id": "place.12049406733613200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pellegrino Parmense",
+    "place_name": "Pellegrino Parmense, Parma, Italy",
+    "bbox": [
+        9.832349,
+        44.699159,
+        9.988144,
+        44.807574
+    ],
+    "center": [
+        9.93333,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            44.73333
+        ]
+    }
+}

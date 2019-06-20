@@ -1,0 +1,27 @@
+{
+    "id": "place.1950371772671520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caldes",
+    "place_name": "Caldes, Trento, Italy",
+    "bbox": [
+        10.916759,
+        46.331782,
+        11.002744,
+        46.39991
+    ],
+    "center": [
+        10.95,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.95,
+            46.36667
+        ]
+    }
+}

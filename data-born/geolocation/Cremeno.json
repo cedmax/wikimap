@@ -1,0 +1,27 @@
+{
+    "id": "place.12608329610758620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cremeno",
+    "place_name": "Cremeno, Lecco, Italy",
+    "bbox": [
+        9.435207,
+        45.89407,
+        9.490875,
+        45.940203
+    ],
+    "center": [
+        9.46667,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.46667,
+            45.93333
+        ]
+    }
+}

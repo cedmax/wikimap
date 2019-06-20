@@ -1,0 +1,27 @@
+{
+    "id": "place.17653403243067760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sutri",
+    "place_name": "Sutri, Viterbo, Italy",
+    "bbox": [
+        12.181368,
+        42.176376,
+        12.295165,
+        42.26868
+    ],
+    "center": [
+        12.21583,
+        42.24778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.21583,
+            42.24778
+        ]
+    }
+}

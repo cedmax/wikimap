@@ -1,0 +1,29 @@
+{
+    "id": "place.9290737810815550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Campolongo Tapogliano",
+    "place_name": "Campolongo Tapogliano, Udine, Italy",
+    "matching_text": "Campolongo al Torre",
+    "matching_place_name": "Campolongo al Torre, Udine, Italy",
+    "bbox": [
+        13.369097,
+        45.841805,
+        13.423809,
+        45.896005
+    ],
+    "center": [
+        13.38333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38333,
+            45.86667
+        ]
+    }
+}

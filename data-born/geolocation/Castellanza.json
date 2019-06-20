@@ -1,0 +1,27 @@
+{
+    "id": "place.10076818472521430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellanza",
+    "place_name": "Castellanza, Varese, Italy",
+    "bbox": [
+        8.864368,
+        45.592076,
+        8.936399,
+        45.626396
+    ],
+    "center": [
+        8.9,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7784834257436590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rubiera",
+    "place_name": "Rubiera, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.756354,
+        44.628712,
+        10.821494,
+        44.705545
+    ],
+    "center": [
+        10.78333,
+        44.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.78333,
+            44.65
+        ]
+    }
+}

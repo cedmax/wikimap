@@ -1,0 +1,21 @@
+{
+    "id": "poi.944892805693",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Borgo",
+    "place_name": "Borgo, Via di Santo Spirito, Roma, Roma 00193, Italy",
+    "center": [
+        12.4620795,
+        41.902377
+    ],
+    "geometry": {
+        "coordinates": [
+            12.4620795,
+            41.902377
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9506449176529690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camerano",
+    "place_name": "Camerano, Ancona, Italy",
+    "bbox": [
+        13.515505,
+        43.493909,
+        13.579558,
+        43.55268
+    ],
+    "center": [
+        13.55257,
+        43.52774
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.55257,
+            43.52774
+        ]
+    }
+}

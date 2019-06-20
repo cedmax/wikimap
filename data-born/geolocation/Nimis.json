@@ -1,0 +1,27 @@
+{
+    "id": "place.9708842644240160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nimis",
+    "place_name": "Nimis, Udine, Italy",
+    "bbox": [
+        13.243472,
+        46.184107,
+        13.353615,
+        46.258537
+    ],
+    "center": [
+        13.26667,
+        46.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.26667,
+            46.2
+        ]
+    }
+}

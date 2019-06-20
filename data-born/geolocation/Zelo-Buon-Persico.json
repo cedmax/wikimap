@@ -1,0 +1,27 @@
+{
+    "id": "place.7420589667284370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zelo Buon Persico",
+    "place_name": "Zelo Buon Persico, Lodi, Italy",
+    "bbox": [
+        9.404217,
+        45.365944,
+        9.469988,
+        45.423723
+    ],
+    "center": [
+        9.43361,
+        45.41333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43361,
+            45.41333
+        ]
+    }
+}

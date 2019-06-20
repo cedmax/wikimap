@@ -1,0 +1,27 @@
+{
+    "id": "place.13219867604674610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Furci",
+    "place_name": "Furci, Chieti, Italy",
+    "bbox": [
+        14.566499,
+        41.99485,
+        14.65698,
+        42.068119
+    ],
+    "center": [
+        14.58333,
+        42
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.58333,
+            42
+        ]
+    }
+}

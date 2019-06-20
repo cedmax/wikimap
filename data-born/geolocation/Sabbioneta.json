@@ -1,0 +1,27 @@
+{
+    "id": "place.5984530095202190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sabbioneta",
+    "place_name": "Sabbioneta, Mantova, Italy",
+    "bbox": [
+        10.456121,
+        44.979641,
+        10.603723,
+        45.0454
+    ],
+    "center": [
+        10.48972,
+        44.99917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.48972,
+            44.99917
+        ]
+    }
+}

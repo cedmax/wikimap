@@ -1,0 +1,27 @@
+{
+    "id": "place.12870461499677960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marnate",
+    "place_name": "Marnate, Varese, Italy",
+    "bbox": [
+        8.89176,
+        45.619947,
+        8.936946,
+        45.641552
+    ],
+    "center": [
+        8.9,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.63333
+        ]
+    }
+}

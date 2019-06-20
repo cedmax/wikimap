@@ -1,0 +1,27 @@
+{
+    "id": "place.13832692844089650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Antioco",
+    "place_name": "Sant'Antioco, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.370514,
+        38.85957,
+        8.467812,
+        39.106887
+    ],
+    "center": [
+        8.45,
+        39.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.45,
+            39.06667
+        ]
+    }
+}

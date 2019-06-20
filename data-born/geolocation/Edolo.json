@@ -1,0 +1,27 @@
+{
+    "id": "place.4453327342158710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Edolo",
+    "place_name": "Edolo, Brescia, Italy",
+    "bbox": [
+        10.228121,
+        46.13974,
+        10.516412,
+        46.213369
+    ],
+    "center": [
+        10.33,
+        46.17889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.33,
+            46.17889
+        ]
+    }
+}

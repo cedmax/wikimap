@@ -1,0 +1,27 @@
+{
+    "id": "place.10309471466203780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tezze sul Brenta",
+    "place_name": "Tezze sul Brenta, Vicenza, Italy",
+    "bbox": [
+        11.685138,
+        45.664152,
+        11.7958,
+        45.707314
+    ],
+    "center": [
+        11.7,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7,
+            45.68333
+        ]
+    }
+}

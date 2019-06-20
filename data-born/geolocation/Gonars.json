@@ -1,0 +1,27 @@
+{
+    "id": "place.9868192570371440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gonars",
+    "place_name": "Gonars, Udine, Italy",
+    "bbox": [
+        13.203284,
+        45.873348,
+        13.295397,
+        45.919223
+    ],
+    "center": [
+        13.23333,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23333,
+            45.9
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6585126886449730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maranzana",
+    "place_name": "Maranzana, Asti, Italy",
+    "bbox": [
+        8.464097,
+        44.746103,
+        8.501753,
+        44.780784
+    ],
+    "center": [
+        8.47944,
+        44.76139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.47944,
+            44.76139
+        ]
+    }
+}

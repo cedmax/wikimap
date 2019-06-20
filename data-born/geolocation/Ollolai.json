@@ -1,0 +1,27 @@
+{
+    "id": "place.6792034976179330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ollolai",
+    "place_name": "Ollolai, Nuoro, Italy",
+    "bbox": [
+        9.126838,
+        40.129972,
+        9.241085,
+        40.205004
+    ],
+    "center": [
+        9.195,
+        40.16083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.195,
+            40.16083
+        ]
+    }
+}

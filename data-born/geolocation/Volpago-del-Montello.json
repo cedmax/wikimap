@@ -1,0 +1,27 @@
+{
+    "id": "place.8506083833241350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volpago del Montello",
+    "place_name": "Volpago del Montello, Treviso, Italy",
+    "bbox": [
+        12.08009,
+        45.740116,
+        12.177051,
+        45.843718
+    ],
+    "center": [
+        12.11667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            45.78333
+        ]
+    }
+}

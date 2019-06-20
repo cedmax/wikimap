@@ -1,0 +1,27 @@
+{
+    "id": "place.4934112448792570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Clivio",
+    "place_name": "Clivio, Varese, Italy",
+    "bbox": [
+        8.904021,
+        45.842064,
+        8.945319,
+        45.870385
+    ],
+    "center": [
+        8.93333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93333,
+            45.86667
+        ]
+    }
+}

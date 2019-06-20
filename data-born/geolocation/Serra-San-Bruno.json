@@ -1,0 +1,27 @@
+{
+    "id": "place.13708505903339540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serra San Bruno",
+    "place_name": "Serra San Bruno, Vibo Valentia, Italy",
+    "bbox": [
+        16.263273,
+        38.515966,
+        16.373811,
+        38.589938
+    ],
+    "center": [
+        16.33333,
+        38.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            38.58333
+        ]
+    }
+}

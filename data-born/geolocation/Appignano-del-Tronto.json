@@ -1,0 +1,27 @@
+{
+    "id": "place.11683091778270330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Appignano del Tronto",
+    "place_name": "Appignano del Tronto, Ascoli Piceno, Italy",
+    "bbox": [
+        13.617743,
+        42.868146,
+        13.699087,
+        42.923633
+    ],
+    "center": [
+        13.66599,
+        42.89906
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.66599,
+            42.89906
+        ]
+    }
+}

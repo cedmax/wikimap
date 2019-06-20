@@ -1,0 +1,27 @@
+{
+    "id": "place.9976421064068550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vivaro Romano",
+    "place_name": "Vivaro Romano, Roma, Italy",
+    "bbox": [
+        12.966944,
+        42.090872,
+        13.032819,
+        42.130192
+    ],
+    "center": [
+        13.0075,
+        42.10056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.0075,
+            42.10056
+        ]
+    }
+}

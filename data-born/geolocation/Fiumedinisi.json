@@ -1,0 +1,27 @@
+{
+    "id": "place.2808486257677630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiumedinisi",
+    "place_name": "Fiumedinisi, Messina, Italy",
+    "bbox": [
+        15.315472,
+        38.001536,
+        15.412612,
+        38.084721
+    ],
+    "center": [
+        15.38194,
+        38.02583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38194,
+            38.02583
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9605779911163820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontedassio",
+    "place_name": "Pontedassio, Imperia, Italy",
+    "bbox": [
+        7.962291,
+        43.918863,
+        8.033766,
+        43.961048
+    ],
+    "center": [
+        8.0123,
+        43.94028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.0123,
+            43.94028
+        ]
+    }
+}

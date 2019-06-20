@@ -1,0 +1,27 @@
+{
+    "id": "place.17468194848117740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontelongo",
+    "place_name": "Pontelongo, Padova, Italy",
+    "bbox": [
+        11.990777,
+        45.234547,
+        12.083904,
+        45.260302
+    ],
+    "center": [
+        12.01667,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.01667,
+            45.25
+        ]
+    }
+}

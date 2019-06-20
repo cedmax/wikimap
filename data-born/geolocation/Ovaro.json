@@ -1,0 +1,27 @@
+{
+    "id": "place.10255770444215380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ovaro",
+    "place_name": "Ovaro, Udine, Italy",
+    "bbox": [
+        12.765545,
+        46.446336,
+        12.937012,
+        46.524109
+    ],
+    "center": [
+        12.86667,
+        46.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.86667,
+            46.48333
+        ]
+    }
+}

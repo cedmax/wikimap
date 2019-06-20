@@ -1,0 +1,27 @@
+{
+    "id": "place.9547194824991360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceprano",
+    "place_name": "Ceprano, Frosinone, Italy",
+    "bbox": [
+        13.450695,
+        41.514202,
+        13.544775,
+        41.580624
+    ],
+    "center": [
+        13.51667,
+        41.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.51667,
+            41.55
+        ]
+    }
+}

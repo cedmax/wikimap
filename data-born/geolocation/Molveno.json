@@ -1,0 +1,27 @@
+{
+    "id": "place.10798303519380600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Molveno",
+    "place_name": "Molveno, Trento, Italy",
+    "bbox": [
+        10.8937,
+        46.114066,
+        10.999045,
+        46.189454
+    ],
+    "center": [
+        10.96472,
+        46.14306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.96472,
+            46.14306
+        ]
+    }
+}

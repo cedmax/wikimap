@@ -1,0 +1,27 @@
+{
+    "id": "place.9435017843679750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte San Savino",
+    "place_name": "Monte San Savino, Arezzo, Italy",
+    "bbox": [
+        11.611167,
+        43.29895,
+        11.83182,
+        43.387948
+    ],
+    "center": [
+        11.73083,
+        43.33028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.73083,
+            43.33028
+        ]
+    }
+}

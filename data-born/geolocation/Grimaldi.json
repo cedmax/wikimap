@@ -1,0 +1,27 @@
+{
+    "id": "place.4748988407026760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grimaldi",
+    "place_name": "Grimaldi, Cosenza, Italy",
+    "bbox": [
+        16.200882,
+        39.09175,
+        16.246607,
+        39.179233
+    ],
+    "center": [
+        16.23333,
+        39.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.23333,
+            39.15
+        ]
+    }
+}

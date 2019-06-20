@@ -1,0 +1,27 @@
+{
+    "id": "place.13073003962367300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Poma",
+    "place_name": "Villa Poma, Mantova, Italy",
+    "bbox": [
+        11.086277,
+        44.980195,
+        11.144452,
+        45.023768
+    ],
+    "center": [
+        11.11667,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            45
+        ]
+    }
+}

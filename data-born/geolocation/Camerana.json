@@ -1,0 +1,27 @@
+{
+    "id": "place.6619653960283210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camerana",
+    "place_name": "Camerana, Cuneo, Italy",
+    "bbox": [
+        8.100692,
+        44.392362,
+        8.165503,
+        44.461599
+    ],
+    "center": [
+        8.13333,
+        44.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.13333,
+            44.41667
+        ]
+    }
+}

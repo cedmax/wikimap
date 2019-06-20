@@ -1,0 +1,27 @@
+{
+    "id": "place.12048656365342480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campo Ligure",
+    "place_name": "Campo Ligure, Genova, Italy",
+    "bbox": [
+        8.663274,
+        44.502472,
+        8.757212,
+        44.553893
+    ],
+    "center": [
+        8.69779,
+        44.53809
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.69779,
+            44.53809
+        ]
+    }
+}

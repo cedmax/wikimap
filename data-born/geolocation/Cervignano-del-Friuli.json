@@ -1,0 +1,27 @@
+{
+    "id": "place.17654459912493410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cervignano del Friuli",
+    "place_name": "Cervignano del Friuli, Udine, Italy",
+    "bbox": [
+        13.294092,
+        45.784787,
+        13.382451,
+        45.875126
+    ],
+    "center": [
+        13.335,
+        45.82306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.335,
+            45.82306
+        ]
+    }
+}

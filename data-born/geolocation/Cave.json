@@ -1,0 +1,27 @@
+{
+    "id": "place.6730522756354780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cave",
+    "place_name": "Cave, Roma, Italy",
+    "bbox": [
+        12.903501,
+        41.786352,
+        12.963803,
+        41.836404
+    ],
+    "center": [
+        12.93333,
+        41.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            41.81667
+        ]
+    }
+}

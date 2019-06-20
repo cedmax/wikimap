@@ -1,0 +1,27 @@
+{
+    "id": "place.16075369488236190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galtellì",
+    "place_name": "Galtellì, Nuoro, Italy",
+    "bbox": [
+        9.498992,
+        40.343,
+        9.661761,
+        40.429146
+    ],
+    "center": [
+        9.61667,
+        40.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61667,
+            40.38333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9552770436463090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volpedo",
+    "place_name": "Volpedo, Alessandria, Italy",
+    "bbox": [
+        8.965756,
+        44.865239,
+        9.029771,
+        44.905198
+    ],
+    "center": [
+        8.98278,
+        44.89111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.98278,
+            44.89111
+        ]
+    }
+}

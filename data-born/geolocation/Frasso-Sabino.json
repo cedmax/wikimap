@@ -1,0 +1,27 @@
+{
+    "id": "place.12554654733041740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frasso Sabino",
+    "place_name": "Frasso Sabino, Rieti, Italy",
+    "bbox": [
+        12.797434,
+        42.20792,
+        12.828112,
+        42.233941
+    ],
+    "center": [
+        12.8,
+        42.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            42.23333
+        ]
+    }
+}

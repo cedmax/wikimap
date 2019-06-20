@@ -1,0 +1,27 @@
+{
+    "id": "place.9751819014057540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mordano",
+    "place_name": "Mordano, Bologna, Italy",
+    "bbox": [
+        11.755036,
+        44.382598,
+        11.842481,
+        44.436417
+    ],
+    "center": [
+        11.81667,
+        44.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81667,
+            44.4
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7228470265475140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altomonte",
+    "place_name": "Altomonte, Cosenza, Italy",
+    "bbox": [
+        16.09932,
+        39.651438,
+        16.262352,
+        39.718828
+    ],
+    "center": [
+        16.13333,
+        39.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.13333,
+            39.7
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8042874155123300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pogliano Milanese",
+    "place_name": "Pogliano Milanese, Milano, Italy",
+    "bbox": [
+        8.966791,
+        45.520751,
+        9.013637,
+        45.553405
+    ],
+    "center": [
+        9,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            45.53333
+        ]
+    }
+}

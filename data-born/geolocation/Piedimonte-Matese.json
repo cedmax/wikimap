@@ -1,0 +1,21 @@
+{
+    "id": "poi.3350074553878",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Piedimonte Matese",
+    "place_name": "Piedimonte Matese, Piedimonte Matese, Caserta 81016, Italy",
+    "center": [
+        14.372074,
+        41.35458
+    ],
+    "geometry": {
+        "coordinates": [
+            14.372074,
+            41.35458
+        ],
+        "type": "Point"
+    }
+}

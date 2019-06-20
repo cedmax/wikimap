@@ -1,0 +1,27 @@
+{
+    "id": "place.11308091448360560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rutigliano",
+    "place_name": "Rutigliano, Bari, Italy",
+    "bbox": [
+        16.957696,
+        40.951629,
+        17.055384,
+        41.039819
+    ],
+    "center": [
+        17.00654,
+        40.995723999999996
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.00654,
+            40.995723999999996
+        ]
+    }
+}

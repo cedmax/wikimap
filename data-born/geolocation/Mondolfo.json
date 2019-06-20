@@ -1,0 +1,27 @@
+{
+    "id": "place.15726811262528970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mondolfo",
+    "place_name": "Mondolfo, Pesaro E Urbino, Italy",
+    "bbox": [
+        13.084732,
+        43.726137,
+        13.172535,
+        43.785125
+    ],
+    "center": [
+        13.09557,
+        43.7517
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.09557,
+            43.7517
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13555088046603460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Policoro",
+    "place_name": "Policoro, Matera, Italy",
+    "bbox": [
+        16.598141,
+        40.145875,
+        16.737409,
+        40.242166
+    ],
+    "center": [
+        16.66667,
+        40.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.66667,
+            40.2
+        ]
+    }
+}

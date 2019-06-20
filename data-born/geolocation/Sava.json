@@ -1,0 +1,21 @@
+{
+    "id": "poi.2911987910799",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sava",
+    "place_name": "Sava, Sava, Taranto 74028, Italy",
+    "center": [
+        17.557429,
+        40.403222
+    ],
+    "geometry": {
+        "coordinates": [
+            17.557429,
+            40.403222
+        ],
+        "type": "Point"
+    }
+}

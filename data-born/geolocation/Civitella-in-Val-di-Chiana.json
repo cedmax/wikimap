@@ -1,0 +1,21 @@
+{
+    "id": "poi.1211180778661",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Civitella in Val di Chiana",
+    "place_name": "Civitella in Val di Chiana, Civitella in Val di Chiana, Arezzo 52041, Italy",
+    "center": [
+        11.723241999999999,
+        43.417505500000004
+    ],
+    "geometry": {
+        "coordinates": [
+            11.723241999999999,
+            43.417505500000004
+        ],
+        "type": "Point"
+    }
+}

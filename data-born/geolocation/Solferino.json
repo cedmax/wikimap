@@ -1,0 +1,27 @@
+{
+    "id": "place.11605332089199080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solferino",
+    "place_name": "Solferino, Mantova, Italy",
+    "bbox": [
+        10.534235,
+        45.342452,
+        10.581817,
+        45.389638
+    ],
+    "center": [
+        10.55,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            45.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15140968204750460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalino",
+    "place_name": "Casalino, Novara, Italy",
+    "bbox": [
+        8.484814,
+        45.341478,
+        8.566595,
+        45.426726
+    ],
+    "center": [
+        8.53333,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.53333,
+            45.36667
+        ]
+    }
+}

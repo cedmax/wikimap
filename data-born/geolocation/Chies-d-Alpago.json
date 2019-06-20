@@ -1,0 +1,27 @@
+{
+    "id": "place.16880644210705970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chies d'Alpago",
+    "place_name": "Chies d'Alpago, Belluno, Italy",
+    "bbox": [
+        12.370209,
+        46.132807,
+        12.498597,
+        46.211403
+    ],
+    "center": [
+        12.39278,
+        46.16556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.39278,
+            46.16556
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12078847136946910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giarratana",
+    "place_name": "Giarratana, Ragusa, Italy",
+    "bbox": [
+        14.77353,
+        37.008271,
+        14.843435,
+        37.138865
+    ],
+    "center": [
+        14.8,
+        37.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.8,
+            37.05
+        ]
+    }
+}

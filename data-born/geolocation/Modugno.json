@@ -1,0 +1,27 @@
+{
+    "id": "place.7636263012279680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Modugno",
+    "place_name": "Modugno, Bari, Italy",
+    "bbox": [
+        16.745321,
+        41.042798,
+        16.831041,
+        41.120215
+    ],
+    "center": [
+        16.78333,
+        41.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            41.08333
+        ]
+    }
+}

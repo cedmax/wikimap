@@ -1,0 +1,27 @@
+{
+    "id": "place.7643930807898750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteroni di Lecce",
+    "place_name": "Monteroni di Lecce, Lecce, Italy",
+    "bbox": [
+        18.054443,
+        40.293476,
+        18.121995,
+        40.337331
+    ],
+    "center": [
+        18.1,
+        40.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.1,
+            40.33333
+        ]
+    }
+}

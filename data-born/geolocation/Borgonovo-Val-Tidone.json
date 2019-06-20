@@ -1,0 +1,27 @@
+{
+    "id": "place.9613299525057360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgonovo Val Tidone",
+    "place_name": "Borgonovo Val Tidone, Piacenza, Italy",
+    "bbox": [
+        9.400784,
+        44.952758,
+        9.534795,
+        45.046767
+    ],
+    "center": [
+        9.45,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.45,
+            45.01667
+        ]
+    }
+}

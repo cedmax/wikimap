@@ -1,0 +1,27 @@
+{
+    "id": "place.12114319255800960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pedavena",
+    "place_name": "Pedavena, Belluno, Italy",
+    "bbox": [
+        11.821396,
+        46.011249,
+        11.899747,
+        46.08007
+    ],
+    "center": [
+        11.88333,
+        46.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            46.03333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12224640604813680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Strozza",
+    "place_name": "Strozza, Bergamo, Italy",
+    "bbox": [
+        9.562558,
+        45.758541,
+        9.59687,
+        45.782064
+    ],
+    "center": [
+        9.58333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58333,
+            45.76667
+        ]
+    }
+}

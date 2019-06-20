@@ -1,0 +1,27 @@
+{
+    "id": "place.11491800527072450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Andrea Apostolo dello Ionio",
+    "place_name": "Sant'Andrea Apostolo dello Ionio, Catanzaro, Italy",
+    "bbox": [
+        16.449692,
+        38.57862,
+        16.565225,
+        38.642666
+    ],
+    "center": [
+        16.52917,
+        38.62361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.52917,
+            38.62361
+        ]
+    }
+}

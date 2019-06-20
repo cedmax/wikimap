@@ -1,0 +1,27 @@
+{
+    "id": "place.9861310829289230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro Avellana",
+    "place_name": "San Pietro Avellana, Isernia, Italy",
+    "bbox": [
+        14.147379,
+        41.763084,
+        14.251233,
+        41.847746
+    ],
+    "center": [
+        14.18139,
+        41.79194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18139,
+            41.79194
+        ]
+    }
+}

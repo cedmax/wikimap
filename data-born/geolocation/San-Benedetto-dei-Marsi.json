@@ -1,0 +1,27 @@
+{
+    "id": "place.8980518451635060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Benedetto dei Marsi",
+    "place_name": "San Benedetto dei Marsi, L'Aquila, Italy",
+    "bbox": [
+        13.546517,
+        41.985825,
+        13.643287,
+        42.032626
+    ],
+    "center": [
+        13.62381,
+        42.0076
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.62381,
+            42.0076
+        ]
+    }
+}

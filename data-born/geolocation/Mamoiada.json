@@ -1,0 +1,27 @@
+{
+    "id": "place.4538421102622580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mamoiada",
+    "place_name": "Mamoiada, Nuoro, Italy",
+    "bbox": [
+        9.229128,
+        40.161812,
+        9.316255,
+        40.259291
+    ],
+    "center": [
+        9.28361,
+        40.21417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28361,
+            40.21417
+        ]
+    }
+}

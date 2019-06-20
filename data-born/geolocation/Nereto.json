@@ -1,0 +1,27 @@
+{
+    "id": "place.12810836738094460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nereto",
+    "place_name": "Nereto, Teramo, Italy",
+    "bbox": [
+        13.793771,
+        42.804935,
+        13.834337,
+        42.831803
+    ],
+    "center": [
+        13.81694,
+        42.82
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81694,
+            42.82
+        ]
+    }
+}

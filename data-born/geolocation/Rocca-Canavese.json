@@ -1,0 +1,27 @@
+{
+    "id": "place.6163019140784220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca Canavese",
+    "place_name": "Rocca Canavese, Torino, Italy",
+    "bbox": [
+        7.54176,
+        45.280141,
+        7.607453,
+        45.338999
+    ],
+    "center": [
+        7.58333,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.58333,
+            45.31667
+        ]
+    }
+}

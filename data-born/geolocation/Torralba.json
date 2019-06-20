@@ -1,0 +1,27 @@
+{
+    "id": "place.10778792941909110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torralba",
+    "place_name": "Torralba, Sassari, Italy",
+    "bbox": [
+        8.741762,
+        40.467218,
+        8.866025,
+        40.525723
+    ],
+    "center": [
+        8.76667,
+        40.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            40.51667
+        ]
+    }
+}

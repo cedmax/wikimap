@@ -1,0 +1,29 @@
+{
+    "id": "place.3343805501024040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salorno - Salurn",
+    "place_name": "Salorno - Salurn, Bolzano, Italy",
+    "matching_text": "Salorno",
+    "matching_place_name": "Salorno, Bolzano, Italy",
+    "bbox": [
+        11.17263,
+        46.219705,
+        11.316174,
+        46.285797
+    ],
+    "center": [
+        11.2,
+        46.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            46.23333
+        ]
+    }
+}

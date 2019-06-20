@@ -1,0 +1,27 @@
+{
+    "id": "place.10598395620521450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre Annunziata",
+    "place_name": "Torre Annunziata, Napoli, Italy",
+    "bbox": [
+        14.425444,
+        40.728412,
+        14.480539,
+        40.767212
+    ],
+    "center": [
+        14.44444,
+        40.75694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.44444,
+            40.75694
+        ]
+    }
+}

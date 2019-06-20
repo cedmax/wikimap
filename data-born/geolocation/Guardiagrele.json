@@ -1,0 +1,27 @@
+{
+    "id": "place.6109374253720690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guardiagrele",
+    "place_name": "Guardiagrele, Chieti, Italy",
+    "bbox": [
+        14.135056,
+        42.146348,
+        14.326037,
+        42.227906
+    ],
+    "center": [
+        14.22159,
+        42.18922
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.22159,
+            42.18922
+        ]
+    }
+}

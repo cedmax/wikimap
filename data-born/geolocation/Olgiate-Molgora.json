@@ -1,0 +1,27 @@
+{
+    "id": "place.10696053025615740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olgiate Molgora",
+    "place_name": "Olgiate Molgora, Lecco, Italy",
+    "bbox": [
+        9.384375,
+        45.703571,
+        9.422585,
+        45.749454
+    ],
+    "center": [
+        9.4,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.73333
+        ]
+    }
+}

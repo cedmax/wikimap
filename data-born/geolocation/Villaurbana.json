@@ -1,0 +1,27 @@
+{
+    "id": "place.6099444985050010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villaurbana",
+    "place_name": "Villaurbana, Oristano, Italy",
+    "bbox": [
+        8.716301,
+        39.827365,
+        8.844693,
+        39.917621
+    ],
+    "center": [
+        8.78333,
+        39.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            39.88333
+        ]
+    }
+}

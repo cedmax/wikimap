@@ -1,0 +1,27 @@
+{
+    "id": "place.9491528889208600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tagliacozzo",
+    "place_name": "Tagliacozzo, L'Aquila, Italy",
+    "bbox": [
+        13.153832,
+        42.009729,
+        13.341083,
+        42.119161
+    ],
+    "center": [
+        13.25472,
+        42.06944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25472,
+            42.06944
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13237472221706700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Lagarina",
+    "place_name": "Villa Lagarina, Trento, Italy",
+    "bbox": [
+        10.974286,
+        45.90948,
+        11.058087,
+        45.981273
+    ],
+    "center": [
+        11.03333,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            45.91667
+        ]
+    }
+}

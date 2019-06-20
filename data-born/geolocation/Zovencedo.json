@@ -1,0 +1,27 @@
+{
+    "id": "place.9044580786709180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zovencedo",
+    "place_name": "Zovencedo, Vicenza, Italy",
+    "bbox": [
+        11.477006,
+        45.417749,
+        11.513439,
+        45.463037
+    ],
+    "center": [
+        11.5,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            45.43333
+        ]
+    }
+}

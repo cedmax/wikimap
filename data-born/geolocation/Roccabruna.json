@@ -1,0 +1,27 @@
+{
+    "id": "place.14687713902861710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccabruna",
+    "place_name": "Roccabruna, Cuneo, Italy",
+    "bbox": [
+        7.284753,
+        44.461469,
+        7.362123,
+        44.52433
+    ],
+    "center": [
+        7.33333,
+        44.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.33333,
+            44.5
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4485407867591780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casatisma",
+    "place_name": "Casatisma, Pavia, Italy",
+    "bbox": [
+        9.104717,
+        45.035938,
+        9.140136,
+        45.071929
+    ],
+    "center": [
+        9.13333,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.05
+        ]
+    }
+}

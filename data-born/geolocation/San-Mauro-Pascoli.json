@@ -1,0 +1,27 @@
+{
+    "id": "place.6268753009819850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Mauro Pascoli",
+    "place_name": "San Mauro Pascoli, Forli'-Cesena, Italy",
+    "bbox": [
+        12.406139,
+        44.086227,
+        12.456546,
+        44.166783
+    ],
+    "center": [
+        12.41667,
+        44.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            44.1
+        ]
+    }
+}

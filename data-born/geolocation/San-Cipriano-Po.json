@@ -1,0 +1,27 @@
+{
+    "id": "place.7497018999972940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Cipriano Po",
+    "place_name": "San Cipriano Po, Pavia, Italy",
+    "bbox": [
+        9.260831,
+        45.093676,
+        9.314138,
+        45.125323
+    ],
+    "center": [
+        9.25,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.25,
+            45.1
+        ]
+    }
+}

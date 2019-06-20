@@ -1,0 +1,27 @@
+{
+    "id": "place.10118588708402610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alseno",
+    "place_name": "Alseno, Piacenza, Italy",
+    "bbox": [
+        9.888538,
+        44.836126,
+        10.012647,
+        44.952583
+    ],
+    "center": [
+        9.96667,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96667,
+            44.9
+        ]
+    }
+}

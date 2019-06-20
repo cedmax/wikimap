@@ -1,0 +1,23 @@
+{
+    "id": "poi.2388001847596",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.98,
+    "text": "Bahnhof Toblach",
+    "place_name": "Bahnhof Toblach, Bahnhofstr., Dobbiaco - Toblach, Bolzano 39034, Italy",
+    "matching_text": "Dobbiaco",
+    "matching_place_name": "Dobbiaco, Bahnhofstr., Dobbiaco - Toblach, Bolzano 39034, Italy",
+    "center": [
+        12.225261,
+        46.724922
+    ],
+    "geometry": {
+        "coordinates": [
+            12.225261,
+            46.724922
+        ],
+        "type": "Point"
+    }
+}

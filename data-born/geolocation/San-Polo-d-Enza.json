@@ -1,0 +1,27 @@
+{
+    "id": "place.8608552936745710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Polo d'Enza",
+    "place_name": "San Polo d'Enza, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.402577,
+        44.576502,
+        10.483507,
+        44.676434
+    ],
+    "center": [
+        10.43333,
+        44.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.43333,
+            44.63333
+        ]
+    }
+}

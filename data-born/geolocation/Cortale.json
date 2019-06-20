@@ -1,0 +1,27 @@
+{
+    "id": "place.13486927957292970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cortale",
+    "place_name": "Cortale, Catanzaro, Italy",
+    "bbox": [
+        16.364876,
+        38.751285,
+        16.469992,
+        38.876672
+    ],
+    "center": [
+        16.4096,
+        38.8401
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.4096,
+            38.8401
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11388218716331940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Ceresio",
+    "place_name": "Porto Ceresio, Varese, Italy",
+    "bbox": [
+        8.888937,
+        45.894355,
+        8.924944,
+        45.924361
+    ],
+    "center": [
+        8.9,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.9
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8473785524683930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canosa di Puglia",
+    "place_name": "Canosa di Puglia, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        15.870196,
+        41.109606,
+        16.14541,
+        41.275919
+    ],
+    "center": [
+        16.06667,
+        41.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.06667,
+            41.21667
+        ]
+    }
+}

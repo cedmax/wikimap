@@ -1,0 +1,27 @@
+{
+    "id": "place.4815119038666300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teulada",
+    "place_name": "Teulada, Cagliari, Italy",
+    "bbox": [
+        8.604979,
+        38.864199,
+        8.843171,
+        39.054839
+    ],
+    "center": [
+        8.76667,
+        38.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            38.96667
+        ]
+    }
+}

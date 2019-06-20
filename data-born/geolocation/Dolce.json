@@ -1,0 +1,21 @@
+{
+    "id": "poi.1786706461915",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Dolce",
+    "place_name": "Dolce, Via Tripolitania, 4, Roma, Roma 00199, Italy",
+    "center": [
+        12.51966,
+        41.93043
+    ],
+    "geometry": {
+        "coordinates": [
+            12.51966,
+            41.93043
+        ],
+        "type": "Point"
+    }
+}

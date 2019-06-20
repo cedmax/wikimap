@@ -1,0 +1,27 @@
+{
+    "id": "place.8136867038500960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trevignano",
+    "place_name": "Trevignano, Treviso, Italy",
+    "bbox": [
+        12.043473,
+        45.708843,
+        12.137895,
+        45.758195
+    ],
+    "center": [
+        12.06667,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.06667,
+            45.73333
+        ]
+    }
+}

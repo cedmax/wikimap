@@ -1,0 +1,27 @@
+{
+    "id": "place.13659992158794180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cimitile",
+    "place_name": "Cimitile, Napoli, Italy",
+    "bbox": [
+        14.498738,
+        40.935831,
+        14.537861,
+        40.956328
+    ],
+    "center": [
+        14.53333,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            40.93333
+        ]
+    }
+}

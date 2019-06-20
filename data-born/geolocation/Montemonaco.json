@@ -1,0 +1,27 @@
+{
+    "id": "place.10816541355022510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montemonaco",
+    "place_name": "Montemonaco, Ascoli Piceno, Italy",
+    "bbox": [
+        13.232008,
+        42.815895,
+        13.376157,
+        42.925461
+    ],
+    "center": [
+        13.33389,
+        42.89917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.33389,
+            42.89917
+        ]
+    }
+}

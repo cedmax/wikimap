@@ -1,0 +1,27 @@
+{
+    "id": "place.16826287177530960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pienza",
+    "place_name": "Pienza, Siena, Italy",
+    "bbox": [
+        11.579804,
+        42.94956,
+        11.788458,
+        43.137623
+    ],
+    "center": [
+        11.67889,
+        43.07861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.67889,
+            43.07861
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11659349904648490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzonovo",
+    "place_name": "Pozzonovo, Padova, Italy",
+    "bbox": [
+        11.771765,
+        45.137426,
+        11.844828,
+        45.212479
+    ],
+    "center": [
+        11.78333,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            45.2
+        ]
+    }
+}

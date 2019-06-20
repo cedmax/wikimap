@@ -1,0 +1,27 @@
+{
+    "id": "place.11874121226018200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laino Borgo",
+    "place_name": "Laino Borgo, Cosenza, Italy",
+    "bbox": [
+        15.885128,
+        39.920561,
+        16.033613,
+        40.000666
+    ],
+    "center": [
+        15.96667,
+        39.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.96667,
+            39.95
+        ]
+    }
+}

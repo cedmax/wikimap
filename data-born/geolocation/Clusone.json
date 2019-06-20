@@ -1,0 +1,27 @@
+{
+    "id": "place.7290051126434380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Clusone",
+    "place_name": "Clusone, Bergamo, Italy",
+    "bbox": [
+        9.900022,
+        45.842642,
+        9.972878,
+        45.908485
+    ],
+    "center": [
+        9.95,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            45.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8916021295648070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cossano Belbo",
+    "place_name": "Cossano Belbo, Cuneo, Italy",
+    "bbox": [
+        8.162931,
+        44.631549,
+        8.226228,
+        44.689746
+    ],
+    "center": [
+        8.2,
+        44.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.2,
+            44.66667
+        ]
+    }
+}

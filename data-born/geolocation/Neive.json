@@ -1,0 +1,27 @@
+{
+    "id": "place.2278554163197620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Neive",
+    "place_name": "Neive, Cuneo, Italy",
+    "bbox": [
+        8.07647,
+        44.697218,
+        8.15137,
+        44.756945
+    ],
+    "center": [
+        8.11667,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.11667,
+            44.71667
+        ]
+    }
+}

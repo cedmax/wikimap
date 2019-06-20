@@ -1,0 +1,27 @@
+{
+    "id": "place.8021427401542210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte dell'Olio",
+    "place_name": "Ponte dell'Olio, Piacenza, Italy",
+    "bbox": [
+        9.61027,
+        44.819747,
+        9.719187,
+        44.907655
+    ],
+    "center": [
+        9.63333,
+        44.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.63333,
+            44.86667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.963835149",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.6,
+    "text": "Piazza Vittorio Veneto",
+    "place_name": "Piazza Vittorio Veneto, 47030 Borghi Forli'-Cesena, Italy",
+    "center": [
+        12.354284,
+        44.031443
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.354284,
+            44.031443
+        ]
+    }
+}

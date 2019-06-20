@@ -1,0 +1,29 @@
+{
+    "id": "place.7453604774983530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Selva di Val Gardena - Wolkenstein in Groeden",
+    "place_name": "Selva di Val Gardena - Wolkenstein in Groeden, Bolzano, Italy",
+    "matching_text": "Selva di Val Gardena",
+    "matching_place_name": "Selva di Val Gardena, Bolzano, Italy",
+    "bbox": [
+        11.725867,
+        46.504814,
+        11.848668,
+        46.599961
+    ],
+    "center": [
+        11.76667,
+        46.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76667,
+            46.55
+        ]
+    }
+}

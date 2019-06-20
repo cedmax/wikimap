@@ -1,0 +1,27 @@
+{
+    "id": "place.10457730657708970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pisticci",
+    "place_name": "Pisticci, Matera, Italy",
+    "bbox": [
+        16.486507,
+        40.284575,
+        16.818069,
+        40.446082
+    ],
+    "center": [
+        16.55,
+        40.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.55,
+            40.38333
+        ]
+    }
+}

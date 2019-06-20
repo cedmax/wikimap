@@ -1,0 +1,27 @@
+{
+    "id": "place.10543317890641970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusavecchia",
+    "place_name": "Chiusavecchia, Imperia, Italy",
+    "bbox": [
+        7.97376,
+        43.942913,
+        8.008056,
+        43.974977
+    ],
+    "center": [
+        7.98337,
+        43.96781
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98337,
+            43.96781
+        ]
+    }
+}

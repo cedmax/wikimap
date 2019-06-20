@@ -1,0 +1,27 @@
+{
+    "id": "place.4028630353620550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castell'Arquato",
+    "place_name": "Castell'Arquato, Piacenza, Italy",
+    "bbox": [
+        9.815878,
+        44.821012,
+        9.924408,
+        44.909341
+    ],
+    "center": [
+        9.86667,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            44.85
+        ]
+    }
+}

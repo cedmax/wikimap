@@ -1,0 +1,21 @@
+{
+    "id": "address.564253830",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Campo Tures",
+    "place_name": "via Campo Tures, 00124 Roma Roma, Italy",
+    "center": [
+        12.349024,
+        41.726481
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.349024,
+            41.726481
+        ]
+    }
+}

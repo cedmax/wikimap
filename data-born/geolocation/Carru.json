@@ -1,0 +1,27 @@
+{
+    "id": "place.832058319495990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carrù",
+    "place_name": "Carrù, Cuneo, Italy",
+    "bbox": [
+        7.807473,
+        44.453734,
+        7.900847,
+        44.504586
+    ],
+    "center": [
+        7.88333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.88333,
+            44.48333
+        ]
+    }
+}

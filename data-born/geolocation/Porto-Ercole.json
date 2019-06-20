@@ -1,0 +1,21 @@
+{
+    "id": "poi.3367254381898",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Porto Ercole",
+    "place_name": "Porto Ercole, Porto Ercole, Grosseto, Italy",
+    "center": [
+        11.205886249999999,
+        42.3932395
+    ],
+    "geometry": {
+        "coordinates": [
+            11.205886249999999,
+            42.3932395
+        ],
+        "type": "Point"
+    }
+}

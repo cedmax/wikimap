@@ -1,0 +1,27 @@
+{
+    "id": "place.10290084495860330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Malesco",
+    "place_name": "Malesco, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.41801,
+        46.043007,
+        8.561099,
+        46.141488
+    ],
+    "center": [
+        8.5,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.5,
+            46.13333
+        ]
+    }
+}

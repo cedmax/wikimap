@@ -1,0 +1,21 @@
+{
+    "id": "address.1609624740",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.8818181818181818,
+    "text": "via Crespellani",
+    "place_name": "via Crespellani, 41056 Savignano sul Panaro Modena, Italy",
+    "center": [
+        11.038868,
+        44.477884
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.038868,
+            44.477884
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1967095046614",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Conflenti",
+    "place_name": "Conflenti, Conflenti, Catanzaro 88040, Italy",
+    "center": [
+        16.285038,
+        39.0719625
+    ],
+    "geometry": {
+        "coordinates": [
+            16.285038,
+            39.0719625
+        ],
+        "type": "Point"
+    }
+}

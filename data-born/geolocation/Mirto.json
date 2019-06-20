@@ -1,0 +1,27 @@
+{
+    "id": "place.9780978831111880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mirto",
+    "place_name": "Mirto, Messina, Italy",
+    "bbox": [
+        14.720537,
+        38.070156,
+        14.772719,
+        38.108676
+    ],
+    "center": [
+        14.75,
+        38.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.75,
+            38.08333
+        ]
+    }
+}

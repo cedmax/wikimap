@@ -1,0 +1,27 @@
+{
+    "id": "place.10258143059900520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Folignano",
+    "place_name": "Folignano, Ascoli Piceno, Italy",
+    "bbox": [
+        13.615356,
+        42.803124,
+        13.687225,
+        42.839935
+    ],
+    "center": [
+        13.63295,
+        42.821
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.63295,
+            42.821
+        ]
+    }
+}

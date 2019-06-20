@@ -1,0 +1,27 @@
+{
+    "id": "place.5394489848672920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelleone",
+    "place_name": "Castelleone, Cremona, Italy",
+    "bbox": [
+        9.728588,
+        45.251272,
+        9.825356,
+        45.338576
+    ],
+    "center": [
+        9.76667,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76667,
+            45.3
+        ]
+    }
+}

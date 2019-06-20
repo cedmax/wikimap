@@ -1,0 +1,27 @@
+{
+    "id": "place.12138928725270870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caltanissetta",
+    "place_name": "Caltanissetta, Caltanissetta, Italy",
+    "bbox": [
+        13.861996,
+        37.329965,
+        14.159392,
+        37.598761
+    ],
+    "center": [
+        14.06667,
+        37.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.06667,
+            37.48333
+        ]
+    }
+}

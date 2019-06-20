@@ -1,0 +1,29 @@
+{
+    "id": "place.14507442085251980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Tires - Tiers",
+    "place_name": "Tires - Tiers, Bolzano, Italy",
+    "matching_text": "Tires",
+    "matching_place_name": "Tires, Bolzano, Italy",
+    "bbox": [
+        11.494407,
+        46.440835,
+        11.650667,
+        46.501251
+    ],
+    "center": [
+        11.53333,
+        46.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            46.46667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9576079292769470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orsogna",
+    "place_name": "Orsogna, Chieti, Italy",
+    "bbox": [
+        14.255636,
+        42.202756,
+        14.340124,
+        42.276537
+    ],
+    "center": [
+        14.28333,
+        42.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.28333,
+            42.21667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10764346952812010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Emarèse",
+    "place_name": "Emarèse, Valle D'Aosta, Italy",
+    "bbox": [
+        7.678359,
+        45.699517,
+        7.729283,
+        45.747435
+    ],
+    "center": [
+        7.7,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7,
+            45.71667
+        ]
+    }
+}

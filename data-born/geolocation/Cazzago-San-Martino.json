@@ -1,0 +1,27 @@
+{
+    "id": "place.705031030469090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cazzago San Martino",
+    "place_name": "Cazzago San Martino, Brescia, Italy",
+    "bbox": [
+        10.000652,
+        45.519862,
+        10.06398,
+        45.611169
+    ],
+    "center": [
+        10.02583,
+        45.58167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.02583,
+            45.58167
+        ]
+    }
+}

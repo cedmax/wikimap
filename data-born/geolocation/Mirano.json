@@ -1,0 +1,27 @@
+{
+    "id": "place.7370476258797790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mirano",
+    "place_name": "Mirano, Venezia, Italy",
+    "bbox": [
+        12.034468,
+        45.445105,
+        12.139236,
+        45.531153
+    ],
+    "center": [
+        12.1,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            45.5
+        ]
+    }
+}

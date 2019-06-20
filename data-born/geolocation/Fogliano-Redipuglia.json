@@ -1,0 +1,27 @@
+{
+    "id": "place.8086613339710490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fogliano Redipuglia",
+    "place_name": "Fogliano Redipuglia, Gorizia, Italy",
+    "bbox": [
+        13.467573,
+        45.839174,
+        13.513292,
+        45.874166
+    ],
+    "center": [
+        13.48333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.48333,
+            45.86667
+        ]
+    }
+}

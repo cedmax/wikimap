@@ -1,0 +1,27 @@
+{
+    "id": "place.14898380086653940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cittaducale",
+    "place_name": "Cittaducale, Rieti, Italy",
+    "bbox": [
+        12.893444,
+        42.334021,
+        13.055539,
+        42.446065
+    ],
+    "center": [
+        12.95,
+        42.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.95,
+            42.38333
+        ]
+    }
+}

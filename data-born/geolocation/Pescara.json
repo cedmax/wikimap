@@ -1,0 +1,27 @@
+{
+    "id": "place.10643135916837780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pescara",
+    "place_name": "Pescara, Pescara, Italy",
+    "bbox": [
+        14.152175,
+        42.41538,
+        14.254255,
+        42.494379
+    ],
+    "center": [
+        14.21419,
+        42.46428
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.21419,
+            42.46428
+        ]
+    }
+}

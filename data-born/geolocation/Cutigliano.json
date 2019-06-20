@@ -1,0 +1,27 @@
+{
+    "id": "place.14891229442540970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cutigliano",
+    "place_name": "Cutigliano, Pistoia, Italy",
+    "bbox": [
+        10.665956,
+        44.072748,
+        10.782955,
+        44.156694
+    ],
+    "center": [
+        10.75639,
+        44.10028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.75639,
+            44.10028
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8762199968251630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marciana Marina",
+    "place_name": "Marciana Marina, Livorno, Italy",
+    "bbox": [
+        10.164752,
+        42.787997,
+        10.22869,
+        42.811971
+    ],
+    "center": [
+        10.2,
+        42.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.2,
+            42.8
+        ]
+    }
+}

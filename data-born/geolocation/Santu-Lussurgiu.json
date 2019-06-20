@@ -1,0 +1,27 @@
+{
+    "id": "place.12411518274698050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santu Lussurgiu",
+    "place_name": "Santu Lussurgiu, Oristano, Italy",
+    "bbox": [
+        8.549564,
+        40.104306,
+        8.74551,
+        40.213969
+    ],
+    "center": [
+        8.65194,
+        40.14194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.65194,
+            40.14194
+        ]
+    }
+}

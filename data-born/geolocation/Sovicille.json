@@ -1,0 +1,27 @@
+{
+    "id": "place.3284380385785030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sovicille",
+    "place_name": "Sovicille, Siena, Italy",
+    "bbox": [
+        11.128412,
+        43.147124,
+        11.304431,
+        43.3262
+    ],
+    "center": [
+        11.23333,
+        43.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            43.28333
+        ]
+    }
+}

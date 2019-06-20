@@ -1,0 +1,27 @@
+{
+    "id": "place.8238757455471690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Enego",
+    "place_name": "Enego, Vicenza, Italy",
+    "bbox": [
+        11.55943,
+        45.889004,
+        11.726441,
+        45.968452
+    ],
+    "center": [
+        11.71667,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71667,
+            45.93333
+        ]
+    }
+}

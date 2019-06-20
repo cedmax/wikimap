@@ -1,0 +1,21 @@
+{
+    "id": "poi.3135326183071",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Gradoli",
+    "place_name": "Gradoli, Gradoli, Viterbo 01010, Italy",
+    "center": [
+        11.867474,
+        42.645735
+    ],
+    "geometry": {
+        "coordinates": [
+            11.867474,
+            42.645735
+        ],
+        "type": "Point"
+    }
+}

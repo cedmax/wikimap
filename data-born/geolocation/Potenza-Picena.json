@@ -1,0 +1,27 @@
+{
+    "id": "place.8963040031275100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Potenza Picena",
+    "place_name": "Potenza Picena, Macerata, Italy",
+    "bbox": [
+        13.585466,
+        43.334692,
+        13.704164,
+        43.405339
+    ],
+    "center": [
+        13.62034,
+        43.36625
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.62034,
+            43.36625
+        ]
+    }
+}

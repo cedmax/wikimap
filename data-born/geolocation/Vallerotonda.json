@@ -1,0 +1,27 @@
+{
+    "id": "place.9177345673633260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallerotonda",
+    "place_name": "Vallerotonda, Frosinone, Italy",
+    "bbox": [
+        13.880225,
+        41.511989,
+        14.011548,
+        41.633684
+    ],
+    "center": [
+        13.91667,
+        41.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91667,
+            41.55
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7476076296773780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Calcea",
+    "place_name": "Castelnuovo Calcea, Asti, Italy",
+    "bbox": [
+        8.266922,
+        44.771868,
+        8.307838,
+        44.804428
+    ],
+    "center": [
+        8.28611,
+        44.78917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.28611,
+            44.78917
+        ]
+    }
+}

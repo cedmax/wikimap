@@ -1,0 +1,27 @@
+{
+    "id": "place.11668790643329470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teggiano",
+    "place_name": "Teggiano, Salerno, Italy",
+    "bbox": [
+        15.433236,
+        40.354382,
+        15.583451,
+        40.436261
+    ],
+    "center": [
+        15.53333,
+        40.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.53333,
+            40.38333
+        ]
+    }
+}

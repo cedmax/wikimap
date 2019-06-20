@@ -1,0 +1,27 @@
+{
+    "id": "place.11662592650534970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Prossedi",
+    "place_name": "Prossedi, Latina, Italy",
+    "bbox": [
+        13.217804,
+        41.451875,
+        13.298821,
+        41.540776
+    ],
+    "center": [
+        13.26667,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.26667,
+            41.51667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3226830841292420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Troia",
+    "place_name": "Troia, Foggia, Italy",
+    "bbox": [
+        15.228133,
+        41.318109,
+        15.504135,
+        41.412733
+    ],
+    "center": [
+        15.3,
+        41.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.3,
+            41.36667
+        ]
+    }
+}

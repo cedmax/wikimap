@@ -1,0 +1,27 @@
+{
+    "id": "place.11131601646146090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Plataci",
+    "place_name": "Plataci, Cosenza, Italy",
+    "bbox": [
+        16.3597,
+        39.853875,
+        16.47718,
+        39.947771
+    ],
+    "center": [
+        16.43333,
+        39.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.43333,
+            39.9
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13989159062130720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piaggine",
+    "place_name": "Piaggine, Salerno, Italy",
+    "bbox": [
+        15.341041,
+        40.284466,
+        15.498849,
+        40.374596
+    ],
+    "center": [
+        15.38333,
+        40.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38333,
+            40.35
+        ]
+    }
+}

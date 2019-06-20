@@ -1,0 +1,27 @@
+{
+    "id": "place.13678652579383100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magliano de' Marsi",
+    "place_name": "Magliano de' Marsi, L'Aquila, Italy",
+    "bbox": [
+        13.237233,
+        42.071349,
+        13.399552,
+        42.181231
+    ],
+    "center": [
+        13.36472,
+        42.0925
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36472,
+            42.0925
+        ]
+    }
+}

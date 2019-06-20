@@ -1,0 +1,27 @@
+{
+    "id": "place.10367482316948200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pio delle Camere",
+    "place_name": "San Pio delle Camere, L'Aquila, Italy",
+    "bbox": [
+        13.613255,
+        42.264613,
+        13.690419,
+        42.317703
+    ],
+    "center": [
+        13.65861,
+        42.28722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.65861,
+            42.28722
+        ]
+    }
+}

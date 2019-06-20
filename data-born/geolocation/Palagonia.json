@@ -1,0 +1,21 @@
+{
+    "id": "poi.2405181701949",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Palagonia",
+    "place_name": "Palagonia, Palagonia, Catania 95046, Italy",
+    "center": [
+        14.7438465,
+        37.3309505
+    ],
+    "geometry": {
+        "coordinates": [
+            14.7438465,
+            37.3309505
+        ],
+        "type": "Point"
+    }
+}

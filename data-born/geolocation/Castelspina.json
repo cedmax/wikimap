@@ -1,0 +1,27 @@
+{
+    "id": "place.9188569896776110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelspina",
+    "place_name": "Castelspina, Alessandria, Italy",
+    "bbox": [
+        8.569977,
+        44.788689,
+        8.621907,
+        44.81208
+    ],
+    "center": [
+        8.58417,
+        44.80722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.58417,
+            44.80722
+        ]
+    }
+}

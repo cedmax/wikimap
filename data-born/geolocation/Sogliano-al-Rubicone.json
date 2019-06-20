@@ -1,0 +1,21 @@
+{
+    "id": "poi.3152506028360",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sogliano al Rubicone",
+    "place_name": "Sogliano al Rubicone, Sogliano al Rubicone, Forli'-Cesena 47030, Italy",
+    "center": [
+        12.300890500000001,
+        44.004906500000004
+    ],
+    "geometry": {
+        "coordinates": [
+            12.300890500000001,
+            44.004906500000004
+        ],
+        "type": "Point"
+    }
+}

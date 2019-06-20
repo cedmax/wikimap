@@ -1,0 +1,27 @@
+{
+    "id": "place.7158928035863150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cigole",
+    "place_name": "Cigole, Brescia, Italy",
+    "bbox": [
+        10.167066,
+        45.291785,
+        10.204518,
+        45.336251
+    ],
+    "center": [
+        10.18333,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            45.3
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10489016868424310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carlentini",
+    "place_name": "Carlentini, Siracusa, Italy",
+    "bbox": [
+        14.911794,
+        37.152123,
+        15.093095,
+        37.364746
+    ],
+    "center": [
+        15.01667,
+        37.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            37.28333
+        ]
+    }
+}

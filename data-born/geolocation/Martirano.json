@@ -1,0 +1,27 @@
+{
+    "id": "place.9104236045512780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Martirano",
+    "place_name": "Martirano, Catanzaro, Italy",
+    "bbox": [
+        16.213539,
+        39.032869,
+        16.277503,
+        39.103176
+    ],
+    "center": [
+        16.25,
+        39.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.25,
+            39.08333
+        ]
+    }
+}

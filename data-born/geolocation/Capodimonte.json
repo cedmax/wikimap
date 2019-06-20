@@ -1,0 +1,27 @@
+{
+    "id": "place.12773172487075800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capodimonte",
+    "place_name": "Capodimonte, Viterbo, Italy",
+    "bbox": [
+        11.835589,
+        42.478894,
+        11.92141,
+        42.593593
+    ],
+    "center": [
+        11.90556,
+        42.5475
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.90556,
+            42.5475
+        ]
+    }
+}

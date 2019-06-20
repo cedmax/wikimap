@@ -1,0 +1,27 @@
+{
+    "id": "place.7291095607303690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pisogne",
+    "place_name": "Pisogne, Brescia, Italy",
+    "bbox": [
+        10.061437,
+        45.761209,
+        10.211473,
+        45.834399
+    ],
+    "center": [
+        10.10806,
+        45.81083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.10806,
+            45.81083
+        ]
+    }
+}

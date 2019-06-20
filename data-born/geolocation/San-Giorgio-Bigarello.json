@@ -1,0 +1,21 @@
+{
+    "id": "poi.3341484560228",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "San Giorgio",
+    "place_name": "San Giorgio, Bosco Chiesanuova, Verona 37021, Italy",
+    "center": [
+        11.084466,
+        45.686165
+    ],
+    "geometry": {
+        "coordinates": [
+            11.084466,
+            45.686165
+        ],
+        "type": "Point"
+    }
+}

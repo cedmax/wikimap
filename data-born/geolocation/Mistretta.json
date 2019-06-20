@@ -1,0 +1,27 @@
+{
+    "id": "place.15113351388115640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mistretta",
+    "place_name": "Mistretta, Messina, Italy",
+    "bbox": [
+        14.292791,
+        37.83654,
+        14.458341,
+        37.967735
+    ],
+    "center": [
+        14.36667,
+        37.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            37.93333
+        ]
+    }
+}

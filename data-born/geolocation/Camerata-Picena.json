@@ -1,0 +1,27 @@
+{
+    "id": "place.3344724969530990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camerata Picena",
+    "place_name": "Camerata Picena, Ancona, Italy",
+    "bbox": [
+        13.329582,
+        43.564997,
+        13.403864,
+        43.59973
+    ],
+    "center": [
+        13.35276,
+        43.57832
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.35276,
+            43.57832
+        ]
+    }
+}

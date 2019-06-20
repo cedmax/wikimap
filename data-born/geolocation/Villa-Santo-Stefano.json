@@ -1,0 +1,21 @@
+{
+    "id": "poi.1288490190060",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Villa Santo Stefano",
+    "place_name": "Villa Santo Stefano, Villa Santo Stefano, Frosinone 03020, Italy",
+    "center": [
+        13.3100555,
+        41.517587
+    ],
+    "geometry": {
+        "coordinates": [
+            13.3100555,
+            41.517587
+        ],
+        "type": "Point"
+    }
+}

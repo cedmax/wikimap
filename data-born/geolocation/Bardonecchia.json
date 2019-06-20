@@ -1,0 +1,27 @@
+{
+    "id": "place.8163079020539020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bardonecchia",
+    "place_name": "Bardonecchia, Torino, Italy",
+    "bbox": [
+        6.626556,
+        45.019312,
+        6.855074,
+        45.159708
+    ],
+    "center": [
+        6.70389,
+        45.07833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.70389,
+            45.07833
+        ]
+    }
+}

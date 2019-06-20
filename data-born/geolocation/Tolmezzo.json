@@ -1,0 +1,27 @@
+{
+    "id": "place.7214648073149510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tolmezzo",
+    "place_name": "Tolmezzo, Udine, Italy",
+    "bbox": [
+        12.959998,
+        46.382938,
+        13.112148,
+        46.465135
+    ],
+    "center": [
+        13.01667,
+        46.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            46.4
+        ]
+    }
+}

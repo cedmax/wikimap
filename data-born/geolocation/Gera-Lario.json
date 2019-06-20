@@ -1,0 +1,27 @@
+{
+    "id": "place.7349112392132210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gera Lario",
+    "place_name": "Gera Lario, Como, Italy",
+    "bbox": [
+        9.349511,
+        46.137315,
+        9.423979,
+        46.175077
+    ],
+    "center": [
+        9.36667,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            46.16667
+        ]
+    }
+}

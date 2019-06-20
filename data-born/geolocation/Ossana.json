@@ -1,0 +1,27 @@
+{
+    "id": "place.14030761724494420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ossana",
+    "place_name": "Ossana, Trento, Italy",
+    "bbox": [
+        10.684393,
+        46.237404,
+        10.755914,
+        46.324321
+    ],
+    "center": [
+        10.73333,
+        46.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            46.3
+        ]
+    }
+}

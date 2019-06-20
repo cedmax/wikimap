@@ -1,0 +1,27 @@
+{
+    "id": "place.1994526383042910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Coggiola",
+    "place_name": "Coggiola, Biella, Italy",
+    "bbox": [
+        8.115109,
+        45.678561,
+        8.204835,
+        45.747823
+    ],
+    "center": [
+        8.18333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.18333,
+            45.68333
+        ]
+    }
+}

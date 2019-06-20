@@ -1,0 +1,27 @@
+{
+    "id": "place.6863627548326170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monserrato",
+    "place_name": "Monserrato, Cagliari, Italy",
+    "bbox": [
+        9.114852,
+        39.244278,
+        9.153783,
+        39.283271
+    ],
+    "center": [
+        9.15,
+        39.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15,
+            39.25
+        ]
+    }
+}

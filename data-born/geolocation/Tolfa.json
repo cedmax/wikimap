@@ -1,0 +1,27 @@
+{
+    "id": "place.8147049621743610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tolfa",
+    "place_name": "Tolfa, Roma, Italy",
+    "bbox": [
+        11.873933,
+        42.008967,
+        12.07537,
+        42.240655
+    ],
+    "center": [
+        11.93333,
+        42.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            42.15
+        ]
+    }
+}

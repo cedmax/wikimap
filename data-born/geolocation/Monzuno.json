@@ -1,0 +1,27 @@
+{
+    "id": "place.10730677487403530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monzuno",
+    "place_name": "Monzuno, Bologna, Italy",
+    "bbox": [
+        11.186972,
+        44.229108,
+        11.32033,
+        44.348379
+    ],
+    "center": [
+        11.26667,
+        44.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.26667,
+            44.28333
+        ]
+    }
+}

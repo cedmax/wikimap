@@ -1,0 +1,27 @@
+{
+    "id": "place.16038589350994890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paceco",
+    "place_name": "Paceco, Trapani, Italy",
+    "bbox": [
+        12.493541,
+        37.893487,
+        12.66843,
+        37.995864
+    ],
+    "center": [
+        12.55,
+        37.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.55,
+            37.98333
+        ]
+    }
+}

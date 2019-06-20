@@ -1,0 +1,27 @@
+{
+    "id": "place.7562529774520750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdengo",
+    "place_name": "Valdengo, Biella, Italy",
+    "bbox": [
+        8.106509,
+        45.542458,
+        8.169115,
+        45.587318
+    ],
+    "center": [
+        8.1,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.1,
+            45.55
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15320771487380320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casatenovo",
+    "place_name": "Casatenovo, Lecco, Italy",
+    "bbox": [
+        9.294408,
+        45.65621,
+        9.358799,
+        45.705867
+    ],
+    "center": [
+        9.31167,
+        45.69833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31167,
+            45.69833
+        ]
+    }
+}

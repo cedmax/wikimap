@@ -1,0 +1,27 @@
+{
+    "id": "place.16892909375213800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelgrande",
+    "place_name": "Castelgrande, Potenza, Italy",
+    "bbox": [
+        15.380819,
+        40.76261,
+        15.488109,
+        40.833115
+    ],
+    "center": [
+        15.43333,
+        40.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.43333,
+            40.78333
+        ]
+    }
+}

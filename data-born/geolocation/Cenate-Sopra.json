@@ -1,0 +1,27 @@
+{
+    "id": "place.13824837534969110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cenate Sopra",
+    "place_name": "Cenate Sopra, Bergamo, Italy",
+    "bbox": [
+        9.796977,
+        45.702556,
+        9.841271,
+        45.734978
+    ],
+    "center": [
+        9.82222,
+        45.71167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.82222,
+            45.71167
+        ]
+    }
+}

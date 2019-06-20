@@ -1,0 +1,27 @@
+{
+    "id": "place.13350059541106980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gavi",
+    "place_name": "Gavi, Alessandria, Italy",
+    "bbox": [
+        8.743932,
+        44.635007,
+        8.889568,
+        44.724534
+    ],
+    "center": [
+        8.81028,
+        44.68861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81028,
+            44.68861
+        ]
+    }
+}

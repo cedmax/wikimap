@@ -1,0 +1,27 @@
+{
+    "id": "place.4489999994104120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lumezzane",
+    "place_name": "Lumezzane, Brescia, Italy",
+    "bbox": [
+        10.221945,
+        45.619631,
+        10.322954,
+        45.680364
+    ],
+    "center": [
+        10.26667,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.26667,
+            45.65
+        ]
+    }
+}

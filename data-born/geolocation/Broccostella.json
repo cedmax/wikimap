@@ -1,0 +1,27 @@
+{
+    "id": "place.9813756884047150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Broccostella",
+    "place_name": "Broccostella, Frosinone, Italy",
+    "bbox": [
+        13.616749,
+        41.684356,
+        13.681387,
+        41.72529
+    ],
+    "center": [
+        13.63333,
+        41.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.63333,
+            41.7
+        ]
+    }
+}

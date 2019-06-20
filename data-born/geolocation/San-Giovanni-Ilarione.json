@@ -1,0 +1,27 @@
+{
+    "id": "place.18068752099207370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni Ilarione",
+    "place_name": "San Giovanni Ilarione, Verona, Italy",
+    "bbox": [
+        11.199654,
+        45.493162,
+        11.281032,
+        45.558938
+    ],
+    "center": [
+        11.23333,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            45.51667
+        ]
+    }
+}

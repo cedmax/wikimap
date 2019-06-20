@@ -1,0 +1,27 @@
+{
+    "id": "place.15823521646658250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Treviso",
+    "place_name": "Treviso, Treviso, Italy",
+    "bbox": [
+        12.169643,
+        45.613634,
+        12.288592,
+        45.708013
+    ],
+    "center": [
+        12.24222,
+        45.67222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.24222,
+            45.67222
+        ]
+    }
+}

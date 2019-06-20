@@ -1,0 +1,27 @@
+{
+    "id": "place.19196853292334430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caneva",
+    "place_name": "Caneva, Pordenone, Italy",
+    "bbox": [
+        12.399128,
+        45.94386,
+        12.492836,
+        46.058906
+    ],
+    "center": [
+        12.45,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            45.96667
+        ]
+    }
+}

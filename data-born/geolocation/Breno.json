@@ -1,0 +1,27 @@
+{
+    "id": "place.17154282797623080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Breno",
+    "place_name": "Breno, Brescia, Italy",
+    "bbox": [
+        10.278988,
+        45.906331,
+        10.492554,
+        45.976467
+    ],
+    "center": [
+        10.30556,
+        45.95861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.30556,
+            45.95861
+        ]
+    }
+}

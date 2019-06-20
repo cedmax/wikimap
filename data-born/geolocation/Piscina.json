@@ -1,0 +1,27 @@
+{
+    "id": "place.15218239408872290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piscina",
+    "place_name": "Piscina, Torino, Italy",
+    "bbox": [
+        7.389845,
+        44.904374,
+        7.462337,
+        44.935034
+    ],
+    "center": [
+        7.43333,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.43333,
+            44.91667
+        ]
+    }
+}

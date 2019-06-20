@@ -1,0 +1,27 @@
+{
+    "id": "place.5905917669540310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fivizzano",
+    "place_name": "Fivizzano, Massa-Carrara, Italy",
+    "bbox": [
+        10.03104,
+        44.107608,
+        10.255955,
+        44.310062
+    ],
+    "center": [
+        10.11667,
+        44.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.11667,
+            44.23333
+        ]
+    }
+}

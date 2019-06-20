@@ -1,0 +1,29 @@
+{
+    "id": "place.2843347438313590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Castelrotto - Kastelruth",
+    "place_name": "Castelrotto - Kastelruth, Bolzano, Italy",
+    "matching_text": "Castelrotto",
+    "matching_place_name": "Castelrotto, Bolzano, Italy",
+    "bbox": [
+        11.51206,
+        46.49737,
+        11.716374,
+        46.597701
+    ],
+    "center": [
+        11.56667,
+        46.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56667,
+            46.56667
+        ]
+    }
+}

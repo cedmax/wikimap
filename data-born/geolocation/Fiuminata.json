@@ -1,0 +1,27 @@
+{
+    "id": "place.9554117114902020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiuminata",
+    "place_name": "Fiuminata, Macerata, Italy",
+    "bbox": [
+        12.831079,
+        43.092201,
+        12.964461,
+        43.224914
+    ],
+    "center": [
+        12.93169,
+        43.18849
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93169,
+            43.18849
+        ]
+    }
+}

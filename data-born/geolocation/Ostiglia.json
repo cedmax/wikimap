@@ -1,0 +1,27 @@
+{
+    "id": "place.10088170690451840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostiglia",
+    "place_name": "Ostiglia, Mantova, Italy",
+    "bbox": [
+        11.094032,
+        45.044458,
+        11.206849,
+        45.126232
+    ],
+    "center": [
+        11.13333,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            45.06667
+        ]
+    }
+}

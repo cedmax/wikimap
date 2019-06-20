@@ -1,0 +1,27 @@
+{
+    "id": "place.11676146311305820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civitella del Tronto",
+    "place_name": "Civitella del Tronto, Teramo, Italy",
+    "bbox": [
+        13.57368,
+        42.729818,
+        13.75939,
+        42.816493
+    ],
+    "center": [
+        13.66659,
+        42.77185
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.66659,
+            42.77185
+        ]
+    }
+}

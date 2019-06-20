@@ -1,0 +1,27 @@
+{
+    "id": "place.12454766348057980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collesano",
+    "place_name": "Collesano, Palermo, Italy",
+    "bbox": [
+        13.826958,
+        37.874764,
+        13.97588,
+        37.991585
+    ],
+    "center": [
+        13.93333,
+        37.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93333,
+            37.91667
+        ]
+    }
+}

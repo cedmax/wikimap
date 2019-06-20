@@ -1,0 +1,27 @@
+{
+    "id": "place.9214458857541880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Apiro",
+    "place_name": "Apiro, Macerata, Italy",
+    "bbox": [
+        13.0522,
+        43.323066,
+        13.161622,
+        43.435792
+    ],
+    "center": [
+        13.13027,
+        43.39306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13027,
+            43.39306
+        ]
+    }
+}

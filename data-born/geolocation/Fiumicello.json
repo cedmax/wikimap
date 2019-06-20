@@ -1,0 +1,21 @@
+{
+    "id": "poi.2405181703401",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Fiumicello",
+    "place_name": "Fiumicello, Fiumicello, Udine 33050, Italy",
+    "center": [
+        13.409631,
+        45.791880000000006
+    ],
+    "geometry": {
+        "coordinates": [
+            13.409631,
+            45.791880000000006
+        ],
+        "type": "Point"
+    }
+}

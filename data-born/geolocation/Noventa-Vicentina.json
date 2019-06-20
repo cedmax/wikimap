@@ -1,0 +1,27 @@
+{
+    "id": "place.7892272737040930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noventa Vicentina",
+    "place_name": "Noventa Vicentina, Vicenza, Italy",
+    "bbox": [
+        11.517284,
+        45.255042,
+        11.61638,
+        45.317695
+    ],
+    "center": [
+        11.53333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.28333
+        ]
+    }
+}

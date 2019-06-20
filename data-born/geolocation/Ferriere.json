@@ -1,0 +1,27 @@
+{
+    "id": "place.8933355448493440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ferriere",
+    "place_name": "Ferriere, Piacenza, Italy",
+    "bbox": [
+        9.385453,
+        44.555625,
+        9.603879,
+        44.699823
+    ],
+    "center": [
+        9.49657,
+        44.64385
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.49657,
+            44.64385
+        ]
+    }
+}

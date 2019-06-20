@@ -1,0 +1,27 @@
+{
+    "id": "place.6079459498559600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perosa Argentina",
+    "place_name": "Perosa Argentina, Torino, Italy",
+    "bbox": [
+        7.137583,
+        44.951956,
+        7.23211,
+        45.007543
+    ],
+    "center": [
+        7.1909,
+        44.9574
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.1909,
+            44.9574
+        ]
+    }
+}

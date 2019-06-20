@@ -1,0 +1,27 @@
+{
+    "id": "place.5652696037562460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Martino in Pensilis",
+    "place_name": "San Martino in Pensilis, Campobasso, Italy",
+    "bbox": [
+        14.935795,
+        41.782476,
+        15.120731,
+        41.913561
+    ],
+    "center": [
+        15.01667,
+        41.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            41.86667
+        ]
+    }
+}

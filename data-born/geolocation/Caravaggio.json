@@ -1,0 +1,27 @@
+{
+    "id": "place.10790971768731430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caravaggio",
+    "place_name": "Caravaggio, Bergamo, Italy",
+    "bbox": [
+        9.612994,
+        45.437085,
+        9.694915,
+        45.534683
+    ],
+    "center": [
+        9.64306,
+        45.49778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.64306,
+            45.49778
+        ]
+    }
+}

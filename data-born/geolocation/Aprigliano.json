@@ -1,0 +1,27 @@
+{
+    "id": "place.11080222091638320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aprigliano",
+    "place_name": "Aprigliano, Cosenza, Italy",
+    "bbox": [
+        16.311203,
+        39.144374,
+        16.599598,
+        39.277717
+    ],
+    "center": [
+        16.35,
+        39.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.35,
+            39.23333
+        ]
+    }
+}

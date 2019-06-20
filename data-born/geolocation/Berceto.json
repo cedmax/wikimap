@@ -1,0 +1,27 @@
+{
+    "id": "place.15851070090523790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Berceto",
+    "place_name": "Berceto, Parma, Italy",
+    "bbox": [
+        9.886768,
+        44.463719,
+        10.071742,
+        44.606372
+    ],
+    "center": [
+        9.99104,
+        44.50899
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.99104,
+            44.50899
+        ]
+    }
+}

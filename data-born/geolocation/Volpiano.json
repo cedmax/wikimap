@@ -1,0 +1,27 @@
+{
+    "id": "place.7024537822310890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volpiano",
+    "place_name": "Volpiano, Torino, Italy",
+    "bbox": [
+        7.734926,
+        45.16266,
+        7.835319,
+        45.221557
+    ],
+    "center": [
+        7.78333,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            45.2
+        ]
+    }
+}

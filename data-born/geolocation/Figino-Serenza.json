@@ -1,0 +1,27 @@
+{
+    "id": "place.7410727802341630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Figino Serenza",
+    "place_name": "Figino Serenza, Como, Italy",
+    "bbox": [
+        9.120373,
+        45.700835,
+        9.153734,
+        45.726967
+    ],
+    "center": [
+        9.13333,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.71667
+        ]
+    }
+}

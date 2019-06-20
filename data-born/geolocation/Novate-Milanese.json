@@ -1,0 +1,27 @@
+{
+    "id": "place.7977063972230990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novate Milanese",
+    "place_name": "Novate Milanese, Milano, Italy",
+    "bbox": [
+        9.121185,
+        45.518062,
+        9.158585,
+        45.545911
+    ],
+    "center": [
+        9.13333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.53333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1334805473667310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pordenone",
+    "place_name": "Pordenone, Pordenone, Italy",
+    "bbox": [
+        12.610684,
+        45.902176,
+        12.702664,
+        46.003302
+    ],
+    "center": [
+        12.6563,
+        45.9626
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6563,
+            45.9626
+        ]
+    }
+}

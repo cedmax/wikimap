@@ -1,0 +1,27 @@
+{
+    "id": "place.10282460698797310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Domodossola",
+    "place_name": "Domodossola, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.19757,
+        46.083004,
+        8.3066,
+        46.177694
+    ],
+    "center": [
+        8.3,
+        46.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.3,
+            46.1
+        ]
+    }
+}

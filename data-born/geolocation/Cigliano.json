@@ -1,0 +1,27 @@
+{
+    "id": "place.13224876185639340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cigliano",
+    "place_name": "Cigliano, Vercelli, Italy",
+    "bbox": [
+        7.980491,
+        45.256131,
+        8.051757,
+        45.320055
+    ],
+    "center": [
+        8.01667,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.01667,
+            45.31667
+        ]
+    }
+}

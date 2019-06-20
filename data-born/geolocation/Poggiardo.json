@@ -1,0 +1,27 @@
+{
+    "id": "place.7409542455470920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggiardo",
+    "place_name": "Poggiardo, Lecce, Italy",
+    "bbox": [
+        18.354428,
+        40.033911,
+        18.419667,
+        40.08544
+    ],
+    "center": [
+        18.38333,
+        40.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.38333,
+            40.05
+        ]
+    }
+}

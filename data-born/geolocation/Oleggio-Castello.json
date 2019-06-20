@@ -1,0 +1,27 @@
+{
+    "id": "place.2309195056198810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oleggio Castello",
+    "place_name": "Oleggio Castello, Novara, Italy",
+    "bbox": [
+        8.514544,
+        45.726331,
+        8.547,
+        45.768725
+    ],
+    "center": [
+        8.52833,
+        45.74972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.52833,
+            45.74972
+        ]
+    }
+}

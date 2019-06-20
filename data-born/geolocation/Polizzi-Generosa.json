@@ -1,0 +1,27 @@
+{
+    "id": "place.11349450849327650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polizzi Generosa",
+    "place_name": "Polizzi Generosa, Palermo, Italy",
+    "bbox": [
+        13.868665,
+        37.670488,
+        14.044828,
+        37.880362
+    ],
+    "center": [
+        13.99917,
+        37.81194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.99917,
+            37.81194
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2207613260440",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Roseto Capo Spulico",
+    "place_name": "Roseto Capo Spulico, Roseto Capo Spulico, Cosenza 87070, Italy",
+    "center": [
+        16.617909,
+        39.975838
+    ],
+    "geometry": {
+        "coordinates": [
+            16.617909,
+            39.975838
+        ],
+        "type": "Point"
+    }
+}

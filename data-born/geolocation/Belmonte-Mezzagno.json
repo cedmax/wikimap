@@ -1,0 +1,27 @@
+{
+    "id": "place.7740574829123200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belmonte Mezzagno",
+    "place_name": "Belmonte Mezzagno, Palermo, Italy",
+    "bbox": [
+        13.349091,
+        38.002626,
+        13.428314,
+        38.072204
+    ],
+    "center": [
+        13.38333,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38333,
+            38.05
+        ]
+    }
+}

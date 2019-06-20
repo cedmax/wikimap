@@ -1,0 +1,27 @@
+{
+    "id": "place.5568508751565890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassano Magnago",
+    "place_name": "Cassano Magnago, Varese, Italy",
+    "bbox": [
+        8.804912,
+        45.638058,
+        8.850772,
+        45.70694
+    ],
+    "center": [
+        8.83333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.68333
+        ]
+    }
+}

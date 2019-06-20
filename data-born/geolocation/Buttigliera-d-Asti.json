@@ -1,0 +1,27 @@
+{
+    "id": "place.11144413570056220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buttigliera d'Asti",
+    "place_name": "Buttigliera d'Asti, Asti, Italy",
+    "bbox": [
+        7.915947,
+        44.983955,
+        7.995496,
+        45.029616
+    ],
+    "center": [
+        7.95222,
+        45.02278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95222,
+            45.02278
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7708609942570790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Petilia Policastro",
+    "place_name": "Petilia Policastro, Crotone, Italy",
+    "bbox": [
+        16.668602,
+        39.047585,
+        16.908483,
+        39.162358
+    ],
+    "center": [
+        16.78333,
+        39.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.11667
+        ]
+    }
+}

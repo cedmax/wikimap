@@ -1,0 +1,27 @@
+{
+    "id": "place.13470859771158730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peccioli",
+    "place_name": "Peccioli, Pisa, Italy",
+    "bbox": [
+        10.686049,
+        43.476881,
+        10.848661,
+        43.582887
+    ],
+    "center": [
+        10.71667,
+        43.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.71667,
+            43.55
+        ]
+    }
+}

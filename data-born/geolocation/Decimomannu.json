@@ -1,0 +1,27 @@
+{
+    "id": "place.9168274836338080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Decimomannu",
+    "place_name": "Decimomannu, Cagliari, Italy",
+    "bbox": [
+        8.85169,
+        39.230671,
+        9.006513,
+        39.344165
+    ],
+    "center": [
+        8.96667,
+        39.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.96667,
+            39.31667
+        ]
+    }
+}

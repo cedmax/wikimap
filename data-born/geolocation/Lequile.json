@@ -1,0 +1,27 @@
+{
+    "id": "place.15955953320194490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lequile",
+    "place_name": "Lequile, Lecce, Italy",
+    "bbox": [
+        18.086517,
+        40.23617,
+        18.173042,
+        40.329704
+    ],
+    "center": [
+        18.13333,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.13333,
+            40.3
+        ]
+    }
+}

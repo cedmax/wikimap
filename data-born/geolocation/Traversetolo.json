@@ -1,0 +1,27 @@
+{
+    "id": "place.3881454096968050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Traversetolo",
+    "place_name": "Traversetolo, Parma, Italy",
+    "bbox": [
+        10.321321,
+        44.585662,
+        10.417492,
+        44.68434
+    ],
+    "center": [
+        10.38175,
+        44.63994
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.38175,
+            44.63994
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.17392171845819570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serina",
+    "place_name": "Serina, Bergamo, Italy",
+    "bbox": [
+        9.696212,
+        45.839176,
+        9.777709,
+        45.932669
+    ],
+    "center": [
+        9.73333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.73333,
+            45.86667
+        ]
+    }
+}

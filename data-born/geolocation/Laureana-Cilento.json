@@ -1,0 +1,27 @@
+{
+    "id": "place.15296956165668230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laureana Cilento",
+    "place_name": "Laureana Cilento, Salerno, Italy",
+    "bbox": [
+        14.98471,
+        40.28578,
+        15.054498,
+        40.327587
+    ],
+    "center": [
+        15.03333,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.03333,
+            40.3
+        ]
+    }
+}

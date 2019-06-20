@@ -1,0 +1,27 @@
+{
+    "id": "place.16872534543291510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzomaggiore",
+    "place_name": "Pozzomaggiore, Sassari, Italy",
+    "bbox": [
+        8.569343,
+        40.296594,
+        8.699381,
+        40.437952
+    ],
+    "center": [
+        8.66667,
+        40.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            40.4
+        ]
+    }
+}

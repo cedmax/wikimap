@@ -1,0 +1,27 @@
+{
+    "id": "place.10917880173523650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frascarolo",
+    "place_name": "Frascarolo, Pavia, Italy",
+    "bbox": [
+        8.63772,
+        45.011921,
+        8.745406,
+        45.068252
+    ],
+    "center": [
+        8.68333,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.68333,
+            45.05
+        ]
+    }
+}

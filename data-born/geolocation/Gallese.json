@@ -1,0 +1,27 @@
+{
+    "id": "place.12004951449392110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallese",
+    "place_name": "Gallese, Viterbo, Italy",
+    "bbox": [
+        12.31624,
+        42.348023,
+        12.488425,
+        42.403427
+    ],
+    "center": [
+        12.39972,
+        42.37444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.39972,
+            42.37444
+        ]
+    }
+}

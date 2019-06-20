@@ -1,0 +1,27 @@
+{
+    "id": "place.7489440073464170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polesella",
+    "place_name": "Polesella, Rovigo, Italy",
+    "bbox": [
+        11.702962,
+        44.940199,
+        11.771931,
+        44.99874
+    ],
+    "center": [
+        11.75,
+        44.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75,
+            44.96667
+        ]
+    }
+}

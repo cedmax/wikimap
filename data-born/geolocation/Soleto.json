@@ -1,0 +1,27 @@
+{
+    "id": "place.9823202211469150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soleto",
+    "place_name": "Soleto, Lecce, Italy",
+    "bbox": [
+        18.156136,
+        40.158095,
+        18.242095,
+        40.244117
+    ],
+    "center": [
+        18.20736,
+        40.18772
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.20736,
+            40.18772
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9812984002762370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ghilarza",
+    "place_name": "Ghilarza, Oristano, Italy",
+    "bbox": [
+        8.788313,
+        40.038278,
+        8.909816,
+        40.145725
+    ],
+    "center": [
+        8.835,
+        40.12
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.835,
+            40.12
+        ]
+    }
+}

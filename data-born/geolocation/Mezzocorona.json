@@ -1,0 +1,27 @@
+{
+    "id": "place.15173055382735540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzocorona",
+    "place_name": "Mezzocorona, Trento, Italy",
+    "bbox": [
+        11.071182,
+        46.196631,
+        11.180547,
+        46.258752
+    ],
+    "center": [
+        11.11667,
+        46.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            46.21667
+        ]
+    }
+}

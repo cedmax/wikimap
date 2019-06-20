@@ -1,0 +1,27 @@
+{
+    "id": "place.7986871874123720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossano",
+    "place_name": "Fossano, Cuneo, Italy",
+    "bbox": [
+        7.578197,
+        44.455309,
+        7.801671,
+        44.616565
+    ],
+    "center": [
+        7.73333,
+        44.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.73333,
+            44.55
+        ]
+    }
+}

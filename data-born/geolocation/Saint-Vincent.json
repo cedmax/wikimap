@@ -1,0 +1,27 @@
+{
+    "id": "place.7882320647801180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Saint-Vincent",
+    "place_name": "Saint-Vincent, Valle D'Aosta, Italy",
+    "bbox": [
+        7.63118,
+        45.734052,
+        7.715704,
+        45.786596
+    ],
+    "center": [
+        7.65,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65,
+            45.75
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16800938642950140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sutera",
+    "place_name": "Sutera, Caltanissetta, Italy",
+    "bbox": [
+        13.689176,
+        37.477444,
+        13.78834,
+        37.561199
+    ],
+    "center": [
+        13.73528,
+        37.5244
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.73528,
+            37.5244
+        ]
+    }
+}

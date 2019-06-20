@@ -1,0 +1,27 @@
+{
+    "id": "place.16634956624726490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arzignano",
+    "place_name": "Arzignano, Vicenza, Italy",
+    "bbox": [
+        11.284582,
+        45.496194,
+        11.381766,
+        45.560431
+    ],
+    "center": [
+        11.33972,
+        45.52028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.33972,
+            45.52028
+        ]
+    }
+}

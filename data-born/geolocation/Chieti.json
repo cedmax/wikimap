@@ -1,0 +1,27 @@
+{
+    "id": "place.11049235337126690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chieti",
+    "place_name": "Chieti, Chieti, Italy",
+    "bbox": [
+        14.081489,
+        42.316162,
+        14.229003,
+        42.419176
+    ],
+    "center": [
+        14.16743,
+        42.35111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.16743,
+            42.35111
+        ]
+    }
+}

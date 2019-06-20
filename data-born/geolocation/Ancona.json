@@ -1,0 +1,27 @@
+{
+    "id": "place.8575271474640810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ancona",
+    "place_name": "Ancona, Ancona, Italy",
+    "bbox": [
+        13.376535,
+        43.508321,
+        13.609217,
+        43.63153
+    ],
+    "center": [
+        13.51667,
+        43.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.51667,
+            43.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16008883692147080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formazza",
+    "place_name": "Formazza, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.288934,
+        46.319469,
+        8.471154,
+        46.464223
+    ],
+    "center": [
+        8.43333,
+        46.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43333,
+            46.38333
+        ]
+    }
+}

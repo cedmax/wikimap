@@ -1,0 +1,27 @@
+{
+    "id": "place.13118080707240980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limone Piemonte",
+    "place_name": "Limone Piemonte, Cuneo, Italy",
+    "bbox": [
+        7.498793,
+        44.137729,
+        7.632387,
+        44.242979
+    ],
+    "center": [
+        7.56667,
+        44.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.56667,
+            44.2
+        ]
+    }
+}

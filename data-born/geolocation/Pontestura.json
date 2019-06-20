@@ -1,0 +1,27 @@
+{
+    "id": "place.16007669084379490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontestura",
+    "place_name": "Pontestura, Alessandria, Italy",
+    "bbox": [
+        8.297259,
+        45.110636,
+        8.362817,
+        45.158448
+    ],
+    "center": [
+        8.33417,
+        45.14333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.33417,
+            45.14333
+        ]
+    }
+}

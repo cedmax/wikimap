@@ -1,0 +1,27 @@
+{
+    "id": "place.4841061302315400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fontanellato",
+    "place_name": "Fontanellato, Parma, Italy",
+    "bbox": [
+        10.102042,
+        44.838769,
+        10.246368,
+        44.922534
+    ],
+    "center": [
+        10.15583,
+        44.8825
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.15583,
+            44.8825
+        ]
+    }
+}

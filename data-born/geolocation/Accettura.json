@@ -1,0 +1,27 @@
+{
+    "id": "place.10503389815992490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Accettura",
+    "place_name": "Accettura, Matera, Italy",
+    "bbox": [
+        16.075642,
+        40.429471,
+        16.229391,
+        40.560345
+    ],
+    "center": [
+        16.15,
+        40.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            40.48333
+        ]
+    }
+}

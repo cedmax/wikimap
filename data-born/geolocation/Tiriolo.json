@@ -1,0 +1,27 @@
+{
+    "id": "place.10568065372333420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tiriolo",
+    "place_name": "Tiriolo, Catanzaro, Italy",
+    "bbox": [
+        16.48047,
+        38.89214,
+        16.557629,
+        38.976158
+    ],
+    "center": [
+        16.5,
+        38.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.5,
+            38.95
+        ]
+    }
+}

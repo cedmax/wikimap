@@ -1,0 +1,21 @@
+{
+    "id": "address.1053864549",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "via Valle Intelvi",
+    "place_name": "via Valle Intelvi, 22010 Argegno Como, Italy",
+    "center": [
+        9.127005,
+        45.945901
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.127005,
+            45.945901
+        ]
+    }
+}

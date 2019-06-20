@@ -1,0 +1,27 @@
+{
+    "id": "place.5893761298900010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarzana",
+    "place_name": "Sarzana, La Spezia, Italy",
+    "bbox": [
+        9.932276,
+        44.044374,
+        10.026661,
+        44.16924
+    ],
+    "center": [
+        9.95996,
+        44.11361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95996,
+            44.11361
+        ]
+    }
+}

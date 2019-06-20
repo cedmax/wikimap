@@ -1,0 +1,27 @@
+{
+    "id": "place.8221178626710710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lipari",
+    "place_name": "Lipari, Messina, Italy",
+    "bbox": [
+        14.339126,
+        38.366612,
+        15.243085,
+        38.812015
+    ],
+    "center": [
+        14.95,
+        38.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.95,
+            38.46667
+        ]
+    }
+}

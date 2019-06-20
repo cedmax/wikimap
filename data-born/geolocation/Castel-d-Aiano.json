@@ -1,0 +1,27 @@
+{
+    "id": "place.13658769100607810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel d'Aiano",
+    "place_name": "Castel d'Aiano, Bologna, Italy",
+    "bbox": [
+        10.948926,
+        44.246085,
+        11.087661,
+        44.323016
+    ],
+    "center": [
+        11.00028,
+        44.27667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.00028,
+            44.27667
+        ]
+    }
+}

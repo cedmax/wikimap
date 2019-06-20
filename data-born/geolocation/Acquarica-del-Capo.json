@@ -1,0 +1,27 @@
+{
+    "id": "place.7643419590235710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acquarica del Capo",
+    "place_name": "Acquarica del Capo, Lecce, Italy",
+    "bbox": [
+        18.200008,
+        39.887748,
+        18.276425,
+        39.931842
+    ],
+    "center": [
+        18.25,
+        39.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.25,
+            39.91667
+        ]
+    }
+}

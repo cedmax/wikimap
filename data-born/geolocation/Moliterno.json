@@ -1,0 +1,27 @@
+{
+    "id": "place.10075327167896360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moliterno",
+    "place_name": "Moliterno, Potenza, Italy",
+    "bbox": [
+        15.78746,
+        40.144079,
+        15.922006,
+        40.283088
+    ],
+    "center": [
+        15.86,
+        40.24
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.86,
+            40.24
+        ]
+    }
+}

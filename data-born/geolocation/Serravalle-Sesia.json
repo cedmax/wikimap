@@ -1,0 +1,27 @@
+{
+    "id": "place.12200740997263900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serravalle Sesia",
+    "place_name": "Serravalle Sesia, Vercelli, Italy",
+    "bbox": [
+        8.266902,
+        45.642257,
+        8.355104,
+        45.698741
+    ],
+    "center": [
+        8.31667,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31667,
+            45.68333
+        ]
+    }
+}

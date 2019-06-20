@@ -1,0 +1,27 @@
+{
+    "id": "place.7480382347559160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Albiano",
+    "place_name": "Albiano, Trento, Italy",
+    "bbox": [
+        11.162327,
+        46.124802,
+        11.212476,
+        46.157542
+    ],
+    "center": [
+        11.2,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            46.15
+        ]
+    }
+}

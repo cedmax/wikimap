@@ -1,0 +1,27 @@
+{
+    "id": "place.3802694323504980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moncalvo",
+    "place_name": "Moncalvo, Asti, Italy",
+    "bbox": [
+        8.226197,
+        45.017134,
+        8.311829,
+        45.077189
+    ],
+    "center": [
+        8.26639,
+        45.05111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.26639,
+            45.05111
+        ]
+    }
+}

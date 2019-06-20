@@ -1,0 +1,27 @@
+{
+    "id": "place.11928199750316740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pegognaga",
+    "place_name": "Pegognaga, Mantova, Italy",
+    "bbox": [
+        10.795493,
+        44.966155,
+        10.923788,
+        45.033595
+    ],
+    "center": [
+        10.85,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            45
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12684414692375210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buggerru",
+    "place_name": "Buggerru, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.37867,
+        39.366295,
+        8.488976,
+        39.448397
+    ],
+    "center": [
+        8.4,
+        39.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4,
+            39.4
+        ]
+    }
+}

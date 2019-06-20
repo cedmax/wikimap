@@ -1,0 +1,27 @@
+{
+    "id": "place.1223806368297390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cagli",
+    "place_name": "Cagli, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.501421,
+        43.469892,
+        12.810816,
+        43.6477
+    ],
+    "center": [
+        12.6473,
+        43.547
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6473,
+            43.547
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2411766533765270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serre",
+    "place_name": "Serre, Salerno, Italy",
+    "bbox": [
+        15.020192,
+        40.51008,
+        15.203925,
+        40.615526
+    ],
+    "center": [
+        15.18333,
+        40.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.18333,
+            40.58333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6333257346378700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Prarolo",
+    "place_name": "Prarolo, Vercelli, Italy",
+    "bbox": [
+        8.446306,
+        45.261246,
+        8.517025,
+        45.296101
+    ],
+    "center": [
+        8.48333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48333,
+            45.28333
+        ]
+    }
+}

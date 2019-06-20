@@ -1,0 +1,27 @@
+{
+    "id": "place.6163711314343400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orune",
+    "place_name": "Orune, Nuoro, Italy",
+    "bbox": [
+        9.225028,
+        40.363658,
+        9.436608,
+        40.47656
+    ],
+    "center": [
+        9.36667,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            40.41667
+        ]
+    }
+}

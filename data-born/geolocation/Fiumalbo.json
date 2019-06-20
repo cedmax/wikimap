@@ -1,0 +1,27 @@
+{
+    "id": "place.1365643911461450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiumalbo",
+    "place_name": "Fiumalbo, Modena, Italy",
+    "bbox": [
+        10.600638,
+        44.1182,
+        10.713018,
+        44.202729
+    ],
+    "center": [
+        10.6482,
+        44.1802
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6482,
+            44.1802
+        ]
+    }
+}

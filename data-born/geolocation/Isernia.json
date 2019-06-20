@@ -1,0 +1,27 @@
+{
+    "id": "place.13813017403087920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isernia",
+    "place_name": "Isernia, Isernia, Italy",
+    "bbox": [
+        14.161708,
+        41.549844,
+        14.276421,
+        41.67559
+    ],
+    "center": [
+        14.23528,
+        41.59694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.23528,
+            41.59694
+        ]
+    }
+}

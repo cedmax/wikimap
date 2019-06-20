@@ -1,0 +1,27 @@
+{
+    "id": "place.9753268412635680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelli Calepio",
+    "place_name": "Castelli Calepio, Bergamo, Italy",
+    "bbox": [
+        9.870176,
+        45.602325,
+        9.927356,
+        45.66088
+    ],
+    "center": [
+        9.9,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9,
+            45.63333
+        ]
+    }
+}

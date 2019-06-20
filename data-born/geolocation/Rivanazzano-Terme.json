@@ -1,0 +1,27 @@
+{
+    "id": "place.14647967040296720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivanazzano Terme",
+    "place_name": "Rivanazzano Terme, Pavia, Italy",
+    "bbox": [
+        8.969741,
+        44.899824,
+        9.076737,
+        44.967216
+    ],
+    "center": [
+        9.01667,
+        44.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01667,
+            44.93333
+        ]
+    }
+}

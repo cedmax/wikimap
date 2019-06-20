@@ -1,0 +1,27 @@
+{
+    "id": "place.6536980135522450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gardone Riviera",
+    "place_name": "Gardone Riviera, Brescia, Italy",
+    "bbox": [
+        10.532262,
+        45.603499,
+        10.633107,
+        45.676636
+    ],
+    "center": [
+        10.56667,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.56667,
+            45.61667
+        ]
+    }
+}

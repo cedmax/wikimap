@@ -1,0 +1,27 @@
+{
+    "id": "place.6923130622896060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pedace",
+    "place_name": "Pedace, Cosenza, Italy",
+    "bbox": [
+        16.319081,
+        39.235365,
+        16.550149,
+        39.295257
+    ],
+    "center": [
+        16.33333,
+        39.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.26667
+        ]
+    }
+}

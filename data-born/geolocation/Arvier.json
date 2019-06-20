@@ -1,0 +1,27 @@
+{
+    "id": "place.11054839212618950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arvier",
+    "place_name": "Arvier, Valle D'Aosta, Italy",
+    "bbox": [
+        7.022635,
+        45.629764,
+        7.187913,
+        45.709448
+    ],
+    "center": [
+        7.16667,
+        45.70306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.16667,
+            45.70306
+        ]
+    }
+}

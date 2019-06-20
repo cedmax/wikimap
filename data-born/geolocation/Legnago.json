@@ -1,0 +1,27 @@
+{
+    "id": "place.11076009444524040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Legnago",
+    "place_name": "Legnago, Verona, Italy",
+    "bbox": [
+        11.243878,
+        45.079445,
+        11.366881,
+        45.229999
+    ],
+    "center": [
+        11.31148,
+        45.19287
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31148,
+            45.19287
+        ]
+    }
+}

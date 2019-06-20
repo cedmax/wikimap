@@ -1,0 +1,27 @@
+{
+    "id": "place.9298966007738070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria di Licodia",
+    "place_name": "Santa Maria di Licodia, Catania, Italy",
+    "bbox": [
+        14.851973,
+        37.588033,
+        14.941015,
+        37.677974
+    ],
+    "center": [
+        14.9,
+        37.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.9,
+            37.61667
+        ]
+    }
+}

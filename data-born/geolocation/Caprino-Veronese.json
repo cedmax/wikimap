@@ -1,0 +1,21 @@
+{
+    "id": "poi.2525440775258",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Caprino Veronese",
+    "place_name": "Caprino Veronese, Caprino Veronese, Verona 37013, Italy",
+    "center": [
+        10.795012,
+        45.605433500000004
+    ],
+    "geometry": {
+        "coordinates": [
+            10.795012,
+            45.605433500000004
+        ],
+        "type": "Point"
+    }
+}

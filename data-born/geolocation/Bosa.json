@@ -1,0 +1,27 @@
+{
+    "id": "place.15435269567650440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bosa",
+    "place_name": "Bosa, Oristano, Italy",
+    "bbox": [
+        8.378407,
+        40.262074,
+        8.575945,
+        40.407493
+    ],
+    "center": [
+        8.49779,
+        40.29896
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.49779,
+            40.29896
+        ]
+    }
+}

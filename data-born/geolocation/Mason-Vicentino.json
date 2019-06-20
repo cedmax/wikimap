@@ -1,0 +1,27 @@
+{
+    "id": "place.13637922494494240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mason Vicentino",
+    "place_name": "Mason Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.586546,
+        45.689945,
+        11.649832,
+        45.732549
+    ],
+    "center": [
+        11.6,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            45.71667
+        ]
+    }
+}

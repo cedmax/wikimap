@@ -1,0 +1,27 @@
+{
+    "id": "place.6975307695755830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cropani",
+    "place_name": "Cropani, Catanzaro, Italy",
+    "bbox": [
+        16.733645,
+        38.903687,
+        16.836108,
+        39.004008
+    ],
+    "center": [
+        16.78333,
+        38.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            38.96667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1786706428511",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Carate Urio",
+    "place_name": "Carate Urio, Carate Urio, Como 22010, Italy",
+    "center": [
+        9.123503,
+        45.8724105
+    ],
+    "geometry": {
+        "coordinates": [
+            9.123503,
+            45.8724105
+        ],
+        "type": "Point"
+    }
+}

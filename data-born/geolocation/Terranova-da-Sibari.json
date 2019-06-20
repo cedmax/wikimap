@@ -1,0 +1,27 @@
+{
+    "id": "place.2449130048889560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terranova da Sibari",
+    "place_name": "Terranova da Sibari, Cosenza, Italy",
+    "bbox": [
+        16.303116,
+        39.621663,
+        16.421375,
+        39.708391
+    ],
+    "center": [
+        16.33333,
+        39.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.65
+        ]
+    }
+}

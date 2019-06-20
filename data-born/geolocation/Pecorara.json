@@ -1,0 +1,27 @@
+{
+    "id": "place.6304940412803350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pecorara",
+    "place_name": "Pecorara, Piacenza, Italy",
+    "bbox": [
+        9.314491,
+        44.822457,
+        9.448558,
+        44.917956
+    ],
+    "center": [
+        9.38333,
+        44.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38333,
+            44.88333
+        ]
+    }
+}

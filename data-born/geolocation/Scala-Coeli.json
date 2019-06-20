@@ -1,0 +1,27 @@
+{
+    "id": "place.9652619010132330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scala Coeli",
+    "place_name": "Scala Coeli, Cosenza, Italy",
+    "bbox": [
+        16.837939,
+        39.394196,
+        16.958586,
+        39.524814
+    ],
+    "center": [
+        16.88333,
+        39.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.88333,
+            39.45
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13135389142340050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novellara",
+    "place_name": "Novellara, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.652634,
+        44.791803,
+        10.778718,
+        44.897339
+    ],
+    "center": [
+        10.73333,
+        44.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            44.85
+        ]
+    }
+}

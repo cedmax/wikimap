@@ -1,0 +1,27 @@
+{
+    "id": "place.10141053731826740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito dei Normanni",
+    "place_name": "San Vito dei Normanni, Brindisi, Italy",
+    "bbox": [
+        17.634424,
+        40.58713,
+        17.766985,
+        40.695018
+    ],
+    "center": [
+        17.70361,
+        40.65556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.70361,
+            40.65556
+        ]
+    }
+}

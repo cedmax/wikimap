@@ -1,0 +1,29 @@
+{
+    "id": "place.8517616269450430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Glorenza - Glurns",
+    "place_name": "Glorenza - Glurns, Bolzano, Italy",
+    "matching_text": "Glorenza",
+    "matching_place_name": "Glorenza, Bolzano, Italy",
+    "bbox": [
+        10.509887,
+        46.634711,
+        10.575288,
+        46.681558
+    ],
+    "center": [
+        10.55,
+        46.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            46.66667
+        ]
+    }
+}

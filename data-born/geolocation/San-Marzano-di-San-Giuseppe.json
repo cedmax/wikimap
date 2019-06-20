@@ -1,0 +1,27 @@
+{
+    "id": "place.11429206443323400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marzano di San Giuseppe",
+    "place_name": "San Marzano di San Giuseppe, Taranto, Italy",
+    "bbox": [
+        17.470545,
+        40.424685,
+        17.543746,
+        40.481759
+    ],
+    "center": [
+        17.5,
+        40.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.5,
+            40.45
+        ]
+    }
+}

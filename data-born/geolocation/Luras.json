@@ -1,0 +1,27 @@
+{
+    "id": "place.10394147409761390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Luras",
+    "place_name": "Luras, Olbia-Tempio, Italy",
+    "bbox": [
+        9.118143,
+        40.921763,
+        9.285798,
+        41.025647
+    ],
+    "center": [
+        9.17472,
+        40.93583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.17472,
+            40.93583
+        ]
+    }
+}

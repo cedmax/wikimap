@@ -1,0 +1,27 @@
+{
+    "id": "place.2414264357620180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cariati",
+    "place_name": "Cariati, Cosenza, Italy",
+    "bbox": [
+        16.900243,
+        39.46253,
+        17.023899,
+        39.518105
+    ],
+    "center": [
+        16.95,
+        39.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.95,
+            39.5
+        ]
+    }
+}

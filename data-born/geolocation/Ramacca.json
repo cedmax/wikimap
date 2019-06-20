@@ -1,0 +1,27 @@
+{
+    "id": "place.12117731416373210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ramacca",
+    "place_name": "Ramacca, Catania, Italy",
+    "bbox": [
+        14.533382,
+        37.355933,
+        14.887794,
+        37.5488
+    ],
+    "center": [
+        14.7,
+        37.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.7,
+            37.38333
+        ]
+    }
+}

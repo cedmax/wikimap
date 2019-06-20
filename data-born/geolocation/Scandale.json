@@ -1,0 +1,27 @@
+{
+    "id": "place.9526166130193960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scandale",
+    "place_name": "Scandale, Crotone, Italy",
+    "bbox": [
+        16.942987,
+        39.087031,
+        17.052273,
+        39.179098
+    ],
+    "center": [
+        16.96667,
+        39.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.96667,
+            39.11667
+        ]
+    }
+}

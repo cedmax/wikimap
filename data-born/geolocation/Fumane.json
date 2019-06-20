@@ -1,0 +1,27 @@
+{
+    "id": "place.8831261816291690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fumane",
+    "place_name": "Fumane, Verona, Italy",
+    "bbox": [
+        10.856133,
+        45.525165,
+        10.932179,
+        45.636651
+    ],
+    "center": [
+        10.88333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.88333,
+            45.55
+        ]
+    }
+}

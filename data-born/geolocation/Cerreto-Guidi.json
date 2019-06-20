@@ -1,0 +1,27 @@
+{
+    "id": "place.1596915379883990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerreto Guidi",
+    "place_name": "Cerreto Guidi, Firenze, Italy",
+    "bbox": [
+        10.808996,
+        43.712764,
+        10.906973,
+        43.802616
+    ],
+    "center": [
+        10.8771,
+        43.7617
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.8771,
+            43.7617
+        ]
+    }
+}

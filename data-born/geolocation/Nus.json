@@ -1,0 +1,27 @@
+{
+    "id": "place.7681814303071690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nus",
+    "place_name": "Nus, Valle D'Aosta, Italy",
+    "bbox": [
+        7.429772,
+        45.735069,
+        7.547045,
+        45.879238
+    ],
+    "center": [
+        7.46667,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.46667,
+            45.73333
+        ]
+    }
+}

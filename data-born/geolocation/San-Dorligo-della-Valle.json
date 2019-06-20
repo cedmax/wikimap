@@ -1,0 +1,27 @@
+{
+    "id": "place.2777401555200370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Dorligo della Valle-Dolina",
+    "place_name": "San Dorligo della Valle-Dolina, Trieste, Italy",
+    "bbox": [
+        13.808727,
+        45.58157,
+        13.919046,
+        45.643398
+    ],
+    "center": [
+        13.85778,
+        45.6225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85778,
+            45.6225
+        ]
+    }
+}

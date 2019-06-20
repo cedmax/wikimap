@@ -1,0 +1,27 @@
+{
+    "id": "place.10622220162186780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marzabotto",
+    "place_name": "Marzabotto, Bologna, Italy",
+    "bbox": [
+        11.123875,
+        44.281541,
+        11.282346,
+        44.38621
+    ],
+    "center": [
+        11.2,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2,
+            44.33333
+        ]
+    }
+}

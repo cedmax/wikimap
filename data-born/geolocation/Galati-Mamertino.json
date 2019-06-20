@@ -1,0 +1,27 @@
+{
+    "id": "place.9357348559546460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galati Mamertino",
+    "place_name": "Galati Mamertino, Messina, Italy",
+    "bbox": [
+        14.755447,
+        37.96215,
+        14.838126,
+        38.052345
+    ],
+    "center": [
+        14.76667,
+        38.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.76667,
+            38.03333
+        ]
+    }
+}

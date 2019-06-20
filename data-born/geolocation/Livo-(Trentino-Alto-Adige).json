@@ -1,0 +1,27 @@
+{
+    "id": "place.10234335533894570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Livo",
+    "place_name": "Livo, Trento, Italy",
+    "bbox": [
+        10.967258,
+        46.39023,
+        11.035084,
+        46.445306
+    ],
+    "center": [
+        11.01667,
+        46.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            46.4
+        ]
+    }
+}

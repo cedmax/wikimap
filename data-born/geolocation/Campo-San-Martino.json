@@ -1,0 +1,21 @@
+{
+    "id": "poi.2070174309111",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Campo San Martino",
+    "place_name": "Campo San Martino, Venezia, Venezia 30122, Italy",
+    "center": [
+        12.348948,
+        45.434742
+    ],
+    "geometry": {
+        "coordinates": [
+            12.348948,
+            45.434742
+        ],
+        "type": "Point"
+    }
+}

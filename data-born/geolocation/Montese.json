@@ -1,0 +1,27 @@
+{
+    "id": "place.6222230935209900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montese",
+    "place_name": "Montese, Modena, Italy",
+    "bbox": [
+        10.855499,
+        44.205491,
+        11.006723,
+        44.325444
+    ],
+    "center": [
+        10.94583,
+        44.26944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.94583,
+            44.26944
+        ]
+    }
+}

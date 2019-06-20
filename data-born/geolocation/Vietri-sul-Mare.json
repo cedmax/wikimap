@@ -1,0 +1,21 @@
+{
+    "id": "poi.2911987834532",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Vietri sul Mare",
+    "place_name": "Vietri sul Mare, Vietri sul Mare, Salerno 84019, Italy",
+    "center": [
+        14.72650775,
+        40.671465749999996
+    ],
+    "geometry": {
+        "coordinates": [
+            14.72650775,
+            40.671465749999996
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14609682207927100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Silea",
+    "place_name": "Silea, Treviso, Italy",
+    "bbox": [
+        12.278975,
+        45.605417,
+        12.367121,
+        45.676791
+    ],
+    "center": [
+        12.29667,
+        45.65472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.29667,
+            45.65472
+        ]
+    }
+}

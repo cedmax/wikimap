@@ -1,0 +1,27 @@
+{
+    "id": "place.3260503089364830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalbuttano ed Uniti",
+    "place_name": "Casalbuttano ed Uniti, Cremona, Italy",
+    "bbox": [
+        9.928158,
+        45.20921,
+        10.004446,
+        45.282168
+    ],
+    "center": [
+        9.96667,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96667,
+            45.25
+        ]
+    }
+}

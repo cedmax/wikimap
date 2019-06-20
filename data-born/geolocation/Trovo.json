@@ -1,0 +1,27 @@
+{
+    "id": "place.8269501247228760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trovo",
+    "place_name": "Trovo, Pavia, Italy",
+    "bbox": [
+        9.014845,
+        45.270601,
+        9.067849,
+        45.30646
+    ],
+    "center": [
+        9.03333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.28333
+        ]
+    }
+}

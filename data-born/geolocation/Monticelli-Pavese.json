@@ -1,0 +1,27 @@
+{
+    "id": "place.12186013028361100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monticelli Pavese",
+    "place_name": "Monticelli Pavese, Pavia, Italy",
+    "bbox": [
+        9.470061,
+        45.079676,
+        9.551798,
+        45.133352
+    ],
+    "center": [
+        9.51667,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.51667,
+            45.11667
+        ]
+    }
+}

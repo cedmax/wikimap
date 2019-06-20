@@ -1,0 +1,27 @@
+{
+    "id": "place.2998960546621020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anghiari",
+    "place_name": "Anghiari, Arezzo, Italy",
+    "bbox": [
+        11.925032,
+        43.445691,
+        12.104957,
+        43.614855
+    ],
+    "center": [
+        12.055,
+        43.54167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.055,
+            43.54167
+        ]
+    }
+}

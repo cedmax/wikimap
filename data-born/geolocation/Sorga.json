@@ -1,0 +1,27 @@
+{
+    "id": "place.6984386914717500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorgà",
+    "place_name": "Sorgà, Verona, Italy",
+    "bbox": [
+        10.929957,
+        45.148441,
+        11.039886,
+        45.238474
+    ],
+    "center": [
+        10.98333,
+        45.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.98333,
+            45.21667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12419414207296090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cittiglio",
+    "place_name": "Cittiglio, Varese, Italy",
+    "bbox": [
+        8.642246,
+        45.886463,
+        8.681947,
+        45.927745
+    ],
+    "center": [
+        8.66667,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            45.9
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10781296994993800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Millesimo",
+    "place_name": "Millesimo, Savona, Italy",
+    "bbox": [
+        8.178139,
+        44.316976,
+        8.229673,
+        44.380015
+    ],
+    "center": [
+        8.20594,
+        44.3644
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.20594,
+            44.3644
+        ]
+    }
+}

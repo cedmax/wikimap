@@ -1,0 +1,21 @@
+{
+    "id": "poi.3375844339368",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Santopadre",
+    "place_name": "Santopadre, Via Collina, 18, Roma, Roma 00187, Italy",
+    "center": [
+        12.497681,
+        41.908022
+    ],
+    "geometry": {
+        "coordinates": [
+            12.497681,
+            41.908022
+        ],
+        "type": "Point"
+    }
+}

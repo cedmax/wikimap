@@ -1,0 +1,27 @@
+{
+    "id": "place.1589403146753040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ginosa",
+    "place_name": "Ginosa, Taranto, Italy",
+    "bbox": [
+        16.705968,
+        40.398201,
+        16.909925,
+        40.604946
+    ],
+    "center": [
+        16.75,
+        40.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.75,
+            40.5
+        ]
+    }
+}

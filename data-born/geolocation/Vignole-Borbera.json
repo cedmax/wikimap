@@ -1,0 +1,27 @@
+{
+    "id": "place.10408621265437370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vignole Borbera",
+    "place_name": "Vignole Borbera, Alessandria, Italy",
+    "bbox": [
+        8.871103,
+        44.697708,
+        8.932982,
+        44.723557
+    ],
+    "center": [
+        8.8913,
+        44.7099
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8913,
+            44.7099
+        ]
+    }
+}

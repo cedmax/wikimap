@@ -1,0 +1,27 @@
+{
+    "id": "place.3814559056048680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Assisi",
+    "place_name": "Assisi, Perugia, Italy",
+    "bbox": [
+        12.510801,
+        43.01026,
+        12.727344,
+        43.158031
+    ],
+    "center": [
+        12.6175,
+        43.07
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6175,
+            43.07
+        ]
+    }
+}

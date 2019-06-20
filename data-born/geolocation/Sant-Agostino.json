@@ -1,0 +1,27 @@
+{
+    "id": "place.6942696403005410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agostino",
+    "place_name": "Sant'Agostino, Ferrara, Italy",
+    "bbox": [
+        11.329422,
+        44.758355,
+        11.440004,
+        44.838048
+    ],
+    "center": [
+        11.38685,
+        44.79198
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38685,
+            44.79198
+        ]
+    }
+}

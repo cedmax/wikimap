@@ -1,0 +1,27 @@
+{
+    "id": "place.11224869842229120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggioreale",
+    "place_name": "Poggioreale, Trapani, Italy",
+    "bbox": [
+        13.013591,
+        37.750134,
+        13.098657,
+        37.819708
+    ],
+    "center": [
+        13.03667,
+        37.765
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03667,
+            37.765
+        ]
+    }
+}

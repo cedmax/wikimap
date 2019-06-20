@@ -1,0 +1,27 @@
+{
+    "id": "place.6673301784284540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Torres",
+    "place_name": "Porto Torres, Sassari, Italy",
+    "bbox": [
+        8.208739,
+        40.781511,
+        8.457993,
+        41.120273
+    ],
+    "center": [
+        8.40139,
+        40.83694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.40139,
+            40.83694
+        ]
+    }
+}

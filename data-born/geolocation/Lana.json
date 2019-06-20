@@ -1,0 +1,29 @@
+{
+    "id": "place.17277701778748500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lana - Lana",
+    "place_name": "Lana - Lana, Bolzano, Italy",
+    "matching_text": "Lana",
+    "matching_place_name": "Lana, Bolzano, Italy",
+    "bbox": [
+        11.078054,
+        46.560304,
+        11.194722,
+        46.641475
+    ],
+    "center": [
+        11.16667,
+        46.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.16667,
+            46.61667
+        ]
+    }
+}

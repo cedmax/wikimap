@@ -1,0 +1,27 @@
+{
+    "id": "place.10487178901771760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costa di Rovigo",
+    "place_name": "Costa di Rovigo, Rovigo, Italy",
+    "bbox": [
+        11.666947,
+        45.02809,
+        11.737924,
+        45.076092
+    ],
+    "center": [
+        11.7,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7,
+            45.05
+        ]
+    }
+}

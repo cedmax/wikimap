@@ -1,0 +1,27 @@
+{
+    "id": "place.9410871931985660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colli del Tronto",
+    "place_name": "Colli del Tronto, Ascoli Piceno, Italy",
+    "bbox": [
+        13.730902,
+        42.85575,
+        13.763205,
+        42.886357
+    ],
+    "center": [
+        13.7482,
+        42.87805
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7482,
+            42.87805
+        ]
+    }
+}

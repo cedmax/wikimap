@@ -1,0 +1,27 @@
+{
+    "id": "place.5289138703424000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Travagliato",
+    "place_name": "Travagliato, Brescia, Italy",
+    "bbox": [
+        10.037718,
+        45.495065,
+        10.115172,
+        45.543638
+    ],
+    "center": [
+        10.07972,
+        45.52397
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.07972,
+            45.52397
+        ]
+    }
+}

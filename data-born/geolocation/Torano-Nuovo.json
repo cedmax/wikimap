@@ -1,0 +1,27 @@
+{
+    "id": "place.14934947882324130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torano Nuovo",
+    "place_name": "Torano Nuovo, Teramo, Italy",
+    "bbox": [
+        13.751613,
+        42.806205,
+        13.797736,
+        42.841678
+    ],
+    "center": [
+        13.78333,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.78333,
+            42.81667
+        ]
+    }
+}

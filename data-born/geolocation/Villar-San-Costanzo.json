@@ -1,0 +1,27 @@
+{
+    "id": "place.9563774906022830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villar San Costanzo",
+    "place_name": "Villar San Costanzo, Cuneo, Italy",
+    "bbox": [
+        7.356181,
+        44.465962,
+        7.439456,
+        44.508944
+    ],
+    "center": [
+        7.38333,
+        44.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.38333,
+            44.48333
+        ]
+    }
+}

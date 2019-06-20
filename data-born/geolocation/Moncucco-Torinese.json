@@ -1,0 +1,27 @@
+{
+    "id": "place.18698036037634690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moncucco Torinese",
+    "place_name": "Moncucco Torinese, Asti, Italy",
+    "bbox": [
+        7.891698,
+        45.040884,
+        7.95281,
+        45.095154
+    ],
+    "center": [
+        7.93361,
+        45.06917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.93361,
+            45.06917
+        ]
+    }
+}

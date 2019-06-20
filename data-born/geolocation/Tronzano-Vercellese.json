@@ -1,0 +1,27 @@
+{
+    "id": "place.6876542332523100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tronzano Vercellese",
+    "place_name": "Tronzano Vercellese, Vercelli, Italy",
+    "bbox": [
+        8.115862,
+        45.270952,
+        8.252902,
+        45.371381
+    ],
+    "center": [
+        8.16667,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16667,
+            45.35
+        ]
+    }
+}

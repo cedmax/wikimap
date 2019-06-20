@@ -1,0 +1,27 @@
+{
+    "id": "place.6610819249940450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melito di Porto Salvo",
+    "place_name": "Melito di Porto Salvo, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.741131,
+        37.915695,
+        15.824977,
+        38.003555
+    ],
+    "center": [
+        15.78333,
+        37.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.78333,
+            37.91667
+        ]
+    }
+}

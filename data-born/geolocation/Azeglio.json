@@ -1,0 +1,27 @@
+{
+    "id": "place.12289643697823780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Azeglio",
+    "place_name": "Azeglio, Torino, Italy",
+    "bbox": [
+        7.96154,
+        45.399995,
+        8.026741,
+        45.443703
+    ],
+    "center": [
+        8,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8,
+            45.41667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2616244038856110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mirabella Imbaccari",
+    "place_name": "Mirabella Imbaccari, Catania, Italy",
+    "bbox": [
+        14.422504,
+        37.295636,
+        14.503657,
+        37.348403
+    ],
+    "center": [
+        14.45,
+        37.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.45,
+            37.33333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7506156961950370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontevico",
+    "place_name": "Pontevico, Brescia, Italy",
+    "bbox": [
+        10.061255,
+        45.245893,
+        10.13806,
+        45.311071
+    ],
+    "center": [
+        10.09167,
+        45.27222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.09167,
+            45.27222
+        ]
+    }
+}

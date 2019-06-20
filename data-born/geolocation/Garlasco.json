@@ -1,0 +1,27 @@
+{
+    "id": "place.16924011599920150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Garlasco",
+    "place_name": "Garlasco, Pavia, Italy",
+    "bbox": [
+        8.876642,
+        45.170384,
+        8.992597,
+        45.241215
+    ],
+    "center": [
+        8.91667,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91667,
+            45.2
+        ]
+    }
+}

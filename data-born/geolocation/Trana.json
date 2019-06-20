@@ -1,0 +1,27 @@
+{
+    "id": "place.10755358310174250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trana",
+    "place_name": "Trana, Torino, Italy",
+    "bbox": [
+        7.366045,
+        45.005112,
+        7.441508,
+        45.053198
+    ],
+    "center": [
+        7.41667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.41667,
+            45.03333
+        ]
+    }
+}

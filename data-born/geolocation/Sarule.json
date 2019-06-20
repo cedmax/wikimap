@@ -1,0 +1,27 @@
+{
+    "id": "place.8670331948580060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarule",
+    "place_name": "Sarule, Nuoro, Italy",
+    "bbox": [
+        9.053331,
+        40.188297,
+        9.233371,
+        40.243651
+    ],
+    "center": [
+        9.16472,
+        40.22917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16472,
+            40.22917
+        ]
+    }
+}

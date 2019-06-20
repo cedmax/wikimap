@@ -1,0 +1,27 @@
+{
+    "id": "place.15017951221560640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ronco all'Adige",
+    "place_name": "Ronco all'Adige, Verona, Italy",
+    "bbox": [
+        11.173656,
+        45.282119,
+        11.276522,
+        45.369102
+    ],
+    "center": [
+        11.23333,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            45.33333
+        ]
+    }
+}

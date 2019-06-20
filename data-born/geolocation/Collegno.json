@@ -1,0 +1,27 @@
+{
+    "id": "place.7760189227901440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collegno",
+    "place_name": "Collegno, Torino, Italy",
+    "bbox": [
+        7.554673,
+        45.069164,
+        7.622928,
+        45.120063
+    ],
+    "center": [
+        7.58333,
+        45.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.58333,
+            45.08333
+        ]
+    }
+}

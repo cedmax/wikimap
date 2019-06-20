@@ -1,0 +1,27 @@
+{
+    "id": "place.8777354281270730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trofarello",
+    "place_name": "Trofarello, Torino, Italy",
+    "bbox": [
+        7.720094,
+        44.952743,
+        7.767679,
+        45.001538
+    ],
+    "center": [
+        7.73333,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.73333,
+            44.98333
+        ]
+    }
+}

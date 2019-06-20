@@ -1,0 +1,27 @@
+{
+    "id": "place.9157455925569160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solofra",
+    "place_name": "Solofra, Avellino, Italy",
+    "bbox": [
+        14.810899,
+        40.797894,
+        14.880674,
+        40.858032
+    ],
+    "center": [
+        14.85,
+        40.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85,
+            40.83333
+        ]
+    }
+}

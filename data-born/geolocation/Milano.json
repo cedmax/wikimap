@@ -1,0 +1,27 @@
+{
+    "id": "place.11968422625804740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Milano",
+    "place_name": "Milano, Milano, Italy",
+    "bbox": [
+        9.041552,
+        45.386746,
+        9.278131,
+        45.535879
+    ],
+    "center": [
+        9.19034,
+        45.46416
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.19034,
+            45.46416
+        ]
+    }
+}

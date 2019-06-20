@@ -1,0 +1,27 @@
+{
+    "id": "place.10602646449258780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manciano",
+    "place_name": "Manciano, Grosseto, Italy",
+    "bbox": [
+        11.283171,
+        42.433741,
+        11.622855,
+        42.712708
+    ],
+    "center": [
+        11.515,
+        42.5875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.515,
+            42.5875
+        ]
+    }
+}

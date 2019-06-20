@@ -1,0 +1,27 @@
+{
+    "id": "place.12310098603329020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campotosto",
+    "place_name": "Campotosto, L'Aquila, Italy",
+    "bbox": [
+        13.296851,
+        42.507378,
+        13.426249,
+        42.591226
+    ],
+    "center": [
+        13.36889,
+        42.55972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36889,
+            42.55972
+        ]
+    }
+}

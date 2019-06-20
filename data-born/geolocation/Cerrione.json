@@ -1,0 +1,27 @@
+{
+    "id": "place.4325296206821680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerrione",
+    "place_name": "Cerrione, Biella, Italy",
+    "bbox": [
+        8.031205,
+        45.445928,
+        8.112047,
+        45.50279
+    ],
+    "center": [
+        8.06667,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06667,
+            45.46667
+        ]
+    }
+}

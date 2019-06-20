@@ -1,0 +1,27 @@
+{
+    "id": "place.8220872584310350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mascalucia",
+    "place_name": "Mascalucia, Catania, Italy",
+    "bbox": [
+        15.016747,
+        37.55421,
+        15.065461,
+        37.617163
+    ],
+    "center": [
+        15.05,
+        37.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.05,
+            37.56667
+        ]
+    }
+}

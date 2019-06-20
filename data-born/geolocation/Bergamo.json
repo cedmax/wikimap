@@ -1,0 +1,27 @@
+{
+    "id": "place.3241528493874060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bergamo",
+    "place_name": "Bergamo, Bergamo, Italy",
+    "bbox": [
+        9.618798,
+        45.655312,
+        9.713616,
+        45.73181
+    ],
+    "center": [
+        9.67,
+        45.695
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.67,
+            45.695
+        ]
+    }
+}

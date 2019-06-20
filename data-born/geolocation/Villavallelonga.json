@@ -1,0 +1,27 @@
+{
+    "id": "place.13763177480977430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villavallelonga",
+    "place_name": "Villavallelonga, L'Aquila, Italy",
+    "bbox": [
+        13.595655,
+        41.787217,
+        13.741975,
+        41.90263
+    ],
+    "center": [
+        13.62222,
+        41.8725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.62222,
+            41.8725
+        ]
+    }
+}

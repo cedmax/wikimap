@@ -1,0 +1,27 @@
+{
+    "id": "place.14192944391147010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formicola",
+    "place_name": "Formicola, Caserta, Italy",
+    "bbox": [
+        14.194545,
+        41.195383,
+        14.247383,
+        41.249009
+    ],
+    "center": [
+        14.23333,
+        41.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.23333,
+            41.21667
+        ]
+    }
+}

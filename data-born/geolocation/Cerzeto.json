@@ -1,0 +1,27 @@
+{
+    "id": "place.8430105414809420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerzeto",
+    "place_name": "Cerzeto, Cosenza, Italy",
+    "bbox": [
+        16.062018,
+        39.458216,
+        16.222282,
+        39.547198
+    ],
+    "center": [
+        16.11667,
+        39.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.11667,
+            39.51667
+        ]
+    }
+}

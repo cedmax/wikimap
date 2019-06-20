@@ -1,0 +1,27 @@
+{
+    "id": "place.10429589573292850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Silanus",
+    "place_name": "Silanus, Nuoro, Italy",
+    "bbox": [
+        8.845931,
+        40.2412,
+        8.958364,
+        40.348375
+    ],
+    "center": [
+        8.89028,
+        40.28778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.89028,
+            40.28778
+        ]
+    }
+}

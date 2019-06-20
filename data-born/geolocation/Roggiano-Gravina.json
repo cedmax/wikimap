@@ -1,0 +1,27 @@
+{
+    "id": "place.12106254223992550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roggiano Gravina",
+    "place_name": "Roggiano Gravina, Cosenza, Italy",
+    "bbox": [
+        16.095772,
+        39.589676,
+        16.25289,
+        39.664548
+    ],
+    "center": [
+        16.15,
+        39.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            39.61667
+        ]
+    }
+}

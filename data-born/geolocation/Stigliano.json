@@ -1,0 +1,27 @@
+{
+    "id": "place.12512938951048260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stigliano",
+    "place_name": "Stigliano, Matera, Italy",
+    "bbox": [
+        16.175401,
+        40.288812,
+        16.49727,
+        40.450141
+    ],
+    "center": [
+        16.23333,
+        40.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.23333,
+            40.4
+        ]
+    }
+}

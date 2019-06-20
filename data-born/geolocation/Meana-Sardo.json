@@ -1,0 +1,27 @@
+{
+    "id": "place.11647735576945840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meana Sardo",
+    "place_name": "Meana Sardo, Nuoro, Italy",
+    "bbox": [
+        8.9832,
+        39.868279,
+        9.126644,
+        39.967294
+    ],
+    "center": [
+        9.06667,
+        39.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06667,
+            39.95
+        ]
+    }
+}

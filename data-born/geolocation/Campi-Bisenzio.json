@@ -1,0 +1,27 @@
+{
+    "id": "place.12944543659337680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campi Bisenzio",
+    "place_name": "Campi Bisenzio, Firenze, Italy",
+    "bbox": [
+        11.061483,
+        43.784918,
+        11.167961,
+        43.858742
+    ],
+    "center": [
+        11.13333,
+        43.82556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            43.82556
+        ]
+    }
+}

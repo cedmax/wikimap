@@ -1,0 +1,27 @@
+{
+    "id": "place.14198393498688020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gaggiano",
+    "place_name": "Gaggiano, Milano, Italy",
+    "bbox": [
+        8.965942,
+        45.364621,
+        9.076041,
+        45.428877
+    ],
+    "center": [
+        9.03333,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.4
+        ]
+    }
+}

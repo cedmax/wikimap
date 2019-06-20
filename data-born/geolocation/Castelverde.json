@@ -1,0 +1,27 @@
+{
+    "id": "place.8800102022557000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelverde",
+    "place_name": "Castelverde, Cremona, Italy",
+    "bbox": [
+        9.948674,
+        45.163677,
+        10.039326,
+        45.238346
+    ],
+    "center": [
+        9.99693,
+        45.18753
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.99693,
+            45.18753
+        ]
+    }
+}

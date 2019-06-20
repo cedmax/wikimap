@@ -1,0 +1,27 @@
+{
+    "id": "place.15284260266953190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barberino Val d'Elsa",
+    "place_name": "Barberino Val d'Elsa, Firenze, Italy",
+    "bbox": [
+        11.081106,
+        43.474983,
+        11.271735,
+        43.585284
+    ],
+    "center": [
+        11.17217,
+        43.54333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.17217,
+            43.54333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1061396932040450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vespolate",
+    "place_name": "Vespolate, Novara, Italy",
+    "bbox": [
+        8.608804,
+        45.324529,
+        8.701811,
+        45.372403
+    ],
+    "center": [
+        8.66667,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            45.35
+        ]
+    }
+}

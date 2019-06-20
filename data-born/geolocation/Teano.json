@@ -1,0 +1,27 @@
+{
+    "id": "place.11773870009232130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teano",
+    "place_name": "Teano, Caserta, Italy",
+    "bbox": [
+        13.986941,
+        41.175589,
+        14.130796,
+        41.294421
+    ],
+    "center": [
+        14.06667,
+        41.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.06667,
+            41.25
+        ]
+    }
+}

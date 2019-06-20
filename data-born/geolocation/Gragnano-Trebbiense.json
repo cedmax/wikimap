@@ -1,0 +1,27 @@
+{
+    "id": "place.2555640966685140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gragnano Trebbiense",
+    "place_name": "Gragnano Trebbiense, Piacenza, Italy",
+    "bbox": [
+        9.510061,
+        44.97893,
+        9.615494,
+        45.043074
+    ],
+    "center": [
+        9.56667,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56667,
+            45.01667
+        ]
+    }
+}

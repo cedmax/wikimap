@@ -1,0 +1,21 @@
+{
+    "id": "address.424236281",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "Largo Giuncugnano",
+    "place_name": "Largo Giuncugnano, 00148 Roma Roma, Italy",
+    "center": [
+        12.4375295,
+        41.8449535
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4375295,
+            41.8449535
+        ]
+    }
+}

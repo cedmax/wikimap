@@ -1,0 +1,27 @@
+{
+    "id": "place.13938596208857320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alpignano",
+    "place_name": "Alpignano, Torino, Italy",
+    "bbox": [
+        7.486942,
+        45.083931,
+        7.552443,
+        45.12277
+    ],
+    "center": [
+        7.51667,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.51667,
+            45.1
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5390353098680230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ozzano dell'Emilia",
+    "place_name": "Ozzano dell'Emilia, Bologna, Italy",
+    "bbox": [
+        11.402625,
+        44.358015,
+        11.551277,
+        44.495084
+    ],
+    "center": [
+        11.48333,
+        44.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48333,
+            44.45
+        ]
+    }
+}

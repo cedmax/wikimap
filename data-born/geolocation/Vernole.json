@@ -1,0 +1,27 @@
+{
+    "id": "place.12856948992124540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vernole",
+    "place_name": "Vernole, Lecce, Italy",
+    "bbox": [
+        18.253321,
+        40.266689,
+        18.375247,
+        40.382303
+    ],
+    "center": [
+        18.3,
+        40.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.3,
+            40.28333
+        ]
+    }
+}

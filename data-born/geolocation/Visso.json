@@ -1,0 +1,27 @@
+{
+    "id": "place.9805078682999900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Visso",
+    "place_name": "Visso, Macerata, Italy",
+    "bbox": [
+        12.946225,
+        42.868615,
+        13.151825,
+        43.010067
+    ],
+    "center": [
+        13.08845,
+        42.93088
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08845,
+            42.93088
+        ]
+    }
+}

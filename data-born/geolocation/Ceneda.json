@@ -1,0 +1,21 @@
+{
+    "id": "address.1812902206",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Ceneda",
+    "place_name": "via Ceneda, 00183 Roma Roma, Italy",
+    "center": [
+        12.511652,
+        41.880473
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.511652,
+            41.880473
+        ]
+    }
+}

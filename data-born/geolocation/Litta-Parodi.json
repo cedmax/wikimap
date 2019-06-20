@@ -1,0 +1,21 @@
+{
+    "id": "poi.3118146338175",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Parodi",
+    "place_name": "Parodi, Via Capitan Romeo, 30, Arenzano, Genova 16011, Italy",
+    "center": [
+        8.68376,
+        44.40417
+    ],
+    "geometry": {
+        "coordinates": [
+            8.68376,
+            44.40417
+        ],
+        "type": "Point"
+    }
+}

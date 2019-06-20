@@ -1,0 +1,27 @@
+{
+    "id": "place.17871548789501710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caronia",
+    "place_name": "Caronia, Messina, Italy",
+    "bbox": [
+        14.386506,
+        37.890286,
+        14.592208,
+        38.058503
+    ],
+    "center": [
+        14.43333,
+        38.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.43333,
+            38.01667
+        ]
+    }
+}

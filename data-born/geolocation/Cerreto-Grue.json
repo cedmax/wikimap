@@ -1,0 +1,27 @@
+{
+    "id": "place.10847375336423560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerreto Grue",
+    "place_name": "Cerreto Grue, Alessandria, Italy",
+    "bbox": [
+        8.913346,
+        44.826807,
+        8.95127,
+        44.8529
+    ],
+    "center": [
+        8.93139,
+        44.84361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93139,
+            44.84361
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2920577825732",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6458333333333333,
+    "text": "Parmente",
+    "place_name": "Parmente, Casarano, Lecce 73042, Italy",
+    "center": [
+        18.163479,
+        40.002998
+    ],
+    "geometry": {
+        "coordinates": [
+            18.163479,
+            40.002998
+        ],
+        "type": "Point"
+    }
+}

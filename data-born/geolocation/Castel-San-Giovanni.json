@@ -1,0 +1,27 @@
+{
+    "id": "place.15658514759143460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel San Giovanni",
+    "place_name": "Castel San Giovanni, Piacenza, Italy",
+    "bbox": [
+        9.369178,
+        45.018065,
+        9.487406,
+        45.096694
+    ],
+    "center": [
+        9.43333,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43333,
+            45.05
+        ]
+    }
+}

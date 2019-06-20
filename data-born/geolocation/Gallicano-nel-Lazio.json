@@ -1,0 +1,27 @@
+{
+    "id": "place.12558366690469550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallicano nel Lazio",
+    "place_name": "Gallicano nel Lazio, Roma, Italy",
+    "bbox": [
+        12.741126,
+        41.854223,
+        12.84457,
+        41.912467
+    ],
+    "center": [
+        12.81667,
+        41.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.81667,
+            41.86667
+        ]
+    }
+}

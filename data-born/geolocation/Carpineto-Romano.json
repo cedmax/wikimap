@@ -1,0 +1,27 @@
+{
+    "id": "place.6444802767896510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpineto Romano",
+    "place_name": "Carpineto Romano, Roma, Italy",
+    "bbox": [
+        13.00844,
+        41.547594,
+        13.163603,
+        41.655174
+    ],
+    "center": [
+        13.08333,
+        41.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08333,
+            41.6
+        ]
+    }
+}

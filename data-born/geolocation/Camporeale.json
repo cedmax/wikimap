@@ -1,0 +1,27 @@
+{
+    "id": "place.6652189058582920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camporeale",
+    "place_name": "Camporeale, Palermo, Italy",
+    "bbox": [
+        13.030532,
+        37.857315,
+        13.135989,
+        37.931743
+    ],
+    "center": [
+        13.1,
+        37.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1,
+            37.9
+        ]
+    }
+}

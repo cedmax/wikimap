@@ -1,0 +1,27 @@
+{
+    "id": "place.8528482183911170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lanuvio",
+    "place_name": "Lanuvio, Roma, Italy",
+    "bbox": [
+        12.651851,
+        41.596136,
+        12.733432,
+        41.686047
+    ],
+    "center": [
+        12.7,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.7,
+            41.68333
+        ]
+    }
+}

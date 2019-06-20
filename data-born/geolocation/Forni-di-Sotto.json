@@ -1,0 +1,27 @@
+{
+    "id": "place.9900998442190200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forni di Sotto",
+    "place_name": "Forni di Sotto, Udine, Italy",
+    "bbox": [
+        12.557725,
+        46.336811,
+        12.741284,
+        46.461631
+    ],
+    "center": [
+        12.66667,
+        46.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.66667,
+            46.4
+        ]
+    }
+}

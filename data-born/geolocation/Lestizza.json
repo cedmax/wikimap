@@ -1,0 +1,27 @@
+{
+    "id": "place.11952035971094880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lestizza",
+    "place_name": "Lestizza, Udine, Italy",
+    "bbox": [
+        13.047404,
+        45.939847,
+        13.172115,
+        45.996125
+    ],
+    "center": [
+        13.13333,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            45.95
+        ]
+    }
+}

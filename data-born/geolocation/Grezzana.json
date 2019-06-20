@@ -1,0 +1,27 @@
+{
+    "id": "place.14364423191183990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grezzana",
+    "place_name": "Grezzana, Verona, Italy",
+    "bbox": [
+        10.971943,
+        45.507458,
+        11.071701,
+        45.615733
+    ],
+    "center": [
+        11.01667,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            45.51667
+        ]
+    }
+}

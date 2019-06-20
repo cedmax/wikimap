@@ -1,0 +1,27 @@
+{
+    "id": "place.13789502531557340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caraglio",
+    "place_name": "Caraglio, Cuneo, Italy",
+    "bbox": [
+        7.388916,
+        44.39207,
+        7.48978,
+        44.463325
+    ],
+    "center": [
+        7.43333,
+        44.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.43333,
+            44.41667
+        ]
+    }
+}

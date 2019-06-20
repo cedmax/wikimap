@@ -1,0 +1,27 @@
+{
+    "id": "place.14100628585641110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taino",
+    "place_name": "Taino, Varese, Italy",
+    "bbox": [
+        8.598963,
+        45.747856,
+        8.642042,
+        45.780729
+    ],
+    "center": [
+        8.61667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.61667,
+            45.76667
+        ]
+    }
+}

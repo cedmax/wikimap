@@ -1,0 +1,27 @@
+{
+    "id": "place.6300834402242430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meduno",
+    "place_name": "Meduno, Pordenone, Italy",
+    "bbox": [
+        12.730413,
+        46.180089,
+        12.832594,
+        46.254314
+    ],
+    "center": [
+        12.8,
+        46.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            46.21667
+        ]
+    }
+}

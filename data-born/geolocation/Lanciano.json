@@ -1,0 +1,27 @@
+{
+    "id": "place.9997921052298910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lanciano",
+    "place_name": "Lanciano, Chieti, Italy",
+    "bbox": [
+        14.33825,
+        42.142066,
+        14.466153,
+        42.278987
+    ],
+    "center": [
+        14.39047,
+        42.23121
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.39047,
+            42.23121
+        ]
+    }
+}

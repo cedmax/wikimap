@@ -1,0 +1,27 @@
+{
+    "id": "place.14624116329110720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Alfio",
+    "place_name": "Sant'Alfio, Catania, Italy",
+    "bbox": [
+        14.994247,
+        37.731934,
+        15.151993,
+        37.784395
+    ],
+    "center": [
+        15.13333,
+        37.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.13333,
+            37.75
+        ]
+    }
+}

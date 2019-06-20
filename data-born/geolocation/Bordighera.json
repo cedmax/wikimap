@@ -1,0 +1,27 @@
+{
+    "id": "place.6679588939747190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bordighera",
+    "place_name": "Bordighera, Imperia, Italy",
+    "bbox": [
+        7.64588,
+        43.77552,
+        7.702207,
+        43.811387
+    ],
+    "center": [
+        7.67213,
+        43.7789
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.67213,
+            43.7789
+        ]
+    }
+}

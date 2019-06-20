@@ -1,0 +1,27 @@
+{
+    "id": "place.18056903064373810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Somaglia",
+    "place_name": "Somaglia, Lodi, Italy",
+    "bbox": [
+        9.593866,
+        45.115136,
+        9.686702,
+        45.187929
+    ],
+    "center": [
+        9.63444,
+        45.15028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.63444,
+            45.15028
+        ]
+    }
+}

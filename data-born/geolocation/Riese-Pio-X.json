@@ -1,0 +1,27 @@
+{
+    "id": "place.11947744782773980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riese Pio X",
+    "place_name": "Riese Pio X, Treviso, Italy",
+    "bbox": [
+        11.857708,
+        45.688164,
+        11.961768,
+        45.756619
+    ],
+    "center": [
+        11.92,
+        45.7299
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.92,
+            45.7299
+        ]
+    }
+}

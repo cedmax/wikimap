@@ -1,0 +1,27 @@
+{
+    "id": "place.13528644870223380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lauria",
+    "place_name": "Lauria, Potenza, Italy",
+    "bbox": [
+        15.7968,
+        39.981271,
+        15.977317,
+        40.163599
+    ],
+    "center": [
+        15.83583,
+        40.04722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.83583,
+            40.04722
+        ]
+    }
+}

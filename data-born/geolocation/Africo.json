@@ -1,0 +1,27 @@
+{
+    "id": "place.5027265317601370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Africo",
+    "place_name": "Africo, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.900974,
+        38.008683,
+        16.149298,
+        38.156634
+    ],
+    "center": [
+        16.1332,
+        38.05067
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.1332,
+            38.05067
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13114624791854430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cefalà Diana",
+    "place_name": "Cefalà Diana, Palermo, Italy",
+    "bbox": [
+        13.445864,
+        37.893242,
+        13.485281,
+        37.931549
+    ],
+    "center": [
+        13.46667,
+        37.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.46667,
+            37.91667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16673648190858370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cernusco sul Naviglio",
+    "place_name": "Cernusco sul Naviglio, Milano, Italy",
+    "bbox": [
+        9.299071,
+        45.500328,
+        9.367665,
+        45.547863
+    ],
+    "center": [
+        9.33333,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.51667
+        ]
+    }
+}

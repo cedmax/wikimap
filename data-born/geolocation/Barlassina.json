@@ -1,0 +1,27 @@
+{
+    "id": "place.5000808225876180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barlassina",
+    "place_name": "Barlassina, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.106381,
+        45.644188,
+        9.143626,
+        45.664038
+    ],
+    "center": [
+        9.13333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.65
+        ]
+    }
+}

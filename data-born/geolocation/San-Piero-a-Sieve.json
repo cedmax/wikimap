@@ -1,0 +1,21 @@
+{
+    "id": "address.1436010489",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via San Piero a Sieve",
+    "place_name": "via San Piero a Sieve, 00148 Roma Roma, Italy",
+    "center": [
+        12.419333,
+        41.834856
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.419333,
+            41.834856
+        ]
+    }
+}

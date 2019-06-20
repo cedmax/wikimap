@@ -1,0 +1,27 @@
+{
+    "id": "place.6134429944932820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loreo",
+    "place_name": "Loreo, Rovigo, Italy",
+    "bbox": [
+        12.136629,
+        45.021565,
+        12.24715,
+        45.108379
+    ],
+    "center": [
+        12.2,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2,
+            45.06667
+        ]
+    }
+}

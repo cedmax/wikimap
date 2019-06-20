@@ -1,0 +1,27 @@
+{
+    "id": "place.10573109537358950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piazza Armerina",
+    "place_name": "Piazza Armerina, Enna, Italy",
+    "bbox": [
+        14.183875,
+        37.290703,
+        14.521855,
+        37.518834
+    ],
+    "center": [
+        14.36667,
+        37.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            37.38333
+        ]
+    }
+}

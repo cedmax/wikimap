@@ -1,0 +1,27 @@
+{
+    "id": "place.7220551554979120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Bartolomeo in Galdo",
+    "place_name": "San Bartolomeo in Galdo, Benevento, Italy",
+    "bbox": [
+        14.968809,
+        41.365251,
+        15.103395,
+        41.486303
+    ],
+    "center": [
+        15.01667,
+        41.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            41.41667
+        ]
+    }
+}

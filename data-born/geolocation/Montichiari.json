@@ -1,0 +1,27 @@
+{
+    "id": "place.9778322189335690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montichiari",
+    "place_name": "Montichiari, Brescia, Italy",
+    "bbox": [
+        10.30928,
+        45.357064,
+        10.466854,
+        45.465125
+    ],
+    "center": [
+        10.3917,
+        45.4161
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.3917,
+            45.4161
+        ]
+    }
+}

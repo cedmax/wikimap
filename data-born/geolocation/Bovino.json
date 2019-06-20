@@ -1,0 +1,27 @@
+{
+    "id": "place.14422140859353300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bovino",
+    "place_name": "Bovino, Foggia, Italy",
+    "bbox": [
+        15.290186,
+        41.208986,
+        15.454035,
+        41.31873
+    ],
+    "center": [
+        15.35,
+        41.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.35,
+            41.25
+        ]
+    }
+}

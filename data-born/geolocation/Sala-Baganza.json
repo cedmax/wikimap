@@ -1,0 +1,27 @@
+{
+    "id": "place.10822476505477230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sala Baganza",
+    "place_name": "Sala Baganza, Parma, Italy",
+    "bbox": [
+        10.163682,
+        44.639961,
+        10.244542,
+        44.736545
+    ],
+    "center": [
+        10.23333,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23333,
+            44.71667
+        ]
+    }
+}

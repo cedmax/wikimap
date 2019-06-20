@@ -1,0 +1,21 @@
+{
+    "id": "poi.1288490189635",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Calimera",
+    "place_name": "Calimera, Calimera, Calimera, Lecce 73021, Italy",
+    "center": [
+        18.281112874999998,
+        40.2500315
+    ],
+    "geometry": {
+        "coordinates": [
+            18.281112874999998,
+            40.2500315
+        ],
+        "type": "Point"
+    }
+}

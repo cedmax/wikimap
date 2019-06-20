@@ -1,0 +1,21 @@
+{
+    "id": "poi.2877628094101",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "San Marco D'Alunzio",
+    "place_name": "San Marco D'Alunzio, San Marco D'Alunzio, San Marco d'Alunzio, Messina 98070, Italy",
+    "center": [
+        14.700394,
+        38.072893
+    ],
+    "geometry": {
+        "coordinates": [
+            14.700394,
+            38.072893
+        ],
+        "type": "Point"
+    }
+}

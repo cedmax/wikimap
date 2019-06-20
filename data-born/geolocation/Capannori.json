@@ -1,0 +1,27 @@
+{
+    "id": "place.14599692670911890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capannori",
+    "place_name": "Capannori, Lucca, Italy",
+    "bbox": [
+        10.487285,
+        43.749924,
+        10.658711,
+        43.942747
+    ],
+    "center": [
+        10.57361,
+        43.87556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.57361,
+            43.87556
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6738447199402110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roveredo di Guà",
+    "place_name": "Roveredo di Guà, Verona, Italy",
+    "bbox": [
+        11.418238,
+        45.258754,
+        11.49145,
+        45.288445
+    ],
+    "center": [
+        11.45,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.26667
+        ]
+    }
+}

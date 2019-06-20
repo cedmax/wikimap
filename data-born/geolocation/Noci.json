@@ -1,0 +1,27 @@
+{
+    "id": "place.480188504707080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noci",
+    "place_name": "Noci, Bari, Italy",
+    "bbox": [
+        17.00098,
+        40.706519,
+        17.204703,
+        40.81985
+    ],
+    "center": [
+        17.13333,
+        40.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.13333,
+            40.8
+        ]
+    }
+}

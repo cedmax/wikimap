@@ -1,0 +1,27 @@
+{
+    "id": "place.10949211595170350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Teramo",
+    "place_name": "Teramo, Teramo, Italy",
+    "bbox": [
+        13.581424,
+        42.593461,
+        13.828067,
+        42.718136
+    ],
+    "center": [
+        13.70391,
+        42.65885
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.70391,
+            42.65885
+        ]
+    }
+}

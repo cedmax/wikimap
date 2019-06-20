@@ -1,0 +1,27 @@
+{
+    "id": "place.16783843956359400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monticelli d'Ongina",
+    "place_name": "Monticelli d'Ongina, Piacenza, Italy",
+    "bbox": [
+        9.876793,
+        45.03794,
+        9.991045,
+        45.140162
+    ],
+    "center": [
+        9.93333,
+        45.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45.08333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2422361639273",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Isola Del Giglio",
+    "place_name": "Isola Del Giglio, Isola Del Giglio, Grosseto, Italy",
+    "center": [
+        10.921104,
+        42.359553
+    ],
+    "geometry": {
+        "coordinates": [
+            10.921104,
+            42.359553
+        ],
+        "type": "Point"
+    }
+}

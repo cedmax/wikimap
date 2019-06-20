@@ -1,0 +1,27 @@
+{
+    "id": "place.9470948756032690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nogarole Vicentino",
+    "place_name": "Nogarole Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.267175,
+        45.550753,
+        11.327533,
+        45.598004
+    ],
+    "center": [
+        11.28333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            45.56667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18073155505004720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bettola",
+    "place_name": "Bettola, Piacenza, Italy",
+    "bbox": [
+        9.496183,
+        44.717222,
+        9.684548,
+        44.838283
+    ],
+    "center": [
+        9.60857,
+        44.77826
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.60857,
+            44.77826
+        ]
+    }
+}

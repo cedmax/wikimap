@@ -1,0 +1,27 @@
+{
+    "id": "place.9992345581921970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdisotto",
+    "place_name": "Valdisotto, Sondrio, Italy",
+    "bbox": [
+        10.279877,
+        46.367753,
+        10.420045,
+        46.477829
+    ],
+    "center": [
+        10.35,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.35,
+            46.41667
+        ]
+    }
+}

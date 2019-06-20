@@ -1,0 +1,21 @@
+{
+    "id": "poi.1589137900018",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Coreglia Antelminelli",
+    "place_name": "Coreglia Antelminelli, Coreglia Antelminelli, Lucca 55025, Italy",
+    "center": [
+        10.525260875,
+        44.06358899999999
+    ],
+    "geometry": {
+        "coordinates": [
+            10.525260875,
+            44.06358899999999
+        ],
+        "type": "Point"
+    }
+}

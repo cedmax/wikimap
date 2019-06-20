@@ -1,0 +1,27 @@
+{
+    "id": "place.13738448916454500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nicolosi",
+    "place_name": "Nicolosi, Catania, Italy",
+    "bbox": [
+        14.987915,
+        37.597165,
+        15.049468,
+        37.751751
+    ],
+    "center": [
+        15.01667,
+        37.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            37.61667
+        ]
+    }
+}

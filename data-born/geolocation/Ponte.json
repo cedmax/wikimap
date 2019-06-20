@@ -1,0 +1,21 @@
+{
+    "id": "poi.2937757631518",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ponte",
+    "place_name": "Ponte, SR2, 822, Monteroni d'Arbia, Siena 53014, Italy",
+    "center": [
+        11.465158,
+        43.166618
+    ],
+    "geometry": {
+        "coordinates": [
+            11.465158,
+            43.166618
+        ],
+        "type": "Point"
+    }
+}

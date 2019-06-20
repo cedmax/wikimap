@@ -1,0 +1,27 @@
+{
+    "id": "place.7575573887593300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Setzu",
+    "place_name": "Setzu, Medio Campidano, Italy",
+    "bbox": [
+        8.919831,
+        39.709213,
+        8.955924,
+        39.764675
+    ],
+    "center": [
+        8.93842,
+        39.7225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93842,
+            39.7225
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16942379347031430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costermano",
+    "place_name": "Costermano, Verona, Italy",
+    "bbox": [
+        10.698121,
+        45.555672,
+        10.771302,
+        45.623676
+    ],
+    "center": [
+        10.73333,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            45.58333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10451667284831900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grottammare",
+    "place_name": "Grottammare, Ascoli Piceno, Italy",
+    "bbox": [
+        13.816289,
+        42.957245,
+        13.88227,
+        43.010039
+    ],
+    "center": [
+        13.86807,
+        42.9891
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86807,
+            42.9891
+        ]
+    }
+}

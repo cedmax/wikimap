@@ -1,0 +1,27 @@
+{
+    "id": "place.12740649470611540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orzivecchi",
+    "place_name": "Orzivecchi, Brescia, Italy",
+    "bbox": [
+        9.943381,
+        45.396574,
+        9.984024,
+        45.452897
+    ],
+    "center": [
+        9.96667,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96667,
+            45.41667
+        ]
+    }
+}

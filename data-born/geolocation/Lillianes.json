@@ -1,0 +1,27 @@
+{
+    "id": "place.1163421047162210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lillianes",
+    "place_name": "Lillianes, Valle D'Aosta, Italy",
+    "bbox": [
+        7.810925,
+        45.58933,
+        7.900708,
+        45.662114
+    ],
+    "center": [
+        7.85,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85,
+            45.63333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2104534016896",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Tarzo",
+    "place_name": "Tarzo, Tarzo, Treviso 31020, Italy",
+    "center": [
+        12.229621999999999,
+        45.976751
+    ],
+    "geometry": {
+        "coordinates": [
+            12.229621999999999,
+            45.976751
+        ],
+        "type": "Point"
+    }
+}

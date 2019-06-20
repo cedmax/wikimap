@@ -1,0 +1,27 @@
+{
+    "id": "place.10142412502980230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verghereto",
+    "place_name": "Verghereto, Forli'-Cesena, Italy",
+    "bbox": [
+        11.950395,
+        43.740086,
+        12.151028,
+        43.872416
+    ],
+    "center": [
+        11.96667,
+        43.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.96667,
+            43.8
+        ]
+    }
+}

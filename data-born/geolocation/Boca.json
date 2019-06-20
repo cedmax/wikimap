@@ -1,0 +1,21 @@
+{
+    "id": "poi.2800318754819",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Boca",
+    "place_name": "Boca, Lungomare Alessandro Bianchi, Cogoleto, Genova 16016, Italy",
+    "center": [
+        8.642531,
+        44.387653
+    ],
+    "geometry": {
+        "coordinates": [
+            8.642531,
+            44.387653
+        ],
+        "type": "Point"
+    }
+}

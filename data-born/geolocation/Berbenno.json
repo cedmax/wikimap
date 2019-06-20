@@ -1,0 +1,27 @@
+{
+    "id": "place.13659013155081570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Berbenno",
+    "place_name": "Berbenno, Bergamo, Italy",
+    "bbox": [
+        9.546526,
+        45.791463,
+        9.590063,
+        45.821693
+    ],
+    "center": [
+        9.56833,
+        45.81361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56833,
+            45.81361
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15273861137303910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portoferraio",
+    "place_name": "Portoferraio, Livorno, Italy",
+    "bbox": [
+        10.260661,
+        42.31319,
+        10.392077,
+        42.829818
+    ],
+    "center": [
+        10.31667,
+        42.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.31667,
+            42.81667
+        ]
+    }
+}

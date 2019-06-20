@@ -1,0 +1,27 @@
+{
+    "id": "place.12978489435237110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francavilla in Sinni",
+    "place_name": "Francavilla in Sinni, Potenza, Italy",
+    "bbox": [
+        16.171468,
+        39.992996,
+        16.258314,
+        40.096439
+    ],
+    "center": [
+        16.2,
+        40.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2,
+            40.08333
+        ]
+    }
+}

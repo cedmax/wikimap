@@ -1,0 +1,27 @@
+{
+    "id": "place.12894660588943440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magasa",
+    "place_name": "Magasa, Brescia, Italy",
+    "bbox": [
+        10.59734,
+        45.753792,
+        10.669212,
+        45.806797
+    ],
+    "center": [
+        10.616,
+        45.7814
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.616,
+            45.7814
+        ]
+    }
+}

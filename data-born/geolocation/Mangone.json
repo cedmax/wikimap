@@ -1,0 +1,27 @@
+{
+    "id": "place.11395317942215270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mangone",
+    "place_name": "Mangone, Cosenza, Italy",
+    "bbox": [
+        16.28221,
+        39.195481,
+        16.385731,
+        39.222461
+    ],
+    "center": [
+        16.33333,
+        39.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.2
+        ]
+    }
+}

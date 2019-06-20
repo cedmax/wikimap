@@ -1,0 +1,27 @@
+{
+    "id": "place.7703696950280360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roncofreddo",
+    "place_name": "Roncofreddo, Forli'-Cesena, Italy",
+    "bbox": [
+        12.19469,
+        44.008822,
+        12.357567,
+        44.088129
+    ],
+    "center": [
+        12.3187,
+        44.0423
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3187,
+            44.0423
+        ]
+    }
+}

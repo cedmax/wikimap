@@ -1,0 +1,27 @@
+{
+    "id": "place.7132621797392530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alzate Brianza",
+    "place_name": "Alzate Brianza, Como, Italy",
+    "bbox": [
+        9.157779,
+        45.741869,
+        9.213546,
+        45.779928
+    ],
+    "center": [
+        9.18333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.76667
+        ]
+    }
+}

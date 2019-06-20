@@ -1,0 +1,27 @@
+{
+    "id": "place.12940946708757360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Staranzano",
+    "place_name": "Staranzano, Gorizia, Italy",
+    "bbox": [
+        13.471381,
+        45.727447,
+        13.558028,
+        45.819261
+    ],
+    "center": [
+        13.5,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5,
+            45.8
+        ]
+    }
+}

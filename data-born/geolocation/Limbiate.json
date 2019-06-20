@@ -1,0 +1,27 @@
+{
+    "id": "place.14039383271157540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limbiate",
+    "place_name": "Limbiate, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.093101,
+        45.58376,
+        9.147292,
+        45.624896
+    ],
+    "center": [
+        9.13,
+        45.59722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13,
+            45.59722
+        ]
+    }
+}

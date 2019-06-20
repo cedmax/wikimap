@@ -1,0 +1,27 @@
+{
+    "id": "place.5908381950244950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusaforte",
+    "place_name": "Chiusaforte, Udine, Italy",
+    "bbox": [
+        13.241172,
+        46.36886,
+        13.517911,
+        46.445065
+    ],
+    "center": [
+        13.31667,
+        46.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31667,
+            46.4
+        ]
+    }
+}

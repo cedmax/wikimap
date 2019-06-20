@@ -1,0 +1,27 @@
+{
+    "id": "place.8743990345248800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pomponesco",
+    "place_name": "Pomponesco, Mantova, Italy",
+    "bbox": [
+        10.570491,
+        44.911459,
+        10.616948,
+        44.978886
+    ],
+    "center": [
+        10.59722,
+        44.92972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.59722,
+            44.92972
+        ]
+    }
+}

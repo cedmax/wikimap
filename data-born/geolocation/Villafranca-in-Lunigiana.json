@@ -1,0 +1,27 @@
+{
+    "id": "place.4020590852379290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafranca in Lunigiana",
+    "place_name": "Villafranca in Lunigiana, Massa-Carrara, Italy",
+    "bbox": [
+        9.940182,
+        44.242781,
+        10.000023,
+        44.348072
+    ],
+    "center": [
+        9.95,
+        44.29556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            44.29556
+        ]
+    }
+}

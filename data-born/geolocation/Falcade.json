@@ -1,0 +1,27 @@
+{
+    "id": "place.7692116511829630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Falcade",
+    "place_name": "Falcade, Belluno, Italy",
+    "bbox": [
+        11.774729,
+        46.306115,
+        11.902192,
+        46.410397
+    ],
+    "center": [
+        11.86667,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            46.36667
+        ]
+    }
+}

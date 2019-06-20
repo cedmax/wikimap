@@ -1,0 +1,27 @@
+{
+    "id": "place.5368185040224270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monreale",
+    "place_name": "Monreale, Palermo, Italy",
+    "bbox": [
+        12.929195,
+        37.777326,
+        13.424486,
+        38.107714
+    ],
+    "center": [
+        13.28889,
+        38.08167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.28889,
+            38.08167
+        ]
+    }
+}

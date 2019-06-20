@@ -1,0 +1,27 @@
+{
+    "id": "place.16675835971196460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ripalimosani",
+    "place_name": "Ripalimosani, Campobasso, Italy",
+    "bbox": [
+        14.596979,
+        41.587363,
+        14.69778,
+        41.648608
+    ],
+    "center": [
+        14.66667,
+        41.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.66667,
+            41.61667
+        ]
+    }
+}

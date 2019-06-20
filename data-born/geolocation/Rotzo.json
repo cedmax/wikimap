@@ -1,0 +1,27 @@
+{
+    "id": "place.8406403496681490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rotzo",
+    "place_name": "Rotzo, Vicenza, Italy",
+    "bbox": [
+        11.357225,
+        45.851886,
+        11.426838,
+        45.951611
+    ],
+    "center": [
+        11.4,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4,
+            45.86667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13746351016302810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francavilla Fontana",
+    "place_name": "Francavilla Fontana, Brindisi, Italy",
+    "bbox": [
+        17.465576,
+        40.43646,
+        17.671887,
+        40.607371
+    ],
+    "center": [
+        17.58583,
+        40.53139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.58583,
+            40.53139
+        ]
+    }
+}

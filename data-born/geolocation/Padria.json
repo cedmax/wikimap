@@ -1,0 +1,27 @@
+{
+    "id": "place.8930912306188700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Padria",
+    "place_name": "Padria, Sassari, Italy",
+    "bbox": [
+        8.524799,
+        40.362568,
+        8.64509,
+        40.449738
+    ],
+    "center": [
+        8.63333,
+        40.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            40.4
+        ]
+    }
+}

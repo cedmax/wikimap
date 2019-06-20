@@ -1,0 +1,27 @@
+{
+    "id": "place.7318908542244910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mairago",
+    "place_name": "Mairago, Lodi, Italy",
+    "bbox": [
+        9.555363,
+        45.233428,
+        9.617825,
+        45.275114
+    ],
+    "center": [
+        9.57944,
+        45.25278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.57944,
+            45.25278
+        ]
+    }
+}

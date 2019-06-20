@@ -1,0 +1,27 @@
+{
+    "id": "place.6605052122028040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccamontepiano",
+    "place_name": "Roccamontepiano, Chieti, Italy",
+    "bbox": [
+        14.103821,
+        42.223988,
+        14.162229,
+        42.28134
+    ],
+    "center": [
+        14.12733,
+        42.24473
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.12733,
+            42.24473
+        ]
+    }
+}

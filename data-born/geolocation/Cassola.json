@@ -1,0 +1,27 @@
+{
+    "id": "place.6752194598825120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cassola",
+    "place_name": "Cassola, Vicenza, Italy",
+    "bbox": [
+        11.747109,
+        45.723024,
+        11.820412,
+        45.771574
+    ],
+    "center": [
+        11.78333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            45.73333
+        ]
+    }
+}

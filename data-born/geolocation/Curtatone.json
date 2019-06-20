@@ -1,0 +1,27 @@
+{
+    "id": "place.12600419004131020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Curtatone",
+    "place_name": "Curtatone, Mantova, Italy",
+    "bbox": [
+        10.650861,
+        45.054066,
+        10.775142,
+        45.164939
+    ],
+    "center": [
+        10.71667,
+        45.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.71667,
+            45.15
+        ]
+    }
+}

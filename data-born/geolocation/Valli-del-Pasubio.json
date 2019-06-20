@@ -1,0 +1,27 @@
+{
+    "id": "place.16932201666116490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valli del Pasubio",
+    "place_name": "Valli del Pasubio, Vicenza, Italy",
+    "bbox": [
+        11.173428,
+        45.713608,
+        11.295893,
+        45.788059
+    ],
+    "center": [
+        11.26667,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.26667,
+            45.75
+        ]
+    }
+}

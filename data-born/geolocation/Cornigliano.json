@@ -1,0 +1,21 @@
+{
+    "id": "address.2052482735",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "Strada Cornigliano",
+    "place_name": "Strada Cornigliano, 14040 Castel Boglione Asti, Italy",
+    "center": [
+        8.382938,
+        44.717708
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.382938,
+            44.717708
+        ]
+    }
+}

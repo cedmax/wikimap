@@ -1,0 +1,27 @@
+{
+    "id": "place.7588341557551790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calenzano",
+    "place_name": "Calenzano, Firenze, Italy",
+    "bbox": [
+        11.13478,
+        43.83854,
+        11.262404,
+        43.957704
+    ],
+    "center": [
+        11.16361,
+        43.85667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.16361,
+            43.85667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16091086364702500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torreglia",
+    "place_name": "Torreglia, Padova, Italy",
+    "bbox": [
+        11.698224,
+        45.316061,
+        11.762686,
+        45.370304
+    ],
+    "center": [
+        11.73333,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.73333,
+            45.33333
+        ]
+    }
+}

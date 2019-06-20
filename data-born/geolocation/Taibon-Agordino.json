@@ -1,0 +1,27 @@
+{
+    "id": "place.14997227581218220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taibon Agordino",
+    "place_name": "Taibon Agordino, Belluno, Italy",
+    "bbox": [
+        11.882429,
+        46.247634,
+        12.067542,
+        46.379948
+    ],
+    "center": [
+        12.01667,
+        46.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.01667,
+            46.3
+        ]
+    }
+}

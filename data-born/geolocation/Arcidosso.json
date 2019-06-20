@@ -1,0 +1,27 @@
+{
+    "id": "place.6340609999767960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcidosso",
+    "place_name": "Arcidosso, Grosseto, Italy",
+    "bbox": [
+        11.362626,
+        42.794284,
+        11.600779,
+        42.915715
+    ],
+    "center": [
+        11.5375,
+        42.87222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5375,
+            42.87222
+        ]
+    }
+}

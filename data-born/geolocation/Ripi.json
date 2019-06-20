@@ -1,0 +1,27 @@
+{
+    "id": "place.18665394833106740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ripi",
+    "place_name": "Ripi, Frosinone, Italy",
+    "bbox": [
+        13.399292,
+        41.558556,
+        13.487361,
+        41.636278
+    ],
+    "center": [
+        13.43333,
+        41.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43333,
+            41.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8475244756082220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vaiano Cremasco",
+    "place_name": "Vaiano Cremasco, Cremona, Italy",
+    "bbox": [
+        9.571799,
+        45.356297,
+        9.612952,
+        45.388459
+    ],
+    "center": [
+        9.58833,
+        45.37306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58833,
+            45.37306
+        ]
+    }
+}

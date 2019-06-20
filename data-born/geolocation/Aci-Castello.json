@@ -1,0 +1,27 @@
+{
+    "id": "place.8699214340328230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aci Castello",
+    "place_name": "Aci Castello, Catania, Italy",
+    "bbox": [
+        15.117155,
+        37.534452,
+        15.169836,
+        37.579889
+    ],
+    "center": [
+        15.15,
+        37.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.15,
+            37.55
+        ]
+    }
+}

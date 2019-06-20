@@ -1,0 +1,27 @@
+{
+    "id": "place.17505396310800500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Papozze",
+    "place_name": "Papozze, Rovigo, Italy",
+    "bbox": [
+        11.986875,
+        44.975478,
+        12.088178,
+        45.020833
+    ],
+    "center": [
+        12.03333,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            44.98333
+        ]
+    }
+}

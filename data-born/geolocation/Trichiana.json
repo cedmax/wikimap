@@ -1,0 +1,27 @@
+{
+    "id": "place.4338594172866760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trichiana",
+    "place_name": "Trichiana, Belluno, Italy",
+    "bbox": [
+        12.115836,
+        46.00474,
+        12.227549,
+        46.093695
+    ],
+    "center": [
+        12.13444,
+        46.07444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13444,
+            46.07444
+        ]
+    }
+}

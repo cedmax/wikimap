@@ -1,0 +1,27 @@
+{
+    "id": "place.12489640303192870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Avigliano",
+    "place_name": "Avigliano, Potenza, Italy",
+    "bbox": [
+        15.695718,
+        40.703856,
+        15.829178,
+        40.836448
+    ],
+    "center": [
+        15.71667,
+        40.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.71667,
+            40.73333
+        ]
+    }
+}

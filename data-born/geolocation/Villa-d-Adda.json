@@ -1,0 +1,27 @@
+{
+    "id": "place.13106429880333580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa d'Adda",
+    "place_name": "Villa d'Adda, Bergamo, Italy",
+    "bbox": [
+        9.447158,
+        45.697257,
+        9.483905,
+        45.732623
+    ],
+    "center": [
+        9.46667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.46667,
+            45.71667
+        ]
+    }
+}

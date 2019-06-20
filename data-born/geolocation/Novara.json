@@ -1,0 +1,27 @@
+{
+    "id": "place.3270686655188630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novara",
+    "place_name": "Novara, Novara, Italy",
+    "bbox": [
+        8.529269,
+        45.381514,
+        8.703437,
+        45.505141
+    ],
+    "center": [
+        8.61667,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.61667,
+            45.45
+        ]
+    }
+}

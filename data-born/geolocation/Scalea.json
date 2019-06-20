@@ -1,0 +1,27 @@
+{
+    "id": "place.10585600823056470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scalea",
+    "place_name": "Scalea, Cosenza, Italy",
+    "bbox": [
+        15.775214,
+        39.762366,
+        15.830641,
+        39.838457
+    ],
+    "center": [
+        15.8,
+        39.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.8,
+            39.81667
+        ]
+    }
+}

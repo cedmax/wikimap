@@ -1,0 +1,27 @@
+{
+    "id": "place.6891032054325480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crema",
+    "place_name": "Crema, Cremona, Italy",
+    "bbox": [
+        9.628638,
+        45.339199,
+        9.740271,
+        45.392856
+    ],
+    "center": [
+        9.68333,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68333,
+            45.36667
+        ]
+    }
+}

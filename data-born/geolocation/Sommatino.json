@@ -1,0 +1,27 @@
+{
+    "id": "place.11422336492598830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sommatino",
+    "place_name": "Sommatino, Caltanissetta, Italy",
+    "bbox": [
+        13.961068,
+        37.285949,
+        14.053154,
+        37.350544
+    ],
+    "center": [
+        13.9975,
+        37.33694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.9975,
+            37.33694
+        ]
+    }
+}

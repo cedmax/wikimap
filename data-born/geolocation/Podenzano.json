@@ -1,0 +1,27 @@
+{
+    "id": "place.10783034948202840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Podenzano",
+    "place_name": "Podenzano, Piacenza, Italy",
+    "bbox": [
+        9.646914,
+        44.928024,
+        9.760914,
+        45.006924
+    ],
+    "center": [
+        9.68333,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68333,
+            44.95
+        ]
+    }
+}

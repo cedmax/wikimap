@@ -1,0 +1,27 @@
+{
+    "id": "place.12879242533995930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Vigolo",
+    "place_name": "Vigolo, Bergamo, Italy",
+    "bbox": [
+        9.986187,
+        45.699115,
+        10.042604,
+        45.743418
+    ],
+    "center": [
+        10.01667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01667,
+            45.71667
+        ]
+    }
+}

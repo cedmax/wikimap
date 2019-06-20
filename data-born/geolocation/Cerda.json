@@ -1,0 +1,21 @@
+{
+    "id": "poi.2946347565556",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cerda",
+    "place_name": "Cerda, Cerda, Palermo 90010, Italy",
+    "center": [
+        13.814244500000001,
+        37.905328499999996
+    ],
+    "geometry": {
+        "coordinates": [
+            13.814244500000001,
+            37.905328499999996
+        ],
+        "type": "Point"
+    }
+}

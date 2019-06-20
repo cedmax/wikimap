@@ -1,0 +1,27 @@
+{
+    "id": "place.1864200868836180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oulx",
+    "place_name": "Oulx, Torino, Italy",
+    "bbox": [
+        6.703719,
+        44.986816,
+        6.914922,
+        45.114053
+    ],
+    "center": [
+        6.83333,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.83333,
+            45.03333
+        ]
+    }
+}

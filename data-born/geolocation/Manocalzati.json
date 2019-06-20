@@ -1,0 +1,27 @@
+{
+    "id": "place.9126655224508330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manocalzati",
+    "place_name": "Manocalzati, Avellino, Italy",
+    "bbox": [
+        14.828118,
+        40.92138,
+        14.863147,
+        40.963087
+    ],
+    "center": [
+        14.85056,
+        40.9425
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85056,
+            40.9425
+        ]
+    }
+}

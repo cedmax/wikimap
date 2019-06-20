@@ -1,0 +1,27 @@
+{
+    "id": "place.4712378957489560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sassetta",
+    "place_name": "Sassetta, Livorno, Italy",
+    "bbox": [
+        10.627451,
+        43.105583,
+        10.719671,
+        43.173375
+    ],
+    "center": [
+        10.65,
+        43.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.65,
+            43.13333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10920311809436070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesiomaggiore",
+    "place_name": "Cesiomaggiore, Belluno, Italy",
+    "bbox": [
+        11.89191,
+        46.035807,
+        12.020011,
+        46.176003
+    ],
+    "center": [
+        11.98333,
+        46.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98333,
+            46.08333
+        ]
+    }
+}

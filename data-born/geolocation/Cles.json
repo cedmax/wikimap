@@ -1,0 +1,27 @@
+{
+    "id": "place.5776670588828960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cles",
+    "place_name": "Cles, Trento, Italy",
+    "bbox": [
+        10.901458,
+        46.276627,
+        11.056307,
+        46.393954
+    ],
+    "center": [
+        11.03333,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            46.36667
+        ]
+    }
+}

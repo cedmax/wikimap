@@ -1,0 +1,27 @@
+{
+    "id": "place.8856803819623350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossa",
+    "place_name": "Fossa, L'Aquila, Italy",
+    "bbox": [
+        13.471173,
+        42.283661,
+        13.517394,
+        42.320159
+    ],
+    "center": [
+        13.48779,
+        42.29273
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.48779,
+            42.29273
+        ]
+    }
+}

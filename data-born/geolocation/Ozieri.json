@@ -1,0 +1,27 @@
+{
+    "id": "place.9608589245118700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ozieri",
+    "place_name": "Ozieri, Sassari, Italy",
+    "bbox": [
+        8.838392,
+        40.534615,
+        9.057693,
+        40.754631
+    ],
+    "center": [
+        9,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            40.56667
+        ]
+    }
+}

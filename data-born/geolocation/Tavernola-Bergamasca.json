@@ -1,0 +1,27 @@
+{
+    "id": "place.8351305312534450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tavernola Bergamasca",
+    "place_name": "Tavernola Bergamasca, Bergamo, Italy",
+    "bbox": [
+        10.014346,
+        45.677328,
+        10.069166,
+        45.727984
+    ],
+    "center": [
+        10.05,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.05,
+            45.71667
+        ]
+    }
+}

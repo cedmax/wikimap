@@ -1,0 +1,27 @@
+{
+    "id": "place.9713778066736610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caulonia",
+    "place_name": "Caulonia, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.309799,
+        38.330238,
+        16.487338,
+        38.47828
+    ],
+    "center": [
+        16.41667,
+        38.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.41667,
+            38.38333
+        ]
+    }
+}

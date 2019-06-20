@@ -1,0 +1,27 @@
+{
+    "id": "place.13763862540099110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loreto",
+    "place_name": "Loreto, Ancona, Italy",
+    "bbox": [
+        13.579312,
+        43.416918,
+        13.658326,
+        43.45622
+    ],
+    "center": [
+        13.60743,
+        43.4403
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.60743,
+            43.4403
+        ]
+    }
+}

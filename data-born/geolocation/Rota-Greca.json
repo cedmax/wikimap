@@ -1,0 +1,27 @@
+{
+    "id": "place.10153625282672010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rota Greca",
+    "place_name": "Rota Greca, Cosenza, Italy",
+    "bbox": [
+        16.067236,
+        39.445228,
+        16.134299,
+        39.480055
+    ],
+    "center": [
+        16.11667,
+        39.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.11667,
+            39.46667
+        ]
+    }
+}

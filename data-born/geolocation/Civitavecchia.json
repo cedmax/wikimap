@@ -1,0 +1,27 @@
+{
+    "id": "place.14509220256566370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civitavecchia",
+    "place_name": "Civitavecchia, Roma, Italy",
+    "bbox": [
+        11.73365,
+        42.056961,
+        11.871726,
+        42.163296
+    ],
+    "center": [
+        11.8,
+        42.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            42.1
+        ]
+    }
+}

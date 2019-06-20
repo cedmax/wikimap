@@ -1,0 +1,27 @@
+{
+    "id": "place.10911686346610340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siniscola",
+    "place_name": "Siniscola, Nuoro, Italy",
+    "bbox": [
+        9.580094,
+        40.471568,
+        9.829022,
+        40.614778
+    ],
+    "center": [
+        9.7,
+        40.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.7,
+            40.58333
+        ]
+    }
+}

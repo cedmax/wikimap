@@ -1,0 +1,27 @@
+{
+    "id": "place.5278971533725160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sanremo",
+    "place_name": "Sanremo, Imperia, Italy",
+    "bbox": [
+        7.705506,
+        43.796075,
+        7.847282,
+        43.875458
+    ],
+    "center": [
+        7.78656,
+        43.82141
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78656,
+            43.82141
+        ]
+    }
+}

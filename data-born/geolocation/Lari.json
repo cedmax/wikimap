@@ -1,0 +1,21 @@
+{
+    "id": "poi.2147483701000",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.95,
+    "text": "Bari İtalyan Dondurma & Waffle",
+    "place_name": "Bari İtalyan Dondurma & Waffle, Mehmet akif ersoy mah., Ankara, Ankara, Turkey",
+    "center": [
+        32.7719,
+        39.966996
+    ],
+    "geometry": {
+        "coordinates": [
+            32.7719,
+            39.966996
+        ],
+        "type": "Point"
+    }
+}

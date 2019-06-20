@@ -1,0 +1,27 @@
+{
+    "id": "place.2311317890837530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maserà di Padova",
+    "place_name": "Maserà di Padova, Padova, Italy",
+    "bbox": [
+        11.818461,
+        45.279737,
+        11.904651,
+        45.338154
+    ],
+    "center": [
+        11.86667,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            45.31667
+        ]
+    }
+}

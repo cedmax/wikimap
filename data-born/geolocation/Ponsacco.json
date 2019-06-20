@@ -1,0 +1,27 @@
+{
+    "id": "place.6790535497383070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponsacco",
+    "place_name": "Ponsacco, Pisa, Italy",
+    "bbox": [
+        10.600301,
+        43.590204,
+        10.667603,
+        43.645294
+    ],
+    "center": [
+        10.63333,
+        43.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63333,
+            43.61667
+        ]
+    }
+}

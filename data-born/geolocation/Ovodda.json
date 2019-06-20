@@ -1,0 +1,27 @@
+{
+    "id": "place.6673994231123960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ovodda",
+    "place_name": "Ovodda, Nuoro, Italy",
+    "bbox": [
+        9.133063,
+        40.062268,
+        9.233676,
+        40.131963
+    ],
+    "center": [
+        9.16667,
+        40.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            40.1
+        ]
+    }
+}

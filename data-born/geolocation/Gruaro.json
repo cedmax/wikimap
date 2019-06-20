@@ -1,0 +1,27 @@
+{
+    "id": "place.8015339330140780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gruaro",
+    "place_name": "Gruaro, Venezia, Italy",
+    "bbox": [
+        12.802479,
+        45.788774,
+        12.877673,
+        45.850557
+    ],
+    "center": [
+        12.83333,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            45.83333
+        ]
+    }
+}

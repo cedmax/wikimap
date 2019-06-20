@@ -1,0 +1,27 @@
+{
+    "id": "place.11482953036024050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mammola",
+    "place_name": "Mammola, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.152998,
+        38.314085,
+        16.261831,
+        38.438951
+    ],
+    "center": [
+        16.23333,
+        38.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.23333,
+            38.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9543948664127920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Selvino",
+    "place_name": "Selvino, Bergamo, Italy",
+    "bbox": [
+        9.730819,
+        45.768553,
+        9.764619,
+        45.80111
+    ],
+    "center": [
+        9.75,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.75,
+            45.78333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11692125658867630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo di Brolo",
+    "place_name": "Sant'Angelo di Brolo, Messina, Italy",
+    "bbox": [
+        14.85767,
+        38.0621,
+        14.931153,
+        38.145037
+    ],
+    "center": [
+        14.88333,
+        38.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88333,
+            38.11667
+        ]
+    }
+}

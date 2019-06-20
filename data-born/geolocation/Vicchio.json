@@ -1,0 +1,27 @@
+{
+    "id": "place.10145507157864560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicchio",
+    "place_name": "Vicchio, Firenze, Italy",
+    "bbox": [
+        11.41649,
+        43.875362,
+        11.59805,
+        44.031796
+    ],
+    "center": [
+        11.46667,
+        43.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46667,
+            43.93333
+        ]
+    }
+}

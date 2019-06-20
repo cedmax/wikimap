@@ -1,0 +1,27 @@
+{
+    "id": "place.17580817321515970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agordo",
+    "place_name": "Agordo, Belluno, Italy",
+    "bbox": [
+        11.993691,
+        46.268956,
+        12.082116,
+        46.348365
+    ],
+    "center": [
+        12.03444,
+        46.28222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03444,
+            46.28222
+        ]
+    }
+}

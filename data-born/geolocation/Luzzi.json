@@ -1,0 +1,27 @@
+{
+    "id": "place.9173898110900250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Luzzi",
+    "place_name": "Luzzi, Cosenza, Italy",
+    "bbox": [
+        16.217984,
+        39.409713,
+        16.373754,
+        39.488396
+    ],
+    "center": [
+        16.28333,
+        39.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            39.45
+        ]
+    }
+}

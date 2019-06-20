@@ -1,0 +1,27 @@
+{
+    "id": "place.7083135965559110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria a Monte",
+    "place_name": "Santa Maria a Monte, Pisa, Italy",
+    "bbox": [
+        10.645518,
+        43.660546,
+        10.725312,
+        43.75421
+    ],
+    "center": [
+        10.68333,
+        43.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68333,
+            43.7
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10221837600416170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Squinzano",
+    "place_name": "Squinzano, Lecce, Italy",
+    "bbox": [
+        17.978871,
+        40.422612,
+        18.123347,
+        40.514989
+    ],
+    "center": [
+        18.05,
+        40.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.43333
+        ]
+    }
+}

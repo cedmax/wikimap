@@ -1,0 +1,27 @@
+{
+    "id": "place.16053308218928100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marcon",
+    "place_name": "Marcon, Venezia, Italy",
+    "bbox": [
+        12.274549,
+        45.531749,
+        12.385983,
+        45.576472
+    ],
+    "center": [
+        12.3,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3,
+            45.56667
+        ]
+    }
+}

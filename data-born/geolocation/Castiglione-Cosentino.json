@@ -1,0 +1,27 @@
+{
+    "id": "place.6962724187175530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione Cosentino",
+    "place_name": "Castiglione Cosentino, Cosenza, Italy",
+    "bbox": [
+        16.256324,
+        39.343024,
+        16.313302,
+        39.381164
+    ],
+    "center": [
+        16.28333,
+        39.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            39.35
+        ]
+    }
+}

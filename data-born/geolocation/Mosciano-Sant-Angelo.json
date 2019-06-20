@@ -1,0 +1,27 @@
+{
+    "id": "place.9068079704477480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mosciano Sant'Angelo",
+    "place_name": "Mosciano Sant'Angelo, Teramo, Italy",
+    "bbox": [
+        13.840395,
+        42.697323,
+        13.950284,
+        42.782383
+    ],
+    "center": [
+        13.88333,
+        42.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88333,
+            42.75
+        ]
+    }
+}

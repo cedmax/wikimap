@@ -1,0 +1,27 @@
+{
+    "id": "place.9920259127145120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belmonte Calabro",
+    "place_name": "Belmonte Calabro, Cosenza, Italy",
+    "bbox": [
+        16.063154,
+        39.147226,
+        16.136048,
+        39.211902
+    ],
+    "center": [
+        16.08333,
+        39.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            39.16667
+        ]
+    }
+}

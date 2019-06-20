@@ -1,0 +1,27 @@
+{
+    "id": "place.9360108033338380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brugherio",
+    "place_name": "Brugherio, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.267439,
+        45.536675,
+        9.326161,
+        45.571358
+    ],
+    "center": [
+        9.30111,
+        45.55083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.30111,
+            45.55083
+        ]
+    }
+}

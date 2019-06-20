@@ -1,0 +1,27 @@
+{
+    "id": "place.10570025663718980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gazzaniga",
+    "place_name": "Gazzaniga, Bergamo, Italy",
+    "bbox": [
+        9.765566,
+        45.786119,
+        9.840133,
+        45.839545
+    ],
+    "center": [
+        9.83333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.83333,
+            45.8
+        ]
+    }
+}

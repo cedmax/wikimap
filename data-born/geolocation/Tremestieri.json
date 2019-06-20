@@ -1,0 +1,21 @@
+{
+    "id": "address.53583324",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Tremestieri",
+    "place_name": "via Tremestieri, 95030 Mascalucia Catania, Italy",
+    "center": [
+        15.057683,
+        37.572712
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.057683,
+            37.572712
+        ]
+    }
+}

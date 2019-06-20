@@ -1,0 +1,27 @@
+{
+    "id": "place.11998356292372490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Romano",
+    "place_name": "Monte Romano, Viterbo, Italy",
+    "bbox": [
+        11.851672,
+        42.229884,
+        11.968311,
+        42.426408
+    ],
+    "center": [
+        11.89861,
+        42.26806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.89861,
+            42.26806
+        ]
+    }
+}

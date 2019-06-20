@@ -1,0 +1,27 @@
+{
+    "id": "place.14766963163308540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arco",
+    "place_name": "Arco, Trento, Italy",
+    "bbox": [
+        10.849207,
+        45.872941,
+        10.98461,
+        45.990229
+    ],
+    "center": [
+        10.88333,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.88333,
+            45.91667
+        ]
+    }
+}

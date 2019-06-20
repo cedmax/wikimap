@@ -1,0 +1,27 @@
+{
+    "id": "place.5793425069086460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camino",
+    "place_name": "Camino, Alessandria, Italy",
+    "bbox": [
+        8.236504,
+        45.143562,
+        8.321429,
+        45.181508
+    ],
+    "center": [
+        8.29167,
+        45.16111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.29167,
+            45.16111
+        ]
+    }
+}

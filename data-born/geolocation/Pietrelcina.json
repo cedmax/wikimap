@@ -1,0 +1,27 @@
+{
+    "id": "place.9851997283330440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietrelcina",
+    "place_name": "Pietrelcina, Benevento, Italy",
+    "bbox": [
+        14.806831,
+        41.163285,
+        14.891688,
+        41.233998
+    ],
+    "center": [
+        14.85,
+        41.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85,
+            41.2
+        ]
+    }
+}

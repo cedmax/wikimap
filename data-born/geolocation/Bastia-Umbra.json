@@ -1,0 +1,27 @@
+{
+    "id": "place.16309822533853590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bastia Umbra",
+    "place_name": "Bastia Umbra, Perugia, Italy",
+    "bbox": [
+        12.490866,
+        43.031388,
+        12.572231,
+        43.091145
+    ],
+    "center": [
+        12.55,
+        43.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.55,
+            43.06667
+        ]
+    }
+}

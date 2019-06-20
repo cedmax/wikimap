@@ -1,0 +1,21 @@
+{
+    "id": "poi.2370822015451",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Maggiora",
+    "place_name": "Maggiora, Corso Fiume 2/C, Torino, Torino 10133, Italy",
+    "center": [
+        7.693568,
+        45.057421
+    ],
+    "geometry": {
+        "coordinates": [
+            7.693568,
+            45.057421
+        ],
+        "type": "Point"
+    }
+}

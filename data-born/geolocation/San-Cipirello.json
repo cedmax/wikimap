@@ -1,0 +1,27 @@
+{
+    "id": "place.5693172118962220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Cipirello",
+    "place_name": "San Cipirello, Palermo, Italy",
+    "bbox": [
+        13.145573,
+        37.901554,
+        13.211358,
+        37.970565
+    ],
+    "center": [
+        13.18333,
+        37.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            37.96667
+        ]
+    }
+}

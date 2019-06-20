@@ -1,0 +1,27 @@
+{
+    "id": "place.7061477786574590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villarosa",
+    "place_name": "Villarosa, Enna, Italy",
+    "bbox": [
+        14.133309,
+        37.532828,
+        14.237307,
+        37.644959
+    ],
+    "center": [
+        14.16667,
+        37.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.16667,
+            37.58333
+        ]
+    }
+}

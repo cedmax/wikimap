@@ -1,0 +1,27 @@
+{
+    "id": "place.13894192685140140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stezzano",
+    "place_name": "Stezzano, Bergamo, Italy",
+    "bbox": [
+        9.62625,
+        45.627399,
+        9.676316,
+        45.665287
+    ],
+    "center": [
+        9.65278,
+        45.65083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65278,
+            45.65083
+        ]
+    }
+}

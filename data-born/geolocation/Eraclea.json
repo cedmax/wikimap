@@ -1,0 +1,27 @@
+{
+    "id": "place.5249383879094930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Eraclea",
+    "place_name": "Eraclea, Venezia, Italy",
+    "bbox": [
+        12.635111,
+        45.532341,
+        12.817382,
+        45.651538
+    ],
+    "center": [
+        12.68333,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68333,
+            45.58333
+        ]
+    }
+}

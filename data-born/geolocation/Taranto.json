@@ -1,0 +1,27 @@
+{
+    "id": "place.9055721523123140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taranto",
+    "place_name": "Taranto, Taranto, Italy",
+    "bbox": [
+        17.117368,
+        40.330025,
+        17.473188,
+        40.591499
+    ],
+    "center": [
+        17.24083,
+        40.41806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.24083,
+            40.41806
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13670429437742170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Partinico",
+    "place_name": "Partinico, Palermo, Italy",
+    "bbox": [
+        12.982446,
+        37.946682,
+        13.154257,
+        38.082747
+    ],
+    "center": [
+        13.11667,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11667,
+            38.05
+        ]
+    }
+}

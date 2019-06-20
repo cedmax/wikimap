@@ -1,0 +1,27 @@
+{
+    "id": "place.16499902005133930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalbano Jonico",
+    "place_name": "Montalbano Jonico, Matera, Italy",
+    "bbox": [
+        16.475575,
+        40.242485,
+        16.689423,
+        40.359523
+    ],
+    "center": [
+        16.56667,
+        40.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.56667,
+            40.28333
+        ]
+    }
+}

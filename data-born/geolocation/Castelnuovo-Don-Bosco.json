@@ -1,0 +1,27 @@
+{
+    "id": "place.5812167690406230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Don Bosco",
+    "place_name": "Castelnuovo Don Bosco, Asti, Italy",
+    "bbox": [
+        7.940419,
+        44.996108,
+        8.017701,
+        45.071583
+    ],
+    "center": [
+        7.96417,
+        45.04167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.96417,
+            45.04167
+        ]
+    }
+}

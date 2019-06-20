@@ -1,0 +1,27 @@
+{
+    "id": "place.13765132011322790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Erba",
+    "place_name": "Erba, Como, Italy",
+    "bbox": [
+        9.182957,
+        45.787102,
+        9.254693,
+        45.844909
+    ],
+    "center": [
+        9.21667,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.21667,
+            45.81667
+        ]
+    }
+}

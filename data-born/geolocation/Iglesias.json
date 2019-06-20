@@ -1,0 +1,27 @@
+{
+    "id": "place.8389694057245040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Iglesias",
+    "place_name": "Iglesias, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.373129,
+        39.212052,
+        8.710767,
+        39.382005
+    ],
+    "center": [
+        8.53333,
+        39.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.53333,
+            39.31667
+        ]
+    }
+}

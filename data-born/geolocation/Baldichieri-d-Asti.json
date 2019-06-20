@@ -1,0 +1,27 @@
+{
+    "id": "place.8152916040903390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baldichieri d'Asti",
+    "place_name": "Baldichieri d'Asti, Asti, Italy",
+    "bbox": [
+        8.070267,
+        44.893563,
+        8.11261,
+        44.922477
+    ],
+    "center": [
+        8.09278,
+        44.90694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.09278,
+            44.90694
+        ]
+    }
+}

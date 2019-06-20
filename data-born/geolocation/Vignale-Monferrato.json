@@ -1,0 +1,27 @@
+{
+    "id": "place.9904779076299750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vignale Monferrato",
+    "place_name": "Vignale Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.357053,
+        44.975923,
+        8.441994,
+        45.03153
+    ],
+    "center": [
+        8.39722,
+        45.01222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.39722,
+            45.01222
+        ]
+    }
+}

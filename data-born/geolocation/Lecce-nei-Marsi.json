@@ -1,0 +1,27 @@
+{
+    "id": "place.7586228546362540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lecce nei Marsi",
+    "place_name": "Lecce nei Marsi, L'Aquila, Italy",
+    "bbox": [
+        13.621076,
+        41.833083,
+        13.754785,
+        41.95463
+    ],
+    "center": [
+        13.68778,
+        41.93472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68778,
+            41.93472
+        ]
+    }
+}

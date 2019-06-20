@@ -1,0 +1,27 @@
+{
+    "id": "place.15314515996918470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sossano",
+    "place_name": "Sossano, Vicenza, Italy",
+    "bbox": [
+        11.488885,
+        45.31434,
+        11.564259,
+        45.384563
+    ],
+    "center": [
+        11.51667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.51667,
+            45.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14253752380600700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gioia Tauro",
+    "place_name": "Gioia Tauro, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.876883,
+        38.379952,
+        15.965653,
+        38.472429
+    ],
+    "center": [
+        15.9,
+        38.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.9,
+            38.43333
+        ]
+    }
+}

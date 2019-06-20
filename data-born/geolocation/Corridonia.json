@@ -1,0 +1,27 @@
+{
+    "id": "place.8913703167027550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corridonia",
+    "place_name": "Corridonia, Macerata, Italy",
+    "bbox": [
+        13.416357,
+        43.211342,
+        13.572779,
+        43.291825
+    ],
+    "center": [
+        13.50753,
+        43.24822
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.50753,
+            43.24822
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3854688621936270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campolongo Maggiore",
+    "place_name": "Campolongo Maggiore, Venezia, Italy",
+    "bbox": [
+        12.012472,
+        45.31167,
+        12.126074,
+        45.357454
+    ],
+    "center": [
+        12.05,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05,
+            45.33333
+        ]
+    }
+}

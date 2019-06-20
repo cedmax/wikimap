@@ -1,0 +1,27 @@
+{
+    "id": "place.5862002485144090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Nicola la Strada",
+    "place_name": "San Nicola la Strada, Caserta, Italy",
+    "bbox": [
+        14.308121,
+        41.037317,
+        14.350498,
+        41.065169
+    ],
+    "center": [
+        14.33333,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.33333,
+            41.05
+        ]
+    }
+}

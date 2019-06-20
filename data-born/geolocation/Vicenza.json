@@ -1,0 +1,27 @@
+{
+    "id": "place.10262492279487700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicenza",
+    "place_name": "Vicenza, Vicenza, Italy",
+    "bbox": [
+        11.486567,
+        45.483232,
+        11.616057,
+        45.609048
+    ],
+    "center": [
+        11.55,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55,
+            45.55
+        ]
+    }
+}

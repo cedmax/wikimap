@@ -1,0 +1,27 @@
+{
+    "id": "place.5233919617713100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Voltago Agordino",
+    "place_name": "Voltago Agordino, Belluno, Italy",
+    "bbox": [
+        11.929335,
+        46.234089,
+        12.023003,
+        46.285529
+    ],
+    "center": [
+        12.03333,
+        46.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.03333,
+            46.26667
+        ]
+    }
+}

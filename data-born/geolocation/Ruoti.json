@@ -1,0 +1,27 @@
+{
+    "id": "place.7774918030571640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ruoti",
+    "place_name": "Ruoti, Potenza, Italy",
+    "bbox": [
+        15.632984,
+        40.659493,
+        15.744764,
+        40.758537
+    ],
+    "center": [
+        15.68333,
+        40.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.68333,
+            40.71667
+        ]
+    }
+}

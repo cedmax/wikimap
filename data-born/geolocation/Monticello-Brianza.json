@@ -1,0 +1,27 @@
+{
+    "id": "place.11842527891235710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monticello Brianza",
+    "place_name": "Monticello Brianza, Lecco, Italy",
+    "bbox": [
+        9.291392,
+        45.698378,
+        9.327032,
+        45.729514
+    ],
+    "center": [
+        9.31667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.71667
+        ]
+    }
+}

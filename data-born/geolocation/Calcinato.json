@@ -1,0 +1,27 @@
+{
+    "id": "place.9932004853425580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calcinato",
+    "place_name": "Calcinato, Brescia, Italy",
+    "bbox": [
+        10.341552,
+        45.416985,
+        10.457767,
+        45.487868
+    ],
+    "center": [
+        10.4146,
+        45.4581
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4146,
+            45.4581
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11148554468434380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villorba",
+    "place_name": "Villorba, Treviso, Italy",
+    "bbox": [
+        12.20656,
+        45.686312,
+        12.290828,
+        45.768157
+    ],
+    "center": [
+        12.23333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23333,
+            45.73333
+        ]
+    }
+}

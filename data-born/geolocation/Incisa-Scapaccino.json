@@ -1,0 +1,27 @@
+{
+    "id": "place.6288669334411820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Incisa Scapaccino",
+    "place_name": "Incisa Scapaccino, Asti, Italy",
+    "bbox": [
+        8.34549,
+        44.784384,
+        8.428336,
+        44.84951
+    ],
+    "center": [
+        8.37694,
+        44.80889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.37694,
+            44.80889
+        ]
+    }
+}

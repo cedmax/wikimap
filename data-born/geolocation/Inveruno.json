@@ -1,0 +1,27 @@
+{
+    "id": "place.10892235697151560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Inveruno",
+    "place_name": "Inveruno, Milano, Italy",
+    "bbox": [
+        8.815865,
+        45.502687,
+        8.893057,
+        45.533011
+    ],
+    "center": [
+        8.85,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.85,
+            45.51667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2388001873969",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Bianchi",
+    "place_name": "Bianchi, Via Giuseppe Eugenio Luraghi 11, Lainate, Milano 20020, Italy",
+    "center": [
+        9.049528,
+        45.56396
+    ],
+    "geometry": {
+        "coordinates": [
+            9.049528,
+            45.56396
+        ],
+        "type": "Point"
+    }
+}

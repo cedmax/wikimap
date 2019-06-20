@@ -1,0 +1,29 @@
+{
+    "id": "place.9505603694464900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Reggio di Calabria",
+    "place_name": "Reggio di Calabria, Reggio Di Calabria, Italy",
+    "matching_text": "Reggio Calabria",
+    "matching_place_name": "Reggio Calabria, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.630237,
+        37.990839,
+        15.864818,
+        38.212855
+    ],
+    "center": [
+        15.65,
+        38.11444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.65,
+            38.11444
+        ]
+    }
+}

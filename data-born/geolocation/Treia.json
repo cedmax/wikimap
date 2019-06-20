@@ -1,0 +1,27 @@
+{
+    "id": "place.3317834924348940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Treia",
+    "place_name": "Treia, Macerata, Italy",
+    "bbox": [
+        13.229951,
+        43.263435,
+        13.403226,
+        43.371491
+    ],
+    "center": [
+        13.31305,
+        43.31137
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31305,
+            43.31137
+        ]
+    }
+}

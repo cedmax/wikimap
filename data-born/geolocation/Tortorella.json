@@ -1,0 +1,27 @@
+{
+    "id": "place.5261536843359700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tortorella",
+    "place_name": "Tortorella, Salerno, Italy",
+    "bbox": [
+        15.543378,
+        40.075406,
+        15.709236,
+        40.161437
+    ],
+    "center": [
+        15.6,
+        40.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.6,
+            40.13333
+        ]
+    }
+}

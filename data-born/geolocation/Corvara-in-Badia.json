@@ -1,0 +1,27 @@
+{
+    "id": "place.1868445470868020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corvara in Badia - Corvara",
+    "place_name": "Corvara in Badia - Corvara, Bolzano, Italy",
+    "bbox": [
+        11.802164,
+        46.50913,
+        11.916519,
+        46.594558
+    ],
+    "center": [
+        11.86667,
+        46.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            46.55
+        ]
+    }
+}

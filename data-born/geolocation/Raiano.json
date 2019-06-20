@@ -1,0 +1,27 @@
+{
+    "id": "place.11792542243993910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Raiano",
+    "place_name": "Raiano, L'Aquila, Italy",
+    "bbox": [
+        13.758833,
+        42.06746,
+        13.859092,
+        42.135498
+    ],
+    "center": [
+        13.81556,
+        42.10333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81556,
+            42.10333
+        ]
+    }
+}

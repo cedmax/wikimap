@@ -1,0 +1,27 @@
+{
+    "id": "place.12763661180398820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gualtieri",
+    "place_name": "Gualtieri, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.578435,
+        44.835995,
+        10.649201,
+        44.925185
+    ],
+    "center": [
+        10.63333,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63333,
+            44.9
+        ]
+    }
+}

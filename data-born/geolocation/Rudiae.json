@@ -1,0 +1,21 @@
+{
+    "id": "poi.2499671028048",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9,
+    "text": "Bar Rudiae",
+    "place_name": "Bar Rudiae, Lecce, Lecce 73100, Italy",
+    "center": [
+        18.163977,
+        40.351445
+    ],
+    "geometry": {
+        "coordinates": [
+            18.163977,
+            40.351445
+        ],
+        "type": "Point"
+    }
+}

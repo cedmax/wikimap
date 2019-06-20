@@ -1,0 +1,21 @@
+{
+    "id": "poi.1022202217358",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Busseto",
+    "place_name": "Busseto, Busseto, Parma 43011, Italy",
+    "center": [
+        10.042677000000001,
+        44.9792255
+    ],
+    "geometry": {
+        "coordinates": [
+            10.042677000000001,
+            44.9792255
+        ],
+        "type": "Point"
+    }
+}

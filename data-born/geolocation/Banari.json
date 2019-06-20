@@ -1,0 +1,27 @@
+{
+    "id": "place.4332962361907840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Banari",
+    "place_name": "Banari, Sassari, Italy",
+    "bbox": [
+        8.627481,
+        40.559789,
+        8.715848,
+        40.602572
+    ],
+    "center": [
+        8.7,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            40.56667
+        ]
+    }
+}

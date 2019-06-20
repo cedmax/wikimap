@@ -1,0 +1,27 @@
+{
+    "id": "place.9884300898053390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Goito",
+    "place_name": "Goito, Mantova, Italy",
+    "bbox": [
+        10.565803,
+        45.205853,
+        10.733037,
+        45.295045
+    ],
+    "center": [
+        10.66667,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66667,
+            45.25
+        ]
+    }
+}

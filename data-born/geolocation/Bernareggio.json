@@ -1,0 +1,27 @@
+{
+    "id": "place.10534095631612070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bernareggio",
+    "place_name": "Bernareggio, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.381717,
+        45.629694,
+        9.423623,
+        45.665938
+    ],
+    "center": [
+        9.4,
+        45.645
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.645
+        ]
+    }
+}

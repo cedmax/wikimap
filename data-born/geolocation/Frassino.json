@@ -1,0 +1,21 @@
+{
+    "id": "poi.2336462250827",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Frassino",
+    "place_name": "Frassino, Frassino, Cuneo 12020, Italy",
+    "center": [
+        7.2759065,
+        44.5714575
+    ],
+    "geometry": {
+        "coordinates": [
+            7.2759065,
+            44.5714575
+        ],
+        "type": "Point"
+    }
+}

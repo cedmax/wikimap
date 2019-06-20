@@ -1,0 +1,27 @@
+{
+    "id": "place.3288569846314410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bellaria-Igea Marina",
+    "place_name": "Bellaria-Igea Marina, Rimini, Italy",
+    "bbox": [
+        12.429011,
+        44.107649,
+        12.503874,
+        44.162198
+    ],
+    "center": [
+        12.45,
+        44.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            44.15
+        ]
+    }
+}

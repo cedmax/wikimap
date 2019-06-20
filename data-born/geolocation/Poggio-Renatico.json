@@ -1,0 +1,27 @@
+{
+    "id": "place.19142227659280200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio Renatico",
+    "place_name": "Poggio Renatico, Ferrara, Italy",
+    "bbox": [
+        11.398465,
+        44.707491,
+        11.592957,
+        44.820168
+    ],
+    "center": [
+        11.48333,
+        44.765
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48333,
+            44.765
+        ]
+    }
+}

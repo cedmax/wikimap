@@ -1,0 +1,27 @@
+{
+    "id": "place.10847100004848080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torchiarolo",
+    "place_name": "Torchiarolo, Brindisi, Italy",
+    "bbox": [
+        18.010416,
+        40.460083,
+        18.098054,
+        40.539921
+    ],
+    "center": [
+        18.05,
+        40.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.48333
+        ]
+    }
+}

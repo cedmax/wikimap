@@ -1,0 +1,21 @@
+{
+    "id": "poi.2920577774636",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Porto Santo Stefano",
+    "place_name": "Porto Santo Stefano, Porto Santo Stefano, Monte Argentario, Grosseto 58019, Italy",
+    "center": [
+        11.1187095,
+        42.436389
+    ],
+    "geometry": {
+        "coordinates": [
+            11.1187095,
+            42.436389
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5667699357987350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteiasi",
+    "place_name": "Monteiasi, Taranto, Italy",
+    "bbox": [
+        17.346742,
+        40.482951,
+        17.409937,
+        40.516407
+    ],
+    "center": [
+        17.38333,
+        40.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.38333,
+            40.5
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2413771657929",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Calascibetta",
+    "place_name": "Calascibetta, Via Maddalena 3, Calascibetta, Enna 94010, Italy",
+    "center": [
+        14.271835500000002,
+        37.589845499999996
+    ],
+    "geometry": {
+        "coordinates": [
+            14.271835500000002,
+            37.589845499999996
+        ],
+        "type": "Point"
+    }
+}

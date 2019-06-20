@@ -1,0 +1,27 @@
+{
+    "id": "place.12281223185280290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelluccio Inferiore",
+    "place_name": "Castelluccio Inferiore, Potenza, Italy",
+    "bbox": [
+        15.966144,
+        39.982331,
+        16.056667,
+        40.040855
+    ],
+    "center": [
+        15.98333,
+        40
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            40
+        ]
+    }
+}

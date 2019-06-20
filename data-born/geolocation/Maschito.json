@@ -1,0 +1,27 @@
+{
+    "id": "place.10486440933872060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maschito",
+    "place_name": "Maschito, Potenza, Italy",
+    "bbox": [
+        15.763218,
+        40.886147,
+        15.941645,
+        40.954787
+    ],
+    "center": [
+        15.83333,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.83333,
+            40.91667
+        ]
+    }
+}

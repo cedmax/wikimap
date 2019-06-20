@@ -1,0 +1,27 @@
+{
+    "id": "place.12904608085794880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio Bustone",
+    "place_name": "Poggio Bustone, Rieti, Italy",
+    "bbox": [
+        12.836191,
+        42.476169,
+        12.92854,
+        42.531917
+    ],
+    "center": [
+        12.88333,
+        42.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88333,
+            42.5
+        ]
+    }
+}

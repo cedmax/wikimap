@@ -1,0 +1,27 @@
+{
+    "id": "place.14439209445615050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frattaminore",
+    "place_name": "Frattaminore, Napoli, Italy",
+    "bbox": [
+        14.258985,
+        40.947752,
+        14.285406,
+        40.961693
+    ],
+    "center": [
+        14.27083,
+        40.95556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.27083,
+            40.95556
+        ]
+    }
+}

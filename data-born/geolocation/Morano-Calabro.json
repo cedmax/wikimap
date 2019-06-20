@@ -1,0 +1,21 @@
+{
+    "id": "poi.2104533979778",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Morano Calabro",
+    "place_name": "Morano Calabro, Morano Calabro, Cosenza 87016, Italy",
+    "center": [
+        16.137468,
+        39.8423005
+    ],
+    "geometry": {
+        "coordinates": [
+            16.137468,
+            39.8423005
+        ],
+        "type": "Point"
+    }
+}

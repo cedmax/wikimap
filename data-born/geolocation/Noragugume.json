@@ -1,0 +1,27 @@
+{
+    "id": "place.1492861393537220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noragugume",
+    "place_name": "Noragugume, Nuoro, Italy",
+    "bbox": [
+        8.905633,
+        40.207685,
+        9.00929,
+        40.253709
+    ],
+    "center": [
+        8.92083,
+        40.22417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.92083,
+            40.22417
+        ]
+    }
+}

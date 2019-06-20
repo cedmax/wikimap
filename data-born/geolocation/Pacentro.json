@@ -1,0 +1,27 @@
+{
+    "id": "place.5892717943674370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pacentro",
+    "place_name": "Pacentro, L'Aquila, Italy",
+    "bbox": [
+        13.954514,
+        42.015839,
+        14.104413,
+        42.102104
+    ],
+    "center": [
+        13.99151,
+        42.05043
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.99151,
+            42.05043
+        ]
+    }
+}

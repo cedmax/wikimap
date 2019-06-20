@@ -1,0 +1,27 @@
+{
+    "id": "place.10602816618055050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formigine",
+    "place_name": "Formigine, Modena, Italy",
+    "bbox": [
+        10.784314,
+        44.53795,
+        10.921713,
+        44.62823
+    ],
+    "center": [
+        10.84778,
+        44.57389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.84778,
+            44.57389
+        ]
+    }
+}

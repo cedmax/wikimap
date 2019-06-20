@@ -1,0 +1,27 @@
+{
+    "id": "place.10474135241460600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asti",
+    "place_name": "Asti, Asti, Italy",
+    "bbox": [
+        8.088141,
+        44.841041,
+        8.316599,
+        44.994201
+    ],
+    "center": [
+        8.20694,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.20694,
+            44.9
+        ]
+    }
+}

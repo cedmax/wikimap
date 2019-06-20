@@ -1,0 +1,27 @@
+{
+    "id": "place.8457523300664790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barrafranca",
+    "place_name": "Barrafranca, Enna, Italy",
+    "bbox": [
+        14.127771,
+        37.323174,
+        14.256804,
+        37.400127
+    ],
+    "center": [
+        14.2,
+        37.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.2,
+            37.36667
+        ]
+    }
+}

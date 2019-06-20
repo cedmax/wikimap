@@ -1,0 +1,27 @@
+{
+    "id": "place.12926717597271500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dalmine",
+    "place_name": "Dalmine, Bergamo, Italy",
+    "bbox": [
+        9.566032,
+        45.6325,
+        9.63234,
+        45.661272
+    ],
+    "center": [
+        9.6,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6,
+            45.65
+        ]
+    }
+}

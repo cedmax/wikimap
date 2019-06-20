@@ -1,0 +1,27 @@
+{
+    "id": "place.7350424267127870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novi Ligure",
+    "place_name": "Novi Ligure, Alessandria, Italy",
+    "bbox": [
+        8.722996,
+        44.716303,
+        8.850506,
+        44.807964
+    ],
+    "center": [
+        8.78556,
+        44.75917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78556,
+            44.75917
+        ]
+    }
+}

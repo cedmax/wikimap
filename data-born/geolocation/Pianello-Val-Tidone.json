@@ -1,0 +1,27 @@
+{
+    "id": "place.11664955660803780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianello Val Tidone",
+    "place_name": "Pianello Val Tidone, Piacenza, Italy",
+    "bbox": [
+        9.356551,
+        44.879158,
+        9.460097,
+        44.976502
+    ],
+    "center": [
+        9.4,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            44.95
+        ]
+    }
+}

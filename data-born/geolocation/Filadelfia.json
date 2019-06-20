@@ -1,0 +1,27 @@
+{
+    "id": "place.11963785402656180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filadelfia",
+    "place_name": "Filadelfia, Vibo Valentia, Italy",
+    "bbox": [
+        16.257505,
+        38.761351,
+        16.362132,
+        38.824051
+    ],
+    "center": [
+        16.29111,
+        38.78389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.29111,
+            38.78389
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10293732828124520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grottazzolina",
+    "place_name": "Grottazzolina, Fermo, Italy",
+    "bbox": [
+        13.573685,
+        43.095672,
+        13.629251,
+        43.137157
+    ],
+    "center": [
+        13.60094,
+        43.11103
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.60094,
+            43.11103
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11104714245272110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tursi",
+    "place_name": "Tursi, Matera, Italy",
+    "bbox": [
+        16.365085,
+        40.196435,
+        16.645961,
+        40.317811
+    ],
+    "center": [
+        16.46667,
+        40.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.46667,
+            40.25
+        ]
+    }
+}

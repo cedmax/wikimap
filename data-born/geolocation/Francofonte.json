@@ -1,0 +1,27 @@
+{
+    "id": "place.11874740579770680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francofonte",
+    "place_name": "Francofonte, Siracusa, Italy",
+    "bbox": [
+        14.773093,
+        37.167934,
+        14.945653,
+        37.272645
+    ],
+    "center": [
+        14.88333,
+        37.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88333,
+            37.23333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18065218970024780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteleone d'Orvieto",
+    "place_name": "Monteleone d'Orvieto, Terni, Italy",
+    "bbox": [
+        11.999708,
+        42.878736,
+        12.080943,
+        42.940235
+    ],
+    "center": [
+        12.05,
+        42.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05,
+            42.91667
+        ]
+    }
+}

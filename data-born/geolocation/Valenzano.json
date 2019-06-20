@@ -1,0 +1,27 @@
+{
+    "id": "place.7173169250962370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valenzano",
+    "place_name": "Valenzano, Bari, Italy",
+    "bbox": [
+        16.861142,
+        41.006689,
+        16.910589,
+        41.062562
+    ],
+    "center": [
+        16.88333,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.88333,
+            41.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7835064085422940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agata di Militello",
+    "place_name": "Sant'Agata di Militello, Messina, Italy",
+    "bbox": [
+        14.608242,
+        37.976622,
+        14.670107,
+        38.087464
+    ],
+    "center": [
+        14.63333,
+        38.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            38.06667
+        ]
+    }
+}

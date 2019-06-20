@@ -1,0 +1,27 @@
+{
+    "id": "place.13104798759073540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gorla Minore",
+    "place_name": "Gorla Minore, Varese, Italy",
+    "bbox": [
+        8.891001,
+        45.635454,
+        8.940046,
+        45.663305
+    ],
+    "center": [
+        8.9026,
+        45.6412
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9026,
+            45.6412
+        ]
+    }
+}

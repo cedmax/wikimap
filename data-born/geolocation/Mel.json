@@ -1,0 +1,27 @@
+{
+    "id": "place.9527851908165920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mel",
+    "place_name": "Mel, Belluno, Italy",
+    "bbox": [
+        12.026025,
+        45.960981,
+        12.169252,
+        46.090927
+    ],
+    "center": [
+        12.08333,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08333,
+            46.06667
+        ]
+    }
+}

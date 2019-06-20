@@ -1,0 +1,21 @@
+{
+    "id": "poi.2963527442856",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6,
+    "text": "La Civitella",
+    "place_name": "La Civitella, Via Pianell, Chieti, Chieti 66100, Italy",
+    "center": [
+        14.161978,
+        42.345858
+    ],
+    "geometry": {
+        "coordinates": [
+            14.161978,
+            42.345858
+        ],
+        "type": "Point"
+    }
+}

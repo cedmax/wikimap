@@ -1,0 +1,27 @@
+{
+    "id": "place.10804507217998610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lettere",
+    "place_name": "Lettere, Napoli, Italy",
+    "bbox": [
+        14.517547,
+        40.684601,
+        14.590497,
+        40.722617
+    ],
+    "center": [
+        14.55,
+        40.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            40.7
+        ]
+    }
+}

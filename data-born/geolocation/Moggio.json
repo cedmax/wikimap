@@ -1,0 +1,21 @@
+{
+    "id": "poi.3281355018096",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Moggio",
+    "place_name": "Moggio, Moggio, Lecco 23817, Italy",
+    "center": [
+        9.487005,
+        45.932356
+    ],
+    "geometry": {
+        "coordinates": [
+            9.487005,
+            45.932356
+        ],
+        "type": "Point"
+    }
+}

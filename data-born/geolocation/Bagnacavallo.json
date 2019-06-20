@@ -1,0 +1,27 @@
+{
+    "id": "place.12092134512259740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnacavallo",
+    "place_name": "Bagnacavallo, Ravenna, Italy",
+    "bbox": [
+        11.939159,
+        44.37749,
+        12.081761,
+        44.496763
+    ],
+    "center": [
+        11.98333,
+        44.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98333,
+            44.41667
+        ]
+    }
+}

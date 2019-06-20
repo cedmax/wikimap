@@ -1,0 +1,27 @@
+{
+    "id": "place.15276174692716000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Germignaga",
+    "place_name": "Germignaga, Varese, Italy",
+    "bbox": [
+        8.698675,
+        45.967605,
+        8.754086,
+        46.007088
+    ],
+    "center": [
+        8.73333,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            46
+        ]
+    }
+}

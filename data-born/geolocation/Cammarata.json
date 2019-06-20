@@ -1,0 +1,27 @@
+{
+    "id": "place.6648060494746540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cammarata",
+    "place_name": "Cammarata, Agrigento, Italy",
+    "bbox": [
+        13.5467,
+        37.565453,
+        13.831012,
+        37.695042
+    ],
+    "center": [
+        13.63222,
+        37.63111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.63222,
+            37.63111
+        ]
+    }
+}

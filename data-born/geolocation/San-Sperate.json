@@ -1,0 +1,27 @@
+{
+    "id": "place.15831408482029700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Sperate",
+    "place_name": "San Sperate, Cagliari, Italy",
+    "bbox": [
+        8.97589,
+        39.327021,
+        9.060724,
+        39.381462
+    ],
+    "center": [
+        9,
+        39.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            39.36667
+        ]
+    }
+}

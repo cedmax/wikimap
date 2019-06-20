@@ -1,0 +1,27 @@
+{
+    "id": "place.6927428394789960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Lupo",
+    "place_name": "San Lupo, Benevento, Italy",
+    "bbox": [
+        14.607779,
+        41.228249,
+        14.661495,
+        41.300145
+    ],
+    "center": [
+        14.63333,
+        41.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            41.26667
+        ]
+    }
+}

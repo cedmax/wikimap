@@ -1,0 +1,27 @@
+{
+    "id": "place.13370603700912860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Numana",
+    "place_name": "Numana, Ancona, Italy",
+    "bbox": [
+        13.591314,
+        43.468536,
+        13.642391,
+        43.5164
+    ],
+    "center": [
+        13.62157,
+        43.5136
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.62157,
+            43.5136
+        ]
+    }
+}

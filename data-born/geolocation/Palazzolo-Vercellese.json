@@ -1,0 +1,27 @@
+{
+    "id": "place.7321372162173800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzolo Vercellese",
+    "place_name": "Palazzolo Vercellese, Vercelli, Italy",
+    "bbox": [
+        8.206591,
+        45.163992,
+        8.266622,
+        45.208171
+    ],
+    "center": [
+        8.23333,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.23333,
+            45.18333
+        ]
+    }
+}

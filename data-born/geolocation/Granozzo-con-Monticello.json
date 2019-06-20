@@ -1,0 +1,27 @@
+{
+    "id": "place.7856084967248130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Granozzo con Monticello",
+    "place_name": "Granozzo con Monticello, Novara, Italy",
+    "bbox": [
+        8.55292,
+        45.345412,
+        8.623268,
+        45.39555
+    ],
+    "center": [
+        8.56667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56667,
+            45.36667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8846723321132420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzolo Formigaro",
+    "place_name": "Pozzolo Formigaro, Alessandria, Italy",
+    "bbox": [
+        8.734664,
+        44.780524,
+        8.853802,
+        44.842798
+    ],
+    "center": [
+        8.78583,
+        44.79611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78583,
+            44.79611
+        ]
+    }
+}

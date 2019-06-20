@@ -1,0 +1,27 @@
+{
+    "id": "place.8323809636924160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baunei",
+    "place_name": "Baunei, Ogliastra, Italy",
+    "bbox": [
+        9.547286,
+        39.984794,
+        9.735951,
+        40.224843
+    ],
+    "center": [
+        9.66667,
+        40.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.66667,
+            40.03333
+        ]
+    }
+}

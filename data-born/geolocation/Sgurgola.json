@@ -1,0 +1,27 @@
+{
+    "id": "place.11030020182984390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sgurgola",
+    "place_name": "Sgurgola, Frosinone, Italy",
+    "bbox": [
+        13.114434,
+        41.650651,
+        13.195865,
+        41.69531
+    ],
+    "center": [
+        13.15,
+        41.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.15,
+            41.66667
+        ]
+    }
+}

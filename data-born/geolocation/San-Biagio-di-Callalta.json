@@ -1,0 +1,27 @@
+{
+    "id": "place.8091566442400830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Biagio di Callalta",
+    "place_name": "San Biagio di Callalta, Treviso, Italy",
+    "bbox": [
+        12.305522,
+        45.644937,
+        12.475393,
+        45.721503
+    ],
+    "center": [
+        12.38333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38333,
+            45.68333
+        ]
+    }
+}

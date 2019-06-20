@@ -1,0 +1,27 @@
+{
+    "id": "place.17789675948787100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Damiano Macra",
+    "place_name": "San Damiano Macra, Cuneo, Italy",
+    "bbox": [
+        7.187981,
+        44.433416,
+        7.289915,
+        44.542533
+    ],
+    "center": [
+        7.2575,
+        44.48833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.2575,
+            44.48833
+        ]
+    }
+}

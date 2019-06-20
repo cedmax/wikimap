@@ -1,0 +1,29 @@
+{
+    "id": "place.13221145685696080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Chienes - Kiens",
+    "place_name": "Chienes - Kiens, Bolzano, Italy",
+    "matching_text": "Chienes",
+    "matching_place_name": "Chienes, Bolzano, Italy",
+    "bbox": [
+        11.767941,
+        46.774954,
+        11.864269,
+        46.870732
+    ],
+    "center": [
+        11.83333,
+        46.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            46.81667
+        ]
+    }
+}

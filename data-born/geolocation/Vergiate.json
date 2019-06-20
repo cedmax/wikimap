@@ -1,0 +1,27 @@
+{
+    "id": "place.10625364704089390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vergiate",
+    "place_name": "Vergiate, Varese, Italy",
+    "bbox": [
+        8.669749,
+        45.699535,
+        8.736503,
+        45.765169
+    ],
+    "center": [
+        8.7,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            45.71667
+        ]
+    }
+}

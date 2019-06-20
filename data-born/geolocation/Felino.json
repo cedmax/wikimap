@@ -1,0 +1,27 @@
+{
+    "id": "place.17666360384866590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Felino",
+    "place_name": "Felino, Parma, Italy",
+    "bbox": [
+        10.178681,
+        44.636733,
+        10.297982,
+        44.723651
+    ],
+    "center": [
+        10.24156,
+        44.69533
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.24156,
+            44.69533
+        ]
+    }
+}

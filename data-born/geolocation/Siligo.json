@@ -1,0 +1,27 @@
+{
+    "id": "place.14752288405144470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siligo",
+    "place_name": "Siligo, Sassari, Italy",
+    "bbox": [
+        8.668249,
+        40.558126,
+        8.79273,
+        40.630279
+    ],
+    "center": [
+        8.72739,
+        40.57525
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.72739,
+            40.57525
+        ]
+    }
+}

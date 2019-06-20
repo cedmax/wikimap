@@ -1,0 +1,27 @@
+{
+    "id": "place.13443154464896680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filighera",
+    "place_name": "Filighera, Pavia, Italy",
+    "bbox": [
+        9.287218,
+        45.162048,
+        9.347212,
+        45.192417
+    ],
+    "center": [
+        9.31667,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.18333
+        ]
+    }
+}

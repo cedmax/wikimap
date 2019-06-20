@@ -1,0 +1,27 @@
+{
+    "id": "place.10274007426002850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castro dei Volsci",
+    "place_name": "Castro dei Volsci, Frosinone, Italy",
+    "bbox": [
+        13.353688,
+        41.461333,
+        13.49051,
+        41.546093
+    ],
+    "center": [
+        13.4,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            41.51667
+        ]
+    }
+}

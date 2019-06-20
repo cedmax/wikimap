@@ -1,0 +1,21 @@
+{
+    "id": "poi.2473901167737",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Premilcuore",
+    "place_name": "Premilcuore, Premilcuore, Forli'-Cesena 47010, Italy",
+    "center": [
+        11.776503,
+        43.97722
+    ],
+    "geometry": {
+        "coordinates": [
+            11.776503,
+            43.97722
+        ],
+        "type": "Point"
+    }
+}

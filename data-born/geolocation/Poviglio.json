@@ -1,0 +1,27 @@
+{
+    "id": "place.14947899152293440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poviglio",
+    "place_name": "Poviglio, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.465367,
+        44.816781,
+        10.584111,
+        44.882371
+    ],
+    "center": [
+        10.55,
+        44.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            44.83333
+        ]
+    }
+}

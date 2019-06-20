@@ -1,0 +1,27 @@
+{
+    "id": "place.8743960350798430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porano",
+    "place_name": "Porano, Terni, Italy",
+    "bbox": [
+        12.069654,
+        42.654893,
+        12.117785,
+        42.705457
+    ],
+    "center": [
+        12.1,
+        42.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            42.68333
+        ]
+    }
+}

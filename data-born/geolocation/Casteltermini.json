@@ -1,0 +1,27 @@
+{
+    "id": "place.12950045636859130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casteltermini",
+    "place_name": "Casteltermini, Agrigento, Italy",
+    "bbox": [
+        13.534133,
+        37.470633,
+        13.695366,
+        37.575004
+    ],
+    "center": [
+        13.64528,
+        37.54167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.64528,
+            37.54167
+        ]
+    }
+}

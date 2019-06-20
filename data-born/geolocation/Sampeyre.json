@@ -1,0 +1,27 @@
+{
+    "id": "place.8651565609996050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sampeyre",
+    "place_name": "Sampeyre, Cuneo, Italy",
+    "bbox": [
+        7.113004,
+        44.536772,
+        7.273511,
+        44.628837
+    ],
+    "center": [
+        7.18333,
+        44.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.18333,
+            44.58333
+        ]
+    }
+}

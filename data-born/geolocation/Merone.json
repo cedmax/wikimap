@@ -1,0 +1,27 @@
+{
+    "id": "place.8701363267451270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Merone",
+    "place_name": "Merone, Como, Italy",
+    "bbox": [
+        9.23625,
+        45.766812,
+        9.263387,
+        45.796455
+    ],
+    "center": [
+        9.25,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.25,
+            45.78333
+        ]
+    }
+}

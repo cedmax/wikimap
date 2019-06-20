@@ -1,0 +1,27 @@
+{
+    "id": "place.17479440853723480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrocaro Terme e Terra del Sole",
+    "place_name": "Castrocaro Terme e Terra del Sole, Forli'-Cesena, Italy",
+    "bbox": [
+        11.888458,
+        44.130251,
+        11.986336,
+        44.210603
+    ],
+    "center": [
+        11.94389,
+        44.18417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.94389,
+            44.18417
+        ]
+    }
+}

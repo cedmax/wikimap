@@ -1,0 +1,27 @@
+{
+    "id": "place.5330130462913930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Magliano Alfieri",
+    "place_name": "Magliano Alfieri, Cuneo, Italy",
+    "bbox": [
+        8.048682,
+        44.747457,
+        8.104618,
+        44.783005
+    ],
+    "center": [
+        8.06667,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06667,
+            44.76667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15920168057822870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Garessio",
+    "place_name": "Garessio, Cuneo, Italy",
+    "bbox": [
+        7.861896,
+        44.14163,
+        8.097305,
+        44.253895
+    ],
+    "center": [
+        8.01667,
+        44.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.01667,
+            44.2
+        ]
+    }
+}

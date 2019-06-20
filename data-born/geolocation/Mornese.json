@@ -1,0 +1,27 @@
+{
+    "id": "place.11629438250039400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mornese",
+    "place_name": "Mornese, Alessandria, Italy",
+    "bbox": [
+        8.734891,
+        44.583645,
+        8.781402,
+        44.654606
+    ],
+    "center": [
+        8.75722,
+        44.64028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.75722,
+            44.64028
+        ]
+    }
+}

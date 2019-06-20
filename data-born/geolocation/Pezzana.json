@@ -1,0 +1,27 @@
+{
+    "id": "place.10826318880623170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pezzana",
+    "place_name": "Pezzana, Vercelli, Italy",
+    "bbox": [
+        8.453874,
+        45.239529,
+        8.54388,
+        45.279351
+    ],
+    "center": [
+        8.48333,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.48333,
+            45.26667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11470272745869310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montemurlo",
+    "place_name": "Montemurlo, Prato, Italy",
+    "bbox": [
+        11.018588,
+        43.89673,
+        11.096113,
+        43.983073
+    ],
+    "center": [
+        11.04,
+        43.92778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.04,
+            43.92778
+        ]
+    }
+}

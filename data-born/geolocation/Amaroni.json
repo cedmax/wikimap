@@ -1,0 +1,21 @@
+{
+    "id": "poi.2808908640818",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Amaroni",
+    "place_name": "Amaroni, Amaroni, Catanzaro 88050, Italy",
+    "center": [
+        16.447713,
+        38.793816500000005
+    ],
+    "geometry": {
+        "coordinates": [
+            16.447713,
+            38.793816500000005
+        ],
+        "type": "Point"
+    }
+}

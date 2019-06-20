@@ -1,0 +1,27 @@
+{
+    "id": "place.10932903534872790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guspini",
+    "place_name": "Guspini, Medio Campidano, Italy",
+    "bbox": [
+        8.515637,
+        39.507446,
+        8.693691,
+        39.696089
+    ],
+    "center": [
+        8.63389,
+        39.54222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63389,
+            39.54222
+        ]
+    }
+}

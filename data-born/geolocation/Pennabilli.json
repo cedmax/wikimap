@@ -1,0 +1,27 @@
+{
+    "id": "place.14103628895031310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pennabilli",
+    "place_name": "Pennabilli, Rimini, Italy",
+    "bbox": [
+        12.193325,
+        43.742272,
+        12.347712,
+        43.86624
+    ],
+    "center": [
+        12.2666,
+        43.819
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2666,
+            43.819
+        ]
+    }
+}

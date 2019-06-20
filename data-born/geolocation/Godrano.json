@@ -1,0 +1,27 @@
+{
+    "id": "place.12406121090772660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Godrano",
+    "place_name": "Godrano, Palermo, Italy",
+    "bbox": [
+        13.376983,
+        37.812608,
+        13.447078,
+        37.908483
+    ],
+    "center": [
+        13.43333,
+        37.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43333,
+            37.9
+        ]
+    }
+}

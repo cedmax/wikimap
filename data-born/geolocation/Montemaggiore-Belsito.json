@@ -1,0 +1,27 @@
+{
+    "id": "place.1828467884111120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montemaggiore Belsito",
+    "place_name": "Montemaggiore Belsito, Palermo, Italy",
+    "bbox": [
+        13.713486,
+        37.798869,
+        13.804797,
+        37.869015
+    ],
+    "center": [
+        13.76667,
+        37.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76667,
+            37.85
+        ]
+    }
+}

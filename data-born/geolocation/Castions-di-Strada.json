@@ -1,0 +1,27 @@
+{
+    "id": "place.8375658283410260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castions di Strada",
+    "place_name": "Castions di Strada, Udine, Italy",
+    "bbox": [
+        13.152054,
+        45.825926,
+        13.231702,
+        45.932357
+    ],
+    "center": [
+        13.18333,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            45.9
+        ]
+    }
+}

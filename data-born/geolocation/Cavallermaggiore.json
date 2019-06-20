@@ -1,0 +1,27 @@
+{
+    "id": "place.8807019073261360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavallermaggiore",
+    "place_name": "Cavallermaggiore, Cuneo, Italy",
+    "bbox": [
+        7.622005,
+        44.677344,
+        7.766064,
+        44.741729
+    ],
+    "center": [
+        7.68333,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.68333,
+            44.71667
+        ]
+    }
+}

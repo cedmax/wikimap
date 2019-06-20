@@ -1,0 +1,27 @@
+{
+    "id": "place.17294645278574050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fiume Veneto",
+    "place_name": "Fiume Veneto, Pordenone, Italy",
+    "bbox": [
+        12.674569,
+        45.891063,
+        12.798376,
+        45.954215
+    ],
+    "center": [
+        12.73333,
+        45.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73333,
+            45.93333
+        ]
+    }
+}

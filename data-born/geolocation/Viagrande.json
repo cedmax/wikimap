@@ -1,0 +1,27 @@
+{
+    "id": "place.9367449087157030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viagrande",
+    "place_name": "Viagrande, Catania, Italy",
+    "bbox": [
+        15.082544,
+        37.591062,
+        15.111129,
+        37.658025
+    ],
+    "center": [
+        15.1,
+        37.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            37.61667
+        ]
+    }
+}

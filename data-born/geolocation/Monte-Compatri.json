@@ -1,0 +1,27 @@
+{
+    "id": "place.15803868868313520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Compatri",
+    "place_name": "Monte Compatri, Roma, Italy",
+    "bbox": [
+        12.697456,
+        41.778332,
+        12.760581,
+        41.890537
+    ],
+    "center": [
+        12.73722,
+        41.80806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73722,
+            41.80806
+        ]
+    }
+}

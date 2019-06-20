@@ -1,0 +1,27 @@
+{
+    "id": "place.14476156894087300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefiore Conca",
+    "place_name": "Montefiore Conca, Rimini, Italy",
+    "bbox": [
+        12.589754,
+        43.844834,
+        12.655007,
+        43.91206
+    ],
+    "center": [
+        12.61667,
+        43.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            43.88333
+        ]
+    }
+}

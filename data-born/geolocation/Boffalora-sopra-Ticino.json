@@ -1,0 +1,27 @@
+{
+    "id": "place.8731011044217780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Boffalora sopra Ticino",
+    "place_name": "Boffalora sopra Ticino, Milano, Italy",
+    "bbox": [
+        8.801096,
+        45.432126,
+        8.86214,
+        45.478918
+    ],
+    "center": [
+        8.83333,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.46667
+        ]
+    }
+}

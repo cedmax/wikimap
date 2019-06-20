@@ -1,0 +1,27 @@
+{
+    "id": "place.10646810684751260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo in Pontano",
+    "place_name": "Sant'Angelo in Pontano, Macerata, Italy",
+    "bbox": [
+        13.365452,
+        43.073276,
+        13.441015,
+        43.137408
+    ],
+    "center": [
+        13.39532,
+        43.09928
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.39532,
+            43.09928
+        ]
+    }
+}

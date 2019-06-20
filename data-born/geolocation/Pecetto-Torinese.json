@@ -1,0 +1,27 @@
+{
+    "id": "place.9843433460477370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pecetto Torinese",
+    "place_name": "Pecetto Torinese, Torino, Italy",
+    "bbox": [
+        7.722686,
+        44.988924,
+        7.775747,
+        45.044537
+    ],
+    "center": [
+        7.75,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.75,
+            45.01667
+        ]
+    }
+}

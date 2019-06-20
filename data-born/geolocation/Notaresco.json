@@ -1,0 +1,27 @@
+{
+    "id": "place.7669287153571030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Notaresco",
+    "place_name": "Notaresco, Teramo, Italy",
+    "bbox": [
+        13.846794,
+        42.616603,
+        13.929898,
+        42.70557
+    ],
+    "center": [
+        13.9,
+        42.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.9,
+            42.65
+        ]
+    }
+}

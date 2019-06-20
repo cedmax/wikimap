@@ -1,0 +1,27 @@
+{
+    "id": "place.2903236503568940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mirabello Sannitico",
+    "place_name": "Mirabello Sannitico, Campobasso, Italy",
+    "bbox": [
+        14.625287,
+        41.483362,
+        14.703744,
+        41.53141
+    ],
+    "center": [
+        14.66667,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.66667,
+            41.51667
+        ]
+    }
+}

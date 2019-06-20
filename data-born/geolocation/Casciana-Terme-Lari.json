@@ -1,0 +1,27 @@
+{
+    "id": "place.10097925783012720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casciana Terme Lari",
+    "place_name": "Casciana Terme Lari, Pisa, Italy",
+    "bbox": [
+        10.544675,
+        43.484239,
+        10.656303,
+        43.641544
+    ],
+    "center": [
+        10.59361,
+        43.56889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.59361,
+            43.56889
+        ]
+    }
+}

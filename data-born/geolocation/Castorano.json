@@ -1,0 +1,27 @@
+{
+    "id": "place.16352277650160910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castorano",
+    "place_name": "Castorano, Ascoli Piceno, Italy",
+    "bbox": [
+        13.698901,
+        42.865212,
+        13.764621,
+        42.912439
+    ],
+    "center": [
+        13.72757,
+        42.89835
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.72757,
+            42.89835
+        ]
+    }
+}

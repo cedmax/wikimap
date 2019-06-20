@@ -1,0 +1,27 @@
+{
+    "id": "place.1273281953512100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tricase",
+    "place_name": "Tricase, Lecce, Italy",
+    "bbox": [
+        18.309568,
+        39.903163,
+        18.403164,
+        39.978791
+    ],
+    "center": [
+        18.36667,
+        39.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.36667,
+            39.93333
+        ]
+    }
+}

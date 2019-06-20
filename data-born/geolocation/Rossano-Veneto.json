@@ -1,0 +1,27 @@
+{
+    "id": "place.11053108869699720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rossano Veneto",
+    "place_name": "Rossano Veneto, Vicenza, Italy",
+    "bbox": [
+        11.786526,
+        45.683091,
+        11.824004,
+        45.725779
+    ],
+    "center": [
+        11.80694,
+        45.70667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.80694,
+            45.70667
+        ]
+    }
+}

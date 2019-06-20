@@ -1,0 +1,27 @@
+{
+    "id": "place.6102456100665470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Messina",
+    "place_name": "Messina, Messina, Italy",
+    "bbox": [
+        15.408013,
+        38.054692,
+        15.653011,
+        38.301408
+    ],
+    "center": [
+        15.55,
+        38.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.55,
+            38.18333
+        ]
+    }
+}

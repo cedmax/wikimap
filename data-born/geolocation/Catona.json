@@ -1,0 +1,21 @@
+{
+    "id": "address.2105023420",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Catona",
+    "place_name": "via Catona, 73028 Otranto Lecce, Italy",
+    "center": [
+        18.487265,
+        40.144481
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.487265,
+            40.144481
+        ]
+    }
+}

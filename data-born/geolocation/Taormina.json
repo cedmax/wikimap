@@ -1,0 +1,27 @@
+{
+    "id": "place.2939005785396320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taormina",
+    "place_name": "Taormina, Messina, Italy",
+    "bbox": [
+        15.223617,
+        37.818001,
+        15.305772,
+        37.87785
+    ],
+    "center": [
+        15.3,
+        37.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.3,
+            37.85
+        ]
+    }
+}

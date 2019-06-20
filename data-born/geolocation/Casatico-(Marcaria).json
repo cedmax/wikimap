@@ -1,0 +1,27 @@
+{
+    "id": "place.8118714787949370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Marcaria",
+    "place_name": "Marcaria, Mantova, Italy",
+    "bbox": [
+        10.506424,
+        45.034308,
+        10.674762,
+        45.180482
+    ],
+    "center": [
+        10.53333,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.53333,
+            45.11667
+        ]
+    }
+}

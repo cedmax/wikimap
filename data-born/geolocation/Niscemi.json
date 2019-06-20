@@ -1,0 +1,21 @@
+{
+    "id": "poi.386547057857",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Niscemi",
+    "place_name": "Niscemi, Niscemi, Caltanissetta 93015, Italy",
+    "center": [
+        14.3919125,
+        37.14718
+    ],
+    "geometry": {
+        "coordinates": [
+            14.3919125,
+            37.14718
+        ],
+        "type": "Point"
+    }
+}

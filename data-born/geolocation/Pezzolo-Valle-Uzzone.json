@@ -1,0 +1,27 @@
+{
+    "id": "place.13321914675582110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pezzolo Valle Uzzone",
+    "place_name": "Pezzolo Valle Uzzone, Cuneo, Italy",
+    "bbox": [
+        8.180066,
+        44.49484,
+        8.253152,
+        44.565191
+    ],
+    "center": [
+        8.2,
+        44.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.2,
+            44.53333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11435212683493240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tarquinia",
+    "place_name": "Tarquinia, Viterbo, Italy",
+    "bbox": [
+        11.630917,
+        42.147081,
+        11.883434,
+        42.365602
+    ],
+    "center": [
+        11.80108,
+        42.25926
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.80108,
+            42.25926
+        ]
+    }
+}

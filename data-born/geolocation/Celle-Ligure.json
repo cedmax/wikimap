@@ -1,0 +1,27 @@
+{
+    "id": "place.8082308997327440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Celle Ligure",
+    "place_name": "Celle Ligure, Savona, Italy",
+    "bbox": [
+        8.515561,
+        44.331292,
+        8.565261,
+        44.377705
+    ],
+    "center": [
+        8.54557,
+        44.3421
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.54557,
+            44.3421
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4571253392363260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo San Dalmazzo",
+    "place_name": "Borgo San Dalmazzo, Cuneo, Italy",
+    "bbox": [
+        7.420159,
+        44.297964,
+        7.525552,
+        44.355429
+    ],
+    "center": [
+        7.48333,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48333,
+            44.33333
+        ]
+    }
+}

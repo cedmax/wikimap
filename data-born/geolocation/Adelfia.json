@@ -1,0 +1,27 @@
+{
+    "id": "place.5147379743107150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Adelfia",
+    "place_name": "Adelfia, Bari, Italy",
+    "bbox": [
+        16.839807,
+        40.951807,
+        16.911666,
+        41.027937
+    ],
+    "center": [
+        16.86667,
+        41
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.86667,
+            41
+        ]
+    }
+}

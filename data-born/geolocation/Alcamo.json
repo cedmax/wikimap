@@ -1,0 +1,27 @@
+{
+    "id": "place.10213383052884300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alcamo",
+    "place_name": "Alcamo, Trapani, Italy",
+    "bbox": [
+        12.896752,
+        37.897401,
+        13.05381,
+        38.04078
+    ],
+    "center": [
+        12.96667,
+        37.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96667,
+            37.96667
+        ]
+    }
+}

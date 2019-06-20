@@ -1,0 +1,27 @@
+{
+    "id": "place.15050140491814250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Severino Marche",
+    "place_name": "San Severino Marche, Macerata, Italy",
+    "bbox": [
+        13.066014,
+        43.189585,
+        13.284486,
+        43.350907
+    ],
+    "center": [
+        13.1771,
+        43.22886
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1771,
+            43.22886
+        ]
+    }
+}

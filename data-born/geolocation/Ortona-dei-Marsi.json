@@ -1,0 +1,27 @@
+{
+    "id": "place.16376014214360340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ortona dei Marsi",
+    "place_name": "Ortona dei Marsi, L'Aquila, Italy",
+    "bbox": [
+        13.675963,
+        41.949341,
+        13.787796,
+        42.064873
+    ],
+    "center": [
+        13.72909,
+        41.9982
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.72909,
+            41.9982
+        ]
+    }
+}

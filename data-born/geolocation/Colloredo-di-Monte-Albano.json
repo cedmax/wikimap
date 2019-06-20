@@ -1,0 +1,27 @@
+{
+    "id": "place.8773206442773350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colloredo di Monte Albano",
+    "place_name": "Colloredo di Monte Albano, Udine, Italy",
+    "bbox": [
+        13.071025,
+        46.13707,
+        13.16706,
+        46.192735
+    ],
+    "center": [
+        13.13333,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.13333,
+            46.16667
+        ]
+    }
+}

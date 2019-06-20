@@ -1,0 +1,27 @@
+{
+    "id": "place.10811234661094100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manziana",
+    "place_name": "Manziana, Roma, Italy",
+    "bbox": [
+        12.056003,
+        42.078474,
+        12.152108,
+        42.156187
+    ],
+    "center": [
+        12.13333,
+        42.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            42.13333
+        ]
+    }
+}

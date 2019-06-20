@@ -1,0 +1,21 @@
+{
+    "id": "poi.3100966451562",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Mergozzo",
+    "place_name": "Mergozzo, Mergozzo, Verbano-Cusio-Ossola 28802, Italy",
+    "center": [
+        8.449786,
+        45.960807
+    ],
+    "geometry": {
+        "coordinates": [
+            8.449786,
+            45.960807
+        ],
+        "type": "Point"
+    }
+}

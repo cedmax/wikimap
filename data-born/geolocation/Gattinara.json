@@ -1,0 +1,27 @@
+{
+    "id": "place.11412716244063870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gattinara",
+    "place_name": "Gattinara, Vercelli, Italy",
+    "bbox": [
+        8.319538,
+        45.570997,
+        8.394588,
+        45.645248
+    ],
+    "center": [
+        8.36667,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.36667,
+            45.61667
+        ]
+    }
+}

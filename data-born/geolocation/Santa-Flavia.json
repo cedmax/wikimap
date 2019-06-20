@@ -1,0 +1,27 @@
+{
+    "id": "place.12413631778863340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Flavia",
+    "place_name": "Santa Flavia, Palermo, Italy",
+    "bbox": [
+        13.479872,
+        38.019364,
+        13.544264,
+        38.112414
+    ],
+    "center": [
+        13.53333,
+        38.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53333,
+            38.08333
+        ]
+    }
+}

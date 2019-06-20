@@ -1,0 +1,27 @@
+{
+    "id": "place.7010936802127480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Somma Lombardo",
+    "place_name": "Somma Lombardo, Varese, Italy",
+    "bbox": [
+        8.639913,
+        45.629771,
+        8.730198,
+        45.707032
+    ],
+    "center": [
+        8.7,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            45.68333
+        ]
+    }
+}

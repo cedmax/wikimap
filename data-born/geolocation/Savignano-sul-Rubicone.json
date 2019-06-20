@@ -1,0 +1,27 @@
+{
+    "id": "place.10774131414506660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Savignano sul Rubicone",
+    "place_name": "Savignano sul Rubicone, Forli'-Cesena, Italy",
+    "bbox": [
+        12.362259,
+        44.063303,
+        12.445481,
+        44.168112
+    ],
+    "center": [
+        12.39333,
+        44.08806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.39333,
+            44.08806
+        ]
+    }
+}

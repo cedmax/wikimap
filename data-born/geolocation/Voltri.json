@@ -1,0 +1,21 @@
+{
+    "id": "address.1495765934",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9583333333333333,
+    "text": "Voltre",
+    "place_name": "Voltre, 47012 Civitella di Romagna Forli'-Cesena, Italy",
+    "center": [
+        12.038487,
+        44.03257
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.038487,
+            44.03257
+        ]
+    }
+}

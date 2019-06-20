@@ -1,0 +1,27 @@
+{
+    "id": "place.15069377699070190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crocefieschi",
+    "place_name": "Crocefieschi, Genova, Italy",
+    "bbox": [
+        8.998256,
+        44.566915,
+        9.052437,
+        44.610784
+    ],
+    "center": [
+        9.02347,
+        44.58463
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.02347,
+            44.58463
+        ]
+    }
+}

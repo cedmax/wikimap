@@ -1,0 +1,27 @@
+{
+    "id": "place.12744318558162820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borore",
+    "place_name": "Borore, Nuoro, Italy",
+    "bbox": [
+        8.66887,
+        40.180626,
+        8.860555,
+        40.237933
+    ],
+    "center": [
+        8.78333,
+        40.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            40.21667
+        ]
+    }
+}

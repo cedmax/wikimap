@@ -1,0 +1,27 @@
+{
+    "id": "place.3184093457572470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Piero Patti",
+    "place_name": "San Piero Patti, Messina, Italy",
+    "bbox": [
+        14.920601,
+        37.986084,
+        15.011239,
+        38.07373
+    ],
+    "center": [
+        14.96667,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.96667,
+            38.05
+        ]
+    }
+}

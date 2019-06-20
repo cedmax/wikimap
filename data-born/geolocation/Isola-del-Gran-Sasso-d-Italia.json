@@ -1,0 +1,27 @@
+{
+    "id": "place.13499277519787940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isola del Gran Sasso d'Italia",
+    "place_name": "Isola del Gran Sasso d'Italia, Teramo, Italy",
+    "bbox": [
+        13.564405,
+        42.438792,
+        13.70587,
+        42.538727
+    ],
+    "center": [
+        13.65778,
+        42.5075
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.65778,
+            42.5075
+        ]
+    }
+}

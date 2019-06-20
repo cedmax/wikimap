@@ -1,0 +1,27 @@
+{
+    "id": "place.7113183143076720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Simala",
+    "place_name": "Simala, Oristano, Italy",
+    "bbox": [
+        8.805788,
+        39.708742,
+        8.865343,
+        39.74402
+    ],
+    "center": [
+        8.83333,
+        39.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            39.71667
+        ]
+    }
+}

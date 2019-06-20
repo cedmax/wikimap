@@ -1,0 +1,27 @@
+{
+    "id": "place.11987241100296730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Appignano",
+    "place_name": "Appignano, Macerata, Italy",
+    "bbox": [
+        13.323689,
+        43.342745,
+        13.396182,
+        43.398355
+    ],
+    "center": [
+        13.34642,
+        43.36413
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.34642,
+            43.36413
+        ]
+    }
+}

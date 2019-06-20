@@ -1,0 +1,27 @@
+{
+    "id": "place.4027839970500390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Recco",
+    "place_name": "Recco, Genova, Italy",
+    "bbox": [
+        9.123055,
+        44.353112,
+        9.17222,
+        44.386859
+    ],
+    "center": [
+        9.14348,
+        44.36209
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.14348,
+            44.36209
+        ]
+    }
+}

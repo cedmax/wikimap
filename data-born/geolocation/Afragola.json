@@ -1,0 +1,27 @@
+{
+    "id": "place.15455643315906410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Afragola",
+    "place_name": "Afragola, Napoli, Italy",
+    "bbox": [
+        14.293092,
+        40.896588,
+        14.361463,
+        40.946728
+    ],
+    "center": [
+        14.31667,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.31667,
+            40.91667
+        ]
+    }
+}

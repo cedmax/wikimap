@@ -1,0 +1,27 @@
+{
+    "id": "place.16143978709808770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Moscazzano",
+    "place_name": "Moscazzano, Cremona, Italy",
+    "bbox": [
+        9.65645,
+        45.259724,
+        9.695794,
+        45.318985
+    ],
+    "center": [
+        9.68333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68333,
+            45.28333
+        ]
+    }
+}

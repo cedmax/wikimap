@@ -1,0 +1,27 @@
+{
+    "id": "place.15480358317490100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pinzano al Tagliamento",
+    "place_name": "Pinzano al Tagliamento, Pordenone, Italy",
+    "bbox": [
+        12.88878,
+        46.145894,
+        12.965925,
+        46.212424
+    ],
+    "center": [
+        12.94528,
+        46.18306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.94528,
+            46.18306
+        ]
+    }
+}

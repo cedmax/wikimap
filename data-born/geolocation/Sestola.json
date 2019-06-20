@@ -1,0 +1,27 @@
+{
+    "id": "place.7481187895994350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sestola",
+    "place_name": "Sestola, Modena, Italy",
+    "bbox": [
+        10.700615,
+        44.190764,
+        10.874195,
+        44.297131
+    ],
+    "center": [
+        10.76667,
+        44.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76667,
+            44.23333
+        ]
+    }
+}

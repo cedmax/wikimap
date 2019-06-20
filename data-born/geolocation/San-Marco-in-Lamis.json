@@ -1,0 +1,27 @@
+{
+    "id": "place.6038632786186460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Marco in Lamis",
+    "place_name": "San Marco in Lamis, Foggia, Italy",
+    "bbox": [
+        15.53649,
+        41.49445,
+        15.806736,
+        41.83341
+    ],
+    "center": [
+        15.635,
+        41.71167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.635,
+            41.71167
+        ]
+    }
+}

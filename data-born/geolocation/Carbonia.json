@@ -1,0 +1,27 @@
+{
+    "id": "place.9633714064671650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carbonia",
+    "place_name": "Carbonia, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.435594,
+        39.130823,
+        8.60742,
+        39.283242
+    ],
+    "center": [
+        8.51667,
+        39.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.51667,
+            39.15
+        ]
+    }
+}

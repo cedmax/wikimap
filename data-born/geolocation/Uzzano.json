@@ -1,0 +1,27 @@
+{
+    "id": "place.11730277871926420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Uzzano",
+    "place_name": "Uzzano, Pistoia, Italy",
+    "bbox": [
+        10.693002,
+        43.861283,
+        10.724303,
+        43.916588
+    ],
+    "center": [
+        10.7109,
+        43.8826
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7109,
+            43.8826
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13454944863438140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Esperia",
+    "place_name": "Esperia, Frosinone, Italy",
+    "bbox": [
+        13.561116,
+        41.315876,
+        13.73433,
+        41.428987
+    ],
+    "center": [
+        13.68333,
+        41.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68333,
+            41.38333
+        ]
+    }
+}

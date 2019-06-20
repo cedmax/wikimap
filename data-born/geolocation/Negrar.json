@@ -1,0 +1,27 @@
+{
+    "id": "place.10714778863031210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Negrar",
+    "place_name": "Negrar, Verona, Italy",
+    "bbox": [
+        10.920278,
+        45.483029,
+        10.986868,
+        45.595835
+    ],
+    "center": [
+        10.93333,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.93333,
+            45.53333
+        ]
+    }
+}

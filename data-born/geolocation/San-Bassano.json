@@ -1,0 +1,27 @@
+{
+    "id": "place.10141444242964600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Bassano",
+    "place_name": "San Bassano, Cremona, Italy",
+    "bbox": [
+        9.763448,
+        45.218312,
+        9.837966,
+        45.25931
+    ],
+    "center": [
+        9.80889,
+        45.24389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.80889,
+            45.24389
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12337044501753260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Misilmeri",
+    "place_name": "Misilmeri, Palermo, Italy",
+    "bbox": [
+        13.374328,
+        37.953284,
+        13.49041,
+        38.091217
+    ],
+    "center": [
+        13.45,
+        38.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.45,
+            38.03333
+        ]
+    }
+}

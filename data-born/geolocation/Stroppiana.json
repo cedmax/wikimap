@@ -1,0 +1,27 @@
+{
+    "id": "place.11126326547238460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stroppiana",
+    "place_name": "Stroppiana, Vercelli, Italy",
+    "bbox": [
+        8.428807,
+        45.200542,
+        8.482456,
+        45.26006
+    ],
+    "center": [
+        8.45472,
+        45.23111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.45472,
+            45.23111
+        ]
+    }
+}

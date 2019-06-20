@@ -1,0 +1,27 @@
+{
+    "id": "place.12379339659115190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Somma Vesuviana",
+    "place_name": "Somma Vesuviana, Napoli, Italy",
+    "bbox": [
+        14.41295,
+        40.832535,
+        14.482498,
+        40.907124
+    ],
+    "center": [
+        14.43694,
+        40.8725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.43694,
+            40.8725
+        ]
+    }
+}

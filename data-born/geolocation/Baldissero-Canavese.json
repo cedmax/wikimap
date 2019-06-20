@@ -1,0 +1,27 @@
+{
+    "id": "place.8893015472962510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baldissero Canavese",
+    "place_name": "Baldissero Canavese, Torino, Italy",
+    "bbox": [
+        7.727442,
+        45.392633,
+        7.761487,
+        45.422839
+    ],
+    "center": [
+        7.75,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.75,
+            45.41667
+        ]
+    }
+}

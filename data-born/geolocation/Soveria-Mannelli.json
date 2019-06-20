@@ -1,0 +1,27 @@
+{
+    "id": "place.9819736641377400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soveria Mannelli",
+    "place_name": "Soveria Mannelli, Catanzaro, Italy",
+    "bbox": [
+        16.363735,
+        39.031228,
+        16.434462,
+        39.105413
+    ],
+    "center": [
+        16.36667,
+        39.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.36667,
+            39.08333
+        ]
+    }
+}

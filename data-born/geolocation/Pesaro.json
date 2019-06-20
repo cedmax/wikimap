@@ -1,0 +1,27 @@
+{
+    "id": "place.12398588512448830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pesaro",
+    "place_name": "Pesaro, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.7723,
+        43.822975,
+        12.96262,
+        43.965538
+    ],
+    "center": [
+        12.9133,
+        43.91015
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9133,
+            43.91015
+        ]
+    }
+}

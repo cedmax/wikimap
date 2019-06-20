@@ -1,0 +1,27 @@
+{
+    "id": "place.3478135807093370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Priverno",
+    "place_name": "Priverno, Latina, Italy",
+    "bbox": [
+        13.108217,
+        41.420065,
+        13.226564,
+        41.515742
+    ],
+    "center": [
+        13.18333,
+        41.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            41.46667
+        ]
+    }
+}

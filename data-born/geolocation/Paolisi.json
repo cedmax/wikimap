@@ -1,0 +1,27 @@
+{
+    "id": "place.14855960761276150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paolisi",
+    "place_name": "Paolisi, Benevento, Italy",
+    "bbox": [
+        14.554957,
+        41.010629,
+        14.593602,
+        41.050133
+    ],
+    "center": [
+        14.58333,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.58333,
+            41.03333
+        ]
+    }
+}

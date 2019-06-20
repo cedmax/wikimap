@@ -1,0 +1,27 @@
+{
+    "id": "place.15551221908820330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stroppo",
+    "place_name": "Stroppo, Cuneo, Italy",
+    "bbox": [
+        7.090234,
+        44.476383,
+        7.165277,
+        44.545526
+    ],
+    "center": [
+        7.13333,
+        44.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.13333,
+            44.5
+        ]
+    }
+}

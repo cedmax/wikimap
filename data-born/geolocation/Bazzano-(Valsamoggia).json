@@ -1,0 +1,27 @@
+{
+    "id": "place.17699068352440560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Valsamoggia",
+    "place_name": "Valsamoggia, Bologna, Italy",
+    "bbox": [
+        10.990033,
+        44.311618,
+        11.186957,
+        44.56734
+    ],
+    "center": [
+        11.08639,
+        44.50306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08639,
+            44.50306
+        ]
+    }
+}

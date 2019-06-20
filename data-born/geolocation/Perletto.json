@@ -1,0 +1,27 @@
+{
+    "id": "place.13383087809811210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perletto",
+    "place_name": "Perletto, Cuneo, Italy",
+    "bbox": [
+        8.187701,
+        44.569692,
+        8.246129,
+        44.618117
+    ],
+    "center": [
+        8.21667,
+        44.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.21667,
+            44.6
+        ]
+    }
+}

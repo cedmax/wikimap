@@ -1,0 +1,27 @@
+{
+    "id": "place.9832596546751630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Resuttano",
+    "place_name": "Resuttano, Palermo, Italy",
+    "bbox": [
+        14.006131,
+        37.623933,
+        14.092194,
+        37.72613
+    ],
+    "center": [
+        14.03333,
+        37.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.03333,
+            37.68333
+        ]
+    }
+}

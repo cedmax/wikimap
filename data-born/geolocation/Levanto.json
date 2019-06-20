@@ -1,0 +1,27 @@
+{
+    "id": "place.17976661579296890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Levanto",
+    "place_name": "Levanto, La Spezia, Italy",
+    "bbox": [
+        9.595048,
+        44.133875,
+        9.684718,
+        44.227705
+    ],
+    "center": [
+        9.61223,
+        44.16968
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61223,
+            44.16968
+        ]
+    }
+}

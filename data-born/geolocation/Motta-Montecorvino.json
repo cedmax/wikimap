@@ -1,0 +1,27 @@
+{
+    "id": "place.11010612149873030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta Montecorvino",
+    "place_name": "Motta Montecorvino, Foggia, Italy",
+    "bbox": [
+        15.065219,
+        41.483033,
+        15.144886,
+        41.529116
+    ],
+    "center": [
+        15.11667,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            41.5
+        ]
+    }
+}

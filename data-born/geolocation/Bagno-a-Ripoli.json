@@ -1,0 +1,27 @@
+{
+    "id": "place.4207162874317990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagno a Ripoli",
+    "place_name": "Bagno a Ripoli, Firenze, Italy",
+    "bbox": [
+        11.25665,
+        43.670403,
+        11.416405,
+        43.792464
+    ],
+    "center": [
+        11.31667,
+        43.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            43.75
+        ]
+    }
+}

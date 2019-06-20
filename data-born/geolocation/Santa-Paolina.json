@@ -1,0 +1,27 @@
+{
+    "id": "place.10604128241326300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Paolina",
+    "place_name": "Santa Paolina, Avellino, Italy",
+    "bbox": [
+        14.828989,
+        40.997766,
+        14.877051,
+        41.030476
+    ],
+    "center": [
+        14.84806,
+        41.02278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.84806,
+            41.02278
+        ]
+    }
+}

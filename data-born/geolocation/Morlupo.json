@@ -1,0 +1,27 @@
+{
+    "id": "place.9860886341933210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morlupo",
+    "place_name": "Morlupo, Roma, Italy",
+    "bbox": [
+        12.453316,
+        42.113668,
+        12.545292,
+        42.172673
+    ],
+    "center": [
+        12.50467,
+        42.14346
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.50467,
+            42.14346
+        ]
+    }
+}

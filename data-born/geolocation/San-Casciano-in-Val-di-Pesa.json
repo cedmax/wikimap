@@ -1,0 +1,27 @@
+{
+    "id": "place.10712790210363990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Casciano in Val di Pesa",
+    "place_name": "San Casciano in Val di Pesa, Firenze, Italy",
+    "bbox": [
+        11.121673,
+        43.581882,
+        11.285454,
+        43.708328
+    ],
+    "center": [
+        11.18583,
+        43.65694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.18583,
+            43.65694
+        ]
+    }
+}

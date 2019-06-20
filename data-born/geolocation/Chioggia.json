@@ -1,0 +1,27 @@
+{
+    "id": "place.8460133480061020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chioggia",
+    "place_name": "Chioggia, Venezia, Italy",
+    "bbox": [
+        12.153416,
+        45.104278,
+        12.331185,
+        45.29202
+    ],
+    "center": [
+        12.27854,
+        45.21891
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.27854,
+            45.21891
+        ]
+    }
+}

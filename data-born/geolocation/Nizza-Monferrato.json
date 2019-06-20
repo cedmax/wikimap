@@ -1,0 +1,27 @@
+{
+    "id": "place.631932799190230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nizza Monferrato",
+    "place_name": "Nizza Monferrato, Asti, Italy",
+    "bbox": [
+        8.303127,
+        44.738129,
+        8.403191,
+        44.794671
+    ],
+    "center": [
+        8.355,
+        44.77472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.355,
+            44.77472
+        ]
+    }
+}

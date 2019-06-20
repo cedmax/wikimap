@@ -1,0 +1,27 @@
+{
+    "id": "place.16385876881805780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelvetere in Val Fortore",
+    "place_name": "Castelvetere in Val Fortore, Benevento, Italy",
+    "bbox": [
+        14.874163,
+        41.408229,
+        14.989695,
+        41.468653
+    ],
+    "center": [
+        14.93333,
+        41.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.93333,
+            41.45
+        ]
+    }
+}

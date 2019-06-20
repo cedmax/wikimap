@@ -1,0 +1,27 @@
+{
+    "id": "place.9319251253123040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castrignano del Capo",
+    "place_name": "Castrignano del Capo, Lecce, Italy",
+    "bbox": [
+        18.319747,
+        39.789809,
+        18.373444,
+        39.861445
+    ],
+    "center": [
+        18.35,
+        39.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.35,
+            39.83333
+        ]
+    }
+}

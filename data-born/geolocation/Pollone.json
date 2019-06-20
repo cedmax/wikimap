@@ -1,0 +1,27 @@
+{
+    "id": "place.10941903912855510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pollone",
+    "place_name": "Pollone, Biella, Italy",
+    "bbox": [
+        7.89674,
+        45.567263,
+        8.019744,
+        45.636649
+    ],
+    "center": [
+        7.98333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98333,
+            45.56667
+        ]
+    }
+}

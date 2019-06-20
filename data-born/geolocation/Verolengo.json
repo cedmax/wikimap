@@ -1,0 +1,27 @@
+{
+    "id": "place.8940253160840420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verolengo",
+    "place_name": "Verolengo, Torino, Italy",
+    "bbox": [
+        7.938505,
+        45.17123,
+        8.050897,
+        45.236037
+    ],
+    "center": [
+        7.96667,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.96667,
+            45.18333
+        ]
+    }
+}

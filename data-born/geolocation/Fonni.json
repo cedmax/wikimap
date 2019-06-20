@@ -1,0 +1,27 @@
+{
+    "id": "place.7267800379661920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fonni",
+    "place_name": "Fonni, Nuoro, Italy",
+    "bbox": [
+        9.212815,
+        40.031283,
+        9.359862,
+        40.169096
+    ],
+    "center": [
+        9.27,
+        40.11833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.27,
+            40.11833
+        ]
+    }
+}

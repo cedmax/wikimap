@@ -1,0 +1,27 @@
+{
+    "id": "place.10377055807920360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tavullia",
+    "place_name": "Tavullia, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.678468,
+        43.825975,
+        12.825302,
+        43.929833
+    ],
+    "center": [
+        12.75319,
+        43.898
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.75319,
+            43.898
+        ]
+    }
+}

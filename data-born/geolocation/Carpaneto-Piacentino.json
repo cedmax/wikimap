@@ -1,0 +1,27 @@
+{
+    "id": "place.12423892277181470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carpaneto Piacentino",
+    "place_name": "Carpaneto Piacentino, Piacenza, Italy",
+    "bbox": [
+        9.73236,
+        44.830964,
+        9.851002,
+        44.961314
+    ],
+    "center": [
+        9.78333,
+        44.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78333,
+            44.91667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5082414602933650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palazzuolo sul Senio",
+    "place_name": "Palazzuolo sul Senio, Firenze, Italy",
+    "bbox": [
+        11.433132,
+        44.046935,
+        11.617692,
+        44.167668
+    ],
+    "center": [
+        11.55,
+        44.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55,
+            44.11667
+        ]
+    }
+}

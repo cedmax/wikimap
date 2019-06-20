@@ -1,0 +1,21 @@
+{
+    "id": "poi.2052994375803",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Santa Ninfa",
+    "place_name": "Santa Ninfa, Santa Ninfa, Trapani 91029, Italy",
+    "center": [
+        12.8770925,
+        37.7706915
+    ],
+    "geometry": {
+        "coordinates": [
+            12.8770925,
+            37.7706915
+        ],
+        "type": "Point"
+    }
+}

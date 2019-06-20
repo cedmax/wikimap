@@ -1,0 +1,27 @@
+{
+    "id": "place.16781193975769820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Esanatoglia",
+    "place_name": "Esanatoglia, Macerata, Italy",
+    "bbox": [
+        12.881577,
+        43.204638,
+        12.986234,
+        43.289337
+    ],
+    "center": [
+        12.94589,
+        43.25135
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.94589,
+            43.25135
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12859598317183250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calasca-Castiglione",
+    "place_name": "Calasca-Castiglione, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.090891,
+        45.94491,
+        8.237704,
+        46.03826
+    ],
+    "center": [
+        8.11667,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.11667,
+            46.06667
+        ]
+    }
+}

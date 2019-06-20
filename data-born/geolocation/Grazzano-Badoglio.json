@@ -1,0 +1,27 @@
+{
+    "id": "place.12397571827202490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grazzano Badoglio",
+    "place_name": "Grazzano Badoglio, Asti, Italy",
+    "bbox": [
+        8.290069,
+        45.011902,
+        8.333906,
+        45.059926
+    ],
+    "center": [
+        8.31167,
+        45.04139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31167,
+            45.04139
+        ]
+    }
+}

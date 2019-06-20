@@ -1,0 +1,27 @@
+{
+    "id": "place.6891604010514650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Annicco",
+    "place_name": "Annicco, Cremona, Italy",
+    "bbox": [
+        9.850346,
+        45.224265,
+        9.918569,
+        45.279746
+    ],
+    "center": [
+        9.88333,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.88333,
+            45.25
+        ]
+    }
+}

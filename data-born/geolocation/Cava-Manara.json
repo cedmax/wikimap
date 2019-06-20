@@ -1,0 +1,21 @@
+{
+    "id": "poi.2808908615345",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cava Manara",
+    "place_name": "Cava Manara, Cava Manara, Pavia, Italia, Cava Manara, Pavia 27051, Italy",
+    "center": [
+        9.1091835,
+        45.140678
+    ],
+    "geometry": {
+        "coordinates": [
+            9.1091835,
+            45.140678
+        ],
+        "type": "Point"
+    }
+}

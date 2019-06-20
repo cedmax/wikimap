@@ -1,0 +1,21 @@
+{
+    "id": "poi.1279900254909",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Loiano",
+    "place_name": "Loiano, Loiano, Bologna 40050, Italy",
+    "center": [
+        11.322513,
+        44.26852
+    ],
+    "geometry": {
+        "coordinates": [
+            11.322513,
+            44.26852
+        ],
+        "type": "Point"
+    }
+}

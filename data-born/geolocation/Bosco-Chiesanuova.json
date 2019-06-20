@@ -1,0 +1,27 @@
+{
+    "id": "place.10630597694409530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bosco Chiesanuova",
+    "place_name": "Bosco Chiesanuova, Verona, Italy",
+    "bbox": [
+        10.995231,
+        45.579336,
+        11.111074,
+        45.718359
+    ],
+    "center": [
+        11.03333,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            45.61667
+        ]
+    }
+}

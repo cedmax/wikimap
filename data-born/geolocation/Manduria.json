@@ -1,0 +1,27 @@
+{
+    "id": "place.11144859630283310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manduria",
+    "place_name": "Manduria, Taranto, Italy",
+    "bbox": [
+        17.542841,
+        40.294591,
+        17.768606,
+        40.465039
+    ],
+    "center": [
+        17.63417,
+        40.40278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.63417,
+            40.40278
+        ]
+    }
+}

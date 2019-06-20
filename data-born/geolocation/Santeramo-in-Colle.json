@@ -1,0 +1,27 @@
+{
+    "id": "place.10535658540044330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santeramo in Colle",
+    "place_name": "Santeramo in Colle, Bari, Italy",
+    "bbox": [
+        16.655828,
+        40.710127,
+        16.849528,
+        40.848413
+    ],
+    "center": [
+        16.76667,
+        40.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.76667,
+            40.8
+        ]
+    }
+}

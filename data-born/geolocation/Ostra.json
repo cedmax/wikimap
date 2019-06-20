@@ -1,0 +1,27 @@
+{
+    "id": "place.18057519744353170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostra",
+    "place_name": "Ostra, Ancona, Italy",
+    "bbox": [
+        13.083477,
+        43.554413,
+        13.197097,
+        43.653318
+    ],
+    "center": [
+        13.15823,
+        43.61265
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.15823,
+            43.61265
+        ]
+    }
+}

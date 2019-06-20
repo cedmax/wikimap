@@ -1,0 +1,27 @@
+{
+    "id": "place.9970099296782470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tertenia",
+    "place_name": "Tertenia, Ogliastra, Italy",
+    "bbox": [
+        9.522599,
+        39.625131,
+        9.677101,
+        39.74166
+    ],
+    "center": [
+        9.58333,
+        39.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58333,
+            39.7
+        ]
+    }
+}

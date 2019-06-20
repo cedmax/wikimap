@@ -1,0 +1,27 @@
+{
+    "id": "place.11274972222160150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ostiano",
+    "place_name": "Ostiano, Cremona, Italy",
+    "bbox": [
+        10.216867,
+        45.18816,
+        10.295887,
+        45.253407
+    ],
+    "center": [
+        10.25,
+        45.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.25,
+            45.21667
+        ]
+    }
+}

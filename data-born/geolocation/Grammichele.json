@@ -1,0 +1,27 @@
+{
+    "id": "place.12484149238325170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grammichele",
+    "place_name": "Grammichele, Catania, Italy",
+    "bbox": [
+        14.572078,
+        37.183816,
+        14.652762,
+        37.265422
+    ],
+    "center": [
+        14.63333,
+        37.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            37.21667
+        ]
+    }
+}

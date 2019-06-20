@@ -1,0 +1,27 @@
+{
+    "id": "place.9744003555864360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tricesimo",
+    "place_name": "Tricesimo, Udine, Italy",
+    "bbox": [
+        13.159077,
+        46.13039,
+        13.238362,
+        46.190516
+    ],
+    "center": [
+        13.21667,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.21667,
+            46.15
+        ]
+    }
+}

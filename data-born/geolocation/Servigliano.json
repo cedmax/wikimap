@@ -1,0 +1,27 @@
+{
+    "id": "place.8364034164709300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Servigliano",
+    "place_name": "Servigliano, Fermo, Italy",
+    "bbox": [
+        13.461495,
+        43.041226,
+        13.522145,
+        43.092938
+    ],
+    "center": [
+        13.49203,
+        43.08087
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.49203,
+            43.08087
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1357209666066",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sermoneta",
+    "place_name": "Sermoneta, Corso garibaldi, Sermoneta, Latina 04013, Italy",
+    "center": [
+        12.984515625,
+        41.549460249999996
+    ],
+    "geometry": {
+        "coordinates": [
+            12.984515625,
+            41.549460249999996
+        ],
+        "type": "Point"
+    }
+}

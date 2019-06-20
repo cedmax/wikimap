@@ -1,0 +1,21 @@
+{
+    "id": "poi.2216203162634",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ornavasso",
+    "place_name": "Ornavasso, Ornavasso, Verbano-Cusio-Ossola 28877, Italy",
+    "center": [
+        8.4155515,
+        45.968935
+    ],
+    "geometry": {
+        "coordinates": [
+            8.4155515,
+            45.968935
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5394163298045590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spilimbergo",
+    "place_name": "Spilimbergo, Pordenone, Italy",
+    "bbox": [
+        12.806222,
+        46.06112,
+        12.947719,
+        46.157186
+    ],
+    "center": [
+        12.90167,
+        46.11139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.90167,
+            46.11139
+        ]
+    }
+}

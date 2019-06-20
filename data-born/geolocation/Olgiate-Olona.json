@@ -1,0 +1,27 @@
+{
+    "id": "place.14835957594053970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olgiate Olona",
+    "place_name": "Olgiate Olona, Varese, Italy",
+    "bbox": [
+        8.851655,
+        45.614299,
+        8.896704,
+        45.643295
+    ],
+    "center": [
+        8.88333,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88333,
+            45.63333
+        ]
+    }
+}

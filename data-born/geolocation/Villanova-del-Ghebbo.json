@@ -1,0 +1,27 @@
+{
+    "id": "place.11663436976429920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova del Ghebbo",
+    "place_name": "Villanova del Ghebbo, Rovigo, Italy",
+    "bbox": [
+        11.625406,
+        45.049783,
+        11.691227,
+        45.087194
+    ],
+    "center": [
+        11.65,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.65,
+            45.06667
+        ]
+    }
+}

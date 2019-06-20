@@ -1,0 +1,27 @@
+{
+    "id": "place.13285777069065580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Offida",
+    "place_name": "Offida, Ascoli Piceno, Italy",
+    "bbox": [
+        13.662098,
+        42.901108,
+        13.770759,
+        42.975961
+    ],
+    "center": [
+        13.692,
+        42.93535
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.692,
+            42.93535
+        ]
+    }
+}

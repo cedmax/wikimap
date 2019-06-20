@@ -1,0 +1,27 @@
+{
+    "id": "place.12665799132052660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Botticino",
+    "place_name": "Botticino, Brescia, Italy",
+    "bbox": [
+        10.283659,
+        45.519006,
+        10.342998,
+        45.580127
+    ],
+    "center": [
+        10.30778,
+        45.53389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.30778,
+            45.53389
+        ]
+    }
+}

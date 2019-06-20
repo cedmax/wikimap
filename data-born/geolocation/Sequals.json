@@ -1,0 +1,27 @@
+{
+    "id": "place.646009421643260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sequals",
+    "place_name": "Sequals, Pordenone, Italy",
+    "bbox": [
+        12.805327,
+        46.122699,
+        12.901132,
+        46.186723
+    ],
+    "center": [
+        12.83333,
+        46.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            46.16667
+        ]
+    }
+}

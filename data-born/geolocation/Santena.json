@@ -1,0 +1,27 @@
+{
+    "id": "place.8870981817791740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santena",
+    "place_name": "Santena, Torino, Italy",
+    "bbox": [
+        7.75182,
+        44.915877,
+        7.813527,
+        44.965941
+    ],
+    "center": [
+        7.78333,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            44.95
+        ]
+    }
+}

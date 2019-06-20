@@ -1,0 +1,27 @@
+{
+    "id": "place.10615797451961440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Poggio Moiano",
+    "place_name": "Poggio Moiano, Rieti, Italy",
+    "bbox": [
+        12.81878,
+        42.170508,
+        12.924279,
+        42.226943
+    ],
+    "center": [
+        12.88333,
+        42.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88333,
+            42.2
+        ]
+    }
+}

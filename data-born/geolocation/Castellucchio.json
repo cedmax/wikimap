@@ -1,0 +1,27 @@
+{
+    "id": "place.16236699176741080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellucchio",
+    "place_name": "Castellucchio, Mantova, Italy",
+    "bbox": [
+        10.572144,
+        45.107398,
+        10.690222,
+        45.191778
+    ],
+    "center": [
+        10.65,
+        45.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.65,
+            45.15
+        ]
+    }
+}

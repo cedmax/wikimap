@@ -1,0 +1,27 @@
+{
+    "id": "place.14228361605761720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calci",
+    "place_name": "Calci, Pisa, Italy",
+    "bbox": [
+        10.484794,
+        43.699717,
+        10.557488,
+        43.761889
+    ],
+    "center": [
+        10.51791,
+        43.72597
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51791,
+            43.72597
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6413188110421950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Letojanni",
+    "place_name": "Letojanni, Messina, Italy",
+    "bbox": [
+        15.28028,
+        37.8748,
+        15.336103,
+        37.909362
+    ],
+    "center": [
+        15.3,
+        37.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.3,
+            37.88333
+        ]
+    }
+}

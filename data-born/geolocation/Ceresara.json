@@ -1,0 +1,27 @@
+{
+    "id": "place.2044001158757920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceresara",
+    "place_name": "Ceresara, Mantova, Italy",
+    "bbox": [
+        10.508701,
+        45.209723,
+        10.611738,
+        45.291435
+    ],
+    "center": [
+        10.56958,
+        45.26228
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.56958,
+            45.26228
+        ]
+    }
+}

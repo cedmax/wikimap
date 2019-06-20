@@ -1,0 +1,27 @@
+{
+    "id": "place.9265090769906200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borzonasca",
+    "place_name": "Borzonasca, Genova, Italy",
+    "bbox": [
+        9.319425,
+        44.399485,
+        9.473224,
+        44.491284
+    ],
+    "center": [
+        9.38706,
+        44.42213
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38706,
+            44.42213
+        ]
+    }
+}

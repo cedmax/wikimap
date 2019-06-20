@@ -1,0 +1,27 @@
+{
+    "id": "place.12094056895055050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bucine",
+    "place_name": "Bucine, Arezzo, Italy",
+    "bbox": [
+        11.52982,
+        43.350394,
+        11.67958,
+        43.506502
+    ],
+    "center": [
+        11.61583,
+        43.4775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61583,
+            43.4775
+        ]
+    }
+}

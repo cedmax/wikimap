@@ -1,0 +1,27 @@
+{
+    "id": "place.9387972888176590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cusano Mutri",
+    "place_name": "Cusano Mutri, Benevento, Italy",
+    "bbox": [
+        14.436769,
+        41.288114,
+        14.557109,
+        41.384775
+    ],
+    "center": [
+        14.50861,
+        41.33889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.50861,
+            41.33889
+        ]
+    }
+}

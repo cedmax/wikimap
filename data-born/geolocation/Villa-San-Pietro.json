@@ -1,0 +1,27 @@
+{
+    "id": "place.6722630058078460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa San Pietro",
+    "place_name": "Villa San Pietro, Cagliari, Italy",
+    "bbox": [
+        8.848215,
+        39.021586,
+        9.019011,
+        39.108472
+    ],
+    "center": [
+        8.99695,
+        39.03554
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.99695,
+            39.03554
+        ]
+    }
+}

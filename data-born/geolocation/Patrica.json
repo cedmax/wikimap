@@ -1,0 +1,27 @@
+{
+    "id": "place.4041288596298800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Patrica",
+    "place_name": "Patrica, Frosinone, Italy",
+    "bbox": [
+        13.210659,
+        41.561651,
+        13.29753,
+        41.626945
+    ],
+    "center": [
+        13.25,
+        41.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            41.58333
+        ]
+    }
+}

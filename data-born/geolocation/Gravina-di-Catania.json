@@ -1,0 +1,27 @@
+{
+    "id": "place.12359306680466040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gravina di Catania",
+    "place_name": "Gravina di Catania, Catania, Italy",
+    "bbox": [
+        15.047071,
+        37.538013,
+        15.076521,
+        37.568668
+    ],
+    "center": [
+        15.06667,
+        37.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.06667,
+            37.56667
+        ]
+    }
+}

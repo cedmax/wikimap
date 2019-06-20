@@ -1,0 +1,27 @@
+{
+    "id": "place.10863204134339240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camugnano",
+    "place_name": "Camugnano, Bologna, Italy",
+    "bbox": [
+        11.029236,
+        44.089186,
+        11.179395,
+        44.214948
+    ],
+    "center": [
+        11.1,
+        44.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.1,
+            44.16667
+        ]
+    }
+}

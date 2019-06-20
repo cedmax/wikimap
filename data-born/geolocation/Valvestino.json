@@ -1,0 +1,27 @@
+{
+    "id": "place.9162125892872210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valvestino",
+    "place_name": "Valvestino, Brescia, Italy",
+    "bbox": [
+        10.545766,
+        45.725938,
+        10.645854,
+        45.799955
+    ],
+    "center": [
+        10.6,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            45.76667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13086615919931430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Macomer",
+    "place_name": "Macomer, Nuoro, Italy",
+    "bbox": [
+        8.667511,
+        40.203013,
+        8.863355,
+        40.412907
+    ],
+    "center": [
+        8.78333,
+        40.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            40.26667
+        ]
+    }
+}

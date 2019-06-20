@@ -1,0 +1,27 @@
+{
+    "id": "place.11481672719928190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vinadio",
+    "place_name": "Vinadio, Cuneo, Italy",
+    "bbox": [
+        6.994635,
+        44.19713,
+        7.220181,
+        44.353006
+    ],
+    "center": [
+        7.16667,
+        44.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.16667,
+            44.3
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4539516963158730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tione di Trento",
+    "place_name": "Tione di Trento, Trento, Italy",
+    "bbox": [
+        10.636821,
+        45.954132,
+        10.808573,
+        46.062831
+    ],
+    "center": [
+        10.73333,
+        46.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            46.03333
+        ]
+    }
+}

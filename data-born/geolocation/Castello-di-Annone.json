@@ -1,0 +1,27 @@
+{
+    "id": "place.10144361614034990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castello di Annone",
+    "place_name": "Castello di Annone, Asti, Italy",
+    "bbox": [
+        8.28603,
+        44.869516,
+        8.372839,
+        44.92098
+    ],
+    "center": [
+        8.31833,
+        44.87889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31833,
+            44.87889
+        ]
+    }
+}

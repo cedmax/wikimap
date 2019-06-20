@@ -1,0 +1,27 @@
+{
+    "id": "place.3750993334706160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "La Thuile",
+    "place_name": "La Thuile, Valle D'Aosta, Italy",
+    "bbox": [
+        6.808863,
+        45.629748,
+        7.028646,
+        45.763587
+    ],
+    "center": [
+        6.95,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.95,
+            45.7
+        ]
+    }
+}

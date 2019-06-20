@@ -1,0 +1,27 @@
+{
+    "id": "place.6996739583541040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Polo di Piave",
+    "place_name": "San Polo di Piave, Treviso, Italy",
+    "bbox": [
+        12.348442,
+        45.757669,
+        12.421524,
+        45.81915
+    ],
+    "center": [
+        12.39472,
+        45.79056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.39472,
+            45.79056
+        ]
+    }
+}

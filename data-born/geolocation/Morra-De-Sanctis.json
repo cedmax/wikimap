@@ -1,0 +1,27 @@
+{
+    "id": "place.6335339109146420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morra De Sanctis",
+    "place_name": "Morra De Sanctis, Avellino, Italy",
+    "bbox": [
+        15.233946,
+        40.883091,
+        15.29406,
+        40.956019
+    ],
+    "center": [
+        15.24361,
+        40.93
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.24361,
+            40.93
+        ]
+    }
+}

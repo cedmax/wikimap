@@ -1,0 +1,27 @@
+{
+    "id": "place.8338539910964200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Milazzo",
+    "place_name": "Milazzo, Messina, Italy",
+    "bbox": [
+        15.209771,
+        38.168376,
+        15.273613,
+        38.271535
+    ],
+    "center": [
+        15.23333,
+        38.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.23333,
+            38.21667
+        ]
+    }
+}

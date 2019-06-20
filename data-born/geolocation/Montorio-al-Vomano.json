@@ -1,0 +1,27 @@
+{
+    "id": "place.7966351323033740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montorio al Vomano",
+    "place_name": "Montorio al Vomano, Teramo, Italy",
+    "bbox": [
+        13.564505,
+        42.531591,
+        13.715158,
+        42.619732
+    ],
+    "center": [
+        13.63333,
+        42.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.63333,
+            42.58333
+        ]
+    }
+}

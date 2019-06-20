@@ -1,0 +1,27 @@
+{
+    "id": "place.5896850171002310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carfizzi",
+    "place_name": "Carfizzi, Crotone, Italy",
+    "bbox": [
+        16.953156,
+        39.295116,
+        17.05811,
+        39.355056
+    ],
+    "center": [
+        16.97593,
+        39.3065
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.97593,
+            39.3065
+        ]
+    }
+}

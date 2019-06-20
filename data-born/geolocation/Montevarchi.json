@@ -1,0 +1,27 @@
+{
+    "id": "place.14378504259131500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montevarchi",
+    "place_name": "Montevarchi, Arezzo, Italy",
+    "bbox": [
+        11.480079,
+        43.456506,
+        11.63705,
+        43.547754
+    ],
+    "center": [
+        11.56787,
+        43.5234
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56787,
+            43.5234
+        ]
+    }
+}

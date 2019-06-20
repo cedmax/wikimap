@@ -1,0 +1,27 @@
+{
+    "id": "place.9583275722166300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cucciago",
+    "place_name": "Cucciago, Como, Italy",
+    "bbox": [
+        9.082311,
+        45.721762,
+        9.113521,
+        45.753961
+    ],
+    "center": [
+        9.1,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            45.73333
+        ]
+    }
+}

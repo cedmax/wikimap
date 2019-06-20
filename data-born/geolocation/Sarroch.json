@@ -1,0 +1,27 @@
+{
+    "id": "place.13402841271537540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarroch",
+    "place_name": "Sarroch, Cagliari, Italy",
+    "bbox": [
+        8.88537,
+        39.020086,
+        9.045491,
+        39.121186
+    ],
+    "center": [
+        9.01667,
+        39.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01667,
+            39.06667
+        ]
+    }
+}

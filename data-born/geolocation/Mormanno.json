@@ -1,0 +1,27 @@
+{
+    "id": "place.14271455263474840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mormanno",
+    "place_name": "Mormanno, Cosenza, Italy",
+    "bbox": [
+        15.893879,
+        39.814819,
+        16.048835,
+        39.940444
+    ],
+    "center": [
+        15.98333,
+        39.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            39.88333
+        ]
+    }
+}

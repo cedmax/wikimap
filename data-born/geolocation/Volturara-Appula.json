@@ -1,0 +1,27 @@
+{
+    "id": "place.3196860998720640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Volturara Appula",
+    "place_name": "Volturara Appula, Foggia, Italy",
+    "bbox": [
+        15.016716,
+        41.432093,
+        15.115252,
+        41.528905
+    ],
+    "center": [
+        15.05,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.05,
+            41.5
+        ]
+    }
+}

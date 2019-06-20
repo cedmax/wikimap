@@ -1,0 +1,21 @@
+{
+    "id": "poi.1065151889650",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sant'Angelo in Lizzola",
+    "place_name": "Sant'Angelo in Lizzola, Sant'Angelo in Lizzola, Vallefoglia, Pesaro E Urbino 61020, Italy",
+    "center": [
+        12.8028635,
+        43.8268315
+    ],
+    "geometry": {
+        "coordinates": [
+            12.8028635,
+            43.8268315
+        ],
+        "type": "Point"
+    }
+}

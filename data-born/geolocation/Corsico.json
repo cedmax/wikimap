@@ -1,0 +1,27 @@
+{
+    "id": "place.8744792870322250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corsico",
+    "place_name": "Corsico, Milano, Italy",
+    "bbox": [
+        9.075406,
+        45.41856,
+        9.12041,
+        45.451014
+    ],
+    "center": [
+        9.11667,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            45.43333
+        ]
+    }
+}

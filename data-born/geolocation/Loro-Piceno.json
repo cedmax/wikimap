@@ -1,0 +1,27 @@
+{
+    "id": "place.8403534982872750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loro Piceno",
+    "place_name": "Loro Piceno, Macerata, Italy",
+    "bbox": [
+        13.37857,
+        43.128157,
+        13.46178,
+        43.206826
+    ],
+    "center": [
+        13.4161,
+        43.16626
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4161,
+            43.16626
+        ]
+    }
+}

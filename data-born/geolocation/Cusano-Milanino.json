@@ -1,0 +1,27 @@
+{
+    "id": "place.16752504806280030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cusano Milanino",
+    "place_name": "Cusano Milanino, Milano, Italy",
+    "bbox": [
+        9.168103,
+        45.542736,
+        9.199421,
+        45.562071
+    ],
+    "center": [
+        9.18333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.55
+        ]
+    }
+}

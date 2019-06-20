@@ -1,0 +1,27 @@
+{
+    "id": "place.14124845257053280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Latiano",
+    "place_name": "Latiano, Brindisi, Italy",
+    "bbox": [
+        17.664845,
+        40.518722,
+        17.76403,
+        40.626536
+    ],
+    "center": [
+        17.71667,
+        40.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.71667,
+            40.53333
+        ]
+    }
+}

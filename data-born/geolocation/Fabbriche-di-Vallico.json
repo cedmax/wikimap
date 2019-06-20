@@ -1,0 +1,21 @@
+{
+    "id": "address.1659846797",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Fabbriche Di Vallico",
+    "place_name": "via Fabbriche Di Vallico, 00148 Roma Roma, Italy",
+    "center": [
+        12.432949,
+        41.831197
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.432949,
+            41.831197
+        ]
+    }
+}

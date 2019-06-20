@@ -1,0 +1,27 @@
+{
+    "id": "place.4516707822187280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vetralla",
+    "place_name": "Vetralla, Viterbo, Italy",
+    "bbox": [
+        11.902298,
+        42.253192,
+        12.142868,
+        42.354631
+    ],
+    "center": [
+        12.07917,
+        42.31056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.07917,
+            42.31056
+        ]
+    }
+}

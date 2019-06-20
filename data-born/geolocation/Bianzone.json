@@ -1,0 +1,27 @@
+{
+    "id": "place.3302200134273560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bianzone",
+    "place_name": "Bianzone, Sondrio, Italy",
+    "bbox": [
+        10.07085,
+        46.171567,
+        10.125936,
+        46.228567
+    ],
+    "center": [
+        10.1,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.1,
+            46.18333
+        ]
+    }
+}

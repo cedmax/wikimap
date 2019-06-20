@@ -1,0 +1,27 @@
+{
+    "id": "place.12041830806928650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Otranto",
+    "place_name": "Otranto, Lecce, Italy",
+    "bbox": [
+        18.399949,
+        40.076988,
+        18.520468,
+        40.253819
+    ],
+    "center": [
+        18.48333,
+        40.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.48333,
+            40.15
+        ]
+    }
+}

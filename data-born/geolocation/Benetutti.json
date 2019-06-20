@@ -1,0 +1,27 @@
+{
+    "id": "place.6127578178553920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Benetutti",
+    "place_name": "Benetutti, Sassari, Italy",
+    "bbox": [
+        9.10246,
+        40.364817,
+        9.251029,
+        40.513362
+    ],
+    "center": [
+        9.17139,
+        40.45528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.17139,
+            40.45528
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1614372473194530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Atrani",
+    "place_name": "Atrani, Napoli, Italy",
+    "bbox": [
+        14.605242,
+        40.633954,
+        14.610901,
+        40.638519
+    ],
+    "center": [
+        14.61667,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61667,
+            40.63333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8576644612165870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ospedaletto d'Alpinolo",
+    "place_name": "Ospedaletto d'Alpinolo, Avellino, Italy",
+    "bbox": [
+        14.716554,
+        40.92685,
+        14.769211,
+        40.951927
+    ],
+    "center": [
+        14.75,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.75,
+            40.93333
+        ]
+    }
+}

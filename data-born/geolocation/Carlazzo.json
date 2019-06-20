@@ -1,0 +1,27 @@
+{
+    "id": "place.11019208608163700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carlazzo",
+    "place_name": "Carlazzo, Como, Italy",
+    "bbox": [
+        9.123419,
+        46.030713,
+        9.186772,
+        46.077896
+    ],
+    "center": [
+        9.15,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15,
+            46.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8423122950742410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Valtournenche",
+    "place_name": "Valtournenche, Valle D'Aosta, Italy",
+    "bbox": [
+        7.549177,
+        45.846324,
+        7.735053,
+        45.976626
+    ],
+    "center": [
+        7.61667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61667,
+            45.88333
+        ]
+    }
+}

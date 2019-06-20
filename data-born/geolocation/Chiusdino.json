@@ -1,0 +1,27 @@
+{
+    "id": "place.7371930410930790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusdino",
+    "place_name": "Chiusdino, Siena, Italy",
+    "bbox": [
+        11.050223,
+        43.083472,
+        11.223493,
+        43.246939
+    ],
+    "center": [
+        11.08425,
+        43.15461
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08425,
+            43.15461
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.970662610397",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Montiglio Monferrato",
+    "place_name": "Montiglio Monferrato, Cocconato, Asti 14023, Italy",
+    "center": [
+        8.038142,
+        45.08384
+    ],
+    "geometry": {
+        "coordinates": [
+            8.038142,
+            45.08384
+        ],
+        "type": "Point"
+    }
+}

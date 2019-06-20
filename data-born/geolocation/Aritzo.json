@@ -1,0 +1,27 @@
+{
+    "id": "place.10452887058095140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aritzo",
+    "place_name": "Aritzo, Nuoro, Italy",
+    "bbox": [
+        9.115604,
+        39.888695,
+        9.288921,
+        39.98363
+    ],
+    "center": [
+        9.2,
+        39.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            39.95
+        ]
+    }
+}

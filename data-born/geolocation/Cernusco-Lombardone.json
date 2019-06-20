@@ -1,0 +1,27 @@
+{
+    "id": "place.8120283564791090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cernusco Lombardone",
+    "place_name": "Cernusco Lombardone, Lecco, Italy",
+    "bbox": [
+        9.372715,
+        45.680592,
+        9.408487,
+        45.702973
+    ],
+    "center": [
+        9.4,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.7
+        ]
+    }
+}

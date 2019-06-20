@@ -1,0 +1,27 @@
+{
+    "id": "place.6908466957208880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tremezzina",
+    "place_name": "Tremezzina, Como, Italy",
+    "bbox": [
+        9.130675,
+        45.955035,
+        9.238409,
+        46.011922
+    ],
+    "center": [
+        9.20284,
+        45.98096
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.20284,
+            45.98096
+        ]
+    }
+}

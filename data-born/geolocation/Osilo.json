@@ -1,0 +1,27 @@
+{
+    "id": "place.6046908153774510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Osilo",
+    "place_name": "Osilo, Sassari, Italy",
+    "bbox": [
+        8.608993,
+        40.69892,
+        8.751475,
+        40.838261
+    ],
+    "center": [
+        8.67111,
+        40.74361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.67111,
+            40.74361
+        ]
+    }
+}

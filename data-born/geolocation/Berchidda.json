@@ -1,0 +1,27 @@
+{
+    "id": "place.10180844825846530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Berchidda",
+    "place_name": "Berchidda, Olbia-Tempio, Italy",
+    "bbox": [
+        9.087575,
+        40.691034,
+        9.314232,
+        40.853792
+    ],
+    "center": [
+        9.16667,
+        40.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            40.78333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8495576326467950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.9642857142857143,
+    "text": "Moneglia",
+    "place_name": "Moneglia, Genova, Italy",
+    "bbox": [
+        9.453068,
+        44.216305,
+        9.531887,
+        44.260022
+    ],
+    "center": [
+        9.49028,
+        44.23862
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.49028,
+            44.23862
+        ]
+    }
+}

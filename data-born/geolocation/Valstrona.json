@@ -1,0 +1,27 @@
+{
+    "id": "place.6194845684884080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valstrona",
+    "place_name": "Valstrona, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.203982,
+        45.888658,
+        8.357965,
+        45.957026
+    ],
+    "center": [
+        8.34,
+        45.90694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.34,
+            45.90694
+        ]
+    }
+}

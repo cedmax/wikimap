@@ -1,0 +1,27 @@
+{
+    "id": "place.4124203062308170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Ilario d'Enza",
+    "place_name": "Sant'Ilario d'Enza, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.424673,
+        44.729277,
+        10.516568,
+        44.773785
+    ],
+    "center": [
+        10.4493,
+        44.7604
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4493,
+            44.7604
+        ]
+    }
+}

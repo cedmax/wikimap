@@ -1,0 +1,27 @@
+{
+    "id": "place.11159533496900770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sospirolo",
+    "place_name": "Sospirolo, Belluno, Italy",
+    "bbox": [
+        11.984496,
+        46.114958,
+        12.127098,
+        46.218538
+    ],
+    "center": [
+        12.08333,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08333,
+            46.13333
+        ]
+    }
+}

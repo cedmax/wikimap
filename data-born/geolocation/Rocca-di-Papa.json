@@ -1,0 +1,27 @@
+{
+    "id": "place.8268106566971680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca di Papa",
+    "place_name": "Rocca di Papa, Roma, Italy",
+    "bbox": [
+        12.681732,
+        41.723515,
+        12.800948,
+        41.783052
+    ],
+    "center": [
+        12.71667,
+        41.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            41.76667
+        ]
+    }
+}

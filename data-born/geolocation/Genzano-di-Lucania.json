@@ -1,0 +1,27 @@
+{
+    "id": "place.8394994775331280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genzano di Lucania",
+    "place_name": "Genzano di Lucania, Potenza, Italy",
+    "bbox": [
+        15.9536,
+        40.766643,
+        16.24413,
+        40.928137
+    ],
+    "center": [
+        16.03333,
+        40.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.03333,
+            40.85
+        ]
+    }
+}

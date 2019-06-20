@@ -1,0 +1,27 @@
+{
+    "id": "place.16619396275037930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montale",
+    "place_name": "Montale, Pistoia, Italy",
+    "bbox": [
+        10.995224,
+        43.897056,
+        11.070968,
+        43.999219
+    ],
+    "center": [
+        11.01667,
+        43.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.01667,
+            43.93333
+        ]
+    }
+}

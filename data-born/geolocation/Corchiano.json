@@ -1,0 +1,27 @@
+{
+    "id": "place.3963212340980840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corchiano",
+    "place_name": "Corchiano, Viterbo, Italy",
+    "bbox": [
+        12.314737,
+        42.320209,
+        12.424894,
+        42.392131
+    ],
+    "center": [
+        12.35639,
+        42.34583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.35639,
+            42.34583
+        ]
+    }
+}

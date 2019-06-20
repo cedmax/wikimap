@@ -1,0 +1,27 @@
+{
+    "id": "place.10139228605727930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ruffia",
+    "place_name": "Ruffia, Cuneo, Italy",
+    "bbox": [
+        7.576197,
+        44.697942,
+        7.625194,
+        44.730663
+    ],
+    "center": [
+        7.6,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6,
+            44.7
+        ]
+    }
+}

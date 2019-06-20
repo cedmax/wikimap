@@ -1,0 +1,23 @@
+{
+    "id": "poi.2903397953831",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Murano",
+    "place_name": "Murano, Venezia, Venezia 30123, Italy",
+    "matching_text": "Burano",
+    "matching_place_name": "Burano, Venezia, Venezia 30123, Italy",
+    "center": [
+        12.32702,
+        45.435455
+    ],
+    "geometry": {
+        "coordinates": [
+            12.32702,
+            45.435455
+        ],
+        "type": "Point"
+    }
+}

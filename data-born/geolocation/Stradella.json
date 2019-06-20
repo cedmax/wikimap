@@ -1,0 +1,27 @@
+{
+    "id": "place.11993059995821640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stradella",
+    "place_name": "Stradella, Pavia, Italy",
+    "bbox": [
+        9.274443,
+        45.051479,
+        9.345487,
+        45.108516
+    ],
+    "center": [
+        9.3,
+        45.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3,
+            45.08333
+        ]
+    }
+}

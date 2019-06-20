@@ -1,0 +1,27 @@
+{
+    "id": "place.3675039460279930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cotronei",
+    "place_name": "Cotronei, Crotone, Italy",
+    "bbox": [
+        16.612929,
+        39.134247,
+        16.823821,
+        39.205213
+    ],
+    "center": [
+        16.78333,
+        39.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.16667
+        ]
+    }
+}

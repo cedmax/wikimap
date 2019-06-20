@@ -1,0 +1,27 @@
+{
+    "id": "place.11764613911855160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Termoli",
+    "place_name": "Termoli, Campobasso, Italy",
+    "bbox": [
+        14.889892,
+        41.92625,
+        15.027753,
+        42.021286
+    ],
+    "center": [
+        14.99472,
+        42.00278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.99472,
+            42.00278
+        ]
+    }
+}

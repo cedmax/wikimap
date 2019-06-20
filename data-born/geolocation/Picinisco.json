@@ -1,0 +1,27 @@
+{
+    "id": "place.10221321072006720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Picinisco",
+    "place_name": "Picinisco, Frosinone, Italy",
+    "bbox": [
+        13.826817,
+        41.601959,
+        13.975396,
+        41.719113
+    ],
+    "center": [
+        13.86667,
+        41.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86667,
+            41.65
+        ]
+    }
+}

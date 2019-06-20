@@ -1,0 +1,27 @@
+{
+    "id": "place.7798865961780160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Caterina Villarmosa",
+    "place_name": "Santa Caterina Villarmosa, Caltanissetta, Italy",
+    "bbox": [
+        14.011979,
+        37.529459,
+        14.166009,
+        37.636502
+    ],
+    "center": [
+        14.03333,
+        37.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.03333,
+            37.6
+        ]
+    }
+}

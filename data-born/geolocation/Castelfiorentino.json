@@ -1,0 +1,27 @@
+{
+    "id": "place.10272940585642450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelfiorentino",
+    "place_name": "Castelfiorentino, Firenze, Italy",
+    "bbox": [
+        10.875117,
+        43.573499,
+        11.027611,
+        43.67086
+    ],
+    "center": [
+        10.97,
+        43.61083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.97,
+            43.61083
+        ]
+    }
+}

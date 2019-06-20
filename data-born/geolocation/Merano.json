@@ -1,0 +1,29 @@
+{
+    "id": "place.7638510382365910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Merano - Meran",
+    "place_name": "Merano - Meran, Bolzano, Italy",
+    "matching_text": "Merano",
+    "matching_place_name": "Merano, Bolzano, Italy",
+    "bbox": [
+        11.136597,
+        46.616299,
+        11.239787,
+        46.694084
+    ],
+    "center": [
+        11.16389,
+        46.66889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.16389,
+            46.66889
+        ]
+    }
+}

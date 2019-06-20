@@ -1,0 +1,27 @@
+{
+    "id": "place.11944650978983290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collevecchio",
+    "place_name": "Collevecchio, Rieti, Italy",
+    "bbox": [
+        12.49189,
+        42.290077,
+        12.570256,
+        42.360907
+    ],
+    "center": [
+        12.55,
+        42.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.55,
+            42.33333
+        ]
+    }
+}

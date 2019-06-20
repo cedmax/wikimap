@@ -1,0 +1,27 @@
+{
+    "id": "place.13139406397739480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valdina",
+    "place_name": "Valdina, Messina, Italy",
+    "bbox": [
+        15.354059,
+        38.187823,
+        15.377334,
+        38.218574
+    ],
+    "center": [
+        15.36884,
+        38.19362
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.36884,
+            38.19362
+        ]
+    }
+}

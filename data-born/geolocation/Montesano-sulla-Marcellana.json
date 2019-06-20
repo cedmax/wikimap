@@ -1,0 +1,27 @@
+{
+    "id": "place.4468125084729170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montesano sulla Marcellana",
+    "place_name": "Montesano sulla Marcellana, Salerno, Italy",
+    "bbox": [
+        15.638322,
+        40.200528,
+        15.806359,
+        40.324557
+    ],
+    "center": [
+        15.7,
+        40.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.7,
+            40.28333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11302583069329900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albonese",
+    "place_name": "Albonese, Pavia, Italy",
+    "bbox": [
+        8.689299,
+        45.281387,
+        8.723726,
+        45.301682
+    ],
+    "center": [
+        8.7066,
+        45.2923
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7066,
+            45.2923
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.16630329419616450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bobbio",
+    "place_name": "Bobbio, Piacenza, Italy",
+    "bbox": [
+        9.285051,
+        44.72448,
+        9.481251,
+        44.856972
+    ],
+    "center": [
+        9.3864,
+        44.7715
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3864,
+            44.7715
+        ]
+    }
+}

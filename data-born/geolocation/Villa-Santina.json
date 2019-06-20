@@ -1,0 +1,27 @@
+{
+    "id": "place.8061803259380600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Santina",
+    "place_name": "Villa Santina, Udine, Italy",
+    "bbox": [
+        12.903951,
+        46.379164,
+        12.976666,
+        46.424095
+    ],
+    "center": [
+        12.91667,
+        46.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.91667,
+            46.41667
+        ]
+    }
+}

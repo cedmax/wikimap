@@ -1,0 +1,27 @@
+{
+    "id": "place.5363118107608770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montebello Vicentino",
+    "place_name": "Montebello Vicentino, Vicenza, Italy",
+    "bbox": [
+        11.326988,
+        45.432058,
+        11.426642,
+        45.486049
+    ],
+    "center": [
+        11.38333,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38333,
+            45.45
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8179327402180230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefalco",
+    "place_name": "Montefalco, Perugia, Italy",
+    "bbox": [
+        12.577917,
+        42.834574,
+        12.703875,
+        42.92829
+    ],
+    "center": [
+        12.65,
+        42.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.65,
+            42.88333
+        ]
+    }
+}

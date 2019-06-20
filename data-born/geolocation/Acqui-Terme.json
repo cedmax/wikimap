@@ -1,0 +1,27 @@
+{
+    "id": "place.5337048062583570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acqui Terme",
+    "place_name": "Acqui Terme, Alessandria, Italy",
+    "bbox": [
+        8.40901,
+        44.636813,
+        8.512469,
+        44.711249
+    ],
+    "center": [
+        8.46861,
+        44.67611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46861,
+            44.67611
+        ]
+    }
+}

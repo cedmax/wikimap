@@ -1,0 +1,27 @@
+{
+    "id": "place.5871315949842900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Siena",
+    "place_name": "Siena, Siena, Italy",
+    "bbox": [
+        11.230223,
+        43.249939,
+        11.428489,
+        43.366011
+    ],
+    "center": [
+        11.33139,
+        43.31833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.33139,
+            43.31833
+        ]
+    }
+}

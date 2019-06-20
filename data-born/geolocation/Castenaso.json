@@ -1,0 +1,27 @@
+{
+    "id": "place.6827124208846600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castenaso",
+    "place_name": "Castenaso, Bologna, Italy",
+    "bbox": [
+        11.416663,
+        44.477514,
+        11.51607,
+        44.546695
+    ],
+    "center": [
+        11.47056,
+        44.50972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47056,
+            44.50972
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13231987209808080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corato",
+    "place_name": "Corato, Bari, Italy",
+    "bbox": [
+        16.263574,
+        40.991326,
+        16.468744,
+        41.195884
+    ],
+    "center": [
+        16.4,
+        41.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.4,
+            41.15
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10318121166536220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sparanise",
+    "place_name": "Sparanise, Caserta, Italy",
+    "bbox": [
+        14.077429,
+        41.13495,
+        14.125752,
+        41.207671
+    ],
+    "center": [
+        14.1,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1,
+            41.18333
+        ]
+    }
+}

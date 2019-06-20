@@ -1,0 +1,27 @@
+{
+    "id": "place.17120106634207260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocchetta Sant'Antonio",
+    "place_name": "Rocchetta Sant'Antonio, Foggia, Italy",
+    "bbox": [
+        15.397016,
+        41.055252,
+        15.574184,
+        41.151382
+    ],
+    "center": [
+        15.46667,
+        41.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.46667,
+            41.1
+        ]
+    }
+}

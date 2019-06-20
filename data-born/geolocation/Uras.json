@@ -1,0 +1,27 @@
+{
+    "id": "place.8697011866942510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Uras",
+    "place_name": "Uras, Oristano, Italy",
+    "bbox": [
+        8.651226,
+        39.66253,
+        8.735743,
+        39.745614
+    ],
+    "center": [
+        8.7,
+        39.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            39.7
+        ]
+    }
+}

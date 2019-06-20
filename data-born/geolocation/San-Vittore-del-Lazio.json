@@ -1,0 +1,27 @@
+{
+    "id": "place.18522729246024360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vittore del Lazio",
+    "place_name": "San Vittore del Lazio, Frosinone, Italy",
+    "bbox": [
+        13.891484,
+        41.428022,
+        13.993743,
+        41.501225
+    ],
+    "center": [
+        13.93333,
+        41.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93333,
+            41.46667
+        ]
+    }
+}

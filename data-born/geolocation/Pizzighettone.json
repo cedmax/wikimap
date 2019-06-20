@@ -1,0 +1,27 @@
+{
+    "id": "place.9304281275249420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pizzighettone",
+    "place_name": "Pizzighettone, Cremona, Italy",
+    "bbox": [
+        9.750168,
+        45.15824,
+        9.842874,
+        45.223037
+    ],
+    "center": [
+        9.78333,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78333,
+            45.18333
+        ]
+    }
+}

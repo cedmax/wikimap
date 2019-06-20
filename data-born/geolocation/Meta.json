@@ -1,0 +1,27 @@
+{
+    "id": "place.4839280215775690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meta",
+    "place_name": "Meta, Napoli, Italy",
+    "bbox": [
+        14.405165,
+        40.628172,
+        14.43227,
+        40.652044
+    ],
+    "center": [
+        14.41667,
+        40.64167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.41667,
+            40.64167
+        ]
+    }
+}

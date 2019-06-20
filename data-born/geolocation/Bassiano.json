@@ -1,0 +1,27 @@
+{
+    "id": "place.16376989849450850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bassiano",
+    "place_name": "Bassiano, Latina, Italy",
+    "bbox": [
+        12.983435,
+        41.508396,
+        13.080334,
+        41.581453
+    ],
+    "center": [
+        13.03333,
+        41.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03333,
+            41.55
+        ]
+    }
+}

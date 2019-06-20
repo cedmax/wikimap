@@ -1,0 +1,27 @@
+{
+    "id": "place.17619927287488550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maida",
+    "place_name": "Maida, Catanzaro, Italy",
+    "bbox": [
+        16.295816,
+        38.836385,
+        16.480382,
+        38.90903
+    ],
+    "center": [
+        16.36667,
+        38.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.36667,
+            38.85
+        ]
+    }
+}

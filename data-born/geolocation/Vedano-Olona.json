@@ -1,0 +1,27 @@
+{
+    "id": "place.7609641596410420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vedano Olona",
+    "place_name": "Vedano Olona, Varese, Italy",
+    "bbox": [
+        8.867154,
+        45.754803,
+        8.908941,
+        45.786793
+    ],
+    "center": [
+        8.8869,
+        45.7769
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8869,
+            45.7769
+        ]
+    }
+}

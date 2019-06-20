@@ -1,0 +1,27 @@
+{
+    "id": "place.12513236563613430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelseprio",
+    "place_name": "Castelseprio, Varese, Italy",
+    "bbox": [
+        8.851279,
+        45.702609,
+        8.873853,
+        45.733954
+    ],
+    "center": [
+        8.86161,
+        45.71372
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86161,
+            45.71372
+        ]
+    }
+}

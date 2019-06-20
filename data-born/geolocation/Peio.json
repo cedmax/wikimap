@@ -1,0 +1,27 @@
+{
+    "id": "place.9108252572385600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Peio",
+    "place_name": "Peio, Trento, Italy",
+    "bbox": [
+        10.515582,
+        46.298918,
+        10.75499,
+        46.453655
+    ],
+    "center": [
+        10.66667,
+        46.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.66667,
+            46.36667
+        ]
+    }
+}

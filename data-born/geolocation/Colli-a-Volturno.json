@@ -1,0 +1,27 @@
+{
+    "id": "place.11627473222677490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colli a Volturno",
+    "place_name": "Colli a Volturno, Isernia, Italy",
+    "bbox": [
+        14.063795,
+        41.549316,
+        14.152478,
+        41.623906
+    ],
+    "center": [
+        14.1,
+        41.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1,
+            41.6
+        ]
+    }
+}

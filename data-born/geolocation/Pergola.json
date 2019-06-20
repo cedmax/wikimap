@@ -1,0 +1,27 @@
+{
+    "id": "place.6598850158004110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pergola",
+    "place_name": "Pergola, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.742524,
+        43.504015,
+        12.923464,
+        43.646143
+    ],
+    "center": [
+        12.83465,
+        43.56425
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83465,
+            43.56425
+        ]
+    }
+}

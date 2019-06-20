@@ -1,0 +1,27 @@
+{
+    "id": "place.16417874281574420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vizzini",
+    "place_name": "Vizzini, Catania, Italy",
+    "bbox": [
+        14.691496,
+        37.121691,
+        14.872682,
+        37.252591
+    ],
+    "center": [
+        14.75,
+        37.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.75,
+            37.16667
+        ]
+    }
+}

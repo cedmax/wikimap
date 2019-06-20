@@ -1,0 +1,21 @@
+{
+    "id": "poi.188978561710",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Boville Ernica",
+    "place_name": "Boville Ernica, Boville Ernica, Frosinone 03022, Italy",
+    "center": [
+        13.472397749999999,
+        41.642626
+    ],
+    "geometry": {
+        "coordinates": [
+            13.472397749999999,
+            41.642626
+        ],
+        "type": "Point"
+    }
+}

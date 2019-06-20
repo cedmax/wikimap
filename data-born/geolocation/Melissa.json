@@ -1,0 +1,27 @@
+{
+    "id": "place.8153606707668030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melissa",
+    "place_name": "Melissa, Crotone, Italy",
+    "bbox": [
+        16.967667,
+        39.267454,
+        17.113868,
+        39.339253
+    ],
+    "center": [
+        17.01667,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.01667,
+            39.3
+        ]
+    }
+}

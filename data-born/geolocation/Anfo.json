@@ -1,0 +1,27 @@
+{
+    "id": "place.5837366122240170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anfo",
+    "place_name": "Anfo, Brescia, Italy",
+    "bbox": [
+        10.437369,
+        45.753355,
+        10.521004,
+        45.812768
+    ],
+    "center": [
+        10.5,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.5,
+            45.76667
+        ]
+    }
+}

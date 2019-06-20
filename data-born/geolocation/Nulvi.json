@@ -1,0 +1,27 @@
+{
+    "id": "place.1836282643875110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nulvi",
+    "place_name": "Nulvi, Sassari, Italy",
+    "bbox": [
+        8.711596,
+        40.728882,
+        8.806766,
+        40.853761
+    ],
+    "center": [
+        8.74389,
+        40.78389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.74389,
+            40.78389
+        ]
+    }
+}

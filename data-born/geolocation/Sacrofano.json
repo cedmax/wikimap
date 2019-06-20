@@ -1,0 +1,27 @@
+{
+    "id": "place.9841778273954840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sacrofano",
+    "place_name": "Sacrofano, Roma, Italy",
+    "bbox": [
+        12.415849,
+        42.041571,
+        12.482568,
+        42.136702
+    ],
+    "center": [
+        12.45,
+        42.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            42.1
+        ]
+    }
+}

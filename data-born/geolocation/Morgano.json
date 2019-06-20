@@ -1,0 +1,23 @@
+{
+    "id": "poi.2293512568946",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Parco Del Sile",
+    "place_name": "Parco Del Sile, Istrana, Treviso 31036, Italy",
+    "matching_text": "Morgano",
+    "matching_place_name": "Morgano, Istrana, Treviso 31036, Italy",
+    "center": [
+        12.066061,
+        45.659236
+    ],
+    "geometry": {
+        "coordinates": [
+            12.066061,
+            45.659236
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8928977558402880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa di Tirano",
+    "place_name": "Villa di Tirano, Sondrio, Italy",
+    "bbox": [
+        10.102561,
+        46.154701,
+        10.186728,
+        46.22857
+    ],
+    "center": [
+        10.13333,
+        46.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            46.2
+        ]
+    }
+}

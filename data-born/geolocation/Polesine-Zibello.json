@@ -1,0 +1,27 @@
+{
+    "id": "place.8573525133632430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polesine Zibello",
+    "place_name": "Polesine Zibello, Parma, Italy",
+    "bbox": [
+        10.03915,
+        44.980949,
+        10.181819,
+        45.044184
+    ],
+    "center": [
+        10.0873,
+        45.0163
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.0873,
+            45.0163
+        ]
+    }
+}

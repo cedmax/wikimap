@@ -1,0 +1,27 @@
+{
+    "id": "place.5897904052005000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Missaglia",
+    "place_name": "Missaglia, Lecco, Italy",
+    "bbox": [
+        9.322079,
+        45.676665,
+        9.36899,
+        45.727387
+    ],
+    "center": [
+        9.33333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.7
+        ]
+    }
+}

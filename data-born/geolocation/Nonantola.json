@@ -1,0 +1,27 @@
+{
+    "id": "place.10714614908237390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nonantola",
+    "place_name": "Nonantola, Modena, Italy",
+    "bbox": [
+        10.990287,
+        44.642158,
+        11.116858,
+        44.72751
+    ],
+    "center": [
+        11.04301,
+        44.67767
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.04301,
+            44.67767
+        ]
+    }
+}

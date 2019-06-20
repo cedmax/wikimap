@@ -1,0 +1,27 @@
+{
+    "id": "place.13543556851901120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campofilone",
+    "place_name": "Campofilone, Fermo, Italy",
+    "bbox": [
+        13.785463,
+        43.061218,
+        13.849971,
+        43.095633
+    ],
+    "center": [
+        13.81453,
+        43.07917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81453,
+            43.07917
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8807458716296110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canonica d'Adda",
+    "place_name": "Canonica d'Adda, Bergamo, Italy",
+    "bbox": [
+        9.530494,
+        45.559581,
+        9.557579,
+        45.599136
+    ],
+    "center": [
+        9.53889,
+        45.57528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.53889,
+            45.57528
+        ]
+    }
+}

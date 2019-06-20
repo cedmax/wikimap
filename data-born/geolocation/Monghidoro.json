@@ -1,0 +1,27 @@
+{
+    "id": "place.15997726077062550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monghidoro",
+    "place_name": "Monghidoro, Bologna, Italy",
+    "bbox": [
+        11.270744,
+        44.170316,
+        11.389232,
+        44.255762
+    ],
+    "center": [
+        11.31667,
+        44.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            44.21667
+        ]
+    }
+}

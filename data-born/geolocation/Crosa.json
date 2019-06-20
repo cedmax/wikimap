@@ -1,0 +1,27 @@
+{
+    "id": "place.9685732519812200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.95,
+    "text": "Rosà",
+    "place_name": "Rosà, Vicenza, Italy",
+    "bbox": [
+        11.707055,
+        45.691838,
+        11.789801,
+        45.740682
+    ],
+    "center": [
+        11.76667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76667,
+            45.71667
+        ]
+    }
+}

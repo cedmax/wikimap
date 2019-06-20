@@ -1,0 +1,27 @@
+{
+    "id": "place.4553943533205750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cittanova",
+    "place_name": "Cittanova, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.002547,
+        38.294249,
+        16.142991,
+        38.449285
+    ],
+    "center": [
+        16.08333,
+        38.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            38.35
+        ]
+    }
+}

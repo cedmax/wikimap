@@ -1,0 +1,27 @@
+{
+    "id": "place.9481051070664500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Masi",
+    "place_name": "Masi, Padova, Italy",
+    "bbox": [
+        11.468354,
+        45.1031,
+        11.526456,
+        45.147973
+    ],
+    "center": [
+        11.5,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.5,
+            45.11667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4698256813703710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Minervino Murge",
+    "place_name": "Minervino Murge, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        15.937232,
+        40.982012,
+        16.209749,
+        41.174802
+    ],
+    "center": [
+        16.08333,
+        41.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            41.1
+        ]
+    }
+}

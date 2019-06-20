@@ -1,0 +1,27 @@
+{
+    "id": "place.10257589144653550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano al Mare",
+    "place_name": "Santo Stefano al Mare, Imperia, Italy",
+    "bbox": [
+        7.884936,
+        43.835469,
+        7.917639,
+        43.853676
+    ],
+    "center": [
+        7.89931,
+        43.83723
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.89931,
+            43.83723
+        ]
+    }
+}

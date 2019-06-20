@@ -1,0 +1,27 @@
+{
+    "id": "place.13671369643575100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Olcenengo",
+    "place_name": "Olcenengo, Vercelli, Italy",
+    "bbox": [
+        8.289441,
+        45.331666,
+        8.347272,
+        45.37978
+    ],
+    "center": [
+        8.31667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31667,
+            45.36667
+        ]
+    }
+}

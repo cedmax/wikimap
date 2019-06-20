@@ -1,0 +1,27 @@
+{
+    "id": "place.7070392896084440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallelonga",
+    "place_name": "Vallelonga, Vibo Valentia, Italy",
+    "bbox": [
+        16.24248,
+        38.625329,
+        16.346455,
+        38.667568
+    ],
+    "center": [
+        16.28333,
+        38.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            38.65
+        ]
+    }
+}

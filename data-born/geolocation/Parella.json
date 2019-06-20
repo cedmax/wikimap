@@ -1,0 +1,27 @@
+{
+    "id": "place.10658751320686310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parella",
+    "place_name": "Parella, Torino, Italy",
+    "bbox": [
+        7.784958,
+        45.413724,
+        7.821629,
+        45.437597
+    ],
+    "center": [
+        7.78333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            45.43333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6089132283419100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Castelli",
+    "place_name": "Villa Castelli, Brindisi, Italy",
+    "bbox": [
+        17.448594,
+        40.521816,
+        17.512297,
+        40.610467
+    ],
+    "center": [
+        17.48333,
+        40.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.48333,
+            40.58333
+        ]
+    }
+}

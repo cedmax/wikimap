@@ -1,0 +1,29 @@
+{
+    "id": "place.8941139671296370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Lasa - Laas",
+    "place_name": "Lasa - Laas, Bolzano, Italy",
+    "matching_text": "Lasa",
+    "matching_place_name": "Lasa, Bolzano, Italy",
+    "bbox": [
+        10.60399,
+        46.52084,
+        10.729011,
+        46.687587
+    ],
+    "center": [
+        10.7,
+        46.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.7,
+            46.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6329728970458850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cadegliano-Viconago",
+    "place_name": "Cadegliano-Viconago, Varese, Italy",
+    "bbox": [
+        8.803055,
+        45.940948,
+        8.860241,
+        45.988022
+    ],
+    "center": [
+        8.83333,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.83333,
+            45.96667
+        ]
+    }
+}

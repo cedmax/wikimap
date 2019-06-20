@@ -1,0 +1,27 @@
+{
+    "id": "place.11467941655154260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rossano",
+    "place_name": "Rossano, Cosenza, Italy",
+    "bbox": [
+        16.544254,
+        39.502599,
+        16.770428,
+        39.639057
+    ],
+    "center": [
+        16.63333,
+        39.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.63333,
+            39.56667
+        ]
+    }
+}

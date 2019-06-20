@@ -1,0 +1,27 @@
+{
+    "id": "place.5860500207970490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte San Pietro",
+    "place_name": "Ponte San Pietro, Bergamo, Italy",
+    "bbox": [
+        9.557067,
+        45.686439,
+        9.601537,
+        45.713768
+    ],
+    "center": [
+        9.58806,
+        45.69778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58806,
+            45.69778
+        ]
+    }
+}

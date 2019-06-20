@@ -1,0 +1,29 @@
+{
+    "id": "place.9269994792819090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Marebbe - Enneberg",
+    "place_name": "Marebbe - Enneberg, Bolzano, Italy",
+    "matching_text": "Marebbe",
+    "matching_place_name": "Marebbe, Bolzano, Italy",
+    "bbox": [
+        11.818858,
+        46.548775,
+        12.073841,
+        46.746017
+    ],
+    "center": [
+        11.93333,
+        46.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            46.7
+        ]
+    }
+}

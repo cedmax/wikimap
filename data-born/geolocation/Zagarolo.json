@@ -1,0 +1,27 @@
+{
+    "id": "place.12722111240265380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zagarolo",
+    "place_name": "Zagarolo, Roma, Italy",
+    "bbox": [
+        12.72644,
+        41.811806,
+        12.854576,
+        41.899434
+    ],
+    "center": [
+        12.83333,
+        41.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.83333,
+            41.83333
+        ]
+    }
+}

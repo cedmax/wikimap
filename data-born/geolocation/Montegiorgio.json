@@ -1,0 +1,27 @@
+{
+    "id": "place.17441675337210000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montegiorgio",
+    "place_name": "Montegiorgio, Fermo, Italy",
+    "bbox": [
+        13.489447,
+        43.095046,
+        13.584968,
+        43.180291
+    ],
+    "center": [
+        13.53708,
+        43.1307
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53708,
+            43.1307
+        ]
+    }
+}

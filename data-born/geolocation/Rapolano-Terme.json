@@ -1,0 +1,27 @@
+{
+    "id": "place.13624553459404200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rapolano Terme",
+    "place_name": "Rapolano Terme, Siena, Italy",
+    "bbox": [
+        11.568454,
+        43.218332,
+        11.67791,
+        43.35128
+    ],
+    "center": [
+        11.6,
+        43.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            43.28333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9921043108622360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orvieto",
+    "place_name": "Orvieto, Terni, Italy",
+    "bbox": [
+        11.983124,
+        42.627616,
+        12.316086,
+        42.815493
+    ],
+    "center": [
+        12.1,
+        42.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            42.71667
+        ]
+    }
+}

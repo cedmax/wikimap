@@ -1,0 +1,27 @@
+{
+    "id": "place.8136585238650240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arconate",
+    "place_name": "Arconate, Milano, Italy",
+    "bbox": [
+        8.815858,
+        45.525125,
+        8.865507,
+        45.560114
+    ],
+    "center": [
+        8.85,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.85,
+            45.53333
+        ]
+    }
+}

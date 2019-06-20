@@ -1,0 +1,27 @@
+{
+    "id": "place.8364954675612340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corciano",
+    "place_name": "Corciano, Perugia, Italy",
+    "bbox": [
+        12.243567,
+        43.058584,
+        12.340081,
+        43.196091
+    ],
+    "center": [
+        12.28333,
+        43.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.28333,
+            43.13333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6280380737504460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nuvolento",
+    "place_name": "Nuvolento, Brescia, Italy",
+    "bbox": [
+        10.355155,
+        45.518031,
+        10.407648,
+        45.562706
+    ],
+    "center": [
+        10.385,
+        45.54444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.385,
+            45.54444
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13352935639106640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giacciano con Baruchella",
+    "place_name": "Giacciano con Baruchella, Rovigo, Italy",
+    "bbox": [
+        11.360841,
+        45.035864,
+        11.472687,
+        45.099775
+    ],
+    "center": [
+        11.45,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.06667
+        ]
+    }
+}

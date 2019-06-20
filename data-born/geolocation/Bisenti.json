@@ -1,0 +1,27 @@
+{
+    "id": "place.10156850462932750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bisenti",
+    "place_name": "Bisenti, Teramo, Italy",
+    "bbox": [
+        13.757623,
+        42.490778,
+        13.843944,
+        42.559684
+    ],
+    "center": [
+        13.8,
+        42.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.8,
+            42.53333
+        ]
+    }
+}

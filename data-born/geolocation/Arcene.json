@@ -1,0 +1,27 @@
+{
+    "id": "place.12216747922892430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcene",
+    "place_name": "Arcene, Bergamo, Italy",
+    "bbox": [
+        9.591893,
+        45.559571,
+        9.630273,
+        45.588351
+    ],
+    "center": [
+        9.61417,
+        45.57611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61417,
+            45.57611
+        ]
+    }
+}

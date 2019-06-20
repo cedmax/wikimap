@@ -1,0 +1,27 @@
+{
+    "id": "place.8004091690319790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Empoli",
+    "place_name": "Empoli, Firenze, Italy",
+    "bbox": [
+        10.875529,
+        43.650647,
+        11.004511,
+        43.741043
+    ],
+    "center": [
+        10.95,
+        43.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.95,
+            43.71667
+        ]
+    }
+}

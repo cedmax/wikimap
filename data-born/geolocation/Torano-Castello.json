@@ -1,0 +1,27 @@
+{
+    "id": "place.8139608877438330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torano Castello",
+    "place_name": "Torano Castello, Cosenza, Italy",
+    "bbox": [
+        16.1201,
+        39.475194,
+        16.220194,
+        39.533684
+    ],
+    "center": [
+        16.15,
+        39.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            39.5
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10486474553203680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pedara",
+    "place_name": "Pedara, Catania, Italy",
+    "bbox": [
+        15.027642,
+        37.591798,
+        15.077221,
+        37.682756
+    ],
+    "center": [
+        15.06667,
+        37.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.06667,
+            37.61667
+        ]
+    }
+}

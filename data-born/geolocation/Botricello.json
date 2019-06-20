@@ -1,0 +1,27 @@
+{
+    "id": "place.10044684567523830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Botricello",
+    "place_name": "Botricello, Catanzaro, Italy",
+    "bbox": [
+        16.823378,
+        38.911329,
+        16.877068,
+        38.973239
+    ],
+    "center": [
+        16.85,
+        38.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.85,
+            38.93333
+        ]
+    }
+}

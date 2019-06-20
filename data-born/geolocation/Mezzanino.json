@@ -1,0 +1,27 @@
+{
+    "id": "place.11003223798504640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzanino",
+    "place_name": "Mezzanino, Pavia, Italy",
+    "bbox": [
+        9.173446,
+        45.107495,
+        9.236586,
+        45.163028
+    ],
+    "center": [
+        9.2,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            45.13333
+        ]
+    }
+}

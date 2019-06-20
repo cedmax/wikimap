@@ -1,0 +1,27 @@
+{
+    "id": "place.9488108607708720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ficarolo",
+    "place_name": "Ficarolo, Rovigo, Italy",
+    "bbox": [
+        11.415006,
+        44.925905,
+        11.479874,
+        44.982702
+    ],
+    "center": [
+        11.43333,
+        44.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43333,
+            44.95
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14577719367771950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mira",
+    "place_name": "Mira, Venezia, Italy",
+    "bbox": [
+        12.086578,
+        45.339618,
+        12.259198,
+        45.479749
+    ],
+    "center": [
+        12.1329,
+        45.43751
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1329,
+            45.43751
+        ]
+    }
+}

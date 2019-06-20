@@ -1,0 +1,27 @@
+{
+    "id": "place.14233282575443250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Martina Franca",
+    "place_name": "Martina Franca, Taranto, Italy",
+    "bbox": [
+        17.166156,
+        40.579513,
+        17.476176,
+        40.803062
+    ],
+    "center": [
+        17.33333,
+        40.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.33333,
+            40.7
+        ]
+    }
+}

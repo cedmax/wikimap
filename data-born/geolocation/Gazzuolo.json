@@ -1,0 +1,27 @@
+{
+    "id": "place.5370737981482230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gazzuolo",
+    "place_name": "Gazzuolo, Mantova, Italy",
+    "bbox": [
+        10.53231,
+        45.037098,
+        10.600476,
+        45.100884
+    ],
+    "center": [
+        10.58333,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.58333,
+            45.06667
+        ]
+    }
+}

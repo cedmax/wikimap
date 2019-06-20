@@ -1,0 +1,27 @@
+{
+    "id": "place.2822253196045240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Contigliano",
+    "place_name": "Contigliano, Rieti, Italy",
+    "bbox": [
+        12.716352,
+        42.358641,
+        12.811869,
+        42.494556
+    ],
+    "center": [
+        12.76667,
+        42.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76667,
+            42.41667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3586261821467670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Adro",
+    "place_name": "Adro, Brescia, Italy",
+    "bbox": [
+        9.928444,
+        45.597117,
+        10.007417,
+        45.64705
+    ],
+    "center": [
+        9.9625,
+        45.6179
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9625,
+            45.6179
+        ]
+    }
+}

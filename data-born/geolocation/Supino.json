@@ -1,0 +1,27 @@
+{
+    "id": "place.11908926108725850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Supino",
+    "place_name": "Supino, Frosinone, Italy",
+    "bbox": [
+        13.149839,
+        41.578943,
+        13.269246,
+        41.647164
+    ],
+    "center": [
+        13.23333,
+        41.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23333,
+            41.61667
+        ]
+    }
+}

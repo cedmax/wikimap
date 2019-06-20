@@ -1,0 +1,27 @@
+{
+    "id": "place.10566885680962270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orani",
+    "place_name": "Orani, Nuoro, Italy",
+    "bbox": [
+        9.026645,
+        40.213147,
+        9.279024,
+        40.372534
+    ],
+    "center": [
+        9.17833,
+        40.24944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.17833,
+            40.24944
+        ]
+    }
+}

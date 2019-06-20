@@ -1,0 +1,27 @@
+{
+    "id": "place.6413911478821180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio di Piano",
+    "place_name": "San Giorgio di Piano, Bologna, Italy",
+    "bbox": [
+        11.344846,
+        44.609197,
+        11.419293,
+        44.702282
+    ],
+    "center": [
+        11.38333,
+        44.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38333,
+            44.65
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15462770581423890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bentivoglio",
+    "place_name": "Bentivoglio, Bologna, Italy",
+    "bbox": [
+        11.368622,
+        44.583347,
+        11.486004,
+        44.687234
+    ],
+    "center": [
+        11.41889,
+        44.63528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.41889,
+            44.63528
+        ]
+    }
+}

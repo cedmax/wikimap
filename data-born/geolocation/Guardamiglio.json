@@ -1,0 +1,27 @@
+{
+    "id": "place.3785121550200250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guardamiglio",
+    "place_name": "Guardamiglio, Lodi, Italy",
+    "bbox": [
+        9.637366,
+        45.093737,
+        9.700484,
+        45.127813
+    ],
+    "center": [
+        9.6825,
+        45.10861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6825,
+            45.10861
+        ]
+    }
+}

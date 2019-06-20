@@ -1,0 +1,27 @@
+{
+    "id": "place.14481438376810750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Michele Mondovì",
+    "place_name": "San Michele Mondovì, Cuneo, Italy",
+    "bbox": [
+        7.893641,
+        44.338924,
+        7.951169,
+        44.399453
+    ],
+    "center": [
+        7.9,
+        44.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9,
+            44.38333
+        ]
+    }
+}

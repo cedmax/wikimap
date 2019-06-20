@@ -1,0 +1,27 @@
+{
+    "id": "place.10300237036447500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casteldidone",
+    "place_name": "Casteldidone, Cremona, Italy",
+    "bbox": [
+        10.385243,
+        45.037427,
+        10.417758,
+        45.099609
+    ],
+    "center": [
+        10.4,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4,
+            45.06667
+        ]
+    }
+}

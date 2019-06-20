@@ -1,0 +1,27 @@
+{
+    "id": "place.4027788438744970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sermide",
+    "place_name": "Sermide, Mantova, Italy",
+    "bbox": [
+        11.212773,
+        44.938127,
+        11.327504,
+        45.0312
+    ],
+    "center": [
+        11.3,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3,
+            45
+        ]
+    }
+}

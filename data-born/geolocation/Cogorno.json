@@ -1,0 +1,21 @@
+{
+    "id": "poi.481036338061",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cogorno",
+    "place_name": "Cogorno, Benedetto Chiappe, Cogorno, Genova 16030, Italy",
+    "center": [
+        9.372609,
+        44.3205215
+    ],
+    "geometry": {
+        "coordinates": [
+            9.372609,
+            44.3205215
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5625474093386440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Itri",
+    "place_name": "Itri, Latina, Italy",
+    "bbox": [
+        13.453051,
+        41.237139,
+        13.603203,
+        41.36954
+    ],
+    "center": [
+        13.53333,
+        41.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.53333,
+            41.28333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.910533067727",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Monterotondo Marittimo",
+    "place_name": "Monterotondo Marittimo, Monterotondo Marittimo, Grosseto 58025, Italy",
+    "center": [
+        10.85579775,
+        43.14596175
+    ],
+    "geometry": {
+        "coordinates": [
+            10.85579775,
+            43.14596175
+        ],
+        "type": "Point"
+    }
+}

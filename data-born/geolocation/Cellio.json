@@ -1,0 +1,27 @@
+{
+    "id": "place.13026506790996140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellio",
+    "place_name": "Cellio, Vercelli, Italy",
+    "bbox": [
+        8.289971,
+        45.730627,
+        8.340293,
+        45.776164
+    ],
+    "center": [
+        8.3116,
+        45.7561
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.3116,
+            45.7561
+        ]
+    }
+}

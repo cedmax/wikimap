@@ -1,0 +1,27 @@
+{
+    "id": "place.8297869123571600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnolo in Piano",
+    "place_name": "Bagnolo in Piano, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.650054,
+        44.749593,
+        10.732924,
+        44.819531
+    ],
+    "center": [
+        10.68333,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68333,
+            44.76667
+        ]
+    }
+}

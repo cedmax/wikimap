@@ -1,0 +1,27 @@
+{
+    "id": "place.3808610336600400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bassano Romano",
+    "place_name": "Bassano Romano, Viterbo, Italy",
+    "bbox": [
+        12.120469,
+        42.175057,
+        12.217616,
+        42.235279
+    ],
+    "center": [
+        12.19,
+        42.22528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.19,
+            42.22528
+        ]
+    }
+}

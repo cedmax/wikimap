@@ -1,0 +1,27 @@
+{
+    "id": "place.1787535614412240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fano",
+    "place_name": "Fano, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.901266,
+        43.753539,
+        13.116608,
+        43.882076
+    ],
+    "center": [
+        13.01976,
+        43.84353
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01976,
+            43.84353
+        ]
+    }
+}

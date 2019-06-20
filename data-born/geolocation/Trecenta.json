@@ -1,0 +1,27 @@
+{
+    "id": "place.19314947451776810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trecenta",
+    "place_name": "Trecenta, Rovigo, Italy",
+    "bbox": [
+        11.394299,
+        44.987382,
+        11.498849,
+        45.060069
+    ],
+    "center": [
+        11.45,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.03333
+        ]
+    }
+}

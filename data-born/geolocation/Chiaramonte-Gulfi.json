@@ -1,0 +1,27 @@
+{
+    "id": "place.9023292289201550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiaramonte Gulfi",
+    "place_name": "Chiaramonte Gulfi, Ragusa, Italy",
+    "bbox": [
+        14.54411,
+        36.985675,
+        14.735821,
+        37.106615
+    ],
+    "center": [
+        14.7,
+        37.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.7,
+            37.03333
+        ]
+    }
+}

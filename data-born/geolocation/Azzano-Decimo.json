@@ -1,0 +1,27 @@
+{
+    "id": "place.4242517059842510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Azzano Decimo",
+    "place_name": "Azzano Decimo, Pordenone, Italy",
+    "bbox": [
+        12.629657,
+        45.823985,
+        12.767,
+        45.930742
+    ],
+    "center": [
+        12.71667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            45.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8498987780285390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ofena",
+    "place_name": "Ofena, L'Aquila, Italy",
+    "bbox": [
+        13.71977,
+        42.283054,
+        13.813012,
+        42.404726
+    ],
+    "center": [
+        13.75972,
+        42.32667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75972,
+            42.32667
+        ]
+    }
+}

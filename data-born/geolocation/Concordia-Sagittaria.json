@@ -1,0 +1,27 @@
+{
+    "id": "place.14644835492243640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Concordia Sagittaria",
+    "place_name": "Concordia Sagittaria, Venezia, Italy",
+    "bbox": [
+        12.754295,
+        45.675451,
+        12.92152,
+        45.767947
+    ],
+    "center": [
+        12.85,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.85,
+            45.76667
+        ]
+    }
+}

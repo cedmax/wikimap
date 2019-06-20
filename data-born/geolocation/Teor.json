@@ -1,0 +1,27 @@
+{
+    "id": "place.9048974773234350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.9375,
+    "text": "Teora",
+    "place_name": "Teora, Avellino, Italy",
+    "bbox": [
+        15.207071,
+        40.83768,
+        15.283417,
+        40.891005
+    ],
+    "center": [
+        15.25,
+        40.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.25,
+            40.85
+        ]
+    }
+}

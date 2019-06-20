@@ -1,0 +1,27 @@
+{
+    "id": "place.13824638997245410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Foglizzo",
+    "place_name": "Foglizzo, Torino, Italy",
+    "bbox": [
+        7.790886,
+        45.243296,
+        7.847359,
+        45.295702
+    ],
+    "center": [
+        7.81667,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.81667,
+            45.26667
+        ]
+    }
+}

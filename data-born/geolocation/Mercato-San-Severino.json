@@ -1,0 +1,27 @@
+{
+    "id": "place.16920265859822770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mercato San Severino",
+    "place_name": "Mercato San Severino, Salerno, Italy",
+    "bbox": [
+        14.694764,
+        40.744245,
+        14.774438,
+        40.821614
+    ],
+    "center": [
+        14.76667,
+        40.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.76667,
+            40.78333
+        ]
+    }
+}

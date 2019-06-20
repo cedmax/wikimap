@@ -1,0 +1,27 @@
+{
+    "id": "place.11144355736399720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orsenigo",
+    "place_name": "Orsenigo, Como, Italy",
+    "bbox": [
+        9.14868,
+        45.762677,
+        9.196574,
+        45.793059
+    ],
+    "center": [
+        9.18333,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45.78333
+        ]
+    }
+}

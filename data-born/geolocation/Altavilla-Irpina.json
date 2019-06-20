@@ -1,0 +1,27 @@
+{
+    "id": "place.6976101152484250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Altavilla Irpina",
+    "place_name": "Altavilla Irpina, Avellino, Italy",
+    "bbox": [
+        14.757535,
+        40.978131,
+        14.812225,
+        41.023022
+    ],
+    "center": [
+        14.78222,
+        41.00806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.78222,
+            41.00806
+        ]
+    }
+}

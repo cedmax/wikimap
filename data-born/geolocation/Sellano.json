@@ -1,0 +1,27 @@
+{
+    "id": "place.15735084456857490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sellano",
+    "place_name": "Sellano, Perugia, Italy",
+    "bbox": [
+        12.80364,
+        42.849261,
+        12.976986,
+        42.935195
+    ],
+    "center": [
+        12.93333,
+        42.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.93333,
+            42.88333
+        ]
+    }
+}

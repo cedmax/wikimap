@@ -1,0 +1,21 @@
+{
+    "id": "poi.2302102533124",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Torre Del Lago Puccini",
+    "place_name": "Torre Del Lago Puccini, Viareggio, Lucca 55049, Italy",
+    "center": [
+        10.306475,
+        43.832689
+    ],
+    "geometry": {
+        "coordinates": [
+            10.306475,
+            43.832689
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8528330526385860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roncade",
+    "place_name": "Roncade, Treviso, Italy",
+    "bbox": [
+        12.331869,
+        45.559026,
+        12.453413,
+        45.671503
+    ],
+    "center": [
+        12.3766,
+        45.6246
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3766,
+            45.6246
+        ]
+    }
+}

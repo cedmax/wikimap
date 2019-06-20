@@ -1,0 +1,27 @@
+{
+    "id": "place.8960381905691160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo Ticino",
+    "place_name": "Borgo Ticino, Novara, Italy",
+    "bbox": [
+        8.56734,
+        45.670066,
+        8.632869,
+        45.711839
+    ],
+    "center": [
+        8.6,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.6,
+            45.68333
+        ]
+    }
+}

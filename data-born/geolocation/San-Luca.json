@@ -1,0 +1,23 @@
+{
+    "id": "poi.2113123948843",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "chiesa di San Luca",
+    "place_name": "chiesa di San Luca, Venezia, Venezia 30124, Italy",
+    "matching_text": "San Luca",
+    "matching_place_name": "San Luca, Venezia, Venezia 30124, Italy",
+    "center": [
+        12.33432,
+        45.435783
+    ],
+    "geometry": {
+        "coordinates": [
+            12.33432,
+            45.435783
+        ],
+        "type": "Point"
+    }
+}

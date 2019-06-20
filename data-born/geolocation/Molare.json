@@ -1,0 +1,27 @@
+{
+    "id": "place.7579146276123640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Molare",
+    "place_name": "Molare, Alessandria, Italy",
+    "bbox": [
+        8.547653,
+        44.521481,
+        8.628138,
+        44.624795
+    ],
+    "center": [
+        8.60167,
+        44.61972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.60167,
+            44.61972
+        ]
+    }
+}

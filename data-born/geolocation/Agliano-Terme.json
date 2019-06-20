@@ -1,0 +1,27 @@
+{
+    "id": "place.9754075651906920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agliano Terme",
+    "place_name": "Agliano Terme, Asti, Italy",
+    "bbox": [
+        8.22023,
+        44.764676,
+        8.275517,
+        44.810975
+    ],
+    "center": [
+        8.25139,
+        44.79111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.25139,
+            44.79111
+        ]
+    }
+}

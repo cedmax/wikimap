@@ -1,0 +1,27 @@
+{
+    "id": "place.17232496223340350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Satriano di Lucania",
+    "place_name": "Satriano di Lucania, Potenza, Italy",
+    "bbox": [
+        15.590497,
+        40.513182,
+        15.681827,
+        40.583041
+    ],
+    "center": [
+        15.63917,
+        40.545
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.63917,
+            40.545
+        ]
+    }
+}

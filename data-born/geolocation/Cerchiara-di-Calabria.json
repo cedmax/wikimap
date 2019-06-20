@@ -1,0 +1,27 @@
+{
+    "id": "place.8287311886273260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cerchiara di Calabria",
+    "place_name": "Cerchiara di Calabria, Cosenza, Italy",
+    "bbox": [
+        16.214449,
+        39.783602,
+        16.468423,
+        39.928284
+    ],
+    "center": [
+        16.36667,
+        39.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.36667,
+            39.86667
+        ]
+    }
+}

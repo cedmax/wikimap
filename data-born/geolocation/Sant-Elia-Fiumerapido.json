@@ -1,0 +1,27 @@
+{
+    "id": "place.3490015481946590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Elia Fiumerapido",
+    "place_name": "Sant'Elia Fiumerapido, Frosinone, Italy",
+    "bbox": [
+        13.823277,
+        41.513522,
+        13.911623,
+        41.601959
+    ],
+    "center": [
+        13.86667,
+        41.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.86667,
+            41.55
+        ]
+    }
+}

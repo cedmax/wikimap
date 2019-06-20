@@ -1,0 +1,27 @@
+{
+    "id": "place.14393881766553590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellarengo",
+    "place_name": "Cellarengo, Asti, Italy",
+    "bbox": [
+        7.884995,
+        44.84622,
+        7.958942,
+        44.897145
+    ],
+    "center": [
+        7.94639,
+        44.86528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.94639,
+            44.86528
+        ]
+    }
+}

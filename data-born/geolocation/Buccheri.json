@@ -1,0 +1,27 @@
+{
+    "id": "place.9824826887023060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buccheri",
+    "place_name": "Buccheri, Siracusa, Italy",
+    "bbox": [
+        14.79415,
+        37.103151,
+        14.918833,
+        37.223737
+    ],
+    "center": [
+        14.85194,
+        37.125
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85194,
+            37.125
+        ]
+    }
+}

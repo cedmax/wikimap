@@ -1,0 +1,27 @@
+{
+    "id": "place.8182565183893370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Minervino di Lecce",
+    "place_name": "Minervino di Lecce, Lecce, Italy",
+    "bbox": [
+        18.38536,
+        40.049769,
+        18.443289,
+        40.115415
+    ],
+    "center": [
+        18.4204,
+        40.0884
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.4204,
+            40.0884
+        ]
+    }
+}

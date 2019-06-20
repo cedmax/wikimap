@@ -1,0 +1,27 @@
+{
+    "id": "place.18902417416667530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gonnesa",
+    "place_name": "Gonnesa, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.394075,
+        39.209593,
+        8.494949,
+        39.307824
+    ],
+    "center": [
+        8.46667,
+        39.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            39.26667
+        ]
+    }
+}

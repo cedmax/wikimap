@@ -1,0 +1,27 @@
+{
+    "id": "place.13793955330055260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corio",
+    "place_name": "Corio, Torino, Italy",
+    "bbox": [
+        7.471831,
+        45.282343,
+        7.566107,
+        45.372988
+    ],
+    "center": [
+        7.53333,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.53333,
+            45.31667
+        ]
+    }
+}

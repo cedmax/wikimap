@@ -1,0 +1,27 @@
+{
+    "id": "place.9390444549991160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni in Persiceto",
+    "place_name": "San Giovanni in Persiceto, Bologna, Italy",
+    "bbox": [
+        11.118411,
+        44.568713,
+        11.275492,
+        44.75837
+    ],
+    "center": [
+        11.185,
+        44.64083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.185,
+            44.64083
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6547762862797040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genazzano",
+    "place_name": "Genazzano, Roma, Italy",
+    "bbox": [
+        12.951575,
+        41.76649,
+        13.013901,
+        41.86213
+    ],
+    "center": [
+        12.96667,
+        41.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96667,
+            41.83333
+        ]
+    }
+}

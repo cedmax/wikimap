@@ -1,0 +1,27 @@
+{
+    "id": "place.3634100663553240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serrenti",
+    "place_name": "Serrenti, Medio Campidano, Italy",
+    "bbox": [
+        8.920489,
+        39.462209,
+        9.015851,
+        39.538454
+    ],
+    "center": [
+        8.96667,
+        39.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.96667,
+            39.5
+        ]
+    }
+}

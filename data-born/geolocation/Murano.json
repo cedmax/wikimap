@@ -1,0 +1,21 @@
+{
+    "id": "poi.2929167758059",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Murano",
+    "place_name": "Murano, Isola di Murano, Venezia, Venezia 30141, Italy",
+    "center": [
+        12.351905,
+        45.453485
+    ],
+    "geometry": {
+        "coordinates": [
+            12.351905,
+            45.453485
+        ],
+        "type": "Point"
+    }
+}

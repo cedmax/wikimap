@@ -1,0 +1,27 @@
+{
+    "id": "place.2567537808641080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lenola",
+    "place_name": "Lenola, Latina, Italy",
+    "bbox": [
+        13.413406,
+        41.373111,
+        13.512268,
+        41.464698
+    ],
+    "center": [
+        13.4625,
+        41.40917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4625,
+            41.40917
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15131434358797170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piubega",
+    "place_name": "Piubega, Mantova, Italy",
+    "bbox": [
+        10.491985,
+        45.191255,
+        10.559328,
+        45.243103
+    ],
+    "center": [
+        10.53333,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.53333,
+            45.23333
+        ]
+    }
+}

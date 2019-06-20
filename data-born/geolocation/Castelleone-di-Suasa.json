@@ -1,0 +1,27 @@
+{
+    "id": "place.7962722523568140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelleone di Suasa",
+    "place_name": "Castelleone di Suasa, Ancona, Italy",
+    "bbox": [
+        12.958237,
+        43.585502,
+        13.021389,
+        43.637022
+    ],
+    "center": [
+        12.97637,
+        43.60739
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.97637,
+            43.60739
+        ]
+    }
+}

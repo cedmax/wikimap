@@ -1,0 +1,27 @@
+{
+    "id": "place.11329564032306080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bobbio Pellice",
+    "place_name": "Bobbio Pellice, Torino, Italy",
+    "bbox": [
+        6.999874,
+        44.713687,
+        7.13421,
+        44.850345
+    ],
+    "center": [
+        7.11667,
+        44.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.11667,
+            44.8
+        ]
+    }
+}

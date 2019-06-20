@@ -1,0 +1,27 @@
+{
+    "id": "place.12306328452373360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asigliano Vercellese",
+    "place_name": "Asigliano Vercellese, Vercelli, Italy",
+    "bbox": [
+        8.364174,
+        45.240916,
+        8.458888,
+        45.287537
+    ],
+    "center": [
+        8.41667,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.41667,
+            45.26667
+        ]
+    }
+}

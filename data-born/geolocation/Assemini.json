@@ -1,0 +1,27 @@
+{
+    "id": "place.9605033669138250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Assemini",
+    "place_name": "Assemini, Cagliari, Italy",
+    "bbox": [
+        8.820717,
+        39.099537,
+        9.075332,
+        39.334133
+    ],
+    "center": [
+        9,
+        39.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9,
+            39.28333
+        ]
+    }
+}

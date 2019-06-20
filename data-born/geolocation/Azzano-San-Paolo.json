@@ -1,0 +1,27 @@
+{
+    "id": "place.6273913460684790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Azzano San Paolo",
+    "place_name": "Azzano San Paolo, Bergamo, Italy",
+    "bbox": [
+        9.659115,
+        45.646441,
+        9.703623,
+        45.67019
+    ],
+    "center": [
+        9.67556,
+        45.66056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.67556,
+            45.66056
+        ]
+    }
+}

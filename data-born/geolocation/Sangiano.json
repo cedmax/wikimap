@@ -1,0 +1,27 @@
+{
+    "id": "place.8847053861130900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sangiano",
+    "place_name": "Sangiano, Varese, Italy",
+    "bbox": [
+        8.624392,
+        45.865616,
+        8.64077,
+        45.888246
+    ],
+    "center": [
+        8.63333,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.63333,
+            45.86667
+        ]
+    }
+}

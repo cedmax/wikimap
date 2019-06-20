@@ -1,0 +1,27 @@
+{
+    "id": "place.9457690110705340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calolziocorte",
+    "place_name": "Calolziocorte, Lecco, Italy",
+    "bbox": [
+        9.414187,
+        45.774738,
+        9.480389,
+        45.815373
+    ],
+    "center": [
+        9.43333,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43333,
+            45.8
+        ]
+    }
+}

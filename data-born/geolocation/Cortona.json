@@ -1,0 +1,27 @@
+{
+    "id": "place.5776187676319680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cortona",
+    "place_name": "Cortona, Arezzo, Italy",
+    "bbox": [
+        11.833872,
+        43.15631,
+        12.223889,
+        43.372045
+    ],
+    "center": [
+        11.98806,
+        43.27556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98806,
+            43.27556
+        ]
+    }
+}

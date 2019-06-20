@@ -1,0 +1,27 @@
+{
+    "id": "place.14695874433933860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grumello del Monte",
+    "place_name": "Grumello del Monte, Bergamo, Italy",
+    "bbox": [
+        9.855736,
+        45.607535,
+        9.891222,
+        45.666899
+    ],
+    "center": [
+        9.86667,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            45.63333
+        ]
+    }
+}

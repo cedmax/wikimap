@@ -1,0 +1,27 @@
+{
+    "id": "place.12081417222694330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lucca",
+    "place_name": "Lucca, Lucca, Italy",
+    "bbox": [
+        10.363228,
+        43.757927,
+        10.57585,
+        43.959295
+    ],
+    "center": [
+        10.51667,
+        43.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.51667,
+            43.85
+        ]
+    }
+}

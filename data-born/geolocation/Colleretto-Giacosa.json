@@ -1,0 +1,27 @@
+{
+    "id": "place.12364762849489280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Colleretto Giacosa",
+    "place_name": "Colleretto Giacosa, Torino, Italy",
+    "bbox": [
+        7.792623,
+        45.418905,
+        7.831024,
+        45.443944
+    ],
+    "center": [
+        7.78333,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.78333,
+            45.43333
+        ]
+    }
+}

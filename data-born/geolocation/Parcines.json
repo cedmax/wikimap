@@ -1,0 +1,29 @@
+{
+    "id": "place.8338587792339460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Parcines - Partschins",
+    "place_name": "Parcines - Partschins, Bolzano, Italy",
+    "matching_text": "Parcines",
+    "matching_place_name": "Parcines, Bolzano, Italy",
+    "bbox": [
+        10.968307,
+        46.641475,
+        11.115078,
+        46.746318
+    ],
+    "center": [
+        11.07333,
+        46.68417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.07333,
+            46.68417
+        ]
+    }
+}

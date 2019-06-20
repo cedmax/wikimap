@@ -1,0 +1,27 @@
+{
+    "id": "place.12320593050318450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Offlaga",
+    "place_name": "Offlaga, Brescia, Italy",
+    "bbox": [
+        10.060269,
+        45.352516,
+        10.162936,
+        45.40534
+    ],
+    "center": [
+        10.11667,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.11667,
+            45.38333
+        ]
+    }
+}

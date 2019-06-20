@@ -1,0 +1,27 @@
+{
+    "id": "place.10519679041132470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castello d'Argile",
+    "place_name": "Castello d'Argile, Bologna, Italy",
+    "bbox": [
+        11.247112,
+        44.66491,
+        11.358084,
+        44.712551
+    ],
+    "center": [
+        11.29667,
+        44.68111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.29667,
+            44.68111
+        ]
+    }
+}

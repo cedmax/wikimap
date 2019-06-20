@@ -1,0 +1,27 @@
+{
+    "id": "place.15026818363171830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cogoleto",
+    "place_name": "Cogoleto, Genova, Italy",
+    "bbox": [
+        8.585522,
+        44.379483,
+        8.664745,
+        44.438881
+    ],
+    "center": [
+        8.64618,
+        44.38957
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.64618,
+            44.38957
+        ]
+    }
+}

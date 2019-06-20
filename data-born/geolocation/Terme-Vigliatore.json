@@ -1,0 +1,27 @@
+{
+    "id": "place.10683858201672340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terme Vigliatore",
+    "place_name": "Terme Vigliatore, Messina, Italy",
+    "bbox": [
+        15.119894,
+        38.106611,
+        15.186944,
+        38.151591
+    ],
+    "center": [
+        15.16667,
+        38.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.16667,
+            38.13333
+        ]
+    }
+}

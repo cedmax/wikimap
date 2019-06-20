@@ -1,0 +1,27 @@
+{
+    "id": "place.13100473910827930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Livraga",
+    "place_name": "Livraga, Lodi, Italy",
+    "bbox": [
+        9.51501,
+        45.165689,
+        9.579503,
+        45.208221
+    ],
+    "center": [
+        9.5475,
+        45.19333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.5475,
+            45.19333
+        ]
+    }
+}

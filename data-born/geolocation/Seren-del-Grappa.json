@@ -1,0 +1,27 @@
+{
+    "id": "place.8583992868658630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Seren del Grappa",
+    "place_name": "Seren del Grappa, Belluno, Italy",
+    "bbox": [
+        11.774612,
+        45.880961,
+        11.911227,
+        46.011907
+    ],
+    "center": [
+        11.85,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.85,
+            45.98333
+        ]
+    }
+}

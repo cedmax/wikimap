@@ -1,0 +1,27 @@
+{
+    "id": "place.14335172184141140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dro",
+    "place_name": "Dro, Trento, Italy",
+    "bbox": [
+        10.887287,
+        45.935361,
+        10.956064,
+        46.036823
+    ],
+    "center": [
+        10.91667,
+        45.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91667,
+            45.96667
+        ]
+    }
+}

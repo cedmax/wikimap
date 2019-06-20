@@ -1,0 +1,27 @@
+{
+    "id": "place.13608810778718710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melegnano",
+    "place_name": "Melegnano, Milano, Italy",
+    "bbox": [
+        9.296668,
+        45.342654,
+        9.339419,
+        45.368125
+    ],
+    "center": [
+        9.31667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.36667
+        ]
+    }
+}

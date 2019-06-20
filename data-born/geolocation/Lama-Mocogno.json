@@ -1,0 +1,27 @@
+{
+    "id": "place.14590310484087170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lama Mocogno",
+    "place_name": "Lama Mocogno, Modena, Italy",
+    "bbox": [
+        10.63579,
+        44.244239,
+        10.782323,
+        44.366246
+    ],
+    "center": [
+        10.73333,
+        44.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73333,
+            44.3
+        ]
+    }
+}

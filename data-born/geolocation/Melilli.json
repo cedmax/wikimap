@@ -1,0 +1,27 @@
+{
+    "id": "place.13642483690990330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melilli",
+    "place_name": "Melilli, Siracusa, Italy",
+    "bbox": [
+        14.998616,
+        37.094977,
+        15.237807,
+        37.288712
+    ],
+    "center": [
+        15.11667,
+        37.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            37.18333
+        ]
+    }
+}

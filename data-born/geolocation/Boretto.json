@@ -1,0 +1,27 @@
+{
+    "id": "place.12227191087305280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Boretto",
+    "place_name": "Boretto, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.525765,
+        44.876719,
+        10.596506,
+        44.914369
+    ],
+    "center": [
+        10.55,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55,
+            44.9
+        ]
+    }
+}

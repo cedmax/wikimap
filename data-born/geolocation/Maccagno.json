@@ -1,0 +1,21 @@
+{
+    "id": "address.5852232",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Maccagno",
+    "place_name": "via Maccagno, 12023 Caraglio Cuneo, Italy",
+    "center": [
+        7.469187,
+        44.427297
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.469187,
+            44.427297
+        ]
+    }
+}

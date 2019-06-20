@@ -1,0 +1,21 @@
+{
+    "id": "poi.2499671018016",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6,
+    "text": "Piazza Bonomelli",
+    "place_name": "Piazza Bonomelli, Piazza Bonomelli, Milano, Milano 20139, Italy",
+    "center": [
+        9.21404,
+        45.439867
+    ],
+    "geometry": {
+        "coordinates": [
+            9.21404,
+            45.439867
+        ],
+        "type": "Point"
+    }
+}

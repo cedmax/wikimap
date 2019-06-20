@@ -1,0 +1,21 @@
+{
+    "id": "poi.3152506017076",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Pralboino",
+    "place_name": "Pralboino, Pralboino, Brescia 25020, Italy",
+    "center": [
+        10.218242749999998,
+        45.2678325
+    ],
+    "geometry": {
+        "coordinates": [
+            10.218242749999998,
+            45.2678325
+        ],
+        "type": "Point"
+    }
+}

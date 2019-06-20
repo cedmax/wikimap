@@ -1,0 +1,27 @@
+{
+    "id": "place.12484462943210720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campobello di Licata",
+    "place_name": "Campobello di Licata, Agrigento, Italy",
+    "bbox": [
+        13.847402,
+        37.167625,
+        13.977441,
+        37.295318
+    ],
+    "center": [
+        13.91917,
+        37.25944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91917,
+            37.25944
+        ]
+    }
+}

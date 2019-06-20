@@ -1,0 +1,27 @@
+{
+    "id": "place.5843095846432260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capistrello",
+    "place_name": "Capistrello, L'Aquila, Italy",
+    "bbox": [
+        13.320785,
+        41.92131,
+        13.437645,
+        42.03715
+    ],
+    "center": [
+        13.4,
+        41.97361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.4,
+            41.97361
+        ]
+    }
+}

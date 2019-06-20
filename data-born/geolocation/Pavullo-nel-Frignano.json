@@ -1,0 +1,27 @@
+{
+    "id": "place.8980575134677830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pavullo nel Frignano",
+    "place_name": "Pavullo nel Frignano, Modena, Italy",
+    "bbox": [
+        10.758489,
+        44.267104,
+        10.931313,
+        44.408038
+    ],
+    "center": [
+        10.83333,
+        44.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.83333,
+            44.33333
+        ]
+    }
+}

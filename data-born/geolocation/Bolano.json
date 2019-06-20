@@ -1,0 +1,27 @@
+{
+    "id": "place.10016766488485370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bolano",
+    "place_name": "Bolano, La Spezia, Italy",
+    "bbox": [
+        9.865465,
+        44.156402,
+        9.934702,
+        44.210088
+    ],
+    "center": [
+        9.89536,
+        44.1891
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.89536,
+            44.1891
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10435800064738030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paese",
+    "place_name": "Paese, Treviso, Italy",
+    "bbox": [
+        12.108342,
+        45.656301,
+        12.196015,
+        45.743764
+    ],
+    "center": [
+        12.15,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.15,
+            45.66667
+        ]
+    }
+}

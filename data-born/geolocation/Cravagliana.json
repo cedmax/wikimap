@@ -1,0 +1,27 @@
+{
+    "id": "place.9144747519884620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cravagliana",
+    "place_name": "Cravagliana, Vercelli, Italy",
+    "bbox": [
+        8.136828,
+        45.836666,
+        8.254619,
+        45.910853
+    ],
+    "center": [
+        8.2,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.2,
+            45.85
+        ]
+    }
+}

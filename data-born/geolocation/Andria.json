@@ -1,0 +1,27 @@
+{
+    "id": "place.14929679763704430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Andria",
+    "place_name": "Andria, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        16.084889,
+        41.008662,
+        16.364407,
+        41.271101
+    ],
+    "center": [
+        16.30833,
+        41.23167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.30833,
+            41.23167
+        ]
+    }
+}

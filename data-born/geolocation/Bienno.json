@@ -1,0 +1,27 @@
+{
+    "id": "place.9532711091246300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bienno",
+    "place_name": "Bienno, Brescia, Italy",
+    "bbox": [
+        10.282701,
+        45.863416,
+        10.412625,
+        45.947676
+    ],
+    "center": [
+        10.29417,
+        45.93667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.29417,
+            45.93667
+        ]
+    }
+}

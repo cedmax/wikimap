@@ -1,0 +1,27 @@
+{
+    "id": "place.12471162533166610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trinità d'Agultu e Vignola",
+    "place_name": "Trinità d'Agultu e Vignola, Olbia-Tempio, Italy",
+    "bbox": [
+        8.866332,
+        40.958098,
+        9.058379,
+        41.104435
+    ],
+    "center": [
+        8.91417,
+        40.98556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91417,
+            40.98556
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8936326877866990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stenico",
+    "place_name": "Stenico, Trento, Italy",
+    "bbox": [
+        10.784715,
+        46.037291,
+        10.904647,
+        46.189586
+    ],
+    "center": [
+        10.85,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            46.05
+        ]
+    }
+}

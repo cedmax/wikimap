@@ -1,0 +1,27 @@
+{
+    "id": "place.3928244278948180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vaprio d'Adda",
+    "place_name": "Vaprio d'Adda, Bergamo, Italy",
+    "bbox": [
+        9.500239,
+        45.552661,
+        9.539041,
+        45.591617
+    ],
+    "center": [
+        9.53333,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.53333,
+            45.56667
+        ]
+    }
+}

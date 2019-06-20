@@ -1,0 +1,27 @@
+{
+    "id": "place.13145812592204910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villachiara",
+    "place_name": "Villachiara, Brescia, Italy",
+    "bbox": [
+        9.884064,
+        45.327996,
+        9.947393,
+        45.384596
+    ],
+    "center": [
+        9.93333,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45.35
+        ]
+    }
+}

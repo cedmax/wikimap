@@ -1,0 +1,27 @@
+{
+    "id": "place.10556494320813550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Frentano",
+    "place_name": "Castel Frentano, Chieti, Italy",
+    "bbox": [
+        14.318185,
+        42.163181,
+        14.387379,
+        42.231139
+    ],
+    "center": [
+        14.35,
+        42.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.35,
+            42.2
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12047847626568610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Locorotondo",
+    "place_name": "Locorotondo, Bari, Italy",
+    "bbox": [
+        17.280464,
+        40.736214,
+        17.40014,
+        40.811412
+    ],
+    "center": [
+        17.31667,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.31667,
+            40.75
+        ]
+    }
+}

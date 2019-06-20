@@ -1,0 +1,27 @@
+{
+    "id": "place.10049610093489290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rotella",
+    "place_name": "Rotella, Ascoli Piceno, Italy",
+    "bbox": [
+        13.513666,
+        42.920862,
+        13.586829,
+        42.989231
+    ],
+    "center": [
+        13.56095,
+        42.95457
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56095,
+            42.95457
+        ]
+    }
+}

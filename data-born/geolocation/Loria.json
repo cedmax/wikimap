@@ -1,0 +1,27 @@
+{
+    "id": "place.10213824633277160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Loria",
+    "place_name": "Loria, Treviso, Italy",
+    "bbox": [
+        11.814126,
+        45.676823,
+        11.880109,
+        45.747811
+    ],
+    "center": [
+        11.86667,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            45.73333
+        ]
+    }
+}

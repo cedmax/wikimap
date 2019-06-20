@@ -1,0 +1,27 @@
+{
+    "id": "place.12204022352914810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Mauro di Saline",
+    "place_name": "San Mauro di Saline, Verona, Italy",
+    "bbox": [
+        11.093045,
+        45.527319,
+        11.128994,
+        45.595033
+    ],
+    "center": [
+        11.11667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            45.56667
+        ]
+    }
+}

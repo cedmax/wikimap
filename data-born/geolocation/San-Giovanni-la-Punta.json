@@ -1,0 +1,27 @@
+{
+    "id": "place.9169344724825770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giovanni la Punta",
+    "place_name": "San Giovanni la Punta, Catania, Italy",
+    "bbox": [
+        15.075671,
+        37.544171,
+        15.116022,
+        37.600553
+    ],
+    "center": [
+        15.1,
+        37.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            37.58333
+        ]
+    }
+}

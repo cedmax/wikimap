@@ -1,0 +1,27 @@
+{
+    "id": "place.7910053546560080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vezza d'Oglio",
+    "place_name": "Vezza d'Oglio, Brescia, Italy",
+    "bbox": [
+        10.338852,
+        46.19852,
+        10.440248,
+        46.33694
+    ],
+    "center": [
+        10.39806,
+        46.23889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.39806,
+            46.23889
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15093192177274620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve Tesino",
+    "place_name": "Pieve Tesino, Trento, Italy",
+    "bbox": [
+        11.498103,
+        46.057151,
+        11.652828,
+        46.235027
+    ],
+    "center": [
+        11.61667,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.61667,
+            46.06667
+        ]
+    }
+}

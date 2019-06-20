@@ -1,0 +1,27 @@
+{
+    "id": "place.10329647813971780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brienza",
+    "place_name": "Brienza, Potenza, Italy",
+    "bbox": [
+        15.535043,
+        40.413449,
+        15.668253,
+        40.534364
+    ],
+    "center": [
+        15.63,
+        40.47861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.63,
+            40.47861
+        ]
+    }
+}

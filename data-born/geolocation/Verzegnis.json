@@ -1,0 +1,27 @@
+{
+    "id": "place.2834838505322200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verzegnis",
+    "place_name": "Verzegnis, Udine, Italy",
+    "bbox": [
+        12.904959,
+        46.333664,
+        13.023389,
+        46.404842
+    ],
+    "center": [
+        12.98333,
+        46.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98333,
+            46.38333
+        ]
+    }
+}

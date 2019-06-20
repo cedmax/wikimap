@@ -1,0 +1,27 @@
+{
+    "id": "place.8453855712750040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oggiono",
+    "place_name": "Oggiono, Lecco, Italy",
+    "bbox": [
+        9.310553,
+        45.774574,
+        9.373984,
+        45.81138
+    ],
+    "center": [
+        9.35,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35,
+            45.78333
+        ]
+    }
+}

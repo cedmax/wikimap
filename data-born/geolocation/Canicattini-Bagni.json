@@ -1,0 +1,27 @@
+{
+    "id": "place.5553620599543580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canicattini Bagni",
+    "place_name": "Canicattini Bagni, Siracusa, Italy",
+    "bbox": [
+        15.040675,
+        37.014734,
+        15.114861,
+        37.05865
+    ],
+    "center": [
+        15.06667,
+        37.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.06667,
+            37.03333
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2508260945425",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sapri",
+    "place_name": "Sapri, Sapri, Sapri, Salerno 84073, Italy",
+    "center": [
+        15.627537,
+        40.074098
+    ],
+    "geometry": {
+        "coordinates": [
+            15.627537,
+            40.074098
+        ],
+        "type": "Point"
+    }
+}

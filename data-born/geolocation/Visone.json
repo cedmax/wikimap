@@ -1,0 +1,27 @@
+{
+    "id": "place.11039005451864590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Visone",
+    "place_name": "Visone, Alessandria, Italy",
+    "bbox": [
+        8.480247,
+        44.628999,
+        8.530142,
+        44.676453
+    ],
+    "center": [
+        8.50167,
+        44.66278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.50167,
+            44.66278
+        ]
+    }
+}

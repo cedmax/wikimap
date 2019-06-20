@@ -1,0 +1,27 @@
+{
+    "id": "place.12102883089060500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Balzola",
+    "place_name": "Balzola, Alessandria, Italy",
+    "bbox": [
+        8.376337,
+        45.162541,
+        8.44691,
+        45.20549
+    ],
+    "center": [
+        8.40444,
+        45.18444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.40444,
+            45.18444
+        ]
+    }
+}

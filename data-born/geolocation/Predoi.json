@@ -1,0 +1,29 @@
+{
+    "id": "place.10026379195781360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Predoi - Prettau",
+    "place_name": "Predoi - Prettau, Bolzano, Italy",
+    "matching_text": "Predoi",
+    "matching_place_name": "Predoi, Bolzano, Italy",
+    "bbox": [
+        12.059658,
+        46.987268,
+        12.240604,
+        47.091927
+    ],
+    "center": [
+        12.1,
+        47.01083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            47.01083
+        ]
+    }
+}

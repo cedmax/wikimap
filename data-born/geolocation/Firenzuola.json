@@ -1,0 +1,27 @@
+{
+    "id": "place.4459786035314780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Firenzuola",
+    "place_name": "Firenzuola, Firenze, Italy",
+    "bbox": [
+        11.19403,
+        44.043639,
+        11.525194,
+        44.2396
+    ],
+    "center": [
+        11.38185,
+        44.11968
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.38185,
+            44.11968
+        ]
+    }
+}

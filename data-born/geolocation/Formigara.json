@@ -1,0 +1,27 @@
+{
+    "id": "place.10272161206869470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formigara",
+    "place_name": "Formigara, Cremona, Italy",
+    "bbox": [
+        9.714953,
+        45.212875,
+        9.787768,
+        45.248331
+    ],
+    "center": [
+        9.76667,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76667,
+            45.23333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8459039603584190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vermiglio",
+    "place_name": "Vermiglio, Trento, Italy",
+    "bbox": [
+        10.559774,
+        46.215959,
+        10.724816,
+        46.323644
+    ],
+    "center": [
+        10.68333,
+        46.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68333,
+            46.3
+        ]
+    }
+}

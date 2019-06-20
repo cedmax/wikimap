@@ -1,0 +1,27 @@
+{
+    "id": "place.8354105114919930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Folgaria",
+    "place_name": "Folgaria, Trento, Italy",
+    "bbox": [
+        11.118306,
+        45.849006,
+        11.265234,
+        45.956108
+    ],
+    "center": [
+        11.18333,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.18333,
+            45.91667
+        ]
+    }
+}

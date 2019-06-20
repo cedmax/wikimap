@@ -1,0 +1,21 @@
+{
+    "id": "poi.266287972634",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Agazzano",
+    "place_name": "Agazzano, Agazzano, Piacenza 29010, Italy",
+    "center": [
+        9.5192815,
+        44.9468885
+    ],
+    "geometry": {
+        "coordinates": [
+            9.5192815,
+            44.9468885
+        ],
+        "type": "Point"
+    }
+}

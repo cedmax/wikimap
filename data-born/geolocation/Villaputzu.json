@@ -1,0 +1,27 @@
+{
+    "id": "place.6848954228814420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villaputzu",
+    "place_name": "Villaputzu, Cagliari, Italy",
+    "bbox": [
+        9.417041,
+        39.412729,
+        9.651448,
+        39.641499
+    ],
+    "center": [
+        9.57611,
+        39.43917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.57611,
+            39.43917
+        ]
+    }
+}

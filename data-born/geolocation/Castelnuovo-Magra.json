@@ -1,0 +1,27 @@
+{
+    "id": "place.13993418404954260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo Magra",
+    "place_name": "Castelnuovo Magra, La Spezia, Italy",
+    "bbox": [
+        9.992642,
+        44.06472,
+        10.047292,
+        44.11932
+    ],
+    "center": [
+        10.01779,
+        44.09937
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01779,
+            44.09937
+        ]
+    }
+}

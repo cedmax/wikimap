@@ -1,0 +1,27 @@
+{
+    "id": "place.12196424994351940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salaparuta",
+    "place_name": "Salaparuta, Trapani, Italy",
+    "bbox": [
+        12.92958,
+        37.727163,
+        13.029005,
+        37.797832
+    ],
+    "center": [
+        13,
+        37.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13,
+            37.75
+        ]
+    }
+}

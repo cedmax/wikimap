@@ -1,0 +1,27 @@
+{
+    "id": "place.13309444041778710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cento",
+    "place_name": "Cento, Ferrara, Italy",
+    "bbox": [
+        11.246165,
+        44.705677,
+        11.386929,
+        44.838364
+    ],
+    "center": [
+        11.28333,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            44.73333
+        ]
+    }
+}

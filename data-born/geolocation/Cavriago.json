@@ -1,0 +1,27 @@
+{
+    "id": "place.15304099394155060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavriago",
+    "place_name": "Cavriago, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.496591,
+        44.674029,
+        10.56449,
+        44.725365
+    ],
+    "center": [
+        10.52737,
+        44.69564
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.52737,
+            44.69564
+        ]
+    }
+}

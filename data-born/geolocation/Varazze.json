@@ -1,0 +1,27 @@
+{
+    "id": "place.4702881479605000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varazze",
+    "place_name": "Varazze, Savona, Italy",
+    "bbox": [
+        8.513059,
+        44.347712,
+        8.633969,
+        44.433767
+    ],
+    "center": [
+        8.57664,
+        44.36001
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.57664,
+            44.36001
+        ]
+    }
+}

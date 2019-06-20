@@ -1,0 +1,27 @@
+{
+    "id": "place.10944669733931910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavedago",
+    "place_name": "Cavedago, Trento, Italy",
+    "bbox": [
+        10.962197,
+        46.167894,
+        11.047249,
+        46.201839
+    ],
+    "center": [
+        11.03333,
+        46.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03333,
+            46.18333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4551952056296910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pelago",
+    "place_name": "Pelago, Firenze, Italy",
+    "bbox": [
+        11.441041,
+        43.738411,
+        11.604478,
+        43.813646
+    ],
+    "center": [
+        11.50472,
+        43.77389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.50472,
+            43.77389
+        ]
+    }
+}

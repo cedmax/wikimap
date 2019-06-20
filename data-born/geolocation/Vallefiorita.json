@@ -1,0 +1,27 @@
+{
+    "id": "place.16165637366395700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallefiorita",
+    "place_name": "Vallefiorita, Catanzaro, Italy",
+    "bbox": [
+        16.385164,
+        38.741773,
+        16.476491,
+        38.795593
+    ],
+    "center": [
+        16.46667,
+        38.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.46667,
+            38.78333
+        ]
+    }
+}

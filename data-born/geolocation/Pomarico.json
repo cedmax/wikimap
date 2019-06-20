@@ -1,0 +1,27 @@
+{
+    "id": "place.11041573454317340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pomarico",
+    "place_name": "Pomarico, Matera, Italy",
+    "bbox": [
+        16.469029,
+        40.415696,
+        16.641386,
+        40.557758
+    ],
+    "center": [
+        16.55,
+        40.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.55,
+            40.51667
+        ]
+    }
+}

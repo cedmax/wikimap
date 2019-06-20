@@ -1,0 +1,27 @@
+{
+    "id": "place.6538281494822930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sovizzo",
+    "place_name": "Sovizzo, Vicenza, Italy",
+    "bbox": [
+        11.405408,
+        45.509911,
+        11.459974,
+        45.571583
+    ],
+    "center": [
+        11.45,
+        45.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.53333
+        ]
+    }
+}

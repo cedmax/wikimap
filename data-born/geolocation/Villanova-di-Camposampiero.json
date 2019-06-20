@@ -1,0 +1,27 @@
+{
+    "id": "place.5592495414830930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova di Camposampiero",
+    "place_name": "Villanova di Camposampiero, Padova, Italy",
+    "bbox": [
+        11.952309,
+        45.473562,
+        12.003615,
+        45.521852
+    ],
+    "center": [
+        11.97471,
+        45.4889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.97471,
+            45.4889
+        ]
+    }
+}

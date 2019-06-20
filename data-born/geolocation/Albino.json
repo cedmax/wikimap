@@ -1,0 +1,27 @@
+{
+    "id": "place.13980262528396660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albino",
+    "place_name": "Albino, Bergamo, Italy",
+    "bbox": [
+        9.761506,
+        45.72816,
+        9.878295,
+        45.789712
+    ],
+    "center": [
+        9.79694,
+        45.76056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.79694,
+            45.76056
+        ]
+    }
+}

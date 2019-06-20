@@ -1,0 +1,27 @@
+{
+    "id": "place.8669784099142090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morolo",
+    "place_name": "Morolo, Frosinone, Italy",
+    "bbox": [
+        13.152822,
+        41.616774,
+        13.233875,
+        41.67326
+    ],
+    "center": [
+        13.2,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.2,
+            41.63333
+        ]
+    }
+}

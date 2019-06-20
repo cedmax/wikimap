@@ -1,0 +1,27 @@
+{
+    "id": "place.8564120607743260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Claino con Osteno",
+    "place_name": "Claino con Osteno, Como, Italy",
+    "bbox": [
+        9.048776,
+        45.992635,
+        9.136864,
+        46.027972
+    ],
+    "center": [
+        9.08333,
+        46
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.08333,
+            46
+        ]
+    }
+}

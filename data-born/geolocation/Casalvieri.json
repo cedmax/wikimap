@@ -1,0 +1,27 @@
+{
+    "id": "place.13398092288299330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalvieri",
+    "place_name": "Casalvieri, Frosinone, Italy",
+    "bbox": [
+        13.676686,
+        41.619687,
+        13.757294,
+        41.672602
+    ],
+    "center": [
+        13.71667,
+        41.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.71667,
+            41.63333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10758796720783230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta San Giovanni",
+    "place_name": "Motta San Giovanni, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.646742,
+        37.950347,
+        15.760845,
+        38.046374
+    ],
+    "center": [
+        15.7,
+        38
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.7,
+            38
+        ]
+    }
+}

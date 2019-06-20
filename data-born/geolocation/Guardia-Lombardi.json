@@ -1,0 +1,27 @@
+{
+    "id": "place.11471550849380250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Guardia Lombardi",
+    "place_name": "Guardia Lombardi, Avellino, Italy",
+    "bbox": [
+        15.16991,
+        40.938289,
+        15.297724,
+        41.012561
+    ],
+    "center": [
+        15.20972,
+        40.95472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.20972,
+            40.95472
+        ]
+    }
+}

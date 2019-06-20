@@ -1,0 +1,21 @@
+{
+    "id": "address.1124006759",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.8600000000000001,
+    "text": "via Memmo",
+    "place_name": "via Memmo, 25060 Collio Brescia, Italy",
+    "center": [
+        10.318566,
+        45.810705
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.318566,
+            45.810705
+        ]
+    }
+}

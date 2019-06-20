@@ -1,0 +1,21 @@
+{
+    "id": "poi.2035814553845",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Biancavilla",
+    "place_name": "Biancavilla, Via vittorio emanuele 20, Biancavilla, Catania 95033, Italy",
+    "center": [
+        14.874762,
+        37.639176
+    ],
+    "geometry": {
+        "coordinates": [
+            14.874762,
+            37.639176
+        ],
+        "type": "Point"
+    }
+}

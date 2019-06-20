@@ -1,0 +1,27 @@
+{
+    "id": "place.12300858810573220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caccamo",
+    "place_name": "Caccamo, Palermo, Italy",
+    "bbox": [
+        13.567423,
+        37.785574,
+        13.755584,
+        37.973236
+    ],
+    "center": [
+        13.66667,
+        37.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.66667,
+            37.93333
+        ]
+    }
+}

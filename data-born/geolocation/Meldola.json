@@ -1,0 +1,27 @@
+{
+    "id": "place.13478785579263290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meldola",
+    "place_name": "Meldola, Forli'-Cesena, Italy",
+    "bbox": [
+        11.99694,
+        44.034367,
+        12.135093,
+        44.151213
+    ],
+    "center": [
+        12.06667,
+        44.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.06667,
+            44.13333
+        ]
+    }
+}

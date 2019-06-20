@@ -1,0 +1,27 @@
+{
+    "id": "place.15426091980787550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Levico Terme",
+    "place_name": "Levico Terme, Trento, Italy",
+    "bbox": [
+        11.270827,
+        45.942112,
+        11.383433,
+        46.049868
+    ],
+    "center": [
+        11.3,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3,
+            46.01667
+        ]
+    }
+}

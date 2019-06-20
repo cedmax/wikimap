@@ -1,0 +1,27 @@
+{
+    "id": "place.13738700201484210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cisano Bergamasco",
+    "place_name": "Cisano Bergamasco, Bergamo, Italy",
+    "bbox": [
+        9.444978,
+        45.732485,
+        9.492408,
+        45.767716
+    ],
+    "center": [
+        9.47083,
+        45.74306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.47083,
+            45.74306
+        ]
+    }
+}

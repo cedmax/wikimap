@@ -1,0 +1,27 @@
+{
+    "id": "place.10132438709962600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alfedena",
+    "place_name": "Alfedena, L'Aquila, Italy",
+    "bbox": [
+        13.927641,
+        41.681774,
+        14.073682,
+        41.756936
+    ],
+    "center": [
+        14.035,
+        41.73545
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.035,
+            41.73545
+        ]
+    }
+}

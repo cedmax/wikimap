@@ -1,0 +1,27 @@
+{
+    "id": "place.15615118430357800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campi Salentina",
+    "place_name": "Campi Salentina, Lecce, Italy",
+    "bbox": [
+        17.95382,
+        40.361882,
+        18.060768,
+        40.456549
+    ],
+    "center": [
+        18.01667,
+        40.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.01667,
+            40.4
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11812182784728090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tuscania",
+    "place_name": "Tuscania, Viterbo, Italy",
+    "bbox": [
+        11.686823,
+        42.296409,
+        11.931297,
+        42.486378
+    ],
+    "center": [
+        11.87194,
+        42.42139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.87194,
+            42.42139
+        ]
+    }
+}

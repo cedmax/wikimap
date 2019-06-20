@@ -1,0 +1,27 @@
+{
+    "id": "place.3283097948337660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camposanto",
+    "place_name": "Camposanto, Modena, Italy",
+    "bbox": [
+        11.0866,
+        44.771359,
+        11.221964,
+        44.826589
+    ],
+    "center": [
+        11.1429,
+        44.787
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.1429,
+            44.787
+        ]
+    }
+}

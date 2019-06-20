@@ -1,0 +1,27 @@
+{
+    "id": "place.14577056181906030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tesero",
+    "place_name": "Tesero, Trento, Italy",
+    "bbox": [
+        11.485827,
+        46.202065,
+        11.559943,
+        46.354116
+    ],
+    "center": [
+        11.51667,
+        46.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.51667,
+            46.28333
+        ]
+    }
+}

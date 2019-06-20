@@ -1,0 +1,27 @@
+{
+    "id": "place.3506926266337850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mascali",
+    "place_name": "Mascali, Catania, Italy",
+    "bbox": [
+        15.110881,
+        37.732662,
+        15.224187,
+        37.793604
+    ],
+    "center": [
+        15.19583,
+        37.75778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.19583,
+            37.75778
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11639645811318920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melfi",
+    "place_name": "Melfi, Potenza, Italy",
+    "bbox": [
+        15.539289,
+        40.946268,
+        15.77106,
+        41.099543
+    ],
+    "center": [
+        15.65583,
+        40.99639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.65583,
+            40.99639
+        ]
+    }
+}

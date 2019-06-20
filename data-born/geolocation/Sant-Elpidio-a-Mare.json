@@ -1,0 +1,27 @@
+{
+    "id": "place.10087682904720550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Elpidio a Mare",
+    "place_name": "Sant'Elpidio a Mare, Fermo, Italy",
+    "bbox": [
+        13.651799,
+        43.192811,
+        13.749076,
+        43.290092
+    ],
+    "center": [
+        13.68613,
+        43.22949
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.68613,
+            43.22949
+        ]
+    }
+}

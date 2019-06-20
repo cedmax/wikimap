@@ -1,0 +1,27 @@
+{
+    "id": "place.8056573642602940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteforte d'Alpone",
+    "place_name": "Monteforte d'Alpone, Verona, Italy",
+    "bbox": [
+        11.255177,
+        45.408305,
+        11.325388,
+        45.465337
+    ],
+    "center": [
+        11.28333,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            45.41667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.19037709858044120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castilenti",
+    "place_name": "Castilenti, Teramo, Italy",
+    "bbox": [
+        13.899437,
+        42.50482,
+        13.990939,
+        42.559376
+    ],
+    "center": [
+        13.91667,
+        42.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91667,
+            42.53333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15307674771243860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zoppè di Cadore",
+    "place_name": "Zoppè di Cadore, Belluno, Italy",
+    "bbox": [
+        12.159701,
+        46.374189,
+        12.193375,
+        46.400582
+    ],
+    "center": [
+        12.17278,
+        46.38667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.17278,
+            46.38667
+        ]
+    }
+}

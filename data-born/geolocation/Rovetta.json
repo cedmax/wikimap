@@ -1,0 +1,27 @@
+{
+    "id": "place.10618715722240380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rovetta",
+    "place_name": "Rovetta, Bergamo, Italy",
+    "bbox": [
+        9.951847,
+        45.837515,
+        10.054339,
+        45.978208
+    ],
+    "center": [
+        9.98333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.98333,
+            45.88333
+        ]
+    }
+}

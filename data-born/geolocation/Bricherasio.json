@@ -1,0 +1,27 @@
+{
+    "id": "place.8397861788973200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bricherasio",
+    "place_name": "Bricherasio, Torino, Italy",
+    "bbox": [
+        7.237695,
+        44.806895,
+        7.346283,
+        44.854894
+    ],
+    "center": [
+        7.30639,
+        44.82444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.30639,
+            44.82444
+        ]
+    }
+}

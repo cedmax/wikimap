@@ -1,0 +1,27 @@
+{
+    "id": "place.7903843138963540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglion Fiorentino",
+    "place_name": "Castiglion Fiorentino, Arezzo, Italy",
+    "bbox": [
+        11.833529,
+        43.258355,
+        12.045508,
+        43.384783
+    ],
+    "center": [
+        11.91889,
+        43.34389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.91889,
+            43.34389
+        ]
+    }
+}

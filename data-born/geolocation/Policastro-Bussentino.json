@@ -1,0 +1,21 @@
+{
+    "id": "poi.2164663523141",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Policastro",
+    "place_name": "Policastro, Santa Marina, Salerno 84067, Italy",
+    "center": [
+        15.521195,
+        40.076144
+    ],
+    "geometry": {
+        "coordinates": [
+            15.521195,
+            40.076144
+        ],
+        "type": "Point"
+    }
+}

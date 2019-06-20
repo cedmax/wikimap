@@ -1,0 +1,27 @@
+{
+    "id": "place.17689711907568240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arona",
+    "place_name": "Arona, Novara, Italy",
+    "bbox": [
+        8.499275,
+        45.725182,
+        8.577621,
+        45.786726
+    ],
+    "center": [
+        8.56,
+        45.75694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56,
+            45.75694
+        ]
+    }
+}

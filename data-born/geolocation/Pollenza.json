@@ -1,0 +1,27 @@
+{
+    "id": "place.9689466164673010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pollenza",
+    "place_name": "Pollenza, Macerata, Italy",
+    "bbox": [
+        13.284435,
+        43.236308,
+        13.412459,
+        43.29856
+    ],
+    "center": [
+        13.34814,
+        43.26778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.34814,
+            43.26778
+        ]
+    }
+}

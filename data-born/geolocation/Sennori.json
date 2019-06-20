@@ -1,0 +1,27 @@
+{
+    "id": "place.14466504522237930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sennori",
+    "place_name": "Sennori, Sassari, Italy",
+    "bbox": [
+        8.576838,
+        40.755334,
+        8.667826,
+        40.849189
+    ],
+    "center": [
+        8.59519,
+        40.78992
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.59519,
+            40.78992
+        ]
+    }
+}

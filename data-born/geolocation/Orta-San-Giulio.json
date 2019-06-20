@@ -1,0 +1,27 @@
+{
+    "id": "place.13018977936259510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orta San Giulio",
+    "place_name": "Orta San Giulio, Novara, Italy",
+    "bbox": [
+        8.393356,
+        45.768792,
+        8.436833,
+        45.809144
+    ],
+    "center": [
+        8.4,
+        45.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.4,
+            45.8
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7812426831444450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civo",
+    "place_name": "Civo, Sondrio, Italy",
+    "bbox": [
+        9.552696,
+        46.14539,
+        9.625427,
+        46.212293
+    ],
+    "center": [
+        9.56667,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56667,
+            46.15
+        ]
+    }
+}

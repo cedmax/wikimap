@@ -1,0 +1,21 @@
+{
+    "id": "address.766418269",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Quartesana",
+    "place_name": "via Quartesana, 44019 Voghiera Ferrara, Italy",
+    "center": [
+        11.739577,
+        44.790158
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.739577,
+            44.790158
+        ]
+    }
+}

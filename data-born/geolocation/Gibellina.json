@@ -1,0 +1,27 @@
+{
+    "id": "place.8521314269362860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gibellina",
+    "place_name": "Gibellina, Trapani, Italy",
+    "bbox": [
+        12.865634,
+        37.769491,
+        13.019578,
+        37.844779
+    ],
+    "center": [
+        12.8695,
+        37.807
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8695,
+            37.807
+        ]
+    }
+}

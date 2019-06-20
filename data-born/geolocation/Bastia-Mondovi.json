@@ -1,0 +1,27 @@
+{
+    "id": "place.10752595744201980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bastia Mondovì",
+    "place_name": "Bastia Mondovì, Cuneo, Italy",
+    "bbox": [
+        7.873878,
+        44.426933,
+        7.933647,
+        44.468812
+    ],
+    "center": [
+        7.9,
+        44.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9,
+            44.45
+        ]
+    }
+}

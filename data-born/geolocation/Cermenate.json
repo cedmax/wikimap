@@ -1,0 +1,27 @@
+{
+    "id": "place.6676301380292210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cermenate",
+    "place_name": "Cermenate, Como, Italy",
+    "bbox": [
+        9.063573,
+        45.684786,
+        9.103189,
+        45.716595
+    ],
+    "center": [
+        9.08333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.08333,
+            45.7
+        ]
+    }
+}

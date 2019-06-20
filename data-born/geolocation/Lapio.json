@@ -1,0 +1,27 @@
+{
+    "id": "place.16356814522724530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lapio",
+    "place_name": "Lapio, Avellino, Italy",
+    "bbox": [
+        14.895483,
+        40.9439,
+        14.968085,
+        41.005083
+    ],
+    "center": [
+        14.94722,
+        40.98222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.94722,
+            40.98222
+        ]
+    }
+}

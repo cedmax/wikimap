@@ -1,0 +1,27 @@
+{
+    "id": "place.5475917046073710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Atella",
+    "place_name": "Atella, Potenza, Italy",
+    "bbox": [
+        15.536497,
+        40.768169,
+        15.718265,
+        40.948877
+    ],
+    "center": [
+        15.65,
+        40.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.65,
+            40.86667
+        ]
+    }
+}

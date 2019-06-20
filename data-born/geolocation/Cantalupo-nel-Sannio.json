@@ -1,0 +1,27 @@
+{
+    "id": "place.8406949314752710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cantalupo nel Sannio",
+    "place_name": "Cantalupo nel Sannio, Isernia, Italy",
+    "bbox": [
+        14.357293,
+        41.504656,
+        14.426776,
+        41.544658
+    ],
+    "center": [
+        14.4,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.4,
+            41.51667
+        ]
+    }
+}

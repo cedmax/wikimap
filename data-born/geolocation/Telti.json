@@ -1,0 +1,27 @@
+{
+    "id": "place.11260202800733520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Telti",
+    "place_name": "Telti, Olbia-Tempio, Italy",
+    "bbox": [
+        9.292686,
+        40.848432,
+        9.419915,
+        40.954369
+    ],
+    "center": [
+        9.35,
+        40.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35,
+            40.88333
+        ]
+    }
+}

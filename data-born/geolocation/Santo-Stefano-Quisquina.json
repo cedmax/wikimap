@@ -1,0 +1,27 @@
+{
+    "id": "place.10958001600377400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano Quisquina",
+    "place_name": "Santo Stefano Quisquina, Agrigento, Italy",
+    "bbox": [
+        13.451928,
+        37.535699,
+        13.57651,
+        37.65902
+    ],
+    "center": [
+        13.49139,
+        37.62417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.49139,
+            37.62417
+        ]
+    }
+}

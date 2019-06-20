@@ -1,0 +1,27 @@
+{
+    "id": "place.11533801329460060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Balestrate",
+    "place_name": "Balestrate, Palermo, Italy",
+    "bbox": [
+        12.977635,
+        38.035658,
+        13.037702,
+        38.065672
+    ],
+    "center": [
+        13.0076685,
+        38.050664999999995
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.0076685,
+            38.050664999999995
+        ]
+    }
+}

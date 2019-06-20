@@ -1,0 +1,27 @@
+{
+    "id": "place.11347455159650360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vittuone",
+    "place_name": "Vittuone, Milano, Italy",
+    "bbox": [
+        8.938119,
+        45.455307,
+        8.975354,
+        45.499853
+    ],
+    "center": [
+        8.95,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.95,
+            45.48333
+        ]
+    }
+}

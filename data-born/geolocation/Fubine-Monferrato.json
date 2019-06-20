@@ -1,0 +1,29 @@
+{
+    "id": "place.13929617037513730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fubine",
+    "place_name": "Fubine, Alessandria, Italy",
+    "matching_text": "Fubine Monferrato",
+    "matching_place_name": "Fubine Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.383599,
+        44.926644,
+        8.455696,
+        44.990394
+    ],
+    "center": [
+        8.43111,
+        44.96361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43111,
+            44.96361
+        ]
+    }
+}

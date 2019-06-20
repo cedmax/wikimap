@@ -1,0 +1,27 @@
+{
+    "id": "place.8837433638928690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Codogno",
+    "place_name": "Codogno, Lodi, Italy",
+    "bbox": [
+        9.657944,
+        45.141671,
+        9.730429,
+        45.191968
+    ],
+    "center": [
+        9.70333,
+        45.16278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.70333,
+            45.16278
+        ]
+    }
+}

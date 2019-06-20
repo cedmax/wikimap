@@ -1,0 +1,27 @@
+{
+    "id": "place.10520261367882790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parete",
+    "place_name": "Parete, Caserta, Italy",
+    "bbox": [
+        14.130223,
+        40.94342,
+        14.174978,
+        40.967026
+    ],
+    "center": [
+        14.1526005,
+        40.955223000000004
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1526005,
+            40.955223000000004
+        ]
+    }
+}

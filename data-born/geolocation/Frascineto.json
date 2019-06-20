@@ -1,0 +1,27 @@
+{
+    "id": "place.5157401954728280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frascineto",
+    "place_name": "Frascineto, Cosenza, Italy",
+    "bbox": [
+        16.248194,
+        39.810667,
+        16.303379,
+        39.891287
+    ],
+    "center": [
+        16.26667,
+        39.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.26667,
+            39.83333
+        ]
+    }
+}

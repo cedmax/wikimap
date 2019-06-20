@@ -1,0 +1,27 @@
+{
+    "id": "place.15097500410576780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gioiosa Marea",
+    "place_name": "Gioiosa Marea, Messina, Italy",
+    "bbox": [
+        14.886385,
+        38.108283,
+        14.964589,
+        38.192127
+    ],
+    "center": [
+        14.9,
+        38.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.9,
+            38.16667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12143146510573530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccanova",
+    "place_name": "Roccanova, Potenza, Italy",
+    "bbox": [
+        16.143779,
+        40.180114,
+        16.277651,
+        40.266396
+    ],
+    "center": [
+        16.2,
+        40.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2,
+            40.21667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11097431638007130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torriglia",
+    "place_name": "Torriglia, Genova, Italy",
+    "bbox": [
+        9.090381,
+        44.476523,
+        9.220592,
+        44.555116
+    ],
+    "center": [
+        9.15798,
+        44.51873
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15798,
+            44.51873
+        ]
+    }
+}

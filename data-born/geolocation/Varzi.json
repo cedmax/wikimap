@@ -1,0 +1,27 @@
+{
+    "id": "place.10216408168626360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varzi",
+    "place_name": "Varzi, Pavia, Italy",
+    "bbox": [
+        9.15067,
+        44.752082,
+        9.287096,
+        44.856086
+    ],
+    "center": [
+        9.2,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            44.81667
+        ]
+    }
+}

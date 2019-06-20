@@ -1,0 +1,27 @@
+{
+    "id": "place.15707936025353150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Farigliano",
+    "place_name": "Farigliano, Cuneo, Italy",
+    "bbox": [
+        7.889431,
+        44.484734,
+        7.967647,
+        44.551291
+    ],
+    "center": [
+        7.91667,
+        44.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.91667,
+            44.51667
+        ]
+    }
+}

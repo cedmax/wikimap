@@ -1,0 +1,27 @@
+{
+    "id": "place.13127596037069750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monteparano",
+    "place_name": "Monteparano, Taranto, Italy",
+    "bbox": [
+        17.399907,
+        40.438084,
+        17.431368,
+        40.457954
+    ],
+    "center": [
+        17.41667,
+        40.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.41667,
+            40.45
+        ]
+    }
+}

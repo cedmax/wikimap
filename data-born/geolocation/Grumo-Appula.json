@@ -1,0 +1,27 @@
+{
+    "id": "place.12700009842988830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grumo Appula",
+    "place_name": "Grumo Appula, Bari, Italy",
+    "bbox": [
+        16.61663,
+        40.89506,
+        16.765336,
+        41.020337
+    ],
+    "center": [
+        16.7,
+        41.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.7,
+            41.01667
+        ]
+    }
+}

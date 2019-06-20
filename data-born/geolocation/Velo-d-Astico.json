@@ -1,0 +1,27 @@
+{
+    "id": "place.3947269619345780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Velo d'Astico",
+    "place_name": "Velo d'Astico, Vicenza, Italy",
+    "bbox": [
+        11.30437,
+        45.760584,
+        11.409035,
+        45.809035
+    ],
+    "center": [
+        11.3687,
+        45.7893
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3687,
+            45.7893
+        ]
+    }
+}

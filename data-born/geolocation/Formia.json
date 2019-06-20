@@ -1,0 +1,27 @@
+{
+    "id": "place.5897781551021050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formia",
+    "place_name": "Formia, Latina, Italy",
+    "bbox": [
+        13.551884,
+        41.243953,
+        13.707093,
+        41.337598
+    ],
+    "center": [
+        13.60694,
+        41.25639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.60694,
+            41.25639
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.18952019857125880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Macerata Feltria",
+    "place_name": "Macerata Feltria, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.394448,
+        43.773722,
+        12.495071,
+        43.846135
+    ],
+    "center": [
+        12.44185,
+        43.80333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.44185,
+            43.80333
+        ]
+    }
+}

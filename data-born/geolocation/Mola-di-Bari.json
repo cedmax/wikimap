@@ -1,0 +1,27 @@
+{
+    "id": "place.6833079258824940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mola di Bari",
+    "place_name": "Mola di Bari, Bari, Italy",
+    "bbox": [
+        17.023983,
+        40.997043,
+        17.144346,
+        41.082216
+    ],
+    "center": [
+        17.08333,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.08333,
+            41.06667
+        ]
+    }
+}

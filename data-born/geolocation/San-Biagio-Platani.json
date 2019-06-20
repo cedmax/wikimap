@@ -1,0 +1,27 @@
+{
+    "id": "place.8652003396846570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Biagio Platani",
+    "place_name": "San Biagio Platani, Agrigento, Italy",
+    "bbox": [
+        13.480843,
+        37.47863,
+        13.605676,
+        37.555534
+    ],
+    "center": [
+        13.52639,
+        37.51
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.52639,
+            37.51
+        ]
+    }
+}

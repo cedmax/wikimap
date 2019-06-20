@@ -1,0 +1,27 @@
+{
+    "id": "place.12955727126632880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ormea",
+    "place_name": "Ormea, Cuneo, Italy",
+    "bbox": [
+        7.740191,
+        44.104573,
+        7.989366,
+        44.222553
+    ],
+    "center": [
+        7.91667,
+        44.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.91667,
+            44.15
+        ]
+    }
+}

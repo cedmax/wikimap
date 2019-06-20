@@ -1,0 +1,21 @@
+{
+    "id": "poi.2508260950035",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "VIGAMUS - The Videogame Museum of Rome",
+    "place_name": "VIGAMUS - The Videogame Museum of Rome, Via Sabotino, 4, Roma, Roma 00195, Italy",
+    "center": [
+        12.459918,
+        41.916837
+    ],
+    "geometry": {
+        "coordinates": [
+            12.459918,
+            41.916837
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13080682360021600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Biella",
+    "place_name": "Biella, Biella, Italy",
+    "bbox": [
+        7.935219,
+        45.536824,
+        8.095587,
+        45.645537
+    ],
+    "center": [
+        8.05333,
+        45.56639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.05333,
+            45.56639
+        ]
+    }
+}

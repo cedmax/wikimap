@@ -1,0 +1,27 @@
+{
+    "id": "place.7559622627192500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellana Grotte",
+    "place_name": "Castellana Grotte, Bari, Italy",
+    "bbox": [
+        17.117531,
+        40.799359,
+        17.258064,
+        40.923269
+    ],
+    "center": [
+        17.16786,
+        40.88377
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.16786,
+            40.88377
+        ]
+    }
+}

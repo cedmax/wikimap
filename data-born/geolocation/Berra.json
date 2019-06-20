@@ -1,0 +1,27 @@
+{
+    "id": "place.5841807711706540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Berra",
+    "place_name": "Berra, Ferrara, Italy",
+    "bbox": [
+        11.844745,
+        44.920776,
+        12.113672,
+        44.986936
+    ],
+    "center": [
+        11.89547,
+        44.96889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.89547,
+            44.96889
+        ]
+    }
+}

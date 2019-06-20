@@ -1,0 +1,27 @@
+{
+    "id": "place.12843100975368070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alzano Lombardo",
+    "place_name": "Alzano Lombardo, Bergamo, Italy",
+    "bbox": [
+        9.684247,
+        45.722645,
+        9.744183,
+        45.78331
+    ],
+    "center": [
+        9.72833,
+        45.73167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.72833,
+            45.73167
+        ]
+    }
+}

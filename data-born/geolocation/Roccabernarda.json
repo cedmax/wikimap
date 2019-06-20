@@ -1,0 +1,27 @@
+{
+    "id": "place.8217011284578480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccabernarda",
+    "place_name": "Roccabernarda, Crotone, Italy",
+    "bbox": [
+        16.816386,
+        38.993298,
+        16.965783,
+        39.17986
+    ],
+    "center": [
+        16.86667,
+        39.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.86667,
+            39.13333
+        ]
+    }
+}

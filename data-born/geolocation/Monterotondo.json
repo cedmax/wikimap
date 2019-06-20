@@ -1,0 +1,27 @@
+{
+    "id": "place.14264735592674470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterotondo",
+    "place_name": "Monterotondo, Roma, Italy",
+    "bbox": [
+        12.566602,
+        42.029516,
+        12.676045,
+        42.106076
+    ],
+    "center": [
+        12.61667,
+        42.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            42.05
+        ]
+    }
+}

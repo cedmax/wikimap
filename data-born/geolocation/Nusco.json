@@ -1,0 +1,27 @@
+{
+    "id": "place.11172648639669170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nusco",
+    "place_name": "Nusco, Avellino, Italy",
+    "bbox": [
+        15.037304,
+        40.830343,
+        15.174427,
+        40.918297
+    ],
+    "center": [
+        15.08389,
+        40.88694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08389,
+            40.88694
+        ]
+    }
+}

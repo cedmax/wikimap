@@ -1,0 +1,21 @@
+{
+    "id": "address.1881240662",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9,
+    "text": "via Nicastro",
+    "place_name": "via Nicastro, 21052 Busto Arsizio Varese, Italy",
+    "center": [
+        8.841064,
+        45.59408
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.841064,
+            45.59408
+        ]
+    }
+}

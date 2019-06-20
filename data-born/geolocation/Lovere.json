@@ -1,0 +1,27 @@
+{
+    "id": "place.14572502281525570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lovere",
+    "place_name": "Lovere, Bergamo, Italy",
+    "bbox": [
+        10.051761,
+        45.8044,
+        10.093963,
+        45.844238
+    ],
+    "center": [
+        10.07,
+        45.8125
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.07,
+            45.8125
+        ]
+    }
+}

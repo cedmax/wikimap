@@ -1,0 +1,27 @@
+{
+    "id": "place.6433510912208550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Termini Imerese",
+    "place_name": "Termini Imerese, Palermo, Italy",
+    "bbox": [
+        13.620814,
+        37.909805,
+        13.843521,
+        38.001107
+    ],
+    "center": [
+        13.7,
+        37.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7,
+            37.98333
+        ]
+    }
+}

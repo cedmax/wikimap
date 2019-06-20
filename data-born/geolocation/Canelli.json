@@ -1,0 +1,27 @@
+{
+    "id": "place.8657439762744390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canelli",
+    "place_name": "Canelli, Asti, Italy",
+    "bbox": [
+        8.254882,
+        44.684881,
+        8.31691,
+        44.754882
+    ],
+    "center": [
+        8.29361,
+        44.7225
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.29361,
+            44.7225
+        ]
+    }
+}

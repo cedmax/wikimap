@@ -1,0 +1,27 @@
+{
+    "id": "place.8394672211058800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ionadi",
+    "place_name": "Ionadi, Vibo Valentia, Italy",
+    "bbox": [
+        16.04247,
+        38.611104,
+        16.079699,
+        38.661107
+    ],
+    "center": [
+        16.07,
+        38.66
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.07,
+            38.66
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12044061642784140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Francesco al Campo",
+    "place_name": "San Francesco al Campo, Torino, Italy",
+    "bbox": [
+        7.628988,
+        45.205996,
+        7.691452,
+        45.255647
+    ],
+    "center": [
+        7.65556,
+        45.22528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.65556,
+            45.22528
+        ]
+    }
+}

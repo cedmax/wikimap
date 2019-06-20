@@ -1,0 +1,27 @@
+{
+    "id": "place.12052271574230300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Martino di Lupari",
+    "place_name": "San Martino di Lupari, Padova, Italy",
+    "bbox": [
+        11.822261,
+        45.602883,
+        11.898261,
+        45.68692
+    ],
+    "center": [
+        11.8594,
+        45.6557
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8594,
+            45.6557
+        ]
+    }
+}

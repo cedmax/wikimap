@@ -1,0 +1,27 @@
+{
+    "id": "place.15330885261114200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bogliasco",
+    "place_name": "Bogliasco, Genova, Italy",
+    "bbox": [
+        9.058066,
+        44.374845,
+        9.095242,
+        44.410416
+    ],
+    "center": [
+        9.06979,
+        44.37824
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06979,
+            44.37824
+        ]
+    }
+}

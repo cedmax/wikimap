@@ -1,0 +1,27 @@
+{
+    "id": "place.9463025364574230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bellagio",
+    "place_name": "Bellagio, Como, Italy",
+    "bbox": [
+        9.209812,
+        45.912328,
+        9.284818,
+        46.013037
+    ],
+    "center": [
+        9.26194,
+        45.9875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26194,
+            45.9875
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3949502259325760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cairo Montenotte",
+    "place_name": "Cairo Montenotte, Savona, Italy",
+    "bbox": [
+        8.207766,
+        44.346567,
+        8.431728,
+        44.455693
+    ],
+    "center": [
+        8.27779,
+        44.39789
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.27779,
+            44.39789
+        ]
+    }
+}

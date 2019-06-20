@@ -1,0 +1,27 @@
+{
+    "id": "place.11420998509410730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alezio",
+    "place_name": "Alezio, Lecce, Italy",
+    "bbox": [
+        18.032793,
+        40.021796,
+        18.081416,
+        40.076713
+    ],
+    "center": [
+        18.05,
+        40.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.06667
+        ]
+    }
+}

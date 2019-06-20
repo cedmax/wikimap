@@ -1,0 +1,27 @@
+{
+    "id": "place.10233914591753810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vailate",
+    "place_name": "Vailate, Cremona, Italy",
+    "bbox": [
+        9.576945,
+        45.438628,
+        9.625393,
+        45.475963
+    ],
+    "center": [
+        9.6,
+        45.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6,
+            45.46667
+        ]
+    }
+}

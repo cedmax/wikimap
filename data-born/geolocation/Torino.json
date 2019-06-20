@@ -1,0 +1,27 @@
+{
+    "id": "place.15153045818555340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torino",
+    "place_name": "Torino, Torino, Italy",
+    "bbox": [
+        7.578021,
+        45.005561,
+        7.773509,
+        45.140261
+    ],
+    "center": [
+        7.7,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7,
+            45.06667
+        ]
+    }
+}

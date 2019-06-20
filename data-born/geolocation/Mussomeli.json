@@ -1,0 +1,27 @@
+{
+    "id": "place.1596404765186540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mussomeli",
+    "place_name": "Mussomeli, Caltanissetta, Italy",
+    "bbox": [
+        13.709436,
+        37.47578,
+        13.906527,
+        37.628987
+    ],
+    "center": [
+        13.75,
+        37.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75,
+            37.58333
+        ]
+    }
+}

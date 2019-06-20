@@ -1,0 +1,27 @@
+{
+    "id": "place.13355195377773820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccabianca",
+    "place_name": "Roccabianca, Parma, Italy",
+    "bbox": [
+        10.168233,
+        44.961653,
+        10.265318,
+        45.033728
+    ],
+    "center": [
+        10.21984,
+        45.00863
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21984,
+            45.00863
+        ]
+    }
+}

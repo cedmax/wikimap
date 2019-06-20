@@ -1,0 +1,27 @@
+{
+    "id": "place.8385308325734750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Salle",
+    "place_name": "Salle, Pescara, Italy",
+    "bbox": [
+        13.905804,
+        42.125341,
+        13.978048,
+        42.182984
+    ],
+    "center": [
+        13.95959,
+        42.17704
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.95959,
+            42.17704
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6902988426370110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marchirolo",
+    "place_name": "Marchirolo, Varese, Italy",
+    "bbox": [
+        8.814769,
+        45.92123,
+        8.854259,
+        45.96304
+    ],
+    "center": [
+        8.81667,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81667,
+            45.95
+        ]
+    }
+}

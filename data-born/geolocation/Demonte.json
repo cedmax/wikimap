@@ -1,0 +1,27 @@
+{
+    "id": "place.8146847155425370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Demonte",
+    "place_name": "Demonte, Cuneo, Italy",
+    "bbox": [
+        7.101483,
+        44.260157,
+        7.379984,
+        44.386999
+    ],
+    "center": [
+        7.3,
+        44.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.3,
+            44.31667
+        ]
+    }
+}

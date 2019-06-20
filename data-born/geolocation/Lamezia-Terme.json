@@ -1,0 +1,27 @@
+{
+    "id": "place.8455871482727390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lamezia Terme",
+    "place_name": "Lamezia Terme, Catanzaro, Italy",
+    "bbox": [
+        16.216059,
+        38.848011,
+        16.368499,
+        39.023472
+    ],
+    "center": [
+        16.3,
+        38.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            38.96667
+        ]
+    }
+}

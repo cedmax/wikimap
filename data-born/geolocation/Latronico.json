@@ -1,0 +1,27 @@
+{
+    "id": "place.11467570892138190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Latronico",
+    "place_name": "Latronico, Potenza, Italy",
+    "bbox": [
+        15.939343,
+        40.036749,
+        16.075332,
+        40.134143
+    ],
+    "center": [
+        16.01667,
+        40.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.01667,
+            40.08333
+        ]
+    }
+}

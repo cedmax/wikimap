@@ -1,0 +1,27 @@
+{
+    "id": "place.14126470491014110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fonte",
+    "place_name": "Fonte, Treviso, Italy",
+    "bbox": [
+        11.845609,
+        45.754304,
+        11.895655,
+        45.816188
+    ],
+    "center": [
+        11.86667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.86667,
+            45.78333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10173850918878970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vignanello",
+    "place_name": "Vignanello, Viterbo, Italy",
+    "bbox": [
+        12.269134,
+        42.35033,
+        12.332604,
+        42.415886
+    ],
+    "center": [
+        12.2775,
+        42.38472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2775,
+            42.38472
+        ]
+    }
+}

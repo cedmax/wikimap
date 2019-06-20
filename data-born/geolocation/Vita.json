@@ -1,0 +1,21 @@
+{
+    "id": "poi.2121713914588",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Vita",
+    "place_name": "Vita, Corso Mazzini 10, Pavia, Pavia 27100, Italy",
+    "center": [
+        9.156179,
+        45.185238
+    ],
+    "geometry": {
+        "coordinates": [
+            9.156179,
+            45.185238
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "address.2111347419",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.8777777777777778,
+    "text": "via Ligoncio",
+    "place_name": "via Ligoncio, 23025 Novate Mezzola Sondrio, Italy",
+    "center": [
+        9.452143,
+        46.219616
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.452143,
+            46.219616
+        ]
+    }
+}

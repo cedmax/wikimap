@@ -1,0 +1,27 @@
+{
+    "id": "place.9803259256060210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Auronzo di Cadore",
+    "place_name": "Auronzo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.190755,
+        46.495979,
+        12.507276,
+        46.63277
+    ],
+    "center": [
+        12.43333,
+        46.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.43333,
+            46.55
+        ]
+    }
+}

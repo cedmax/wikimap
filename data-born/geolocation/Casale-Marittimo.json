@@ -1,0 +1,27 @@
+{
+    "id": "place.11932213714134100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casale Marittimo",
+    "place_name": "Casale Marittimo, Pisa, Italy",
+    "bbox": [
+        10.562197,
+        43.282826,
+        10.657124,
+        43.30888
+    ],
+    "center": [
+        10.61667,
+        43.2975
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.61667,
+            43.2975
+        ]
+    }
+}

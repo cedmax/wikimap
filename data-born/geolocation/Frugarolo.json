@@ -1,0 +1,27 @@
+{
+    "id": "place.9097112428494320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Frugarolo",
+    "place_name": "Frugarolo, Alessandria, Italy",
+    "bbox": [
+        8.62486,
+        44.828537,
+        8.728484,
+        44.883891
+    ],
+    "center": [
+        8.6825,
+        44.83806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.6825,
+            44.83806
+        ]
+    }
+}

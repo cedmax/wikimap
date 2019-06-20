@@ -1,0 +1,27 @@
+{
+    "id": "place.14145546612110190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Locate Varesino",
+    "place_name": "Locate Varesino, Como, Italy",
+    "bbox": [
+        8.893316,
+        45.675297,
+        8.948138,
+        45.71316
+    ],
+    "center": [
+        8.93083,
+        45.69056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.93083,
+            45.69056
+        ]
+    }
+}

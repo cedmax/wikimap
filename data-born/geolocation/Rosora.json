@@ -1,0 +1,27 @@
+{
+    "id": "place.10460875363059720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosora",
+    "place_name": "Rosora, Ancona, Italy",
+    "bbox": [
+        13.019799,
+        43.467479,
+        13.084809,
+        43.507885
+    ],
+    "center": [
+        13.0693,
+        43.48286
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.0693,
+            43.48286
+        ]
+    }
+}

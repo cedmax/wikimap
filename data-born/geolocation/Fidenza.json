@@ -1,0 +1,27 @@
+{
+    "id": "place.9299610468305300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fidenza",
+    "place_name": "Fidenza, Parma, Italy",
+    "bbox": [
+        9.983458,
+        44.771559,
+        10.109537,
+        44.938917
+    ],
+    "center": [
+        10.06667,
+        44.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.06667,
+            44.86667
+        ]
+    }
+}

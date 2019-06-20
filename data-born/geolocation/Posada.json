@@ -1,0 +1,27 @@
+{
+    "id": "place.13865487551591630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Posada",
+    "place_name": "Posada, Nuoro, Italy",
+    "bbox": [
+        9.681375,
+        40.608677,
+        9.757279,
+        40.678875
+    ],
+    "center": [
+        9.71667,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.71667,
+            40.63333
+        ]
+    }
+}

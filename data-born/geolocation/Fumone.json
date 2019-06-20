@@ -1,0 +1,27 @@
+{
+    "id": "place.4079757111967480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fumone",
+    "place_name": "Fumone, Frosinone, Italy",
+    "bbox": [
+        13.236411,
+        41.704565,
+        13.304386,
+        41.752546
+    ],
+    "center": [
+        13.29111,
+        41.725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29111,
+            41.725
+        ]
+    }
+}

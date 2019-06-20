@@ -1,0 +1,27 @@
+{
+    "id": "place.18152193560337760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Butera",
+    "place_name": "Butera, Caltanissetta, Italy",
+    "bbox": [
+        13.982894,
+        37.102523,
+        14.298627,
+        37.291038
+    ],
+    "center": [
+        14.18333,
+        37.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18333,
+            37.18333
+        ]
+    }
+}

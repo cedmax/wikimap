@@ -1,0 +1,27 @@
+{
+    "id": "place.10154935632273760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lizzano",
+    "place_name": "Lizzano, Taranto, Italy",
+    "bbox": [
+        17.409276,
+        40.31426,
+        17.492273,
+        40.4206
+    ],
+    "center": [
+        17.44833,
+        40.39194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.44833,
+            40.39194
+        ]
+    }
+}

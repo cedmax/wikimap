@@ -1,0 +1,27 @@
+{
+    "id": "place.9740333473862440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Miniato",
+    "place_name": "San Miniato, Pisa, Italy",
+    "bbox": [
+        10.763222,
+        43.614101,
+        10.934181,
+        43.719373
+    ],
+    "center": [
+        10.85,
+        43.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            43.68333
+        ]
+    }
+}

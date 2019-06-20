@@ -1,0 +1,27 @@
+{
+    "id": "place.15127216138131240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lecco",
+    "place_name": "Lecco, Lecco, Italy",
+    "bbox": [
+        9.365513,
+        45.810457,
+        9.485759,
+        45.905681
+    ],
+    "center": [
+        9.4,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.4,
+            45.85
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9670048131510870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castenedolo",
+    "place_name": "Castenedolo, Brescia, Italy",
+    "bbox": [
+        10.246777,
+        45.4371,
+        10.349922,
+        45.493761
+    ],
+    "center": [
+        10.2967,
+        45.4704
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.2967,
+            45.4704
+        ]
+    }
+}

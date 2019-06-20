@@ -1,0 +1,27 @@
+{
+    "id": "place.5138637885527900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalto di Castro",
+    "place_name": "Montalto di Castro, Viterbo, Italy",
+    "bbox": [
+        11.449222,
+        42.295908,
+        11.702163,
+        42.441978
+    ],
+    "center": [
+        11.60778,
+        42.35139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.60778,
+            42.35139
+        ]
+    }
+}

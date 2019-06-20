@@ -1,0 +1,21 @@
+{
+    "id": "poi.1279900254923",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Subiaco",
+    "place_name": "Subiaco, Subiaco, Roma 00028, Italy",
+    "center": [
+        13.09592,
+        41.925143
+    ],
+    "geometry": {
+        "coordinates": [
+            13.09592,
+            41.925143
+        ],
+        "type": "Point"
+    }
+}

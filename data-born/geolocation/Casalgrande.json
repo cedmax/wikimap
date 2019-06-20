@@ -1,0 +1,27 @@
+{
+    "id": "place.8346178929126230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalgrande",
+    "place_name": "Casalgrande, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.704729,
+        44.540943,
+        10.787316,
+        44.637986
+    ],
+    "center": [
+        10.73639,
+        44.61889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.73639,
+            44.61889
+        ]
+    }
+}

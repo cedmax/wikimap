@@ -1,0 +1,21 @@
+{
+    "id": "poi.1159641171294",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Rometta",
+    "place_name": "Rometta, Rometta, Messina 98043, Italy",
+    "center": [
+        15.41419925,
+        38.170925749999995
+    ],
+    "geometry": {
+        "coordinates": [
+            15.41419925,
+            38.170925749999995
+        ],
+        "type": "Point"
+    }
+}

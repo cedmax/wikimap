@@ -1,0 +1,27 @@
+{
+    "id": "place.14474611743306360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casalattico",
+    "place_name": "Casalattico, Frosinone, Italy",
+    "bbox": [
+        13.666316,
+        41.579519,
+        13.778429,
+        41.632224
+    ],
+    "center": [
+        13.725,
+        41.62167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.725,
+            41.62167
+        ]
+    }
+}

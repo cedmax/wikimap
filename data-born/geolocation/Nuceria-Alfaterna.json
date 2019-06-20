@@ -1,0 +1,21 @@
+{
+    "id": "address.127167222",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.6,
+    "text": "via Alfaterna",
+    "place_name": "via Alfaterna, 84015 Nocera Superiore Salerno, Italy",
+    "center": [
+        14.662618,
+        40.74766
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.662618,
+            40.74766
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13130196851344530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio del Sannio",
+    "place_name": "San Giorgio del Sannio, Benevento, Italy",
+    "bbox": [
+        14.839967,
+        41.052934,
+        14.91334,
+        41.143916
+    ],
+    "center": [
+        14.85,
+        41.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85,
+            41.06667
+        ]
+    }
+}

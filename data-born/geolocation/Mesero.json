@@ -1,0 +1,27 @@
+{
+    "id": "place.11642487674940210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mesero",
+    "place_name": "Mesero, Milano, Italy",
+    "bbox": [
+        8.829102,
+        45.480855,
+        8.87322,
+        45.506819
+    ],
+    "center": [
+        8.85,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.85,
+            45.5
+        ]
+    }
+}

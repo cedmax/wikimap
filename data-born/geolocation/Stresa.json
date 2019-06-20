@@ -1,0 +1,27 @@
+{
+    "id": "place.13501061532205880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stresa",
+    "place_name": "Stresa, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.446621,
+        45.851538,
+        8.588389,
+        45.909995
+    ],
+    "center": [
+        8.51667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.51667,
+            45.88333
+        ]
+    }
+}

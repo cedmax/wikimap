@@ -1,0 +1,27 @@
+{
+    "id": "place.8638551787270630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carisio",
+    "place_name": "Carisio, Vercelli, Italy",
+    "bbox": [
+        8.161368,
+        45.395522,
+        8.25016,
+        45.456265
+    ],
+    "center": [
+        8.2,
+        45.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.2,
+            45.41667
+        ]
+    }
+}

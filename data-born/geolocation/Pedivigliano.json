@@ -1,0 +1,27 @@
+{
+    "id": "place.14313519594365300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pedivigliano",
+    "place_name": "Pedivigliano, Cosenza, Italy",
+    "bbox": [
+        16.259559,
+        39.094629,
+        16.383575,
+        39.124965
+    ],
+    "center": [
+        16.3,
+        39.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            39.11667
+        ]
+    }
+}

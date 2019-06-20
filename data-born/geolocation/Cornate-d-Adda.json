@@ -1,0 +1,27 @@
+{
+    "id": "place.9667287917060880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cornate d'Adda",
+    "place_name": "Cornate d'Adda, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.446925,
+        45.619493,
+        9.49747,
+        45.668424
+    ],
+    "center": [
+        9.46667,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.46667,
+            45.65
+        ]
+    }
+}

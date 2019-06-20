@@ -1,0 +1,27 @@
+{
+    "id": "place.12793715535453200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rezzato",
+    "place_name": "Rezzato, Brescia, Italy",
+    "bbox": [
+        10.279475,
+        45.477734,
+        10.348461,
+        45.537802
+    ],
+    "center": [
+        10.3175,
+        45.515
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.3175,
+            45.515
+        ]
+    }
+}

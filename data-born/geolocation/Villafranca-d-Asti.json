@@ -1,0 +1,27 @@
+{
+    "id": "place.17265439960282510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villafranca d'Asti",
+    "place_name": "Villafranca d'Asti, Asti, Italy",
+    "bbox": [
+        7.997724,
+        44.898646,
+        8.074929,
+        44.941315
+    ],
+    "center": [
+        8.03278,
+        44.91278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.03278,
+            44.91278
+        ]
+    }
+}

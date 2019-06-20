@@ -1,0 +1,27 @@
+{
+    "id": "place.10503809288981090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fagnano Castello",
+    "place_name": "Fagnano Castello, Cosenza, Italy",
+    "bbox": [
+        16.009301,
+        39.525253,
+        16.095736,
+        39.584036
+    ],
+    "center": [
+        16.05,
+        39.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.05,
+            39.56667
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "place.14318688124251140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Varna - Vahrn",
+    "place_name": "Varna - Vahrn, Bolzano, Italy",
+    "matching_text": "Varna",
+    "matching_place_name": "Varna, Bolzano, Italy",
+    "bbox": [
+        11.484941,
+        46.706189,
+        11.658245,
+        46.781935
+    ],
+    "center": [
+        11.63639,
+        46.74028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.63639,
+            46.74028
+        ]
+    }
+}

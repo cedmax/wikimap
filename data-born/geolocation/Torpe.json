@@ -1,0 +1,27 @@
+{
+    "id": "place.14945005681480040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torpè",
+    "place_name": "Torpè, Nuoro, Italy",
+    "bbox": [
+        9.551427,
+        40.599673,
+        9.698022,
+        40.706008
+    ],
+    "center": [
+        9.68333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68333,
+            40.63333
+        ]
+    }
+}

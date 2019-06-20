@@ -1,0 +1,27 @@
+{
+    "id": "place.13948538976679340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calamonaci",
+    "place_name": "Calamonaci, Agrigento, Italy",
+    "bbox": [
+        13.263593,
+        37.476033,
+        13.375891,
+        37.562944
+    ],
+    "center": [
+        13.28935,
+        37.52615
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.28935,
+            37.52615
+        ]
+    }
+}

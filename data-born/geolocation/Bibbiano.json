@@ -1,0 +1,27 @@
+{
+    "id": "place.5626591837334410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bibbiano",
+    "place_name": "Bibbiano, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.435692,
+        44.63587,
+        10.520573,
+        44.728251
+    ],
+    "center": [
+        10.47391,
+        44.66292
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.47391,
+            44.66292
+        ]
+    }
+}

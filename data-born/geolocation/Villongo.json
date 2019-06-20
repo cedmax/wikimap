@@ -1,0 +1,27 @@
+{
+    "id": "place.13835130489858050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villongo",
+    "place_name": "Villongo, Bergamo, Italy",
+    "bbox": [
+        9.90509,
+        45.661564,
+        9.947841,
+        45.68925
+    ],
+    "center": [
+        9.93333,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45.66667
+        ]
+    }
+}

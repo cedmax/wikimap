@@ -1,0 +1,27 @@
+{
+    "id": "place.10246952643483660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orgosolo",
+    "place_name": "Orgosolo, Nuoro, Italy",
+    "bbox": [
+        9.292383,
+        40.072506,
+        9.510085,
+        40.280138
+    ],
+    "center": [
+        9.35,
+        40.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35,
+            40.2
+        ]
+    }
+}

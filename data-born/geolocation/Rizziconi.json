@@ -1,0 +1,27 @@
+{
+    "id": "place.3962908270507590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rizziconi",
+    "place_name": "Rizziconi, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.911681,
+        38.362716,
+        16.027947,
+        38.45554
+    ],
+    "center": [
+        15.95889,
+        38.41222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.95889,
+            38.41222
+        ]
+    }
+}

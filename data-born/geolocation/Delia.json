@@ -1,0 +1,27 @@
+{
+    "id": "place.13636801024619350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Delia",
+    "place_name": "Delia, Caltanissetta, Italy",
+    "bbox": [
+        13.892335,
+        37.329202,
+        13.944032,
+        37.371831
+    ],
+    "center": [
+        13.93333,
+        37.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.93333,
+            37.35
+        ]
+    }
+}

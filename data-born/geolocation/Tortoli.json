@@ -1,0 +1,27 @@
+{
+    "id": "place.3464261068419480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tortolì",
+    "place_name": "Tortolì, Ogliastra, Italy",
+    "bbox": [
+        9.618169,
+        39.865626,
+        9.716472,
+        39.95442
+    ],
+    "center": [
+        9.65,
+        39.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65,
+            39.93333
+        ]
+    }
+}

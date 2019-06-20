@@ -1,0 +1,21 @@
+{
+    "id": "poi.558345749111",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Francolino",
+    "place_name": "Francolino, Ferrara, Ferrara 44123, Italy",
+    "center": [
+        11.65228,
+        44.89405
+    ],
+    "geometry": {
+        "coordinates": [
+            11.65228,
+            44.89405
+        ],
+        "type": "Point"
+    }
+}

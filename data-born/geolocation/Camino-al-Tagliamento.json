@@ -1,0 +1,27 @@
+{
+    "id": "place.8013142019238080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camino al Tagliamento",
+    "place_name": "Camino al Tagliamento, Udine, Italy",
+    "bbox": [
+        12.906436,
+        45.884241,
+        12.973694,
+        45.957778
+    ],
+    "center": [
+        12.94472,
+        45.9275
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.94472,
+            45.9275
+        ]
+    }
+}

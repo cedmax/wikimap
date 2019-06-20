@@ -1,0 +1,21 @@
+{
+    "id": "poi.3109556330911",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Olevano Romano",
+    "place_name": "Olevano Romano, Olevano Romano, Olevano Romano, Roma 00035, Italy",
+    "center": [
+        13.0327935,
+        41.860262500000005
+    ],
+    "geometry": {
+        "coordinates": [
+            13.0327935,
+            41.860262500000005
+        ],
+        "type": "Point"
+    }
+}

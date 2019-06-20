@@ -1,0 +1,27 @@
+{
+    "id": "place.3208859005981760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Margherita di Savoia",
+    "place_name": "Margherita di Savoia, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        16.023866,
+        41.33183,
+        16.208221,
+        41.425822
+    ],
+    "center": [
+        16.15,
+        41.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.15,
+            41.36667
+        ]
+    }
+}

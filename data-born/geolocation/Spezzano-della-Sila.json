@@ -1,0 +1,27 @@
+{
+    "id": "place.3480133271318300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Spezzano della Sila",
+    "place_name": "Spezzano della Sila, Cosenza, Italy",
+    "bbox": [
+        16.328799,
+        39.293883,
+        16.606001,
+        39.393876
+    ],
+    "center": [
+        16.35,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.35,
+            39.3
+        ]
+    }
+}

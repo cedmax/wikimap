@@ -1,0 +1,27 @@
+{
+    "id": "place.14806323354131800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ulassai",
+    "place_name": "Ulassai, Ogliastra, Italy",
+    "bbox": [
+        9.385912,
+        39.602361,
+        9.562152,
+        39.820994
+    ],
+    "center": [
+        9.5,
+        39.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.5,
+            39.81667
+        ]
+    }
+}

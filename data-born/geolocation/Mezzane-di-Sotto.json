@@ -1,0 +1,27 @@
+{
+    "id": "place.14185578809414900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzane di Sotto",
+    "place_name": "Mezzane di Sotto, Verona, Italy",
+    "bbox": [
+        11.088732,
+        45.465522,
+        11.153123,
+        45.513288
+    ],
+    "center": [
+        11.13333,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            45.48333
+        ]
+    }
+}

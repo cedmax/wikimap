@@ -1,0 +1,27 @@
+{
+    "id": "place.4821937137511920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Celico",
+    "place_name": "Celico, Cosenza, Italy",
+    "bbox": [
+        16.307203,
+        39.291946,
+        16.541015,
+        39.45192
+    ],
+    "center": [
+        16.33333,
+        39.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.31667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14463672839829370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Forio",
+    "place_name": "Forio, Napoli, Italy",
+    "bbox": [
+        13.851133,
+        40.696708,
+        13.893502,
+        40.76131
+    ],
+    "center": [
+        13.85,
+        40.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.85,
+            40.73333
+        ]
+    }
+}

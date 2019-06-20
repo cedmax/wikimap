@@ -1,0 +1,27 @@
+{
+    "id": "place.3605376942439500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albuzzano",
+    "place_name": "Albuzzano, Pavia, Italy",
+    "bbox": [
+        9.234031,
+        45.165075,
+        9.302022,
+        45.211867
+    ],
+    "center": [
+        9.26667,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.18333
+        ]
+    }
+}

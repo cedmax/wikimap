@@ -1,0 +1,27 @@
+{
+    "id": "place.14172431470454860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Zenone al Po",
+    "place_name": "San Zenone al Po, Pavia, Italy",
+    "bbox": [
+        9.352535,
+        45.098862,
+        9.389188,
+        45.132608
+    ],
+    "center": [
+        9.3708615,
+        45.115735
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3708615,
+            45.115735
+        ]
+    }
+}

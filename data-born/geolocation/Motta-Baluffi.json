@@ -1,0 +1,27 @@
+{
+    "id": "place.8800391571845550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motta Baluffi",
+    "place_name": "Motta Baluffi, Cremona, Italy",
+    "bbox": [
+        10.209618,
+        45.022942,
+        10.278385,
+        45.068629
+    ],
+    "center": [
+        10.26667,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.26667,
+            45.05
+        ]
+    }
+}

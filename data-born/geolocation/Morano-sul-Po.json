@@ -1,0 +1,27 @@
+{
+    "id": "place.18196751839533900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morano sul Po",
+    "place_name": "Morano sul Po, Alessandria, Italy",
+    "bbox": [
+        8.294916,
+        45.150753,
+        8.387051,
+        45.201086
+    ],
+    "center": [
+        8.36722,
+        45.16833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.36722,
+            45.16833
+        ]
+    }
+}

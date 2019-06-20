@@ -1,0 +1,27 @@
+{
+    "id": "place.8438382360333040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Badia Polesine",
+    "place_name": "Badia Polesine, Rovigo, Italy",
+    "bbox": [
+        11.409462,
+        45.050606,
+        11.574921,
+        45.131754
+    ],
+    "center": [
+        11.49344,
+        45.09404
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.49344,
+            45.09404
+        ]
+    }
+}

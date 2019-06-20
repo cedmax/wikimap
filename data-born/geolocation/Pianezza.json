@@ -1,0 +1,27 @@
+{
+    "id": "place.2195824402014940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianezza",
+    "place_name": "Pianezza, Torino, Italy",
+    "bbox": [
+        7.514501,
+        45.088174,
+        7.607456,
+        45.136229
+    ],
+    "center": [
+        7.55003,
+        45.1042
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.55003,
+            45.1042
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5849066067867760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grassano",
+    "place_name": "Grassano, Matera, Italy",
+    "bbox": [
+        16.235647,
+        40.587607,
+        16.322842,
+        40.678461
+    ],
+    "center": [
+        16.28333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            40.63333
+        ]
+    }
+}

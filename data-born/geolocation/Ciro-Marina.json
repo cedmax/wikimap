@@ -1,0 +1,27 @@
+{
+    "id": "place.12056436630161530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cirò Marina",
+    "place_name": "Cirò Marina, Crotone, Italy",
+    "bbox": [
+        17.063433,
+        39.320929,
+        17.157131,
+        39.415701
+    ],
+    "center": [
+        17.11667,
+        39.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.11667,
+            39.36667
+        ]
+    }
+}

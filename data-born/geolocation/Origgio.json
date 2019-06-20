@@ -1,0 +1,27 @@
+{
+    "id": "place.11266984834613070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Origgio",
+    "place_name": "Origgio, Varese, Italy",
+    "bbox": [
+        8.982007,
+        45.573836,
+        9.030662,
+        45.610999
+    ],
+    "center": [
+        9.01833,
+        45.59694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01833,
+            45.59694
+        ]
+    }
+}

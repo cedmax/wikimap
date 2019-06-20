@@ -1,0 +1,27 @@
+{
+    "id": "place.6881767866173550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Robbiate",
+    "place_name": "Robbiate, Lecco, Italy",
+    "bbox": [
+        9.412978,
+        45.667251,
+        9.455837,
+        45.700616
+    ],
+    "center": [
+        9.43333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.43333,
+            45.68333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12039992031988320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belgirate",
+    "place_name": "Belgirate, Novara, Italy",
+    "bbox": [
+        8.560315,
+        45.832309,
+        8.600837,
+        45.859723
+    ],
+    "center": [
+        8.56667,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56667,
+            45.83333
+        ]
+    }
+}

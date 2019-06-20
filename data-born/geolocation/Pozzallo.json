@@ -1,0 +1,27 @@
+{
+    "id": "place.11751331177632700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzallo",
+    "place_name": "Pozzallo, Ragusa, Italy",
+    "bbox": [
+        14.820869,
+        36.70741,
+        14.896643,
+        36.760436
+    ],
+    "center": [
+        14.85,
+        36.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.85,
+            36.73333
+        ]
+    }
+}

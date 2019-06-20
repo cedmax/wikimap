@@ -1,0 +1,27 @@
+{
+    "id": "place.15931455740891060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cologne",
+    "place_name": "Cologne, Brescia, Italy",
+    "bbox": [
+        9.891068,
+        45.559247,
+        9.968245,
+        45.596493
+    ],
+    "center": [
+        9.95,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.95,
+            45.56667
+        ]
+    }
+}

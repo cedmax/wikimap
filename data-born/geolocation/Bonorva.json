@@ -1,0 +1,27 @@
+{
+    "id": "place.8140442354854550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bonorva",
+    "place_name": "Bonorva, Sassari, Italy",
+    "bbox": [
+        8.724794,
+        40.348928,
+        8.956609,
+        40.493429
+    ],
+    "center": [
+        8.76667,
+        40.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.76667,
+            40.41667
+        ]
+    }
+}

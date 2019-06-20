@@ -1,0 +1,21 @@
+{
+    "id": "poi.3410204063623",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Santa Maria Maggiore",
+    "place_name": "Santa Maria Maggiore, Piazza di Santa Maria Maggiore, Firenze, Firenze 50123, Italy",
+    "center": [
+        11.252911000000001,
+        43.773346000000004
+    ],
+    "geometry": {
+        "coordinates": [
+            11.252911000000001,
+            43.773346000000004
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "place.11807429141033890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Cornedo all'Isarco - Karneid",
+    "place_name": "Cornedo all'Isarco - Karneid, Bolzano, Italy",
+    "matching_text": "Cornedo all'Isarco",
+    "matching_place_name": "Cornedo all'Isarco, Bolzano, Italy",
+    "bbox": [
+        11.389311,
+        46.432238,
+        11.528762,
+        46.496903
+    ],
+    "center": [
+        11.4590365,
+        46.4645705
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4590365,
+            46.4645705
+        ]
+    }
+}

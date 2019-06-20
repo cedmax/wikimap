@@ -1,0 +1,27 @@
+{
+    "id": "place.14920138238664350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivoli",
+    "place_name": "Rivoli, Torino, Italy",
+    "bbox": [
+        7.476225,
+        45.042439,
+        7.572975,
+        45.095799
+    ],
+    "center": [
+        7.52722,
+        45.0725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.52722,
+            45.0725
+        ]
+    }
+}

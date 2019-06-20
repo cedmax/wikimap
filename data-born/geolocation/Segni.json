@@ -1,0 +1,27 @@
+{
+    "id": "place.10539538902648390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Segni",
+    "place_name": "Segni, Roma, Italy",
+    "bbox": [
+        12.942373,
+        41.64535,
+        13.063021,
+        41.74367
+    ],
+    "center": [
+        13.01667,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.01667,
+            41.68333
+        ]
+    }
+}

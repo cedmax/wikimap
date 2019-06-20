@@ -1,0 +1,27 @@
+{
+    "id": "place.3934344227873180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Platì",
+    "place_name": "Platì, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.001055,
+        38.187779,
+        16.138287,
+        38.256449
+    ],
+    "center": [
+        16.05,
+        38.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.05,
+            38.21667
+        ]
+    }
+}

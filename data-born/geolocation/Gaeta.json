@@ -1,0 +1,27 @@
+{
+    "id": "place.10771068960994420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gaeta",
+    "place_name": "Gaeta, Latina, Italy",
+    "bbox": [
+        13.48574,
+        41.203745,
+        13.59136,
+        41.265215
+    ],
+    "center": [
+        13.56667,
+        41.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56667,
+            41.21667
+        ]
+    }
+}

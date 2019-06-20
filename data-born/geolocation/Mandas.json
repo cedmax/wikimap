@@ -1,0 +1,27 @@
+{
+    "id": "place.14912490873177830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mandas",
+    "place_name": "Mandas, Cagliari, Italy",
+    "bbox": [
+        9.058982,
+        39.613762,
+        9.190142,
+        39.677112
+    ],
+    "center": [
+        9.13333,
+        39.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            39.65
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9456128179946950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marzi",
+    "place_name": "Marzi, Cosenza, Italy",
+    "bbox": [
+        16.29421,
+        39.134337,
+        16.400354,
+        39.193842
+    ],
+    "center": [
+        16.30705,
+        39.17063
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.30705,
+            39.17063
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2209246991482080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Livigno",
+    "place_name": "Livigno, Sondrio, Italy",
+    "bbox": [
+        10.03917,
+        46.421058,
+        10.218175,
+        46.625934
+    ],
+    "center": [
+        10.13333,
+        46.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            46.53333
+        ]
+    }
+}

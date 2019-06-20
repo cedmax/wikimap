@@ -1,0 +1,27 @@
+{
+    "id": "place.8727801996122240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oliva Gessi",
+    "place_name": "Oliva Gessi, Pavia, Italy",
+    "bbox": [
+        9.166842,
+        44.989825,
+        9.20435,
+        45.012172
+    ],
+    "center": [
+        9.18333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            45
+        ]
+    }
+}

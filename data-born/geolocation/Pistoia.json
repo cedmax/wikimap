@@ -1,0 +1,27 @@
+{
+    "id": "place.2102172669495520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pistoia",
+    "place_name": "Pistoia, Pistoia, Italy",
+    "bbox": [
+        10.805796,
+        43.872122,
+        11.015225,
+        44.100548
+    ],
+    "center": [
+        10.91667,
+        43.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.91667,
+            43.93333
+        ]
+    }
+}

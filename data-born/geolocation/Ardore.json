@@ -1,0 +1,27 @@
+{
+    "id": "place.4087292426053250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ardore",
+    "place_name": "Ardore, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.119923,
+        38.157791,
+        16.220949,
+        38.234636
+    ],
+    "center": [
+        16.16667,
+        38.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.16667,
+            38.18333
+        ]
+    }
+}

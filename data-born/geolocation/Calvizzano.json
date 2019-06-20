@@ -1,0 +1,27 @@
+{
+    "id": "place.1568117058990270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calvizzano",
+    "place_name": "Calvizzano, Napoli, Italy",
+    "bbox": [
+        14.15038,
+        40.901233,
+        14.200643,
+        40.915825
+    ],
+    "center": [
+        14.1854,
+        40.9055
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1854,
+            40.9055
+        ]
+    }
+}

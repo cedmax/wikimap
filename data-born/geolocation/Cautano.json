@@ -1,0 +1,27 @@
+{
+    "id": "place.13172097835574460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cautano",
+    "place_name": "Cautano, Benevento, Italy",
+    "bbox": [
+        14.563009,
+        41.130742,
+        14.668711,
+        41.167094
+    ],
+    "center": [
+        14.63333,
+        41.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            41.15
+        ]
+    }
+}

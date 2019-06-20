@@ -1,0 +1,27 @@
+{
+    "id": "place.5714018369608160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terranuova Bracciolini",
+    "place_name": "Terranuova Bracciolini, Arezzo, Italy",
+    "bbox": [
+        11.534104,
+        43.50717,
+        11.723036,
+        43.611201
+    ],
+    "center": [
+        11.58944,
+        43.55306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.58944,
+            43.55306
+        ]
+    }
+}

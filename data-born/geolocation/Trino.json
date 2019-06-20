@@ -1,0 +1,27 @@
+{
+    "id": "place.13393748866355190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trino",
+    "place_name": "Trino, Vercelli, Italy",
+    "bbox": [
+        8.172268,
+        45.169708,
+        8.361668,
+        45.279158
+    ],
+    "center": [
+        8.29611,
+        45.19528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.29611,
+            45.19528
+        ]
+    }
+}

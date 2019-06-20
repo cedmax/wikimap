@@ -1,0 +1,27 @@
+{
+    "id": "place.12556252249334780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Centola",
+    "place_name": "Centola, Salerno, Italy",
+    "bbox": [
+        15.267831,
+        40.021899,
+        15.357731,
+        40.130351
+    ],
+    "center": [
+        15.31667,
+        40.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.31667,
+            40.06667
+        ]
+    }
+}

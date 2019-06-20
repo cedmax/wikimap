@@ -1,0 +1,27 @@
+{
+    "id": "place.6446423072008130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.96875,
+    "text": "Crespino",
+    "place_name": "Crespino, Rovigo, Italy",
+    "bbox": [
+        11.835614,
+        44.972774,
+        11.928849,
+        45.0299
+    ],
+    "center": [
+        11.88333,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            44.98333
+        ]
+    }
+}

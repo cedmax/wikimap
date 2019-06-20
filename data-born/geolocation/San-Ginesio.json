@@ -1,0 +1,27 @@
+{
+    "id": "place.2932496327227260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Ginesio",
+    "place_name": "San Ginesio, Macerata, Italy",
+    "bbox": [
+        13.222577,
+        43.040415,
+        13.406747,
+        43.155913
+    ],
+    "center": [
+        13.31667,
+        43.10784
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.31667,
+            43.10784
+        ]
+    }
+}

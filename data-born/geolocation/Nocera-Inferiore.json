@@ -1,0 +1,27 @@
+{
+    "id": "place.7686505143608060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nocera Inferiore",
+    "place_name": "Nocera Inferiore, Salerno, Italy",
+    "bbox": [
+        14.610928,
+        40.714902,
+        14.65936,
+        40.790241
+    ],
+    "center": [
+        14.63333,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            40.75
+        ]
+    }
+}

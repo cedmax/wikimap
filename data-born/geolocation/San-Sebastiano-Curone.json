@@ -1,0 +1,27 @@
+{
+    "id": "place.14046978714656850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Sebastiano Curone",
+    "place_name": "San Sebastiano Curone, Alessandria, Italy",
+    "bbox": [
+        9.047501,
+        44.779687,
+        9.092967,
+        44.799027
+    ],
+    "center": [
+        9.06583,
+        44.7875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06583,
+            44.7875
+        ]
+    }
+}

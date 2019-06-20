@@ -1,0 +1,27 @@
+{
+    "id": "place.19342252351104880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo di Val di Cecina",
+    "place_name": "Castelnuovo di Val di Cecina, Pisa, Italy",
+    "bbox": [
+        10.796229,
+        43.150484,
+        10.997193,
+        43.301867
+    ],
+    "center": [
+        10.9,
+        43.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.9,
+            43.21667
+        ]
+    }
+}

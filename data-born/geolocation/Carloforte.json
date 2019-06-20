@@ -1,0 +1,27 @@
+{
+    "id": "place.4374888874463110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carloforte",
+    "place_name": "Carloforte, Carbonia-Iglesias, Italy",
+    "bbox": [
+        8.219241,
+        39.093624,
+        8.324506,
+        39.195251
+    ],
+    "center": [
+        8.3,
+        39.15028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.3,
+            39.15028
+        ]
+    }
+}

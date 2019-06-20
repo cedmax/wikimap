@@ -1,0 +1,27 @@
+{
+    "id": "place.13872117604727150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecalvo Irpino",
+    "place_name": "Montecalvo Irpino, Avellino, Italy",
+    "bbox": [
+        14.956917,
+        41.147053,
+        15.081803,
+        41.270552
+    ],
+    "center": [
+        15.03417,
+        41.19667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.03417,
+            41.19667
+        ]
+    }
+}

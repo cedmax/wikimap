@@ -1,0 +1,27 @@
+{
+    "id": "place.13594501180400960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre de' Roveri",
+    "place_name": "Torre de' Roveri, Bergamo, Italy",
+    "bbox": [
+        9.755977,
+        45.692436,
+        9.79967,
+        45.708745
+    ],
+    "center": [
+        9.77222,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.77222,
+            45.7
+        ]
+    }
+}

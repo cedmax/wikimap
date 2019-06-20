@@ -1,0 +1,27 @@
+{
+    "id": "place.11341883964827440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scarnafigi",
+    "place_name": "Scarnafigi, Cuneo, Italy",
+    "bbox": [
+        7.523539,
+        44.652469,
+        7.589879,
+        44.731496
+    ],
+    "center": [
+        7.56667,
+        44.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.56667,
+            44.68333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15898226023077500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Novi di Modena",
+    "place_name": "Novi di Modena, Modena, Italy",
+    "bbox": [
+        10.87654,
+        44.798398,
+        10.971324,
+        44.927625
+    ],
+    "center": [
+        10.90101,
+        44.89336
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.90101,
+            44.89336
+        ]
+    }
+}

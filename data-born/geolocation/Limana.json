@@ -1,0 +1,27 @@
+{
+    "id": "place.8748133118800150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Limana",
+    "place_name": "Limana, Belluno, Italy",
+    "bbox": [
+        12.132193,
+        46.012737,
+        12.255288,
+        46.120382
+    ],
+    "center": [
+        12.18333,
+        46.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.18333,
+            46.1
+        ]
+    }
+}

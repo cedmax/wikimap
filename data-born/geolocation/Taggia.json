@@ -1,0 +1,27 @@
+{
+    "id": "place.17852341393641500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taggia",
+    "place_name": "Taggia, Imperia, Italy",
+    "bbox": [
+        7.797849,
+        43.828249,
+        7.880674,
+        43.913144
+    ],
+    "center": [
+        7.85093,
+        43.84386
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85093,
+            43.84386
+        ]
+    }
+}

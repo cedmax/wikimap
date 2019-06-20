@@ -1,0 +1,27 @@
+{
+    "id": "place.9577796269253950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maropati",
+    "place_name": "Maropati, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.056008,
+        38.434427,
+        16.139769,
+        38.461842
+    ],
+    "center": [
+        16.1,
+        38.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.1,
+            38.43333
+        ]
+    }
+}

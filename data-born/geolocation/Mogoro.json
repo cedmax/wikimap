@@ -1,0 +1,27 @@
+{
+    "id": "place.9198623296148480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mogoro",
+    "place_name": "Mogoro, Oristano, Italy",
+    "bbox": [
+        8.685809,
+        39.627068,
+        8.806176,
+        39.696229
+    ],
+    "center": [
+        8.78333,
+        39.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            39.68333
+        ]
+    }
+}

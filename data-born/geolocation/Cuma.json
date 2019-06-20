@@ -1,0 +1,21 @@
+{
+    "id": "poi.2680059671521",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Cuma",
+    "place_name": "Cuma, Via G. B. Cuccia, 26, Palermo, Palermo 90141, Italy",
+    "center": [
+        13.355617,
+        38.12319
+    ],
+    "geometry": {
+        "coordinates": [
+            13.355617,
+            38.12319
+        ],
+        "type": "Point"
+    }
+}

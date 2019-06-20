@@ -1,0 +1,27 @@
+{
+    "id": "place.7790581008351530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Revere",
+    "place_name": "Revere, Mantova, Italy",
+    "bbox": [
+        11.108393,
+        45.012692,
+        11.169512,
+        45.068316
+    ],
+    "center": [
+        11.13019,
+        45.05717
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13019,
+            45.05717
+        ]
+    }
+}

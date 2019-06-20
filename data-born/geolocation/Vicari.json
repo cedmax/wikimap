@@ -1,0 +1,27 @@
+{
+    "id": "place.11454082982173510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicari",
+    "place_name": "Vicari, Palermo, Italy",
+    "bbox": [
+        13.487796,
+        37.733924,
+        13.626744,
+        37.849058
+    ],
+    "center": [
+        13.56667,
+        37.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56667,
+            37.83333
+        ]
+    }
+}

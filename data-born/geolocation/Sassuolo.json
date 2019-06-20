@@ -1,0 +1,27 @@
+{
+    "id": "place.3619693772728270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sassuolo",
+    "place_name": "Sassuolo, Modena, Italy",
+    "bbox": [
+        10.721161,
+        44.486785,
+        10.815035,
+        44.606988
+    ],
+    "center": [
+        10.78556,
+        44.55167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.78556,
+            44.55167
+        ]
+    }
+}

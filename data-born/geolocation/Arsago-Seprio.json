@@ -1,0 +1,27 @@
+{
+    "id": "place.7202897234034360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arsago Seprio",
+    "place_name": "Arsago Seprio, Varese, Italy",
+    "bbox": [
+        8.709634,
+        45.675553,
+        8.762394,
+        45.721682
+    ],
+    "center": [
+        8.73333,
+        45.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73333,
+            45.68333
+        ]
+    }
+}

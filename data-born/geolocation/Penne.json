@@ -1,0 +1,27 @@
+{
+    "id": "place.17231419393509110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Penne",
+    "place_name": "Penne, Pescara, Italy",
+    "bbox": [
+        13.791139,
+        42.404131,
+        13.981175,
+        42.515262
+    ],
+    "center": [
+        13.91667,
+        42.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91667,
+            42.45
+        ]
+    }
+}

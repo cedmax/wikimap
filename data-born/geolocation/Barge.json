@@ -1,0 +1,27 @@
+{
+    "id": "place.7770154101371370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barge",
+    "place_name": "Barge, Cuneo, Italy",
+    "bbox": [
+        7.202172,
+        44.676089,
+        7.475528,
+        44.778013
+    ],
+    "center": [
+        7.31667,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.31667,
+            44.73333
+        ]
+    }
+}

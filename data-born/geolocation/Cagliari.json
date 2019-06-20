@@ -1,0 +1,27 @@
+{
+    "id": "place.9763439829448090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cagliari",
+    "place_name": "Cagliari, Cagliari, Italy",
+    "bbox": [
+        9.015448,
+        39.157601,
+        9.182185,
+        39.282228
+    ],
+    "center": [
+        9.11667,
+        39.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            39.21667
+        ]
+    }
+}

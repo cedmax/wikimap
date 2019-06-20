@@ -1,0 +1,27 @@
+{
+    "id": "place.9297442753026530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Longano",
+    "place_name": "Longano, Isernia, Italy",
+    "bbox": [
+        14.213567,
+        41.484552,
+        14.279406,
+        41.558201
+    ],
+    "center": [
+        14.25,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.25,
+            41.51667
+        ]
+    }
+}

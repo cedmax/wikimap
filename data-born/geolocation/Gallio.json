@@ -1,0 +1,27 @@
+{
+    "id": "place.4864413695961550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallio",
+    "place_name": "Gallio, Vicenza, Italy",
+    "bbox": [
+        11.525092,
+        45.858239,
+        11.623551,
+        45.955457
+    ],
+    "center": [
+        11.55,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.55,
+            45.88333
+        ]
+    }
+}

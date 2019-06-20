@@ -1,0 +1,27 @@
+{
+    "id": "place.9265781350876400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gaiarine",
+    "place_name": "Gaiarine, Treviso, Italy",
+    "bbox": [
+        12.455801,
+        45.854694,
+        12.536854,
+        45.926657
+    ],
+    "center": [
+        12.48333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48333,
+            45.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3425668732894770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ussita",
+    "place_name": "Ussita, Macerata, Italy",
+    "bbox": [
+        13.11127,
+        42.90326,
+        13.223128,
+        42.978407
+    ],
+    "center": [
+        13.14295,
+        42.94413
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.14295,
+            42.94413
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8700757409443220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villamaina",
+    "place_name": "Villamaina, Avellino, Italy",
+    "bbox": [
+        15.059011,
+        40.958731,
+        15.127995,
+        40.98678
+    ],
+    "center": [
+        15.08333,
+        40.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.08333,
+            40.96667
+        ]
+    }
+}

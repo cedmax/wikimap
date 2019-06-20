@@ -1,0 +1,27 @@
+{
+    "id": "place.7858325623306620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Benna",
+    "place_name": "Benna, Biella, Italy",
+    "bbox": [
+        8.107356,
+        45.496218,
+        8.171226,
+        45.529405
+    ],
+    "center": [
+        8.12778,
+        45.51472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.12778,
+            45.51472
+        ]
+    }
+}

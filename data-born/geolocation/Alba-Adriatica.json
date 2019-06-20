@@ -1,0 +1,27 @@
+{
+    "id": "place.9527243949282850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alba Adriatica",
+    "place_name": "Alba Adriatica, Teramo, Italy",
+    "bbox": [
+        13.854904,
+        42.804842,
+        13.940368,
+        42.839107
+    ],
+    "center": [
+        13.91667,
+        42.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.91667,
+            42.83333
+        ]
+    }
+}

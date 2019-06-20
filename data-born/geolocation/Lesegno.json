@@ -1,0 +1,27 @@
+{
+    "id": "place.13014291801600920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lesegno",
+    "place_name": "Lesegno, Cuneo, Italy",
+    "bbox": [
+        7.937644,
+        44.372883,
+        7.992498,
+        44.418915
+    ],
+    "center": [
+        7.97167,
+        44.40306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.97167,
+            44.40306
+        ]
+    }
+}

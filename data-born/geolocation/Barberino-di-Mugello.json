@@ -1,0 +1,27 @@
+{
+    "id": "place.8192352428584910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barberino di Mugello",
+    "place_name": "Barberino di Mugello, Firenze, Italy",
+    "bbox": [
+        11.168978,
+        43.947907,
+        11.312945,
+        44.104522
+    ],
+    "center": [
+        11.23333,
+        44
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            44
+        ]
+    }
+}

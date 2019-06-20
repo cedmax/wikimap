@@ -1,0 +1,27 @@
+{
+    "id": "place.14750535424327410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cervinara",
+    "place_name": "Cervinara, Avellino, Italy",
+    "bbox": [
+        14.574503,
+        40.984657,
+        14.673001,
+        41.050767
+    ],
+    "center": [
+        14.61528,
+        41.02139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.61528,
+            41.02139
+        ]
+    }
+}

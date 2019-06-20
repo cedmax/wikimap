@@ -1,0 +1,27 @@
+{
+    "id": "place.3196205624838740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gravina in Puglia",
+    "place_name": "Gravina in Puglia, Bari, Italy",
+    "bbox": [
+        16.225196,
+        40.700544,
+        16.506766,
+        41.005081
+    ],
+    "center": [
+        16.42333,
+        40.82056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.42333,
+            40.82056
+        ]
+    }
+}

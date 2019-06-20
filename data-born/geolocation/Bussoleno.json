@@ -1,0 +1,27 @@
+{
+    "id": "place.16354750318046370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bussoleno",
+    "place_name": "Bussoleno, Torino, Italy",
+    "bbox": [
+        7.095494,
+        45.062499,
+        7.168052,
+        45.187819
+    ],
+    "center": [
+        7.1475,
+        45.14111
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.1475,
+            45.14111
+        ]
+    }
+}

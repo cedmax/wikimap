@@ -1,0 +1,21 @@
+{
+    "id": "address.366968478",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Cassina Savina",
+    "place_name": "via Cassina Savina, 20831 Seregno Monza E Della Brianza, Italy",
+    "center": [
+        9.190193,
+        45.639451
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.190193,
+            45.639451
+        ]
+    }
+}

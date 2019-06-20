@@ -1,0 +1,27 @@
+{
+    "id": "place.3157094381329780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cencenighe Agordino",
+    "place_name": "Cencenighe Agordino, Belluno, Italy",
+    "bbox": [
+        11.927694,
+        46.325071,
+        12.003876,
+        46.369311
+    ],
+    "center": [
+        11.97444,
+        46.344
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.97444,
+            46.344
+        ]
+    }
+}

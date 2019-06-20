@@ -1,0 +1,27 @@
+{
+    "id": "place.14113870343848260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bomba",
+    "place_name": "Bomba, Chieti, Italy",
+    "bbox": [
+        14.343316,
+        42.010969,
+        14.397823,
+        42.059375
+    ],
+    "center": [
+        14.36667,
+        42.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.36667,
+            42.03333
+        ]
+    }
+}

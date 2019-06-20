@@ -1,0 +1,27 @@
+{
+    "id": "place.17146761819378900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ardara",
+    "place_name": "Ardara, Sassari, Italy",
+    "bbox": [
+        8.771769,
+        40.597372,
+        8.899697,
+        40.664448
+    ],
+    "center": [
+        8.81,
+        40.62222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81,
+            40.62222
+        ]
+    }
+}

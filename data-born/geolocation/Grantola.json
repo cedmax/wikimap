@@ -1,0 +1,27 @@
+{
+    "id": "place.6933090539405850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grantola",
+    "place_name": "Grantola, Varese, Italy",
+    "bbox": [
+        8.768488,
+        45.935561,
+        8.800842,
+        45.954978
+    ],
+    "center": [
+        8.78333,
+        45.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78333,
+            45.95
+        ]
+    }
+}

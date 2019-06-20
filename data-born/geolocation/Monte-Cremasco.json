@@ -1,0 +1,27 @@
+{
+    "id": "place.13999949566361620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monte Cremasco",
+    "place_name": "Monte Cremasco, Cremona, Italy",
+    "bbox": [
+        9.558907,
+        45.364869,
+        9.581093,
+        45.384697
+    ],
+    "center": [
+        9.56667,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56667,
+            45.38333
+        ]
+    }
+}

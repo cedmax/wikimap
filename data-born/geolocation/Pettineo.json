@@ -1,0 +1,27 @@
+{
+    "id": "place.6403108596178350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pettineo",
+    "place_name": "Pettineo, Messina, Italy",
+    "bbox": [
+        14.236839,
+        37.915699,
+        14.327191,
+        37.992898
+    ],
+    "center": [
+        14.28333,
+        37.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.28333,
+            37.96667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5485660366862810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Nicola dell'Alto",
+    "place_name": "San Nicola dell'Alto, Crotone, Italy",
+    "bbox": [
+        16.954821,
+        39.258857,
+        17.00035,
+        39.301509
+    ],
+    "center": [
+        16.96667,
+        39.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.96667,
+            39.3
+        ]
+    }
+}

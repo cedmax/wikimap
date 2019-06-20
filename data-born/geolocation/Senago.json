@@ -1,0 +1,27 @@
+{
+    "id": "place.14166544337286930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Senago",
+    "place_name": "Senago, Milano, Italy",
+    "bbox": [
+        9.095641,
+        45.556405,
+        9.146023,
+        45.587933
+    ],
+    "center": [
+        9.13333,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            45.58333
+        ]
+    }
+}

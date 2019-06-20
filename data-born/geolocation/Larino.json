@@ -1,0 +1,27 @@
+{
+    "id": "place.13630071270742370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Larino",
+    "place_name": "Larino, Campobasso, Italy",
+    "bbox": [
+        14.854403,
+        41.76456,
+        14.981896,
+        41.894815
+    ],
+    "center": [
+        14.91667,
+        41.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.91667,
+            41.8
+        ]
+    }
+}

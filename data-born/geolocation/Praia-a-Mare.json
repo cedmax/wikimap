@@ -1,0 +1,27 @@
+{
+    "id": "place.11737294202150570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Praia a Mare",
+    "place_name": "Praia a Mare, Cosenza, Italy",
+    "bbox": [
+        15.768287,
+        39.861733,
+        15.849085,
+        39.932469
+    ],
+    "center": [
+        15.76667,
+        39.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.76667,
+            39.91667
+        ]
+    }
+}

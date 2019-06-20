@@ -1,0 +1,27 @@
+{
+    "id": "place.8372595807576630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gubbio",
+    "place_name": "Gubbio, Perugia, Italy",
+    "bbox": [
+        12.375146,
+        43.194159,
+        12.708579,
+        43.501648
+    ],
+    "center": [
+        12.56667,
+        43.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.56667,
+            43.35
+        ]
+    }
+}

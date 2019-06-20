@@ -1,0 +1,27 @@
+{
+    "id": "place.6235923763873190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vicovaro",
+    "place_name": "Vicovaro, Roma, Italy",
+    "bbox": [
+        12.828254,
+        41.980292,
+        12.934104,
+        42.043471
+    ],
+    "center": [
+        12.89691,
+        42.01782
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.89691,
+            42.01782
+        ]
+    }
+}

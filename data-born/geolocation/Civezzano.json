@@ -1,0 +1,27 @@
+{
+    "id": "place.2470733883635640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Civezzano",
+    "place_name": "Civezzano, Trento, Italy",
+    "bbox": [
+        11.15312,
+        46.07171,
+        11.209395,
+        46.126712
+    ],
+    "center": [
+        11.16667,
+        46.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.16667,
+            46.08333
+        ]
+    }
+}

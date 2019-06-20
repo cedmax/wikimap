@@ -1,0 +1,27 @@
+{
+    "id": "place.7901045180930910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romagnano Sesia",
+    "place_name": "Romagnano Sesia, Novara, Italy",
+    "bbox": [
+        8.346496,
+        45.592363,
+        8.432513,
+        45.652818
+    ],
+    "center": [
+        8.38333,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.38333,
+            45.63333
+        ]
+    }
+}

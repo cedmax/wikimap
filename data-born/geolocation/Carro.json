@@ -1,0 +1,27 @@
+{
+    "id": "place.11980361041848120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carro",
+    "place_name": "Carro, La Spezia, Italy",
+    "bbox": [
+        9.56776,
+        44.250051,
+        9.663027,
+        44.310991
+    ],
+    "center": [
+        9.6,
+        44.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.6,
+            44.26667
+        ]
+    }
+}

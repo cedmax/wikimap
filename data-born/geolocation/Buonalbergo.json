@@ -1,0 +1,27 @@
+{
+    "id": "place.4876650522874950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Buonalbergo",
+    "place_name": "Buonalbergo, Benevento, Italy",
+    "bbox": [
+        14.944702,
+        41.179701,
+        15.004063,
+        41.270822
+    ],
+    "center": [
+        14.98333,
+        41.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.98333,
+            41.21667
+        ]
+    }
+}

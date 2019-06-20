@@ -1,0 +1,27 @@
+{
+    "id": "place.7520095970322030",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casola in Lunigiana",
+    "place_name": "Casola in Lunigiana, Massa-Carrara, Italy",
+    "bbox": [
+        10.127667,
+        44.139468,
+        10.247533,
+        44.256502
+    ],
+    "center": [
+        10.18333,
+        44.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.18333,
+            44.2
+        ]
+    }
+}

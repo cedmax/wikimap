@@ -1,0 +1,27 @@
+{
+    "id": "place.10390262961748290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carini",
+    "place_name": "Carini, Palermo, Italy",
+    "bbox": [
+        13.080742,
+        38.076115,
+        13.23159,
+        38.186846
+    ],
+    "center": [
+        13.18333,
+        38.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            38.13333
+        ]
+    }
+}

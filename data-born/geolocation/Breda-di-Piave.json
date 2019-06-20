@@ -1,0 +1,27 @@
+{
+    "id": "place.2010332908636740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Breda di Piave",
+    "place_name": "Breda di Piave, Treviso, Italy",
+    "bbox": [
+        12.302088,
+        45.692119,
+        12.418014,
+        45.740789
+    ],
+    "center": [
+        12.33333,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33333,
+            45.71667
+        ]
+    }
+}

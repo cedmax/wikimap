@@ -1,0 +1,27 @@
+{
+    "id": "place.5908077655138860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costigliole d'Asti",
+    "place_name": "Costigliole d'Asti, Asti, Italy",
+    "bbox": [
+        8.127729,
+        44.748837,
+        8.231351,
+        44.828818
+    ],
+    "center": [
+        8.18194,
+        44.785
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.18194,
+            44.785
+        ]
+    }
+}

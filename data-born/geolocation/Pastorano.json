@@ -1,0 +1,27 @@
+{
+    "id": "place.4239429934605780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pastorano",
+    "place_name": "Pastorano, Caserta, Italy",
+    "bbox": [
+        14.130214,
+        41.137211,
+        14.212179,
+        41.192724
+    ],
+    "center": [
+        14.2,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.2,
+            41.18333
+        ]
+    }
+}

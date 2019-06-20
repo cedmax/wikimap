@@ -1,0 +1,27 @@
+{
+    "id": "place.11678942376103010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tocco Caudio",
+    "place_name": "Tocco Caudio, Benevento, Italy",
+    "bbox": [
+        14.559003,
+        41.096572,
+        14.657785,
+        41.145805
+    ],
+    "center": [
+        14.63333,
+        41.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            41.13333
+        ]
+    }
+}

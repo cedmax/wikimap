@@ -1,0 +1,27 @@
+{
+    "id": "place.10680086490443410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceto",
+    "place_name": "Ceto, Brescia, Italy",
+    "bbox": [
+        10.334595,
+        45.959071,
+        10.472205,
+        46.027419
+    ],
+    "center": [
+        10.35278,
+        46.00333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.35278,
+            46.00333
+        ]
+    }
+}

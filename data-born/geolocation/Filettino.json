@@ -1,0 +1,27 @@
+{
+    "id": "place.15280088932872320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filettino",
+    "place_name": "Filettino, Frosinone, Italy",
+    "bbox": [
+        13.268489,
+        41.833925,
+        13.384311,
+        41.955008
+    ],
+    "center": [
+        13.33333,
+        41.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.33333,
+            41.88333
+        ]
+    }
+}

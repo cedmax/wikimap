@@ -1,0 +1,27 @@
+{
+    "id": "place.10127432886489870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgofranco d'Ivrea",
+    "place_name": "Borgofranco d'Ivrea, Torino, Italy",
+    "bbox": [
+        7.817388,
+        45.495499,
+        7.883885,
+        45.537388
+    ],
+    "center": [
+        7.86667,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            45.51667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11309418379863120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fara Novarese",
+    "place_name": "Fara Novarese, Novara, Italy",
+    "bbox": [
+        8.431069,
+        45.535673,
+        8.482024,
+        45.582706
+    ],
+    "center": [
+        8.46667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.46667,
+            45.55
+        ]
+    }
+}

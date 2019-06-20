@@ -1,0 +1,27 @@
+{
+    "id": "place.6846751241673830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Imola",
+    "place_name": "Imola, Bologna, Italy",
+    "bbox": [
+        11.58405,
+        44.282676,
+        11.810061,
+        44.568566
+    ],
+    "center": [
+        11.71437,
+        44.35344
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71437,
+            44.35344
+        ]
+    }
+}

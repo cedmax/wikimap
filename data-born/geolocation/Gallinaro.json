@@ -1,0 +1,27 @@
+{
+    "id": "place.9794323138613700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallinaro",
+    "place_name": "Gallinaro, Frosinone, Italy",
+    "bbox": [
+        13.764966,
+        41.636384,
+        13.832976,
+        41.686754
+    ],
+    "center": [
+        13.8,
+        41.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.8,
+            41.66667
+        ]
+    }
+}

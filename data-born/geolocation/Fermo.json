@@ -1,0 +1,27 @@
+{
+    "id": "place.11943740011701420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fermo",
+    "place_name": "Fermo, Fermo, Italy",
+    "bbox": [
+        13.490031,
+        43.105593,
+        13.829406,
+        43.234418
+    ],
+    "center": [
+        13.7181,
+        43.16042
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7181,
+            43.16042
+        ]
+    }
+}

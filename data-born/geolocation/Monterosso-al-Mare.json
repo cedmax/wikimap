@@ -1,0 +1,27 @@
+{
+    "id": "place.2923218841335590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monterosso al Mare",
+    "place_name": "Monterosso al Mare, La Spezia, Italy",
+    "bbox": [
+        9.627436,
+        44.133387,
+        9.701795,
+        44.185454
+    ],
+    "center": [
+        9.65555,
+        44.14629
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.65555,
+            44.14629
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6681351272960940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre Beretti e Castellaro",
+    "place_name": "Torre Beretti e Castellaro, Pavia, Italy",
+    "bbox": [
+        8.636885,
+        45.053462,
+        8.729927,
+        45.097811
+    ],
+    "center": [
+        8.66667,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            45.06667
+        ]
+    }
+}

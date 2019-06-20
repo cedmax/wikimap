@@ -1,0 +1,27 @@
+{
+    "id": "place.10359962997262410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stino di Livenza",
+    "place_name": "Santo Stino di Livenza, Venezia, Italy",
+    "bbox": [
+        12.646563,
+        45.599477,
+        12.857035,
+        45.763521
+    ],
+    "center": [
+        12.68333,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68333,
+            45.73333
+        ]
+    }
+}

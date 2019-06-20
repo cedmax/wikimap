@@ -1,0 +1,27 @@
+{
+    "id": "place.4545420507215470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Martinengo",
+    "place_name": "Martinengo, Bergamo, Italy",
+    "bbox": [
+        9.73407,
+        45.538343,
+        9.811386,
+        45.582164
+    ],
+    "center": [
+        9.76667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.76667,
+            45.56667
+        ]
+    }
+}

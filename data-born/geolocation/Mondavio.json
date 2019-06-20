@@ -1,0 +1,27 @@
+{
+    "id": "place.4689260549832650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mondavio",
+    "place_name": "Mondavio, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.920081,
+        43.623296,
+        13.026811,
+        43.7254
+    ],
+    "center": [
+        12.96828,
+        43.67405
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96828,
+            43.67405
+        ]
+    }
+}

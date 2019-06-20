@@ -1,0 +1,27 @@
+{
+    "id": "place.5028291465356670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calco",
+    "place_name": "Calco, Lecco, Italy",
+    "bbox": [
+        9.400971,
+        45.7148,
+        9.44931,
+        45.734318
+    ],
+    "center": [
+        9.41667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41667,
+            45.71667
+        ]
+    }
+}

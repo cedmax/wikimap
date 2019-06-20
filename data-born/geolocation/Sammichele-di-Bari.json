@@ -1,0 +1,27 @@
+{
+    "id": "place.9813755814136530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sammichele di Bari",
+    "place_name": "Sammichele di Bari, Bari, Italy",
+    "bbox": [
+        16.897896,
+        40.845862,
+        17.000241,
+        40.909953
+    ],
+    "center": [
+        16.95,
+        40.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.95,
+            40.88333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.9133416030373710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietrafitta",
+    "place_name": "Pietrafitta, Cosenza, Italy",
+    "bbox": [
+        16.304916,
+        39.248368,
+        16.386417,
+        39.267663
+    ],
+    "center": [
+        16.3394,
+        39.26103
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3394,
+            39.26103
+        ]
+    }
+}

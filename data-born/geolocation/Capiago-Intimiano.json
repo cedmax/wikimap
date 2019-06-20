@@ -1,0 +1,27 @@
+{
+    "id": "place.6229041458584940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capiago Intimiano",
+    "place_name": "Capiago Intimiano, Como, Italy",
+    "bbox": [
+        9.109422,
+        45.756561,
+        9.152867,
+        45.784898
+    ],
+    "center": [
+        9.11667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            45.76667
+        ]
+    }
+}

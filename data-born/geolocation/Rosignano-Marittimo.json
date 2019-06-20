@@ -1,0 +1,27 @@
+{
+    "id": "place.8873839232784550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosignano Marittimo",
+    "place_name": "Rosignano Marittimo, Livorno, Italy",
+    "bbox": [
+        10.379067,
+        43.31898,
+        10.509671,
+        43.507335
+    ],
+    "center": [
+        10.46667,
+        43.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.46667,
+            43.4
+        ]
+    }
+}

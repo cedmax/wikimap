@@ -1,0 +1,27 @@
+{
+    "id": "place.2853624989152380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giuliano Teatino",
+    "place_name": "Giuliano Teatino, Chieti, Italy",
+    "bbox": [
+        14.26443,
+        42.285432,
+        14.302092,
+        42.339558
+    ],
+    "center": [
+        14.28333,
+        42.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.28333,
+            42.3
+        ]
+    }
+}

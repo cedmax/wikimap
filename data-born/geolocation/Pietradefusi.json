@@ -1,0 +1,27 @@
+{
+    "id": "place.6528594207583970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietradefusi",
+    "place_name": "Pietradefusi, Avellino, Italy",
+    "bbox": [
+        14.859303,
+        41.026873,
+        14.905982,
+        41.067334
+    ],
+    "center": [
+        14.88333,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88333,
+            41.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8002555712212590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigasio",
+    "place_name": "Vigasio, Verona, Italy",
+    "bbox": [
+        10.900157,
+        45.291733,
+        10.979867,
+        45.363979
+    ],
+    "center": [
+        10.93333,
+        45.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.93333,
+            45.31667
+        ]
+    }
+}

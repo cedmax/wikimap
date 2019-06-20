@@ -1,0 +1,27 @@
+{
+    "id": "place.10076650428809730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bairo",
+    "place_name": "Bairo, Torino, Italy",
+    "bbox": [
+        7.731251,
+        45.357467,
+        7.769514,
+        45.392961
+    ],
+    "center": [
+        7.75056,
+        45.38583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.75056,
+            45.38583
+        ]
+    }
+}

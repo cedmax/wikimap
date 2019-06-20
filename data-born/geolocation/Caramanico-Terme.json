@@ -1,0 +1,27 @@
+{
+    "id": "place.7565910484709960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caramanico Terme",
+    "place_name": "Caramanico Terme, Pescara, Italy",
+    "bbox": [
+        13.957207,
+        42.098207,
+        14.118453,
+        42.212277
+    ],
+    "center": [
+        14.01667,
+        42.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.01667,
+            42.15
+        ]
+    }
+}

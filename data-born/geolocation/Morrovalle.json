@@ -1,0 +1,27 @@
+{
+    "id": "place.5342993699153330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Morrovalle",
+    "place_name": "Morrovalle, Macerata, Italy",
+    "bbox": [
+        13.527862,
+        43.260328,
+        13.625567,
+        43.33375
+    ],
+    "center": [
+        13.5806,
+        43.3146
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.5806,
+            43.3146
+        ]
+    }
+}

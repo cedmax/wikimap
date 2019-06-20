@@ -1,0 +1,27 @@
+{
+    "id": "place.9352716646935430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Abano Terme",
+    "place_name": "Abano Terme, Padova, Italy",
+    "bbox": [
+        11.756725,
+        45.33071,
+        11.836801,
+        45.383576
+    ],
+    "center": [
+        11.7924,
+        45.3619
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.7924,
+            45.3619
+        ]
+    }
+}

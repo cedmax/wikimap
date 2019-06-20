@@ -1,0 +1,29 @@
+{
+    "id": "place.12531453094116400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Luson - Luesen",
+    "place_name": "Luson - Luesen, Bolzano, Italy",
+    "matching_text": "Luson",
+    "matching_place_name": "Luson, Bolzano, Italy",
+    "bbox": [
+        11.687965,
+        46.669729,
+        11.837348,
+        46.783365
+    ],
+    "center": [
+        11.76098,
+        46.74623
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76098,
+            46.74623
+        ]
+    }
+}

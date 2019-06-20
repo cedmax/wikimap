@@ -1,0 +1,27 @@
+{
+    "id": "place.8071386096423220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Germano Chisone",
+    "place_name": "San Germano Chisone, Torino, Italy",
+    "bbox": [
+        7.211427,
+        44.862025,
+        7.269286,
+        44.924072
+    ],
+    "center": [
+        7.23333,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.23333,
+            44.9
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13363612451393910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Storo",
+    "place_name": "Storo, Trento, Italy",
+    "bbox": [
+        10.490027,
+        45.809291,
+        10.643609,
+        45.903161
+    ],
+    "center": [
+        10.58028,
+        45.84889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.58028,
+            45.84889
+        ]
+    }
+}

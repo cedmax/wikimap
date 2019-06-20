@@ -1,0 +1,27 @@
+{
+    "id": "place.14410109146550530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dolcedo",
+    "place_name": "Dolcedo, Imperia, Italy",
+    "bbox": [
+        7.874983,
+        43.885916,
+        7.969117,
+        43.923231
+    ],
+    "center": [
+        7.95161,
+        43.90689
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95161,
+            43.90689
+        ]
+    }
+}

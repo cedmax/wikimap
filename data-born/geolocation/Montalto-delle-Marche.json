@@ -1,0 +1,27 @@
+{
+    "id": "place.14830077157043140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montalto delle Marche",
+    "place_name": "Montalto delle Marche, Ascoli Piceno, Italy",
+    "bbox": [
+        13.570088,
+        42.958746,
+        13.678212,
+        43.018411
+    ],
+    "center": [
+        13.60685,
+        42.98725
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.60685,
+            42.98725
+        ]
+    }
+}

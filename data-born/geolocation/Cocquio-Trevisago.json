@@ -1,0 +1,27 @@
+{
+    "id": "place.10593233919438600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cocquio-Trevisago",
+    "place_name": "Cocquio-Trevisago, Varese, Italy",
+    "bbox": [
+        8.668769,
+        45.846,
+        8.737162,
+        45.88073
+    ],
+    "center": [
+        8.68333,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.68333,
+            45.85
+        ]
+    }
+}

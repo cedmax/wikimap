@@ -1,0 +1,27 @@
+{
+    "id": "place.15829281226574780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccarainola",
+    "place_name": "Roccarainola, Napoli, Italy",
+    "bbox": [
+        14.477417,
+        40.961332,
+        14.580875,
+        41.019895
+    ],
+    "center": [
+        14.56667,
+        40.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.56667,
+            40.96667
+        ]
+    }
+}

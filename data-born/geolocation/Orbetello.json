@@ -1,0 +1,27 @@
+{
+    "id": "place.5745308077562980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orbetello",
+    "place_name": "Orbetello, Grosseto, Italy",
+    "bbox": [
+        11.104604,
+        42.404289,
+        11.352849,
+        42.603789
+    ],
+    "center": [
+        11.2125,
+        42.43944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.2125,
+            42.43944
+        ]
+    }
+}

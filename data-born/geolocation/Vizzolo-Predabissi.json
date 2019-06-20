@@ -1,0 +1,27 @@
+{
+    "id": "place.9606217267370650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vizzolo Predabissi",
+    "place_name": "Vizzolo Predabissi, Milano, Italy",
+    "bbox": [
+        9.333692,
+        45.339542,
+        9.362369,
+        45.377725
+    ],
+    "center": [
+        9.35,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.35,
+            45.35
+        ]
+    }
+}

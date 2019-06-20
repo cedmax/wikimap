@@ -1,0 +1,27 @@
+{
+    "id": "place.14648347290655520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villanova Monteleone",
+    "place_name": "Villanova Monteleone, Sassari, Italy",
+    "bbox": [
+        8.368455,
+        40.393049,
+        8.578027,
+        40.554242
+    ],
+    "center": [
+        8.47056,
+        40.50361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.47056,
+            40.50361
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15514465423837830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scansano",
+    "place_name": "Scansano, Grosseto, Italy",
+    "bbox": [
+        11.194241,
+        42.586362,
+        11.460903,
+        42.806787
+    ],
+    "center": [
+        11.33472,
+        42.68972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.33472,
+            42.68972
+        ]
+    }
+}

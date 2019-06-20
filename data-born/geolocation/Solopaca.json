@@ -1,0 +1,27 @@
+{
+    "id": "place.19273584334524640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solopaca",
+    "place_name": "Solopaca, Benevento, Italy",
+    "bbox": [
+        14.494082,
+        41.163837,
+        14.598653,
+        41.220497
+    ],
+    "center": [
+        14.55,
+        41.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            41.18333
+        ]
+    }
+}

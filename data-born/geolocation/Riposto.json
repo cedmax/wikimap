@@ -1,0 +1,27 @@
+{
+    "id": "place.9169609734082280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riposto",
+    "place_name": "Riposto, Catania, Italy",
+    "bbox": [
+        15.172356,
+        37.671487,
+        15.219339,
+        37.738247
+    ],
+    "center": [
+        15.2,
+        37.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.2,
+            37.73333
+        ]
+    }
+}

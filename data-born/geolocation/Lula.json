@@ -1,0 +1,27 @@
+{
+    "id": "place.1633939557142930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lula",
+    "place_name": "Lula, Nuoro, Italy",
+    "bbox": [
+        9.412103,
+        40.388584,
+        9.604235,
+        40.550973
+    ],
+    "center": [
+        9.48333,
+        40.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.48333,
+            40.46667
+        ]
+    }
+}

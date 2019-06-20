@@ -1,0 +1,27 @@
+{
+    "id": "place.7650355944434370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ficarra",
+    "place_name": "Ficarra, Messina, Italy",
+    "bbox": [
+        14.805262,
+        38.09355,
+        14.871241,
+        38.146589
+    ],
+    "center": [
+        14.82972,
+        38.11
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.82972,
+            38.11
+        ]
+    }
+}

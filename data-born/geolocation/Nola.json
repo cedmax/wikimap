@@ -1,0 +1,27 @@
+{
+    "id": "place.13468141249846970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nola",
+    "place_name": "Nola, Napoli, Italy",
+    "bbox": [
+        14.456195,
+        40.857847,
+        14.578485,
+        40.983402
+    ],
+    "center": [
+        14.53333,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            40.93333
+        ]
+    }
+}

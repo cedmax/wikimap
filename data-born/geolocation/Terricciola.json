@@ -1,0 +1,27 @@
+{
+    "id": "place.5255219890668950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terricciola",
+    "place_name": "Terricciola, Pisa, Italy",
+    "bbox": [
+        10.627616,
+        43.488,
+        10.724935,
+        43.576402
+    ],
+    "center": [
+        10.68083,
+        43.52556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.68083,
+            43.52556
+        ]
+    }
+}

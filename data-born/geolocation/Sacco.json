@@ -1,0 +1,21 @@
+{
+    "id": "poi.2851858368654",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sacco",
+    "place_name": "Sacco, Via Amelia, 77, Roma, Roma 00181, Italy",
+    "center": [
+        12.527552,
+        41.879326
+    ],
+    "geometry": {
+        "coordinates": [
+            12.527552,
+            41.879326
+        ],
+        "type": "Point"
+    }
+}

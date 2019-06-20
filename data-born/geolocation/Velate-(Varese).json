@@ -1,0 +1,21 @@
+{
+    "id": "poi.2439541493191",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9722222222222221,
+    "text": "Velati",
+    "place_name": "Velati, Via Giuseppe Mazzini, 24, Gallarate, Varese 21013, Italy",
+    "center": [
+        8.79098,
+        45.66027
+    ],
+    "geometry": {
+        "coordinates": [
+            8.79098,
+            45.66027
+        ],
+        "type": "Point"
+    }
+}

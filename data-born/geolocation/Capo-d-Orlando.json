@@ -1,0 +1,27 @@
+{
+    "id": "place.9830073874540040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capo d'Orlando",
+    "place_name": "Capo d'Orlando, Messina, Italy",
+    "bbox": [
+        14.705942,
+        38.107939,
+        14.792358,
+        38.165936
+    ],
+    "center": [
+        14.73333,
+        38.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.73333,
+            38.15
+        ]
+    }
+}

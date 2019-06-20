@@ -1,0 +1,27 @@
+{
+    "id": "place.11553954234837940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massa Lombarda",
+    "place_name": "Massa Lombarda, Ravenna, Italy",
+    "bbox": [
+        11.750447,
+        44.4176,
+        11.865092,
+        44.510058
+    ],
+    "center": [
+        11.81667,
+        44.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81667,
+            44.45
+        ]
+    }
+}

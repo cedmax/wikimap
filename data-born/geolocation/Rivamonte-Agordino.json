@@ -1,0 +1,27 @@
+{
+    "id": "place.18036784618227800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rivamonte Agordino",
+    "place_name": "Rivamonte Agordino, Belluno, Italy",
+    "bbox": [
+        11.994641,
+        46.211566,
+        12.085726,
+        46.273053
+    ],
+    "center": [
+        12.02389,
+        46.25389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.02389,
+            46.25389
+        ]
+    }
+}

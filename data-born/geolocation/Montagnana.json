@@ -1,0 +1,27 @@
+{
+    "id": "place.15252567826429540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montagnana",
+    "place_name": "Montagnana, Padova, Italy",
+    "bbox": [
+        11.390844,
+        45.201672,
+        11.561681,
+        45.266155
+    ],
+    "center": [
+        11.45,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.45,
+            45.23333
+        ]
+    }
+}

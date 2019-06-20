@@ -1,0 +1,27 @@
+{
+    "id": "place.10635609350906970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Predazzo",
+    "place_name": "Predazzo, Trento, Italy",
+    "bbox": [
+        11.555948,
+        46.25504,
+        11.750407,
+        46.383846
+    ],
+    "center": [
+        11.6,
+        46.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            46.31667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2045978862497500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Esine",
+    "place_name": "Esine, Brescia, Italy",
+    "bbox": [
+        10.210311,
+        45.845717,
+        10.310148,
+        45.933146
+    ],
+    "center": [
+        10.25167,
+        45.92639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.25167,
+            45.92639
+        ]
+    }
+}

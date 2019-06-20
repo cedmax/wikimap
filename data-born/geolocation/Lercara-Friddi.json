@@ -1,0 +1,27 @@
+{
+    "id": "place.10907088711065730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lercara Friddi",
+    "place_name": "Lercara Friddi, Palermo, Italy",
+    "bbox": [
+        13.540446,
+        37.705445,
+        13.668624,
+        37.783267
+    ],
+    "center": [
+        13.6,
+        37.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.6,
+            37.75
+        ]
+    }
+}

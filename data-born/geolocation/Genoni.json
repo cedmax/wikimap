@@ -1,0 +1,27 @@
+{
+    "id": "place.12402982783107870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genoni",
+    "place_name": "Genoni, Oristano, Italy",
+    "bbox": [
+        8.881293,
+        39.754873,
+        9.042736,
+        39.827911
+    ],
+    "center": [
+        9.00699,
+        39.7939
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.00699,
+            39.7939
+        ]
+    }
+}

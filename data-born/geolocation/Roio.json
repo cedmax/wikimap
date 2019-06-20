@@ -1,0 +1,27 @@
+{
+    "id": "place.13814586461655810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.9375,
+    "text": "Rolo",
+    "place_name": "Rolo, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.840891,
+        44.864906,
+        10.897254,
+        44.921555
+    ],
+    "center": [
+        10.85,
+        44.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            44.88333
+        ]
+    }
+}

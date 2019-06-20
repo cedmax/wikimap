@@ -1,0 +1,27 @@
+{
+    "id": "place.2632252280006370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Radicondoli",
+    "place_name": "Radicondoli, Siena, Italy",
+    "bbox": [
+        10.908343,
+        43.160138,
+        11.117978,
+        43.292143
+    ],
+    "center": [
+        11.05,
+        43.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.05,
+            43.26667
+        ]
+    }
+}

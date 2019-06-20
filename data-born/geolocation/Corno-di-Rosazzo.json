@@ -1,0 +1,27 @@
+{
+    "id": "place.8939394127294290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corno di Rosazzo",
+    "place_name": "Corno di Rosazzo, Udine, Italy",
+    "bbox": [
+        13.420537,
+        45.968563,
+        13.468848,
+        46.025564
+    ],
+    "center": [
+        13.45,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.45,
+            45.98333
+        ]
+    }
+}

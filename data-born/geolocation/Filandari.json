@@ -1,0 +1,27 @@
+{
+    "id": "place.12749408950079250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Filandari",
+    "place_name": "Filandari, Vibo Valentia, Italy",
+    "bbox": [
+        15.967851,
+        38.58927,
+        16.059642,
+        38.650024
+    ],
+    "center": [
+        16.03333,
+        38.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.03333,
+            38.61667
+        ]
+    }
+}

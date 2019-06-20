@@ -1,0 +1,27 @@
+{
+    "id": "place.7387913968240440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corleto Perticara",
+    "place_name": "Corleto Perticara, Potenza, Italy",
+    "bbox": [
+        15.9476,
+        40.352612,
+        16.114402,
+        40.461356
+    ],
+    "center": [
+        16.05,
+        40.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.05,
+            40.38333
+        ]
+    }
+}

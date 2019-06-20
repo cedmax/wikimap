@@ -1,0 +1,27 @@
+{
+    "id": "place.10682417759263180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caorso",
+    "place_name": "Caorso, Piacenza, Italy",
+    "bbox": [
+        9.795749,
+        45.019515,
+        9.911074,
+        45.098244
+    ],
+    "center": [
+        9.86667,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            45.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11775346445173190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zibido San Giacomo",
+    "place_name": "Zibido San Giacomo, Milano, Italy",
+    "bbox": [
+        9.070006,
+        45.338218,
+        9.147747,
+        45.408228
+    ],
+    "center": [
+        9.11667,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.11667,
+            45.36667
+        ]
+    }
+}

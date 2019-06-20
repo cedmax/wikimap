@@ -1,0 +1,27 @@
+{
+    "id": "place.10626356201382870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corigliano Calabro",
+    "place_name": "Corigliano Calabro, Cosenza, Italy",
+    "bbox": [
+        16.332889,
+        39.483809,
+        16.573373,
+        39.72393
+    ],
+    "center": [
+        16.51667,
+        39.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.51667,
+            39.6
+        ]
+    }
+}

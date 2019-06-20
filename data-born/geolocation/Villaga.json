@@ -1,0 +1,27 @@
+{
+    "id": "place.15036799831536690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villaga",
+    "place_name": "Villaga, Vicenza, Italy",
+    "bbox": [
+        11.482661,
+        45.357416,
+        11.567706,
+        45.42416
+    ],
+    "center": [
+        11.53333,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53333,
+            45.4
+        ]
+    }
+}

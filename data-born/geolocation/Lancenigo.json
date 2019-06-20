@@ -1,0 +1,23 @@
+{
+    "id": "poi.2422361558899",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.98,
+    "text": "Stazione di Lancenigo",
+    "place_name": "Stazione di Lancenigo, Via Libertà, 18, Villorba, Treviso 31020, Italy",
+    "matching_text": "Lancenigo",
+    "matching_place_name": "Lancenigo, Via Libertà, 18, Villorba, Treviso 31020, Italy",
+    "center": [
+        12.265650999999998,
+        45.710111
+    ],
+    "geometry": {
+        "coordinates": [
+            12.265650999999998,
+            45.710111
+        ],
+        "type": "Point"
+    }
+}

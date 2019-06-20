@@ -1,0 +1,27 @@
+{
+    "id": "place.12437310607724490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zafferana Etnea",
+    "place_name": "Zafferana Etnea, Catania, Italy",
+    "bbox": [
+        14.994247,
+        37.651059,
+        15.130125,
+        37.759549
+    ],
+    "center": [
+        15.1,
+        37.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.1,
+            37.68333
+        ]
+    }
+}

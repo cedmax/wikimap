@@ -1,0 +1,27 @@
+{
+    "id": "place.7171963438600640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Cesareo",
+    "place_name": "San Cesareo, Roma, Italy",
+    "bbox": [
+        12.738864,
+        41.800683,
+        12.832855,
+        41.862756
+    ],
+    "center": [
+        12.8,
+        41.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            41.81667
+        ]
+    }
+}

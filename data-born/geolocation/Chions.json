@@ -1,0 +1,27 @@
+{
+    "id": "place.10860741919723250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chions",
+    "place_name": "Chions, Pordenone, Italy",
+    "bbox": [
+        12.6849,
+        45.826624,
+        12.81758,
+        45.915296
+    ],
+    "center": [
+        12.71667,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            45.85
+        ]
+    }
+}

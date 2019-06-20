@@ -1,0 +1,27 @@
+{
+    "id": "place.14972965992489940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavriglia",
+    "place_name": "Cavriglia, Arezzo, Italy",
+    "bbox": [
+        11.397507,
+        43.478969,
+        11.52221,
+        43.587024
+    ],
+    "center": [
+        11.48644,
+        43.52157
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.48644,
+            43.52157
+        ]
+    }
+}

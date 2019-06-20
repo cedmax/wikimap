@@ -1,0 +1,27 @@
+{
+    "id": "place.11193570910190240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Collebeato",
+    "place_name": "Collebeato, Brescia, Italy",
+    "bbox": [
+        10.189566,
+        45.569842,
+        10.222369,
+        45.601069
+    ],
+    "center": [
+        10.21667,
+        45.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.21667,
+            45.58333
+        ]
+    }
+}

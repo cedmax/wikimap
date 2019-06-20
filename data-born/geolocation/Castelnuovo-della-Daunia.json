@@ -1,0 +1,27 @@
+{
+    "id": "place.11800152070996320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo della Daunia",
+    "place_name": "Castelnuovo della Daunia, Foggia, Italy",
+    "bbox": [
+        15.084015,
+        41.555792,
+        15.233985,
+        41.696279
+    ],
+    "center": [
+        15.11667,
+        41.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            41.58333
+        ]
+    }
+}

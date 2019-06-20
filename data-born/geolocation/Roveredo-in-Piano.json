@@ -1,0 +1,27 @@
+{
+    "id": "place.11329418462096180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roveredo in Piano",
+    "place_name": "Roveredo in Piano, Pordenone, Italy",
+    "bbox": [
+        12.579412,
+        45.976174,
+        12.633881,
+        46.042289
+    ],
+    "center": [
+        12.61667,
+        46.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            46.01667
+        ]
+    }
+}

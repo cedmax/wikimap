@@ -1,0 +1,27 @@
+{
+    "id": "place.6475671579776900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossacesia",
+    "place_name": "Fossacesia, Chieti, Italy",
+    "bbox": [
+        14.421602,
+        42.206605,
+        14.543154,
+        42.264974
+    ],
+    "center": [
+        14.48333,
+        42.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.48333,
+            42.25
+        ]
+    }
+}

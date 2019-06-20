@@ -1,0 +1,27 @@
+{
+    "id": "place.8306308717621550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorbo Serpico",
+    "place_name": "Sorbo Serpico, Avellino, Italy",
+    "bbox": [
+        14.858101,
+        40.887493,
+        14.924961,
+        40.921224
+    ],
+    "center": [
+        14.88333,
+        40.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.88333,
+            40.91667
+        ]
+    }
+}

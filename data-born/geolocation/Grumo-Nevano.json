@@ -1,0 +1,27 @@
+{
+    "id": "place.11919570038497810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grumo Nevano",
+    "place_name": "Grumo Nevano, Napoli, Italy",
+    "bbox": [
+        14.250162,
+        40.920794,
+        14.269033,
+        40.949245
+    ],
+    "center": [
+        14.26667,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.26667,
+            40.93333
+        ]
+    }
+}

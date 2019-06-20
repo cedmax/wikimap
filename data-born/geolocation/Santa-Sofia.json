@@ -1,0 +1,23 @@
+{
+    "id": "poi.3152506026025",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "chiesa di Santa Sofia",
+    "place_name": "chiesa di Santa Sofia, Via Santa Sofia, Padova, Padova 35121, Italy",
+    "matching_text": "Santa Sofia",
+    "matching_place_name": "Santa Sofia, Via Santa Sofia, Padova, Padova 35121, Italy",
+    "center": [
+        11.883915,
+        45.4060375
+    ],
+    "geometry": {
+        "coordinates": [
+            11.883915,
+            45.4060375
+        ],
+        "type": "Point"
+    }
+}

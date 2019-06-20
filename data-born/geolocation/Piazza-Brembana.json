@@ -1,0 +1,27 @@
+{
+    "id": "place.11600090818421670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piazza Brembana",
+    "place_name": "Piazza Brembana, Bergamo, Italy",
+    "bbox": [
+        9.632035,
+        45.931147,
+        9.683965,
+        45.9671
+    ],
+    "center": [
+        9.675,
+        45.94722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.675,
+            45.94722
+        ]
+    }
+}

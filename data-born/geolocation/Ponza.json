@@ -1,0 +1,21 @@
+{
+    "id": "poi.2422361584225",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ponza",
+    "place_name": "Ponza, Ponza, Ponza, Latina 04027, Italy",
+    "center": [
+        12.959381,
+        40.895285
+    ],
+    "geometry": {
+        "coordinates": [
+            12.959381,
+            40.895285
+        ],
+        "type": "Point"
+    }
+}

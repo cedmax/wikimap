@@ -1,0 +1,21 @@
+{
+    "id": "poi.3204045604882",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Bolognano",
+    "place_name": "Bolognano, Arco, Trento 38062, Italy",
+    "center": [
+        10.904146,
+        45.914367
+    ],
+    "geometry": {
+        "coordinates": [
+            10.904146,
+            45.914367
+        ],
+        "type": "Point"
+    }
+}

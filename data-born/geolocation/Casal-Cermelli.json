@@ -1,0 +1,27 @@
+{
+    "id": "place.6414249138917540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casal Cermelli",
+    "place_name": "Casal Cermelli, Alessandria, Italy",
+    "bbox": [
+        8.608255,
+        44.792916,
+        8.655885,
+        44.856221
+    ],
+    "center": [
+        8.62611,
+        44.83583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.62611,
+            44.83583
+        ]
+    }
+}

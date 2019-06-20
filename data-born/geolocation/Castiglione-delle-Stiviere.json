@@ -1,0 +1,27 @@
+{
+    "id": "place.9328447992146280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione delle Stiviere",
+    "place_name": "Castiglione delle Stiviere, Mantova, Italy",
+    "bbox": [
+        10.449888,
+        45.328921,
+        10.543396,
+        45.419071
+    ],
+    "center": [
+        10.5,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.5,
+            45.4
+        ]
+    }
+}

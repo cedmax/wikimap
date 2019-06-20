@@ -1,0 +1,27 @@
+{
+    "id": "place.12044411098605010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crescentino",
+    "place_name": "Crescentino, Vercelli, Italy",
+    "bbox": [
+        8.045476,
+        45.167945,
+        8.174967,
+        45.243154
+    ],
+    "center": [
+        8.0999,
+        45.1904
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.0999,
+            45.1904
+        ]
+    }
+}

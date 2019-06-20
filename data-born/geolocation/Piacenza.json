@@ -1,0 +1,27 @@
+{
+    "id": "place.2456905988115930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piacenza",
+    "place_name": "Piacenza, Piacenza, Italy",
+    "bbox": [
+        9.600021,
+        44.991975,
+        9.824547,
+        45.114014
+    ],
+    "center": [
+        9.7,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.7,
+            45.05
+        ]
+    }
+}

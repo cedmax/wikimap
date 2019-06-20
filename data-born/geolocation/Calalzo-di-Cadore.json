@@ -1,0 +1,27 @@
+{
+    "id": "place.15171940097117250",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calalzo di Cadore",
+    "place_name": "Calalzo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.254761,
+        46.433533,
+        12.396958,
+        46.506564
+    ],
+    "center": [
+        12.38333,
+        46.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38333,
+            46.45
+        ]
+    }
+}

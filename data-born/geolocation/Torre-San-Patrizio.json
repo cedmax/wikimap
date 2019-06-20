@@ -1,0 +1,27 @@
+{
+    "id": "place.14233673580272800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre San Patrizio",
+    "place_name": "Torre San Patrizio, Fermo, Italy",
+    "bbox": [
+        13.591608,
+        43.168933,
+        13.650728,
+        43.204648
+    ],
+    "center": [
+        13.611,
+        43.18397
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.611,
+            43.18397
+        ]
+    }
+}

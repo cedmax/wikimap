@@ -1,0 +1,21 @@
+{
+    "id": "address.881199776",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Porto Maurizio",
+    "place_name": "via Porto Maurizio, 00058 Santa Marinella Roma, Italy",
+    "center": [
+        11.870356,
+        42.044265
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.870356,
+            42.044265
+        ]
+    }
+}

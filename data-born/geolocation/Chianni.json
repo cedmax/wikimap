@@ -1,0 +1,27 @@
+{
+    "id": "place.9990922669484770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chianni",
+    "place_name": "Chianni, Pisa, Italy",
+    "bbox": [
+        10.586225,
+        43.404877,
+        10.713684,
+        43.517792
+    ],
+    "center": [
+        10.64278,
+        43.48194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.64278,
+            43.48194
+        ]
+    }
+}

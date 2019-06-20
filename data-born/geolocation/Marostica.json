@@ -1,0 +1,27 @@
+{
+    "id": "place.10470200186793070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marostica",
+    "place_name": "Marostica, Vicenza, Italy",
+    "bbox": [
+        11.587746,
+        45.701474,
+        11.6955,
+        45.798713
+    ],
+    "center": [
+        11.65528,
+        45.74556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.65528,
+            45.74556
+        ]
+    }
+}

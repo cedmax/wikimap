@@ -1,0 +1,27 @@
+{
+    "id": "place.9275928732868210",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sarnano",
+    "place_name": "Sarnano, Macerata, Italy",
+    "bbox": [
+        13.221035,
+        42.964624,
+        13.371723,
+        43.064108
+    ],
+    "center": [
+        13.30073,
+        43.03561
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.30073,
+            43.03561
+        ]
+    }
+}

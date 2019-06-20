@@ -1,0 +1,27 @@
+{
+    "id": "place.10047418762694760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Jelsi",
+    "place_name": "Jelsi, Campobasso, Italy",
+    "bbox": [
+        14.766599,
+        41.463434,
+        14.833874,
+        41.555328
+    ],
+    "center": [
+        14.8,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.8,
+            41.51667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10744828931541770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Settimo Vittone",
+    "place_name": "Settimo Vittone, Torino, Italy",
+    "bbox": [
+        7.812247,
+        45.528525,
+        7.895201,
+        45.600407
+    ],
+    "center": [
+        7.83333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.83333,
+            45.55
+        ]
+    }
+}

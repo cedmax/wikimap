@@ -1,0 +1,27 @@
+{
+    "id": "place.15264677377038900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Asciano",
+    "place_name": "Asciano, Siena, Italy",
+    "bbox": [
+        11.379433,
+        43.153516,
+        11.673213,
+        43.323861
+    ],
+    "center": [
+        11.56083,
+        43.23417
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.56083,
+            43.23417
+        ]
+    }
+}

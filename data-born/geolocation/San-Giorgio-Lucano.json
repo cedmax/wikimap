@@ -1,0 +1,27 @@
+{
+    "id": "place.7175109316124490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio Lucano",
+    "place_name": "San Giorgio Lucano, Matera, Italy",
+    "bbox": [
+        16.350645,
+        40.055351,
+        16.421105,
+        40.153965
+    ],
+    "center": [
+        16.38333,
+        40.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.38333,
+            40.11667
+        ]
+    }
+}

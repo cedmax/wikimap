@@ -1,0 +1,27 @@
+{
+    "id": "place.14564058619404550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Joppolo Giancaxio",
+    "place_name": "Joppolo Giancaxio, Agrigento, Italy",
+    "bbox": [
+        13.54212,
+        37.332725,
+        13.591428,
+        37.425895
+    ],
+    "center": [
+        13.55611,
+        37.38806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.55611,
+            37.38806
+        ]
+    }
+}

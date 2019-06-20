@@ -1,0 +1,27 @@
+{
+    "id": "place.7326886243228080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orte",
+    "place_name": "Orte, Viterbo, Italy",
+    "bbox": [
+        12.305129,
+        42.387029,
+        12.468138,
+        42.499215
+    ],
+    "center": [
+        12.38611,
+        42.46028
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.38611,
+            42.46028
+        ]
+    }
+}

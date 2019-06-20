@@ -1,0 +1,27 @@
+{
+    "id": "place.12137828859386950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro di Cadore",
+    "place_name": "San Pietro di Cadore, Belluno, Italy",
+    "bbox": [
+        12.559029,
+        46.566973,
+        12.662348,
+        46.661887
+    ],
+    "center": [
+        12.58333,
+        46.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58333,
+            46.56667
+        ]
+    }
+}

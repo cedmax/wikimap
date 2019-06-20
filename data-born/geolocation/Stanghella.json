@@ -1,0 +1,27 @@
+{
+    "id": "place.1885500313008360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stanghella",
+    "place_name": "Stanghella, Padova, Italy",
+    "bbox": [
+        11.714428,
+        45.116549,
+        11.804426,
+        45.183764
+    ],
+    "center": [
+        11.75,
+        45.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75,
+            45.13333
+        ]
+    }
+}

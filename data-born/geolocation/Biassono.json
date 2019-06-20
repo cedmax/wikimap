@@ -1,0 +1,27 @@
+{
+    "id": "place.5410704094540950",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Biassono",
+    "place_name": "Biassono, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.253677,
+        45.61175,
+        9.300429,
+        45.642919
+    ],
+    "center": [
+        9.27444,
+        45.63056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.27444,
+            45.63056
+        ]
+    }
+}

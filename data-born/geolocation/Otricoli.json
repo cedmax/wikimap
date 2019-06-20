@@ -1,0 +1,27 @@
+{
+    "id": "place.14050656079543040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Otricoli",
+    "place_name": "Otricoli, Terni, Italy",
+    "bbox": [
+        12.444339,
+        42.395221,
+        12.596166,
+        42.460858
+    ],
+    "center": [
+        12.48333,
+        42.41667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48333,
+            42.41667
+        ]
+    }
+}

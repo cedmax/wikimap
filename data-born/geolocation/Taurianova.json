@@ -1,0 +1,27 @@
+{
+    "id": "place.8531378941632710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Taurianova",
+    "place_name": "Taurianova, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.934181,
+        38.338309,
+        16.051132,
+        38.40633
+    ],
+    "center": [
+        16.01667,
+        38.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.01667,
+            38.35
+        ]
+    }
+}

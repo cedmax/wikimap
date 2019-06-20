@@ -1,0 +1,27 @@
+{
+    "id": "place.13612853205450400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lesa",
+    "place_name": "Lesa, Novara, Italy",
+    "bbox": [
+        8.536774,
+        45.797258,
+        8.599353,
+        45.855948
+    ],
+    "center": [
+        8.56667,
+        45.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56667,
+            45.83333
+        ]
+    }
+}

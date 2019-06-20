@@ -1,0 +1,27 @@
+{
+    "id": "place.8206420160197560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alviano",
+    "place_name": "Alviano, Terni, Italy",
+    "bbox": [
+        12.236174,
+        42.558328,
+        12.345889,
+        42.61832
+    ],
+    "center": [
+        12.3,
+        42.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.3,
+            42.58333
+        ]
+    }
+}

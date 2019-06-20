@@ -1,0 +1,27 @@
+{
+    "id": "place.8874381879488150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Povoletto",
+    "place_name": "Povoletto, Udine, Italy",
+    "bbox": [
+        13.255827,
+        46.088388,
+        13.32921,
+        46.193492
+    ],
+    "center": [
+        13.28333,
+        46.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.28333,
+            46.11667
+        ]
+    }
+}

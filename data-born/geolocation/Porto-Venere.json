@@ -1,0 +1,29 @@
+{
+    "id": "place.5897308197122100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portovenere",
+    "place_name": "Portovenere, La Spezia, Italy",
+    "matching_text": "Porto Venere",
+    "matching_place_name": "Porto Venere, La Spezia, Italy",
+    "bbox": [
+        9.803505,
+        44.024851,
+        9.855467,
+        44.083346
+    ],
+    "center": [
+        9.83333,
+        44.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.83333,
+            44.05
+        ]
+    }
+}

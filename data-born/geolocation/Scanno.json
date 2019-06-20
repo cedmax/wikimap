@@ -1,0 +1,27 @@
+{
+    "id": "place.11793371077053590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Scanno",
+    "place_name": "Scanno, L'Aquila, Italy",
+    "bbox": [
+        13.823919,
+        41.802805,
+        13.994014,
+        41.968273
+    ],
+    "center": [
+        13.87989,
+        41.90264
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.87989,
+            41.90264
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8993383195619620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aci Catena",
+    "place_name": "Aci Catena, Catania, Italy",
+    "bbox": [
+        15.129711,
+        37.562889,
+        15.160222,
+        37.620307
+    ],
+    "center": [
+        15.15,
+        37.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.15,
+            37.6
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3096249804841890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trevignano Romano",
+    "place_name": "Trevignano Romano, Roma, Italy",
+    "bbox": [
+        12.21915,
+        42.131638,
+        12.309047,
+        42.18166
+    ],
+    "center": [
+        12.25,
+        42.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.25,
+            42.15
+        ]
+    }
+}

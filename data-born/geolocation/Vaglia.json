@@ -1,0 +1,27 @@
+{
+    "id": "place.8372972395481370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vaglia",
+    "place_name": "Vaglia, Firenze, Italy",
+    "bbox": [
+        11.229832,
+        43.837949,
+        11.353897,
+        43.934447
+    ],
+    "center": [
+        11.28333,
+        43.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.28333,
+            43.91667
+        ]
+    }
+}

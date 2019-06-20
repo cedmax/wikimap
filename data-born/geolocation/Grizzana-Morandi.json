@@ -1,0 +1,27 @@
+{
+    "id": "place.12246412819013050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grizzana Morandi",
+    "place_name": "Grizzana Morandi, Bologna, Italy",
+    "bbox": [
+        11.025265,
+        44.199331,
+        11.197198,
+        44.313489
+    ],
+    "center": [
+        11.15,
+        44.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.15,
+            44.25
+        ]
+    }
+}

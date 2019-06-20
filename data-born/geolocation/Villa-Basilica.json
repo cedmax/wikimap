@@ -1,0 +1,27 @@
+{
+    "id": "place.16694397369829620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Basilica",
+    "place_name": "Villa Basilica, Lucca, Italy",
+    "bbox": [
+        10.591736,
+        43.910792,
+        10.675207,
+        43.986578
+    ],
+    "center": [
+        10.65,
+        43.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.65,
+            43.91667
+        ]
+    }
+}

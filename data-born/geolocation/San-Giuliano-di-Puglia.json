@@ -1,0 +1,27 @@
+{
+    "id": "place.8001259859955080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giuliano di Puglia",
+    "place_name": "San Giuliano di Puglia, Campobasso, Italy",
+    "bbox": [
+        14.928956,
+        41.652821,
+        15.1056,
+        41.707038
+    ],
+    "center": [
+        14.96667,
+        41.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.96667,
+            41.68333
+        ]
+    }
+}

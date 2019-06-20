@@ -1,0 +1,27 @@
+{
+    "id": "place.10058508890093180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Soncino",
+    "place_name": "Soncino, Cremona, Italy",
+    "bbox": [
+        9.807131,
+        45.351194,
+        9.893445,
+        45.457696
+    ],
+    "center": [
+        9.86667,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.86667,
+            45.4
+        ]
+    }
+}

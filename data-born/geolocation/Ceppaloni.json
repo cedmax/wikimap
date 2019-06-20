@@ -1,0 +1,27 @@
+{
+    "id": "place.8924685476417180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ceppaloni",
+    "place_name": "Ceppaloni, Benevento, Italy",
+    "bbox": [
+        14.711164,
+        41.02145,
+        14.780819,
+        41.083332
+    ],
+    "center": [
+        14.76667,
+        41.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.76667,
+            41.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10602202322680550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bitti",
+    "place_name": "Bitti, Nuoro, Italy",
+    "bbox": [
+        9.276627,
+        40.442681,
+        9.529394,
+        40.65964
+    ],
+    "center": [
+        9.38167,
+        40.475
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.38167,
+            40.475
+        ]
+    }
+}

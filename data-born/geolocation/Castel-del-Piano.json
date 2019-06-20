@@ -1,0 +1,27 @@
+{
+    "id": "place.4499275454433450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel del Piano",
+    "place_name": "Castel del Piano, Grosseto, Italy",
+    "bbox": [
+        11.420593,
+        42.877326,
+        11.624398,
+        42.981274
+    ],
+    "center": [
+        11.53944,
+        42.89083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.53944,
+            42.89083
+        ]
+    }
+}

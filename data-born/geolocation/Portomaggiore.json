@@ -1,0 +1,27 @@
+{
+    "id": "place.10771708444430310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Portomaggiore",
+    "place_name": "Portomaggiore, Ferrara, Italy",
+    "bbox": [
+        11.731144,
+        44.649379,
+        11.976572,
+        44.759066
+    ],
+    "center": [
+        11.8,
+        44.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.8,
+            44.7
+        ]
+    }
+}

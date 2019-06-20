@@ -1,0 +1,27 @@
+{
+    "id": "place.8683343685014370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marcianise",
+    "place_name": "Marcianise, Caserta, Italy",
+    "bbox": [
+        14.230898,
+        41.000256,
+        14.355935,
+        41.043429
+    ],
+    "center": [
+        14.3,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3,
+            41.03333
+        ]
+    }
+}

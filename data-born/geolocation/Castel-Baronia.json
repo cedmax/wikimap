@@ -1,0 +1,27 @@
+{
+    "id": "place.5282589919934510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Baronia",
+    "place_name": "Castel Baronia, Avellino, Italy",
+    "bbox": [
+        15.143489,
+        41.020415,
+        15.209336,
+        41.069504
+    ],
+    "center": [
+        15.18972,
+        41.04833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.18972,
+            41.04833
+        ]
+    }
+}

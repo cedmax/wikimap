@@ -1,0 +1,27 @@
+{
+    "id": "place.5949459359390610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ischia di Castro",
+    "place_name": "Ischia di Castro, Viterbo, Italy",
+    "bbox": [
+        11.558684,
+        42.482219,
+        11.800809,
+        42.577141
+    ],
+    "center": [
+        11.75694,
+        42.545
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75694,
+            42.545
+        ]
+    }
+}

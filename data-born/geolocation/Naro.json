@@ -1,0 +1,27 @@
+{
+    "id": "place.19210352052711000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Naro",
+    "place_name": "Naro, Agrigento, Italy",
+    "bbox": [
+        13.697119,
+        37.204347,
+        13.994984,
+        37.347706
+    ],
+    "center": [
+        13.8,
+        37.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.8,
+            37.3
+        ]
+    }
+}

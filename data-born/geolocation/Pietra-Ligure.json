@@ -1,0 +1,27 @@
+{
+    "id": "place.9113316656587290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietra Ligure",
+    "place_name": "Pietra Ligure, Savona, Italy",
+    "bbox": [
+        8.188094,
+        44.139134,
+        8.303038,
+        44.177522
+    ],
+    "center": [
+        8.28282,
+        44.14875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.28282,
+            44.14875
+        ]
+    }
+}

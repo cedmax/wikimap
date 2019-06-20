@@ -1,0 +1,27 @@
+{
+    "id": "place.11015479520379560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gesturi",
+    "place_name": "Gesturi, Medio Campidano, Italy",
+    "bbox": [
+        8.936105,
+        39.696821,
+        9.074048,
+        39.782699
+    ],
+    "center": [
+        9.01667,
+        39.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01667,
+            39.73333
+        ]
+    }
+}

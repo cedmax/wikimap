@@ -1,0 +1,27 @@
+{
+    "id": "place.6636761925873690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnoli di Sopra",
+    "place_name": "Bagnoli di Sopra, Padova, Italy",
+    "bbox": [
+        11.846841,
+        45.151829,
+        11.9526,
+        45.210096
+    ],
+    "center": [
+        11.88333,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            45.18333
+        ]
+    }
+}

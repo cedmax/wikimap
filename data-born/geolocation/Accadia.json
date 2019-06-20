@@ -1,0 +1,27 @@
+{
+    "id": "place.11908766603385220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Accadia",
+    "place_name": "Accadia, Foggia, Italy",
+    "bbox": [
+        15.282664,
+        41.148742,
+        15.36423,
+        41.217861
+    ],
+    "center": [
+        15.33333,
+        41.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.33333,
+            41.16667
+        ]
+    }
+}

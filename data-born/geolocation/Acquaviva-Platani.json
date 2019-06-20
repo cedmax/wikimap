@@ -1,0 +1,27 @@
+{
+    "id": "place.9171926137079890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Acquaviva Platani",
+    "place_name": "Acquaviva Platani, Caltanissetta, Italy",
+    "bbox": [
+        13.667395,
+        37.538532,
+        13.724323,
+        37.587606
+    ],
+    "center": [
+        13.7,
+        37.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.7,
+            37.56667
+        ]
+    }
+}

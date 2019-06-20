@@ -1,0 +1,21 @@
+{
+    "id": "poi.2070174267068",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ardesio",
+    "place_name": "Ardesio, Ardesio, Bergamo 24020, Italy",
+    "center": [
+        9.9302075,
+        45.9397455
+    ],
+    "geometry": {
+        "coordinates": [
+            9.9302075,
+            45.9397455
+        ],
+        "type": "Point"
+    }
+}

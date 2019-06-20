@@ -1,0 +1,27 @@
+{
+    "id": "place.6267070393000000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tornimparte",
+    "place_name": "Tornimparte, L'Aquila, Italy",
+    "bbox": [
+        13.227238,
+        42.222924,
+        13.335432,
+        42.347469
+    ],
+    "center": [
+        13.30083,
+        42.29639
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.30083,
+            42.29639
+        ]
+    }
+}

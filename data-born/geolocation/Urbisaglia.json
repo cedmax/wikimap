@@ -1,0 +1,27 @@
+{
+    "id": "place.8692008897028820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Urbisaglia",
+    "place_name": "Urbisaglia, Macerata, Italy",
+    "bbox": [
+        13.347497,
+        43.179322,
+        13.439422,
+        43.229576
+    ],
+    "center": [
+        13.37734,
+        43.19726
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.37734,
+            43.19726
+        ]
+    }
+}

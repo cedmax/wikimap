@@ -1,0 +1,21 @@
+{
+    "id": "address.1264435897",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.7566666666666666,
+    "text": "via Sicilia",
+    "place_name": "via Sicilia, 08020 San Teodoro Olbia-Tempio, Italy",
+    "center": [
+        9.667006,
+        40.768156
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.667006,
+            40.768156
+        ]
+    }
+}

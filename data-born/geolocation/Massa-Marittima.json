@@ -1,0 +1,27 @@
+{
+    "id": "place.10235173144620070",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massa Marittima",
+    "place_name": "Massa Marittima, Grosseto, Italy",
+    "bbox": [
+        10.754094,
+        42.958872,
+        11.048257,
+        43.14272
+    ],
+    "center": [
+        10.89361,
+        43.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.89361,
+            43.05
+        ]
+    }
+}

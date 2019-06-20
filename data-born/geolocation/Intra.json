@@ -1,0 +1,21 @@
+{
+    "id": "poi.2319282410045",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.95,
+    "text": "Intera",
+    "place_name": "Intera, Via Fratelli Lumiere 46/A, Ravenna, Ravenna 48124, Italy",
+    "center": [
+        12.137838,
+        44.415093
+    ],
+    "geometry": {
+        "coordinates": [
+            12.137838,
+            44.415093
+        ],
+        "type": "Point"
+    }
+}

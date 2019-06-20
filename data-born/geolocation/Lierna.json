@@ -1,0 +1,27 @@
+{
+    "id": "place.14112619705789750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lierna",
+    "place_name": "Lierna, Lecco, Italy",
+    "bbox": [
+        9.284818,
+        45.941782,
+        9.356307,
+        45.977924
+    ],
+    "center": [
+        9.3051,
+        45.9581
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3051,
+            45.9581
+        ]
+    }
+}

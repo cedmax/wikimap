@@ -1,0 +1,27 @@
+{
+    "id": "place.8546167296840300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Senorbì",
+    "place_name": "Senorbì, Cagliari, Italy",
+    "bbox": [
+        9.108059,
+        39.485345,
+        9.177401,
+        39.581952
+    ],
+    "center": [
+        9.13333,
+        39.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.13333,
+            39.53333
+        ]
+    }
+}

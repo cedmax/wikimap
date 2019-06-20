@@ -1,0 +1,27 @@
+{
+    "id": "place.9599113862191790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Pietro in Cariano",
+    "place_name": "San Pietro in Cariano, Verona, Italy",
+    "bbox": [
+        10.859858,
+        45.480158,
+        10.936132,
+        45.533705
+    ],
+    "center": [
+        10.88333,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.88333,
+            45.51667
+        ]
+    }
+}

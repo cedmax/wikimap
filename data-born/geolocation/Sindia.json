@@ -1,0 +1,27 @@
+{
+    "id": "place.4345280407422790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sindia",
+    "place_name": "Sindia, Nuoro, Italy",
+    "bbox": [
+        8.611519,
+        40.249199,
+        8.731933,
+        40.331209
+    ],
+    "center": [
+        8.65,
+        40.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.65,
+            40.3
+        ]
+    }
+}

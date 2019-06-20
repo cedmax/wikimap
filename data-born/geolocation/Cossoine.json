@@ -1,0 +1,27 @@
+{
+    "id": "place.16661184211370610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cossoine",
+    "place_name": "Cossoine, Sassari, Italy",
+    "bbox": [
+        8.592945,
+        40.400915,
+        8.73666,
+        40.483297
+    ],
+    "center": [
+        8.71551,
+        40.43042
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71551,
+            40.43042
+        ]
+    }
+}

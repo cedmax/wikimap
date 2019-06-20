@@ -1,0 +1,27 @@
+{
+    "id": "place.15096907243871580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cordenons",
+    "place_name": "Cordenons, Pordenone, Italy",
+    "bbox": [
+        12.657337,
+        45.945406,
+        12.793631,
+        46.061838
+    ],
+    "center": [
+        12.7,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.7,
+            45.98333
+        ]
+    }
+}

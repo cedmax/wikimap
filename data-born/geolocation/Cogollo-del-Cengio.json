@@ -1,0 +1,27 @@
+{
+    "id": "place.12532123213787540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cogollo del Cengio",
+    "place_name": "Cogollo del Cengio, Vicenza, Italy",
+    "bbox": [
+        11.365407,
+        45.769266,
+        11.459914,
+        45.853948
+    ],
+    "center": [
+        11.4269,
+        45.7856
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4269,
+            45.7856
+        ]
+    }
+}

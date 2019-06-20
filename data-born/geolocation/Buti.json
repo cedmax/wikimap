@@ -1,0 +1,21 @@
+{
+    "id": "poi.3281355027701",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Buti",
+    "place_name": "Buti, Buti, Pisa 56032, Italy",
+    "center": [
+        10.586258,
+        43.728702999999996
+    ],
+    "geometry": {
+        "coordinates": [
+            10.586258,
+            43.728702999999996
+        ],
+        "type": "Point"
+    }
+}

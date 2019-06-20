@@ -1,0 +1,27 @@
+{
+    "id": "place.9613484477094630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzanego",
+    "place_name": "Mezzanego, Genova, Italy",
+    "bbox": [
+        9.350538,
+        44.365975,
+        9.45596,
+        44.418502
+    ],
+    "center": [
+        9.37729,
+        44.38369
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.37729,
+            44.38369
+        ]
+    }
+}

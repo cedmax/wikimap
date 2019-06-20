@@ -1,0 +1,27 @@
+{
+    "id": "place.5203064225766470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Petina",
+    "place_name": "Petina, Salerno, Italy",
+    "bbox": [
+        15.328186,
+        40.493462,
+        15.423843,
+        40.570763
+    ],
+    "center": [
+        15.36667,
+        40.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.36667,
+            40.53333
+        ]
+    }
+}

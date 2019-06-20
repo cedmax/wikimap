@@ -1,0 +1,27 @@
+{
+    "id": "place.7290436529841380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villamarzana",
+    "place_name": "Villamarzana, Rovigo, Italy",
+    "bbox": [
+        11.660051,
+        44.993958,
+        11.712852,
+        45.042571
+    ],
+    "center": [
+        11.68333,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68333,
+            45.01667
+        ]
+    }
+}

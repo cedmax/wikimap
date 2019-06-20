@@ -1,0 +1,27 @@
+{
+    "id": "place.15471849064785050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Oriolo Romano",
+    "place_name": "Oriolo Romano, Roma, Italy",
+    "bbox": [
+        12.085087,
+        42.147172,
+        12.169631,
+        42.201893
+    ],
+    "center": [
+        12.13333,
+        42.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            42.15
+        ]
+    }
+}

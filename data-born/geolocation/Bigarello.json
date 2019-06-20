@@ -1,0 +1,27 @@
+{
+    "id": "place.12117568984108670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bigarello",
+    "place_name": "Bigarello, Mantova, Italy",
+    "bbox": [
+        10.860876,
+        45.155337,
+        10.960299,
+        45.213647
+    ],
+    "center": [
+        10.9,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.9,
+            45.18333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14119678284256800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Galliate",
+    "place_name": "Galliate, Novara, Italy",
+    "bbox": [
+        8.651572,
+        45.456597,
+        8.789624,
+        45.521687
+    ],
+    "center": [
+        8.7,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.7,
+            45.48333
+        ]
+    }
+}

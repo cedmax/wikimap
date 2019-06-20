@@ -1,0 +1,27 @@
+{
+    "id": "place.6485332189655310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzojuso",
+    "place_name": "Mezzojuso, Palermo, Italy",
+    "bbox": [
+        13.428046,
+        37.824203,
+        13.536807,
+        37.907987
+    ],
+    "center": [
+        13.46667,
+        37.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.46667,
+            37.86667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5938820327526050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capriate San Gervasio",
+    "place_name": "Capriate San Gervasio, Bergamo, Italy",
+    "bbox": [
+        9.513756,
+        45.584595,
+        9.545631,
+        45.635732
+    ],
+    "center": [
+        9.52806,
+        45.60889
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.52806,
+            45.60889
+        ]
+    }
+}

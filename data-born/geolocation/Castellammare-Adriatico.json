@@ -1,0 +1,21 @@
+{
+    "id": "address.324384948",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.9891304347826086,
+    "text": "via Castellamare Adriatico",
+    "place_name": "via Castellamare Adriatico, 65123 Pescara Pescara, Italy",
+    "center": [
+        14.193915,
+        42.483671
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.193915,
+            42.483671
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7586315987423170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Foglianise",
+    "place_name": "Foglianise, Benevento, Italy",
+    "bbox": [
+        14.658053,
+        41.142151,
+        14.717807,
+        41.173836
+    ],
+    "center": [
+        14.67028,
+        41.16361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.67028,
+            41.16361
+        ]
+    }
+}

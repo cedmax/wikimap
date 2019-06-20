@@ -1,0 +1,27 @@
+{
+    "id": "place.13120265563061680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campomarino",
+    "place_name": "Campomarino, Campobasso, Italy",
+    "bbox": [
+        14.989739,
+        41.85615,
+        15.141462,
+        41.979949
+    ],
+    "center": [
+        15.03444,
+        41.95667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.03444,
+            41.95667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2491081106697",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Blevio",
+    "place_name": "Blevio, Blevio, Como 22020, Italy",
+    "center": [
+        9.101702,
+        45.837762
+    ],
+    "geometry": {
+        "coordinates": [
+            9.101702,
+            45.837762
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8068440769227320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ciriè",
+    "place_name": "Ciriè, Torino, Italy",
+    "bbox": [
+        7.553034,
+        45.192818,
+        7.627649,
+        45.247951
+    ],
+    "center": [
+        7.6,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6,
+            45.23333
+        ]
+    }
+}

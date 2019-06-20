@@ -1,0 +1,27 @@
+{
+    "id": "place.8452226129940650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pellio Intelvi",
+    "place_name": "Pellio Intelvi, Como, Italy",
+    "bbox": [
+        9.012164,
+        45.938072,
+        9.072357,
+        45.988057
+    ],
+    "center": [
+        9.06667,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06667,
+            45.98333
+        ]
+    }
+}

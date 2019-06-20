@@ -1,0 +1,21 @@
+{
+    "id": "poi.2345052172706",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Perledo",
+    "place_name": "Perledo, Perledo, Lecco 23828, Italy",
+    "center": [
+        9.293782,
+        46.0154165
+    ],
+    "geometry": {
+        "coordinates": [
+            9.293782,
+            46.0154165
+        ],
+        "type": "Point"
+    }
+}

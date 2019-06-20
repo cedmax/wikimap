@@ -1,0 +1,21 @@
+{
+    "id": "poi.1752346663560",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Taverna",
+    "place_name": "Taverna, Campione d'Italia, Como 22060, Italy",
+    "center": [
+        8.970689,
+        45.96877
+    ],
+    "geometry": {
+        "coordinates": [
+            8.970689,
+            45.96877
+        ],
+        "type": "Point"
+    }
+}

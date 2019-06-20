@@ -1,0 +1,21 @@
+{
+    "id": "poi.2491081032644",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Soragna",
+    "place_name": "Soragna, Soragna, Parma 43019, Italy",
+    "center": [
+        10.123837,
+        44.9264555
+    ],
+    "geometry": {
+        "coordinates": [
+            10.123837,
+            44.9264555
+        ],
+        "type": "Point"
+    }
+}

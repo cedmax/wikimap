@@ -1,0 +1,27 @@
+{
+    "id": "place.9605890846420680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gavoi",
+    "place_name": "Gavoi, Nuoro, Italy",
+    "bbox": [
+        9.15532,
+        40.103046,
+        9.280526,
+        40.187801
+    ],
+    "center": [
+        9.2,
+        40.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.2,
+            40.16667
+        ]
+    }
+}

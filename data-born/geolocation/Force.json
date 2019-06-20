@@ -1,0 +1,27 @@
+{
+    "id": "place.8858319726073700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Force",
+    "place_name": "Force, Ascoli Piceno, Italy",
+    "bbox": [
+        13.445439,
+        42.926615,
+        13.543143,
+        42.99311
+    ],
+    "center": [
+        13.49103,
+        42.96333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.49103,
+            42.96333
+        ]
+    }
+}

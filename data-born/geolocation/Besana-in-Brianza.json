@@ -1,0 +1,27 @@
+{
+    "id": "place.4905789431831640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Besana in Brianza",
+    "place_name": "Besana in Brianza, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.245216,
+        45.667719,
+        9.303841,
+        45.721712
+    ],
+    "center": [
+        9.28333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28333,
+            45.7
+        ]
+    }
+}

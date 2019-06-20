@@ -1,0 +1,27 @@
+{
+    "id": "place.14123982468326010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Petralia Soprana",
+    "place_name": "Petralia Soprana, Palermo, Italy",
+    "bbox": [
+        14.065183,
+        37.722131,
+        14.176056,
+        37.860338
+    ],
+    "center": [
+        14.1076,
+        37.8006
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1076,
+            37.8006
+        ]
+    }
+}

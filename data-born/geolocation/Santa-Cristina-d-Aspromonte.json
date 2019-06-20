@@ -1,0 +1,27 @@
+{
+    "id": "place.4429586487372410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Cristina d'Aspromonte",
+    "place_name": "Santa Cristina d'Aspromonte, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.943503,
+        38.200742,
+        16.00792,
+        38.285746
+    ],
+    "center": [
+        15.96667,
+        38.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.96667,
+            38.25
+        ]
+    }
+}

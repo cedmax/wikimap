@@ -1,0 +1,27 @@
+{
+    "id": "place.12979898422969960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corbola",
+    "place_name": "Corbola, Rovigo, Italy",
+    "bbox": [
+        12.067823,
+        44.977778,
+        12.161975,
+        45.020645
+    ],
+    "center": [
+        12.08333,
+        45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08333,
+            45
+        ]
+    }
+}

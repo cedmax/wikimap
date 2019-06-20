@@ -1,0 +1,27 @@
+{
+    "id": "place.11735831871627520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Langosco",
+    "place_name": "Langosco, Pavia, Italy",
+    "bbox": [
+        8.522578,
+        45.193408,
+        8.594779,
+        45.238463
+    ],
+    "center": [
+        8.56667,
+        45.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56667,
+            45.21667
+        ]
+    }
+}

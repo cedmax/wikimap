@@ -1,0 +1,27 @@
+{
+    "id": "place.14718904816915240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Agnone",
+    "place_name": "Agnone, Isernia, Italy",
+    "bbox": [
+        14.291892,
+        41.725188,
+        14.455296,
+        41.879629
+    ],
+    "center": [
+        14.3785,
+        41.8104
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.3785,
+            41.8104
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10708496201650920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Lazzaro di Savena",
+    "place_name": "San Lazzaro di Savena, Bologna, Italy",
+    "bbox": [
+        11.358428,
+        44.405556,
+        11.48656,
+        44.490646
+    ],
+    "center": [
+        11.4,
+        44.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4,
+            44.46667
+        ]
+    }
+}

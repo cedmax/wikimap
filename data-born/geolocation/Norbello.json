@@ -1,0 +1,27 @@
+{
+    "id": "place.9820925147894570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Norbello",
+    "place_name": "Norbello, Oristano, Italy",
+    "bbox": [
+        8.739341,
+        40.128681,
+        8.858867,
+        40.196467
+    ],
+    "center": [
+        8.8325,
+        40.13556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.8325,
+            40.13556
+        ]
+    }
+}

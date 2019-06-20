@@ -1,0 +1,27 @@
+{
+    "id": "place.9179078924440770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fara in Sabina",
+    "place_name": "Fara in Sabina, Rieti, Italy",
+    "bbox": [
+        12.634478,
+        42.150381,
+        12.757312,
+        42.228543
+    ],
+    "center": [
+        12.73333,
+        42.21667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73333,
+            42.21667
+        ]
+    }
+}

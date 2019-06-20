@@ -1,0 +1,27 @@
+{
+    "id": "place.11060698272028820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bettona",
+    "place_name": "Bettona, Perugia, Italy",
+    "bbox": [
+        12.456309,
+        42.945236,
+        12.554297,
+        43.053037
+    ],
+    "center": [
+        12.48333,
+        43.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.48333,
+            43.01667
+        ]
+    }
+}

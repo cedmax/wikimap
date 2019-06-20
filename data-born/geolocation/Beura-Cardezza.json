@@ -1,0 +1,27 @@
+{
+    "id": "place.14467623848552590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Beura-Cardezza",
+    "place_name": "Beura-Cardezza, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.265487,
+        46.030846,
+        8.379188,
+        46.093002
+    ],
+    "center": [
+        8.3,
+        46.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.3,
+            46.08333
+        ]
+    }
+}

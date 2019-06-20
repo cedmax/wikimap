@@ -1,0 +1,27 @@
+{
+    "id": "place.10707208792176570",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ala",
+    "place_name": "Ala, Trento, Italy",
+    "bbox": [
+        10.960588,
+        45.680184,
+        11.146483,
+        45.828608
+    ],
+    "center": [
+        11,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11,
+            45.75
+        ]
+    }
+}

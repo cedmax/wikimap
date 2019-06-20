@@ -1,0 +1,27 @@
+{
+    "id": "place.2201854094765460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vallo della Lucania",
+    "place_name": "Vallo della Lucania, Salerno, Italy",
+    "bbox": [
+        15.201296,
+        40.199553,
+        15.320721,
+        40.254541
+    ],
+    "center": [
+        15.26667,
+        40.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.26667,
+            40.23333
+        ]
+    }
+}

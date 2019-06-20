@@ -1,0 +1,27 @@
+{
+    "id": "place.14770589399858400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bompietro",
+    "place_name": "Bompietro, Palermo, Italy",
+    "bbox": [
+        14.065112,
+        37.627839,
+        14.182593,
+        37.761561
+    ],
+    "center": [
+        14.1,
+        37.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.1,
+            37.75
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7625076768143660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Diso",
+    "place_name": "Diso, Lecce, Italy",
+    "bbox": [
+        18.359629,
+        39.974412,
+        18.416621,
+        40.02357
+    ],
+    "center": [
+        18.4,
+        40.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.4,
+            40.01667
+        ]
+    }
+}

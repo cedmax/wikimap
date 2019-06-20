@@ -1,0 +1,27 @@
+{
+    "id": "place.12311121005455460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capoterra",
+    "place_name": "Capoterra, Cagliari, Italy",
+    "bbox": [
+        8.893688,
+        39.101713,
+        9.029423,
+        39.19293
+    ],
+    "center": [
+        8.98333,
+        39.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.98333,
+            39.16667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.15871390198784470",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Eufemia d'Aspromonte",
+    "place_name": "Sant'Eufemia d'Aspromonte, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.80975,
+        38.162637,
+        15.877738,
+        38.27561
+    ],
+    "center": [
+        15.86667,
+        38.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.86667,
+            38.26667
+        ]
+    }
+}

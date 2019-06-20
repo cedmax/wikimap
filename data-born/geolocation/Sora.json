@@ -1,0 +1,27 @@
+{
+    "id": "place.10532665670834960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sora",
+    "place_name": "Sora, Frosinone, Italy",
+    "bbox": [
+        13.50302,
+        41.687829,
+        13.655023,
+        41.77841
+    ],
+    "center": [
+        13.61667,
+        41.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.61667,
+            41.71667
+        ]
+    }
+}

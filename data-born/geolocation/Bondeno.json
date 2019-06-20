@@ -1,0 +1,27 @@
+{
+    "id": "place.8361093417782590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bondeno",
+    "place_name": "Bondeno, Ferrara, Italy",
+    "bbox": [
+        11.234087,
+        44.831138,
+        11.49523,
+        44.962279
+    ],
+    "center": [
+        11.41542,
+        44.88944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.41542,
+            44.88944
+        ]
+    }
+}

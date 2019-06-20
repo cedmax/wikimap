@@ -1,0 +1,27 @@
+{
+    "id": "place.5508679252651110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caprese Michelangelo",
+    "place_name": "Caprese Michelangelo, Arezzo, Italy",
+    "bbox": [
+        11.914541,
+        43.589017,
+        12.040544,
+        43.690236
+    ],
+    "center": [
+        11.98583,
+        43.64083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.98583,
+            43.64083
+        ]
+    }
+}

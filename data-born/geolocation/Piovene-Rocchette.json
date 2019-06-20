@@ -1,0 +1,27 @@
+{
+    "id": "place.9040406555029380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piovene Rocchette",
+    "place_name": "Piovene Rocchette, Vicenza, Italy",
+    "bbox": [
+        11.39236,
+        45.729098,
+        11.451167,
+        45.777454
+    ],
+    "center": [
+        11.43333,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43333,
+            45.76667
+        ]
+    }
+}

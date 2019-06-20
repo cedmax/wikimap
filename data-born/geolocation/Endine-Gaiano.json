@@ -1,0 +1,27 @@
+{
+    "id": "place.5865966213185190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Endine Gaiano",
+    "place_name": "Endine Gaiano, Bergamo, Italy",
+    "bbox": [
+        9.939553,
+        45.753321,
+        10.019106,
+        45.812893
+    ],
+    "center": [
+        9.96667,
+        45.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.96667,
+            45.78333
+        ]
+    }
+}

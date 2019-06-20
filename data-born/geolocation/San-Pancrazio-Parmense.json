@@ -1,0 +1,21 @@
+{
+    "id": "address.1073823543",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "via San Pancrazio",
+    "place_name": "via San Pancrazio, 50026 San Casciano in Val di Pesa Firenze, Italy",
+    "center": [
+        11.139892,
+        43.627145
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.139892,
+            43.627145
+        ]
+    }
+}

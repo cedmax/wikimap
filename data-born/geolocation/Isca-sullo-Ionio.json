@@ -1,0 +1,27 @@
+{
+    "id": "place.10594579821594520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Isca sullo Ionio",
+    "place_name": "Isca sullo Ionio, Catanzaro, Italy",
+    "bbox": [
+        16.436499,
+        38.566391,
+        16.569446,
+        38.613431
+    ],
+    "center": [
+        16.51667,
+        38.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.51667,
+            38.6
+        ]
+    }
+}

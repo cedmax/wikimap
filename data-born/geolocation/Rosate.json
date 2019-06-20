@@ -1,0 +1,27 @@
+{
+    "id": "place.14416906686523980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosate",
+    "place_name": "Rosate, Milano, Italy",
+    "bbox": [
+        8.974015,
+        45.333117,
+        9.070153,
+        45.373569
+    ],
+    "center": [
+        9.01667,
+        45.33333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01667,
+            45.33333
+        ]
+    }
+}

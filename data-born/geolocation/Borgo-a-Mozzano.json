@@ -1,0 +1,27 @@
+{
+    "id": "place.13945425396154960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgo a Mozzano",
+    "place_name": "Borgo a Mozzano, Lucca, Italy",
+    "bbox": [
+        10.443621,
+        43.922249,
+        10.595833,
+        44.03147
+    ],
+    "center": [
+        10.54667,
+        43.97972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.54667,
+            43.97972
+        ]
+    }
+}

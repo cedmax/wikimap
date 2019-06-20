@@ -1,0 +1,27 @@
+{
+    "id": "place.10181330194534810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Burcei",
+    "place_name": "Burcei, Cagliari, Italy",
+    "bbox": [
+        9.331221,
+        39.306043,
+        9.470592,
+        39.424152
+    ],
+    "center": [
+        9.36667,
+        39.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.36667,
+            39.35
+        ]
+    }
+}

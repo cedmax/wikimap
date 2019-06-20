@@ -1,0 +1,21 @@
+{
+    "id": "poi.3118146259883",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Briatico",
+    "place_name": "Briatico, Briatico, Vibo Valentia 89817, Italy",
+    "center": [
+        16.036055,
+        38.723769
+    ],
+    "geometry": {
+        "coordinates": [
+            16.036055,
+            38.723769
+        ],
+        "type": "Point"
+    }
+}

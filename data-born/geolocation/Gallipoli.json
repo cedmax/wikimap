@@ -1,0 +1,27 @@
+{
+    "id": "place.17270284574484800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gallipoli",
+    "place_name": "Gallipoli, Lecce, Italy",
+    "bbox": [
+        17.94495,
+        39.970443,
+        18.078207,
+        40.114131
+    ],
+    "center": [
+        18.05,
+        40.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.05,
+            40.06667
+        ]
+    }
+}

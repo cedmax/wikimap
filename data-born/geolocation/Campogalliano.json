@@ -1,0 +1,27 @@
+{
+    "id": "place.9216801756096330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Campogalliano",
+    "place_name": "Campogalliano, Modena, Italy",
+    "bbox": [
+        10.806605,
+        44.656188,
+        10.885562,
+        44.745569
+    ],
+    "center": [
+        10.8389,
+        44.69038
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.8389,
+            44.69038
+        ]
+    }
+}

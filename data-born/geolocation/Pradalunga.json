@@ -1,0 +1,27 @@
+{
+    "id": "place.8339677329343600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pradalunga",
+    "place_name": "Pradalunga, Bergamo, Italy",
+    "bbox": [
+        9.764343,
+        45.724068,
+        9.819053,
+        45.753262
+    ],
+    "center": [
+        9.78306,
+        45.74667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.78306,
+            45.74667
+        ]
+    }
+}

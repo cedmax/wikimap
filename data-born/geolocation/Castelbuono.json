@@ -1,0 +1,21 @@
+{
+    "id": "poi.2327872291948",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Castelbuono",
+    "place_name": "Castelbuono, Via S.Anna, Castelbuono, Palermo 90013, Italy",
+    "center": [
+        14.087972,
+        37.931493
+    ],
+    "geometry": {
+        "coordinates": [
+            14.087972,
+            37.931493
+        ],
+        "type": "Point"
+    }
+}

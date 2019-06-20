@@ -1,0 +1,27 @@
+{
+    "id": "place.9521313064153760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rogliano",
+    "place_name": "Rogliano, Cosenza, Italy",
+    "bbox": [
+        16.311199,
+        39.15121,
+        16.484013,
+        39.197944
+    ],
+    "center": [
+        16.31667,
+        39.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.31667,
+            39.18333
+        ]
+    }
+}

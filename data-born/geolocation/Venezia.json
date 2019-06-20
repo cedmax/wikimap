@@ -1,0 +1,27 @@
+{
+    "id": "place.16384211250128910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venezia",
+    "place_name": "Venezia, Venezia, Italy",
+    "bbox": [
+        12.166754,
+        45.233288,
+        12.597087,
+        45.577962
+    ],
+    "center": [
+        12.33194,
+        45.43972
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33194,
+            45.43972
+        ]
+    }
+}

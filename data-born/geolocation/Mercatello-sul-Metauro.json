@@ -1,0 +1,27 @@
+{
+    "id": "place.9750370714339920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mercatello sul Metauro",
+    "place_name": "Mercatello sul Metauro, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.255894,
+        43.586038,
+        12.41608,
+        43.684676
+    ],
+    "center": [
+        12.33683,
+        43.6474
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.33683,
+            43.6474
+        ]
+    }
+}

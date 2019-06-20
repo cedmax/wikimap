@@ -1,0 +1,27 @@
+{
+    "id": "place.11975658808275090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belmonte Castello",
+    "place_name": "Belmonte Castello, Frosinone, Italy",
+    "bbox": [
+        13.781261,
+        41.55379,
+        13.838495,
+        41.603429
+    ],
+    "center": [
+        13.81667,
+        41.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.81667,
+            41.58333
+        ]
+    }
+}

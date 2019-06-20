@@ -1,0 +1,27 @@
+{
+    "id": "place.9605795366015380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cengio",
+    "place_name": "Cengio, Savona, Italy",
+    "bbox": [
+        8.148436,
+        44.369409,
+        8.247621,
+        44.425957
+    ],
+    "center": [
+        8.20846,
+        44.38775
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.20846,
+            44.38775
+        ]
+    }
+}

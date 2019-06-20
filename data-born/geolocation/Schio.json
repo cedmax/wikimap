@@ -1,0 +1,27 @@
+{
+    "id": "place.11459746984818890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Schio",
+    "place_name": "Schio, Vicenza, Italy",
+    "bbox": [
+        11.287727,
+        45.668368,
+        11.426869,
+        45.778617
+    ],
+    "center": [
+        11.36667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.36667,
+            45.71667
+        ]
+    }
+}

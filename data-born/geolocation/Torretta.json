@@ -1,0 +1,27 @@
+{
+    "id": "place.8073398868141790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torretta",
+    "place_name": "Torretta, Palermo, Italy",
+    "bbox": [
+        13.205121,
+        38.099835,
+        13.275611,
+        38.199033
+    ],
+    "center": [
+        13.23333,
+        38.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23333,
+            38.13333
+        ]
+    }
+}

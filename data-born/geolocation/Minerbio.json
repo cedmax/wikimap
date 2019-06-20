@@ -1,0 +1,27 @@
+{
+    "id": "place.10456332648898660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Minerbio",
+    "place_name": "Minerbio, Bologna, Italy",
+    "bbox": [
+        11.429608,
+        44.585408,
+        11.574954,
+        44.647241
+    ],
+    "center": [
+        11.47167,
+        44.6175
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47167,
+            44.6175
+        ]
+    }
+}

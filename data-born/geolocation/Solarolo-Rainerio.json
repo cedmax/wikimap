@@ -1,0 +1,27 @@
+{
+    "id": "place.9947551115756080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solarolo Rainerio",
+    "place_name": "Solarolo Rainerio, Cremona, Italy",
+    "bbox": [
+        10.32966,
+        45.042797,
+        10.366509,
+        45.108318
+    ],
+    "center": [
+        10.35,
+        45.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.35,
+            45.08333
+        ]
+    }
+}

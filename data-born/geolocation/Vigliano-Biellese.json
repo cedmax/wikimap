@@ -1,0 +1,27 @@
+{
+    "id": "place.13003701031582600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigliano Biellese",
+    "place_name": "Vigliano Biellese, Biella, Italy",
+    "bbox": [
+        8.084667,
+        45.545248,
+        8.145369,
+        45.5784
+    ],
+    "center": [
+        8.11167,
+        45.56167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.11167,
+            45.56167
+        ]
+    }
+}

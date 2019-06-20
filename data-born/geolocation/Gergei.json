@@ -1,0 +1,27 @@
+{
+    "id": "place.6650111930991870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gergei",
+    "place_name": "Gergei, Cagliari, Italy",
+    "bbox": [
+        9.047623,
+        39.65773,
+        9.118877,
+        39.746158
+    ],
+    "center": [
+        9.1,
+        39.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1,
+            39.7
+        ]
+    }
+}

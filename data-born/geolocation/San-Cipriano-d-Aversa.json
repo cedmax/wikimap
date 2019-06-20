@@ -1,0 +1,27 @@
+{
+    "id": "place.5853584317276540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Cipriano d'Aversa",
+    "place_name": "San Cipriano d'Aversa, Caserta, Italy",
+    "bbox": [
+        14.09856,
+        40.978489,
+        14.148679,
+        41.005828
+    ],
+    "center": [
+        14.122385,
+        40.991495
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.122385,
+            40.991495
+        ]
+    }
+}

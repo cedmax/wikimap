@@ -1,0 +1,27 @@
+{
+    "id": "place.11733633014572300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tavarnelle Val di Pesa",
+    "place_name": "Tavarnelle Val di Pesa, Firenze, Italy",
+    "bbox": [
+        11.143378,
+        43.526973,
+        11.273958,
+        43.606041
+    ],
+    "center": [
+        11.17286,
+        43.56144
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.17286,
+            43.56144
+        ]
+    }
+}

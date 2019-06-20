@@ -1,0 +1,27 @@
+{
+    "id": "place.6625552485849760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bisignano",
+    "place_name": "Bisignano, Cosenza, Italy",
+    "bbox": [
+        16.211062,
+        39.478404,
+        16.355192,
+        39.574081
+    ],
+    "center": [
+        16.28333,
+        39.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.28333,
+            39.51667
+        ]
+    }
+}

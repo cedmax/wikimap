@@ -1,0 +1,27 @@
+{
+    "id": "place.17597995820586370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lacco Ameno",
+    "place_name": "Lacco Ameno, Napoli, Italy",
+    "bbox": [
+        13.877846,
+        40.736182,
+        13.898133,
+        40.759639
+    ],
+    "center": [
+        13.88333,
+        40.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88333,
+            40.75
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6415183991417680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelsardo",
+    "place_name": "Castelsardo, Sassari, Italy",
+    "bbox": [
+        8.63085,
+        40.865231,
+        8.801066,
+        40.918761
+    ],
+    "center": [
+        8.71278,
+        40.91444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.71278,
+            40.91444
+        ]
+    }
+}

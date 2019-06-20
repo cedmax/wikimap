@@ -1,0 +1,27 @@
+{
+    "id": "place.10794479486201780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giorgio della Richinvelda",
+    "place_name": "San Giorgio della Richinvelda, Pordenone, Italy",
+    "bbox": [
+        12.791538,
+        46.001025,
+        12.916406,
+        46.078461
+    ],
+    "center": [
+        12.86667,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.86667,
+            46.05
+        ]
+    }
+}

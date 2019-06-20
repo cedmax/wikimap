@@ -1,0 +1,27 @@
+{
+    "id": "place.2691213726594930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Parrano",
+    "place_name": "Parrano, Terni, Italy",
+    "bbox": [
+        12.08196,
+        42.820678,
+        12.18715,
+        42.893048
+    ],
+    "center": [
+        12.11667,
+        42.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            42.86667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13967832510577390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Masio",
+    "place_name": "Masio, Alessandria, Italy",
+    "bbox": [
+        8.376234,
+        44.841374,
+        8.463443,
+        44.891129
+    ],
+    "center": [
+        8.40889,
+        44.87056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.40889,
+            44.87056
+        ]
+    }
+}

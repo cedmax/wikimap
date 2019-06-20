@@ -1,0 +1,27 @@
+{
+    "id": "place.16722033515849130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Palena",
+    "place_name": "Palena, Chieti, Italy",
+    "bbox": [
+        14.079698,
+        41.886135,
+        14.187521,
+        42.047381
+    ],
+    "center": [
+        14.13417,
+        41.98167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.13417,
+            41.98167
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13769323817129130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quartucciu",
+    "place_name": "Quartucciu, Cagliari, Italy",
+    "bbox": [
+        9.153703,
+        39.236777,
+        9.383989,
+        39.287041
+    ],
+    "center": [
+        9.18333,
+        39.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.18333,
+            39.25
+        ]
+    }
+}

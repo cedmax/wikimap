@@ -1,0 +1,27 @@
+{
+    "id": "place.11116645762025970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caprarola",
+    "place_name": "Caprarola, Viterbo, Italy",
+    "bbox": [
+        12.13112,
+        42.281931,
+        12.298053,
+        42.363831
+    ],
+    "center": [
+        12.23667,
+        42.3275
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.23667,
+            42.3275
+        ]
+    }
+}

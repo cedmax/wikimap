@@ -1,0 +1,27 @@
+{
+    "id": "place.11852116871534260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Meda",
+    "place_name": "Meda, Monza E Della Brianza, Italy",
+    "bbox": [
+        9.138453,
+        45.648245,
+        9.180067,
+        45.68627
+    ],
+    "center": [
+        9.16667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16667,
+            45.66667
+        ]
+    }
+}

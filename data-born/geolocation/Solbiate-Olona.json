@@ -1,0 +1,27 @@
+{
+    "id": "place.14517099336107780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solbiate Olona",
+    "place_name": "Solbiate Olona, Varese, Italy",
+    "bbox": [
+        8.852489,
+        45.639898,
+        8.892681,
+        45.659439
+    ],
+    "center": [
+        8.88333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88333,
+            45.65
+        ]
+    }
+}

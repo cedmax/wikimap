@@ -1,0 +1,27 @@
+{
+    "id": "place.15283485921956180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camporgiano",
+    "place_name": "Camporgiano, Lucca, Italy",
+    "bbox": [
+        10.271437,
+        44.109874,
+        10.381397,
+        44.176047
+    ],
+    "center": [
+        10.33444,
+        44.16083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.33444,
+            44.16083
+        ]
+    }
+}

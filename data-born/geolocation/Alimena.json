@@ -1,0 +1,27 @@
+{
+    "id": "place.11676785139423520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alimena",
+    "place_name": "Alimena, Palermo, Italy",
+    "bbox": [
+        14.0566,
+        37.611496,
+        14.176201,
+        37.73644
+    ],
+    "center": [
+        14.11667,
+        37.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.11667,
+            37.7
+        ]
+    }
+}

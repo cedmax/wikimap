@@ -1,0 +1,27 @@
+{
+    "id": "place.12390360544099040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Barzanò",
+    "place_name": "Barzanò, Lecco, Italy",
+    "bbox": [
+        9.297549,
+        45.715161,
+        9.326354,
+        45.745383
+    ],
+    "center": [
+        9.31667,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.73333
+        ]
+    }
+}

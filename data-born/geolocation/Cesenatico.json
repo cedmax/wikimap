@@ -1,0 +1,27 @@
+{
+    "id": "place.7042953609419780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesenatico",
+    "place_name": "Cesenatico, Forli'-Cesena, Italy",
+    "bbox": [
+        12.332842,
+        44.129267,
+        12.437587,
+        44.224342
+    ],
+    "center": [
+        12.41667,
+        44.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.41667,
+            44.2
+        ]
+    }
+}

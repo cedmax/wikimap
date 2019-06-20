@@ -1,0 +1,27 @@
+{
+    "id": "place.7942822358805390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dernice",
+    "place_name": "Dernice, Alessandria, Italy",
+    "bbox": [
+        9.005876,
+        44.734034,
+        9.073551,
+        44.788324
+    ],
+    "center": [
+        9.05139,
+        44.7675
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.05139,
+            44.7675
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.13189727251909270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Budoia",
+    "place_name": "Budoia, Pordenone, Italy",
+    "bbox": [
+        12.456458,
+        46.012428,
+        12.575439,
+        46.114824
+    ],
+    "center": [
+        12.53333,
+        46.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.53333,
+            46.05
+        ]
+    }
+}

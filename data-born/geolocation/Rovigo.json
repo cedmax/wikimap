@@ -1,0 +1,27 @@
+{
+    "id": "place.9564142459509120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rovigo",
+    "place_name": "Rovigo, Rovigo, Italy",
+    "bbox": [
+        11.676413,
+        45.012968,
+        11.919228,
+        45.129491
+    ],
+    "center": [
+        11.78333,
+        45.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.78333,
+            45.06667
+        ]
+    }
+}

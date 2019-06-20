@@ -1,0 +1,27 @@
+{
+    "id": "place.9634183288165300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chiusa Sclafani",
+    "place_name": "Chiusa Sclafani, Palermo, Italy",
+    "bbox": [
+        13.232377,
+        37.611502,
+        13.363964,
+        37.71786
+    ],
+    "center": [
+        13.26667,
+        37.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.26667,
+            37.68333
+        ]
+    }
+}

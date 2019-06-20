@@ -1,0 +1,27 @@
+{
+    "id": "place.5477282705683760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosarno",
+    "place_name": "Rosarno, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.918568,
+        38.431868,
+        16.036204,
+        38.50838
+    ],
+    "center": [
+        15.97972,
+        38.485
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.97972,
+            38.485
+        ]
+    }
+}

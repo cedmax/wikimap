@@ -1,0 +1,27 @@
+{
+    "id": "place.2541732133756440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mezzano",
+    "place_name": "Mezzano, Trento, Italy",
+    "bbox": [
+        11.719704,
+        46.107119,
+        11.905713,
+        46.225014
+    ],
+    "center": [
+        11.808,
+        46.1547
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.808,
+            46.1547
+        ]
+    }
+}

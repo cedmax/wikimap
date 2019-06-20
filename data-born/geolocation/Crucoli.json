@@ -1,0 +1,27 @@
+{
+    "id": "place.10646671187999980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crucoli",
+    "place_name": "Crucoli, Crotone, Italy",
+    "bbox": [
+        16.953803,
+        39.388916,
+        17.052662,
+        39.482272
+    ],
+    "center": [
+        17.00333,
+        39.42361
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.00333,
+            39.42361
+        ]
+    }
+}

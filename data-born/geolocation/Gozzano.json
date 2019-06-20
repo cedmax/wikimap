@@ -1,0 +1,27 @@
+{
+    "id": "place.10396142882201700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gozzano",
+    "place_name": "Gozzano, Novara, Italy",
+    "bbox": [
+        8.39483,
+        45.72433,
+        8.464477,
+        45.770449
+    ],
+    "center": [
+        8.43333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43333,
+            45.75
+        ]
+    }
+}

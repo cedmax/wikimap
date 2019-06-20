@@ -1,0 +1,27 @@
+{
+    "id": "place.11546461366996630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varallo",
+    "place_name": "Varallo, Vercelli, Italy",
+    "bbox": [
+        8.179446,
+        45.765734,
+        8.336017,
+        45.895632
+    ],
+    "center": [
+        8.25814,
+        45.81383
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.25814,
+            45.81383
+        ]
+    }
+}

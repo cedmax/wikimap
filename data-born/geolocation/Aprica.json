@@ -1,0 +1,27 @@
+{
+    "id": "place.8064752923278640",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Aprica",
+    "place_name": "Aprica, Sondrio, Italy",
+    "bbox": [
+        10.105568,
+        46.091696,
+        10.175078,
+        46.161227
+    ],
+    "center": [
+        10.13333,
+        46.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.13333,
+            46.15
+        ]
+    }
+}

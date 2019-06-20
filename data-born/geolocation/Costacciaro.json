@@ -1,0 +1,27 @@
+{
+    "id": "place.10724930393027690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Costacciaro",
+    "place_name": "Costacciaro, Perugia, Italy",
+    "bbox": [
+        12.647383,
+        43.331926,
+        12.759865,
+        43.398468
+    ],
+    "center": [
+        12.71667,
+        43.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.71667,
+            43.36667
+        ]
+    }
+}

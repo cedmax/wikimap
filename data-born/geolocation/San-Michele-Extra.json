@@ -1,0 +1,21 @@
+{
+    "id": "poi.2826088540359",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "San Michele",
+    "place_name": "San Michele, Lungotevere Ripa, 7, Roma, Roma 00153, Italy",
+    "center": [
+        12.477694,
+        41.886338
+    ],
+    "geometry": {
+        "coordinates": [
+            12.477694,
+            41.886338
+        ],
+        "type": "Point"
+    }
+}

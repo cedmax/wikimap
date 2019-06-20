@@ -1,0 +1,27 @@
+{
+    "id": "place.12616453312291750",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Passignano sul Trasimeno",
+    "place_name": "Passignano sul Trasimeno, Perugia, Italy",
+    "bbox": [
+        12.070101,
+        43.121929,
+        12.256063,
+        43.231384
+    ],
+    "center": [
+        12.13333,
+        43.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13333,
+            43.18333
+        ]
+    }
+}

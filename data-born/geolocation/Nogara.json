@@ -1,0 +1,27 @@
+{
+    "id": "place.3842978637332670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nogara",
+    "place_name": "Nogara, Verona, Italy",
+    "bbox": [
+        11.008053,
+        45.149869,
+        11.130376,
+        45.228768
+    ],
+    "center": [
+        11.06667,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.06667,
+            45.18333
+        ]
+    }
+}

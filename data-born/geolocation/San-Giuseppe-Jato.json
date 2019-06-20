@@ -1,0 +1,27 @@
+{
+    "id": "place.5074136589638450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Giuseppe Jato",
+    "place_name": "San Giuseppe Jato, Palermo, Italy",
+    "bbox": [
+        13.11703,
+        37.92616,
+        13.239038,
+        38.010433
+    ],
+    "center": [
+        13.18333,
+        37.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.18333,
+            37.96667
+        ]
+    }
+}

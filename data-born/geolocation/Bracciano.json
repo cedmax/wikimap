@@ -1,0 +1,27 @@
+{
+    "id": "place.9500208153027040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bracciano",
+    "place_name": "Bracciano, Roma, Italy",
+    "bbox": [
+        12.058792,
+        42.021349,
+        12.236209,
+        42.186806
+    ],
+    "center": [
+        12.18333,
+        42.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.18333,
+            42.1
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.1471591115707450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sannicola",
+    "place_name": "Sannicola, Lecce, Italy",
+    "bbox": [
+        18.005254,
+        40.069601,
+        18.09461,
+        40.121515
+    ],
+    "center": [
+        18.06667,
+        40.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.06667,
+            40.1
+        ]
+    }
+}

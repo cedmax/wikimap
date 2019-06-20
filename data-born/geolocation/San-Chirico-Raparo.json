@@ -1,0 +1,27 @@
+{
+    "id": "place.12715519531296600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Chirico Raparo",
+    "place_name": "San Chirico Raparo, Potenza, Italy",
+    "bbox": [
+        15.972979,
+        40.158072,
+        16.154175,
+        40.261459
+    ],
+    "center": [
+        16.08333,
+        40.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            40.18333
+        ]
+    }
+}

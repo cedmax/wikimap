@@ -1,0 +1,27 @@
+{
+    "id": "place.13476984893434600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Melazzo",
+    "place_name": "Melazzo, Alessandria, Italy",
+    "bbox": [
+        8.384174,
+        44.610957,
+        8.450595,
+        44.673934
+    ],
+    "center": [
+        8.42611,
+        44.645
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.42611,
+            44.645
+        ]
+    }
+}

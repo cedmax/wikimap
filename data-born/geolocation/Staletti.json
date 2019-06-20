@@ -1,0 +1,27 @@
+{
+    "id": "place.8787123412766660",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Stalettì",
+    "place_name": "Stalettì, Catanzaro, Italy",
+    "bbox": [
+        16.515218,
+        38.740176,
+        16.572652,
+        38.783236
+    ],
+    "center": [
+        16.53333,
+        38.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.53333,
+            38.76667
+        ]
+    }
+}

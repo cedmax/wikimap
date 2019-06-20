@@ -1,0 +1,27 @@
+{
+    "id": "place.17278579531799260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Agata di Puglia",
+    "place_name": "Sant'Agata di Puglia, Foggia, Italy",
+    "bbox": [
+        15.277078,
+        41.085063,
+        15.495706,
+        41.194469
+    ],
+    "center": [
+        15.38083,
+        41.15278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.38083,
+            41.15278
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11003018659039190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelforte",
+    "place_name": "Castelforte, Latina, Italy",
+    "bbox": [
+        13.814002,
+        41.279811,
+        13.896024,
+        41.338854
+    ],
+    "center": [
+        13.83333,
+        41.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83333,
+            41.3
+        ]
+    }
+}

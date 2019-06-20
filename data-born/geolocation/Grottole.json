@@ -1,0 +1,27 @@
+{
+    "id": "place.6622571052590860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Grottole",
+    "place_name": "Grottole, Matera, Italy",
+    "bbox": [
+        16.306589,
+        40.563881,
+        16.459636,
+        40.707172
+    ],
+    "center": [
+        16.38333,
+        40.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.38333,
+            40.6
+        ]
+    }
+}

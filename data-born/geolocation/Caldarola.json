@@ -1,0 +1,27 @@
+{
+    "id": "place.8014141312736300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caldarola",
+    "place_name": "Caldarola, Macerata, Italy",
+    "bbox": [
+        13.155242,
+        43.09775,
+        13.24899,
+        43.153798
+    ],
+    "center": [
+        13.22514,
+        43.13817
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.22514,
+            43.13817
+        ]
+    }
+}

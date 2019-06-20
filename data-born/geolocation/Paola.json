@@ -1,0 +1,27 @@
+{
+    "id": "place.11936131077629690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paola",
+    "place_name": "Paola, Cosenza, Italy",
+    "bbox": [
+        16.020825,
+        39.32216,
+        16.098535,
+        39.398861
+    ],
+    "center": [
+        16.03333,
+        39.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.03333,
+            39.36667
+        ]
+    }
+}

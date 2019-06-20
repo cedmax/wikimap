@@ -1,0 +1,27 @@
+{
+    "id": "place.13529099142319040",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccavignale",
+    "place_name": "Roccavignale, Savona, Italy",
+    "bbox": [
+        8.136313,
+        44.323469,
+        8.198977,
+        44.375674
+    ],
+    "center": [
+        8.19282,
+        44.36164
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.19282,
+            44.36164
+        ]
+    }
+}

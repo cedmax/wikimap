@@ -1,0 +1,27 @@
+{
+    "id": "place.6097921953993060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gottasecca",
+    "place_name": "Gottasecca, Cuneo, Italy",
+    "bbox": [
+        8.149954,
+        44.440265,
+        8.211024,
+        44.481688
+    ],
+    "center": [
+        8.16667,
+        44.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.16667,
+            44.46667
+        ]
+    }
+}

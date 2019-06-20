@@ -1,0 +1,27 @@
+{
+    "id": "place.11064905858499730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lavis",
+    "place_name": "Lavis, Trento, Italy",
+    "bbox": [
+        11.074269,
+        46.123663,
+        11.136379,
+        46.182196
+    ],
+    "center": [
+        11.11667,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.11667,
+            46.13333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14241204539211630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rosignano Monferrato",
+    "place_name": "Rosignano Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.385093,
+        45.04035,
+        8.457319,
+        45.100505
+    ],
+    "center": [
+        8.40083,
+        45.08139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.40083,
+            45.08139
+        ]
+    }
+}

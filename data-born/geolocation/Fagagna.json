@@ -1,0 +1,27 @@
+{
+    "id": "place.5584406413782430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fagagna",
+    "place_name": "Fagagna, Udine, Italy",
+    "bbox": [
+        13.042487,
+        46.053406,
+        13.13356,
+        46.153007
+    ],
+    "center": [
+        13.08333,
+        46.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08333,
+            46.11667
+        ]
+    }
+}

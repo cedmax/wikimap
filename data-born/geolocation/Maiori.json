@@ -1,0 +1,27 @@
+{
+    "id": "place.2936608207579360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Maiori",
+    "place_name": "Maiori, Napoli, Italy",
+    "bbox": [
+        14.625164,
+        40.632529,
+        14.704201,
+        40.675679
+    ],
+    "center": [
+        14.63889,
+        40.64861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63889,
+            40.64861
+        ]
+    }
+}

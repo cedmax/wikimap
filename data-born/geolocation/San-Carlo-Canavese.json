@@ -1,0 +1,27 @@
+{
+    "id": "place.13474010616791100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Carlo Canavese",
+    "place_name": "San Carlo Canavese, Torino, Italy",
+    "bbox": [
+        7.578481,
+        45.228165,
+        7.656258,
+        45.282452
+    ],
+    "center": [
+        7.61667,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61667,
+            45.25
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.11487409469491120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vigo di Cadore",
+    "place_name": "Vigo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.451597,
+        46.456156,
+        12.663277,
+        46.53313
+    ],
+    "center": [
+        12.46667,
+        46.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.46667,
+            46.5
+        ]
+    }
+}

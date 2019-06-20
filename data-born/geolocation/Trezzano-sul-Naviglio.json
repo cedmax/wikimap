@@ -1,0 +1,27 @@
+{
+    "id": "place.11404243571089020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trezzano sul Naviglio",
+    "place_name": "Trezzano sul Naviglio, Milano, Italy",
+    "bbox": [
+        9.024471,
+        45.403587,
+        9.089571,
+        45.439984
+    ],
+    "center": [
+        9.06667,
+        45.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.06667,
+            45.43333
+        ]
+    }
+}

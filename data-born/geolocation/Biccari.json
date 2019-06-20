@@ -1,0 +1,27 @@
+{
+    "id": "place.13993444639327270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Biccari",
+    "place_name": "Biccari, Foggia, Italy",
+    "bbox": [
+        15.140079,
+        41.362764,
+        15.299854,
+        41.481875
+    ],
+    "center": [
+        15.2,
+        41.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.2,
+            41.4
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6472642847136080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Candiolo",
+    "place_name": "Candiolo, Torino, Italy",
+    "bbox": [
+        7.554043,
+        44.943952,
+        7.610682,
+        44.98896
+    ],
+    "center": [
+        7.6,
+        44.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6,
+            44.96667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5447105051883060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Verolanuova",
+    "place_name": "Verolanuova, Brescia, Italy",
+    "bbox": [
+        10.035199,
+        45.29994,
+        10.119271,
+        45.375058
+    ],
+    "center": [
+        10.07583,
+        45.32583
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.07583,
+            45.32583
+        ]
+    }
+}

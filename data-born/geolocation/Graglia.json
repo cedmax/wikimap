@@ -1,0 +1,27 @@
+{
+    "id": "place.18014736002294440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Graglia",
+    "place_name": "Graglia, Biella, Italy",
+    "bbox": [
+        7.893159,
+        45.529775,
+        7.986988,
+        45.606228
+    ],
+    "center": [
+        7.98333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98333,
+            45.55
+        ]
+    }
+}

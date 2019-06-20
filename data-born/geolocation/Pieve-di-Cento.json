@@ -1,0 +1,27 @@
+{
+    "id": "place.16640479586582460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve di Cento",
+    "place_name": "Pieve di Cento, Bologna, Italy",
+    "bbox": [
+        11.277495,
+        44.699261,
+        11.388908,
+        44.780326
+    ],
+    "center": [
+        11.30833,
+        44.71306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.30833,
+            44.71306
+        ]
+    }
+}

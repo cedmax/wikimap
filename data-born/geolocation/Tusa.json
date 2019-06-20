@@ -1,0 +1,27 @@
+{
+    "id": "place.16866967642378240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tusa",
+    "place_name": "Tusa, Messina, Italy",
+    "bbox": [
+        14.183791,
+        37.948281,
+        14.284878,
+        38.019361
+    ],
+    "center": [
+        14.23333,
+        37.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.23333,
+            37.98333
+        ]
+    }
+}

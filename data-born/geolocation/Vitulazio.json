@@ -1,0 +1,27 @@
+{
+    "id": "place.5393691330052230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vitulazio",
+    "place_name": "Vitulazio, Caserta, Italy",
+    "bbox": [
+        14.123947,
+        41.117817,
+        14.229989,
+        41.173513
+    ],
+    "center": [
+        14.21667,
+        41.16667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.21667,
+            41.16667
+        ]
+    }
+}

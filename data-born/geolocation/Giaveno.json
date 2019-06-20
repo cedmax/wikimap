@@ -1,0 +1,27 @@
+{
+    "id": "place.10559851339562200",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Giaveno",
+    "place_name": "Giaveno, Torino, Italy",
+    "bbox": [
+        7.21166,
+        44.979736,
+        7.384431,
+        45.071603
+    ],
+    "center": [
+        7.35,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.35,
+            45.03333
+        ]
+    }
+}

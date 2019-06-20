@@ -1,0 +1,27 @@
+{
+    "id": "place.12540481532730230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Nuraminis",
+    "place_name": "Nuraminis, Cagliari, Italy",
+    "bbox": [
+        8.960295,
+        39.403567,
+        9.065109,
+        39.477966
+    ],
+    "center": [
+        9.01667,
+        39.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.01667,
+            39.45
+        ]
+    }
+}

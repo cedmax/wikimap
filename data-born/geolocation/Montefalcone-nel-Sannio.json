@@ -1,0 +1,27 @@
+{
+    "id": "place.9941608510209430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montefalcone nel Sannio",
+    "place_name": "Montefalcone nel Sannio, Campobasso, Italy",
+    "bbox": [
+        14.604749,
+        41.820474,
+        14.694666,
+        41.888037
+    ],
+    "center": [
+        14.63333,
+        41.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63333,
+            41.86667
+        ]
+    }
+}

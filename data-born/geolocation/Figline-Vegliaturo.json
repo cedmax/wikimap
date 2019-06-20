@@ -1,0 +1,27 @@
+{
+    "id": "place.3937846364645690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Figline Vegliaturo",
+    "place_name": "Figline Vegliaturo, Cosenza, Italy",
+    "bbox": [
+        16.305186,
+        39.212558,
+        16.34192,
+        39.233807
+    ],
+    "center": [
+        16.33333,
+        39.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.33333,
+            39.23333
+        ]
+    }
+}

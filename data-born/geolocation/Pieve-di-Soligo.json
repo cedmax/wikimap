@@ -1,0 +1,27 @@
+{
+    "id": "place.4942603538934280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pieve di Soligo",
+    "place_name": "Pieve di Soligo, Treviso, Italy",
+    "bbox": [
+        12.147252,
+        45.863376,
+        12.202173,
+        45.940163
+    ],
+    "center": [
+        12.16667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.16667,
+            45.88333
+        ]
+    }
+}

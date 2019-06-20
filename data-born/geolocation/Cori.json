@@ -1,0 +1,27 @@
+{
+    "id": "place.12398409608567300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cori",
+    "place_name": "Cori, Latina, Italy",
+    "bbox": [
+        12.836526,
+        41.595519,
+        12.987457,
+        41.714089
+    ],
+    "center": [
+        12.91667,
+        41.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.91667,
+            41.65
+        ]
+    }
+}

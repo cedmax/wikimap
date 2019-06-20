@@ -1,0 +1,27 @@
+{
+    "id": "place.8684741772768180",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tropea",
+    "place_name": "Tropea, Vibo Valentia, Italy",
+    "bbox": [
+        15.871975,
+        38.658473,
+        15.914871,
+        38.683299
+    ],
+    "center": [
+        15.89694,
+        38.67806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.89694,
+            38.67806
+        ]
+    }
+}

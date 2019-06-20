@@ -1,0 +1,21 @@
+{
+    "id": "poi.2869038154162",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Vigone",
+    "place_name": "Vigone, Vigone, Torino 10067, Italy",
+    "center": [
+        7.4994335,
+        44.8484455
+    ],
+    "geometry": {
+        "coordinates": [
+            7.4994335,
+            44.8484455
+        ],
+        "type": "Point"
+    }
+}

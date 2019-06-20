@@ -1,0 +1,27 @@
+{
+    "id": "place.8211982787882160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mallare",
+    "place_name": "Mallare, Savona, Italy",
+    "bbox": [
+        8.249908,
+        44.256058,
+        8.332211,
+        44.326729
+    ],
+    "center": [
+        8.29761,
+        44.29161
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.29761,
+            44.29161
+        ]
+    }
+}

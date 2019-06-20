@@ -1,0 +1,27 @@
+{
+    "id": "place.13899100923516700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tresnuraghes",
+    "place_name": "Tresnuraghes, Oristano, Italy",
+    "bbox": [
+        8.4562,
+        40.175176,
+        8.54428,
+        40.25747
+    ],
+    "center": [
+        8.52076,
+        40.25289
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.52076,
+            40.25289
+        ]
+    }
+}

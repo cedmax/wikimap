@@ -1,0 +1,27 @@
+{
+    "id": "place.12036048210748140",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Laigueglia",
+    "place_name": "Laigueglia, Savona, Italy",
+    "bbox": [
+        8.146017,
+        43.954496,
+        8.174342,
+        43.993714
+    ],
+    "center": [
+        8.15831,
+        43.97451
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.15831,
+            43.97451
+        ]
+    }
+}

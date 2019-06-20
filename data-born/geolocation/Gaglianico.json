@@ -1,0 +1,27 @@
+{
+    "id": "place.7218964693823590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gaglianico",
+    "place_name": "Gaglianico, Biella, Italy",
+    "bbox": [
+        8.062034,
+        45.516743,
+        8.10155,
+        45.547951
+    ],
+    "center": [
+        8.11667,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.11667,
+            45.55
+        ]
+    }
+}

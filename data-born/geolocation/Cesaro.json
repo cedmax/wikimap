@@ -1,0 +1,27 @@
+{
+    "id": "place.3652750821017650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cesarò",
+    "place_name": "Cesarò, Messina, Italy",
+    "bbox": [
+        14.531787,
+        37.794966,
+        14.804736,
+        37.955858
+    ],
+    "center": [
+        14.71667,
+        37.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.71667,
+            37.85
+        ]
+    }
+}

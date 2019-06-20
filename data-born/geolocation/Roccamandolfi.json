@@ -1,0 +1,27 @@
+{
+    "id": "place.16774164538829370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roccamandolfi",
+    "place_name": "Roccamandolfi, Isernia, Italy",
+    "bbox": [
+        14.276714,
+        41.443358,
+        14.391027,
+        41.521181
+    ],
+    "center": [
+        14.35,
+        41.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.35,
+            41.5
+        ]
+    }
+}

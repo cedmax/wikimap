@@ -1,0 +1,27 @@
+{
+    "id": "place.9500871872296090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Marigliano",
+    "place_name": "Marigliano, Napoli, Italy",
+    "bbox": [
+        14.414655,
+        40.899476,
+        14.480352,
+        40.972394
+    ],
+    "center": [
+        14.45,
+        40.93333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.45,
+            40.93333
+        ]
+    }
+}

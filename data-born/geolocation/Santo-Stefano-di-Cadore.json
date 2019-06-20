@@ -1,0 +1,27 @@
+{
+    "id": "place.13160663725532240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano di Cadore",
+    "place_name": "Santo Stefano di Cadore, Belluno, Italy",
+    "bbox": [
+        12.499159,
+        46.506622,
+        12.732447,
+        46.657104
+    ],
+    "center": [
+        12.55,
+        46.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.55,
+            46.56667
+        ]
+    }
+}

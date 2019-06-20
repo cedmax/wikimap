@@ -1,0 +1,27 @@
+{
+    "id": "place.12123543270854190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carsoli",
+    "place_name": "Carsoli, L'Aquila, Italy",
+    "bbox": [
+        13.024871,
+        42.065457,
+        13.196363,
+        42.177813
+    ],
+    "center": [
+        13.08856,
+        42.09882
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08856,
+            42.09882
+        ]
+    }
+}

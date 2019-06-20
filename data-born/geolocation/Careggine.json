@@ -1,0 +1,27 @@
+{
+    "id": "place.7445044941937400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Careggine",
+    "place_name": "Careggine, Lucca, Italy",
+    "bbox": [
+        10.28581,
+        44.060131,
+        10.345869,
+        44.138928
+    ],
+    "center": [
+        10.32639,
+        44.12083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.32639,
+            44.12083
+        ]
+    }
+}

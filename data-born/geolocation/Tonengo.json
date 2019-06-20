@@ -1,0 +1,27 @@
+{
+    "id": "place.10321532432540590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tonengo",
+    "place_name": "Tonengo, Asti, Italy",
+    "bbox": [
+        7.980553,
+        45.102398,
+        8.022662,
+        45.130035
+    ],
+    "center": [
+        8.00333,
+        45.11861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.00333,
+            45.11861
+        ]
+    }
+}

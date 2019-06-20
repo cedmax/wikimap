@@ -1,0 +1,27 @@
+{
+    "id": "place.11338361199428970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Motteggiana",
+    "place_name": "Motteggiana, Mantova, Italy",
+    "bbox": [
+        10.66679,
+        45.008707,
+        10.846704,
+        45.052492
+    ],
+    "center": [
+        10.76667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76667,
+            45.03333
+        ]
+    }
+}

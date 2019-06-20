@@ -1,0 +1,27 @@
+{
+    "id": "place.13093952057058440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Diano Castello",
+    "place_name": "Diano Castello, Imperia, Italy",
+    "bbox": [
+        8.039922,
+        43.912814,
+        8.091017,
+        43.939244
+    ],
+    "center": [
+        8.06695,
+        43.92404
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06695,
+            43.92404
+        ]
+    }
+}

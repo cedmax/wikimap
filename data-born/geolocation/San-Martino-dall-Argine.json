@@ -1,0 +1,27 @@
+{
+    "id": "place.16868626832344960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Martino dall'Argine",
+    "place_name": "San Martino dall'Argine, Mantova, Italy",
+    "bbox": [
+        10.491531,
+        45.07361,
+        10.577155,
+        45.119471
+    ],
+    "center": [
+        10.5,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.5,
+            45.1
+        ]
+    }
+}

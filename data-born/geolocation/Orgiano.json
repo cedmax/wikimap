@@ -1,0 +1,27 @@
+{
+    "id": "place.12304494086766690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Orgiano",
+    "place_name": "Orgiano, Vicenza, Italy",
+    "bbox": [
+        11.427742,
+        45.322899,
+        11.495302,
+        45.371188
+    ],
+    "center": [
+        11.46667,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46667,
+            45.35
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3701336463868000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belvedere Ostrense",
+    "place_name": "Belvedere Ostrense, Ancona, Italy",
+    "bbox": [
+        13.116655,
+        43.531609,
+        13.20358,
+        43.604855
+    ],
+    "center": [
+        13.16655,
+        43.58049
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.16655,
+            43.58049
+        ]
+    }
+}

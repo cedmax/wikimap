@@ -1,0 +1,27 @@
+{
+    "id": "place.12020862099943970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castino",
+    "place_name": "Castino, Cuneo, Italy",
+    "bbox": [
+        8.121593,
+        44.596812,
+        8.198614,
+        44.65287
+    ],
+    "center": [
+        8.18333,
+        44.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.18333,
+            44.61667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10533914255948390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Atena Lucana",
+    "place_name": "Atena Lucana, Salerno, Italy",
+    "bbox": [
+        15.514423,
+        40.426541,
+        15.590915,
+        40.487714
+    ],
+    "center": [
+        15.55,
+        40.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.55,
+            40.45
+        ]
+    }
+}

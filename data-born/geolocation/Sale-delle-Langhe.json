@@ -1,0 +1,27 @@
+{
+    "id": "place.8033785402717880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sale delle Langhe",
+    "place_name": "Sale delle Langhe, Cuneo, Italy",
+    "bbox": [
+        8.058791,
+        44.365058,
+        8.121546,
+        44.420344
+    ],
+    "center": [
+        8.08333,
+        44.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.08333,
+            44.4
+        ]
+    }
+}

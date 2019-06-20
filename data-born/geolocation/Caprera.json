@@ -1,0 +1,21 @@
+{
+    "id": "poi.2241972932326",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9642857142857143,
+    "text": "Carrera",
+    "place_name": "Carrera, Villafranca di Verona, Verona 37069, Italy",
+    "center": [
+        10.866917,
+        45.367036
+    ],
+    "geometry": {
+        "coordinates": [
+            10.866917,
+            45.367036
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12017457043055930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ortezzano",
+    "place_name": "Ortezzano, Fermo, Italy",
+    "bbox": [
+        13.589078,
+        43.011827,
+        13.631096,
+        43.045217
+    ],
+    "center": [
+        13.60757,
+        43.03149
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.60757,
+            43.03149
+        ]
+    }
+}

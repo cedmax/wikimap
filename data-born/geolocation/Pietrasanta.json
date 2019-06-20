@@ -1,0 +1,27 @@
+{
+    "id": "place.9257223911390310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pietrasanta",
+    "place_name": "Pietrasanta, Lucca, Italy",
+    "bbox": [
+        10.16697,
+        43.910157,
+        10.275875,
+        44.013754
+    ],
+    "center": [
+        10.23333,
+        43.96667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23333,
+            43.96667
+        ]
+    }
+}

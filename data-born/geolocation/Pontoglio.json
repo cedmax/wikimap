@@ -1,0 +1,27 @@
+{
+    "id": "place.11542326467287890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pontoglio",
+    "place_name": "Pontoglio, Brescia, Italy",
+    "bbox": [
+        9.836217,
+        45.539891,
+        9.879206,
+        45.586576
+    ],
+    "center": [
+        9.85,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            45.56667
+        ]
+    }
+}

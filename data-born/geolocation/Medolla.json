@@ -1,0 +1,27 @@
+{
+    "id": "place.4696681068805380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Medolla",
+    "place_name": "Medolla, Modena, Italy",
+    "bbox": [
+        11.032367,
+        44.806665,
+        11.114599,
+        44.874403
+    ],
+    "center": [
+        11.0709,
+        44.8485
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.0709,
+            44.8485
+        ]
+    }
+}

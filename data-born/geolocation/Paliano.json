@@ -1,0 +1,27 @@
+{
+    "id": "place.10116651017653580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paliano",
+    "place_name": "Paliano, Frosinone, Italy",
+    "bbox": [
+        12.992395,
+        41.718718,
+        13.108771,
+        41.832299
+    ],
+    "center": [
+        13.05,
+        41.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.05,
+            41.8
+        ]
+    }
+}

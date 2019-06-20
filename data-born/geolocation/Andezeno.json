@@ -1,0 +1,27 @@
+{
+    "id": "place.13729473722625060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Andezeno",
+    "place_name": "Andezeno, Torino, Italy",
+    "bbox": [
+        7.846363,
+        45.021142,
+        7.890931,
+        45.052581
+    ],
+    "center": [
+        7.86667,
+        45.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            45.03333
+        ]
+    }
+}

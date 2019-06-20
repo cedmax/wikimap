@@ -1,0 +1,27 @@
+{
+    "id": "place.9766902455227930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Besozzo",
+    "place_name": "Besozzo, Varese, Italy",
+    "bbox": [
+        8.600089,
+        45.833807,
+        8.697579,
+        45.868648
+    ],
+    "center": [
+        8.66667,
+        45.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            45.85
+        ]
+    }
+}

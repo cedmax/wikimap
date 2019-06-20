@@ -1,0 +1,27 @@
+{
+    "id": "place.9990773262327960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Offanengo",
+    "place_name": "Offanengo, Cremona, Italy",
+    "bbox": [
+        9.727284,
+        45.365099,
+        9.772623,
+        45.408163
+    ],
+    "center": [
+        9.73333,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.73333,
+            45.38333
+        ]
+    }
+}

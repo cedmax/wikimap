@@ -1,0 +1,27 @@
+{
+    "id": "place.5348437464152440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Perarolo di Cadore",
+    "place_name": "Perarolo di Cadore, Belluno, Italy",
+    "bbox": [
+        12.32468,
+        46.327099,
+        12.421016,
+        46.410365
+    ],
+    "center": [
+        12.35639,
+        46.39556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.35639,
+            46.39556
+        ]
+    }
+}

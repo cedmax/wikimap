@@ -1,0 +1,27 @@
+{
+    "id": "place.13140139766666890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bovolone",
+    "place_name": "Bovolone, Verona, Italy",
+    "bbox": [
+        11.062875,
+        45.222266,
+        11.168526,
+        45.317501
+    ],
+    "center": [
+        11.13333,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            45.25
+        ]
+    }
+}

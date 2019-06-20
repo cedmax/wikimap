@@ -1,0 +1,27 @@
+{
+    "id": "place.7789946958358310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gussola",
+    "place_name": "Gussola, Cremona, Italy",
+    "bbox": [
+        10.310441,
+        44.96491,
+        10.367457,
+        45.0467
+    ],
+    "center": [
+        10.35,
+        45.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.35,
+            45.01667
+        ]
+    }
+}

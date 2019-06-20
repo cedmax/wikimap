@@ -1,0 +1,27 @@
+{
+    "id": "place.7743005972455340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel del Rio",
+    "place_name": "Castel del Rio, Bologna, Italy",
+    "bbox": [
+        11.421222,
+        44.155405,
+        11.56207,
+        44.250567
+    ],
+    "center": [
+        11.50417,
+        44.21389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.50417,
+            44.21389
+        ]
+    }
+}

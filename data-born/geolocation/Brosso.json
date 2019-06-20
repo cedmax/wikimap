@@ -1,0 +1,27 @@
+{
+    "id": "place.2007428697011050",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Brosso",
+    "place_name": "Brosso, Torino, Italy",
+    "bbox": [
+        7.700222,
+        45.483652,
+        7.819851,
+        45.545045
+    ],
+    "center": [
+        7.8,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.8,
+            45.5
+        ]
+    }
+}

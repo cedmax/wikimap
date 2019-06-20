@@ -1,0 +1,27 @@
+{
+    "id": "place.16299314114675600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tresigallo",
+    "place_name": "Tresigallo, Ferrara, Italy",
+    "bbox": [
+        11.867473,
+        44.776818,
+        11.95519,
+        44.837297
+    ],
+    "center": [
+        11.89472,
+        44.81598
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.89472,
+            44.81598
+        ]
+    }
+}

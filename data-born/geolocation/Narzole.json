@@ -1,0 +1,27 @@
+{
+    "id": "place.10033993580739150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Narzole",
+    "place_name": "Narzole, Cuneo, Italy",
+    "bbox": [
+        7.8226,
+        44.569317,
+        7.922113,
+        44.624264
+    ],
+    "center": [
+        7.86667,
+        44.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            44.6
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7326217568241540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ponte nelle Alpi",
+    "place_name": "Ponte nelle Alpi, Belluno, Italy",
+    "bbox": [
+        12.229915,
+        46.093624,
+        12.343346,
+        46.223944
+    ],
+    "center": [
+        12.2791,
+        46.183
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2791,
+            46.183
+        ]
+    }
+}

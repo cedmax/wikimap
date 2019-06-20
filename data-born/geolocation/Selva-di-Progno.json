@@ -1,0 +1,27 @@
+{
+    "id": "place.9991887964126100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Selva di Progno",
+    "place_name": "Selva di Progno, Verona, Italy",
+    "bbox": [
+        11.102268,
+        45.590995,
+        11.197649,
+        45.696969
+    ],
+    "center": [
+        11.13333,
+        45.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.13333,
+            45.61667
+        ]
+    }
+}

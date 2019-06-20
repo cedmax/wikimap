@@ -1,0 +1,27 @@
+{
+    "id": "place.7408511382293010",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dronero",
+    "place_name": "Dronero, Cuneo, Italy",
+    "bbox": [
+        7.229549,
+        44.424407,
+        7.44535,
+        44.486975
+    ],
+    "center": [
+        7.36667,
+        44.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.36667,
+            44.46667
+        ]
+    }
+}

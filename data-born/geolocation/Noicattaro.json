@@ -1,0 +1,27 @@
+{
+    "id": "place.8025777703593330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Noicattaro",
+    "place_name": "Noicattaro, Bari, Italy",
+    "bbox": [
+        16.941017,
+        40.990292,
+        17.039239,
+        41.087412
+    ],
+    "center": [
+        16.98333,
+        41.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.98333,
+            41.03333
+        ]
+    }
+}

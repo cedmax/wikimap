@@ -1,0 +1,27 @@
+{
+    "id": "place.3124569665604940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Corneliano d'Alba",
+    "place_name": "Corneliano d'Alba, Cuneo, Italy",
+    "bbox": [
+        7.927559,
+        44.719317,
+        8.003686,
+        44.750349
+    ],
+    "center": [
+        7.95,
+        44.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95,
+            44.73333
+        ]
+    }
+}

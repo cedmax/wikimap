@@ -1,0 +1,21 @@
+{
+    "id": "address.1779108366",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Incisa in Val D'arno",
+    "place_name": "via Incisa in Val D'arno, 00138 Roma Roma, Italy",
+    "center": [
+        12.509796,
+        41.979676
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.509796,
+            41.979676
+        ]
+    }
+}

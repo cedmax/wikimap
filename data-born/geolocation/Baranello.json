@@ -1,0 +1,27 @@
+{
+    "id": "place.3893858724394790",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Baranello",
+    "place_name": "Baranello, Campobasso, Italy",
+    "bbox": [
+        14.525884,
+        41.502344,
+        14.613056,
+        41.556381
+    ],
+    "center": [
+        14.55,
+        41.53333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.55,
+            41.53333
+        ]
+    }
+}

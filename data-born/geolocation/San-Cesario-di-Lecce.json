@@ -1,0 +1,21 @@
+{
+    "id": "poi.1760936675421",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "South",
+    "place_name": "South, Via Giuseppe Libertini, 16-20, Lecce, Lecce 73100, Italy",
+    "center": [
+        18.166042,
+        40.351626
+    ],
+    "geometry": {
+        "coordinates": [
+            18.166042,
+            40.351626
+        ],
+        "type": "Point"
+    }
+}

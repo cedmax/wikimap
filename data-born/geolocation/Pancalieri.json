@@ -1,0 +1,27 @@
+{
+    "id": "place.6658468076004730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pancalieri",
+    "place_name": "Pancalieri, Torino, Italy",
+    "bbox": [
+        7.545986,
+        44.805695,
+        7.620598,
+        44.862381
+    ],
+    "center": [
+        7.58333,
+        44.83333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.58333,
+            44.83333
+        ]
+    }
+}

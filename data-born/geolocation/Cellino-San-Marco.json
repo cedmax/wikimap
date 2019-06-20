@@ -1,0 +1,27 @@
+{
+    "id": "place.17794371914396650",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cellino San Marco",
+    "place_name": "Cellino San Marco, Brindisi, Italy",
+    "bbox": [
+        17.8791,
+        40.454286,
+        17.99152,
+        40.517629
+    ],
+    "center": [
+        17.96667,
+        40.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.96667,
+            40.46667
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.2619930110585",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9583333333333333,
+    "text": "L'Acino",
+    "place_name": "L'Acino, Via San Domenico 2, Torino, Torino 10122, Italy",
+    "center": [
+        7.681759,
+        45.074313
+    ],
+    "geometry": {
+        "coordinates": [
+            7.681759,
+            45.074313
+        ],
+        "type": "Point"
+    }
+}

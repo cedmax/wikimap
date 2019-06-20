@@ -1,0 +1,27 @@
+{
+    "id": "place.5714522488668100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trinitapoli",
+    "place_name": "Trinitapoli, Barletta-Andria-Trani, Italy",
+    "bbox": [
+        15.937038,
+        41.281095,
+        16.20106,
+        41.441393
+    ],
+    "center": [
+        16.1,
+        41.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.1,
+            41.35
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10565799847203300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Casirate d'Adda",
+    "place_name": "Casirate d'Adda, Bergamo, Italy",
+    "bbox": [
+        9.518052,
+        45.483705,
+        9.587605,
+        45.516142
+    ],
+    "center": [
+        9.56667,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.56667,
+            45.5
+        ]
+    }
+}

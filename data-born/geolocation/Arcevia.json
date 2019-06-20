@@ -1,0 +1,27 @@
+{
+    "id": "place.10023647621590880",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcevia",
+    "place_name": "Arcevia, Ancona, Italy",
+    "bbox": [
+        12.872141,
+        43.448753,
+        13.028094,
+        43.598869
+    ],
+    "center": [
+        12.9396,
+        43.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.9396,
+            43.48333
+        ]
+    }
+}

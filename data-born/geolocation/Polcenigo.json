@@ -1,0 +1,27 @@
+{
+    "id": "place.5508584929673360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Polcenigo",
+    "place_name": "Polcenigo, Pordenone, Italy",
+    "bbox": [
+        12.410309,
+        45.995453,
+        12.544775,
+        46.089477
+    ],
+    "center": [
+        12.5,
+        46.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5,
+            46.03333
+        ]
+    }
+}

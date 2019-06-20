@@ -1,0 +1,27 @@
+{
+    "id": "place.2660012635265780",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Carovigno",
+    "place_name": "Carovigno, Brindisi, Italy",
+    "bbox": [
+        17.620392,
+        40.644136,
+        17.806207,
+        40.768499
+    ],
+    "center": [
+        17.65944,
+        40.70722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.65944,
+            40.70722
+        ]
+    }
+}

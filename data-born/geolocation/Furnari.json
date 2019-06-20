@@ -1,0 +1,27 @@
+{
+    "id": "place.12404707446758760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Furnari",
+    "place_name": "Furnari, Messina, Italy",
+    "bbox": [
+        15.088018,
+        38.076768,
+        15.136028,
+        38.130679
+    ],
+    "center": [
+        15.11667,
+        38.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.11667,
+            38.1
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14450350187822930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnone",
+    "place_name": "Bagnone, Massa-Carrara, Italy",
+    "bbox": [
+        9.966238,
+        44.263542,
+        10.078264,
+        44.386646
+    ],
+    "center": [
+        9.99139,
+        44.31472
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.99139,
+            44.31472
+        ]
+    }
+}

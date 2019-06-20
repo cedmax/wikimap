@@ -1,0 +1,27 @@
+{
+    "id": "place.14402777411585680",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Raddusa",
+    "place_name": "Raddusa, Catania, Italy",
+    "bbox": [
+        14.487809,
+        37.453095,
+        14.56218,
+        37.524317
+    ],
+    "center": [
+        14.53333,
+        37.46667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53333,
+            37.46667
+        ]
+    }
+}

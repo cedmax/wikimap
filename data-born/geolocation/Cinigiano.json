@@ -1,0 +1,27 @@
+{
+    "id": "place.7605802473834530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cinigiano",
+    "place_name": "Cinigiano, Grosseto, Italy",
+    "bbox": [
+        11.271411,
+        42.83142,
+        11.504649,
+        42.971056
+    ],
+    "center": [
+        11.3925,
+        42.89056
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.3925,
+            42.89056
+        ]
+    }
+}

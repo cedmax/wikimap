@@ -1,0 +1,27 @@
+{
+    "id": "place.8325519621066980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montemesola",
+    "place_name": "Montemesola, Taranto, Italy",
+    "bbox": [
+        17.314892,
+        40.527888,
+        17.368362,
+        40.591734
+    ],
+    "center": [
+        17.33333,
+        40.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.33333,
+            40.56667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10040290418552490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rossiglione",
+    "place_name": "Rossiglione, Genova, Italy",
+    "bbox": [
+        8.59761,
+        44.507459,
+        8.740641,
+        44.582959
+    ],
+    "center": [
+        8.66667,
+        44.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.66667,
+            44.56667
+        ]
+    }
+}

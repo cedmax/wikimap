@@ -1,0 +1,21 @@
+{
+    "id": "poi.283467841846",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Abetone",
+    "place_name": "Abetone, Abetone, Pistoia 51021, Italy",
+    "center": [
+        10.665082187500001,
+        44.145580499999994
+    ],
+    "geometry": {
+        "coordinates": [
+            10.665082187500001,
+            44.145580499999994
+        ],
+        "type": "Point"
+    }
+}

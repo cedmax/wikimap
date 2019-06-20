@@ -1,0 +1,27 @@
+{
+    "id": "place.6672225158695530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Borgomasino",
+    "place_name": "Borgomasino, Torino, Italy",
+    "bbox": [
+        7.954106,
+        45.344545,
+        8.012616,
+        45.380613
+    ],
+    "center": [
+        7.98333,
+        45.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98333,
+            45.36667
+        ]
+    }
+}

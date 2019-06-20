@@ -1,0 +1,27 @@
+{
+    "id": "place.6113248792125920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trivigno",
+    "place_name": "Trivigno, Potenza, Italy",
+    "bbox": [
+        15.938638,
+        40.53108,
+        16.022493,
+        40.595684
+    ],
+    "center": [
+        15.98333,
+        40.58333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            40.58333
+        ]
+    }
+}

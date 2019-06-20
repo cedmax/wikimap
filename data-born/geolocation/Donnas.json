@@ -1,0 +1,27 @@
+{
+    "id": "place.18606075820893800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Donnas",
+    "place_name": "Donnas, Valle D'Aosta, Italy",
+    "bbox": [
+        7.689118,
+        45.550226,
+        7.796942,
+        45.625594
+    ],
+    "center": [
+        7.76667,
+        45.6
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.76667,
+            45.6
+        ]
+    }
+}

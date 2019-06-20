@@ -1,0 +1,27 @@
+{
+    "id": "place.8583398612459220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villabate",
+    "place_name": "Villabate, Palermo, Italy",
+    "bbox": [
+        13.430306,
+        38.06492,
+        13.455527,
+        38.092121
+    ],
+    "center": [
+        13.45,
+        38.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.45,
+            38.08333
+        ]
+    }
+}

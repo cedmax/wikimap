@@ -1,0 +1,21 @@
+{
+    "id": "poi.1838246003048",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sesto Al Reghena",
+    "place_name": "Sesto Al Reghena, Sesto al Reghena, Pordenone 33079, Italy",
+    "center": [
+        12.8136935,
+        45.8480655
+    ],
+    "geometry": {
+        "coordinates": [
+            12.8136935,
+            45.8480655
+        ],
+        "type": "Point"
+    }
+}

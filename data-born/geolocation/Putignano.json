@@ -1,0 +1,27 @@
+{
+    "id": "place.19419594116458450",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Putignano",
+    "place_name": "Putignano, Bari, Italy",
+    "bbox": [
+        16.97903,
+        40.800499,
+        17.196292,
+        40.893618
+    ],
+    "center": [
+        17.12254,
+        40.84923
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.12254,
+            40.84923
+        ]
+    }
+}

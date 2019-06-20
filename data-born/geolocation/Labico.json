@@ -1,0 +1,27 @@
+{
+    "id": "place.12345783280328430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Labico",
+    "place_name": "Labico, Roma, Italy",
+    "bbox": [
+        12.830096,
+        41.775657,
+        12.893361,
+        41.807623
+    ],
+    "center": [
+        12.88333,
+        41.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.88333,
+            41.78333
+        ]
+    }
+}

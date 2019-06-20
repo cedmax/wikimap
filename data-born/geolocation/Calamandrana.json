@@ -1,0 +1,27 @@
+{
+    "id": "place.7912589193083610",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Calamandrana",
+    "place_name": "Calamandrana, Asti, Italy",
+    "bbox": [
+        8.310809,
+        44.713586,
+        8.368316,
+        44.75607
+    ],
+    "center": [
+        8.33972,
+        44.73806
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.33972,
+            44.73806
+        ]
+    }
+}

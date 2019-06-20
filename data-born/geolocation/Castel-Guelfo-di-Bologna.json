@@ -1,0 +1,27 @@
+{
+    "id": "place.3770107174545150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Guelfo di Bologna",
+    "place_name": "Castel Guelfo di Bologna, Bologna, Italy",
+    "bbox": [
+        11.604936,
+        44.420448,
+        11.732764,
+        44.486727
+    ],
+    "center": [
+        11.68333,
+        44.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.68333,
+            44.43333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4218351132839900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sorgono",
+    "place_name": "Sorgono, Nuoro, Italy",
+    "bbox": [
+        9.004919,
+        39.97194,
+        9.137263,
+        40.053938
+    ],
+    "center": [
+        9.10273,
+        40.0265
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.10273,
+            40.0265
+        ]
+    }
+}

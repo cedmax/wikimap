@@ -1,0 +1,27 @@
+{
+    "id": "place.13308217327204670",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcola",
+    "place_name": "Arcola, La Spezia, Italy",
+    "bbox": [
+        9.879967,
+        44.085803,
+        9.953114,
+        44.131525
+    ],
+    "center": [
+        9.90586,
+        44.11455
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.90586,
+            44.11455
+        ]
+    }
+}

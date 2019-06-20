@@ -1,0 +1,27 @@
+{
+    "id": "place.9605337219429980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Leonessa",
+    "place_name": "Leonessa, Rieti, Italy",
+    "bbox": [
+        12.878775,
+        42.473307,
+        13.117277,
+        42.63913
+    ],
+    "center": [
+        12.96667,
+        42.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.96667,
+            42.56667
+        ]
+    }
+}

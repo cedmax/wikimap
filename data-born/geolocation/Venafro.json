@@ -1,0 +1,27 @@
+{
+    "id": "place.8442626267835020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Venafro",
+    "place_name": "Venafro, Isernia, Italy",
+    "bbox": [
+        13.978373,
+        41.423766,
+        14.106053,
+        41.502501
+    ],
+    "center": [
+        14.05,
+        41.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.05,
+            41.48333
+        ]
+    }
+}

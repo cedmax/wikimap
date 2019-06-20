@@ -1,0 +1,27 @@
+{
+    "id": "place.14740797938932820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Candela",
+    "place_name": "Candela, Foggia, Italy",
+    "bbox": [
+        15.465263,
+        41.086844,
+        15.682144,
+        41.211094
+    ],
+    "center": [
+        15.51667,
+        41.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.51667,
+            41.13333
+        ]
+    }
+}

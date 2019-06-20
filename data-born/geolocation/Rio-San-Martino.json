@@ -1,0 +1,21 @@
+{
+    "id": "address.1516959250",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Rio San Martino",
+    "place_name": "via Rio San Martino, 35010 Trebaseleghe Padova, Italy",
+    "center": [
+        12.085019,
+        45.598683
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.085019,
+            45.598683
+        ]
+    }
+}

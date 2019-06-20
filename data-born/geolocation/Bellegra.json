@@ -1,0 +1,27 @@
+{
+    "id": "place.14705377508506910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bellegra",
+    "place_name": "Bellegra, Roma, Italy",
+    "bbox": [
+        12.991709,
+        41.859122,
+        13.055344,
+        41.918386
+    ],
+    "center": [
+        13.03333,
+        41.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03333,
+            41.88333
+        ]
+    }
+}

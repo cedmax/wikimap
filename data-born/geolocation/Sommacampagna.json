@@ -1,0 +1,27 @@
+{
+    "id": "place.9104810306595800",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sommacampagna",
+    "place_name": "Sommacampagna, Verona, Italy",
+    "bbox": [
+        10.774698,
+        45.367471,
+        10.916349,
+        45.42836
+    ],
+    "center": [
+        10.85,
+        45.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.85,
+            45.4
+        ]
+    }
+}

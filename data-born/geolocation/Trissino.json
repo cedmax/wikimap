@@ -1,0 +1,27 @@
+{
+    "id": "place.18351127026241330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Trissino",
+    "place_name": "Trissino, Vicenza, Italy",
+    "bbox": [
+        11.289603,
+        45.539083,
+        11.393907,
+        45.587944
+    ],
+    "center": [
+        11.36667,
+        45.56667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.36667,
+            45.56667
+        ]
+    }
+}

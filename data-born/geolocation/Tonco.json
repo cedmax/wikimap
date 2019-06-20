@@ -1,0 +1,27 @@
+{
+    "id": "place.7749544345668320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tonco",
+    "place_name": "Tonco, Asti, Italy",
+    "bbox": [
+        8.158577,
+        45.000933,
+        8.218918,
+        45.043413
+    ],
+    "center": [
+        8.19111,
+        45.02528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.19111,
+            45.02528
+        ]
+    }
+}

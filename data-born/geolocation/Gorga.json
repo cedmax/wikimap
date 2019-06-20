@@ -1,0 +1,27 @@
+{
+    "id": "place.9090694381206060",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gorga",
+    "place_name": "Gorga, Roma, Italy",
+    "bbox": [
+        13.074789,
+        41.614485,
+        13.16117,
+        41.679896
+    ],
+    "center": [
+        13.11667,
+        41.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.11667,
+            41.65
+        ]
+    }
+}

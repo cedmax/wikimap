@@ -1,0 +1,27 @@
+{
+    "id": "place.11557875325769920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Racalmuto",
+    "place_name": "Racalmuto, Agrigento, Italy",
+    "bbox": [
+        13.688526,
+        37.35079,
+        13.827052,
+        37.440246
+    ],
+    "center": [
+        13.73472,
+        37.40833
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.73472,
+            37.40833
+        ]
+    }
+}

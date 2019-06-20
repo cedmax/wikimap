@@ -1,0 +1,27 @@
+{
+    "id": "place.15580119936699090",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rovito",
+    "place_name": "Rovito, Cosenza, Italy",
+    "bbox": [
+        16.285493,
+        39.284155,
+        16.370307,
+        39.335781
+    ],
+    "center": [
+        16.3211,
+        39.308
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3211,
+            39.308
+        ]
+    }
+}

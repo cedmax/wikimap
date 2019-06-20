@@ -1,0 +1,27 @@
+{
+    "id": "place.13483850996413410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Fratello",
+    "place_name": "San Fratello, Messina, Italy",
+    "bbox": [
+        14.559196,
+        37.903243,
+        14.675642,
+        38.047753
+    ],
+    "center": [
+        14.59744,
+        38.01279
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.59744,
+            38.01279
+        ]
+    }
+}

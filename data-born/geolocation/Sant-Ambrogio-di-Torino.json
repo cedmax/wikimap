@@ -1,0 +1,27 @@
+{
+    "id": "place.12768995387086170",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Ambrogio di Torino",
+    "place_name": "Sant'Ambrogio di Torino, Torino, Italy",
+    "bbox": [
+        7.337523,
+        45.083512,
+        7.390166,
+        45.111874
+    ],
+    "center": [
+        7.36667,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.36667,
+            45.1
+        ]
+    }
+}

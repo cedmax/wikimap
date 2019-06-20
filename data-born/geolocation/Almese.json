@@ -1,0 +1,27 @@
+{
+    "id": "place.14120923982061290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Almese",
+    "place_name": "Almese, Torino, Italy",
+    "bbox": [
+        7.385564,
+        45.09936,
+        7.455645,
+        45.14046
+    ],
+    "center": [
+        7.4,
+        45.11667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.4,
+            45.11667
+        ]
+    }
+}

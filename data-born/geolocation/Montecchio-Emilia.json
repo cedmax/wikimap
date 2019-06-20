@@ -1,0 +1,27 @@
+{
+    "id": "place.2119817162877490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montecchio Emilia",
+    "place_name": "Montecchio Emilia, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.418534,
+        44.674025,
+        10.502663,
+        44.743138
+    ],
+    "center": [
+        10.44861,
+        44.69861
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.44861,
+            44.69861
+        ]
+    }
+}

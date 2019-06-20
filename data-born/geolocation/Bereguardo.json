@@ -1,0 +1,27 @@
+{
+    "id": "place.12488104574129000",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bereguardo",
+    "place_name": "Bereguardo, Pavia, Italy",
+    "bbox": [
+        8.979559,
+        45.226698,
+        9.045321,
+        45.277877
+    ],
+    "center": [
+        9.03333,
+        45.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.25
+        ]
+    }
+}

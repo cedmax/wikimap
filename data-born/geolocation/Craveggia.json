@@ -1,0 +1,27 @@
+{
+    "id": "place.10696952960141430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Craveggia",
+    "place_name": "Craveggia, Verbano-Cusio-Ossola, Italy",
+    "bbox": [
+        8.461447,
+        46.119764,
+        8.545522,
+        46.233197
+    ],
+    "center": [
+        8.5,
+        46.13333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.5,
+            46.13333
+        ]
+    }
+}

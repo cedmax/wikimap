@@ -1,0 +1,27 @@
+{
+    "id": "place.13202226557022990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tufo",
+    "place_name": "Tufo, Avellino, Italy",
+    "bbox": [
+        14.786282,
+        40.99263,
+        14.845739,
+        41.027295
+    ],
+    "center": [
+        14.81667,
+        41.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.81667,
+            41.01667
+        ]
+    }
+}

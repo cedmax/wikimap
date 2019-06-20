@@ -1,0 +1,27 @@
+{
+    "id": "place.7808578803977480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mazara del Vallo",
+    "place_name": "Mazara del Vallo, Trapani, Italy",
+    "bbox": [
+        12.517437,
+        37.575216,
+        12.760648,
+        37.803587
+    ],
+    "center": [
+        12.58751,
+        37.65166
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.58751,
+            37.65166
+        ]
+    }
+}

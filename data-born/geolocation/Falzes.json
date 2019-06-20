@@ -1,0 +1,29 @@
+{
+    "id": "place.11007464077750540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Falzes - Pfalzen",
+    "place_name": "Falzes - Pfalzen, Bolzano, Italy",
+    "matching_text": "Falzes",
+    "matching_place_name": "Falzes, Bolzano, Italy",
+    "bbox": [
+        11.8421,
+        46.796811,
+        11.91652,
+        46.867266
+    ],
+    "center": [
+        11.88333,
+        46.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.88333,
+            46.81667
+        ]
+    }
+}

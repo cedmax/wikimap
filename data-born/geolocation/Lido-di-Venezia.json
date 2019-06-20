@@ -1,0 +1,21 @@
+{
+    "id": "poi.1717986984320",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Lido di Venezia",
+    "place_name": "Lido di Venezia, Venezia, Venezia 30126, Italy",
+    "center": [
+        12.369022,
+        45.417218
+    ],
+    "geometry": {
+        "coordinates": [
+            12.369022,
+            45.417218
+        ],
+        "type": "Point"
+    }
+}

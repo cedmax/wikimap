@@ -1,0 +1,21 @@
+{
+    "id": "address.393750630",
+    "type": "Feature",
+    "place_type": [
+        "address"
+    ],
+    "relevance": 1,
+    "text": "via Carbonara Di Bari",
+    "place_name": "via Carbonara Di Bari, 70131 Bari Bari, Italy",
+    "center": [
+        16.872337,
+        41.072514
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.872337,
+            41.072514
+        ]
+    }
+}

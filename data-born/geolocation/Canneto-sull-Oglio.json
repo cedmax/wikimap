@@ -1,0 +1,27 @@
+{
+    "id": "place.5509825124673860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canneto sull'Oglio",
+    "place_name": "Canneto sull'Oglio, Mantova, Italy",
+    "bbox": [
+        10.32764,
+        45.129908,
+        10.422333,
+        45.195217
+    ],
+    "center": [
+        10.38333,
+        45.15
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.38333,
+            45.15
+        ]
+    }
+}

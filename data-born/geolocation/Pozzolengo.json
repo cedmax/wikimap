@@ -1,0 +1,27 @@
+{
+    "id": "place.14022925803788460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pozzolengo",
+    "place_name": "Pozzolengo, Brescia, Italy",
+    "bbox": [
+        10.584381,
+        45.382232,
+        10.655847,
+        45.443572
+    ],
+    "center": [
+        10.63389,
+        45.40694
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63389,
+            45.40694
+        ]
+    }
+}

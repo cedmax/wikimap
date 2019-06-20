@@ -1,0 +1,27 @@
+{
+    "id": "place.17809369421042490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sgonico",
+    "place_name": "Sgonico, Trieste, Italy",
+    "bbox": [
+        13.699132,
+        45.700173,
+        13.78961,
+        45.769249
+    ],
+    "center": [
+        13.75,
+        45.73333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.75,
+            45.73333
+        ]
+    }
+}

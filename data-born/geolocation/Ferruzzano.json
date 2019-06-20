@@ -1,0 +1,27 @@
+{
+    "id": "place.9727054977313860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ferruzzano",
+    "place_name": "Ferruzzano, Reggio Di Calabria, Italy",
+    "bbox": [
+        16.056526,
+        37.99875,
+        16.140743,
+        38.055103
+    ],
+    "center": [
+        16.08333,
+        38.03333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.08333,
+            38.03333
+        ]
+    }
+}

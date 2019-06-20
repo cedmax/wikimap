@@ -1,0 +1,27 @@
+{
+    "id": "place.14004108357692740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Granze",
+    "place_name": "Granze, Padova, Italy",
+    "bbox": [
+        11.689185,
+        45.137172,
+        11.750855,
+        45.171186
+    ],
+    "center": [
+        11.71667,
+        45.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71667,
+            45.18333
+        ]
+    }
+}

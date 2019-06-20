@@ -1,0 +1,27 @@
+{
+    "id": "place.8396855952426330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Riparbella",
+    "place_name": "Riparbella, Pisa, Italy",
+    "bbox": [
+        10.523136,
+        43.323256,
+        10.660832,
+        43.432699
+    ],
+    "center": [
+        10.6,
+        43.36667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            43.36667
+        ]
+    }
+}

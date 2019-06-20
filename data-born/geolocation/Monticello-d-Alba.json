@@ -1,0 +1,27 @@
+{
+    "id": "place.8950117343255350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Monticello d'Alba",
+    "place_name": "Monticello d'Alba, Cuneo, Italy",
+    "bbox": [
+        7.903188,
+        44.689419,
+        7.986312,
+        44.727924
+    ],
+    "center": [
+        7.95,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.95,
+            44.71667
+        ]
+    }
+}

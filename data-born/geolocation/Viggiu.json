@@ -1,0 +1,27 @@
+{
+    "id": "place.11291736089705480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viggiù",
+    "place_name": "Viggiù, Varese, Italy",
+    "bbox": [
+        8.888784,
+        45.840601,
+        8.924132,
+        45.895489
+    ],
+    "center": [
+        8.9,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.86667
+        ]
+    }
+}

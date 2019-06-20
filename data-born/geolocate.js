@@ -21,6 +21,10 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       );
       geoData = mapBoxData;
       const geo = geoData.features[0];
+      if (!geo) {
+        continue
+      }
+
       delete geo.context;
       delete geo.properties;
       fs.writeFileSync(
@@ -28,6 +32,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         JSON.stringify(geo, null, 4),
         "utf-8"
       );
+      
     }
     try {
       geoData.properties = {

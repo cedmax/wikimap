@@ -1,0 +1,27 @@
+{
+    "id": "place.9840293062578770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Alfonsine",
+    "place_name": "Alfonsine, Ravenna, Italy",
+    "bbox": [
+        11.883656,
+        44.492842,
+        12.114746,
+        44.600221
+    ],
+    "center": [
+        12.04111,
+        44.50611
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.04111,
+            44.50611
+        ]
+    }
+}

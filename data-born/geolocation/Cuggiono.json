@@ -1,0 +1,27 @@
+{
+    "id": "place.9034113729059860",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cuggiono",
+    "place_name": "Cuggiono, Milano, Italy",
+    "bbox": [
+        8.756724,
+        45.484108,
+        8.833616,
+        45.529621
+    ],
+    "center": [
+        8.81667,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.81667,
+            45.5
+        ]
+    }
+}

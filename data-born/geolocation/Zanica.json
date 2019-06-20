@@ -1,0 +1,27 @@
+{
+    "id": "place.11143372564150730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zanica",
+    "place_name": "Zanica, Bergamo, Italy",
+    "bbox": [
+        9.667062,
+        45.612653,
+        9.744371,
+        45.659912
+    ],
+    "center": [
+        9.68417,
+        45.63944
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.68417,
+            45.63944
+        ]
+    }
+}

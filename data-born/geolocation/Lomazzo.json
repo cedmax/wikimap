@@ -1,0 +1,27 @@
+{
+    "id": "place.6359781084115080",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lomazzo",
+    "place_name": "Lomazzo, Como, Italy",
+    "bbox": [
+        9.012383,
+        45.666598,
+        9.051214,
+        45.714487
+    ],
+    "center": [
+        9.03333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.03333,
+            45.7
+        ]
+    }
+}

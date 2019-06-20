@@ -1,0 +1,27 @@
+{
+    "id": "place.12948659965609620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vertova",
+    "place_name": "Vertova, Bergamo, Italy",
+    "bbox": [
+        9.769584,
+        45.802962,
+        9.859902,
+        45.857004
+    ],
+    "center": [
+        9.85,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.85,
+            45.81667
+        ]
+    }
+}

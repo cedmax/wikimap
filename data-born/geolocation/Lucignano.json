@@ -1,0 +1,21 @@
+{
+    "id": "poi.3023656993968",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Lucignano",
+    "place_name": "Lucignano, Lucignano, Arezzo 52046, Italy",
+    "center": [
+        11.7455295,
+        43.273641
+    ],
+    "geometry": {
+        "coordinates": [
+            11.7455295,
+            43.273641
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1864015888944",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.9583333333333333,
+    "text": "Savana",
+    "place_name": "Savana, Via Canonica 45, Milano, Milano 20154, Italy",
+    "center": [
+        9.173805,
+        45.479211
+    ],
+    "geometry": {
+        "coordinates": [
+            9.173805,
+            45.479211
+        ],
+        "type": "Point"
+    }
+}

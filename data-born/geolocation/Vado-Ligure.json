@@ -1,0 +1,27 @@
+{
+    "id": "place.8760219194050990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vado Ligure",
+    "place_name": "Vado Ligure, Savona, Italy",
+    "bbox": [
+        8.337706,
+        44.237242,
+        8.449895,
+        44.281952
+    ],
+    "center": [
+        8.43607,
+        44.26917
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43607,
+            44.26917
+        ]
+    }
+}

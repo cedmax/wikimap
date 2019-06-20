@@ -1,0 +1,27 @@
+{
+    "id": "place.12319899928913770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pigna",
+    "place_name": "Pigna, Imperia, Italy",
+    "bbox": [
+        7.581935,
+        43.901547,
+        7.741263,
+        43.998382
+    ],
+    "center": [
+        7.66375,
+        43.93254
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.66375,
+            43.93254
+        ]
+    }
+}

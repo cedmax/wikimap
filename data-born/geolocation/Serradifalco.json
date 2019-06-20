@@ -1,0 +1,27 @@
+{
+    "id": "place.9773300655975720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Serradifalco",
+    "place_name": "Serradifalco, Caltanissetta, Italy",
+    "bbox": [
+        13.821428,
+        37.403134,
+        13.976304,
+        37.497521
+    ],
+    "center": [
+        13.88333,
+        37.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.88333,
+            37.45
+        ]
+    }
+}

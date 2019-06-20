@@ -1,0 +1,27 @@
+{
+    "id": "place.9396644187788490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torrebelvicino",
+    "place_name": "Torrebelvicino, Vicenza, Italy",
+    "bbox": [
+        11.258823,
+        45.689703,
+        11.335142,
+        45.754484
+    ],
+    "center": [
+        11.31667,
+        45.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.31667,
+            45.71667
+        ]
+    }
+}

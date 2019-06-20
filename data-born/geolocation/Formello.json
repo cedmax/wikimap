@@ -1,0 +1,27 @@
+{
+    "id": "place.12395436206448740",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Formello",
+    "place_name": "Formello, Roma, Italy",
+    "bbox": [
+        12.371095,
+        42.025313,
+        12.452859,
+        42.110893
+    ],
+    "center": [
+        12.4,
+        42.08333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.4,
+            42.08333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.14180668095806420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Anzi",
+    "place_name": "Anzi, Potenza, Italy",
+    "bbox": [
+        15.852902,
+        40.483274,
+        15.988903,
+        40.584821
+    ],
+    "center": [
+        15.91667,
+        40.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.91667,
+            40.51667
+        ]
+    }
+}

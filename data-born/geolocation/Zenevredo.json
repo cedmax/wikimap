@@ -1,0 +1,27 @@
+{
+    "id": "place.7875410943721530",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Zenevredo",
+    "place_name": "Zenevredo, Pavia, Italy",
+    "bbox": [
+        9.318902,
+        45.041559,
+        9.359851,
+        45.069385
+    ],
+    "center": [
+        9.33333,
+        45.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.05
+        ]
+    }
+}

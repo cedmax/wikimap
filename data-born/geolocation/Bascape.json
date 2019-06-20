@@ -1,0 +1,27 @@
+{
+    "id": "place.15102797887053850",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bascapè",
+    "place_name": "Bascapè, Pavia, Italy",
+    "bbox": [
+        9.293482,
+        45.270236,
+        9.357545,
+        45.327651
+    ],
+    "center": [
+        9.31667,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.3
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5605664244557560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albissola Marina",
+    "place_name": "Albissola Marina, Savona, Italy",
+    "bbox": [
+        8.47178,
+        44.320631,
+        8.508878,
+        44.343613
+    ],
+    "center": [
+        8.50281,
+        44.32703
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.50281,
+            44.32703
+        ]
+    }
+}

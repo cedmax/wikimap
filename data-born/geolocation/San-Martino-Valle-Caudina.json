@@ -1,0 +1,27 @@
+{
+    "id": "place.6498755794510910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Martino Valle Caudina",
+    "place_name": "San Martino Valle Caudina, Avellino, Italy",
+    "bbox": [
+        14.64013,
+        40.98161,
+        14.700973,
+        41.057634
+    ],
+    "center": [
+        14.6654,
+        41.0266
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.6654,
+            41.0266
+        ]
+    }
+}

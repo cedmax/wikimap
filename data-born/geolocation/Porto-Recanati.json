@@ -1,0 +1,27 @@
+{
+    "id": "place.8145846840829900",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Porto Recanati",
+    "place_name": "Porto Recanati, Macerata, Italy",
+    "bbox": [
+        13.601693,
+        43.399432,
+        13.679764,
+        43.47408
+    ],
+    "center": [
+        13.66489,
+        43.42986
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.66489,
+            43.42986
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8317603090086480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piazza al Serchio",
+    "place_name": "Piazza al Serchio, Lucca, Italy",
+    "bbox": [
+        10.241853,
+        44.157935,
+        10.341322,
+        44.245156
+    ],
+    "center": [
+        10.3,
+        44.18333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.3,
+            44.18333
+        ]
+    }
+}

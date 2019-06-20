@@ -1,0 +1,27 @@
+{
+    "id": "place.15962397820668890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Gemini",
+    "place_name": "San Gemini, Terni, Italy",
+    "bbox": [
+        12.488495,
+        42.57411,
+        12.571128,
+        42.640409
+    ],
+    "center": [
+        12.55,
+        42.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.55,
+            42.61667
+        ]
+    }
+}

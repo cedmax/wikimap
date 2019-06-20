@@ -1,0 +1,27 @@
+{
+    "id": "place.13367564014347020",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Possidonio",
+    "place_name": "San Possidonio, Modena, Italy",
+    "bbox": [
+        10.957863,
+        44.854055,
+        11.037889,
+        44.909959
+    ],
+    "center": [
+        10.99639,
+        44.89167
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.99639,
+            44.89167
+        ]
+    }
+}

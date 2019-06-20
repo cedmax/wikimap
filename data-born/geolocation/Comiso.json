@@ -1,0 +1,27 @@
+{
+    "id": "place.8017241212884550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Comiso",
+    "place_name": "Comiso, Ragusa, Italy",
+    "bbox": [
+        14.530023,
+        36.900786,
+        14.650149,
+        37.040426
+    ],
+    "center": [
+        14.6,
+        36.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.6,
+            36.95
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10255101411882630",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavallino",
+    "place_name": "Cavallino, Lecce, Italy",
+    "bbox": [
+        18.171026,
+        40.263262,
+        18.231524,
+        40.338149
+    ],
+    "center": [
+        18.2,
+        40.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.2,
+            40.31667
+        ]
+    }
+}

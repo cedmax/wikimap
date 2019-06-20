@@ -1,0 +1,27 @@
+{
+    "id": "place.5462017508181400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Lucido",
+    "place_name": "San Lucido, Cosenza, Italy",
+    "bbox": [
+        16.041483,
+        39.280251,
+        16.13136,
+        39.337257
+    ],
+    "center": [
+        16.05,
+        39.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.05,
+            39.31667
+        ]
+    }
+}

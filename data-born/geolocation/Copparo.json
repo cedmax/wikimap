@@ -1,0 +1,27 @@
+{
+    "id": "place.4214483580894540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Copparo",
+    "place_name": "Copparo, Ferrara, Italy",
+    "bbox": [
+        11.738691,
+        44.824427,
+        12.003453,
+        44.959154
+    ],
+    "center": [
+        11.83333,
+        44.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.83333,
+            44.9
+        ]
+    }
+}

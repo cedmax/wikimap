@@ -1,0 +1,27 @@
+{
+    "id": "place.2446850130717400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Tregnago",
+    "place_name": "Tregnago, Verona, Italy",
+    "bbox": [
+        11.115009,
+        45.493764,
+        11.209458,
+        45.56367
+    ],
+    "center": [
+        11.16667,
+        45.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.16667,
+            45.51667
+        ]
+    }
+}

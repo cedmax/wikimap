@@ -1,0 +1,27 @@
+{
+    "id": "place.9177071035825710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canino",
+    "place_name": "Canino, Viterbo, Italy",
+    "bbox": [
+        11.613137,
+        42.371613,
+        11.778634,
+        42.499423
+    ],
+    "center": [
+        11.75194,
+        42.465
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.75194,
+            42.465
+        ]
+    }
+}

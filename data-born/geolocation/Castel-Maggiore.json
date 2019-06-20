@@ -1,0 +1,27 @@
+{
+    "id": "place.2297249885395840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castel Maggiore",
+    "place_name": "Castel Maggiore, Bologna, Italy",
+    "bbox": [
+        11.308223,
+        44.543051,
+        11.414749,
+        44.606835
+    ],
+    "center": [
+        11.36167,
+        44.57778
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.36167,
+            44.57778
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.4845444160435290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Lanzo Torinese",
+    "place_name": "Lanzo Torinese, Torino, Italy",
+    "bbox": [
+        7.44737,
+        45.252236,
+        7.503716,
+        45.291925
+    ],
+    "center": [
+        7.48333,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48333,
+            45.26667
+        ]
+    }
+}

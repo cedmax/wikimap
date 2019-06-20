@@ -1,0 +1,27 @@
+{
+    "id": "place.6268196497535550",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito al Torre",
+    "place_name": "San Vito al Torre, Udine, Italy",
+    "bbox": [
+        13.360284,
+        45.870285,
+        13.402397,
+        45.926213
+    ],
+    "center": [
+        13.36667,
+        45.9
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.36667,
+            45.9
+        ]
+    }
+}

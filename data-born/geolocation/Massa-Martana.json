@@ -1,0 +1,27 @@
+{
+    "id": "place.17114556315740500",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Massa Martana",
+    "place_name": "Massa Martana, Perugia, Italy",
+    "bbox": [
+        12.482993,
+        42.710857,
+        12.588152,
+        42.845458
+    ],
+    "center": [
+        12.51667,
+        42.78333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.51667,
+            42.78333
+        ]
+    }
+}

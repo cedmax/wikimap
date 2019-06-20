@@ -1,0 +1,27 @@
+{
+    "id": "place.8303642081242770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pizzoni",
+    "place_name": "Pizzoni, Vibo Valentia, Italy",
+    "bbox": [
+        16.177116,
+        38.596384,
+        16.305919,
+        38.645698
+    ],
+    "center": [
+        16.25,
+        38.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.25,
+            38.61667
+        ]
+    }
+}

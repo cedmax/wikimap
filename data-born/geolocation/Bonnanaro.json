@@ -1,0 +1,27 @@
+{
+    "id": "place.6117588135213360",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bonnanaro",
+    "place_name": "Bonnanaro, Sassari, Italy",
+    "bbox": [
+        8.745893,
+        40.517671,
+        8.815282,
+        40.570464
+    ],
+    "center": [
+        8.78028,
+        40.53306
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78028,
+            40.53306
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3449194357211410",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Crevalcore",
+    "place_name": "Crevalcore, Bologna, Italy",
+    "bbox": [
+        11.105179,
+        44.688985,
+        11.29312,
+        44.805372
+    ],
+    "center": [
+        11.15,
+        44.71667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.15,
+            44.71667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6948110816351580",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Issogne",
+    "place_name": "Issogne, Valle D'Aosta, Italy",
+    "bbox": [
+        7.60834,
+        45.627818,
+        7.708646,
+        45.682999
+    ],
+    "center": [
+        7.68333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.68333,
+            45.65
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.5180504735627600",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Longobucco",
+    "place_name": "Longobucco, Cosenza, Italy",
+    "bbox": [
+        16.501765,
+        39.368521,
+        16.750039,
+        39.536215
+    ],
+    "center": [
+        16.61667,
+        39.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.61667,
+            39.45
+        ]
+    }
+}

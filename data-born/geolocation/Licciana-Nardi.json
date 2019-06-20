@@ -1,0 +1,27 @@
+{
+    "id": "place.7576379109329430",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Licciana Nardi",
+    "place_name": "Licciana Nardi, Massa-Carrara, Italy",
+    "bbox": [
+        9.953246,
+        44.21892,
+        10.122521,
+        44.357218
+    ],
+    "center": [
+        10.03333,
+        44.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.03333,
+            44.26667
+        ]
+    }
+}

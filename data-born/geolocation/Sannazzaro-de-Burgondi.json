@@ -1,0 +1,27 @@
+{
+    "id": "place.17055588308673840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sannazzaro de' Burgondi",
+    "place_name": "Sannazzaro de' Burgondi, Pavia, Italy",
+    "bbox": [
+        8.875197,
+        45.065286,
+        8.95358,
+        45.123022
+    ],
+    "center": [
+        8.9,
+        45.1
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.9,
+            45.1
+        ]
+    }
+}

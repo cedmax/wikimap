@@ -1,0 +1,27 @@
+{
+    "id": "place.13644232627749990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Roverbella",
+    "place_name": "Roverbella, Mantova, Italy",
+    "bbox": [
+        10.746649,
+        45.216845,
+        10.89793,
+        45.315782
+    ],
+    "center": [
+        10.76667,
+        45.26667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.76667,
+            45.26667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10416664983236110",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castellaneta",
+    "place_name": "Castellaneta, Taranto, Italy",
+    "bbox": [
+        16.810469,
+        40.441449,
+        16.993697,
+        40.723534
+    ],
+    "center": [
+        16.93333,
+        40.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.93333,
+            40.63333
+        ]
+    }
+}

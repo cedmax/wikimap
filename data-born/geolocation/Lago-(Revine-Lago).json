@@ -1,0 +1,27 @@
+{
+    "id": "place.15710304110920930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.6666666666666666,
+    "text": "Revine Lago",
+    "place_name": "Revine Lago, Treviso, Italy",
+    "bbox": [
+        12.185439,
+        45.976184,
+        12.271663,
+        46.027927
+    ],
+    "center": [
+        12.2287,
+        45.9913
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.2287,
+            45.9913
+        ]
+    }
+}

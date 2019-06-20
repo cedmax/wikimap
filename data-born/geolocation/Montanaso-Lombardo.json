@@ -1,0 +1,27 @@
+{
+    "id": "place.7853658810141620",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montanaso Lombardo",
+    "place_name": "Montanaso Lombardo, Lodi, Italy",
+    "bbox": [
+        9.428894,
+        45.323789,
+        9.496419,
+        45.35022
+    ],
+    "center": [
+        9.46972,
+        45.33667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.46972,
+            45.33667
+        ]
+    }
+}

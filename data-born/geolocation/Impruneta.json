@@ -1,0 +1,27 @@
+{
+    "id": "place.11856092119439220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Impruneta",
+    "place_name": "Impruneta, Firenze, Italy",
+    "bbox": [
+        11.187666,
+        43.657304,
+        11.30894,
+        43.734816
+    ],
+    "center": [
+        11.25439,
+        43.68543
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.25439,
+            43.68543
+        ]
+    }
+}

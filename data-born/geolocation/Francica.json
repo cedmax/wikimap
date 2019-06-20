@@ -1,0 +1,27 @@
+{
+    "id": "place.2466233033638130",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Francica",
+    "place_name": "Francica, Vibo Valentia, Italy",
+    "bbox": [
+        16.08694,
+        38.591265,
+        16.15967,
+        38.641769
+    ],
+    "center": [
+        16.1,
+        38.61667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.1,
+            38.61667
+        ]
+    }
+}

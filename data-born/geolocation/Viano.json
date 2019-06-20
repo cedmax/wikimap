@@ -1,0 +1,27 @@
+{
+    "id": "place.10445292380978350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viano",
+    "place_name": "Viano, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.537593,
+        44.5,
+        10.66859,
+        44.591935
+    ],
+    "center": [
+        10.62083,
+        44.54389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.62083,
+            44.54389
+        ]
+    }
+}

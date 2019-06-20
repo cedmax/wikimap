@@ -1,0 +1,27 @@
+{
+    "id": "place.10059056892415760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montodine",
+    "place_name": "Montodine, Cremona, Italy",
+    "bbox": [
+        9.670973,
+        45.254434,
+        9.729617,
+        45.302459
+    ],
+    "center": [
+        9.71667,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.71667,
+            45.28333
+        ]
+    }
+}

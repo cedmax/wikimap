@@ -1,0 +1,27 @@
+{
+    "id": "place.11275879307318240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Solagna",
+    "place_name": "Solagna, Vicenza, Italy",
+    "bbox": [
+        11.68675,
+        45.804166,
+        11.744083,
+        45.875142
+    ],
+    "center": [
+        11.71667,
+        45.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71667,
+            45.81667
+        ]
+    }
+}

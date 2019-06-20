@@ -1,0 +1,21 @@
+{
+    "id": "poi.2774548915140",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Sassocorvaro",
+    "place_name": "Sassocorvaro, Via Roma, Sassocorvaro, Pesaro E Urbino 61028, Italy",
+    "center": [
+        12.4972045,
+        43.781949
+    ],
+    "geometry": {
+        "coordinates": [
+            12.4972045,
+            43.781949
+        ],
+        "type": "Point"
+    }
+}

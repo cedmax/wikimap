@@ -1,0 +1,21 @@
+{
+    "id": "poi.3212635582079",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Borghi",
+    "place_name": "Borghi, Via Emilia Est 366, Modena, Modena 41121, Italy",
+    "center": [
+        10.941798,
+        44.639827
+    ],
+    "geometry": {
+        "coordinates": [
+            10.941798,
+            44.639827
+        ],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12261139530939490",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Vito al Tagliamento",
+    "place_name": "San Vito al Tagliamento, Pordenone, Italy",
+    "bbox": [
+        12.785754,
+        45.876268,
+        12.936856,
+        45.963263
+    ],
+    "center": [
+        12.85556,
+        45.91528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.85556,
+            45.91528
+        ]
+    }
+}

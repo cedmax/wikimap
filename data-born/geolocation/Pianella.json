@@ -1,0 +1,27 @@
+{
+    "id": "place.12317986708715480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pianella",
+    "place_name": "Pianella, Pescara, Italy",
+    "bbox": [
+        13.997767,
+        42.357707,
+        14.125412,
+        42.429002
+    ],
+    "center": [
+        14.05,
+        42.4
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.05,
+            42.4
+        ]
+    }
+}

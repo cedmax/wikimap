@@ -1,0 +1,27 @@
+{
+    "id": "place.5521867114138300",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rocca Pietore",
+    "place_name": "Rocca Pietore, Belluno, Italy",
+    "bbox": [
+        11.838569,
+        46.389489,
+        12.016646,
+        46.477625
+    ],
+    "center": [
+        11.97722,
+        46.43444
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.97722,
+            46.43444
+        ]
+    }
+}

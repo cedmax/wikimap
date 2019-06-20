@@ -1,0 +1,29 @@
+{
+    "id": "place.16193027845239100",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 0.98,
+    "text": "Scena - Schenna",
+    "place_name": "Scena - Schenna, Bolzano, Italy",
+    "matching_text": "Scena",
+    "matching_place_name": "Scena, Bolzano, Italy",
+    "bbox": [
+        11.177685,
+        46.670608,
+        11.284244,
+        46.757237
+    ],
+    "center": [
+        11.18333,
+        46.68333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.18333,
+            46.68333
+        ]
+    }
+}

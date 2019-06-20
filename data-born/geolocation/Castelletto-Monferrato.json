@@ -1,0 +1,27 @@
+{
+    "id": "place.11171943436189930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelletto Monferrato",
+    "place_name": "Castelletto Monferrato, Alessandria, Italy",
+    "bbox": [
+        8.516956,
+        44.956593,
+        8.594762,
+        44.986844
+    ],
+    "center": [
+        8.56556,
+        44.98222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56556,
+            44.98222
+        ]
+    }
+}

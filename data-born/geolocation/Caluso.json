@@ -1,0 +1,27 @@
+{
+    "id": "place.5527364620768420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Caluso",
+    "place_name": "Caluso, Torino, Italy",
+    "bbox": [
+        7.837386,
+        45.244467,
+        7.917887,
+        45.320154
+    ],
+    "center": [
+        7.88333,
+        45.3
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.88333,
+            45.3
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.2758152090259310",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Chieuti",
+    "place_name": "Chieuti, Foggia, Italy",
+    "bbox": [
+        15.100704,
+        41.824005,
+        15.226877,
+        41.928085
+    ],
+    "center": [
+        15.15,
+        41.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.15,
+            41.85
+        ]
+    }
+}

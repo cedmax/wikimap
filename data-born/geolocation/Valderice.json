@@ -1,0 +1,27 @@
+{
+    "id": "place.17509363841893960",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Valderice",
+    "place_name": "Valderice, Trapani, Italy",
+    "bbox": [
+        12.586891,
+        37.985035,
+        12.688201,
+        38.078806
+    ],
+    "center": [
+        12.61667,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.61667,
+            38.05
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.8961410017734910",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnuovo di Garfagnana",
+    "place_name": "Castelnuovo di Garfagnana, Lucca, Italy",
+    "bbox": [
+        10.337932,
+        44.076452,
+        10.45168,
+        44.133563
+    ],
+    "center": [
+        10.40556,
+        44.12194
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.40556,
+            44.12194
+        ]
+    }
+}

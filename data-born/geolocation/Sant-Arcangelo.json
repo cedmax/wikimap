@@ -1,0 +1,27 @@
+{
+    "id": "place.11222329903377840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Sant'Arcangelo",
+    "place_name": "Sant'Arcangelo, Potenza, Italy",
+    "bbox": [
+        16.235751,
+        40.198882,
+        16.376471,
+        40.31021
+    ],
+    "center": [
+        16.26667,
+        40.25
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.26667,
+            40.25
+        ]
+    }
+}

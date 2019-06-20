@@ -1,0 +1,27 @@
+{
+    "id": "place.17887663167000770",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "San Clemente",
+    "place_name": "San Clemente, Rimini, Italy",
+    "bbox": [
+        12.599321,
+        43.904755,
+        12.679555,
+        43.958412
+    ],
+    "center": [
+        12.62694,
+        43.93389
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.62694,
+            43.93389
+        ]
+    }
+}

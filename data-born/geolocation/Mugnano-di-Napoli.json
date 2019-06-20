@@ -1,0 +1,27 @@
+{
+    "id": "place.11818820228692520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mugnano di Napoli",
+    "place_name": "Mugnano di Napoli, Napoli, Italy",
+    "bbox": [
+        14.192034,
+        40.898148,
+        14.226153,
+        40.922081
+    ],
+    "center": [
+        14.20984,
+        40.90936
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.20984,
+            40.90936
+        ]
+    }
+}

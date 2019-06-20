@@ -1,0 +1,23 @@
+{
+    "id": "poi.2422361628824",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Duomo San Lorenzo",
+    "place_name": "Duomo San Lorenzo, Scala, Salerno 84010, Italy",
+    "matching_text": "Scala",
+    "matching_place_name": "Scala, Scala, Salerno 84010, Italy",
+    "center": [
+        14.607956,
+        40.65321
+    ],
+    "geometry": {
+        "coordinates": [
+            14.607956,
+            40.65321
+        ],
+        "type": "Point"
+    }
+}

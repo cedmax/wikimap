@@ -1,0 +1,27 @@
+{
+    "id": "place.10596119014407520",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cava de' Tirreni",
+    "place_name": "Cava de' Tirreni, Salerno, Italy",
+    "bbox": [
+        14.658079,
+        40.67226,
+        14.747881,
+        40.751789
+    ],
+    "center": [
+        14.70556,
+        40.70083
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.70556,
+            40.70083
+        ]
+    }
+}

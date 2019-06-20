@@ -1,0 +1,27 @@
+{
+    "id": "place.10817545434452330",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Genzano di Roma",
+    "place_name": "Genzano di Roma, Roma, Italy",
+    "bbox": [
+        12.664303,
+        41.630709,
+        12.743872,
+        41.714726
+    ],
+    "center": [
+        12.6925,
+        41.70222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.6925,
+            41.70222
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.10768111520786290",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Ventimiglia di Sicilia",
+    "place_name": "Ventimiglia di Sicilia, Palermo, Italy",
+    "bbox": [
+        13.48967,
+        37.902994,
+        13.58714,
+        38.008527
+    ],
+    "center": [
+        13.56667,
+        37.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56667,
+            37.91667
+        ]
+    }
+}

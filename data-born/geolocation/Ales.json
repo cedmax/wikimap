@@ -1,0 +1,21 @@
+{
+    "id": "poi.1786706425804",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Ales",
+    "place_name": "Ales, Ales, Oristano 09091, Italy",
+    "center": [
+        8.81538325,
+        39.767942250000004
+    ],
+    "geometry": {
+        "coordinates": [
+            8.81538325,
+            39.767942250000004
+        ],
+        "type": "Point"
+    }
+}

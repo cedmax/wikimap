@@ -1,0 +1,27 @@
+{
+    "id": "place.15550776462904230",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villata",
+    "place_name": "Villata, Vercelli, Italy",
+    "bbox": [
+        8.399656,
+        45.364627,
+        8.455851,
+        45.411835
+    ],
+    "center": [
+        8.43333,
+        45.38333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.43333,
+            45.38333
+        ]
+    }
+}

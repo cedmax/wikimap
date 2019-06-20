@@ -1,0 +1,27 @@
+{
+    "id": "place.16875584535685350",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Rodigo",
+    "place_name": "Rodigo, Mantova, Italy",
+    "bbox": [
+        10.573903,
+        45.152238,
+        10.694852,
+        45.232298
+    ],
+    "center": [
+        10.63333,
+        45.2
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.63333,
+            45.2
+        ]
+    }
+}

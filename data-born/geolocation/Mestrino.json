@@ -1,0 +1,27 @@
+{
+    "id": "place.9099471338920400",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mestrino",
+    "place_name": "Mestrino, Padova, Italy",
+    "bbox": [
+        11.705122,
+        45.423214,
+        11.785872,
+        45.48125
+    ],
+    "center": [
+        11.76667,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.76667,
+            45.45
+        ]
+    }
+}

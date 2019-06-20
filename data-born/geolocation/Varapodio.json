@@ -1,0 +1,27 @@
+{
+    "id": "place.10171002544949690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Varapodio",
+    "place_name": "Varapodio, Reggio Di Calabria, Italy",
+    "bbox": [
+        15.935694,
+        38.240377,
+        16.066015,
+        38.362167
+    ],
+    "center": [
+        15.98333,
+        38.31667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.98333,
+            38.31667
+        ]
+    }
+}

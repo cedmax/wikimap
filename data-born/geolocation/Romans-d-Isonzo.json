@@ -1,0 +1,27 @@
+{
+    "id": "place.10939101926328830",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Romans d'Isonzo",
+    "place_name": "Romans d'Isonzo, Gorizia, Italy",
+    "bbox": [
+        13.39587,
+        45.87095,
+        13.469803,
+        45.914832
+    ],
+    "center": [
+        13.43333,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43333,
+            45.88333
+        ]
+    }
+}

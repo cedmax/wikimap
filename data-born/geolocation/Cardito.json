@@ -1,0 +1,27 @@
+{
+    "id": "place.8959676569633380",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cardito",
+    "place_name": "Cardito, Napoli, Italy",
+    "bbox": [
+        14.283629,
+        40.926343,
+        14.305967,
+        40.950227
+    ],
+    "center": [
+        14.29925,
+        40.93619
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.29925,
+            40.93619
+        ]
+    }
+}

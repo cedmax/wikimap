@@ -1,0 +1,27 @@
+{
+    "id": "place.1845819308368220",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pico",
+    "place_name": "Pico, Frosinone, Italy",
+    "bbox": [
+        13.511594,
+        41.41418,
+        13.606863,
+        41.477891
+    ],
+    "center": [
+        13.56167,
+        41.45139
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.56167,
+            41.45139
+        ]
+    }
+}

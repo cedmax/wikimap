@@ -1,0 +1,27 @@
+{
+    "id": "place.18095418701798720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Udine",
+    "place_name": "Udine, Udine, Italy",
+    "bbox": [
+        13.184989,
+        46.001866,
+        13.295965,
+        46.116836
+    ],
+    "center": [
+        13.23333,
+        46.06667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.23333,
+            46.06667
+        ]
+    }
+}

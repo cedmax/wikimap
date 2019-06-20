@@ -1,0 +1,27 @@
+{
+    "id": "place.18612632880987840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Mandello del Lario",
+    "place_name": "Mandello del Lario, Lecco, Italy",
+    "bbox": [
+        9.290504,
+        45.861175,
+        9.395621,
+        45.971705
+    ],
+    "center": [
+        9.31667,
+        45.91667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.31667,
+            45.91667
+        ]
+    }
+}

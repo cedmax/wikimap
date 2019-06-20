@@ -1,0 +1,27 @@
+{
+    "id": "place.7297281810515930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Davoli",
+    "place_name": "Davoli, Catanzaro, Italy",
+    "bbox": [
+        16.415401,
+        38.610785,
+        16.557571,
+        38.671026
+    ],
+    "center": [
+        16.48333,
+        38.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.48333,
+            38.65
+        ]
+    }
+}

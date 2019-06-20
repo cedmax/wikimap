@@ -1,0 +1,27 @@
+{
+    "id": "place.3993024220343840",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Albisola Superiore",
+    "place_name": "Albisola Superiore, Savona, Italy",
+    "bbox": [
+        8.413434,
+        44.327602,
+        8.526495,
+        44.396618
+    ],
+    "center": [
+        8.51013,
+        44.3395
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.51013,
+            44.3395
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.12485707251815340",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Farra di Soligo",
+    "place_name": "Farra di Soligo, Treviso, Italy",
+    "bbox": [
+        12.054925,
+        45.877198,
+        12.169929,
+        45.930053
+    ],
+    "center": [
+        12.11667,
+        45.88333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11667,
+            45.88333
+        ]
+    }
+}

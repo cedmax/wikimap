@@ -1,0 +1,27 @@
+{
+    "id": "place.4265352404364190",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cibiana di Cadore",
+    "place_name": "Cibiana di Cadore, Belluno, Italy",
+    "bbox": [
+        12.227799,
+        46.351095,
+        12.314854,
+        46.401309
+    ],
+    "center": [
+        12.28583,
+        46.3875
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.28583,
+            46.3875
+        ]
+    }
+}

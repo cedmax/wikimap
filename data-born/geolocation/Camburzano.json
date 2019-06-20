@@ -1,0 +1,27 @@
+{
+    "id": "place.9942509748616970",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Camburzano",
+    "place_name": "Camburzano, Biella, Italy",
+    "bbox": [
+        7.982355,
+        45.53451,
+        8.017069,
+        45.556297
+    ],
+    "center": [
+        7.98333,
+        45.55
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98333,
+            45.55
+        ]
+    }
+}

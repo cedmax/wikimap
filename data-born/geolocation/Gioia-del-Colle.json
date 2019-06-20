@@ -1,0 +1,27 @@
+{
+    "id": "place.12322153021965460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gioia del Colle",
+    "place_name": "Gioia del Colle, Bari, Italy",
+    "bbox": [
+        16.787363,
+        40.691807,
+        17.035857,
+        40.861215
+    ],
+    "center": [
+        16.93333,
+        40.8
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.93333,
+            40.8
+        ]
+    }
+}

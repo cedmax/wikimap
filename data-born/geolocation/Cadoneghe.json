@@ -1,0 +1,27 @@
+{
+    "id": "place.14656421606005150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cadoneghe",
+    "place_name": "Cadoneghe, Padova, Italy",
+    "bbox": [
+        11.89297,
+        45.436646,
+        11.953597,
+        45.484961
+    ],
+    "center": [
+        11.93333,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.93333,
+            45.45
+        ]
+    }
+}

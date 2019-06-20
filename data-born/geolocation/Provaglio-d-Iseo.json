@@ -1,0 +1,27 @@
+{
+    "id": "place.10470462275653150",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Provaglio d'Iseo",
+    "place_name": "Provaglio d'Iseo, Brescia, Italy",
+    "bbox": [
+        10.017142,
+        45.611224,
+        10.087562,
+        45.651051
+    ],
+    "center": [
+        10.05,
+        45.63333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.05,
+            45.63333
+        ]
+    }
+}

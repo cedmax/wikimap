@@ -1,0 +1,27 @@
+{
+    "id": "place.8464478661510370",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Torre Pellice",
+    "place_name": "Torre Pellice, Torino, Italy",
+    "bbox": [
+        7.152136,
+        44.793772,
+        7.232507,
+        44.84889
+    ],
+    "center": [
+        7.23333,
+        44.81667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.23333,
+            44.81667
+        ]
+    }
+}

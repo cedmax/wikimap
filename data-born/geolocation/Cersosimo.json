@@ -1,0 +1,27 @@
+{
+    "id": "place.13418405200722920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cersosimo",
+    "place_name": "Cersosimo, Potenza, Italy",
+    "bbox": [
+        16.34554,
+        39.997108,
+        16.399629,
+        40.08093
+    ],
+    "center": [
+        16.35,
+        40.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.35,
+            40.05
+        ]
+    }
+}

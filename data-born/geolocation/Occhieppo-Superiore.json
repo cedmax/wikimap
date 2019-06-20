@@ -1,0 +1,27 @@
+{
+    "id": "place.8772157597698870",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Occhieppo Superiore",
+    "place_name": "Occhieppo Superiore, Biella, Italy",
+    "bbox": [
+        7.962346,
+        45.554792,
+        8.025375,
+        45.602806
+    ],
+    "center": [
+        7.989156,
+        45.578297
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.989156,
+            45.578297
+        ]
+    }
+}

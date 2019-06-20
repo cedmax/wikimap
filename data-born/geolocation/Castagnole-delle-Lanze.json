@@ -1,0 +1,27 @@
+{
+    "id": "place.17775815349478700",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castagnole delle Lanze",
+    "place_name": "Castagnole delle Lanze, Asti, Italy",
+    "bbox": [
+        8.095424,
+        44.731421,
+        8.182333,
+        44.783929
+    ],
+    "center": [
+        8.15139,
+        44.75222
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.15139,
+            44.75222
+        ]
+    }
+}

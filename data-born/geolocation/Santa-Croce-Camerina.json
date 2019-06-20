@@ -1,0 +1,27 @@
+{
+    "id": "place.14459743530874920",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santa Croce Camerina",
+    "place_name": "Santa Croce Camerina, Ragusa, Italy",
+    "bbox": [
+        14.463313,
+        36.782235,
+        14.581283,
+        36.861295
+    ],
+    "center": [
+        14.52389,
+        36.82722
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.52389,
+            36.82722
+        ]
+    }
+}

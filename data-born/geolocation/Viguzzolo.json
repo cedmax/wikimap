@@ -1,0 +1,27 @@
+{
+    "id": "place.15255815056946270",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Viguzzolo",
+    "place_name": "Viguzzolo, Alessandria, Italy",
+    "bbox": [
+        8.895522,
+        44.878345,
+        8.957035,
+        44.936712
+    ],
+    "center": [
+        8.92361,
+        44.90528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.92361,
+            44.90528
+        ]
+    }
+}

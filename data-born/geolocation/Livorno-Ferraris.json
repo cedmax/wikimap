@@ -1,0 +1,27 @@
+{
+    "id": "place.13102033516394480",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Livorno Ferraris",
+    "place_name": "Livorno Ferraris, Vercelli, Italy",
+    "bbox": [
+        8.034963,
+        45.220917,
+        8.196057,
+        45.312599
+    ],
+    "center": [
+        8.08333,
+        45.28333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.08333,
+            45.28333
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.6821994333630810",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montereale",
+    "place_name": "Montereale, L'Aquila, Italy",
+    "bbox": [
+        13.156795,
+        42.468464,
+        13.311424,
+        42.5869
+    ],
+    "center": [
+        13.24861,
+        42.52278
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.24861,
+            42.52278
+        ]
+    }
+}

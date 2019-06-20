@@ -1,0 +1,27 @@
+{
+    "id": "place.13475312975862510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castiglione Olona",
+    "place_name": "Castiglione Olona, Varese, Italy",
+    "bbox": [
+        8.846839,
+        45.735791,
+        8.887913,
+        45.77184
+    ],
+    "center": [
+        8.88333,
+        45.75
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88333,
+            45.75
+        ]
+    }
+}

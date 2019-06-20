@@ -1,0 +1,27 @@
+{
+    "id": "place.14389723477859260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fagnano Olona",
+    "place_name": "Fagnano Olona, Varese, Italy",
+    "bbox": [
+        8.845304,
+        45.641626,
+        8.898592,
+        45.681851
+    ],
+    "center": [
+        8.86667,
+        45.66667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86667,
+            45.66667
+        ]
+    }
+}

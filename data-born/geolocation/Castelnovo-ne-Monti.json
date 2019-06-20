@@ -1,0 +1,27 @@
+{
+    "id": "place.11318112005625540",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Castelnovo ne' Monti",
+    "place_name": "Castelnovo ne' Monti, Reggio Nell'Emilia, Italy",
+    "bbox": [
+        10.327925,
+        44.384087,
+        10.485255,
+        44.527919
+    ],
+    "center": [
+        10.4,
+        44.43333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.4,
+            44.43333
+        ]
+    }
+}

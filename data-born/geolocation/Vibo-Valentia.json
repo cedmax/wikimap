@@ -1,0 +1,27 @@
+{
+    "id": "place.8575958435332590",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Vibo Valentia",
+    "place_name": "Vibo Valentia, Vibo Valentia, Italy",
+    "bbox": [
+        16.031521,
+        38.633688,
+        16.154238,
+        38.724748
+    ],
+    "center": [
+        16.0959,
+        38.67528
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.0959,
+            38.67528
+        ]
+    }
+}

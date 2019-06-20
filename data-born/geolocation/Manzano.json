@@ -1,0 +1,27 @@
+{
+    "id": "place.5527578015426930",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Manzano",
+    "place_name": "Manzano, Udine, Italy",
+    "bbox": [
+        13.324081,
+        45.950085,
+        13.431194,
+        46.027931
+    ],
+    "center": [
+        13.38333,
+        45.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.38333,
+            45.98333
+        ]
+    }
+}

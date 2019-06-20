@@ -1,0 +1,27 @@
+{
+    "id": "place.4147336219313820",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Capua",
+    "place_name": "Capua, Caserta, Italy",
+    "bbox": [
+        14.122174,
+        41.087594,
+        14.319298,
+        41.148625
+    ],
+    "center": [
+        14.21389,
+        41.10556
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.21389,
+            41.10556
+        ]
+    }
+}

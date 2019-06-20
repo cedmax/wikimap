@@ -1,0 +1,27 @@
+{
+    "id": "place.14762971720765460",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Villa Santa Lucia",
+    "place_name": "Villa Santa Lucia, Frosinone, Italy",
+    "bbox": [
+        13.747812,
+        41.444148,
+        13.799817,
+        41.527572
+    ],
+    "center": [
+        13.76667,
+        41.51667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.76667,
+            41.51667
+        ]
+    }
+}

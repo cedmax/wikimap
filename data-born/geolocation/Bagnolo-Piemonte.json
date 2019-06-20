@@ -1,0 +1,27 @@
+{
+    "id": "place.9877901869834510",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnolo Piemonte",
+    "place_name": "Bagnolo Piemonte, Cuneo, Italy",
+    "bbox": [
+        7.149233,
+        44.718875,
+        7.349545,
+        44.782995
+    ],
+    "center": [
+        7.31667,
+        44.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.31667,
+            44.76667
+        ]
+    }
+}

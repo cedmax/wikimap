@@ -1,0 +1,27 @@
+{
+    "id": "place.9970222540507390",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Quarona",
+    "place_name": "Quarona, Vercelli, Italy",
+    "bbox": [
+        8.207377,
+        45.744235,
+        8.292324,
+        45.78305
+    ],
+    "center": [
+        8.26667,
+        45.76667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.26667,
+            45.76667
+        ]
+    }
+}

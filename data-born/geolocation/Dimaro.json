@@ -1,0 +1,29 @@
+{
+    "id": "place.10343395654387720",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Dimaro Folgarida",
+    "place_name": "Dimaro Folgarida, Trento, Italy",
+    "matching_text": "Dimaro",
+    "matching_place_name": "Dimaro, Trento, Italy",
+    "bbox": [
+        10.83555,
+        46.250778,
+        10.919878,
+        46.344877
+    ],
+    "center": [
+        10.87704,
+        46.32618
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.87704,
+            46.32618
+        ]
+    }
+}

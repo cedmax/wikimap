@@ -1,0 +1,27 @@
+{
+    "id": "place.12551857591299120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Santo Stefano Ticino",
+    "place_name": "Santo Stefano Ticino, Milano, Italy",
+    "bbox": [
+        8.891089,
+        45.4783,
+        8.934429,
+        45.502808
+    ],
+    "center": [
+        8.91667,
+        45.48333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91667,
+            45.48333
+        ]
+    }
+}

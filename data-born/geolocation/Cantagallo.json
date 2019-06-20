@@ -1,0 +1,27 @@
+{
+    "id": "place.9250065513071990",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cantagallo",
+    "place_name": "Cantagallo, Prato, Italy",
+    "bbox": [
+        11.01144,
+        43.970697,
+        11.191355,
+        44.094816
+    ],
+    "center": [
+        11.08333,
+        44.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08333,
+            44.01667
+        ]
+    }
+}

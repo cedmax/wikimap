@@ -1,0 +1,27 @@
+{
+    "id": "place.10953441101528120",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Militello Rosmarino",
+    "place_name": "Militello Rosmarino, Messina, Italy",
+    "bbox": [
+        14.623961,
+        37.933748,
+        14.685572,
+        38.07353
+    ],
+    "center": [
+        14.68333,
+        38.05
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.68333,
+            38.05
+        ]
+    }
+}

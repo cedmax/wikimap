@@ -1,0 +1,27 @@
+{
+    "id": "place.6882171866672280",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Belcastro",
+    "place_name": "Belcastro, Catanzaro, Italy",
+    "bbox": [
+        16.748092,
+        38.924979,
+        16.920723,
+        39.046888
+    ],
+    "center": [
+        16.78333,
+        39.01667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.78333,
+            39.01667
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.3467639859553440",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Este",
+    "place_name": "Este, Padova, Italy",
+    "bbox": [
+        11.610688,
+        45.178289,
+        11.723987,
+        45.261571
+    ],
+    "center": [
+        11.66667,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.66667,
+            45.23333
+        ]
+    }
+}

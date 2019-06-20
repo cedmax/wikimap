@@ -1,0 +1,27 @@
+{
+    "id": "place.11805771930893690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bibbiena",
+    "place_name": "Bibbiena, Arezzo, Italy",
+    "bbox": [
+        11.785514,
+        43.663303,
+        11.932543,
+        43.808628
+    ],
+    "center": [
+        11.81444,
+        43.6975
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81444,
+            43.6975
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "poi.1932735293708",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 0.5,
+    "text": "San Leonardo",
+    "place_name": "San Leonardo, Badia - Abtei, Bolzano 39036, Italy",
+    "center": [
+        11.8999155,
+        46.611003999999994
+    ],
+    "geometry": {
+        "coordinates": [
+            11.8999155,
+            46.611003999999994
+        ],
+        "type": "Point"
+    }
+}

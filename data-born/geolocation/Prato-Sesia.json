@@ -1,0 +1,27 @@
+{
+    "id": "place.13925630468576240",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Prato Sesia",
+    "place_name": "Prato Sesia, Novara, Italy",
+    "bbox": [
+        8.341118,
+        45.638676,
+        8.398137,
+        45.691792
+    ],
+    "center": [
+        8.38333,
+        45.65
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.38333,
+            45.65
+        ]
+    }
+}

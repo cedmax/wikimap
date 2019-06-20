@@ -1,0 +1,27 @@
+{
+    "id": "place.8773711344548160",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Piossasco",
+    "place_name": "Piossasco, Torino, Italy",
+    "bbox": [
+        7.376917,
+        44.94897,
+        7.510819,
+        45.016447
+    ],
+    "center": [
+        7.46667,
+        44.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.46667,
+            44.98333
+        ]
+    }
+}

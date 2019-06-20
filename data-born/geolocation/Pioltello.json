@@ -1,0 +1,27 @@
+{
+    "id": "place.5076760970698980",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Pioltello",
+    "place_name": "Pioltello, Milano, Italy",
+    "bbox": [
+        9.302169,
+        45.45991,
+        9.348598,
+        45.514979
+    ],
+    "center": [
+        9.33333,
+        45.5
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.33333,
+            45.5
+        ]
+    }
+}

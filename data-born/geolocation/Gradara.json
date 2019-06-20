@@ -1,0 +1,27 @@
+{
+    "id": "place.5354067545068560",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Gradara",
+    "place_name": "Gradara, Pesaro E Urbino, Italy",
+    "bbox": [
+        12.733071,
+        43.914746,
+        12.820469,
+        43.952799
+    ],
+    "center": [
+        12.76965,
+        43.93858
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.76965,
+            43.93858
+        ]
+    }
+}

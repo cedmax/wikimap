@@ -1,0 +1,27 @@
+{
+    "id": "place.10616205916457320",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Izano",
+    "place_name": "Izano, Cremona, Italy",
+    "bbox": [
+        9.736135,
+        45.335608,
+        9.770026,
+        45.370308
+    ],
+    "center": [
+        9.75,
+        45.35
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.75,
+            45.35
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "place.7429179259356260",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Canterano",
+    "place_name": "Canterano, Roma, Italy",
+    "bbox": [
+        13.018217,
+        41.922421,
+        13.056074,
+        41.956839
+    ],
+    "center": [
+        13.03333,
+        41.95
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.03333,
+            41.95
+        ]
+    }
+}

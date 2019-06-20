@@ -1,0 +1,21 @@
+{
+    "id": "poi.3178275833224",
+    "type": "Feature",
+    "place_type": [
+        "poi"
+    ],
+    "relevance": 1,
+    "text": "Barbara",
+    "place_name": "Barbara, Via Marconi 2/A, Ferriere, Piacenza 29024, Italy",
+    "center": [
+        9.499251,
+        44.643281
+    ],
+    "geometry": {
+        "coordinates": [
+            9.499251,
+            44.643281
+        ],
+        "type": "Point"
+    }
+}

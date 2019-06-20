@@ -1,0 +1,27 @@
+{
+    "id": "place.18976220807637690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Paderno Ponchielli",
+    "place_name": "Paderno Ponchielli, Cremona, Italy",
+    "bbox": [
+        9.894192,
+        45.193523,
+        9.95569,
+        45.27285
+    ],
+    "center": [
+        9.93333,
+        45.23333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93333,
+            45.23333
+        ]
+    }
+}

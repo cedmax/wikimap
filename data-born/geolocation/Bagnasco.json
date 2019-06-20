@@ -1,0 +1,27 @@
+{
+    "id": "place.9270883888167940",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Bagnasco",
+    "place_name": "Bagnasco, Cuneo, Italy",
+    "bbox": [
+        8.002376,
+        44.252969,
+        8.090332,
+        44.330919
+    ],
+    "center": [
+        8.04522,
+        44.30412
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.04522,
+            44.30412
+        ]
+    }
+}

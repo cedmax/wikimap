@@ -1,0 +1,27 @@
+{
+    "id": "place.12575685760276420",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Recoaro Terme",
+    "place_name": "Recoaro Terme, Vicenza, Italy",
+    "bbox": [
+        11.135848,
+        45.654164,
+        11.289908,
+        45.731596
+    ],
+    "center": [
+        11.23333,
+        45.7
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.23333,
+            45.7
+        ]
+    }
+}

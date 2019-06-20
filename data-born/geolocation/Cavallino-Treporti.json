@@ -1,0 +1,27 @@
+{
+    "id": "place.10630172787205760",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Cavallino-Treporti",
+    "place_name": "Cavallino-Treporti, Venezia, Italy",
+    "bbox": [
+        12.420427,
+        45.422435,
+        12.585874,
+        45.50353
+    ],
+    "center": [
+        12.45,
+        45.45
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            45.45
+        ]
+    }
+}

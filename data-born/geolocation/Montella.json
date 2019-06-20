@@ -1,0 +1,27 @@
+{
+    "id": "place.12618159354602730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Montella",
+    "place_name": "Montella, Avellino, Italy",
+    "bbox": [
+        14.943985,
+        40.772923,
+        15.082195,
+        40.886431
+    ],
+    "center": [
+        15.01667,
+        40.85
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.01667,
+            40.85
+        ]
+    }
+}

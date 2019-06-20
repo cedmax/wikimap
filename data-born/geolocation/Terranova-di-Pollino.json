@@ -1,0 +1,27 @@
+{
+    "id": "place.15619123176121730",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Terranova di Pollino",
+    "place_name": "Terranova di Pollino, Potenza, Italy",
+    "bbox": [
+        16.189054,
+        39.896003,
+        16.367136,
+        40.027174
+    ],
+    "center": [
+        16.3,
+        39.98333
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.3,
+            39.98333
+        ]
+    }
+}

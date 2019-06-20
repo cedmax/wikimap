@@ -1,0 +1,27 @@
+{
+    "id": "place.12187792408786710",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Fossalta di Piave",
+    "place_name": "Fossalta di Piave, Venezia, Italy",
+    "bbox": [
+        12.484656,
+        45.623469,
+        12.537217,
+        45.668936
+    ],
+    "center": [
+        12.5123,
+        45.6475
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.5123,
+            45.6475
+        ]
+    }
+}

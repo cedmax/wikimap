@@ -1,0 +1,27 @@
+{
+    "id": "place.13468612099828890",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Arcisate",
+    "place_name": "Arcisate, Varese, Italy",
+    "bbox": [
+        8.839081,
+        45.828156,
+        8.895604,
+        45.883943
+    ],
+    "center": [
+        8.86667,
+        45.86667
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.86667,
+            45.86667
+        ]
+    }
+}

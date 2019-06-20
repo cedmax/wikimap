@@ -1,0 +1,27 @@
+{
+    "id": "place.4997735518915690",
+    "type": "Feature",
+    "place_type": [
+        "place"
+    ],
+    "relevance": 1,
+    "text": "Coriano",
+    "place_name": "Coriano, Rimini, Italy",
+    "bbox": [
+        12.506402,
+        43.938803,
+        12.643574,
+        43.996715
+    ],
+    "center": [
+        12.60055,
+        43.96906
+    ],
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.60055,
+            43.96906
+        ]
+    }
+}
