@@ -1,9 +1,18 @@
 import React, { Fragment } from "react";
 import ReactMapGL, { NavigationControl } from "react-map-gl";
+import Toggle from "react-toggle";
 import "./App.css";
 
-const mapStyle = "mapbox://styles/cedmax/cjwxac3el374z1cn3b0r5idkd";
-const mapStyleWCities = "mapbox://styles/cedmax/cjwxawjf41tsj1cnyxcpng4li";
+const dataSources = {
+  related: {
+    mapStyle: "mapbox://styles/cedmax/cjwxac3el374z1cn3b0r5idkd",
+    mapStyleWCities: "mapbox://styles/cedmax/cjwxawjf41tsj1cnyxcpng4li",
+  },
+  born: {
+    mapStyle: "mapbox://styles/cedmax/cjx4s37kg29il1dpc2d1y5vwi",
+    mapStyleWCities: "mapbox://styles/cedmax/cjx4s5h030lxq1cp5o7ykt7dp",
+  },
+};
 
 const Summary = ({ selected }) => (
   <Fragment>
@@ -21,7 +30,8 @@ const Summary = ({ selected }) => (
 export default class Map extends React.Component {
   state = {
     selected: null,
-    mapStyle,
+    mapStyle: dataSources.related.mapStyle,
+    source: "related",
     viewport: {
       width: window.innerWidth,
       height: window.innerHeight,
@@ -35,8 +45,25 @@ export default class Map extends React.Component {
   };
 
   toggleStyle = e => {
+    const { source } = this.state;
+    const { mapStyle, mapStyleWCities } = dataSources[source];
+
     this.setState({
       mapStyle: this.state.mapStyle === mapStyle ? mapStyleWCities : mapStyle,
+    });
+  };
+
+  toggleDataSource = e => {
+    const { source } = this.state;
+    const { mapStyle: currentMapStyle } = dataSources[source];
+
+    const newSource = source === "related" ? "born" : "related";
+    const { mapStyle, mapStyleWCities } = dataSources[newSource];
+
+    this.setState({
+      source: newSource,
+      mapStyle:
+        this.state.mapStyle === currentMapStyle ? mapStyle : mapStyleWCities,
     });
   };
 
@@ -97,6 +124,26 @@ export default class Map extends React.Component {
             <a href="https://cedmax.com" target="__blank">
               cedmax
             </a>
+            <span className="data-source">
+              dati:{" "}
+              <label>
+                <a
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  href="https://it.wikipedia.org/wiki/Categoria:Persone_legate_a_citt%C3%A0_italiane"
+                >
+                  legame
+                </a>{" "}
+                <Toggle icons={false} onChange={this.toggleDataSource} />{" "}
+                <a
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  href="https://it.wikipedia.org/wiki/Categoria:Nati_in_Italia"
+                >
+                  nascita
+                </a>
+              </label>
+            </span>
           </small>
         </h1>
         <div className="nav">
@@ -105,7 +152,7 @@ export default class Map extends React.Component {
             <button
               onClick={this.toggleStyle}
               className={`show-cities mapboxgl-ctrl-icon${
-                this.state.mapStyle === mapStyle
+                this.state.mapStyle === dataSources[this.state.source].mapStyle
                   ? " mapboxgl-ctrl-icon-disabled"
                   : ""
               }`}
