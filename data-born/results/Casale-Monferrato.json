@@ -1,0 +1,810 @@
+{
+    "name": "Casale Monferrato",
+    "people": [
+        {
+            "page": "Giovanna Boda",
+            "pageView": 1816,
+            "total": 1570113
+        },
+        {
+            "page": "Roberto Bolle",
+            "pageView": 347,
+            "total": 1514169
+        },
+        {
+            "page": "Giampaolo Pansa",
+            "pageView": 113,
+            "total": 291056
+        },
+        {
+            "page": "Cesare Maria De Vecchi",
+            "pageView": 58,
+            "total": 90037
+        },
+        {
+            "page": "Ugo Cavallero",
+            "pageView": 44,
+            "total": 69983
+        },
+        {
+            "page": "Ubertino da Casale",
+            "pageView": 32,
+            "total": 63808
+        },
+        {
+            "page": "Ascanio Sobrero",
+            "pageView": 30,
+            "total": 54124
+        },
+        {
+            "page": "Umberto Caligaris",
+            "pageView": 29,
+            "total": 46660
+        },
+        {
+            "page": "Giovanni Lanza",
+            "pageView": 25,
+            "total": 39368
+        },
+        {
+            "page": "Andrea Prevignano",
+            "pageView": 23,
+            "total": 39731
+        },
+        {
+            "page": "Sergio Troiano",
+            "pageView": 19,
+            "total": 30299
+        },
+        {
+            "page": "Massimo Storgato",
+            "pageView": 18,
+            "total": 29529
+        },
+        {
+            "page": "Roberto Rosso (politico)",
+            "pageView": 17,
+            "total": 44329
+        },
+        {
+            "page": "Paolo Cavallone",
+            "pageView": 17,
+            "total": 26902
+        },
+        {
+            "page": "Andrea Romeo (arbitro)",
+            "pageView": 16,
+            "total": 34945
+        },
+        {
+            "page": "Facino Cane",
+            "pageView": 16,
+            "total": 26780
+        },
+        {
+            "page": "Leonardo Bistolfi",
+            "pageView": 16,
+            "total": 24066
+        },
+        {
+            "page": "Caterina Deregibus",
+            "pageView": 14,
+            "total": 40804
+        },
+        {
+            "page": "Mario Bianchi (regista televisivo)",
+            "pageView": 13,
+            "total": 23044
+        },
+        {
+            "page": "Giovanni Martino Spanzotti",
+            "pageView": 10,
+            "total": 15573
+        },
+        {
+            "page": "Natale Palli",
+            "pageView": 9,
+            "total": 14997
+        },
+        {
+            "page": "Sergio Castelletti",
+            "pageView": 8,
+            "total": 12826
+        },
+        {
+            "page": "Marcello Clarich",
+            "pageView": 8,
+            "total": 14697
+        },
+        {
+            "page": "Tommaso De Cristoforis",
+            "pageView": 8,
+            "total": 12622
+        },
+        {
+            "page": "Diego Manetti",
+            "pageView": 8,
+            "total": 14011
+        },
+        {
+            "page": "Mario Negri (accademico)",
+            "pageView": 8,
+            "total": 9959
+        },
+        {
+            "page": "Roberto Vernetti",
+            "pageView": 8,
+            "total": 13307
+        },
+        {
+            "page": "Luigi Canina",
+            "pageView": 7,
+            "total": 10887
+        },
+        {
+            "page": "Giovanni Camerana",
+            "pageView": 7,
+            "total": 10431
+        },
+        {
+            "page": "Giovanni Piana",
+            "pageView": 7,
+            "total": 13281
+        },
+        {
+            "page": "Vittorio Accornero de Testa",
+            "pageView": 7,
+            "total": 10291
+        },
+        {
+            "page": "Eleuterio Pagliano",
+            "pageView": 6,
+            "total": 8809
+        },
+        {
+            "page": "Ettore D'Alessandro",
+            "pageView": 6,
+            "total": 11581
+        },
+        {
+            "page": "Pier Cesare Bori",
+            "pageView": 6,
+            "total": 9834
+        },
+        {
+            "page": "Nicola Roggero",
+            "pageView": 6,
+            "total": 10769
+        },
+        {
+            "page": "Maria Paleologa",
+            "pageView": 6,
+            "total": 9944
+        },
+        {
+            "page": "Enrico Deregibus",
+            "pageView": 5,
+            "total": 8597
+        },
+        {
+            "page": "Filippo Cavalli",
+            "pageView": 5,
+            "total": 7406
+        },
+        {
+            "page": "Mario Giuseppe Losano",
+            "pageView": 5,
+            "total": 7566
+        },
+        {
+            "page": "Luigi Novarese",
+            "pageView": 5,
+            "total": 7945
+        },
+        {
+            "page": "Carlo Grillo",
+            "pageView": 4,
+            "total": 5480
+        },
+        {
+            "page": "Bianca Maria Scapardone",
+            "pageView": 4,
+            "total": 6266
+        },
+        {
+            "page": "Alessandro Della Rovere",
+            "pageView": 4,
+            "total": 7169
+        },
+        {
+            "page": "Fabio Lavagno",
+            "pageView": 4,
+            "total": 6615
+        },
+        {
+            "page": "Egidio Ortona",
+            "pageView": 4,
+            "total": 6592
+        },
+        {
+            "page": "Carlo Vidua",
+            "pageView": 4,
+            "total": 6309
+        },
+        {
+            "page": "Paolo Signorini",
+            "pageView": 4,
+            "total": 6458
+        },
+        {
+            "page": "Riccardo Bianchi",
+            "pageView": 4,
+            "total": 6627
+        },
+        {
+            "page": "Camilla Faà di Bruno",
+            "pageView": 4,
+            "total": 6295
+        },
+        {
+            "page": "Bianca di Monferrato",
+            "pageView": 4,
+            "total": 7160
+        },
+        {
+            "page": "Cristina Bargero",
+            "pageView": 4,
+            "total": 10579
+        },
+        {
+            "page": "Leandro Bisiach",
+            "pageView": 3,
+            "total": 5033
+        },
+        {
+            "page": "Giuseppe Aldo di Ricaldone",
+            "pageView": 3,
+            "total": 4218
+        },
+        {
+            "page": "Giovanni Celoria",
+            "pageView": 3,
+            "total": 3860
+        },
+        {
+            "page": "Alberto Magnaghi",
+            "pageView": 3,
+            "total": 5120
+        },
+        {
+            "page": "Paolo Filippi",
+            "pageView": 3,
+            "total": 4308
+        },
+        {
+            "page": "Violante di Monferrato",
+            "pageView": 3,
+            "total": 5788
+        },
+        {
+            "page": "Ignazio Alessandro Cozio",
+            "pageView": 3,
+            "total": 3866
+        },
+        {
+            "page": "Pier Francesco Guala",
+            "pageView": 3,
+            "total": 4675
+        },
+        {
+            "page": "Luigi Hugues",
+            "pageView": 3,
+            "total": 2256
+        },
+        {
+            "page": "Sofia Paleologa (imperatrice bizantina)",
+            "pageView": 3,
+            "total": 2735
+        },
+        {
+            "page": "Luigi Barbesino",
+            "pageView": 3,
+            "total": 5509
+        },
+        {
+            "page": "Andrea Sandri",
+            "pageView": 2,
+            "total": 2598
+        },
+        {
+            "page": "Luigi Barbano",
+            "pageView": 2,
+            "total": 1929
+        },
+        {
+            "page": "Bernardino Facciotto",
+            "pageView": 2,
+            "total": 2790
+        },
+        {
+            "page": "Eric Ruiu",
+            "pageView": 2,
+            "total": 1285
+        },
+        {
+            "page": "Pietro Fea",
+            "pageView": 2,
+            "total": 948
+        },
+        {
+            "page": "Francesco Ferrero (calciatore)",
+            "pageView": 2,
+            "total": 2104
+        },
+        {
+            "page": "Ferrino (calciatore)",
+            "pageView": 2,
+            "total": 1792
+        },
+        {
+            "page": "Andrea Cecchi",
+            "pageView": 2,
+            "total": 3762
+        },
+        {
+            "page": "Angelo Gallina",
+            "pageView": 2,
+            "total": 2540
+        },
+        {
+            "page": "Giovanni Gallina",
+            "pageView": 2,
+            "total": 3728
+        },
+        {
+            "page": "Paolo Angelino",
+            "pageView": 2,
+            "total": 1495
+        },
+        {
+            "page": "Giovanni Zanni",
+            "pageView": 2,
+            "total": 3059
+        },
+        {
+            "page": "Cecilio Arpesani",
+            "pageView": 2,
+            "total": 2926
+        },
+        {
+            "page": "Ugo Ceresa",
+            "pageView": 2,
+            "total": 2248
+        },
+        {
+            "page": "Marco Botta",
+            "pageView": 2,
+            "total": 2447
+        },
+        {
+            "page": "Italo Rossi (partigiano)",
+            "pageView": 2,
+            "total": 2332
+        },
+        {
+            "page": "Rosanna Gusmano",
+            "pageView": 2,
+            "total": 3679
+        },
+        {
+            "page": "Enrico Roselli",
+            "pageView": 2,
+            "total": 1964
+        },
+        {
+            "page": "Carlo Cozio",
+            "pageView": 2,
+            "total": 2127
+        },
+        {
+            "page": "Riccardo Triglia",
+            "pageView": 2,
+            "total": 2918
+        },
+        {
+            "page": "Giovanni Canna",
+            "pageView": 2,
+            "total": 2486
+        },
+        {
+            "page": "Marcantonio Bobba",
+            "pageView": 2,
+            "total": 3278
+        },
+        {
+            "page": "Giuseppe Lascaris di Ventimiglia",
+            "pageView": 2,
+            "total": 3587
+        },
+        {
+            "page": "Guglielmo Cassinelli",
+            "pageView": 2,
+            "total": 3450
+        },
+        {
+            "page": "Angelo Schiavetta",
+            "pageView": 2,
+            "total": 1878
+        },
+        {
+            "page": "Armando Riso",
+            "pageView": 2,
+            "total": 2589
+        },
+        {
+            "page": "Carlo Evasio Soliva",
+            "pageView": 2,
+            "total": 3768
+        },
+        {
+            "page": "Francesco Ottavio Magnocavalli",
+            "pageView": 2,
+            "total": 2312
+        },
+        {
+            "page": "Andrea Bormida",
+            "pageView": 2,
+            "total": 2204
+        },
+        {
+            "page": "Giovanni Marchese (agronomo)",
+            "pageView": 2,
+            "total": 2199
+        },
+        {
+            "page": "Margherita del Monferrato",
+            "pageView": 2,
+            "total": 2587
+        },
+        {
+            "page": "Giacinto Calderara",
+            "pageView": 2,
+            "total": 2732
+        },
+        {
+            "page": "Carlo Recagno",
+            "pageView": 2,
+            "total": 3377
+        },
+        {
+            "page": "Alberto Mazzucco",
+            "pageView": 2,
+            "total": 1994
+        },
+        {
+            "page": "Vincenzo Provera",
+            "pageView": 2,
+            "total": 2191
+        },
+        {
+            "page": "Carlo Pierangeli",
+            "pageView": 2,
+            "total": 3567
+        },
+        {
+            "page": "Giovanni Giacomo Millo",
+            "pageView": 2,
+            "total": 1984
+        },
+        {
+            "page": "Pietro Bertarelli",
+            "pageView": 2,
+            "total": 2167
+        },
+        {
+            "page": "Silvio Palli",
+            "pageView": 2,
+            "total": 2806
+        },
+        {
+            "page": "Margherita Della Rovere",
+            "pageView": 2,
+            "total": 1980
+        },
+        {
+            "page": "Teodoro Paleologo (cardinale)",
+            "pageView": 2,
+            "total": 2642
+        },
+        {
+            "page": "Marcello Motto",
+            "pageView": 2,
+            "total": 1901
+        },
+        {
+            "page": "Enrichetto Virginio Natta",
+            "pageView": 2,
+            "total": 2214
+        },
+        {
+            "page": "Flaminio Paleologo",
+            "pageView": 2,
+            "total": 3050
+        },
+        {
+            "page": "Giovanni Francesco Biandrate di San Giorgio Aldobrandini",
+            "pageView": 2,
+            "total": 2868
+        },
+        {
+            "page": "Enrico Vialardi di Villanova",
+            "pageView": 2,
+            "total": 3375
+        },
+        {
+            "page": "Giuseppe Volta",
+            "pageView": 2,
+            "total": 4828
+        },
+        {
+            "page": "Paolo Desana",
+            "pageView": 2,
+            "total": 2290
+        },
+        {
+            "page": "Giovanni Brezzi",
+            "pageView": 2,
+            "total": 2517
+        },
+        {
+            "page": "Silvio Ortona",
+            "pageView": 2,
+            "total": 2343
+        },
+        {
+            "page": "Piero Lucca",
+            "pageView": 1,
+            "total": 1075
+        },
+        {
+            "page": "Augusto Olliaro",
+            "pageView": 1,
+            "total": 1164
+        },
+        {
+            "page": "Arnaldo Nebbia",
+            "pageView": 1,
+            "total": 1367
+        },
+        {
+            "page": "Lorenzo Morbelli",
+            "pageView": 1,
+            "total": 1069
+        },
+        {
+            "page": "Giovanni Morbelli",
+            "pageView": 1,
+            "total": 1419
+        },
+        {
+            "page": "Angelo Montiglio",
+            "pageView": 1,
+            "total": 1120
+        },
+        {
+            "page": "Renzo Monti (calciatore 1919)",
+            "pageView": 1,
+            "total": 815
+        },
+        {
+            "page": "Eraldo Patrucco",
+            "pageView": 1,
+            "total": 1482
+        },
+        {
+            "page": "Alfredo Piacibello",
+            "pageView": 1,
+            "total": 1297
+        },
+        {
+            "page": "Pietro Bernotti",
+            "pageView": 1,
+            "total": 1535
+        },
+        {
+            "page": "Oreste Menighetti",
+            "pageView": 1,
+            "total": 1305
+        },
+        {
+            "page": "Eugenio Praga",
+            "pageView": 1,
+            "total": 1282
+        },
+        {
+            "page": "Augusto Battaglieri",
+            "pageView": 1,
+            "total": 1277
+        },
+        {
+            "page": "Ettore Mazzucco",
+            "pageView": 1,
+            "total": 1420
+        },
+        {
+            "page": "Carlo Alberto Quigini Puliga",
+            "pageView": 1,
+            "total": 1083
+        },
+        {
+            "page": "Sara Massarelli",
+            "pageView": 1,
+            "total": 1210
+        },
+        {
+            "page": "Arturo Reverberi",
+            "pageView": 1,
+            "total": 982
+        },
+        {
+            "page": "Luigi Riccio (1901)",
+            "pageView": 1,
+            "total": 1337
+        },
+        {
+            "page": "Cesare Oddone",
+            "pageView": 1,
+            "total": 1515
+        },
+        {
+            "page": "Francesco Lacelli",
+            "pageView": 1,
+            "total": 969
+        },
+        {
+            "page": "Riccardo Isada",
+            "pageView": 1,
+            "total": 1471
+        },
+        {
+            "page": "Hippolyte Hanry",
+            "pageView": 1,
+            "total": 786
+        },
+        {
+            "page": "Paolo Guaschino",
+            "pageView": 1,
+            "total": 1410
+        },
+        {
+            "page": "Alessandro Ghena",
+            "pageView": 1,
+            "total": 1069
+        },
+        {
+            "page": "Girolamo Facciotto",
+            "pageView": 1,
+            "total": 688
+        },
+        {
+            "page": "Renato Rustico",
+            "pageView": 1,
+            "total": 1502
+        },
+        {
+            "page": "Giovanni Enrico",
+            "pageView": 1,
+            "total": 1462
+        },
+        {
+            "page": "Mario Sartorio",
+            "pageView": 1,
+            "total": 1149
+        },
+        {
+            "page": "Candido De Giovanni",
+            "pageView": 1,
+            "total": 1719
+        },
+        {
+            "page": "Evasio Bosso",
+            "pageView": 1,
+            "total": 1525
+        },
+        {
+            "page": "Mario Scrivano (calciatore)",
+            "pageView": 1,
+            "total": 1329
+        },
+        {
+            "page": "Costantino Sereno",
+            "pageView": 1,
+            "total": 1326
+        },
+        {
+            "page": "Giovanni da Casale",
+            "pageView": 1,
+            "total": 1172
+        },
+        {
+            "page": "Luigi Cavasonza",
+            "pageView": 1,
+            "total": 1390
+        },
+        {
+            "page": "Secondo Caire",
+            "pageView": 1,
+            "total": 1236
+        },
+        {
+            "page": "Romolo Castellazzi",
+            "pageView": 1,
+            "total": 1095
+        },
+        {
+            "page": "Isaia Ghiron",
+            "pageView": 1,
+            "total": 1611
+        },
+        {
+            "page": "Ruggero Cane",
+            "pageView": 0,
+            "total": 372
+        },
+        {
+            "page": "Sergio Oliaro",
+            "pageView": 0,
+            "total": 209
+        },
+        {
+            "page": "Walter Becchia",
+            "pageView": 0,
+            "total": 349
+        },
+        {
+            "page": "Lucrezia del Monferrato",
+            "pageView": 0,
+            "total": 306
+        },
+        {
+            "page": "Raffaele Foà",
+            "pageView": 0,
+            "total": 470
+        },
+        {
+            "page": "Leo Levi",
+            "pageView": 0,
+            "total": 766
+        },
+        {
+            "page": "Armando Todeschini",
+            "pageView": 0,
+            "total": 174
+        },
+        {
+            "page": "Piero Carlo Bonzano",
+            "pageView": 0,
+            "total": 1528
+        },
+        {
+            "page": "Giuseppe De Conti",
+            "pageView": 0,
+            "total": 549
+        },
+        {
+            "page": "Balbina Steffenone",
+            "pageView": 0,
+            "total": 288
+        },
+        {
+            "page": "Dario Ravano",
+            "pageView": 0,
+            "total": 165
+        },
+        {
+            "page": "Maria Luisa Garoppo",
+            "pageView": 0,
+            "total": 241
+        }
+    ]
+}

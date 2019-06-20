@@ -1,0 +1,545 @@
+{
+    "name": "Caserta",
+    "people": [
+        {
+            "page": "Marco D'Amore",
+            "pageView": 345,
+            "total": 963024
+        },
+        {
+            "page": "Francesco Tavano",
+            "pageView": 134,
+            "total": 277631
+        },
+        {
+            "page": "Kaos One",
+            "pageView": 117,
+            "total": 188541
+        },
+        {
+            "page": "Enrico Brignola",
+            "pageView": 101,
+            "total": 117540
+        },
+        {
+            "page": "Maria Valtorta",
+            "pageView": 95,
+            "total": 149783
+        },
+        {
+            "page": "Stefano Delle Chiaie (politico)",
+            "pageView": 94,
+            "total": 157838
+        },
+        {
+            "page": "Silvana De Mari",
+            "pageView": 69,
+            "total": 174750
+        },
+        {
+            "page": "Francesco Piccolo",
+            "pageView": 67,
+            "total": 144606
+        },
+        {
+            "page": "Vincenzo Esposito (cestista)",
+            "pageView": 60,
+            "total": 112278
+        },
+        {
+            "page": "Joseph Capriati",
+            "pageView": 45,
+            "total": 103012
+        },
+        {
+            "page": "Enrico Ianniello",
+            "pageView": 44,
+            "total": 130634
+        },
+        {
+            "page": "Ernesto Rossi",
+            "pageView": 42,
+            "total": 90310
+        },
+        {
+            "page": "Alberto Beneduce",
+            "pageView": 42,
+            "total": 64663
+        },
+        {
+            "page": "Gianluca Grava",
+            "pageView": 41,
+            "total": 67703
+        },
+        {
+            "page": "Ferdinando Gentile",
+            "pageView": 38,
+            "total": 107638
+        },
+        {
+            "page": "Alfonso di Borbone-Due Sicilie",
+            "pageView": 33,
+            "total": 51714
+        },
+        {
+            "page": "Fausto Mesolella",
+            "pageView": 33,
+            "total": 92493
+        },
+        {
+            "page": "Maria Amalia di Borbone-Napoli",
+            "pageView": 27,
+            "total": 40727
+        },
+        {
+            "page": "Giulio Douhet",
+            "pageView": 26,
+            "total": 41885
+        },
+        {
+            "page": "Mario Morcone",
+            "pageView": 25,
+            "total": 50216
+        },
+        {
+            "page": "Carolina di Borbone-Due Sicilie",
+            "pageView": 21,
+            "total": 32683
+        },
+        {
+            "page": "Roberto De Francesco",
+            "pageView": 20,
+            "total": 47763
+        },
+        {
+            "page": "Raffaele Pucino",
+            "pageView": 20,
+            "total": 41758
+        },
+        {
+            "page": "Alberto Pollio",
+            "pageView": 18,
+            "total": 30892
+        },
+        {
+            "page": "Pietro Marcello (regista)",
+            "pageView": 17,
+            "total": 29892
+        },
+        {
+            "page": "Giuseppe Volpecina",
+            "pageView": 16,
+            "total": 26062
+        },
+        {
+            "page": "Maria Annunziata di Borbone-Due Sicilie",
+            "pageView": 16,
+            "total": 26020
+        },
+        {
+            "page": "Gian Domenico Pisapia",
+            "pageView": 15,
+            "total": 29283
+        },
+        {
+            "page": "Luciano Scarpa",
+            "pageView": 14,
+            "total": 29803
+        },
+        {
+            "page": "Ferruccio Spinetti",
+            "pageView": 12,
+            "total": 20402
+        },
+        {
+            "page": "Franco Marcelletti",
+            "pageView": 11,
+            "total": 17614
+        },
+        {
+            "page": "Giulio Antonio Santori",
+            "pageView": 11,
+            "total": 17082
+        },
+        {
+            "page": "Maria Antonia di Borbone-Napoli",
+            "pageView": 10,
+            "total": 15718
+        },
+        {
+            "page": "Mario De Simone",
+            "pageView": 10,
+            "total": 20046
+        },
+        {
+            "page": "Immacolata Gentile",
+            "pageView": 10,
+            "total": 24911
+        },
+        {
+            "page": "Massimo Viglione",
+            "pageView": 10,
+            "total": 17672
+        },
+        {
+            "page": "Emilio Spaziante",
+            "pageView": 9,
+            "total": 18125
+        },
+        {
+            "page": "Giuseppe Mingione",
+            "pageView": 9,
+            "total": 20188
+        },
+        {
+            "page": "Domenico Cecere",
+            "pageView": 8,
+            "total": 12571
+        },
+        {
+            "page": "Maria Rita Saulle",
+            "pageView": 7,
+            "total": 11478
+        },
+        {
+            "page": "Giancarlo Sepe",
+            "pageView": 7,
+            "total": 11793
+        },
+        {
+            "page": "Vincenzo Moretti (calciatore)",
+            "pageView": 6,
+            "total": 10899
+        },
+        {
+            "page": "Antonio Pasquale di Borbone-Spagna",
+            "pageView": 6,
+            "total": 9048
+        },
+        {
+            "page": "Gennaro di Borbone-Due Sicilie",
+            "pageView": 6,
+            "total": 9054
+        },
+        {
+            "page": "Nunzio Malasomma",
+            "pageView": 5,
+            "total": 7950
+        },
+        {
+            "page": "Pasquale di Borbone-Due Sicilie",
+            "pageView": 5,
+            "total": 7661
+        },
+        {
+            "page": "Federigo Verdinois",
+            "pageView": 5,
+            "total": 7583
+        },
+        {
+            "page": "Carlo Marino",
+            "pageView": 4,
+            "total": 6041
+        },
+        {
+            "page": "Virginio Bernardi",
+            "pageView": 4,
+            "total": 6394
+        },
+        {
+            "page": "Giuseppe Buompane",
+            "pageView": 4,
+            "total": 2215
+        },
+        {
+            "page": "Lucia Esposito",
+            "pageView": 4,
+            "total": 3124
+        },
+        {
+            "page": "Eugenio Fizzotti",
+            "pageView": 4,
+            "total": 6453
+        },
+        {
+            "page": "Elisabetta Fiorillo",
+            "pageView": 4,
+            "total": 6284
+        },
+        {
+            "page": "Vincenzo Ferro",
+            "pageView": 4,
+            "total": 7569
+        },
+        {
+            "page": "Margherita Di Rauso",
+            "pageView": 4,
+            "total": 9235
+        },
+        {
+            "page": "Carlo Tito di Borbone-Napoli",
+            "pageView": 4,
+            "total": 6968
+        },
+        {
+            "page": "Gianfranco Salvatore",
+            "pageView": 3,
+            "total": 4256
+        },
+        {
+            "page": "Maria Luisa di Borbone-Due Sicilie",
+            "pageView": 3,
+            "total": 5076
+        },
+        {
+            "page": "Sergio Donadoni (cestista)",
+            "pageView": 3,
+            "total": 5031
+        },
+        {
+            "page": "Massimo Morales",
+            "pageView": 3,
+            "total": 6327
+        },
+        {
+            "page": "Olindo Bitetti",
+            "pageView": 3,
+            "total": 5648
+        },
+        {
+            "page": "Franco Bottari",
+            "pageView": 3,
+            "total": 4520
+        },
+        {
+            "page": "Matteo De Simone",
+            "pageView": 3,
+            "total": 4569
+        },
+        {
+            "page": "Alfredo Arciero",
+            "pageView": 3,
+            "total": 2500
+        },
+        {
+            "page": "Francesco Saverio Salerno",
+            "pageView": 3,
+            "total": 6322
+        },
+        {
+            "page": "Raffaele Verzillo",
+            "pageView": 3,
+            "total": 5428
+        },
+        {
+            "page": "Maurizio Bartocci",
+            "pageView": 3,
+            "total": 1851
+        },
+        {
+            "page": "Americo Porfidia",
+            "pageView": 3,
+            "total": 3910
+        },
+        {
+            "page": "Raffaele Balsamo",
+            "pageView": 3,
+            "total": 3370
+        },
+        {
+            "page": "Francesco Forlani",
+            "pageView": 3,
+            "total": 5308
+        },
+        {
+            "page": "Mario Mercorio",
+            "pageView": 2,
+            "total": 2866
+        },
+        {
+            "page": "Emilia Bove",
+            "pageView": 2,
+            "total": 1276
+        },
+        {
+            "page": "Nello Lorenzetti",
+            "pageView": 2,
+            "total": 1965
+        },
+        {
+            "page": "Romano Montesarchio",
+            "pageView": 2,
+            "total": 2405
+        },
+        {
+            "page": "Emanuele De Cillis",
+            "pageView": 2,
+            "total": 3129
+        },
+        {
+            "page": "Anna Caliendo",
+            "pageView": 2,
+            "total": 2350
+        },
+        {
+            "page": "Carmelo Agnetta",
+            "pageView": 2,
+            "total": 1512
+        },
+        {
+            "page": "Franco Palmieri (scrittore)",
+            "pageView": 2,
+            "total": 2048
+        },
+        {
+            "page": "Costantino Parravano",
+            "pageView": 2,
+            "total": 2564
+        },
+        {
+            "page": "Mario Petrucciani",
+            "pageView": 2,
+            "total": 3343
+        },
+        {
+            "page": "Fabio De Nicola",
+            "pageView": 2,
+            "total": 4290
+        },
+        {
+            "page": "Giorgio Brugnoli",
+            "pageView": 2,
+            "total": 3319
+        },
+        {
+            "page": "Ezio Andolfato",
+            "pageView": 2,
+            "total": 2711
+        },
+        {
+            "page": "Alfonso Marini",
+            "pageView": 2,
+            "total": 3518
+        },
+        {
+            "page": "Alfio Finocchiaro",
+            "pageView": 2,
+            "total": 3307
+        },
+        {
+            "page": "Gilberto Antonio Marselli",
+            "pageView": 2,
+            "total": 2800
+        },
+        {
+            "page": "Raffaele Carpino",
+            "pageView": 2,
+            "total": 2716
+        },
+        {
+            "page": "Vittorio Remino",
+            "pageView": 2,
+            "total": 2916
+        },
+        {
+            "page": "Leopoldo Massimilla",
+            "pageView": 2,
+            "total": 2633
+        },
+        {
+            "page": "Michele Ruta",
+            "pageView": 1,
+            "total": 1416
+        },
+        {
+            "page": "Viviana Giordano",
+            "pageView": 1,
+            "total": 1635
+        },
+        {
+            "page": "Umberto Pierantoni (zoologo)",
+            "pageView": 1,
+            "total": 1388
+        },
+        {
+            "page": "Antonio d'Albero",
+            "pageView": 1,
+            "total": 1499
+        },
+        {
+            "page": "Alfonso De Blasio",
+            "pageView": 1,
+            "total": 1486
+        },
+        {
+            "page": "Giuseppe Santonastaso (1875-1959)",
+            "pageView": 1,
+            "total": 1049
+        },
+        {
+            "page": "Giuseppe Marzano",
+            "pageView": 1,
+            "total": 1629
+        },
+        {
+            "page": "Gennaro Tescione",
+            "pageView": 1,
+            "total": 1543
+        },
+        {
+            "page": "Aniello Gentile",
+            "pageView": 1,
+            "total": 1685
+        },
+        {
+            "page": "Antonino Sabatino",
+            "pageView": 0,
+            "total": 1333
+        },
+        {
+            "page": "Fabio Di Micco",
+            "pageView": 0,
+            "total": 765
+        },
+        {
+            "page": "Attilio del Giudice",
+            "pageView": 0,
+            "total": 344
+        },
+        {
+            "page": "Carmine De Santis",
+            "pageView": 0,
+            "total": 679
+        },
+        {
+            "page": "Mario Marghinotti",
+            "pageView": 0,
+            "total": 163
+        },
+        {
+            "page": "Agostino Santillo",
+            "pageView": 0,
+            "total": 2661
+        },
+        {
+            "page": "Francesco Daniele",
+            "pageView": 0,
+            "total": 854
+        },
+        {
+            "page": "Raffaele D'Argenzio",
+            "pageView": 0,
+            "total": 60
+        },
+        {
+            "page": "Valerio Piccolo",
+            "pageView": 0,
+            "total": 908
+        },
+        {
+            "page": "Giuseppe Emmanuele",
+            "pageView": 0,
+            "total": 202
+        }
+    ]
+}

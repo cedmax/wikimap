@@ -1,0 +1,35 @@
+{
+    "name": "Sala Bolognese",
+    "people": [
+        {
+            "page": "Pirro Cuniberti",
+            "pageView": 4,
+            "total": 8290
+        },
+        {
+            "page": "Augusto Masetti",
+            "pageView": 4,
+            "total": 6393
+        },
+        {
+            "page": "Mauro Zani",
+            "pageView": 4,
+            "total": 6647
+        },
+        {
+            "page": "Enrico Bonazzi",
+            "pageView": 2,
+            "total": 2208
+        },
+        {
+            "page": "Walter Masetti",
+            "pageView": 2,
+            "total": 3424
+        },
+        {
+            "page": "Primo Franchini",
+            "pageView": 0,
+            "total": 898
+        }
+    ]
+}
