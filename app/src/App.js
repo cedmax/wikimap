@@ -111,7 +111,7 @@ export default class Map extends React.Component {
         }}
         mapStyle={this.state.mapStyle}
         style={this.state.style}
-        mapboxApiAccessToken="pk.eyJ1IjoiY2VkbWF4IiwiYSI6ImNpenBrZDhkazAwMTUyd255cWpocjFpMmYifQ.OBuGt4CZx9oezTqD0-JYaw"
+        mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         {...this.state.viewport}
         onViewportChange={viewport => {
           this.setState({ viewport });

@@ -3,3 +3,8 @@ data/tmp/*
 data/*.json
 data-born/tmp/*
 data-born/*.json
+
+# Local environment files (keep examples tracked)
+.env
+.env.*
+!.env.example
