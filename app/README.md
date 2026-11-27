@@ -18,6 +18,10 @@ Run this from the repository root (use `cd data-born` for the other script). The
 
 After deploying the new browser token, revoke or rotate the old hardcoded tokens once any other consumers have migrated; removing them from current source does not remove them from Git history.
 
+## Node.js version
+
+Use Node.js 22 (see `.nvmrc`) for local development and Netlify builds. Netlify's current extensions require a modern Node runtime. The existing Create React App 3 / webpack 4 toolchain still requires the temporary OpenSSL legacy provider for development and production compilation; the start and build commands enable it only for those React scripts. Remove this workaround when modernising the build toolchain.
+
 ## Available Scripts
 
 In the project directory, you can run:
