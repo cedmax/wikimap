@@ -14,10 +14,16 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
     if (fs.existsSync(`./geolocation/${keys[i]}.json`)) {
       geoData = require(`./geolocation/${keys[i]}.json`);
     } else {
+      const token = process.env.MAPBOX_GEOCODING_TOKEN;
+      if (!token) {
+        console.error("Set MAPBOX_GEOCODING_TOKEN to geocode uncached cities.");
+        process.exitCode = 1;
+        return;
+      }
       const { data: mapBoxData } = await axios.get(
         `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(
           data.name
-        )}%20Italy.json?access_token=pk.eyJ1IjoiY2VkbWF4IiwiYSI6ImNpenBrZDhkazAwMTUyd255cWpocjFpMmYifQ.OBuGt4CZx9oezTqD0-JYaw`
+        )}%20Italy.json?access_token=${encodeURIComponent(token)}`
       );
       geoData = mapBoxData;
       const geo = geoData.features[0];
